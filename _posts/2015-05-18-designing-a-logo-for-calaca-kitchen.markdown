@@ -4,6 +4,7 @@ title:  "Designing a logo for Calaca Kitchen"
 date:   2015-05-18 15:16:00
 categories: design open
 ---
+
 Some friends of mine are starting a market stall where they’ll be selling Mexican food (mainly burritos). They’ve asked me to design them a logo and some graphics for a vinyl banner. I’ll blog about the process in the open here…
 
 ## 12th May 2015
