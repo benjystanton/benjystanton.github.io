@@ -40,7 +40,7 @@ Speaking at events is hard, but every now and then I push myself into it. Here a
 - BlogConf Conference, October 2014
 - Cross Gov Design Meet-up, September 2015
 
-## @ide projects
+## Side projects
 
 - Design Swansea
 - Web Animation Resources
