@@ -1,10 +1,8 @@
 ---
-title: Design Is an Actual Job
-author: benjystanton
 layout: post
-permalink: /blog/design-is-an-actual-job/
-categories:
-  - Design
+title: Design Is an Actual Job
+date: 2012-10-07 05:13:00
+categories: design
 ---
 I&#8217;m currently reading &#8216;Design Is a Job&#8217; by Mike Monteiro. It&#8217;s a great book, and I&#8217;d recommend it to anyone working in design. Mike&#8217;s a web designer, but I&#8217;m sure his thoughts and stories could relate to any design sector.
 

@@ -1,12 +1,11 @@
 ---
-title: Designing User Experience in Casinos
-author: benjystanton
 layout: post
-permalink: /blog/designing-user-experience-in-casinos/
-categories:
-  - Design
+title: "Designing User Experience in Casinos"
+date:   2010-10-18 21:34:00
+categories: design ux
 ---
-What can I learn from Las Vegas? Apart from the fact that I’m addicted to cheese burgers and penny slots, I tried to think about how Las Vegas was designed. After all, Las Vegas is 100% artificial, everything there is man-made.
+
+What can I learn from Las Vegas? Apart from the fact that I’m addicted to cheese burgers and penny slots, I tried to think about how Las Vegas was designed. After all, it's 100% artificial, everything there is man-made.
 
 <!--more-->
 
@@ -16,7 +15,7 @@ Airports are masterful at moving thousands of people in the right direction whil
 
 ## Navigating a casino
 
-Las Vegas is almost the complete opposite. The signage in the casinos is “weak”. It’s easy to find the slot machines but if you want the exit, or even some food, you really have to pay attention and keep focused. They are designed to keep people inside, spending money.
+Las Vegas is almost the complete opposite. The signage in the casinos is intentionally misleading. It’s easy to find the slot machines but if you want the exit, or even some food, you really have to pay attention and keep focused. They are designed to keep people inside, spending money.
 
 ## So why doesn’t poor navigation annoy casino users?
 
@@ -30,6 +29,6 @@ And the customer service is great. Drinks and refills are always available. If y
 
 ## Applying this to web design
 
-I was reminded of an article I read on the 37 Signals blog a few years ago, called The casino experience. They examine this subject in more detail and it’s a great read. 37 Signals are well known for creating popular web-based apps, designed to meet people’s needs by putting user experience at the forefront.
+I was reminded of an article I read on the 37 Signals blog a few years ago, called [The Casino Experience](https://signalvnoise.com/archives2/the_casino_experience.php). They examine this subject in more detail and it’s a great read. 37 Signals are well known for creating popular web-based apps, designed to meet people’s needs by putting user experience at the forefront.
 
 I’m not suggesting we take some of the slightly under-handed techniques used in casinos and simply apply them to our websites, but we can certainly learn something by examining the “immersive and compelling customer experiences” that casinos create.
