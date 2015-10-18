@@ -169,7 +169,6 @@
 
     h2 {
         font-size: 32px;
-        margin-top: $spacing-unit * 1;
 
         @include media-query($on-laptop) {
             font-size: 28px;
