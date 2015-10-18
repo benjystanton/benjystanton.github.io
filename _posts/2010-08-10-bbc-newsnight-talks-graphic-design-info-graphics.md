@@ -1,11 +1,10 @@
 ---
-title: 'BBC Newsnight Talks Graphic Design &#038; Info Graphics'
-author: benjystanton
 layout: post
-permalink: /blog/bbc-newsnight-talks-graphic-design-info-graphics/
-categories:
-  - Design
+title: "BBC Newsnight Talks Graphic Design &#038; Info Graphics"
+date:   2010-08-10 12:46:00
+categories: design
 ---
+
 It was great to watch graphic design being discussed on the telly last night.
 
 The BBC’s Newsnight program hosted a discussion on how politics might adopt better graphic design to help people understand complex or perhaps even boring ideas.
