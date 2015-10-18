@@ -1,8 +1,9 @@
 ---
-title: Testimonials
-author: benjystanton
 layout: page
+title: Testimonials
+permalink: /testimonials/
 ---
+
 ## Blue Chip Holidays
 
 > It’s great to work with someone who’s a digital expert as well as a great designer. The solutions he provides show an understanding of our brand and our customers, and essentially, an expert knowledge of how people interact with digital communications.  

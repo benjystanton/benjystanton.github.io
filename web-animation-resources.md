@@ -1,8 +1,9 @@
 ---
-title: Web Animation Resources
-author: benjystanton
 layout: page
+title: Web Animation Resources
+permalink: /web-animation-resources/
 ---
+
 A growing collection of resources to help you get started with animation on the web. Last updated on Friday 20th June 2014.
 
 ## Articles
