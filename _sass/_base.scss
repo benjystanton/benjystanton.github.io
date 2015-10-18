@@ -79,11 +79,11 @@ li {
  * Headings
  */
 h1, h2, h3, h4, h5, h6 {
-font-family: $heading-font-family;
 }
 
 h1 {
-    font-size: 42px;
+    font-family: $heading-font-family;
+    font-size: 48px;
     line-height: 1.2;
 }
 
