@@ -8,7 +8,7 @@
 // Our variables
 $base-font-family: "omnes-pro", Geneva, Tahoma, Verdana, sans-serif;
 $heading-font-family: "quatro-slab", Rockwell, "Courier Bold", Courier, Georgia, Times, "Times New Roman", serif;
-$base-font-size:   18px;
+$base-font-size:   20px;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
 
@@ -19,7 +19,7 @@ $background-color: #fdfdfd;
 $brand-color:      #111;
 
 $grey-color:       #828282;
-$grey-color-light: lighten($grey-color, 40%);
+$grey-color-light: lighten($grey-color, 30%);
 $grey-color-dark:  darken($grey-color, 25%);
 
 // Width of the content area
