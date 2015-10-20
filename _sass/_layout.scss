@@ -5,6 +5,11 @@
     border-bottom: 1px solid $grey-color-light;
     min-height: 56px;
 
+    .wrapper {
+        max-width: none;
+
+    }
+
     a {
         text-decoration: none;
     }
@@ -149,9 +154,6 @@
 /**
  * Posts
  */
-.post-header {
-    margin-bottom: $spacing-unit;
-}
 
 .post-title {
 
