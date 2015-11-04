@@ -85,6 +85,7 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
     font-family: $heading-font-family;
     font-size: 48px;
+    font-weight: 900;
     margin-bottom: $spacing-unit;
 }
 
@@ -186,23 +187,6 @@ pre {
 }
 
 
-
-/**
- * Icons
- */
-.icon {
-
-    > svg {
-        display: inline-block;
-        width: 16px;
-        height: 16px;
-        vertical-align: middle;
-
-        path {
-            fill: $grey-color;
-        }
-    }
-}
 
 /**
  * Table
