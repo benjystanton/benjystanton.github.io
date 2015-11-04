@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Designing User Experience in Casinos"
+title: Designing User Experience in&nbsp;Casinos
 date:   2010-10-18 21:34:00
 categories: design ux
 ---

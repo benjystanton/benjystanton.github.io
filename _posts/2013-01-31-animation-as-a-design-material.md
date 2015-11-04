@@ -1,11 +1,10 @@
 ---
-title: Animation as a Design Material
-author: benjystanton
 layout: post
-permalink: /blog/animation-as-a-design-material/
-categories:
-  - Design
+title: Animation as a Design&nbsp;Material
+date: 2013-01-31 23:21:00
+categories: design animation
 ---
+
 In an excerpt from her book *The Mobile Frontier*, published on Smashing Magazine, Rachel Hinman talks about how animation and movement is becoming a new mobile design material. (In fact, I think much of her article can be applied to web design as a whole, and not just mobile.)
 
 <!--more-->

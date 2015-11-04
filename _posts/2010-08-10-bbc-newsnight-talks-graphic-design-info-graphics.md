@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BBC Newsnight Talks Graphic Design &#038; Info Graphics"
+title: BBC Newsnight Talks Graphic Design &amp; Info Graphics
 date:   2010-08-10 12:46:00
 categories: design
 ---
