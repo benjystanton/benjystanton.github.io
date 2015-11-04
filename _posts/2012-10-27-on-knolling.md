@@ -1,17 +1,10 @@
 ---
-title: On Knolling
-author: benjystanton
 layout: post
-permalink: /blog/on-knolling/
-geo_latitude:
-  - 51.623188
-geo_longitude:
-  - -3.990872
-geo_public:
-  - 1
-categories:
-  - Design
+title: On Knolling
+date: 2012-10-27 22:24:00
+categories: design
 ---
+
 Darren taught me new word this week – knolling – it&#8217;s the act of arranging objects in an orderly fashion. An example might be grouping all the things on your desk and placing them parallel to the edge in a grid-like fashion.
 
 <!--more-->
