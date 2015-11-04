@@ -6,7 +6,7 @@ permalink: /about/
 
 Hi, my name is Benjy and I’m a UX/UI designer, based in Swansea, UK. I design websites, apps and other digital things. I care about making things that look good and work well for the user.
 
-I’m currently freelancing *and* working for [Leadin](http://leadin.co.uk/).
+I’m currently freelancing and working for [Leadin](http://leadin.co.uk/).
 
 ## Skills
 
@@ -39,9 +39,3 @@ Speaking at events is hard, but every now and then I push myself into it. Here a
 - Port80 LocalHost Meet-up, November 2014
 - BlogConf Conference, October 2014
 - Cross Gov Design Meet-up, September 2015
-
-## Side projects
-
-- Design Swansea
-- Web Animation Resources
-- Pretty Shitty City
