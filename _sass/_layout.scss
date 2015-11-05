@@ -15,7 +15,7 @@
 }
 
 .site-title {
-    font-size: 26px;
+    font-size: 18px;
     line-height: 56px;
     margin-bottom: 0;
     float: left;
@@ -29,6 +29,7 @@
 .site-nav {
     float: right;
     line-height: 56px;
+    font-size: 14px;
 
     .page-link {
         color: $text-color;
@@ -52,12 +53,16 @@
     padding: $spacing-unit 0;
     text-align: right;
 
+    @include media-query($on-laptop) {
+            text-align: left;
+        }
+
     .wrapper {
         max-width: none;
     }
 
     a {
-        margin-left: $spacing-unit/2;
+        margin-left: 1em;
     }
 }
 
