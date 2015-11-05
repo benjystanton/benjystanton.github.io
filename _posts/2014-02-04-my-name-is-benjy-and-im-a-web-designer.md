@@ -1,11 +1,10 @@
 ---
-title: My Name Is Benjy and I’m a Web Designer
-author: benjystanton
 layout: post
-permalink: /blog/my-name-is-benjy-and-im-a-web-designer/
-categories:
-  - Design
+title: My Name Is Benjy and I’m a Web Designer
+date: 2014-02-04 10:03:02
+categories: design
 ---
+
 These words have been sitting in my ‘finish up and publish’ pile for almost two years and *finally* I’ve been inspired to do just that this week, after listening to [Unfinished Business][1] and then [The Freelance Web][2]. The idea of reclaiming the role of web design has been spoken about on both shows recently and I think they were inspired by [Dan Rubin][3]’s talk at the recent [MK Geek Night All Dayer][4] (although I didn’t attend).
 
 <!--more-->

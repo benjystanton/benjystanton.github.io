@@ -1,12 +1,10 @@
 ---
-title: Crafting Animation on the Web
-author: benjystanton
 layout: post
-permalink: /blog/crafting-animation-on-the-web/
-categories:
-  - Animation
-  - Design
+title: Crafting Animation on the&nbsp;Web
+date: 2013-05-14 00:53:00
+categories: design animation conferences
 ---
+
 Notes from my talk at Port80 2013, covering animation principles, CSS and workflow plus a link to my infamous Mario Part animation.
 
 <!--more-->
@@ -138,11 +136,13 @@ CSS Animations are made up of 2 main parts; the @Keyframe Rule and the Animation
 
 The @Keyframe Rule is basically a list a frames that show what properties that you want to animate and in what order. I don&#8217;t recommend that you try the following example out by the way, it will not look pretty.
 
-0% { color: crimson; }  
-25% { color: sandybrown; }  
-50% { color: gold; }  
-75% { color: lawngreen; }  
-100% { color: steelblue; }
+{% highlight css %}
+0%   {color: crimson;}  
+25%  {color: sandybrown;}  
+50%  {color: gold;}  
+75%  {color: lawngreen;}  
+100% {color: steelblue;}
+{% endhighlight %}
 
 ### Animation Property
 
@@ -167,7 +167,6 @@ Luckily, there are some really great tools on the web that we can use to draw cu
 These tools are brilliant as they let you quickly test and revise timing and duration, plus you can create custom curves then copy and paste cubic-bezier values. They really take a lot of the pain and guess work out of animating, and I use them regularly.
 
 > Easing is one of those things that web designers don’t talk about enough.
-> 
 > <cite>—Val Head</cite>
 
 I think lumping for a default ease-in or ease-out value is like choosing CSS’s default red or blue for your design’s colours. You just wouldn’t do it, any designer worth their salt would spend ages picking the absolute right colour then copying and pasting that value into the CSS. We should be doing the same with easing.

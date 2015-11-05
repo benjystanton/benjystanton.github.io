@@ -1,17 +1,15 @@
 ---
-title: Stickiness and Lumpy Bits
-author: benjystanton
 layout: post
-permalink: /blog/stickiness-and-lumpy-bits/
-categories:
-  - Animation
-  - Design
+title: Stickiness &amp; Lumpy Bits
+date: 2013-05-19 05:50:14
+categories: design animation conferences
 ---
+
 I really enjoyed Andy Davies&#8217; talk on mobile site performance at Port80 2013, but one fact in particular stood out for me&#8230;
 
 <!--more-->
 
-> &#8220;Facebook artificially slowed down scrolling from 60fps to 30fps. User engagement collapsed.&#8221;
+> Facebook artificially slowed down scrolling from 60fps to 30fps. User engagement collapsed.
 
 This is a great example of why animation (or movement) should be considered when designing websites, even if, as designers we aren&#8217;t in complete control of the results.
 

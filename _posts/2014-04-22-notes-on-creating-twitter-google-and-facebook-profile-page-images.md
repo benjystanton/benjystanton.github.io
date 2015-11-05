@@ -1,11 +1,10 @@
 ---
-title: Notes on Creating Twitter, Google+ and Facebook Profile Page Images
-author: benjystanton
 layout: post
-permalink: /blog/notes-on-creating-twitter-google-and-facebook-profile-page-images/
-categories:
-  - Design
+title: Notes on Creating Twitter, Google+ and Facebook Profile Page Images
+date: 2014-04-22 14:09:05
+categories: design
 ---
+
 I&#8217;ve been creating a lot of images for Twitter, Google+ and Facebook profile pages recently. Here are my notes on how to create and upload those images for good results. (Pssst, these things change all the time, so this may be out of date already.)
 
 <!--more-->

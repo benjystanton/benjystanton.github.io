@@ -1,19 +1,15 @@
 ---
-title: 'Why I like to Use &#8220;Smart Quotes&#8221;'
-author: benjystanton
 layout: post
-permalink: /blog/why-i-like-to-use-smart-quotes/
-categories:
-  - Design
-tags:
-  - Typography
+title: Why I like to Use &#8220;Smart Quotes&#8221;
+date: 2013-11-17 09:54:16
+categories: design typography
 ---
+
 Smart quotes are double or single inverted commas, used for marking quotes and apostrophes when writing. They slant or curl to the right or left, unlike dumb quotes which are straight.
 
 <!--more-->
 
 > Don’t use dumb quotes for quotations or apostrophes—the nerds will revolt.
-> 
 > <cite>—Jessica Hische</cite> 
 
 I’ve recently started forcing myself to type smart quotes wherever possible (yes, even when texting my Mum).

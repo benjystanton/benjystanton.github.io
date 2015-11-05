@@ -1,14 +1,10 @@
 ---
-title: Web Design Tools
-author: benjystanton
 layout: post
-permalink: /blog/web-design-tools/
-categories:
-  - Design
-tags:
-  - Tools
-  - Web
+title: Web Design Tools
+date: 2013-11-26 10:31:25
+categories: design tools
 ---
+
 Here is a run down of the tools that make up my web design process. Hopefully it goes without saying that scribbling on paper happens a lot too. I use an iMac, iPad and iPhone, so some of the following will be iOS/OSX only.
 
 <!--more-->

@@ -1,12 +1,10 @@
 ---
-title: User Experience Design
-author: benjystanton
 layout: post
-permalink: /blog/user-experience-design/
-categories:
-  - Design
-  - UX
+title: User Experience Design
+date: 2014-02-17 12:08:30
+categories: design ux
 ---
+
 For me, good user experience design is fundamental to good web design. You can cram in all the features and functionality you want, but unless the experience has been designed well, the user will look elsewhere.
 
 <!--more-->
@@ -14,8 +12,7 @@ For me, good user experience design is fundamental to good web design. You can c
 Likewise, good aesthetics can only take you so far and if they’ve been used to paint over the cracks it will become obvious pretty quickly.
 
 > Designers shooting for usable is like a chef shooting for edible.
-> 
-> <cite>Aarron Walter</cite>
+> <cite>—Aarron Walter</cite>
 
 ## Client interviews
 

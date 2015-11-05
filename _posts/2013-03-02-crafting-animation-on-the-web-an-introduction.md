@@ -1,12 +1,10 @@
 ---
-title: Crafting Animation on the Web (an Introduction)
-author: benjystanton
 layout: post
-permalink: /blog/crafting-animation-on-the-web-an-introduction/
-categories:
-  - Animation
-  - Design
+title: Crafting Animation on the Web (an Introduction)
+date: 2013-03-02 20:51:00
+categories: design animation
 ---
+
 I&#8217;m going to be speaking about animation on the web at Port80 in May. In short, I&#8217;m hoping to answer the following questions&#8230;
 
 <!--more-->

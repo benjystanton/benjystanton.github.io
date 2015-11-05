@@ -1,12 +1,10 @@
 ---
-title: Responsive Email Design
-author: benjystanton
 layout: post
-permalink: /blog/responsive-email-design/
-categories:
-  - Design
-  - Email Design
+title: Responsive Email Design
+date: 2014-04-03 12:26:27
+categories: design email
 ---
+
 Email design a tricky beast. Patchy support for web standards means that we still need to use tables for layout, and strange bugs in mobile, desktop and web email clients means that we can’t rely on having the same support for CSS that we have come to expect from web browsers.
 
 <!--more-->
