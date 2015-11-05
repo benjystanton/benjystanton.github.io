@@ -11,17 +11,17 @@ A friend of mine asked for ideas on learning&nbsp;UX , so [I turned to Twitter][
 
 As Leisa Reichelt hinted at on Twitter; UX is a broad term and it can mean slightly different things to different people (usability, wireframes, user research, interaction design, HCI etc). Nevertheless, these resources should help you if you are just starting out (or even if you’re not)… 
 
-## [Leisa Reichelt:][2]
+## Leisa Reichelt
 
-Leisa is Head of User Research at [Gov.uk][3], and she gave me a huge list of resources to look at…
+[Leisa][2] is Head of User Research at [Gov.uk][3], and she gave me a huge list of resources to look at…
 
   * [So, you’re going to be a user researcher: top tips to get you going][4]
   * [Books that we recommend][5]
   * [Training and education for User Research][6]
 
-## [Andy Budd:][7]
+## Andy Budd
 
-Andy is a User Experience Designer, partner at [Clearleft][8] and curator of [dConstruct][9] and [UX London][10].
+[Andy][7] is a User Experience Designer, partner at [Clearleft][8] and curator of [dConstruct][9] and [UX London][10].
 
 Andy recommend this&nbsp;[User Experience Design Course][11] by General Assembly in London.
 
