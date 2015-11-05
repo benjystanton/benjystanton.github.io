@@ -9,6 +9,17 @@ dl, dd, ol, ul, figure {
 }
 
 
+/**
+ * Box sizing
+ */
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+
 
 /**
  * Basic styling
@@ -31,7 +42,7 @@ h1, h2, h3, h4, h5, h6,
 p, blockquote, pre,
 ul, ol, dl, figure,
 %vertical-rhythm {
-    margin-bottom: $spacing-unit / 2;
+    margin-bottom: $spacing-unit/2;
 }
 
 
@@ -91,7 +102,7 @@ h1 {
 }
 
 small {
-    font-size: 12px;
+    font-size: $small-font-size;
 }
 
 
@@ -102,10 +113,12 @@ small {
 a {
     color: $brand-color;
     text-decoration: none;
-    border-bottom: 1px solid lighten($brand-color, 50%);
+    border-bottom: 1px solid $brand-color;
 
     &:hover {
-        color: lighten($brand-color, 50%);
+        color: darken($brand-color, 10%);
+        border-color: darken($brand-color, 10%);
+        transition: border-color .2s, color .2s;
     }
 }
 
@@ -115,7 +128,7 @@ a {
  * Blockquotes
  */
 blockquote {
-    border-left: 4px solid $grey-color-light;
+    border-left: 4px solid lighten($text-color, 0%);
     padding-left: $spacing-unit / 2;
     font-size: 24px;
     margin: $spacing-unit 0;
@@ -138,7 +151,7 @@ cite {
 pre,
 code {
     font-size: 15px;
-    border: 1px solid $grey-color-light;
+    border: 1px solid lighten($text-color, 50%);
     border-radius: 3px;
     background-color: #eef;
 }
@@ -164,20 +177,12 @@ pre {
  * Wrapper
  */
 .wrapper {
-    max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
-    max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
+    max-width: 1000px;
     margin-right: auto;
     margin-left: auto;
     padding-right: $spacing-unit;
     padding-left: $spacing-unit;
     @extend %clearfix;
-
-    @include media-query($on-laptop) {
-        max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit}));
-        max-width:         calc(#{$content-width} - (#{$spacing-unit}));
-        padding-right: $spacing-unit / 2;
-        padding-left: $spacing-unit / 2;
-    }
 }
 
 
@@ -205,7 +210,7 @@ table {
     border-spacing: 0;
  }
 th, td {
-    border-bottom: 1px solid $grey-color-light;
+    border-bottom: 1px solid lighten($text-color, 90%);
     text-align:left;
     padding:.5em 2em .5em 0;
 }
