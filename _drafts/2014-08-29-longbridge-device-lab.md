@@ -1,12 +1,10 @@
 ---
-title: Longbridge Device Lab
-author: benjystanton
 layout: post
-permalink: /blog/longbridge-device-lab/
-categories:
-  - Design
-  - Open
+title: Longbridge Device Lab
+date: 2014-09-28 20:04:40
+categories: design open
 ---
+
 I’m working with [Ballyhoo][1], a web development agency in Birmingham, to design an identity and website for their upcoming [Open Device Lab][2] called [Longbridge Device Lab][3]. I’ll be using this post to document my design process in the open, so expect it to change a lot.
 
 <!--more-->
