@@ -9,7 +9,8 @@
     }
 
     svg {
-        fill: lighten($text-color, 80%);
+
+        fill: lighten($text-color, 75%);
     }
 
 
@@ -131,9 +132,11 @@
 
     h3 {
         font-size: 26px;
+        margin-top: $spacing-unit;
     }
 
     h4 {
         font-size: 20px;
+        margin-top: $spacing-unit;
     }
 }
