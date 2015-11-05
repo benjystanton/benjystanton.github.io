@@ -21,11 +21,6 @@
     line-height: 56px;
     margin-bottom: 0;
     float: left;
-
-    &,
-    &:visited {
-        color: lighten($text-color, 50%);
-    }
 }
 
 .site-nav {
@@ -38,7 +33,7 @@
         line-height: $base-line-height;
         text-transform: uppercase;
 
-        &:hover {
+        &:hover, &:focus {
             color: darken($brand-color, 10%);
             transition: border-color .2s, color .2s;
         }
