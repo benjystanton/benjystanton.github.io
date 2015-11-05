@@ -1,12 +1,10 @@
 ---
-title: Making responsive HTML emails
-author: benjystanton
 layout: post
-permalink: /blog/making-responsive-html-emails/
-categories:
-  - Design
-  - Email Design
+title: Making responsive HTML emails
+date: 2014-09-28 20:04:40
+categories: design email
 ---
+
 This is a run down of my process for designing, building and testing responsive HTML emails. I’ve also included lots of links to articles and resources for further reading.
 
 <!--more-->

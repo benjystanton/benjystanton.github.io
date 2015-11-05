@@ -1,11 +1,10 @@
 ---
-title: My BlogConf slides
-author: benjystanton
 layout: post
-permalink: /blog/my-blogconf-slides/
-categories:
-  - Design
+title: My BlogConf slides
+date: 2014-10-11 21:01:51
+categories: design conferences
 ---
+
 Last Saturday (4th October) I spoke at [BlogConf][1], an event aimed at bloggers of all levels. The speakers were a mix of bloggers, journalists, photographers and even poets.
 
 <!--more-->
@@ -18,8 +17,7 @@ In the end I decided to base the talk around 3 ideas that have helped me to be
   2. Learn as much as you can about **typography**
   3. Get familiar with **code**
 
-<div style="margin-bottom:5px">
-  <strong> <a href="https://www.slideshare.net/benjystanton/blog-design-at-blogconf" title="Blog Design (at BlogConf)" target="_blank">Blog Design (at BlogConf)</a> </strong> from <strong><a href="http://www.slideshare.net/benjystanton" target="_blank">Benjy Stanton</a></strong>
-</div>
+[Check out my slides][2].
 
  [1]: http://www.blogconf.com/ "BlogConf website"
+ [2]: https://www.slideshare.net/benjystanton/blog-design-at-blogconf "My slides on SlideShare"

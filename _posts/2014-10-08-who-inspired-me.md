@@ -1,11 +1,10 @@
 ---
-title: Who inspired me
-author: benjystanton
 layout: post
-permalink: /blog/who-inspired-me/
-categories:
-  - Personal
+title: Who inspired me
+date: 2014-10-08 13:09:08
+categories: personal
 ---
+
 There are plenty of well known people out there that inspire me, but I thought I’d take this opportunity to thank the two guys who gave me my first break.
 
 <!--more-->

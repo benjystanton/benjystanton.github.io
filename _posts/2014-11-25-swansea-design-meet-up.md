@@ -1,13 +1,11 @@
 ---
-title: Swansea design meet-up
-author: benjystanton
 layout: post
-permalink: /blog/swansea-design-meet-up/
-categories:
-  - Design
-  - Open
+title: Swansea design meet-up
+date: 2014-11-25 9:16:32
+categories: design open
 ---
-I’m planning a **design meet-up in Swansea**. This is a timeline of my notes (expect them to change a lot).
+
+I’m planning a [design meet-up in Swansea][1]. This is a timeline of my notes (expect them to change a lot).
 
 <!--more-->
 

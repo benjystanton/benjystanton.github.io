@@ -1,13 +1,10 @@
 ---
-title: 'Reasons: London'
-author: benjystanton
 layout: post
-permalink: /blog/reasonslondon/
-categories:
-  - Conferences
-  - Design
-  - UX
+title: Reasons&#58; London
+date: 2015-02-22 21:26:01
+categories: conferences design ux
 ---
+
 This a quick write up of my experience at [Reasons:London][1] this weekend (Friday 20th February).
 
 <!--more-->
