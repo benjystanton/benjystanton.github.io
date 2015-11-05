@@ -55,13 +55,17 @@
     .wrapper {
         max-width: none;
     }
+
+    a {
+        margin-left: $spacing-unit/2;
+    }
 }
 
 /**
  * Page content
  */
 .page-content {
-    padding: $spacing-unit * 2 0;
+    padding: $spacing-unit*2 0;
 }
 
 .page-heading {
