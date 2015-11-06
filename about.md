@@ -10,11 +10,11 @@ I’m currently freelancing and working for [Leadin](http://leadin.co.uk/).
 
 ## Skills
 
-- User Interface (UI) Design
-- User Experience (UX) Design
-- HTML / CSS
+- User Interface (UI) design
+- User Experience (UX) design
+- Graphic design
+- HTML & CSS
 - Prototyping
-- Content
 
 ## My Work
 
@@ -23,7 +23,7 @@ Much of what I do can’t be shared but you can get an idea by looking at my [Dr
 ## Experience
 
 Where | When
-------------- | -----------
+----- | -------------------
 Leadin | May 2015 – Present
 Freelance | February 2014 – Present
 James Good Limited | March 2011 – February 2014
