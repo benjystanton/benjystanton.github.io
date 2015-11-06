@@ -31,6 +31,11 @@ body {
     color: $text-color;
     background-color: $background-color;
     -webkit-text-size-adjust: 100%;
+
+    @include media-query($medium) {
+        font-size: 18px;
+        line-height: $base-line-height*1.2;
+    }
 }
 
 
@@ -113,7 +118,7 @@ small {
 a {
     color: $brand-color;
     text-decoration: none;
-    border-bottom: 1px solid $brand-color;
+    border-bottom: 1px solid lighten($brand-color,40);
 
     &:hover, &:focus {
         color: darken($brand-color, 10%);
@@ -210,7 +215,7 @@ table {
     border-spacing: 0;
  }
 th, td {
-    border-bottom: 1px solid lighten($text-color, 90%);
+    border-bottom: 1px solid lighten($text-color, 70%);
     text-align:left;
     padding:.5em 2em .5em 0;
 }

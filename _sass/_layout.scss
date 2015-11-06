@@ -6,8 +6,21 @@
 
     a {
         border: none;
+
+        &:hover svg, &:focus svg {
+            fill: darken($brand-color,10%);
+        }
     }
 
+    svg {
+        fill: $brand-color;
+        width: 113px;
+
+        @include media-query($medium) {
+            width: auto;
+
+        }
+    }
 }
 
 .site-title {
@@ -48,8 +61,8 @@
 .site-footer {
     padding: $spacing-unit*2 0;
     text-align: left;
-    color: lighten($text-color, 60%);
-    background-color: lighten($text-color, 96%);
+    color: lighten($text-color, 40%);
+    background-color: lighten($text-color, 77%);
 
     .wrapper {
         padding-top: $spacing-unit;
