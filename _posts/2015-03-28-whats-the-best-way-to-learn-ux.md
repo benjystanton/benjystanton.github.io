@@ -13,7 +13,7 @@ As Leisa Reichelt hinted at on Twitter; UX is a broad term and it can mean sligh
 
 ## Leisa Reichelt
 
-[Leisa][2] is Head of User Research at [Gov.uk][3], and she gave me a huge list of resources to look at…
+[Leisa][2] <s>is</s> was the Head of User Research at [Gov.uk][3] at the time, and she gave me a huge list of resources to look at…
 
   * [So, you’re going to be a user researcher: top tips to get you going][4]
   * [Books that we recommend][5]
