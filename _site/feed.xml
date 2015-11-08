@@ -1,0 +1,723 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Benjy Stanton</title>
+    <description>UX/UI Designer. Family Man. Music Snob.</description>
+    <link>http://www.benjystanton.co.uk//</link>
+    <atom:link href="http://www.benjystanton.co.uk//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 07 Nov 2015 11:20:34 +0000</pubDate>
+    <lastBuildDate>Sat, 07 Nov 2015 11:20:34 +0000</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Goodbye WordPress</title>
+        <description>&lt;p&gt;Today marks the day that I’ve finally switched my blog over from WordPress to &lt;a href=&quot;https://jekyllrb.com/&quot; title=&quot;Jekyll’s Website&quot;&gt;Jekyll&lt;/a&gt;.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;WordPress has served me very well over the years but I wanted something a little simpler.&lt;/p&gt;
+
+&lt;p&gt;The main reasons I prefer Jekyll are…&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;I can write in MarkDown&lt;/li&gt;
+  &lt;li&gt;it uses Sass by default&lt;/li&gt;
+  &lt;li&gt;I can do everything locally first&lt;/li&gt;
+  &lt;li&gt;it’s easy to sync everything with GitHub&lt;/li&gt;
+  &lt;li&gt;the templating system is simpler&lt;/li&gt;
+  &lt;li&gt;…which allows me to design more complex layouts&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Mon, 05 Oct 2015 16:53:00 +0100</pubDate>
+        <link>http://www.benjystanton.co.uk//blog/goodbye-wordpress/</link>
+        <guid isPermaLink="true">http://www.benjystanton.co.uk//blog/goodbye-wordpress/</guid>
+        
+        
+        <category>design</category>
+        
+      </item>
+    
+      <item>
+        <title>What’s the best way to learn UX?</title>
+        <description>&lt;p&gt;A friend of mine asked for ideas on learning UX , so &lt;a href=&quot;https://twitter.com/benjystanton/status/581882786790928385&quot;&gt;I turned to Twitter&lt;/a&gt; and got a couple of really great responses.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;As Leisa Reichelt hinted at on Twitter; UX is a broad term and it can mean slightly different things to different people (usability, wireframes, user research, interaction design, HCI etc). Nevertheless, these resources should help you if you are just starting out (or even if you’re not)…&lt;/p&gt;
+
+&lt;h2 id=&quot;leisa-reichelt&quot;&gt;Leisa Reichelt&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/leisa&quot;&gt;Leisa&lt;/a&gt; &lt;s&gt;is&lt;/s&gt; was the Head of User Research at &lt;a href=&quot;https://www.gov.uk/&quot;&gt;Gov.uk&lt;/a&gt; at the time, and she gave me a huge list of resources to look at…&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://userresearch.blog.gov.uk/2015/03/18/so-youre-going-to-be-a-user-researcher-top-tips-to-get-you-going/&quot;&gt;So, you’re going to be a user researcher: top tips to get you going&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://userresearchmethods.hackpad.com/Books-that-we-recommend-LChcIQRffI2&quot;&gt;Books that we recommend&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://userresearchmethods.hackpad.com/Training-and-education-for-User-Research-bzr9JUSdv2B&quot;&gt;Training and education for User Research&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;andy-budd&quot;&gt;Andy Budd&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/andybudd&quot;&gt;Andy&lt;/a&gt; is a User Experience Designer, partner at &lt;a href=&quot;http://clearleft.com/&quot;&gt;Clearleft&lt;/a&gt; and curator of &lt;a href=&quot;http://2014.dconstruct.org/&quot;&gt;dConstruct&lt;/a&gt; and &lt;a href=&quot;http://2015.uxlondon.com/&quot;&gt;UX London&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Andy recommend this &lt;a href=&quot;https://generalassemb.ly/education/user-experience-design&quot;&gt;User Experience Design Course&lt;/a&gt; by General Assembly in London.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;P.S. Thanks to &lt;a href=&quot;https://twitter.com/zachinglis&quot;&gt;Zach Inglis&lt;/a&gt; too for pointing me in the right direction.&lt;/em&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 28 Mar 2015 20:06:06 +0000</pubDate>
+        <link>http://www.benjystanton.co.uk//blog/whats-the-best-way-to-learn-ux/</link>
+        <guid isPermaLink="true">http://www.benjystanton.co.uk//blog/whats-the-best-way-to-learn-ux/</guid>
+        
+        
+        <category>design</category>
+        
+        <category>ux</category>
+        
+      </item>
+    
+      <item>
+        <title>Finding work and managing money as a freelancer</title>
+        <description>&lt;p&gt;I’ve been freelancing this time around for just over a year, but in total, I’ve been self employed for over 4. I think that having been self employed on 2 separate occasions has given me an interesting perspective on what works and what doesn’t. This is a round-up of how I find new work and how I manage the money side of things.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;h2 id=&quot;finding-work&quot;&gt;Finding work&lt;/h2&gt;
+
+&lt;p&gt;I have 3 regular clients that give me 90% of my work. All of these clients are people that have I have worked with closely in the past. Luckily, this has meant that I haven’t had to ‘go out’ and find more work.&lt;/p&gt;
+
+&lt;p&gt;However this tells me that I need to build up more long-term relationships with people, if I want a hope of getting new clients in the future.&lt;/p&gt;
+
+&lt;h3 id=&quot;networking-with-a-small-n&quot;&gt;Networking with a small ‘n’&lt;/h3&gt;
+
+&lt;p&gt;I don’t like the term networking. I went to some proper Networking things when I first started out. The organiser actually said the word “Synergy” so I never went back.&lt;/p&gt;
+
+&lt;p&gt;Even though Networking (with a capital N) sucks, in reality though, you do need to network.&lt;/p&gt;
+
+&lt;p&gt;Blog, speak at meet-ups, help people on Twitter who ask for help. Doing all these things can help grow your network of contacts, and people will then help you in return. Just share what you know, don’t worry about being an expert.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Work hard. Don’t be an asshole. Share what you know.
+—&lt;a href=&quot;https://twitter.com/brad_frost/status/450619808795885569&quot; title=&quot;Brad on Twitter&quot;&gt;Brad Frost&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;When you first go self employed, tell as many people as you can. Tweet about it, share it on Facebook, tell your Nan. You never know where work will come from… and in my experience, people like to help you out when you are just starting.&lt;/p&gt;
+
+&lt;h3 id=&quot;love-thy-client&quot;&gt;Love thy client&lt;/h3&gt;
+
+&lt;p&gt;I try to work really hard for my clients. Not only do I want to do a good job for them. But I want them to recommend me to other potential clients. Given that it can be hard to get new clients… hang on to the good ones that you have. Find ways to show them that you care about their business.&lt;/p&gt;
+
+&lt;h3 id=&quot;go-out-and-find-work&quot;&gt;Go out and find work&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Tweet that you are looking for work&lt;/li&gt;
+  &lt;li&gt;Ask local agencies if you can pop in for a coffee (don’t give them the hard sell)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.workingnomads.co&quot; title=&quot;A curated list of remote jobs&quot;&gt;Working Nomads&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://needhq.com/&quot; title=&quot;Apply as a freelancer to receive job notifications&quot;&gt;Need&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;money-business-tax-etc&quot;&gt;Money, business, tax etc.&lt;/h2&gt;
+
+&lt;h3 id=&quot;being-self-employed&quot;&gt;Being self employed&lt;/h3&gt;
+
+&lt;p&gt;Registering as self employed is very easy and you can do it via The HMRC website. One day, I intend to go VAT registered and become a Limited Company, but for now self employment suits me fine.&lt;/p&gt;
+
+&lt;h3 id=&quot;hang-on-to-paperwork&quot;&gt;Hang on to paperwork&lt;/h3&gt;
+
+&lt;p&gt;If you have just left your job, hang on to your pay slips and P45. In fact, just keep every bit of paper from now on.&lt;/p&gt;
+
+&lt;h3 id=&quot;saving-for-your-tax-bill&quot;&gt;Saving for your tax bill&lt;/h3&gt;
+
+&lt;p&gt;Every month, I aim to ‘pay myself’ a regular amount of money. In reality this means transferring money from my business account into my personal account. I then keep a portion of this aside in a savings account, ready for my tax bill.&lt;/p&gt;
+
+&lt;h3 id=&quot;banking&quot;&gt;Banking&lt;/h3&gt;
+
+&lt;p&gt;Having a separate bank account is a really good idea. I found that using Lloyds (because I do my personal banking with them) was the quickest and easiest was to setup a business account.&lt;/p&gt;
+
+&lt;p&gt;Most business accounts tend to have a ‘free banking’ period (around 12 months) where they won’t charge you for transactions.&lt;/p&gt;
+
+&lt;h3 id=&quot;use-freeagent&quot;&gt;Use FreeAgent&lt;/h3&gt;
+
+&lt;p&gt;FreeAgent is a simple accounting tool that helps you to track your time, send invoices, log expenses and fill out your tax return. I can’t recommend it enough.&lt;/p&gt;
+
+&lt;p&gt;Sign up with &lt;a href=&quot;http://fre.ag/43iztqfq&quot;&gt;my FreeAgent referral link&lt;/a&gt; and we’ll both get 10% off.&lt;/p&gt;
+
+&lt;h3 id=&quot;what-to-charge&quot;&gt;What to charge&lt;/h3&gt;
+
+&lt;p&gt;I used the handy &lt;a href=&quot;http://ournameismud.co.uk/fraq/&quot;&gt;UK Freelance Rates Calculator&lt;/a&gt; by &lt;a href=&quot;https://twitter.com/cole007&quot; title=&quot;Cole on Twitter&quot;&gt;Cole Henley&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;get-business-insurance&quot;&gt;Get business insurance&lt;/h3&gt;
+
+&lt;p&gt;Having business insurance helps me to sleep at night. I used &lt;a href=&quot;http://insurancebyjack.co.uk/&quot;&gt;Insurance by Jack&lt;/a&gt; to sort my policy.&lt;/p&gt;
+
+&lt;h3 id=&quot;expenses&quot;&gt;Expenses&lt;/h3&gt;
+
+&lt;p&gt;Record all your expenses. In most cases, I receive invoices via email (for Adobe Creative Cloud, FreeAgent, hosting etc.) which are easy to save for later. If you are buying things when out and about, make sure you keep the receipt (you can claim expenses on things you pay for using cash and personal cards too). Keep a note of mileage, travel costs and house bills too.&lt;/p&gt;
+
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;I hope this helps with some of the questions that you may have about going freelance. If you have questions… feel free to &lt;a href=&quot;https://twitter.com/benjystanton&quot; title=&quot;Benjy on Twitter&quot;&gt;tweet me&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 09 Mar 2015 22:05:22 +0000</pubDate>
+        <link>http://www.benjystanton.co.uk//blog/finding-work-and-managing-money-as-a-freelancer/</link>
+        <guid isPermaLink="true">http://www.benjystanton.co.uk//blog/finding-work-and-managing-money-as-a-freelancer/</guid>
+        
+        
+        <category>conferences</category>
+        
+        <category>design</category>
+        
+        <category>freelance</category>
+        
+      </item>
+    
+      <item>
+        <title>Reasons&amp;#58; London</title>
+        <description>&lt;p&gt;This a quick write up of my experience at &lt;a href=&quot;http://reasons.to/&quot;&gt;Reasons:London&lt;/a&gt; this weekend (Friday 20th February).&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;The &lt;a href=&quot;http://lso.co.uk/lso-st-luke-s&quot;&gt;venue was beautiful&lt;/a&gt; and at lunch time we went to &lt;a href=&quot;http://www.yelp.co.uk/biz/whitecross-market-london&quot;&gt;Whitecross Market&lt;/a&gt; for some great street food (it’s worth a trip in itself).&lt;/p&gt;
+
+&lt;p&gt;We drove from Swansea, so we parked in &lt;a href=&quot;http://www.ncp.co.uk/find-a-car-park/car-parks/hounslow-west-stn-lul/&quot;&gt;Hounslow West NCP&lt;/a&gt;. It’s really cheap and easy to drive to, but beware… some of the car park becomes a market on Saturday morning. We found this out the hard way.&lt;/p&gt;
+
+&lt;h2 id=&quot;harry-roberts&quot;&gt;Harry Roberts&lt;/h2&gt;
+
+&lt;p&gt;Harry opened with a fairly technical look at Sass techniques for building modular CSS. Specifically for when building websites that allow certain levels of customisation and theming. He looked at ways to balance performance with pragmatism.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/csswizardry&quot;&gt;@csswizardry&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://csswizardry.com/&quot;&gt;csswizardry.com&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://speakerdeck.com/csswizardry/4half-methods-for-theming-in-s-css&quot; title=&quot; 4½ Methods for Theming in (S)CSS&quot;&gt;Slides&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;stefanie-posavec&quot;&gt;Stefanie Posavec&lt;/h2&gt;
+
+&lt;p&gt;Stef is a data designer who has worked on some really beautiful projects for clients like Facebook and the Southbank Centre. She opened by talking about an old episode of Newsnight where they covered infographics. Weirdly I remembered this exact episode… I even &lt;a href=&quot;http://www.benjystanton.co.uk/blog/bbc-newsnight-talks-graphic-design-info-graphics/&quot;&gt;blogged about it at the time&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;She called for designers to move on from infographics… using her amazing work as an example of what is possible when you push yourself to come up with original work based on data.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/stefpos&quot;&gt;@stefpos&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.stefanieposavec.co.uk/&quot;&gt;stefanieposavec.co.uk&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;james-hall&quot;&gt;James Hall&lt;/h2&gt;
+
+&lt;p&gt;James Hall had a rather sobering (but really entertaining) round-up of security issues. TLDR:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Don’t use public wifi&lt;/li&gt;
+  &lt;li&gt;Don’t use internet banking&lt;/li&gt;
+  &lt;li&gt;Don’t build websites&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;… all these things are just too insecure.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/mrrio&quot;&gt;@MrRio&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://parall.ax/&quot;&gt;parall.ax&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;anna-dahlstrm&quot;&gt;Anna Dahlström&lt;/h2&gt;
+
+&lt;p&gt;Anna had a really good round-up of thoughts regarding designing for new devices, especially when looking ahead to wearable tech and internet of things things (AKA &lt;a href=&quot;http://seb.ly/st4i-stuff-that-talks-to-the-interwebs/&quot;&gt;STTTTI&lt;/a&gt;) like the Apple Watch. She introduced me to the idea of &lt;a href=&quot;http://globalmoxie.com/blog/index.shtml&quot;&gt;data rash&lt;/a&gt; — a kind of eruption of notifications that is becoming more visible and distracting, the more devices we have.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/annadahlstrom&quot;&gt;@annadahlstrom&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.annadahlstrom.com/&quot;&gt;annadahlstrom.com&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.slideshare.net/annadahlstrom/reasons-london-beyondthehamburgermenu20feb2015&quot; title=&quot;Beyond the hamburger menu&quot;&gt;Slides&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;andrew-clarke&quot;&gt;Andrew Clarke&lt;/h2&gt;
+
+&lt;p&gt;Andy called for web designers to take inspiration from advertising, by reviving the role of the art director. He argued that the recent focus on process and tools had lead teams to overlook the kind of creativity that can often lead to truly original designs. Oh yeah, there were apes too.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/Malarkey&quot;&gt;@Malarkey&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://stuffandnonsense.co.uk/&quot;&gt;stuffandnonsense.co.uk&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;elliot-jay-stocks&quot;&gt;Elliot Jay Stocks&lt;/h2&gt;
+
+&lt;p&gt;Elliot’s talk was a bit of a retrospective of his work, mixed with tips on designing with grids and running an ethical business. It was a lot to cover, but very entertaining and one of my favourite talks. He recommended the experience of working with friends (and even loved ones) and the virtues of always &lt;a href=&quot;http://www.elliotjaystocks.com/blog/pay-your-contributors/&quot;&gt;paying your contributors&lt;/a&gt;.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/elliotjaystocks&quot;&gt;@elliotjaystocks&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.elliotjaystocks.com/&quot;&gt;elliotjaystocks.com&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Sun, 22 Feb 2015 21:26:01 +0000</pubDate>
+        <link>http://www.benjystanton.co.uk//blog/reasonslondon/</link>
+        <guid isPermaLink="true">http://www.benjystanton.co.uk//blog/reasonslondon/</guid>
+        
+        
+        <category>conferences</category>
+        
+        <category>design</category>
+        
+        <category>ux</category>
+        
+      </item>
+    
+      <item>
+        <title>My top albums 2014</title>
+        <description>&lt;p&gt;I love music and I love having the time to explore weird and wonderful new albums. Being a freelancer, music helps to keep me company, keeps me focused and lifts my mood.&lt;/p&gt;
+
+&lt;p&gt;According to &lt;a href=&quot;http://www.last.fm/user/benjystanton&quot; title=&quot;Benjy Stanton on Last.fm&quot;&gt;my Last.fm profile&lt;/a&gt;, these are my top albums for 2014 (with Spotify links)…&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;http://open.spotify.com/album/0bfdoENsRuAz86QNfSaMOx&quot; title=&quot;At Best Cuckold on Spotify&quot;&gt;At Best Cuckold&lt;/a&gt; by Avi Buffalo&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://open.spotify.com/album/6TbkWAqqY4nhQnYim61IU8&quot; title=&quot;This Is All Yours on Spotify&quot;&gt;This Is All Yours&lt;/a&gt; by Alt-J&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://open.spotify.com/album/30zCWpQv7uwfBlQ9UjkqLb&quot; title=&quot;The Night Is Young on Spotify&quot;&gt;The Night Is Young&lt;/a&gt; by The 2 Bears&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://open.spotify.com/album/1iVB81BMYrXZiNtzYY3vTg&quot; title=&quot;The Scenic Route on Spotify&quot;&gt;The Scenic Route&lt;/a&gt; by Panacea&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://open.spotify.com/album/1dKh4z5Aayt8FFDWjO5FDh&quot; title=&quot;Singles on Spotify&quot;&gt;Singles&lt;/a&gt; by Future Islands&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://open.spotify.com/album/3TQE2fU2KcyjCFutQ2dq2i&quot; title=&quot;Wooden Aquarium on Spotify&quot;&gt;Wooden Aquarium&lt;/a&gt; by Mazes&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://open.spotify.com/album/5LOVEXnGFLMChzdUNRWRpB&quot; title=&quot;They Want My Soul on Spotify&quot;&gt;They Want My Soul&lt;/a&gt; by Spoon&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://open.spotify.com/album/4jLLt8pqzGxWZ8waNX8ylJ&quot; title=&quot;Our Love on Spotify&quot;&gt;Our Love&lt;/a&gt; by Caribou&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://open.spotify.com/album/6IH6co1QUS7uXoyPDv0rIr&quot; title=&quot;Jungle on Spotify&quot;&gt;Jungle&lt;/a&gt; by Jungle&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://open.spotify.com/album/44ErjiiG1YiiRFMZQL7De2&quot; title=&quot;Keep Moving on Spotify&quot;&gt;Keep Moving&lt;/a&gt; by Hyde &amp;amp; Beast&lt;/li&gt;
+&lt;/ol&gt;
+
+</description>
+        <pubDate>Fri, 12 Dec 2014 13:57:11 +0000</pubDate>
+        <link>http://www.benjystanton.co.uk//blog/my-top-albums-2014/</link>
+        <guid isPermaLink="true">http://www.benjystanton.co.uk//blog/my-top-albums-2014/</guid>
+        
+        
+        <category>music</category>
+        
+      </item>
+    
+      <item>
+        <title>Responsive HTML email talk at Winter LocalHost 2014</title>
+        <description>&lt;p&gt;This talk was an a overview of the way I create responsive HTML emails, covering design, build and most importability testing (at &lt;a href=&quot;http://port80events.co.uk/event/winter-localhost-2014/&quot; title=&quot;Winter LocalHost web page&quot;&gt;Port80 Winter Localhost 2014&lt;/a&gt;).&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.slideshare.net/benjystanton/responsive-html-email&quot; title=&quot;My slides on SlideShare&quot;&gt;Check out my slides&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 25 Nov 2014 21:10:07 +0000</pubDate>
+        <link>http://www.benjystanton.co.uk//blog/responsive-html-email-talk-at-winter-localhost-2014/</link>
+        <guid isPermaLink="true">http://www.benjystanton.co.uk//blog/responsive-html-email-talk-at-winter-localhost-2014/</guid>
+        
+        
+        <category>design</category>
+        
+        <category>email</category>
+        
+      </item>
+    
+      <item>
+        <title>Swansea design meet-up</title>
+        <description>&lt;p&gt;I’m planning a &lt;a href=&quot;http://designswansea.org.uk/&quot; title=&quot;Design Swansea website&quot;&gt;design meet-up in Swansea&lt;/a&gt;. This is a timeline of my notes (expect them to change a lot).&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;h2 id=&quot;th-february2015&quot;&gt;10th February 2015&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Booked 2 speakers for the first event (Tim Morgan and Paul Pod)&lt;/li&gt;
+  &lt;li&gt;Got TechHub Swansea onboard as the second sponsors&lt;/li&gt;
+  &lt;li&gt;Using Get Invited for ticketing&lt;/li&gt;
+  &lt;li&gt;Working on v2 of &lt;a href=&quot;http://designswansea.org.uk/&quot; title=&quot;Design Swansea website&quot;&gt;designswansea.org.uk&lt;/a&gt; (Check there for updates from now on)&lt;/li&gt;
+  &lt;li&gt;Created information for potential sponsors&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;th-january2015&quot;&gt;26th January 2015&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Launched a basic holding page &lt;a href=&quot;http://designswansea.org.uk/&quot; title=&quot;Design Swansea website&quot;&gt;designswansea.org.uk&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Create a &lt;a href=&quot;https://confirmsubscription.com/h/t/CF92D10C90D42536&quot; title=&quot;Email newsletter subscribe form&quot;&gt;subscribe form for our email newsletter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;stjanuary2015&quot;&gt;21st January 2015&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Designed a &lt;a href=&quot;https://dribbble.com/shots/1899347-Early-logo-for-Design-Swansea&quot; title=&quot;Early Design Swansea logo&quot;&gt;basic logo&lt;/a&gt; to get things going&lt;/li&gt;
+  &lt;li&gt;Signed up for a Twitter account: &lt;a href=&quot;https://twitter.com/DesignSwansea&quot; title=&quot;Design Swansea on Twitter&quot;&gt;@DesignSwansea&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Got &lt;a href=&quot;https://www.campaignmonitor.com&quot; title=&quot;Campaign Monitor&quot;&gt;Campaign Monitor&lt;/a&gt; onboard as sponsors&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;th-january2015-1&quot;&gt;19th January 2015&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Email Techhub Swansea to get the ball rolling with the first event.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;thdecember-2014&quot;&gt;15th December 2014&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Contact Design Stuff Cardiff and Second Wednesday for advice.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;thdecember-2014-1&quot;&gt;11th December 2014&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Went to &lt;a href=&quot;http://www.designstuffcardiff.co.uk/&quot; title=&quot;Design Stuff Cardiff&quot;&gt;Design Stuff Cardiff&lt;/a&gt; to check it out and have a chat with the organisers.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;thdecember-2014-2&quot;&gt;5th December 2014&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Continue to share and promote the survey&lt;/li&gt;
+  &lt;li&gt;Getting lots of interest and offers of help&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;stdecember-2014&quot;&gt;1st December 2014&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Published the survey &lt;a href=&quot;https://www.surveymonkey.com/s/33YMVFK&quot; title=&quot;Swansea Design Meet-up Survey&quot;&gt;surveymonkey.com/s/33YMVFK&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;th-november-2014&quot;&gt;26th November 2014&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Draft a survey aimed at designers in Swansea and run it past Paul, Jade and Gareth&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;th-november-2014-1&quot;&gt;25th November 2014&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Start this blog post (I like to design in the open whenever I get the chance)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;th-november-2014-2&quot;&gt;24th November 2014&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Announced the &lt;a href=&quot;https://twitter.com/benjystanton/status/536831454991618049&quot; title=&quot;My initial tweet about the design meet-up&quot;&gt;idea on Twitter&lt;/a&gt; (I have to do it now)&lt;/li&gt;
+  &lt;li&gt;Went to the &lt;a href=&quot;http://www.meetup.com/Swansea-Software-Development-Community/&quot; title=&quot;SSDC’s Meet-up Page&quot;&gt;Swansea Software Development Meet-up&lt;/a&gt; to chat about it with Viv, Paul and Nic&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Tue, 25 Nov 2014 09:16:32 +0000</pubDate>
+        <link>http://www.benjystanton.co.uk//blog/swansea-design-meet-up/</link>
+        <guid isPermaLink="true">http://www.benjystanton.co.uk//blog/swansea-design-meet-up/</guid>
+        
+        
+        <category>design</category>
+        
+        <category>open</category>
+        
+      </item>
+    
+      <item>
+        <title>My BlogConf slides</title>
+        <description>&lt;p&gt;Last Saturday (4th October) I spoke at &lt;a href=&quot;http://www.blogconf.com/&quot; title=&quot;BlogConf website&quot;&gt;BlogConf&lt;/a&gt;, an event aimed at bloggers of all levels. The speakers were a mix of bloggers, journalists, photographers and even poets.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;My talk was an introduction to web design and I really wondered how best to pitch it – should it be practical or just a general overview?&lt;/p&gt;
+
+&lt;p&gt;In the end I decided to base the talk around 3 ideas that have helped me to become a better web designer…&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Release things early, get &lt;strong&gt;feedback&lt;/strong&gt; and improve&lt;/li&gt;
+  &lt;li&gt;Learn as much as you can about &lt;strong&gt;typography&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Get familiar with &lt;strong&gt;code&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.slideshare.net/benjystanton/blog-design-at-blogconf&quot; title=&quot;My slides on SlideShare&quot;&gt;Check out my slides&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 11 Oct 2014 22:01:51 +0100</pubDate>
+        <link>http://www.benjystanton.co.uk//blog/my-blogconf-slides/</link>
+        <guid isPermaLink="true">http://www.benjystanton.co.uk//blog/my-blogconf-slides/</guid>
+        
+        
+        <category>design</category>
+        
+        <category>conferences</category>
+        
+      </item>
+    
+      <item>
+        <title>Who inspired me</title>
+        <description>&lt;p&gt;There are plenty of well known people out there that inspire me, but I thought I’d take this opportunity to thank the two guys who gave me my first break.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;I’d just finished uni and my sister’s boyfriend Tariq was completing his computer science degree. He’d met Anthony on his course and they had decided to form a web design agency. They’d lined up some clients and even worked on a few projects together, but they needed a designer, so after giving me some freelance work (where I was asked to illustrate an astrology board game) they offered me a job.&lt;/p&gt;
+
+&lt;p&gt;I learnt so much in those first 3 or 4 years. Including designing with Photoshop, slicing and optimising images, organising content and working with clients. I was even encouraged to try a bit of CSS and HTML. They were pushing table-less design too, before most of our competitors.&lt;/p&gt;
+
+&lt;p&gt;At the time I remember being resistant to web design, I thought that print was more interesting, so I pushed to do more branding and brochure work. But eventually I came back round, and now I love the web.&lt;/p&gt;
+
+&lt;p&gt;We still keep in touch but they have their own things going on these days, &lt;a href=&quot;http://www.discountfiresupplies.co.uk/&quot;&gt;Tariq&lt;/a&gt; runs a bunch of ecommerce websites and &lt;a href=&quot;http://www.ballyhoo.co.uk/&quot;&gt;Anthony&lt;/a&gt; runs a web development agency in Birmingham.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Looking back, I really feel like this was the best introduction to working in the industry. So… thanks guys.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+</description>
+        <pubDate>Wed, 08 Oct 2014 14:09:08 +0100</pubDate>
+        <link>http://www.benjystanton.co.uk//blog/who-inspired-me/</link>
+        <guid isPermaLink="true">http://www.benjystanton.co.uk//blog/who-inspired-me/</guid>
+        
+        
+        <category>personal</category>
+        
+      </item>
+    
+      <item>
+        <title>Making responsive HTML emails</title>
+        <description>&lt;p&gt;This is a run down of my process for designing, building and testing responsive HTML emails. I’ve also included lots of links to articles and resources for further reading.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;h2 id=&quot;starting-with-the-client-brief&quot;&gt;Starting with the Client Brief&lt;/h2&gt;
+
+&lt;p&gt;If you are lucky like me, you’ll have a client who will supply you with an initial brief.&lt;/p&gt;
+
+&lt;p&gt;These usually include…&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;the main objective of the email&lt;/li&gt;
+  &lt;li&gt;the target audience&lt;/li&gt;
+  &lt;li&gt;an early draft of the content&lt;/li&gt;
+  &lt;li&gt;guidance on potential photography&lt;/li&gt;
+  &lt;li&gt;ideas about potential design style&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;(Hopefully it goes without saying that writing the content and defining a marketing strategy for an email is a whole other task that won’t be covered in this article).&lt;/p&gt;
+
+&lt;h3 id=&quot;the-content&quot;&gt;The Content&lt;/h3&gt;
+
+&lt;p&gt;This is an example of the kind of content that a typical email might include…&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Logo&lt;/li&gt;
+  &lt;li&gt;Main image&lt;/li&gt;
+  &lt;li&gt;Heading 1&lt;/li&gt;
+  &lt;li&gt;Paragraph (or two) of body copy&lt;/li&gt;
+  &lt;li&gt;A main call to action (CTA) button&lt;/li&gt;
+  &lt;li&gt;Contact details&lt;/li&gt;
+  &lt;li&gt;Social media icons&lt;/li&gt;
+  &lt;li&gt;Small print&lt;/li&gt;
+  &lt;li&gt;Unsubscribe link&lt;/li&gt;
+  &lt;li&gt;View in a browser link&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;what-email-clients-are-your-users-using&quot;&gt;What Email Clients Are Your Users Using?&lt;/h2&gt;
+
+&lt;p&gt;It’s worth trying to find out as much information as you can about the recipients early on, as this will effect the design as well as the build.&lt;/p&gt;
+
+&lt;p&gt;If your audience are using modern email clients you might want to try some cutting edge techniques like &lt;a href=&quot;http://createsend.com/t/y-92882CC1798554A3&quot;&gt;moving images&lt;/a&gt; or &lt;a href=&quot;http://www.emaildesignreview.com/html-email-coding/web-fonts-in-email-1482/&quot;&gt;web fonts&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The bad news is, despite &lt;a href=&quot;http://www.email-standards.org/&quot;&gt;community efforts&lt;/a&gt; the state of email standards is a lot worse than the state of web standards. And many very popular email clients (like Gmail) are reluctant to get on board with a consistent approach.&lt;/p&gt;
+
+&lt;p&gt;The reality is you will probably need to support a range of web, mobile and desktop clients, including the notorious Outlook (which incase you don’t know, is like the Internet Explorer of email clients).&lt;/p&gt;
+
+&lt;p&gt;Once you know what email clients you need to support, this guide from Campaign Monitor is really useful for checking what CSS is supported by various email clients: &lt;a href=&quot;https://www.campaignmonitor.com/css/&quot;&gt;The Ultimate Guide to CSS&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;alignnone wp-image-922 size-full&quot; src=&quot;http://www.benjystanton.co.uk/wp-content/uploads/2014/09/email-css-support-table.png&quot; alt=&quot;CSS Support in Emails&quot; width=&quot;700&quot; height=&quot;382&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;If you can’t get any information about what email clients your users have, then this website from Litmus lists the top 10 clients according to their analytics: &lt;a href=&quot;http://emailclientmarketshare.com/&quot;&gt;Email Client Market Share&lt;/a&gt;. You’ll notice that ‘mobile’ makes up a big chunk of users.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;alignnone wp-image-920 size-full&quot; src=&quot;http://www.benjystanton.co.uk/wp-content/uploads/2014/09/email-client-market-share.png&quot; alt=&quot;Email Client Market Share&quot; width=&quot;700&quot; height=&quot;678&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;sketching&quot;&gt;Sketching&lt;/h2&gt;
+
+&lt;p&gt;Once I’ve got the brief, I like to scribble all the elements I need on a piece of paper. First I’ll just list them, marking them up as h1, paragraph, call to action, small print etc.&lt;/p&gt;
+
+&lt;p&gt;This helps me to develop a hierarchy and a source order. And, by initially limiting myself to a single column, it forces me to think in a mobile-first kind of way.&lt;/p&gt;
+
+&lt;p&gt;Next, I’ll begin to sketch a layout, slowly grouping the elements together into a very rough design.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;alignnone wp-image-923 size-full&quot; src=&quot;http://www.benjystanton.co.uk/wp-content/uploads/2014/09/email-design-sketch.png&quot; alt=&quot;Sketching an Email Design&quot; width=&quot;700&quot; height=&quot;644&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;designing&quot;&gt;Designing&lt;/h2&gt;
+
+&lt;p&gt;If this is the first ever campaign, or the design is a big departure from previous campaigns, then I’ll jump into Photoshop (or whatever) at this point to mock-up a concept. This is useful for me as it helps to experiment with and gather any fonts, colours and imagery etc that I’ll be using.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;alignnone size-full wp-image-918&quot; src=&quot;http://www.benjystanton.co.uk/wp-content/uploads/2014/09/designing-an-email.jpg&quot; alt=&quot;Designing an Email in Illustrator&quot; width=&quot;700&quot; height=&quot;434&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;If you are comfortable working directly in the browser than do that, I think that whatever is the fastest and most comfortable way for you to begin iterating on the design is the best route to take.&lt;/p&gt;
+
+&lt;h3 id=&quot;how-big-should-an-email-be&quot;&gt;How Big Should an Email Be?&lt;/h3&gt;
+
+&lt;p&gt;Although it’s becoming less clear cut with responsive design, I still like to design my emails at &lt;a href=&quot;https://www.campaignmonitor.com/blog/post/2094/maximum-width-for-html-emails/&quot;&gt;around 600px wide&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Because I’ve already sketched out my source order, I have a good idea how things will look on mobile too, so I don’t spend any time mocking things up at different widths.&lt;/p&gt;
+
+&lt;p&gt;In terms of email height (and file weight) I think the smaller the better is a good rule of thumb. Your content should be &lt;a href=&quot;http://mailchimp.com/resources/email-design-guide/&quot;&gt;focused and concise&lt;/a&gt; and this in-turn should result in a small email.&lt;/p&gt;
+
+&lt;h3 id=&quot;keep-things-simple&quot;&gt;Keep Things Simple&lt;/h3&gt;
+
+&lt;p&gt;My advice would be to keep things simple, just because we might be working with a 12 column grid, doesn’t mean we should use every one.&lt;/p&gt;
+
+&lt;p&gt;Complicated designs take a very long time to test once built. And &lt;em&gt;more importantly&lt;/em&gt;, at 600px wide, any more than 2 or 3 columns of text is unlikely to give a comfortable read and is going to start to feel very cramped.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-inbox&quot;&gt;The Inbox&lt;/h3&gt;
+
+&lt;p&gt;Don’t forget how cluttered many email clients can be, don’t let your complicated design contribute to the noise. Your users probably don’t want to waste time and effort reading your email. So my recommendation would be to design with 1 column and plenty of space between elements to make things as easy as possible.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;alignnone size-full wp-image-917&quot; src=&quot;http://www.benjystanton.co.uk/wp-content/uploads/2014/09/busy-email-inbox-interface.jpg&quot; alt=&quot;A Busy Email Inbox&quot; width=&quot;700&quot; height=&quot;483&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Consider also how the email copy will read in the inbox view too. The user may be presented with just the name of the sender, the subject line, and just a few words from the beginning of the email, before they decide whether to read it, swipe it straight to archive, or even worse, mark it as spam.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;alignnone size-full wp-image-925&quot; src=&quot;http://www.benjystanton.co.uk/wp-content/uploads/2014/09/email-preview-pane.png&quot; alt=&quot;The iPhone’s Mail Inbox Preview Pane&quot; width=&quot;640&quot; height=&quot;400&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;spam&quot;&gt;Spam&lt;/h3&gt;
+
+&lt;p&gt;On the note of spam, I’d urge you take it seriously and please don’t bombard people. If you’re interested in learning more about the rules and regulations this is a good starting point: &lt;a href=&quot;http://mailchimp.com/resources/guides/spam-lawsuits/html/&quot;&gt;Spam Lawsuits (by MailChimp)&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;build&quot;&gt;Build&lt;/h2&gt;
+
+&lt;h3 id=&quot;choosing-a-framework&quot;&gt;Choosing a Framework&lt;/h3&gt;
+
+&lt;p&gt;Personally, I’m not a huge fan of using frameworks to build websites, but when it comes to emails, there are so many hacks and gotchas that trying to build something from scratch, even if you are familiar with HTML and CSS will probably send you crazy.&lt;/p&gt;
+
+&lt;p&gt;As I’m sure most of you know, HTML emails are built with tables instead of divs for layout. And for fine-grained control over things like spacing, you may even need to put each heading and paragraph in their own table cells too.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;alignnone size-full wp-image-919&quot; src=&quot;http://www.benjystanton.co.uk/wp-content/uploads/2014/09/email-bloated-code.jpg&quot; alt=&quot;Bloated Email Code&quot; width=&quot;700&quot; height=&quot;431&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This results in horribly bloated code. And that’s before you’ve added all the CSS inline (we need to do this because Outlook and Gmail strip out CSS from the head).&lt;/p&gt;
+
+&lt;h3 id=&quot;ink&quot;&gt;Ink&lt;/h3&gt;
+
+&lt;p&gt;The framework I currently use is called &lt;a href=&quot;http://zurb.com/ink/&quot;&gt;Ink&lt;/a&gt;, which was created by Zurb, the people behind the &lt;a href=&quot;http://foundation.zurb.com/&quot;&gt;Foundation&lt;/a&gt; framework.&lt;/p&gt;
+
+&lt;p&gt;Ink has a 12 column grid, that drops to a single column below 600px. They have an &lt;a href=&quot;http://zurb.com/ink/inliner.php&quot;&gt;inliner&lt;/a&gt; on their website which lets you build your email in a more traditional way (i.e. keeping the HTML and CSS separate). Then the inliner can be used to process your code, and inject the relevant CSS around each element.&lt;/p&gt;
+
+&lt;p&gt;Once you’ve learnt how to use Ink’s grids, buttons and panels etc, then the actual build is fairly straightforward. If you get stuck then they have some &lt;a href=&quot;http://zurb.com/ink/docs.php&quot;&gt;great documentation available&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;other-tools-frameworks-and-approaches&quot;&gt;Other Tools, Frameworks and Approaches&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://responsiveemailpatterns.com/&quot;&gt;Responsive Email Patterns&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://labs.actionrocket.co/the-hybrid-coding-approach&quot;&gt;Hybrid Coding&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://internations.github.io/antwort/&quot;&gt;Antwort Responsive Layouts for Email&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://blog.mailgun.com/transactional-html-email-templates/&quot;&gt;Transactional HTML Email Templates&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.campaignmonitor.com/resources/will-it-work/guidelines/&quot;&gt;Email Design Guidelines&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.campaignmonitor.com/canvas/&quot;&gt;Canvas&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://buttons.cm/&quot;&gt;Bulletproof email buttons&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;testing&quot;&gt;Testing&lt;/h2&gt;
+
+&lt;p&gt;Testing is the most difficult and tedious part about building an email. Even when using the Ink framework, I find that three quarters of my entire time on a project is spent debugging layout issues. Luckily there are lots of tools and resources out there to help.&lt;/p&gt;
+
+&lt;p&gt;Once my email has been designed, built and processed with Ink’s inliner (to bring the CSS inline), I’m nearly ready to begin testing.&lt;/p&gt;
+
+&lt;h3 id=&quot;before-testing-don8217t-forget-to&quot;&gt;Before Testing, Don’t Forget to…&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Proof read of the copy&lt;/li&gt;
+  &lt;li&gt;Double check phone numbers and email addresses (in the markup too)&lt;/li&gt;
+  &lt;li&gt;Check you’ve included alt text and titles attributes where appropriate&lt;/li&gt;
+  &lt;li&gt;Remove any unused CSS (frameworks are notorious for adding bloat)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://imageoptim.com/&quot;&gt;Optimize images&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.campaignmonitor.com/resources/will-it-work/image-blocking/&quot;&gt;Check your email with images turned-off&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Update images to have absolute paths&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I usually stick the images in my Dropbox public folder while testing. Many ESPs (Email Service Providers) will have the ability to host your images too.&lt;/p&gt;
+
+&lt;p&gt;Note: I’ve noticed that certain imageproxys (like Outlook.com’s) will refuse to load images from certain sources. I don’t pretend to understand why this happens, but if it does, try hosting your images somewhere else.&lt;/p&gt;
+
+&lt;h3 id=&quot;using-mailchimp-to-send-test-campaigns&quot;&gt;Using MailChimp to Send Test Campaigns&lt;/h3&gt;
+
+&lt;p&gt;This is where MailChimp comes in for me, you can sign up for a free account and use it to send tests to a few personal accounts.&lt;/p&gt;
+
+&lt;h3 id=&quot;currently-i-test-on-the-following-email-clients&quot;&gt;Currently, I Test on the Following Email Clients…&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Gmail.com (Chrome, Firefox &amp;amp; Internet Explorer)&lt;/li&gt;
+  &lt;li&gt;Outlook.com (Chrome, Firefox &amp;amp; Internet Explorer)&lt;/li&gt;
+  &lt;li&gt;Yahoo.com (Chrome, Firefox &amp;amp; Internet Explorer)&lt;/li&gt;
+  &lt;li&gt;AOL.com (Chrome, Firefox &amp;amp; Internet Explorer)&lt;/li&gt;
+  &lt;li&gt;iPhone 5c&lt;/li&gt;
+  &lt;li&gt;iPad&lt;/li&gt;
+  &lt;li&gt;Mail (OSX)&lt;/li&gt;
+  &lt;li&gt;Thunderbird (OSX)&lt;/li&gt;
+  &lt;li&gt;Outlook (Windows)&lt;/li&gt;
+  &lt;li&gt;Windows Live Mail (Windows)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The last email I did took about 15 tests before I was happy with it. Testing the same design 15 times on multiple email clients can get pretty demoralising, so to help ease the pain I created this handy &lt;a href=&quot;http://www.benjystanton.co.uk/wp-content/uploads/2014/09/email-client-testing.pdf&quot; title=&quot;Email Testing PDF&quot;&gt;PDF for testing email clients&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;debugging-common-problems&quot;&gt;Debugging Common Problems&lt;/h3&gt;
+
+&lt;p&gt;In my experience, inspecting the code is rarely useful (and not always even possible). So the best route when you find a problem is to search the web.&lt;/p&gt;
+
+&lt;p&gt;Here are a few common ones…&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.campaignmonitor.com/blog/post/3457/media-query-issues-in-yahoo-mail-mobile-email/&quot;&gt;Use CSS Attribute Selectors to stop Yahoo rendering your media query styles&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.campaignmonitor.com/guides/mobile/coding/&quot;&gt;Use &lt;code&gt;!important&lt;/code&gt; in your mobile media queries, to make sure the styles override the inline desktop styles&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://litmus.com/blog/update-banning-blue-links-on-ios-devices&quot;&gt;Use &lt;code&gt;&amp;lt;span&amp;gt;&lt;/code&gt; to style blue links on iOS&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://litmus.com/blog/hotmail-and-outlook-com-drop-support-for-margin&quot;&gt;Use &lt;code&gt;&amp;lt;td&amp;gt;&lt;/code&gt; and padding to get reliable spacing around chunks of text&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.sparkemaildesign.com/17-must-know-tricks-for-outlook-2007-2010-and-2013/#outlook07-13_tip1&quot;&gt;Use &lt;code&gt;vspace=&quot;10&quot; hspace=&quot;10”&lt;/code&gt; to get padding around images in Outlook&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The &lt;a href=&quot;https://litmus.com/blog/&quot;&gt;Litmus&lt;/a&gt; and &lt;a href=&quot;https://www.emailonacid.com/blog&quot;&gt;Email on Acid&lt;/a&gt; blogs are usually the best place to find solutions to problems.&lt;/p&gt;
+
+&lt;h3 id=&quot;virtual-testing-with-litmus-via-mailchimp&quot;&gt;Virtual Testing with Litmus (via MailChimp)&lt;/h3&gt;
+
+&lt;p&gt;Once I’m happy with the design in the email clients that I have direct access to (it doesn’t need to be pixel perfect), I will run some virtual tests for good measure. These services allow you test in a whole raft of Email Clients (40+) which is pretty difficult to achieve without access to a comprehensive Device Lab.&lt;/p&gt;
+
+&lt;p&gt;There are two email testing services that I would recommend…&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;https://litmus.com/&quot;&gt;Litmus&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.emailonacid.com/&quot;&gt;Email on Acid&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Rather than use these services directly, I use a feature via MailChimp called Inbox Inspection. This is powered by Litmus, and if you have a free MailChimp account, it only costs $3 per test which can work out cheaper than a monthly subscription.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;alignnone size-full wp-image-924&quot; src=&quot;http://www.benjystanton.co.uk/wp-content/uploads/2014/09/email-design-testing.png&quot; alt=&quot;Email Design Testing with Litmus&quot; width=&quot;700&quot; height=&quot;386&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;I hope you found this write-up of my email design process useful. It’s worth reiterating that you should keep the design as simple as possible and leave plenty of time for testing. If you have an further questions, please feel free to &lt;a href=&quot;https://twitter.com/benjystanton&quot;&gt;ask me on Twitter&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Lastly here are some further resources to keep you busy…&lt;/p&gt;
+
+&lt;h3 id=&quot;design-inspiration&quot;&gt;Design Inspiration&lt;/h3&gt;
+
+&lt;p&gt;If you are looking for some inspiration, these sites have some good design galleries…&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://reallygoodemails.com/&quot;&gt;Really Good Emails&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.campaignmonitor.com/gallery/&quot;&gt;Email Inspiration&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;further-reading&quot;&gt;Further Reading&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://mailchimp.com/resources/email-design-guide/&quot;&gt;MailChimp’s Email Design Guide&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://antwort.co/email-signature/&quot;&gt;Antwort Email Signature Generator&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://emailwizardry.nightjar.com.au/&quot;&gt;Email Wizardry&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;subscribe-to-some-emails&quot;&gt;Subscribe to Some Emails&lt;/h3&gt;
+
+&lt;p&gt;Last of all, I find the best way to stay up-to-date with techniques and best practices is to subscribe to newsletters from the experts. These guys (as you might expect) have consistently great emails…&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.campaignmonitor.com/our-story/newsletter/&quot;&gt;Campaign Monitor&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://litmus.com/subscribe&quot;&gt;Litmus&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://emailweekly.co/&quot;&gt;#emailweekly&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.theuxnewsletter.com/&quot;&gt;MailChimp UX Newsletter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Sun, 28 Sep 2014 21:04:40 +0100</pubDate>
+        <link>http://www.benjystanton.co.uk//blog/making-responsive-html-emails/</link>
+        <guid isPermaLink="true">http://www.benjystanton.co.uk//blog/making-responsive-html-emails/</guid>
+        
+        
+        <category>design</category>
+        
+        <category>email</category>
+        
+      </item>
+    
+  </channel>
+</rss>
