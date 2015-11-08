@@ -35,7 +35,7 @@ Web Media Works | June 2004 – April 2008
 Speaking at events is hard, but every now and then I push myself into it. Here are some past events I’ve spoken at…
 
 - Port80 Conference, May 2013
-- Swansea Software Development Meet-up , September 2014
+- Swansea Software Development Meet-up, September 2014
 - Port80 LocalHost Meet-up, November 2014
 - BlogConf Conference, October 2014
 - Cross Gov Design Meet-up, September 2015
