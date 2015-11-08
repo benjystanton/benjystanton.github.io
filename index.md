@@ -10,5 +10,5 @@ You might want to [read my blog][3] or find out a little [more about me][4].
 
 [1]: http://leadin.co.uk/ "Recognised experts in User Research and Service Design"
 [2]: http://designswansea.org.uk/ "A design meet-up in Swansea"
-[3]: /blog/ "My latest posts"
+[3]: /blog/ "My latest blog posts"
 [4]: /about/ "My life story"
