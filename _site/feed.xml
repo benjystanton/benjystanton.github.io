@@ -5,8 +5,8 @@
     <description>UX/UI Designer. Family Man. Music Snob.</description>
     <link>http://www.benjystanton.co.uk//</link>
     <atom:link href="http://www.benjystanton.co.uk//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 08 Nov 2015 13:19:32 +0000</pubDate>
-    <lastBuildDate>Sun, 08 Nov 2015 13:19:32 +0000</lastBuildDate>
+    <pubDate>Sun, 08 Nov 2015 13:53:48 +0000</pubDate>
+    <lastBuildDate>Sun, 08 Nov 2015 13:53:48 +0000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -515,11 +515,11 @@
 
 &lt;p&gt;Once you know what email clients you need to support, this guide from Campaign Monitor is really useful for checking what CSS is supported by various email clients: &lt;a href=&quot;https://www.campaignmonitor.com/css/&quot;&gt;The Ultimate Guide to CSS&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&quot;alignnone wp-image-922 size-full&quot; src=&quot;http://www.benjystanton.co.uk/wp-content/uploads/2014/09/email-css-support-table.png&quot; alt=&quot;CSS Support in Emails&quot; width=&quot;700&quot; height=&quot;382&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.benjystanton.co.uk/assets/email-css-support-table.png&quot; alt=&quot;CSS Support in Emails&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;If you can’t get any information about what email clients your users have, then this website from Litmus lists the top 10 clients according to their analytics: &lt;a href=&quot;http://emailclientmarketshare.com/&quot;&gt;Email Client Market Share&lt;/a&gt;. You’ll notice that ‘mobile’ makes up a big chunk of users.&lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&quot;alignnone wp-image-920 size-full&quot; src=&quot;http://www.benjystanton.co.uk/wp-content/uploads/2014/09/email-client-market-share.png&quot; alt=&quot;Email Client Market Share&quot; width=&quot;700&quot; height=&quot;678&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.benjystanton.co.uk/assets/email-client-market-share.png&quot; alt=&quot;Email Client Market Share&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;sketching&quot;&gt;Sketching&lt;/h2&gt;
 
@@ -529,13 +529,13 @@
 
 &lt;p&gt;Next, I’ll begin to sketch a layout, slowly grouping the elements together into a very rough design.&lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&quot;alignnone wp-image-923 size-full&quot; src=&quot;http://www.benjystanton.co.uk/wp-content/uploads/2014/09/email-design-sketch.png&quot; alt=&quot;Sketching an Email Design&quot; width=&quot;700&quot; height=&quot;644&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.benjystanton.co.uk/assets/email-design-sketch.png&quot; alt=&quot;Sketching an Email Design&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;designing&quot;&gt;Designing&lt;/h2&gt;
 
 &lt;p&gt;If this is the first ever campaign, or the design is a big departure from previous campaigns, then I’ll jump into Photoshop (or whatever) at this point to mock-up a concept. This is useful for me as it helps to experiment with and gather any fonts, colours and imagery etc that I’ll be using.&lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&quot;alignnone size-full wp-image-918&quot; src=&quot;http://www.benjystanton.co.uk/wp-content/uploads/2014/09/designing-an-email.jpg&quot; alt=&quot;Designing an Email in Illustrator&quot; width=&quot;700&quot; height=&quot;434&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.benjystanton.co.uk/assets/designing-an-email.jpg&quot; alt=&quot;Designing an Email in Illustrator&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;If you are comfortable working directly in the browser than do that, I think that whatever is the fastest and most comfortable way for you to begin iterating on the design is the best route to take.&lt;/p&gt;
 
@@ -557,11 +557,11 @@
 
 &lt;p&gt;Don’t forget how cluttered many email clients can be, don’t let your complicated design contribute to the noise. Your users probably don’t want to waste time and effort reading your email. So my recommendation would be to design with 1 column and plenty of space between elements to make things as easy as possible.&lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&quot;alignnone size-full wp-image-917&quot; src=&quot;http://www.benjystanton.co.uk/wp-content/uploads/2014/09/busy-email-inbox-interface.jpg&quot; alt=&quot;A Busy Email Inbox&quot; width=&quot;700&quot; height=&quot;483&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.benjystanton.co.uk/assets/busy-email-inbox-interface.jpg&quot; alt=&quot;A Busy Email Inbox&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Consider also how the email copy will read in the inbox view too. The user may be presented with just the name of the sender, the subject line, and just a few words from the beginning of the email, before they decide whether to read it, swipe it straight to archive, or even worse, mark it as spam.&lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&quot;alignnone size-full wp-image-925&quot; src=&quot;http://www.benjystanton.co.uk/wp-content/uploads/2014/09/email-preview-pane.png&quot; alt=&quot;The iPhone’s Mail Inbox Preview Pane&quot; width=&quot;640&quot; height=&quot;400&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.benjystanton.co.uk/assets/email-preview-pane.png&quot; alt=&quot;The iPhone’s Mail Inbox Preview Pane&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;spam&quot;&gt;Spam&lt;/h3&gt;
 
@@ -575,7 +575,7 @@
 
 &lt;p&gt;As I’m sure most of you know, HTML emails are built with tables instead of divs for layout. And for fine-grained control over things like spacing, you may even need to put each heading and paragraph in their own table cells too.&lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&quot;alignnone size-full wp-image-919&quot; src=&quot;http://www.benjystanton.co.uk/wp-content/uploads/2014/09/email-bloated-code.jpg&quot; alt=&quot;Bloated Email Code&quot; width=&quot;700&quot; height=&quot;431&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.benjystanton.co.uk/assets/email-bloated-code.jpg&quot; alt=&quot;Bloated Email Code&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;This results in horribly bloated code. And that’s before you’ve added all the CSS inline (we need to do this because Outlook and Gmail strip out CSS from the head).&lt;/p&gt;
 
@@ -640,7 +640,7 @@
   &lt;li&gt;Windows Live Mail (Windows)&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;The last email I did took about 15 tests before I was happy with it. Testing the same design 15 times on multiple email clients can get pretty demoralising, so to help ease the pain I created this handy &lt;a href=&quot;http://www.benjystanton.co.uk/wp-content/uploads/2014/09/email-client-testing.pdf&quot; title=&quot;Email Testing PDF&quot;&gt;PDF for testing email clients&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The last email I did took about 15 tests before I was happy with it. Testing the same design 15 times on multiple email clients can get pretty demoralising, so to help ease the pain I created this handy &lt;a href=&quot;http://www.benjystanton.co.uk/assets/email-client-testing.pdf&quot; title=&quot;Email Testing PDF&quot;&gt;PDF for testing email clients&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h3 id=&quot;debugging-common-problems&quot;&gt;Debugging Common Problems&lt;/h3&gt;
 
@@ -671,7 +671,7 @@
 
 &lt;p&gt;Rather than use these services directly, I use a feature via MailChimp called Inbox Inspection. This is powered by Litmus, and if you have a free MailChimp account, it only costs $3 per test which can work out cheaper than a monthly subscription.&lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&quot;alignnone size-full wp-image-924&quot; src=&quot;http://www.benjystanton.co.uk/wp-content/uploads/2014/09/email-design-testing.png&quot; alt=&quot;Email Design Testing with Litmus&quot; width=&quot;700&quot; height=&quot;386&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.benjystanton.co.uk/assets/email-design-testing.png&quot; alt=&quot;Email Design Testing with Litmus&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
 

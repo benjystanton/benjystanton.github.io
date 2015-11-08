@@ -57,7 +57,7 @@ Watching more telly and having a drink are easy solutions, but they probably don
 
 Time to dust off the surfboard I think.
 
-[<img class="aligncenter wp-image-775 size-full" src="http://www.benjystanton.co.uk/wp-content/uploads/2014/06/8bb1095acda411e1b9a5123138140995_7.jpg" alt="My lonely surfboard" width="612" height="612" />][14]
+![My lonely surfboard]({{ site.url }}assets/surfboard.jpg)
 
  [1]: https://twitter.com/benjystanton/status/472389216782262272
  [2]: https://twitter.com/StuRobson
