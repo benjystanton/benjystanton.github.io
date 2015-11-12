@@ -5,9 +5,52 @@
     <description>UX/UI Designer. Family Man. Music Snob.</description>
     <link>http://www.benjystanton.co.uk//</link>
     <atom:link href="http://www.benjystanton.co.uk//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 08 Nov 2015 13:53:48 +0000</pubDate>
-    <lastBuildDate>Sun, 08 Nov 2015 13:53:48 +0000</lastBuildDate>
+    <pubDate>Thu, 12 Nov 2015 14:43:53 +0000</pubDate>
+    <lastBuildDate>Thu, 12 Nov 2015 14:43:53 +0000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>When things get tedious</title>
+        <description>&lt;p&gt;There is an on-going debate around whether or not designers should know how to code.&lt;/p&gt;
+
+&lt;p&gt;My feeling is that we should know enough to be able to tweak things in DevTools and create simple prototypes in HTML, but that we shouldn’t worry about writing production ready stuff.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;h2 id=&quot;design-tools-are-for-sketching&quot;&gt;Design tools are for sketching&lt;/h2&gt;
+
+&lt;p&gt;I try to remember that design tools (like Photoshop or Sketch) are for lo-fi sketching. Even highly detailed mock-ups can never really be considered high fidelity, because they lack the responsiveness and interactivity of HTML and CSS. They can never be truly finished.&lt;/p&gt;
+
+&lt;p&gt;Designing mock-ups is an incredibly useful part of most projects for me. But there is usually a point where they become tedious to maintain. Pixel perfection is impossible, but that doesn’t mean that visual finish isn’t important. Typographic hierarchy, measure, whitespace and grid ratios are. These are very tricky to control if you don’t know at least a little CSS.&lt;/p&gt;
+
+&lt;h2 id=&quot;when-things-get-tedious-switch-to-code&quot;&gt;When things get tedious, switch to code&lt;/h2&gt;
+
+&lt;p&gt;Certain tasks become very repetitive or even difficult when using tradtional design tools. Things like…&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;mocking up the same page at different sizes&lt;/li&gt;
+  &lt;li&gt;styling up generic pages that could be built from existing components&lt;/li&gt;
+  &lt;li&gt;making small changes to existing pages&lt;/li&gt;
+  &lt;li&gt;explaining interactions and animation&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I think it’s a designers duty to recognise this and make sure they aren’t spending too much time on things that could be done better in the browser.&lt;/p&gt;
+
+&lt;h2 id=&quot;not-photoshop-not-sketch-either&quot;&gt;Not Photoshop, not Sketch either&lt;/h2&gt;
+
+&lt;p&gt;I know a lot of designers hope that one day a tool like Photoshop will be able to automatically export good HTML &amp;amp; CSS. I can’t see that happening, but tools like &lt;a href=&quot;http://www.invisionapp.com/&quot;&gt;InVision&lt;/a&gt;, &lt;a href=&quot;http://sass-lang.com/&quot;&gt;Sass&lt;/a&gt; and &lt;a href=&quot;https://developer.chrome.com/devtools&quot;&gt;DevTools&lt;/a&gt; are getting closer and closer to becoming what we need. Even if they don’t look like traditional design tools at first glance.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 12 Nov 2015 14:20:00 +0000</pubDate>
+        <link>http://www.benjystanton.co.uk//blog/when-things-get-tedious/</link>
+        <guid isPermaLink="true">http://www.benjystanton.co.uk//blog/when-things-get-tedious/</guid>
+        
+        
+        <category>design</category>
+        
+        <category>tools</category>
+        
+      </item>
     
       <item>
         <title>Goodbye WordPress</title>
@@ -29,7 +72,7 @@
 &lt;/ul&gt;
 
 </description>
-        <pubDate>Mon, 05 Oct 2015 16:53:00 +0100</pubDate>
+        <pubDate>Thu, 05 Nov 2015 15:53:00 +0000</pubDate>
         <link>http://www.benjystanton.co.uk//blog/goodbye-wordpress/</link>
         <guid isPermaLink="true">http://www.benjystanton.co.uk//blog/goodbye-wordpress/</guid>
         
@@ -461,261 +504,6 @@
         
         
         <category>personal</category>
-        
-      </item>
-    
-      <item>
-        <title>Making responsive HTML emails</title>
-        <description>&lt;p&gt;This is a run down of my process for designing, building and testing responsive HTML emails. I’ve also included lots of links to articles and resources for further reading.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;h2 id=&quot;starting-with-the-client-brief&quot;&gt;Starting with the Client Brief&lt;/h2&gt;
-
-&lt;p&gt;If you are lucky like me, you’ll have a client who will supply you with an initial brief.&lt;/p&gt;
-
-&lt;p&gt;These usually include…&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;the main objective of the email&lt;/li&gt;
-  &lt;li&gt;the target audience&lt;/li&gt;
-  &lt;li&gt;an early draft of the content&lt;/li&gt;
-  &lt;li&gt;guidance on potential photography&lt;/li&gt;
-  &lt;li&gt;ideas about potential design style&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;(Hopefully it goes without saying that writing the content and defining a marketing strategy for an email is a whole other task that won’t be covered in this article).&lt;/p&gt;
-
-&lt;h3 id=&quot;the-content&quot;&gt;The Content&lt;/h3&gt;
-
-&lt;p&gt;This is an example of the kind of content that a typical email might include…&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Logo&lt;/li&gt;
-  &lt;li&gt;Main image&lt;/li&gt;
-  &lt;li&gt;Heading 1&lt;/li&gt;
-  &lt;li&gt;Paragraph (or two) of body copy&lt;/li&gt;
-  &lt;li&gt;A main call to action (CTA) button&lt;/li&gt;
-  &lt;li&gt;Contact details&lt;/li&gt;
-  &lt;li&gt;Social media icons&lt;/li&gt;
-  &lt;li&gt;Small print&lt;/li&gt;
-  &lt;li&gt;Unsubscribe link&lt;/li&gt;
-  &lt;li&gt;View in a browser link&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;what-email-clients-are-your-users-using&quot;&gt;What Email Clients Are Your Users Using?&lt;/h2&gt;
-
-&lt;p&gt;It’s worth trying to find out as much information as you can about the recipients early on, as this will effect the design as well as the build.&lt;/p&gt;
-
-&lt;p&gt;If your audience are using modern email clients you might want to try some cutting edge techniques like &lt;a href=&quot;http://createsend.com/t/y-92882CC1798554A3&quot;&gt;moving images&lt;/a&gt; or &lt;a href=&quot;http://www.emaildesignreview.com/html-email-coding/web-fonts-in-email-1482/&quot;&gt;web fonts&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;The bad news is, despite &lt;a href=&quot;http://www.email-standards.org/&quot;&gt;community efforts&lt;/a&gt; the state of email standards is a lot worse than the state of web standards. And many very popular email clients (like Gmail) are reluctant to get on board with a consistent approach.&lt;/p&gt;
-
-&lt;p&gt;The reality is you will probably need to support a range of web, mobile and desktop clients, including the notorious Outlook (which incase you don’t know, is like the Internet Explorer of email clients).&lt;/p&gt;
-
-&lt;p&gt;Once you know what email clients you need to support, this guide from Campaign Monitor is really useful for checking what CSS is supported by various email clients: &lt;a href=&quot;https://www.campaignmonitor.com/css/&quot;&gt;The Ultimate Guide to CSS&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://www.benjystanton.co.uk/assets/email-css-support-table.png&quot; alt=&quot;CSS Support in Emails&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;If you can’t get any information about what email clients your users have, then this website from Litmus lists the top 10 clients according to their analytics: &lt;a href=&quot;http://emailclientmarketshare.com/&quot;&gt;Email Client Market Share&lt;/a&gt;. You’ll notice that ‘mobile’ makes up a big chunk of users.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://www.benjystanton.co.uk/assets/email-client-market-share.png&quot; alt=&quot;Email Client Market Share&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;sketching&quot;&gt;Sketching&lt;/h2&gt;
-
-&lt;p&gt;Once I’ve got the brief, I like to scribble all the elements I need on a piece of paper. First I’ll just list them, marking them up as h1, paragraph, call to action, small print etc.&lt;/p&gt;
-
-&lt;p&gt;This helps me to develop a hierarchy and a source order. And, by initially limiting myself to a single column, it forces me to think in a mobile-first kind of way.&lt;/p&gt;
-
-&lt;p&gt;Next, I’ll begin to sketch a layout, slowly grouping the elements together into a very rough design.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://www.benjystanton.co.uk/assets/email-design-sketch.png&quot; alt=&quot;Sketching an Email Design&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;designing&quot;&gt;Designing&lt;/h2&gt;
-
-&lt;p&gt;If this is the first ever campaign, or the design is a big departure from previous campaigns, then I’ll jump into Photoshop (or whatever) at this point to mock-up a concept. This is useful for me as it helps to experiment with and gather any fonts, colours and imagery etc that I’ll be using.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://www.benjystanton.co.uk/assets/designing-an-email.jpg&quot; alt=&quot;Designing an Email in Illustrator&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;If you are comfortable working directly in the browser than do that, I think that whatever is the fastest and most comfortable way for you to begin iterating on the design is the best route to take.&lt;/p&gt;
-
-&lt;h3 id=&quot;how-big-should-an-email-be&quot;&gt;How Big Should an Email Be?&lt;/h3&gt;
-
-&lt;p&gt;Although it’s becoming less clear cut with responsive design, I still like to design my emails at &lt;a href=&quot;https://www.campaignmonitor.com/blog/post/2094/maximum-width-for-html-emails/&quot;&gt;around 600px wide&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Because I’ve already sketched out my source order, I have a good idea how things will look on mobile too, so I don’t spend any time mocking things up at different widths.&lt;/p&gt;
-
-&lt;p&gt;In terms of email height (and file weight) I think the smaller the better is a good rule of thumb. Your content should be &lt;a href=&quot;http://mailchimp.com/resources/email-design-guide/&quot;&gt;focused and concise&lt;/a&gt; and this in-turn should result in a small email.&lt;/p&gt;
-
-&lt;h3 id=&quot;keep-things-simple&quot;&gt;Keep Things Simple&lt;/h3&gt;
-
-&lt;p&gt;My advice would be to keep things simple, just because we might be working with a 12 column grid, doesn’t mean we should use every one.&lt;/p&gt;
-
-&lt;p&gt;Complicated designs take a very long time to test once built. And &lt;em&gt;more importantly&lt;/em&gt;, at 600px wide, any more than 2 or 3 columns of text is unlikely to give a comfortable read and is going to start to feel very cramped.&lt;/p&gt;
-
-&lt;h3 id=&quot;the-inbox&quot;&gt;The Inbox&lt;/h3&gt;
-
-&lt;p&gt;Don’t forget how cluttered many email clients can be, don’t let your complicated design contribute to the noise. Your users probably don’t want to waste time and effort reading your email. So my recommendation would be to design with 1 column and plenty of space between elements to make things as easy as possible.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://www.benjystanton.co.uk/assets/busy-email-inbox-interface.jpg&quot; alt=&quot;A Busy Email Inbox&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Consider also how the email copy will read in the inbox view too. The user may be presented with just the name of the sender, the subject line, and just a few words from the beginning of the email, before they decide whether to read it, swipe it straight to archive, or even worse, mark it as spam.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://www.benjystanton.co.uk/assets/email-preview-pane.png&quot; alt=&quot;The iPhone’s Mail Inbox Preview Pane&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;spam&quot;&gt;Spam&lt;/h3&gt;
-
-&lt;p&gt;On the note of spam, I’d urge you take it seriously and please don’t bombard people. If you’re interested in learning more about the rules and regulations this is a good starting point: &lt;a href=&quot;http://mailchimp.com/resources/guides/spam-lawsuits/html/&quot;&gt;Spam Lawsuits (by MailChimp)&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;build&quot;&gt;Build&lt;/h2&gt;
-
-&lt;h3 id=&quot;choosing-a-framework&quot;&gt;Choosing a Framework&lt;/h3&gt;
-
-&lt;p&gt;Personally, I’m not a huge fan of using frameworks to build websites, but when it comes to emails, there are so many hacks and gotchas that trying to build something from scratch, even if you are familiar with HTML and CSS will probably send you crazy.&lt;/p&gt;
-
-&lt;p&gt;As I’m sure most of you know, HTML emails are built with tables instead of divs for layout. And for fine-grained control over things like spacing, you may even need to put each heading and paragraph in their own table cells too.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://www.benjystanton.co.uk/assets/email-bloated-code.jpg&quot; alt=&quot;Bloated Email Code&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;This results in horribly bloated code. And that’s before you’ve added all the CSS inline (we need to do this because Outlook and Gmail strip out CSS from the head).&lt;/p&gt;
-
-&lt;h3 id=&quot;ink&quot;&gt;Ink&lt;/h3&gt;
-
-&lt;p&gt;The framework I currently use is called &lt;a href=&quot;http://zurb.com/ink/&quot;&gt;Ink&lt;/a&gt;, which was created by Zurb, the people behind the &lt;a href=&quot;http://foundation.zurb.com/&quot;&gt;Foundation&lt;/a&gt; framework.&lt;/p&gt;
-
-&lt;p&gt;Ink has a 12 column grid, that drops to a single column below 600px. They have an &lt;a href=&quot;http://zurb.com/ink/inliner.php&quot;&gt;inliner&lt;/a&gt; on their website which lets you build your email in a more traditional way (i.e. keeping the HTML and CSS separate). Then the inliner can be used to process your code, and inject the relevant CSS around each element.&lt;/p&gt;
-
-&lt;p&gt;Once you’ve learnt how to use Ink’s grids, buttons and panels etc, then the actual build is fairly straightforward. If you get stuck then they have some &lt;a href=&quot;http://zurb.com/ink/docs.php&quot;&gt;great documentation available&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h3 id=&quot;other-tools-frameworks-and-approaches&quot;&gt;Other Tools, Frameworks and Approaches&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://responsiveemailpatterns.com/&quot;&gt;Responsive Email Patterns&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://labs.actionrocket.co/the-hybrid-coding-approach&quot;&gt;Hybrid Coding&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://internations.github.io/antwort/&quot;&gt;Antwort Responsive Layouts for Email&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://blog.mailgun.com/transactional-html-email-templates/&quot;&gt;Transactional HTML Email Templates&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.campaignmonitor.com/resources/will-it-work/guidelines/&quot;&gt;Email Design Guidelines&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.campaignmonitor.com/canvas/&quot;&gt;Canvas&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://buttons.cm/&quot;&gt;Bulletproof email buttons&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;testing&quot;&gt;Testing&lt;/h2&gt;
-
-&lt;p&gt;Testing is the most difficult and tedious part about building an email. Even when using the Ink framework, I find that three quarters of my entire time on a project is spent debugging layout issues. Luckily there are lots of tools and resources out there to help.&lt;/p&gt;
-
-&lt;p&gt;Once my email has been designed, built and processed with Ink’s inliner (to bring the CSS inline), I’m nearly ready to begin testing.&lt;/p&gt;
-
-&lt;h3 id=&quot;before-testing-don8217t-forget-to&quot;&gt;Before Testing, Don’t Forget to…&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Proof read of the copy&lt;/li&gt;
-  &lt;li&gt;Double check phone numbers and email addresses (in the markup too)&lt;/li&gt;
-  &lt;li&gt;Check you’ve included alt text and titles attributes where appropriate&lt;/li&gt;
-  &lt;li&gt;Remove any unused CSS (frameworks are notorious for adding bloat)&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://imageoptim.com/&quot;&gt;Optimize images&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.campaignmonitor.com/resources/will-it-work/image-blocking/&quot;&gt;Check your email with images turned-off&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Update images to have absolute paths&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;I usually stick the images in my Dropbox public folder while testing. Many ESPs (Email Service Providers) will have the ability to host your images too.&lt;/p&gt;
-
-&lt;p&gt;Note: I’ve noticed that certain imageproxys (like Outlook.com’s) will refuse to load images from certain sources. I don’t pretend to understand why this happens, but if it does, try hosting your images somewhere else.&lt;/p&gt;
-
-&lt;h3 id=&quot;using-mailchimp-to-send-test-campaigns&quot;&gt;Using MailChimp to Send Test Campaigns&lt;/h3&gt;
-
-&lt;p&gt;This is where MailChimp comes in for me, you can sign up for a free account and use it to send tests to a few personal accounts.&lt;/p&gt;
-
-&lt;h3 id=&quot;currently-i-test-on-the-following-email-clients&quot;&gt;Currently, I Test on the Following Email Clients…&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Gmail.com (Chrome, Firefox &amp;amp; Internet Explorer)&lt;/li&gt;
-  &lt;li&gt;Outlook.com (Chrome, Firefox &amp;amp; Internet Explorer)&lt;/li&gt;
-  &lt;li&gt;Yahoo.com (Chrome, Firefox &amp;amp; Internet Explorer)&lt;/li&gt;
-  &lt;li&gt;AOL.com (Chrome, Firefox &amp;amp; Internet Explorer)&lt;/li&gt;
-  &lt;li&gt;iPhone 5c&lt;/li&gt;
-  &lt;li&gt;iPad&lt;/li&gt;
-  &lt;li&gt;Mail (OSX)&lt;/li&gt;
-  &lt;li&gt;Thunderbird (OSX)&lt;/li&gt;
-  &lt;li&gt;Outlook (Windows)&lt;/li&gt;
-  &lt;li&gt;Windows Live Mail (Windows)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The last email I did took about 15 tests before I was happy with it. Testing the same design 15 times on multiple email clients can get pretty demoralising, so to help ease the pain I created this handy &lt;a href=&quot;http://www.benjystanton.co.uk/assets/email-client-testing.pdf&quot; title=&quot;Email Testing PDF&quot;&gt;PDF for testing email clients&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h3 id=&quot;debugging-common-problems&quot;&gt;Debugging Common Problems&lt;/h3&gt;
-
-&lt;p&gt;In my experience, inspecting the code is rarely useful (and not always even possible). So the best route when you find a problem is to search the web.&lt;/p&gt;
-
-&lt;p&gt;Here are a few common ones…&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.campaignmonitor.com/blog/post/3457/media-query-issues-in-yahoo-mail-mobile-email/&quot;&gt;Use CSS Attribute Selectors to stop Yahoo rendering your media query styles&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.campaignmonitor.com/guides/mobile/coding/&quot;&gt;Use &lt;code&gt;!important&lt;/code&gt; in your mobile media queries, to make sure the styles override the inline desktop styles&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://litmus.com/blog/update-banning-blue-links-on-ios-devices&quot;&gt;Use &lt;code&gt;&amp;lt;span&amp;gt;&lt;/code&gt; to style blue links on iOS&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://litmus.com/blog/hotmail-and-outlook-com-drop-support-for-margin&quot;&gt;Use &lt;code&gt;&amp;lt;td&amp;gt;&lt;/code&gt; and padding to get reliable spacing around chunks of text&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.sparkemaildesign.com/17-must-know-tricks-for-outlook-2007-2010-and-2013/#outlook07-13_tip1&quot;&gt;Use &lt;code&gt;vspace=&quot;10&quot; hspace=&quot;10”&lt;/code&gt; to get padding around images in Outlook&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The &lt;a href=&quot;https://litmus.com/blog/&quot;&gt;Litmus&lt;/a&gt; and &lt;a href=&quot;https://www.emailonacid.com/blog&quot;&gt;Email on Acid&lt;/a&gt; blogs are usually the best place to find solutions to problems.&lt;/p&gt;
-
-&lt;h3 id=&quot;virtual-testing-with-litmus-via-mailchimp&quot;&gt;Virtual Testing with Litmus (via MailChimp)&lt;/h3&gt;
-
-&lt;p&gt;Once I’m happy with the design in the email clients that I have direct access to (it doesn’t need to be pixel perfect), I will run some virtual tests for good measure. These services allow you test in a whole raft of Email Clients (40+) which is pretty difficult to achieve without access to a comprehensive Device Lab.&lt;/p&gt;
-
-&lt;p&gt;There are two email testing services that I would recommend…&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;&lt;a href=&quot;https://litmus.com/&quot;&gt;Litmus&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.emailonacid.com/&quot;&gt;Email on Acid&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Rather than use these services directly, I use a feature via MailChimp called Inbox Inspection. This is powered by Litmus, and if you have a free MailChimp account, it only costs $3 per test which can work out cheaper than a monthly subscription.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://www.benjystanton.co.uk/assets/email-design-testing.png&quot; alt=&quot;Email Design Testing with Litmus&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
-
-&lt;p&gt;I hope you found this write-up of my email design process useful. It’s worth reiterating that you should keep the design as simple as possible and leave plenty of time for testing. If you have an further questions, please feel free to &lt;a href=&quot;https://twitter.com/benjystanton&quot;&gt;ask me on Twitter&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Lastly here are some further resources to keep you busy…&lt;/p&gt;
-
-&lt;h3 id=&quot;design-inspiration&quot;&gt;Design Inspiration&lt;/h3&gt;
-
-&lt;p&gt;If you are looking for some inspiration, these sites have some good design galleries…&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://reallygoodemails.com/&quot;&gt;Really Good Emails&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.campaignmonitor.com/gallery/&quot;&gt;Email Inspiration&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;further-reading&quot;&gt;Further Reading&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://mailchimp.com/resources/email-design-guide/&quot;&gt;MailChimp’s Email Design Guide&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://antwort.co/email-signature/&quot;&gt;Antwort Email Signature Generator&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://emailwizardry.nightjar.com.au/&quot;&gt;Email Wizardry&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;subscribe-to-some-emails&quot;&gt;Subscribe to Some Emails&lt;/h3&gt;
-
-&lt;p&gt;Last of all, I find the best way to stay up-to-date with techniques and best practices is to subscribe to newsletters from the experts. These guys (as you might expect) have consistently great emails…&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.campaignmonitor.com/our-story/newsletter/&quot;&gt;Campaign Monitor&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://litmus.com/subscribe&quot;&gt;Litmus&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://emailweekly.co/&quot;&gt;#emailweekly&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.theuxnewsletter.com/&quot;&gt;MailChimp UX Newsletter&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-</description>
-        <pubDate>Sun, 28 Sep 2014 21:04:40 +0100</pubDate>
-        <link>http://www.benjystanton.co.uk//blog/making-responsive-html-emails/</link>
-        <guid isPermaLink="true">http://www.benjystanton.co.uk//blog/making-responsive-html-emails/</guid>
-        
-        
-        <category>design</category>
-        
-        <category>email</category>
         
       </item>
     
