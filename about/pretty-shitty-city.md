@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Pretty Shitty City
-permalink: /pretty-shitty-city/
+permalink: /about/pretty-shitty-city/
 ---
 
 Pretty Shitty City was a blog that I set up in 2007. I wanted to give a platform for all the creative / alternative stuff happening in and around Swansea, focusing in on music and art. Swansea has a pretty negative image of itself, but there's lots of interesting stuff going on in this town, if you know where to find it.
