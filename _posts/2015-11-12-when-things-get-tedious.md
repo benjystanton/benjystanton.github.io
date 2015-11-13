@@ -19,7 +19,7 @@ Designing mock-ups is an incredibly useful part of most projects for me. But the
 
 ## When things get tedious, switch to code
 
-Certain tasks become very repetitive or even difficult when using tradtional design tools. Things like…
+Certain tasks become very repetitive or even difficult when using traditional design tools. Things like…
 
 - mocking up the same page at different sizes
 - styling up generic pages that could be built from existing components
