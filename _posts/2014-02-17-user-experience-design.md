@@ -12,7 +12,7 @@ For me, good user experience design is fundamental to good web design. You can c
 Likewise, good aesthetics can only take you so far and if they’ve been used to paint over the cracks it will become obvious pretty quickly.
 
 > Designers shooting for usable is like a chef shooting for edible.
-> <cite>—Aarron Walter</cite>
+> <footer>Aarron Walter</footer>
 
 ## Client interviews
 

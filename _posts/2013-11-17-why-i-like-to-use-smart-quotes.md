@@ -10,7 +10,7 @@ Smart quotes are double or single inverted commas, used for marking quotes and a
 <!--more-->
 
 > Don’t use dumb quotes for quotations or apostrophes—the nerds will revolt.
-> <cite>—Jessica Hische</cite> 
+> <footer>Jessica Hische</footer> 
 
 I’ve recently started forcing myself to type smart quotes wherever possible (yes, even when texting my Mum).
 

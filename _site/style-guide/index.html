@@ -6,11 +6,11 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>User experience design • Benjy Stanton</title>
-  <meta name="description" content="For me, good user experience design is fundamental to good web design. You can cram in all the features and functionality you want, but unless the experience...">
+  <title>Style Guide • Benjy Stanton</title>
+  <meta name="description" content="UX/UI Designer. Family Man. Music Snob.">
 
   <link rel="stylesheet" href="/css/main.css">
-  <link rel="canonical" href="http://www.benjystanton.co.uk//blog/user-experience-design/">
+  <link rel="canonical" href="http://www.benjystanton.co.uk//style-guide/">
   <link rel="alternate" type="application/rss+xml" title="Benjy Stanton" href="http://www.benjystanton.co.uk//feed.xml" />
 
   <script src="https://use.typekit.net/wcw4icc.js"></script>
@@ -43,41 +43,138 @@
         <div class="post">
 
   <header class="post-header">
-  	<p class="post-meta">17 Feb 2014</p>
-    <h1 class="post-title">User experience design</h1>
+    <h1 class="post-title">Style Guide</h1>
   </header>
 
   <article class="post-content" role="article">
-    <p>For me, good user experience design is fundamental to good web design. You can cram in all the features and functionality you want, but unless the experience has been designed well, the user will look elsewhere.</p>
+    <p>A collection of all the elements on this website. Inspired by <a href="http://patternlab.io/">Pattern Lab</a> and <a href="https://paulrobertlloyd.com/styleguide/">Paul Robert Lloyd’s Style Guide</a>.</p>
 
-<!--more-->
+<hr />
 
-<p>Likewise, good aesthetics can only take you so far and if they’ve been used to paint over the cracks it will become obvious pretty quickly.</p>
+<h1 id="heading-1">Heading 1</h1>
+
+<h2 id="heading-2">Heading 2</h2>
+
+<h3 id="heading-3">Heading 3</h3>
+
+<p>A paragraph (from the Greek paragraphos, “to write beside” or “written beside”) is a self-contained unit of a discourse in writing dealing with a particular point or idea. A paragraph consists of one or more sentences. Though not required by the syntax of any language, paragraphs are usually an expected part of formal writing, used to organize longer prose.</p>
+
+<ul>
+  <li>This is a list item in an unordered list</li>
+  <li>An unordered list is a list in which the sequence of items is not important. Sometimes, an unordered list is a bulleted list. And this is a long list item in an unordered list that can wrap onto a new line.</li>
+  <li>This is the last list item</li>
+</ul>
+
+<ol>
+  <li>This is a list item in an ordered list</li>
+  <li>An ordered list is a list in which the sequence of items is important. An ordered list does not necessarily contain sequence characters.</li>
+  <li>This is the last list item</li>
+</ol>
 
 <blockquote>
-  <p>Designers shooting for usable is like a chef shooting for edible.</p>
-  <footer>Aarron Walter</footer>
+  <p>A block quotation (also known as a long quotation or extract) is a quotation in a written document, that is set off from the main text as a paragraph, or block of text, and typically distinguished visually using indentation and a different typeface or smaller size quotation.</p>
+  <footer>Quote footer</footer>
 </blockquote>
 
-<h2 id="client-interviews">Client interviews</h2>
+<hr />
 
-<p>Meeting with the client and discovering business goals is how I like to kick things off. Doing a workshop with the team is the best way to get all the ideas out in the open. Once we have a good understanding of what everybody wants, then we can start to organise and prioritise the best ideas.</p>
+<table>
+  <thead>
+    <tr>
+      <th>Table Heading</th>
+      <th>Table Heading</th>
+      <th>Table Heading</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Table Cell</td>
+      <td>Table Cell</td>
+      <td>Table Cell</td>
+    </tr>
+    <tr>
+      <td>Table Cell</td>
+      <td>Table Cell</td>
+      <td>Table Cell</td>
+    </tr>
+    <tr>
+      <td>Table Cell</td>
+      <td>Table Cell</td>
+      <td>Table Cell</td>
+    </tr>
+    <tr>
+      <td>Table Cell</td>
+      <td>Table Cell</td>
+      <td>Table Cell</td>
+    </tr>
+    <tr>
+      <td>Table Cell</td>
+      <td>Table Cell</td>
+      <td>Table Cell</td>
+    </tr>
+  </tbody>
+</table>
 
-<h2 id="user-research">User research</h2>
+<hr />
 
-<p>A little bit of user research goes a long way. I like to take a look at my client’s current website analytics. Observing users can often uncover gaping usability holes which aren’t immediately apparent and, where appropriate user questionnaires can help us understand what users want to achieve (and why). Creating rough personas are useful at this stage, so the team can start to think about who will be using the site.</p>
+<fieldset>
 
-<h2 id="content-structure-and-journeys">Content, structure and journeys</h2>
+    <div class="field-container">
+        <label for="text">Text Input</label>
+        <input id="text" type="text" placeholder="Text Input" />
+    </div>
 
-<p>Once the goals of the user (and the business) are understood, we can begin to structure the website by making a list of content and how it will be organised. I like to plan out important user journeys at the same time as a way to cross-reference the structure of the site.</p>
+    <div class="field-container">
+        <label for="textarea">Textarea</label>
+        <textarea id="textarea" rows="8" cols="48" placeholder="Enter your message here"></textarea>
+    </div>
 
-<h2 id="sketching-planning-and-wireframes">Sketching, planning and wireframes</h2>
+    <div class="field-container">
+        <label for="select">Select</label>
+        <select id="select">
+        	<option>Option One</option>
+        	<option>Option Two</option>
+        	<option>Option Three</option>
+        </select>
+    </div>
 
-<p>I try to keep my designs lo-fi for as long as possible, that way, nobody gets attached to time-consuming visual enhancements, and we can iterate quickly and cheaply. Once sketching has been exhausted, creating digital wireframes can be really useful to help gain a more solid understanding of how a design will look and feel, without getting bogged down with time-consuming aesthetics.</p>
+    <fieldset>
+        <legend>Checkbox</legend>
+        <label for="checkbox1"><input id="checkbox1" name="checkbox" type="checkbox" checked="checked" /> Choice A</label>
+        <label for="checkbox2"><input id="checkbox2" name="checkbox" type="checkbox" /> Choice B</label>
+        <label for="checkbox3"><input id="checkbox3" name="checkbox" type="checkbox" /> Choice C</label>
+    </fieldset>
 
-<h2 id="prototyping">Prototyping</h2>
+    <fieldset>
+        <legend>Radio</legend>
+        <label for="radio1"><input id="radio1" name="radio" type="radio" class="radio" checked="checked" /> Option 1</label>
+        <label for="radio2"><input id="radio2" name="radio" type="radio" class="radio" /> Option 2</label>
+        <label for="radio3"><input id="radio3" name="radio" type="radio" class="radio" /> Option 3</label>
+    </fieldset>
 
-<p>Whether walking a client through your sketches or using a framework to create html/css prototypes, nothing quite beats the feeling of <em>experiencing</em> a website. That’s why I think prototyping should happen before or at least alongside the visual design stage.</p>
+</fieldset>
+
+<hr />
+
+<div class="row">
+	<div class="column full">.column .full</div>
+</div>
+<div class="row">
+	<div class="column half">.column .half</div>
+	<div class="column half">.column .half</div>
+</div>
+<div class="row">
+	<div class="column third">.column .third</div>
+	<div class="column third">.column .third</div>
+	<div class="column third">.column .third</div>
+</div>
+<div class="row">
+	<div class="column quarter">.column .quarter</div>
+	<div class="column quarter">.column .quarter</div>
+	<div class="column quarter">.column .quarter</div>
+	<div class="column quarter">.column .quarter</div>
+</div>
+
 
   </article>
 
