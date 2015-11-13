@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why I like to Use &#8220;Smart Quotes&#8221;
+title: Why I like to use &#8220;smart quotes&#8221;
 date: 2013-11-17 09:54:16
 categories: design typography
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 30 Things Done Before I’m 30
+title: 30 things done before I’m 30
 date: 2013-06-10 11:05:56
 categories: personal
 ---

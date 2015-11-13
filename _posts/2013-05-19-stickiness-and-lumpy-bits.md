@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Stickiness &amp; Lumpy Bits
+title: Stickiness and lumpy bits
 date: 2013-05-19 05:50:14
 categories: design animation conferences
 ---

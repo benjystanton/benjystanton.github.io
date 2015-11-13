@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Worrying about Health
+title: Worrying about health
 date: 2014-03-27 15:55:51
 categories: personal
 ---

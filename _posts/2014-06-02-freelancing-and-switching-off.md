@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Freelancing and Switching Off
+title: Freelancing and switching off
 date: 2014-06-02 23:48:20
 categories: freelance personal
 ---

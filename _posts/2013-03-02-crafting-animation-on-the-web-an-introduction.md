@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Crafting Animation on the Web (an Introduction)
+title: Crafting animation on the web (an introduction)
 date: 2013-03-02 20:51:00
 categories: design animation
 ---

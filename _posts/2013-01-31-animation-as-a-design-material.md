@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Animation as a Design&nbsp;Material
+title: Animation as a design&nbsp;material
 date: 2013-01-31 23:21:00
 categories: design animation
 ---

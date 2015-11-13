@@ -1,6 +1,6 @@
 ---
 layout: post
-title: On Knolling
+title: On knolling
 date: 2012-10-27 22:24:00
 categories: design
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Design Is an Actual Job
+title: Design is an actual job
 date: 2012-10-07 05:13:00
 categories: design
 ---

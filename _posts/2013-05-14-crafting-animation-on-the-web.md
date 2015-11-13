@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Crafting Animation on the&nbsp;Web
+title: Crafting animation on the&nbsp;web
 date: 2013-05-14 00:53:00
 categories: design animation conferences
 ---

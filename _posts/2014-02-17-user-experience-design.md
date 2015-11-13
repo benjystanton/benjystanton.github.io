@@ -1,6 +1,6 @@
 ---
 layout: post
-title: User Experience Design
+title: User experience design
 date: 2014-02-17 12:08:30
 categories: design ux
 ---
