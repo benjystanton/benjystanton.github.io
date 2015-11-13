@@ -4,7 +4,7 @@ title: Style Guide
 permalink: /style-guide/
 ---
 
-A collection of all the elements on this website. Inspired by [Pattern Lab][1] and [Paul Robert Lloyd’s Style Guide][2].
+A collection of all the elements on this website. Inspired by [Pattern Lab][1], [Paul Robert Lloyd’s Style Guide][2] and [Pea.rs][3].
 
 ***
 
@@ -60,19 +60,21 @@ Table Cell | Table Cell | Table Cell
         </select>
     </div>
 
-    <fieldset>
+    <fieldset class="options">
         <legend>Checkbox</legend>
         <label for="checkbox1"><input id="checkbox1" name="checkbox" type="checkbox" checked="checked"> Choice A</label>
         <label for="checkbox2"><input id="checkbox2" name="checkbox" type="checkbox"> Choice B</label>
         <label for="checkbox3"><input id="checkbox3" name="checkbox" type="checkbox"> Choice C</label>
     </fieldset>
 
-    <fieldset>
+    <fieldset class="options">
         <legend>Radio</legend>
         <label for="radio1"><input id="radio1" name="radio" type="radio" class="radio" checked="checked"> Option 1</label>
         <label for="radio2"><input id="radio2" name="radio" type="radio" class="radio"> Option 2</label>
         <label for="radio3"><input id="radio3" name="radio" type="radio" class="radio"> Option 3</label>
     </fieldset>
+
+    <button type="submit" value="Submit">Submit</button>
 
 </fieldset>
 
@@ -99,3 +101,4 @@ Table Cell | Table Cell | Table Cell
 
 [1]: http://patternlab.io/
 [2]: https://paulrobertlloyd.com/styleguide/
+[3]: http://pea.rs/

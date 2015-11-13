@@ -173,7 +173,7 @@ th, td {
   padding: .5em 2em .5em 0; }
 
 /**
- * Form
+ * Forms
  */
 legend {
   padding: 0; }
@@ -188,6 +188,20 @@ fieldset {
 
 .field-container label, legend {
   font-weight: bold; }
+
+input[type=text], select, textarea, button {
+  display: block;
+  font-size: 16px;
+  padding: 1em; }
+
+.options label {
+  padding-right: 1em; }
+
+button {
+  color: #ffffff;
+  background-color: #2D3033;
+  border: 0 none;
+  cursor: pointer; }
 
 /**
  * Site header
