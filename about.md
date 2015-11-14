@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hi, my name is Benjy and I’m a UX/UI designer, based in Swansea, UK. I design websites, apps and other digital things. I care about making things that look good and work well for the user.
+Hi my name is Benjy and I’m a UX/UI designer based in Swansea, UK. I design websites, apps and other digital things. I care about making things that look good and work well for the user.
 
 I’m currently freelancing and working for [Leadin](http://leadin.co.uk/).
 
