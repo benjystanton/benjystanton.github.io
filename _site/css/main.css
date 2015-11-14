@@ -231,14 +231,15 @@ button {
   font-size: 14px; }
   @media screen and (min-width: 700px) {
     .site-nav {
-      font-size: 16px; } }
+      font-size: 20px; } }
   .site-nav .page-link {
-    color: #58852c;
-    line-height: 1.5;
-    text-transform: uppercase; }
+    color: #abb0b4;
+    line-height: 1.5; }
     .site-nav .page-link:hover, .site-nav .page-link:focus {
-      color: #3f5f1f;
+      color: #58852c;
       transition: border-color .2s, color .2s; }
+    .site-nav .page-link.current {
+      color: #58852c; }
     .site-nav .page-link:not(:first-child) {
       margin-left: 20px; }
 

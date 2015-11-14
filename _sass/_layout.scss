@@ -35,19 +35,20 @@
     font-size: 14px;
 
     @include media-query($medium) {
-        font-size: 16px;
+        font-size: 20px;
     }
 
-
-
     .page-link {
-        color: $brand-color;
+        color:lighten($text-color, 50%);
         line-height: $base-line-height;
-        text-transform: uppercase;
 
         &:hover, &:focus {
-            color: darken($brand-color, 10%);
+            color: $brand-color;
             transition: border-color .2s, color .2s;
+        }
+
+        &.current {
+            color: $brand-color;
         }
 
         // Gaps between nav items, but not on the first one
