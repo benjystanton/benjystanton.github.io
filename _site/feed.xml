@@ -5,9 +5,42 @@
     <description>UX/UI Designer. Family Man. Music Snob.</description>
     <link>http://www.benjystanton.co.uk//</link>
     <atom:link href="http://www.benjystanton.co.uk//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 03 Dec 2015 16:56:56 +0000</pubDate>
-    <lastBuildDate>Thu, 03 Dec 2015 16:56:56 +0000</lastBuildDate>
-    <generator>Jekyll v2.5.3</generator>
+    <pubDate>Fri, 22 Jan 2016 21:16:27 +0000</pubDate>
+    <lastBuildDate>Fri, 22 Jan 2016 21:16:27 +0000</lastBuildDate>
+    <generator>Jekyll v3.0.0</generator>
+    
+      <item>
+        <title>Tools for recording usability tests</title>
+        <description>&lt;p&gt;Good old Twitter… I asked my friends to &lt;a href=&quot;https://twitter.com/benjystanton/status/690206840827834368&quot;&gt;recommend screen recording software&lt;/a&gt; (specifically for recording usability tests), and I got a list of great looking apps to try. Silverback was the clear favourite, although the latest version appears to be in private beta.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://silverbackapp.com/&quot;&gt;Silverback&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://support.apple.com/en-gb/HT201066&quot;&gt;Quicktime&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://itunes.apple.com/gb/app/viewport/id953817966&quot;&gt;Viewport&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://lookback.io/&quot;&gt;Lookback&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://validately.com/&quot;&gt;Validately&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://obsproject.com/&quot;&gt;Open Broadcaster Software&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.telestream.net/screenflow/overview.htm&quot;&gt;Screenflow&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.ambrosiasw.com/utilities/snapzprox/&quot;&gt;SnapzProX&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Did I miss anything?&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 12 Nov 2015 20:53:00 +0000</pubDate>
+        <link>http://www.benjystanton.co.uk//blog/tools-for-recording-usability-tests/</link>
+        <guid isPermaLink="true">http://www.benjystanton.co.uk//blog/tools-for-recording-usability-tests/</guid>
+        
+        
+        <category>ux</category>
+        
+        <category>design</category>
+        
+        <category>tools</category>
+        
+      </item>
     
       <item>
         <title>When things get tedious</title>
@@ -476,34 +509,6 @@
         <category>design</category>
         
         <category>conferences</category>
-        
-      </item>
-    
-      <item>
-        <title>Who inspired me</title>
-        <description>&lt;p&gt;There are plenty of well known people out there that inspire me, but I thought I’d take this opportunity to thank the two guys who gave me my first break.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;I’d just finished uni and my sister’s boyfriend Tariq was completing his computer science degree. He’d met Anthony on his course and they had decided to form a web design agency. They’d lined up some clients and even worked on a few projects together, but they needed a designer, so after giving me some freelance work (where I was asked to illustrate an astrology board game) they offered me a job.&lt;/p&gt;
-
-&lt;p&gt;I learnt so much in those first 3 or 4 years. Including designing with Photoshop, slicing and optimising images, organising content and working with clients. I was even encouraged to try a bit of CSS and HTML. They were pushing table-less design too, before most of our competitors.&lt;/p&gt;
-
-&lt;p&gt;At the time I remember being resistant to web design, I thought that print was more interesting, so I pushed to do more branding and brochure work. But eventually I came back round, and now I love the web.&lt;/p&gt;
-
-&lt;p&gt;We still keep in touch but they have their own things going on these days, &lt;a href=&quot;http://www.discountfiresupplies.co.uk/&quot;&gt;Tariq&lt;/a&gt; runs a bunch of ecommerce websites and &lt;a href=&quot;http://www.ballyhoo.co.uk/&quot;&gt;Anthony&lt;/a&gt; runs a web development agency in Birmingham.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Looking back, I really feel like this was the best introduction to working in the industry. So… thanks guys.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-</description>
-        <pubDate>Wed, 08 Oct 2014 14:09:08 +0100</pubDate>
-        <link>http://www.benjystanton.co.uk//blog/who-inspired-me/</link>
-        <guid isPermaLink="true">http://www.benjystanton.co.uk//blog/who-inspired-me/</guid>
-        
-        
-        <category>personal</category>
         
       </item>
     
