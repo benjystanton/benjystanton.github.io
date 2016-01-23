@@ -5,9 +5,42 @@
     <description>UX/UI Designer. Family Man. Music Snob.</description>
     <link>http://www.benjystanton.co.uk//</link>
     <atom:link href="http://www.benjystanton.co.uk//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 23 Jan 2016 09:40:05 +0000</pubDate>
-    <lastBuildDate>Sat, 23 Jan 2016 09:40:05 +0000</lastBuildDate>
+    <pubDate>Sat, 23 Jan 2016 09:42:20 +0000</pubDate>
+    <lastBuildDate>Sat, 23 Jan 2016 09:42:20 +0000</lastBuildDate>
     <generator>Jekyll v3.0.0</generator>
+    
+      <item>
+        <title>Tools for recording usability tests</title>
+        <description>&lt;p&gt;Good old Twitter… I asked my friends to &lt;a href=&quot;https://twitter.com/benjystanton/status/690206840827834368&quot;&gt;recommend screen recording software&lt;/a&gt; (specifically for recording usability tests), and I got a list of great looking apps to try. Silverback was the clear favourite, although the latest version appears to be in private beta.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://silverbackapp.com/&quot;&gt;Silverback&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://support.apple.com/en-gb/HT201066&quot;&gt;Quicktime&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://itunes.apple.com/gb/app/viewport/id953817966&quot;&gt;Viewport&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://lookback.io/&quot;&gt;Lookback&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://validately.com/&quot;&gt;Validately&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://obsproject.com/&quot;&gt;Open Broadcaster Software&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.telestream.net/screenflow/overview.htm&quot;&gt;Screenflow&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.ambrosiasw.com/utilities/snapzprox/&quot;&gt;SnapzProX&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Did I miss anything?&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 22 Jan 2016 20:53:00 +0000</pubDate>
+        <link>http://www.benjystanton.co.uk//blog/tools-for-recording-usability-tests/</link>
+        <guid isPermaLink="true">http://www.benjystanton.co.uk//blog/tools-for-recording-usability-tests/</guid>
+        
+        
+        <category>ux</category>
+        
+        <category>design</category>
+        
+        <category>tools</category>
+        
+      </item>
     
       <item>
         <title>When things get tedious</title>
@@ -302,39 +335,6 @@
         <category>design</category>
         
         <category>ux</category>
-        
-      </item>
-    
-      <item>
-        <title>Tools for recording usability tests</title>
-        <description>&lt;p&gt;Good old Twitter… I asked my friends to &lt;a href=&quot;https://twitter.com/benjystanton/status/690206840827834368&quot;&gt;recommend screen recording software&lt;/a&gt; (specifically for recording usability tests), and I got a list of great looking apps to try. Silverback was the clear favourite, although the latest version appears to be in private beta.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://silverbackapp.com/&quot;&gt;Silverback&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://support.apple.com/en-gb/HT201066&quot;&gt;Quicktime&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://itunes.apple.com/gb/app/viewport/id953817966&quot;&gt;Viewport&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://lookback.io/&quot;&gt;Lookback&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://validately.com/&quot;&gt;Validately&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://obsproject.com/&quot;&gt;Open Broadcaster Software&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.telestream.net/screenflow/overview.htm&quot;&gt;Screenflow&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.ambrosiasw.com/utilities/snapzprox/&quot;&gt;SnapzProX&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Did I miss anything?&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 22 Jan 2015 20:53:00 +0000</pubDate>
-        <link>http://www.benjystanton.co.uk//blog/tools-for-recording-usability-tests/</link>
-        <guid isPermaLink="true">http://www.benjystanton.co.uk//blog/tools-for-recording-usability-tests/</guid>
-        
-        
-        <category>ux</category>
-        
-        <category>design</category>
-        
-        <category>tools</category>
         
       </item>
     
