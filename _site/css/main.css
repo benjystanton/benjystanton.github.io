@@ -17,6 +17,20 @@ html {
   box-sizing: inherit; }
 
 /**
+ * Hide things
+ */
+/* Hide only visually, but have it available for screenreaders: h5bp.com/v */
+.visuallyhidden {
+  border: 0;
+  clip: rect(0 0 0 0);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px; }
+
+/**
  * Basic styling
  */
 body {
@@ -105,6 +119,11 @@ a {
     color: #3f5f1f;
     border-color: #3f5f1f;
     transition: border-color .2s, color .2s; }
+
+footer a {
+  border-bottom: 1px solid #8f969d; }
+  footer a:hover, footer a:focus {
+    border-color: #2D3033; }
 
 /**
  * Blockquotes
@@ -233,13 +252,12 @@ button {
     .site-nav {
       font-size: 20px; } }
   .site-nav .page-link {
-    color: #abb0b4;
     line-height: 1.5; }
     .site-nav .page-link:hover, .site-nav .page-link:focus {
       color: #58852c;
       transition: border-color .2s, color .2s; }
     .site-nav .page-link.current {
-      color: #58852c; }
+      border-bottom: 2px solid #58852c; }
     .site-nav .page-link:not(:first-child) {
       margin-left: 20px; }
 
@@ -248,13 +266,13 @@ button {
  */
 .site-footer {
   padding: 60px 0;
-  text-align: left;
-  color: #8f969d; }
+  text-align: left; }
   .site-footer .wrapper {
     padding-top: 30px;
     padding-bottom: 30px;
     border-top: 1px solid #e1e3e4; }
   .site-footer a {
+    color: #2D3033;
     margin-left: 1em; }
 
 /**
@@ -282,7 +300,7 @@ button {
 
 .post-meta {
   font-size: 12.8px;
-  color: #8f969d; }
+  color: #5d6369; }
   @media screen and (min-width: 700px) {
     .post-meta {
       font-size: 15.36px; } }

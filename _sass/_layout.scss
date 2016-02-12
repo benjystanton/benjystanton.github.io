@@ -39,7 +39,6 @@
     }
 
     .page-link {
-        color:lighten($text-color, 50%);
         line-height: $base-line-height;
 
         &:hover, &:focus {
@@ -48,7 +47,8 @@
         }
 
         &.current {
-            color: $brand-color;
+            border-bottom: 2px solid $brand-color;
+
         }
 
         // Gaps between nav items, but not on the first one
@@ -67,7 +67,6 @@
 .site-footer {
     padding: $spacing-unit*2 0;
     text-align: left;
-    color: lighten($text-color, 40%);
 
     .wrapper {
         padding-top: $spacing-unit;
@@ -76,6 +75,7 @@
     }
 
     a {
+        color: $text-color;
         margin-left: 1em;
     }
 }
@@ -121,7 +121,7 @@
 
 .post-meta {
     font-size: $small-font-size;
-    color: lighten($text-color, 40%);
+    color: lighten($text-color, 20%);
     
     @include media-query($medium) {
         font-size: $small-font-size*1.2;

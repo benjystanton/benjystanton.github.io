@@ -19,6 +19,13 @@ html {
   box-sizing: inherit;
 }
 
+/**
+ * Hide things
+ */
+
+/* Hide only visually, but have it available for screenreaders: h5bp.com/v */
+.visuallyhidden { border: 0; clip: rect(0 0 0 0); height: 1px; margin: -1px; overflow: hidden; padding: 0; position: absolute; width: 1px; }
+
 
 
 /**
@@ -138,6 +145,15 @@ a {
         color: darken($brand-color, 10%);
         border-color: darken($brand-color, 10%);
         transition: border-color .2s, color .2s;
+    }
+
+}
+
+footer a {
+    border-bottom: 1px solid lighten($text-color,40);
+
+    &:hover, &:focus {
+        border-color: $text-color;
     }
 }
 
