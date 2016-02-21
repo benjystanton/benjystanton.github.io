@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# My name is Benjy and I’m a UX/UI designer
+# My name is Benjy and I’m a UX designer
 
 I have over 10 years experience designing digital things. I work at [Leadin][1], run my own freelance business and organise a [design meet-up in Swansea][2]. I used to play bass and skateboard but I gave those things up because I was rubbish.
 

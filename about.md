@@ -4,14 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Hi my name is Benjy and I’m a UX/UI designer based in Swansea, UK. I design websites, apps and other digital things. I care about making things that look good and work well for the user.
+Hi my name is Benjy and I’m a senior UX designer at [Leadin](http://leadin.co.uk/), based in Swansea. I design websites, apps and other digital things.
 
-I’m currently freelancing and working for [Leadin](http://leadin.co.uk/).
+I care about user needs, accessibility and good typography.
 
 ## Skills
 
-- User Interface (UI) design
 - User Experience (UX) design
+- User Interface (UI) design
 - Graphic design
 - HTML & CSS
 - Prototyping
@@ -31,8 +31,6 @@ Freelance | May 2008 – May 2011
 Web Media Works | June 2004 – April 2008
 
 ## Speaking
-
-I’m not a natural public speaker, but every now and then I push myself into it. Here are some past events I’ve spoken at…
 
 - Port80 Conference, May 2013
 - Swansea Software Development Community, September 2014
