@@ -67,7 +67,33 @@
 
     a {
         color: $text-color;
-        margin-left: 1em;
+    }
+}
+
+.site-footer-credit, .site-footer-email, .site-footer-icons {
+    text-align: center;
+    margin-bottom: 1em;
+
+    @include media-query($medium) {
+        float: left;
+        margin-right: 2em;
+    }
+}
+
+.site-footer-icons {
+    margin-top: 1.5em;
+
+    @include media-query($medium) {
+        margin-top: 0;
+    }
+}
+
+.site-footer-icons a {
+    border-bottom: none;
+    margin-right: 1em;
+
+    &:last-child {
+        margin-right: 0;
     }
 }
 
@@ -190,10 +216,6 @@
   background-position: 0 0;
   background-repeat: no-repeat;
   background-size: 100%;
-}
-
-.site-footer-icon {
-    border-bottom: none;
 }
 
 .icon-social {
