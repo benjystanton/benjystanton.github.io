@@ -6,19 +6,10 @@
 
     a {
         border: none;
-
-        &:hover svg, &:focus svg {
-            fill: darken($brand-color,10%);
-        }
     }
 
-    svg {
-        fill: $brand-color;
-        width: 113px;
-
-        @include media-query($medium) {
-            width: auto;
-        }
+    img {
+        padding: 0;
     }
 }
 
