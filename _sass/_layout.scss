@@ -179,3 +179,39 @@
 .quarter {
     width: 25%;
 }
+
+
+/**
+ * icons
+ */
+
+.icon {
+  display: inline-block;
+  background-position: 0 0;
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+.site-footer-icon {
+    border-bottom: none;
+}
+
+.icon-social {
+  width: 25px;
+  height: 25px;
+  vertical-align: middle;
+}
+
+.icon-twitter {
+  background-image: url("/assets/icons/icon-twitter.png");
+}
+
+.icon-github {
+  background-image: url("/assets/icons/icon-github.png");
+}
+
+.icon-dribbble {
+  background-image: url("/assets/icons/icon-dribbble.png");
+}
+
+
