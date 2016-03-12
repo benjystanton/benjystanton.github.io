@@ -229,14 +229,8 @@ button {
   padding-top: 30px; }
   .site-header a {
     border: none; }
-    .site-header a:hover svg, .site-header a:focus svg {
-      fill: #3f5f1f; }
-  .site-header svg {
-    fill: #58852c;
-    width: 113px; }
-    @media screen and (min-width: 700px) {
-      .site-header svg {
-        width: auto; } }
+  .site-header img {
+    padding: 0; }
 
 .site-title {
   font-size: 18px;
