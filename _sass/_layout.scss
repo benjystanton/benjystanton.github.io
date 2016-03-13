@@ -3,6 +3,12 @@
  */
 .site-header {
     padding-top: $spacing-unit;
+    text-align: center;
+
+    @include media-query($medium) {
+        text-align: left;
+    }
+
 
     a {
         border: none;
@@ -13,20 +19,13 @@
     }
 }
 
-.site-title {
-    font-size: 18px;
-    line-height: 56px;
-    margin-bottom: 0;
-    float: left;
-}
-
 .site-nav {
-    float: right;
-    line-height: 56px;
-    font-size: 14px;
+
+    margin-top: $spacing-unit;
 
     @include media-query($medium) {
-        font-size: 20px;
+        float: right;
+        margin-top: $spacing-unit/2;
     }
 
     .page-link {
@@ -56,7 +55,7 @@
  * Site footer
  */
 .site-footer {
-    padding: $spacing-unit*2 0;
+    padding: $spacing-unit*2 0 0;
     text-align: left;
 
     .wrapper {
@@ -103,7 +102,7 @@
  * Page content
  */
 .page-content {
-    padding: $spacing-unit*2 0;
+    padding: $spacing-unit*2 0 $spacing-unit;
 
     @include media-query($medium) {
         .wrapper {

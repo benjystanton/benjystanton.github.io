@@ -35,14 +35,14 @@ html {
  */
 body {
   font-family: "omnes-pro", sans-serif;
-  font-size: 16px;
+  font-size: 18px;
   line-height: 1.5;
   color: #2D3033;
   background-color: #ffffff;
   -webkit-text-size-adjust: 100%; }
   @media screen and (min-width: 700px) {
     body {
-      font-size: 18px;
+      font-size: 20px;
       line-height: 1.8; } }
   @media screen and (min-width: 900px) {
     body {
@@ -78,7 +78,7 @@ figure > img {
   display: block; }
 
 figcaption {
-  font-size: 12.8px; }
+  font-size: 14.4px; }
 
 /**
  * Lists
@@ -98,15 +98,18 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   font-family: "quatro-slab", sans-serif;
-  font-size: 48px;
+  font-size: 32px;
   font-weight: 900;
   margin-bottom: 30px; }
+  @media screen and (min-width: 700px) {
+    h1 {
+      font-size: 42px; } }
 
 small {
-  font-size: 12.8px; }
+  font-size: 14.4px; }
   @media screen and (min-width: 700px) {
     small {
-      font-size: 15.36px; } }
+      font-size: 17.28px; } }
 
 /**
  * Links
@@ -210,7 +213,7 @@ fieldset {
 
 input[type=text], select, textarea, button {
   display: block;
-  font-size: 16px;
+  font-size: 18px;
   padding: 1em; }
 
 .options label {
@@ -226,25 +229,22 @@ button {
  * Site header
  */
 .site-header {
-  padding-top: 30px; }
+  padding-top: 30px;
+  text-align: center; }
+  @media screen and (min-width: 700px) {
+    .site-header {
+      text-align: left; } }
   .site-header a {
     border: none; }
   .site-header img {
     padding: 0; }
 
-.site-title {
-  font-size: 18px;
-  line-height: 56px;
-  margin-bottom: 0;
-  float: left; }
-
 .site-nav {
-  float: right;
-  line-height: 56px;
-  font-size: 14px; }
+  margin-top: 30px; }
   @media screen and (min-width: 700px) {
     .site-nav {
-      font-size: 20px; } }
+      float: right;
+      margin-top: 15px; } }
   .site-nav .page-link {
     line-height: 1.5; }
     .site-nav .page-link:hover, .site-nav .page-link:focus {
@@ -259,7 +259,7 @@ button {
  * Site footer
  */
 .site-footer {
-  padding: 60px 0;
+  padding: 60px 0 0;
   text-align: left; }
   .site-footer .wrapper {
     padding-top: 30px;
@@ -292,7 +292,7 @@ button {
  * Page content
  */
 .page-content {
-  padding: 60px 0; }
+  padding: 60px 0 30px; }
   @media screen and (min-width: 700px) {
     .page-content .wrapper {
       padding-right: 25%; } }
@@ -312,11 +312,11 @@ button {
     margin-bottom: 30px; }
 
 .post-meta {
-  font-size: 12.8px;
+  font-size: 14.4px;
   color: #5d6369; }
   @media screen and (min-width: 700px) {
     .post-meta {
-      font-size: 15.36px; } }
+      font-size: 17.28px; } }
 
 /**
  * Posts

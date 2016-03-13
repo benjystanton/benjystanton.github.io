@@ -40,7 +40,7 @@ body {
     -webkit-text-size-adjust: 100%;
 
     @include media-query($medium) {
-        font-size: 18px;
+        font-size: 20px;
         line-height: $base-line-height*1.2;
     }
 
@@ -118,9 +118,13 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
     font-family: $heading-font-family;
-    font-size: 48px;
+    font-size: 32px;
     font-weight: 900;
     margin-bottom: $spacing-unit;
+
+    @include media-query($medium) {
+        font-size: 42px;
+    }
 }
 
 small {
