@@ -5,9 +5,34 @@
     <description>UX/UI Designer. Family Man. Music Snob.</description>
     <link>http://www.benjystanton.co.uk//</link>
     <atom:link href="http://www.benjystanton.co.uk//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 13 Mar 2016 09:19:09 +0000</pubDate>
-    <lastBuildDate>Sun, 13 Mar 2016 09:19:09 +0000</lastBuildDate>
+    <pubDate>Sun, 13 Mar 2016 20:42:51 +0000</pubDate>
+    <lastBuildDate>Sun, 13 Mar 2016 20:42:51 +0000</lastBuildDate>
     <generator>Jekyll v3.0.0</generator>
+    
+      <item>
+        <title>Usability research labs in the UK</title>
+        <description>&lt;p&gt;I’ve started a list of research labs in the UK. These locations are great for running usability tests. Perfect if you’re a UX designer or researcher.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;This list is hosted on GitHub, so please get stuck in and make some improvements if you can…&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://benjystanton.github.io/usability-labs/&quot;&gt;A list of usability research labs in the UK&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/benjystanton/usability-labs&quot;&gt;The repo on GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Sun, 13 Mar 2016 20:34:00 +0000</pubDate>
+        <link>http://www.benjystanton.co.uk//blog/usability-research-labs-uk/</link>
+        <guid isPermaLink="true">http://www.benjystanton.co.uk//blog/usability-research-labs-uk/</guid>
+        
+        
+        <category>ux</category>
+        
+        <category>research</category>
+        
+      </item>
     
       <item>
         <title>Tools for recording usability tests</title>
@@ -479,36 +504,6 @@
         <category>design</category>
         
         <category>open</category>
-        
-      </item>
-    
-      <item>
-        <title>My BlogConf slides</title>
-        <description>&lt;p&gt;Last Saturday (4th October) I spoke at &lt;a href=&quot;http://www.blogconf.com/&quot; title=&quot;BlogConf website&quot;&gt;BlogConf&lt;/a&gt;, an event aimed at bloggers of all levels. The speakers were a mix of bloggers, journalists, photographers and even poets.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;My talk was an introduction to web design and I really wondered how best to pitch it – should it be practical or just a general overview?&lt;/p&gt;
-
-&lt;p&gt;In the end I decided to base the talk around 3 ideas that have helped me to become a better web designer…&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Release things early, get &lt;strong&gt;feedback&lt;/strong&gt; and improve&lt;/li&gt;
-  &lt;li&gt;Learn as much as you can about &lt;strong&gt;typography&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;Get familiar with &lt;strong&gt;code&lt;/strong&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.slideshare.net/benjystanton/blog-design-at-blogconf&quot; title=&quot;My slides on SlideShare&quot;&gt;Check out my slides&lt;/a&gt;.&lt;/p&gt;
-
-</description>
-        <pubDate>Sat, 11 Oct 2014 22:01:51 +0100</pubDate>
-        <link>http://www.benjystanton.co.uk//blog/my-blogconf-slides/</link>
-        <guid isPermaLink="true">http://www.benjystanton.co.uk//blog/my-blogconf-slides/</guid>
-        
-        
-        <category>design</category>
-        
-        <category>conferences</category>
         
       </item>
     
