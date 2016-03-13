@@ -9,7 +9,6 @@
         text-align: left;
     }
 
-
     a {
         border: none;
     }
@@ -43,7 +42,7 @@
 
         // Gaps between nav items, but not on the first one
         &:not(:first-child) {
-            margin-left: 20px;
+            margin-left: 1em;
         }
 
     }
@@ -118,10 +117,6 @@
 
 }
 
-.page-heading {
-    font-size: 20px;
-}
-
 .post-list {
     margin-left: 0;
     list-style: none;
@@ -173,7 +168,6 @@
 /**
  * Grid
  */
-
  .row {
     @extend %clearfix;
  }
@@ -206,10 +200,10 @@
 }
 
 
+
 /**
  * icons
  */
-
 .icon {
   display: inline-block;
   background-position: 0 0;

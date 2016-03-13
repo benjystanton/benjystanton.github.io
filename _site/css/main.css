@@ -51,7 +51,7 @@ body {
 hr {
   border: 0;
   border-bottom: 1px solid #e1e3e4;
-  margin: 60px 0; }
+  margin: 72px 0; }
 
 /**
  * Set `margin-bottom` to maintain vertical rhythm
@@ -60,7 +60,7 @@ h1, h2, h3, h4, h5, h6,
 p, blockquote, pre,
 ul, ol, dl, figure,
 .highlight {
-  margin-bottom: 15px; }
+  margin-bottom: 18px; }
 
 /**
  * Images
@@ -69,7 +69,7 @@ img {
   height: auto;
   max-width: 100%;
   vertical-align: middle;
-  padding: 30px 0; }
+  padding: 36px 0; }
 
 /**
  * Figures
@@ -84,7 +84,7 @@ figcaption {
  * Lists
  */
 ul, ol {
-  margin-left: 30px; }
+  margin-left: 36px; }
 
 li > ul,
 li > ol {
@@ -100,7 +100,7 @@ h1 {
   font-family: "quatro-slab", sans-serif;
   font-size: 32px;
   font-weight: 900;
-  margin-bottom: 30px; }
+  margin-bottom: 36px; }
   @media screen and (min-width: 700px) {
     h1 {
       font-size: 42px; } }
@@ -133,9 +133,9 @@ footer a {
  */
 blockquote {
   border-left: 4px solid #2d3033;
-  padding-left: 15px;
+  padding-left: 18px;
   font-size: 24px;
-  margin: 30px 0; }
+  margin: 36px 0; }
   blockquote > :last-child {
     margin-bottom: 0; }
 
@@ -171,8 +171,8 @@ pre {
   max-width: 1000px;
   margin-right: auto;
   margin-left: auto;
-  padding-right: 15px;
-  padding-left: 15px; }
+  padding-right: 18px;
+  padding-left: 18px; }
 
 /**
  * Clearfix
@@ -203,10 +203,10 @@ legend {
 fieldset {
   border: none;
   padding: 0;
-  margin-bottom: 30px; }
+  margin-bottom: 36px; }
 
 .field-container {
-  margin-bottom: 30px; }
+  margin-bottom: 36px; }
 
 .field-container label, legend {
   font-weight: bold; }
@@ -229,7 +229,7 @@ button {
  * Site header
  */
 .site-header {
-  padding-top: 30px;
+  padding-top: 36px;
   text-align: center; }
   @media screen and (min-width: 700px) {
     .site-header {
@@ -240,11 +240,11 @@ button {
     padding: 0; }
 
 .site-nav {
-  margin-top: 30px; }
+  margin-top: 36px; }
   @media screen and (min-width: 700px) {
     .site-nav {
       float: right;
-      margin-top: 15px; } }
+      margin-top: 18px; } }
   .site-nav .page-link {
     line-height: 1.5; }
     .site-nav .page-link:hover, .site-nav .page-link:focus {
@@ -253,17 +253,17 @@ button {
     .site-nav .page-link.current {
       border-bottom: 2px solid #58852c; }
     .site-nav .page-link:not(:first-child) {
-      margin-left: 20px; }
+      margin-left: 1em; }
 
 /**
  * Site footer
  */
 .site-footer {
-  padding: 60px 0 0;
+  padding: 72px 0 0;
   text-align: left; }
   .site-footer .wrapper {
-    padding-top: 30px;
-    padding-bottom: 30px;
+    padding-top: 36px;
+    padding-bottom: 36px;
     border-top: 1px solid #e1e3e4; }
   .site-footer a {
     color: #2D3033; }
@@ -292,7 +292,7 @@ button {
  * Page content
  */
 .page-content {
-  padding: 60px 0 30px; }
+  padding: 72px 0 36px; }
   @media screen and (min-width: 700px) {
     .page-content .wrapper {
       padding-right: 25%; } }
@@ -300,16 +300,13 @@ button {
     .page-content .wrapper {
       padding-right: 15%; } }
 
-.page-heading {
-  font-size: 20px; }
-
 .post-list {
   margin-left: 0;
   list-style: none; }
   .post-list li h2 {
     margin-top: 0; }
   .post-list > li {
-    margin-bottom: 30px; }
+    margin-bottom: 36px; }
 
 .post-meta {
   font-size: 14.4px;
@@ -322,24 +319,24 @@ button {
  * Posts
  */
 .post-content {
-  margin-bottom: 30px; }
+  margin-bottom: 36px; }
   .post-content h2 {
     font-size: 32px;
-    margin-top: 60px; }
+    margin-top: 72px; }
   .post-content h3 {
     font-size: 26px;
-    margin-top: 60px; }
+    margin-top: 72px; }
   .post-content h4 {
     font-size: 20px;
-    margin-top: 30px; }
+    margin-top: 36px; }
 
 /**
  * Grid
  */
 .column {
   background-color: #e1e3e4;
-  padding: 15px;
-  margin-bottom: 30px;
+  padding: 18px;
+  margin-bottom: 36px;
   float: left; }
   .column:nth-child(even) {
     background-color: #eeeff0; }
