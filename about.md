@@ -23,18 +23,20 @@ I’ve worked with some great clients over the years; including NHS Wales, Shelt
 ## Experience
 
 Where | When
------ | -------------------
+----- | -----
 Leadin | May 2015 – Present
-Freelance | February 2014 – February 2016
+Freelance | February 2014 – March 2016
 James Good Limited | March 2011 – February 2014
 Freelance | May 2008 – May 2011
 Web Media Works | June 2004 – April 2008
 
 ## Speaking
 
-- Port80 Conference, May 2013
-- Swansea Software Development Community, September 2014
-- Port80 LocalHost Meet-up, November 2014
-- BlogConf Conference, October 2014
-- Cross Gov Design Meet-up, September 2015
-- Swansea Software Development Community, November 2015
+Where | When
+----- | -----
+Port80 Conference | May 2013
+Swansea Software Meetup | September 2014
+Port80 LocalHost Meetup | November 2014
+BlogConf Conference | October 2014
+Cross Gov Design Meetup | September 2015
+Swansea Software Meetup | November 2015
