@@ -29,6 +29,6 @@ We stayed at one in Portsmouth last summer. I made a list of all the little thin
 
 All the little touches add up to make a pleasant experience. We don’t need (or expect) five star treatment.
 
-Premier Inn know they ain’t The Ritz, and they’re okay with that. They specialise in not being The Ritz. There would be little point in them trying to compete with The Ritz.
+Premier Inn know they ain’t The Ritz, and they’re okay with that. They specialise in not being The Ritz.
 
-They understand their customers well, and give them what they need.
+They understand their customers well, and give them just what they need.
