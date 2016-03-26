@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+
 ---
 
 My name is Benjy Stanton and I’m a senior User Experience (UX) designer at [Leadin](http://leadin.co.uk/). I’m based in Swansea, Wales. I design websites, apps and other digital things.
