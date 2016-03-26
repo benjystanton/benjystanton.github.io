@@ -41,3 +41,4 @@ Port80 LocalHost Meetup | November 2014
 BlogConf Conference | October 2014
 Cross Gov Design Meetup | September 2015
 Swansea Software Meetup | November 2015
+Design Swansea | April 2016
