@@ -5,9 +5,41 @@
     <description>UX/UI Designer. Family Man. Music Snob.</description>
     <link>http://www.benjystanton.co.uk//</link>
     <atom:link href="http://www.benjystanton.co.uk//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 26 Mar 2016 21:13:35 +0000</pubDate>
-    <lastBuildDate>Sat, 26 Mar 2016 21:13:35 +0000</lastBuildDate>
+    <pubDate>Sun, 27 Mar 2016 22:11:05 +0100</pubDate>
+    <lastBuildDate>Sun, 27 Mar 2016 22:11:05 +0100</lastBuildDate>
     <generator>Jekyll v3.0.0</generator>
+    
+      <item>
+        <title>I’m speaking at Design Swansea in April</title>
+        <description>&lt;p&gt;I’ve been meaning to speak at &lt;a href=&quot;http://designswansea.org.uk/&quot;&gt;Design Swansea&lt;/a&gt; for a little while now and I’ve finally got a half-decent idea for a talk. (Design Swansea is a monthly meetup that I organise).&lt;/p&gt;
+
+&lt;h2 id=&quot;talk-title&quot;&gt;Talk title&lt;/h2&gt;
+&lt;p&gt;“How to be a user experience designer without losing your soul”.&lt;/p&gt;
+
+&lt;h2 id=&quot;talk-blurb&quot;&gt;Talk blurb&lt;/h2&gt;
+
+&lt;p&gt;Every designer worries about being a slave to the corporate fat cats, but if you focus on helping people with their problems, you can avoid eternal damnation and sleep a little better at night.&lt;/p&gt;
+
+&lt;h2 id=&quot;event-information&quot;&gt;Event information&lt;/h2&gt;
+
+&lt;p&gt;This is happening on Thursday 7th April, from 7pm at &lt;a href=&quot;https://swansea.techhub.com/&quot;&gt;TechHub&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/matthewbeta&quot;&gt;Matthew Jackson&lt;/a&gt;, front end developer at &lt;a href=&quot;http://bluegg.co.uk/&quot;&gt;Bluegg&lt;/a&gt;, is also speaking.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://getinvited.to/designswansea/meet-up-11/&quot;&gt;Get tickets and find out more&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 27 Mar 2016 21:50:00 +0100</pubDate>
+        <link>http://www.benjystanton.co.uk//blog/speaking-design-swansea-april/</link>
+        <guid isPermaLink="true">http://www.benjystanton.co.uk//blog/speaking-design-swansea-april/</guid>
+        
+        
+        <category>uc</category>
+        
+        <category>design</category>
+        
+        <category>speaking</category>
+        
+      </item>
     
       <item>
         <title>Great service (design) at Premier Inn</title>
@@ -434,26 +466,6 @@
         
         
         <category>music</category>
-        
-      </item>
-    
-      <item>
-        <title>Responsive HTML email talk at Winter LocalHost 2014</title>
-        <description>&lt;p&gt;This talk was an a overview of the way I create responsive HTML emails, covering design, build and most importability testing (at &lt;a href=&quot;http://port80events.co.uk/event/winter-localhost-2014/&quot; title=&quot;Winter LocalHost web page&quot;&gt;Port80 Winter Localhost 2014&lt;/a&gt;).&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.slideshare.net/benjystanton/responsive-html-email&quot; title=&quot;My slides on SlideShare&quot;&gt;Check out my slides&lt;/a&gt;.&lt;/p&gt;
-
-</description>
-        <pubDate>Tue, 25 Nov 2014 21:10:07 +0000</pubDate>
-        <link>http://www.benjystanton.co.uk//blog/responsive-html-email-talk-at-winter-localhost-2014/</link>
-        <guid isPermaLink="true">http://www.benjystanton.co.uk//blog/responsive-html-email-talk-at-winter-localhost-2014/</guid>
-        
-        
-        <category>design</category>
-        
-        <category>email</category>
         
       </item>
     

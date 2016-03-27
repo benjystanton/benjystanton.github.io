@@ -2,7 +2,7 @@
 layout: post
 title: Crafting animation on the web (an introduction)
 date: 2013-03-02 20:51:00
-categories: design animation
+categories: design animation speaking
 ---
 
 I&#8217;m going to be speaking about animation on the web at Port80 in May. In short, I&#8217;m hoping to answer the following questions&#8230;

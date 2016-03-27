@@ -2,7 +2,7 @@
 layout: post
 title: Crafting animation on the&nbsp;web
 date: 2013-05-14 00:53:00
-categories: design animation conferences
+categories: design animation conferences speaking
 ---
 
 Notes from my talk at Port80 2013, covering animation principles, CSS and workflow plus a link to my infamous Mario Part animation.
@@ -254,35 +254,35 @@ So what would the The Dream app be like? When working on the web, we’re used t
   <h2>
     Further Reading
   </h2>
-  
+
   <p>
     If you&#8217;d like to learn a bit more from some designers who know a lot more than me, I recommend the following articles (and book).
   </p>
-  
+
   <p>
     <a title="CSS: Animations with Val Head" href="http://www.lynda.com/CSS-tutorials/CSS-Animations/115434-2.html">Lynda Tutorial on CSS Animations by Val Head</a>
   </p>
-  
+
   <p>
     <a title="Five Simple Steps" href="http://www.fivesimplesteps.com/products/css-animations">A Pocket Guide to CSS Animations by Val Head</a>
   </p>
-  
+
   <p>
     <a title="Transitional Interfaces (on Medium)" href="https://medium.com/design-ux/926eb80d64e3">Transitional Interfaces by Pasquale D’Silva</a>
   </p>
-  
+
   <p>
     <a title="A New Mobile UX Design Material (on Smashing Magazine)" href="http://uxdesign.smashingmagazine.com/2012/10/30/motion-animation-new-mobile-ux-design-material/">A New Mobile UX Design Material by Rachel Hinman</a>
   </p>
-  
+
   <p>
     <a title="Flashless Animation (on 24 Ways)" href="http://24ways.org/2012/flashless-animation/">Flashless Animation by Rachel Nabors</a>
   </p>
-  
+
   <p>
     <a title="Better Navigation Through Proprioception (on A List Apart)" href="http://alistapart.com/column/better-navigation-through-proprioception">Better Navigation Through Proprioception by Cennydd Bowles</a>
   </p>
-  
+
   <p>
     <a title="The Animator's Survival Kit (on Wikipedia)" href="http://en.wikipedia.org/wiki/The_Animator's_Survival_Kit">The Animator&#8217;s Survival Kit by Richard Williams</a>
   </p>
