@@ -2,7 +2,7 @@
 layout: post  
 title: I’m speaking at Design Swansea in April  
 date: 2016-03-27 20:50:00  
-categories: uc design speaking
+categories: ux design speaking
 ---
 
 I’ve been meaning to speak at [Design Swansea](http://designswansea.org.uk/) for a little while now and I've finally got a half-decent idea for a talk. (Design Swansea is a monthly meetup that I organise).
