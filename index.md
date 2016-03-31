@@ -3,7 +3,7 @@ layout: default
 title: Benjy Stanton, UX designer
 ---
 
-# My name is Benjy and I’m a User Experience (UX) designer
+# My name is Benjy and I’m a user experience (UX) designer
 
 I’ve been designing things for over 10 years. Right now, I work at [Leadin][1] and organise a [design meet-up in Swansea][2]. I have 2 kids, with one more on the way. When I’m not working, I like to spend time in The Great Outdoors or listening to music.
 
