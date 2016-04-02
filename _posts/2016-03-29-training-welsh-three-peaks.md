@@ -7,7 +7,7 @@ categories: personal
 
 I’m currently in training for the Welsh 3 Peaks Challenge. Together with Hapo, Liam and Sami from [Leadin](http://leadin.co.uk), I’m going to be walking up the three tallest peaks in Wales (Snowdon, Cadair Idris and Pen y Fan) in 15 hours.
 
-Our aim is to raise £1000 for [Ty Hafan](http://www.tyhafan.org/). You can [sponsor us here](https://www.justgiving.com/leadin-uk).
+Our aim is to raise £1000 for [Tŷ Hafan](http://www.tyhafan.org/). You can [sponsor us here](https://www.justgiving.com/leadin-uk).
 
 ## Training walks
 
