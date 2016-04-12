@@ -5,8 +5,8 @@
     <description>UX Designer. Family Man. Music Snob.</description>
     <link>http://www.benjystanton.co.uk//</link>
     <atom:link href="http://www.benjystanton.co.uk//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 12 Apr 2016 21:49:59 +0100</pubDate>
-    <lastBuildDate>Tue, 12 Apr 2016 21:49:59 +0100</lastBuildDate>
+    <pubDate>Tue, 12 Apr 2016 21:59:08 +0100</pubDate>
+    <lastBuildDate>Tue, 12 Apr 2016 21:59:08 +0100</lastBuildDate>
     <generator>Jekyll v3.0.0</generator>
     
       <item>
@@ -65,11 +65,18 @@
       </item>
     
       <item>
-        <title>I’m speaking at Design Swansea in April</title>
+        <title>Speaking at Design Swansea in April</title>
         <description>&lt;p&gt;I’ve been meaning to speak at &lt;a href=&quot;http://designswansea.org.uk/&quot;&gt;Design Swansea&lt;/a&gt; for a little while now and I’ve finally got a half-decent idea for a talk. (Design Swansea is a monthly meetup that I organise).&lt;/p&gt;
 
 &lt;h2 id=&quot;talk-title&quot;&gt;Talk title&lt;/h2&gt;
+
 &lt;p&gt;“How to be a user experience designer without losing your soul”.&lt;/p&gt;
+
+&lt;h2 id=&quot;slides&quot;&gt;Slides&lt;/h2&gt;
+
+&lt;script async=&quot;&quot; class=&quot;speakerdeck-embed&quot; data-id=&quot;f77f0e75ee4f46e9b4db3d859dfcb590&quot; data-ratio=&quot;1.33333333333333&quot; src=&quot;//speakerdeck.com/assets/embed.js&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://speakerdeck.com/benjystanton/how-to-be-a-user-experience-designer-without-losing-your-soul&quot;&gt;View my slides over on Speaker Deck&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;talk-blurb&quot;&gt;Talk blurb&lt;/h2&gt;
 
@@ -77,7 +84,7 @@
 
 &lt;h2 id=&quot;event-information&quot;&gt;Event information&lt;/h2&gt;
 
-&lt;p&gt;This is happening on Thursday 7th April, from 7pm at &lt;a href=&quot;https://swansea.techhub.com/&quot;&gt;TechHub&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Thursday 7th April, from 7pm at &lt;a href=&quot;https://swansea.techhub.com/&quot;&gt;TechHub&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/matthewbeta&quot;&gt;Matthew Jackson&lt;/a&gt;, front end developer at &lt;a href=&quot;http://bluegg.co.uk/&quot;&gt;Bluegg&lt;/a&gt;, is also speaking.&lt;/p&gt;
 
