@@ -5,9 +5,124 @@
     <description>UX Designer. Family Man. Music Snob.</description>
     <link>http://www.benjystanton.co.uk//</link>
     <atom:link href="http://www.benjystanton.co.uk//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 12 Apr 2016 21:59:08 +0100</pubDate>
-    <lastBuildDate>Tue, 12 Apr 2016 21:59:08 +0100</lastBuildDate>
+    <pubDate>Sun, 17 Apr 2016 18:01:06 +0100</pubDate>
+    <lastBuildDate>Sun, 17 Apr 2016 18:01:06 +0100</lastBuildDate>
     <generator>Jekyll v3.0.0</generator>
+    
+      <item>
+        <title>Research findings over the long term</title>
+        <description>&lt;p&gt;My rough and patchy notes from the Cross Government Research meet-up that happened on Tuesday 12 April 2016 at DVLA in Swansea.&lt;/p&gt;
+
+&lt;h2 id=&quot;dave-ellenderhttpstwittercomdaveellender&quot;&gt;&lt;a href=&quot;https://twitter.com/daveellender&quot;&gt;Dave Ellender&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h3 id=&quot;stop-important-stories-from-being-forgotten&quot;&gt;Stop important stories from being forgotten&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;create a spreadsheet of user stories&lt;/li&gt;
+  &lt;li&gt;give each story a star rating&lt;/li&gt;
+  &lt;li&gt;star rating = how many times this problem was seen&lt;/li&gt;
+  &lt;li&gt;use this rating to help prioritise backlog&lt;/li&gt;
+  &lt;li&gt;product owners can really relate to the star rating&lt;/li&gt;
+  &lt;li&gt;if design fixes don’t meet the user need, this method helps to push issues back to the top of the agenda&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;example-user-story-spreadsheet&quot;&gt;Example user story spreadsheet&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;ID&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Story&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Status&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Source&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Star Rating&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Story number&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;User story&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Fixed or not?&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Date &amp;amp; time&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;*****&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;john-waterworthhttpstwittercomjwaterworth&quot;&gt;&lt;a href=&quot;https://twitter.com/jwaterworth&quot;&gt;John Waterworth&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h3 id=&quot;make-research-data-traceable&quot;&gt;Make research data traceable&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;create one folder per round&lt;/li&gt;
+  &lt;li&gt;e.g. date - R12 - name of study&lt;/li&gt;
+  &lt;li&gt;keep all materials in there&lt;/li&gt;
+  &lt;li&gt;participant naming: R12-P3-name-of-file.jpg&lt;/li&gt;
+  &lt;li&gt;prune video files (keep key recordings, delete everything else)&lt;/li&gt;
+  &lt;li&gt;watch out for accidental deletion (especially when using shared folders on Google Drive or Dropbox)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;sharing-and-keeping-findings&quot;&gt;Sharing and keeping findings&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;show and tell what you’ve learnt (this builds up a “corporate memory”)&lt;/li&gt;
+  &lt;li&gt;show 5 to 10 findings per showcase&lt;/li&gt;
+  &lt;li&gt;each slide should have: a heading, 3 points and an image&lt;/li&gt;
+  &lt;li&gt;share the slides around afterwards&lt;/li&gt;
+  &lt;li&gt;build up a library of slides overtime&lt;/li&gt;
+  &lt;li&gt;helps you to understand and remember&lt;/li&gt;
+  &lt;li&gt;create a summary slide at the end of each phase to round-up important findings&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;share-at-every-opportunity&quot;&gt;Share at every opportunity&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;blog posts&lt;/li&gt;
+  &lt;li&gt;make a comic&lt;/li&gt;
+  &lt;li&gt;make posters&lt;/li&gt;
+  &lt;li&gt;create “big picture” journey maps&lt;/li&gt;
+  &lt;li&gt;create things that stay after you’ve gone (this is tricky)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;vicky-teinakihttpstwittercomvickytnz&quot;&gt;&lt;a href=&quot;https://twitter.com/vickytnz&quot;&gt;Vicky Teinaki&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h3 id=&quot;documenting-changes-in-agile-teams&quot;&gt;Documenting changes in agile teams&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;things get buried in confluence&lt;/li&gt;
+  &lt;li&gt;create living documents&lt;/li&gt;
+  &lt;li&gt;Google Drive FTW&lt;/li&gt;
+  &lt;li&gt;spreadsheets don’t work too well&lt;/li&gt;
+  &lt;li&gt;try Google presentations (these are visual, malleable, trackable)&lt;/li&gt;
+  &lt;li&gt;in Google videos, you can link to timestamps&lt;/li&gt;
+  &lt;li&gt;create a stack of successes as you go&lt;/li&gt;
+  &lt;li&gt;use them for decision making&lt;/li&gt;
+  &lt;li&gt;these will help bring new staff up to speed&lt;/li&gt;
+  &lt;li&gt;it’s a hub, it doesn’t have to include everything&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;everything must be shareable&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;tara-landhttpswwwlinkedincominnaintara&quot;&gt;&lt;a href=&quot;https://www.linkedin.com/in/naintara&quot;&gt;Tara Land&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h3 id=&quot;user-needs&quot;&gt;User needs&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;user needs should not become too granular&lt;/li&gt;
+  &lt;li&gt;real user needs are stable (they don’t change much overtime)&lt;/li&gt;
+  &lt;li&gt;they come from the lived experience of real people&lt;/li&gt;
+  &lt;li&gt;read &lt;a href=&quot;http://rosenfeldmedia.com/books/mental-models/&quot;&gt;Indy Young’s Mental Models book&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sat, 16 Apr 2016 18:57:00 +0100</pubDate>
+        <link>http://www.benjystanton.co.uk//blog/research-findings-long-term/</link>
+        <guid isPermaLink="true">http://www.benjystanton.co.uk//blog/research-findings-long-term/</guid>
+        
+        
+        <category>research</category>
+        
+        <category>conferences</category>
+        
+      </item>
     
       <item>
         <title>Training for the Welsh 3 Peaks</title>
@@ -407,96 +522,6 @@
         <category>design</category>
         
         <category>freelance</category>
-        
-      </item>
-    
-      <item>
-        <title>Reasons&amp;#58; London</title>
-        <description>&lt;p&gt;This a quick write up of my experience at &lt;a href=&quot;http://reasons.to/&quot;&gt;Reasons:London&lt;/a&gt; this weekend (Friday 20th February).&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;The &lt;a href=&quot;http://lso.co.uk/lso-st-luke-s&quot;&gt;venue was beautiful&lt;/a&gt; and at lunch time we went to &lt;a href=&quot;http://www.yelp.co.uk/biz/whitecross-market-london&quot;&gt;Whitecross Market&lt;/a&gt; for some great street food (it’s worth a trip in itself).&lt;/p&gt;
-
-&lt;p&gt;We drove from Swansea, so we parked in &lt;a href=&quot;http://www.ncp.co.uk/find-a-car-park/car-parks/hounslow-west-stn-lul/&quot;&gt;Hounslow West NCP&lt;/a&gt;. It’s really cheap and easy to drive to, but beware… some of the car park becomes a market on Saturday morning. We found this out the hard way.&lt;/p&gt;
-
-&lt;h2 id=&quot;harry-roberts&quot;&gt;Harry Roberts&lt;/h2&gt;
-
-&lt;p&gt;Harry opened with a fairly technical look at Sass techniques for building modular CSS. Specifically for when building websites that allow certain levels of customisation and theming. He looked at ways to balance performance with pragmatism.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/csswizardry&quot;&gt;@csswizardry&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://csswizardry.com/&quot;&gt;csswizardry.com&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://speakerdeck.com/csswizardry/4half-methods-for-theming-in-s-css&quot; title=&quot; 4½ Methods for Theming in (S)CSS&quot;&gt;Slides&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;stefanie-posavec&quot;&gt;Stefanie Posavec&lt;/h2&gt;
-
-&lt;p&gt;Stef is a data designer who has worked on some really beautiful projects for clients like Facebook and the Southbank Centre. She opened by talking about an old episode of Newsnight where they covered infographics. Weirdly I remembered this exact episode… I even &lt;a href=&quot;http://www.benjystanton.co.uk/blog/bbc-newsnight-talks-graphic-design-info-graphics/&quot;&gt;blogged about it at the time&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;She called for designers to move on from infographics… using her amazing work as an example of what is possible when you push yourself to come up with original work based on data.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/stefpos&quot;&gt;@stefpos&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.stefanieposavec.co.uk/&quot;&gt;stefanieposavec.co.uk&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;james-hall&quot;&gt;James Hall&lt;/h2&gt;
-
-&lt;p&gt;James Hall had a rather sobering (but really entertaining) round-up of security issues. TLDR:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Don’t use public wifi&lt;/li&gt;
-  &lt;li&gt;Don’t use internet banking&lt;/li&gt;
-  &lt;li&gt;Don’t build websites&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;… all these things are just too insecure.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/mrrio&quot;&gt;@MrRio&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://parall.ax/&quot;&gt;parall.ax&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;anna-dahlstrm&quot;&gt;Anna Dahlström&lt;/h2&gt;
-
-&lt;p&gt;Anna had a really good round-up of thoughts regarding designing for new devices, especially when looking ahead to wearable tech and internet of things things (AKA &lt;a href=&quot;http://seb.ly/st4i-stuff-that-talks-to-the-interwebs/&quot;&gt;STTTTI&lt;/a&gt;) like the Apple Watch. She introduced me to the idea of &lt;a href=&quot;http://globalmoxie.com/blog/index.shtml&quot;&gt;data rash&lt;/a&gt; — a kind of eruption of notifications that is becoming more visible and distracting, the more devices we have.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/annadahlstrom&quot;&gt;@annadahlstrom&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.annadahlstrom.com/&quot;&gt;annadahlstrom.com&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.slideshare.net/annadahlstrom/reasons-london-beyondthehamburgermenu20feb2015&quot; title=&quot;Beyond the hamburger menu&quot;&gt;Slides&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;andrew-clarke&quot;&gt;Andrew Clarke&lt;/h2&gt;
-
-&lt;p&gt;Andy called for web designers to take inspiration from advertising, by reviving the role of the art director. He argued that the recent focus on process and tools had lead teams to overlook the kind of creativity that can often lead to truly original designs. Oh yeah, there were apes too.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/Malarkey&quot;&gt;@Malarkey&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://stuffandnonsense.co.uk/&quot;&gt;stuffandnonsense.co.uk&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;elliot-jay-stocks&quot;&gt;Elliot Jay Stocks&lt;/h2&gt;
-
-&lt;p&gt;Elliot’s talk was a bit of a retrospective of his work, mixed with tips on designing with grids and running an ethical business. It was a lot to cover, but very entertaining and one of my favourite talks. He recommended the experience of working with friends (and even loved ones) and the virtues of always &lt;a href=&quot;http://www.elliotjaystocks.com/blog/pay-your-contributors/&quot;&gt;paying your contributors&lt;/a&gt;.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/elliotjaystocks&quot;&gt;@elliotjaystocks&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.elliotjaystocks.com/&quot;&gt;elliotjaystocks.com&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-</description>
-        <pubDate>Sun, 22 Feb 2015 21:26:01 +0000</pubDate>
-        <link>http://www.benjystanton.co.uk//blog/reasonslondon/</link>
-        <guid isPermaLink="true">http://www.benjystanton.co.uk//blog/reasonslondon/</guid>
-        
-        
-        <category>conferences</category>
-        
-        <category>design</category>
-        
-        <category>ux</category>
         
       </item>
     
