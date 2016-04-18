@@ -5,8 +5,8 @@
     <description>UX Designer. Family Man. Music Snob.</description>
     <link>http://www.benjystanton.co.uk//</link>
     <atom:link href="http://www.benjystanton.co.uk//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 18 Apr 2016 20:49:59 +0100</pubDate>
-    <lastBuildDate>Mon, 18 Apr 2016 20:49:59 +0100</lastBuildDate>
+    <pubDate>Mon, 18 Apr 2016 20:52:03 +0100</pubDate>
+    <lastBuildDate>Mon, 18 Apr 2016 20:52:03 +0100</lastBuildDate>
     <generator>Jekyll v3.0.0</generator>
     
       <item>
@@ -59,28 +59,11 @@
   &lt;li&gt;if design fixes don’t meet the user need, this method helps to push issues back to the top of the agenda&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&quot;example-user-story-spreadsheet&quot;&gt;Example user story spreadsheet&lt;/h3&gt;
+&lt;!-- ### Example user story spreadsheet
 
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt;ID&lt;/th&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt;Story&lt;/th&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt;Status&lt;/th&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt;Source&lt;/th&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt;Star Rating&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Story number&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;User story&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Fixed or not?&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Date &amp;amp; time&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;*****&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
+| ID | Story | Status | Source | Star Rating |
+|:-|:-|:-|:-|:-|
+| Story number | User story | Fixed or not? | Date &amp; time | ***** | --&gt;
 
 &lt;h2 id=&quot;john-waterworthhttpstwittercomjwaterworth&quot;&gt;&lt;a href=&quot;https://twitter.com/jwaterworth&quot;&gt;John Waterworth&lt;/a&gt;&lt;/h2&gt;
 

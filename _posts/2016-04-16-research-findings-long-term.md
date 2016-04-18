@@ -18,11 +18,11 @@ My rough and patchy notes from the Cross Government Research meet-up that happen
 - product owners can really relate to the star rating
 - if design fixes don’t meet the user need, this method helps to push issues back to the top of the agenda
 
-### Example user story spreadsheet
+<!-- ### Example user story spreadsheet
 
 | ID | Story | Status | Source | Star Rating |
 |:-|:-|:-|:-|:-|
-| Story number | User story | Fixed or not? | Date & time | ***** |
+| Story number | User story | Fixed or not? | Date & time | ***** | -->
 
 ## [John Waterworth](https://twitter.com/jwaterworth)
 
