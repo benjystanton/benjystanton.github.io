@@ -133,7 +133,7 @@
 .post-meta {
     font-size: $small-font-size;
     color: lighten($text-color, 20%);
-    
+
     @include media-query($medium) {
         font-size: $small-font-size*1.2;
     }
@@ -229,4 +229,6 @@
   background-image: url("/assets/icons/icon-dribbble.png");
 }
 
-
+.icon-instagram {
+  background-image: url("/assets/icons/icon-instagram.png");
+}
