@@ -117,14 +117,14 @@ small {
 a {
   color: #58852c;
   text-decoration: none;
-  border-bottom: 1px solid #bedf9e; }
+  border-bottom: 2px solid #bedf9e; }
   a:hover, a:focus {
     color: #3f5f1f;
     border-color: #3f5f1f;
     transition: border-color .2s, color .2s; }
 
 footer a {
-  border-bottom: 1px solid #8f969d; }
+  border-bottom: 2px solid #8f969d; }
   footer a:hover, footer a:focus {
     border-color: #2D3033; }
 
