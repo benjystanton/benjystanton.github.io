@@ -5,9 +5,246 @@
     <description>UX Designer. Family Man. Music Snob.</description>
     <link>http://www.benjystanton.co.uk//</link>
     <atom:link href="http://www.benjystanton.co.uk//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 15 May 2016 16:29:30 +0100</pubDate>
-    <lastBuildDate>Sun, 15 May 2016 16:29:30 +0100</lastBuildDate>
+    <pubDate>Sat, 21 May 2016 11:07:43 +0100</pubDate>
+    <lastBuildDate>Sat, 21 May 2016 11:07:43 +0100</lastBuildDate>
     <generator>Jekyll v3.1.3</generator>
+    
+      <item>
+        <title>Port80 2016</title>
+        <description>&lt;h2 id=&quot;louise-howellshttpstwittercomsupertastycake&quot;&gt;&lt;a href=&quot;https://twitter.com/supertastycake&quot;&gt;Louise Howells&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h3 id=&quot;why-so-serious-running-a-team-hack-day&quot;&gt;Why so serious? Running a team hack day&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Louise is a Professional Services Manager at Zengenti&lt;/li&gt;
+  &lt;li&gt;happy working environments are good for staff&lt;/li&gt;
+  &lt;li&gt;good offices need breakout zones&lt;/li&gt;
+  &lt;li&gt;Zengenti call their annual hackathon “Lockdown”&lt;/li&gt;
+  &lt;li&gt;step away from the day job and do something different&lt;/li&gt;
+  &lt;li&gt;teams created digital and physical products like:
+    &lt;ul&gt;
+      &lt;li&gt;a games room in the basement&lt;/li&gt;
+      &lt;li&gt;a BBQ area&lt;/li&gt;
+      &lt;li&gt;a website that listed design conferences&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;helps to foster a community&lt;/li&gt;
+  &lt;li&gt;staff started up book clubs and pool clubs afterwards&lt;/li&gt;
+  &lt;li&gt;it encouraged staff to do job swaps and learn about different areas of the business&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://supertastycake.wordpress.com/2016/04/30/running-a-hack-day-team/&quot;&gt;blog post about running a hack day team&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;gavin-davieshttpstwittercomgavduk&quot;&gt;&lt;a href=&quot;https://twitter.com/gavd_uk&quot;&gt;Gavin Davies&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h3 id=&quot;using-build-tools&quot;&gt;Using build tools&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Gavin is an automation engineer/coder at Radify&lt;/li&gt;
+  &lt;li&gt;software is advancing at a scary pace&lt;/li&gt;
+  &lt;li&gt;it’s important to understand things conceptually first&lt;/li&gt;
+  &lt;li&gt;it’s about workflow not particular tools&lt;/li&gt;
+  &lt;li&gt;improve your workflow&lt;/li&gt;
+  &lt;li&gt;reduce tedious, manual tasks&lt;/li&gt;
+  &lt;li&gt;get feedback sooner&lt;/li&gt;
+  &lt;li&gt;use Grunt or Gulp (it doesn’t matter which) to automate your asset pipeline&lt;/li&gt;
+  &lt;li&gt;use linters to highlight bad code&lt;/li&gt;
+  &lt;li&gt;optimise images and minify code&lt;/li&gt;
+  &lt;li&gt;use gulp-rsync to deploy automatically&lt;/li&gt;
+  &lt;li&gt;use source maps to debug your Sass&lt;/li&gt;
+  &lt;li&gt;Yeoman can help get up and running quickly&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://radify.io/blog/using-build-tools/&quot;&gt;Blog post and PDF about using front-end build tools&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;fred-heathhttpstwittercomfredatbootstrap&quot;&gt;&lt;a href=&quot;https://twitter.com/FredAtBootstrap&quot;&gt;Fred Heath&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h3 id=&quot;the-uncertainty-principle&quot;&gt;The uncertainty principle&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;how do we deal with uncertainty?&lt;/li&gt;
+  &lt;li&gt;why do projects fail?&lt;/li&gt;
+  &lt;li&gt;it’s hard (impossible) to estimate project time and cost&lt;/li&gt;
+  &lt;li&gt;cushioning is when you give a client the worst case estimate and double it, this is bad&lt;/li&gt;
+  &lt;li&gt;telling a client you don’t know how long things will take is not much better&lt;/li&gt;
+  &lt;li&gt;Enter SCRUM&lt;/li&gt;
+  &lt;li&gt;2 week sprints, then show client&lt;/li&gt;
+  &lt;li&gt;product backlog &amp;gt; sprint planning &amp;gt; sprint backlog &amp;gt; sprint&lt;/li&gt;
+  &lt;li&gt;behaviour driven development (BDD) is “outside in” development&lt;/li&gt;
+  &lt;li&gt;stakeholders define features&lt;/li&gt;
+  &lt;li&gt;features are like user stories&lt;/li&gt;
+  &lt;li&gt;tools: &lt;a href=&quot;https://cucumber.io/&quot;&gt;cucumber&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;write scenarios for features&lt;/li&gt;
+  &lt;li&gt;scenarios are like examples e.g. show special offers&lt;/li&gt;
+  &lt;li&gt;these should be in plain English&lt;/li&gt;
+  &lt;li&gt;then write a step definition&lt;/li&gt;
+  &lt;li&gt;sprint planning &amp;gt; define steps (flesh out plan) &amp;gt; do the work &amp;gt; show and tell &amp;gt; retrospective&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;gavin-evanshttpstwittercomgavinaevans-and-jaime-purvis&quot;&gt;&lt;a href=&quot;https://twitter.com/gavinaevans&quot;&gt;Gavin Evans&lt;/a&gt; and Jaime Purvis&lt;/h2&gt;
+
+&lt;h3 id=&quot;designing-accessible-websites&quot;&gt;Designing accessible websites&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;accessibility is about not creating barriers right from the design stage&lt;/li&gt;
+  &lt;li&gt;developers need to use the right mark-up&lt;/li&gt;
+  &lt;li&gt;follow web standards and WCAG 2.0&lt;/li&gt;
+  &lt;li&gt;user testing with actual users with disabilities&lt;/li&gt;
+  &lt;li&gt;tips for better mark-up
+    &lt;ul&gt;
+      &lt;li&gt;provide alternative text for visual content&lt;/li&gt;
+      &lt;li&gt;consider users who don’t use a mouse&lt;/li&gt;
+      &lt;li&gt;use structure and logical hierarchy&lt;/li&gt;
+      &lt;li&gt;don’t suppress zoom&lt;/li&gt;
+      &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;display:none&lt;/code&gt; hides it from everyone, so be careful&lt;/li&gt;
+      &lt;li&gt;always style up hover, active, focus&lt;/li&gt;
+      &lt;li&gt;Use tools to check understanding level of your content&lt;/li&gt;
+      &lt;li&gt;html &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;track&amp;gt;&lt;/code&gt; element to add text or captions to videos (webVTT)&lt;/li&gt;
+      &lt;li&gt;bad error handling is bad&lt;/li&gt;
+      &lt;li&gt;don’t rely on placeholder text only in forms inputs&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.html5accessibility.com/&quot;&gt;www.html5accessibility.com&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Use ARIA roles for sectioning&lt;/li&gt;
+  &lt;li&gt;How to use iOS Voiceover
+    &lt;ul&gt;
+      &lt;li&gt;two finger tap stops speech&lt;/li&gt;
+      &lt;li&gt;swipe left and right to go to next item&lt;/li&gt;
+      &lt;li&gt;twist hand to choose different elements&lt;/li&gt;
+      &lt;li&gt;swipe down with 2 fingers to read on&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;details&amp;gt;&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;summary&amp;gt;&lt;/code&gt; in Firefox with &lt;a href=&quot;http://www.nvaccess.org/&quot;&gt;NVDA&lt;/a&gt; skips over it completely&lt;/li&gt;
+  &lt;li&gt;avoid cluttered designs&lt;/li&gt;
+  &lt;li&gt;mobile versions of sites are generally better&lt;/li&gt;
+  &lt;li&gt;the less content the better&lt;/li&gt;
+  &lt;li&gt;label properly, be descriptive but concise&lt;/li&gt;
+  &lt;li&gt;dynamic sites are hard to navigate, if something changes make sure focus changes too&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;andy-clarkehttpstwittercommalarkey&quot;&gt;&lt;a href=&quot;https://twitter.com/malarkey&quot;&gt;Andy Clarke&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h3 id=&quot;designing-imaginative-grid-systems&quot;&gt;Designing imaginative grid systems&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;web design is boring right now&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://everyfuckingwebsite.com/&quot;&gt;everyfuckingwebsite.com&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.bland.ly/#blandly&quot;&gt;bland.ly&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;(too busy listening to make proper notes sorry)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://speakerdeck.com/malarkey/designing-imaginative-grid-systems-port-80-newport&quot;&gt;Slides for Andy’s talk: Designing imaginative grid systems&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;helen-clarkhttpstwittercomlittlehelli&quot;&gt;&lt;a href=&quot;https://twitter.com/littlehelli&quot;&gt;Helen Clark&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h3 id=&quot;open-and-inclusive-design&quot;&gt;Open and inclusive design&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;beware stealth stakeholders, these are senior staff who pop up at the end of projects and try to change things&lt;/li&gt;
+  &lt;li&gt;work in the open&lt;/li&gt;
+  &lt;li&gt;document everything done on the project (on Tumblr for example)&lt;/li&gt;
+  &lt;li&gt;speak to customers (end users) to discover user stories&lt;/li&gt;
+  &lt;li&gt;get honest, impartial feedback (users might lie if staff are running the research sessions)&lt;/li&gt;
+  &lt;li&gt;speak to staff (at their place of work) especially front line staff&lt;/li&gt;
+  &lt;li&gt;create a list of priories based on this research&lt;/li&gt;
+  &lt;li&gt;create &lt;a href=&quot;http://www.clarkcx.com/advice/paper-prototypes-what-are-they-and-why-use-them&quot;&gt;paper prototypes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;feedback can be applied beyond the website, so share your research&lt;/li&gt;
+  &lt;li&gt;risks of working openly?
+    &lt;ul&gt;
+      &lt;li&gt;research should uncover problems not solutions&lt;/li&gt;
+      &lt;li&gt;working in the open can make some people uncomfortable (it shows the behind the scenes, messy, ugly bits)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;good research means you can justify design decisions&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.codeforamerica.org/&quot;&gt;Code for America&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;build iteratively&lt;/li&gt;
+      &lt;li&gt;people’s needs first&lt;/li&gt;
+      &lt;li&gt;design with data&lt;/li&gt;
+      &lt;li&gt;open by default&lt;/li&gt;
+      &lt;li&gt;ensure everyone can participate&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.growthdrivendesign.com/&quot;&gt;Growth Driven Design&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;launching the website shouldn’t be the end&lt;/li&gt;
+      &lt;li&gt;launch a basic site first&lt;/li&gt;
+      &lt;li&gt;build the must-haves, and leave the nice-to-haves until later&lt;/li&gt;
+      &lt;li&gt;then do continuous improvement&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;beware: clients might block access to users if they feel left out of research&lt;/li&gt;
+  &lt;li&gt;immerse the client in the design team, then both can communicate with the audience&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;ashley-nolanhttpstwittercomashnolan&quot;&gt;&lt;a href=&quot;https://twitter.com/AshNolan_&quot;&gt;Ashley Nolan&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h3 id=&quot;developing-for-the-unknown&quot;&gt;Developing for the unknown&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Ash is front end dev at Just Eat&lt;/li&gt;
+  &lt;li&gt;no docs or commenting leads to legacy code straight away&lt;/li&gt;
+  &lt;li&gt;put the right things in place from the start: structure and workflow&lt;/li&gt;
+  &lt;li&gt;workflow
+    &lt;ul&gt;
+      &lt;li&gt;grunt and gulp can act as self documentation to show new devs what workflows exists&lt;/li&gt;
+      &lt;li&gt;grunt or gulp, it doesn’t matter&lt;/li&gt;
+      &lt;li&gt;create common workflows: e.g. Sass, linting, minifying&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;documentation
+    &lt;ul&gt;
+      &lt;li&gt;good commenting&lt;/li&gt;
+      &lt;li&gt;style guides&lt;/li&gt;
+      &lt;li&gt;“programs should be written for people to read and incidentally for machines to understand”&lt;/li&gt;
+      &lt;li&gt;describe what components do and where they’re used&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;style guide and component library
+    &lt;ul&gt;
+      &lt;li&gt;look for patterns&lt;/li&gt;
+      &lt;li&gt;reuse them across website&lt;/li&gt;
+      &lt;li&gt;organise CSS&lt;/li&gt;
+      &lt;li&gt;start small and extend&lt;/li&gt;
+      &lt;li&gt;components only worry about themselves&lt;/li&gt;
+      &lt;li&gt;Read &lt;a href=&quot;https://smacss.com/&quot;&gt;SMACSS&lt;/a&gt; by Snook&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Naming schemes: BEM or SUIT
+    &lt;ul&gt;
+      &lt;li&gt;be consistent&lt;/li&gt;
+      &lt;li&gt;show relationship between class names&lt;/li&gt;
+      &lt;li&gt;BEM: Block, elements, modifier&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://trykickoff.com/learn/css.html#namingscheme&quot;&gt;BEM naming scheme&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://trykickoff.com/statix/&quot;&gt;Statix, a reusable snippets tool&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;Static site generators &lt;a href=&quot;http://assemble.io/&quot;&gt;Assemble&lt;/a&gt; or &lt;a href=&quot;https://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Separate your concerns
+    &lt;ul&gt;
+      &lt;li&gt;decouple CSS classes from JS&lt;/li&gt;
+      &lt;li&gt;hook JS into data attributes or IDs&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;look into &lt;a href=&quot;http://postcss.org/&quot;&gt;PostCSS&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;whatever we create should be built to last&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;further-reading&quot;&gt;Further reading&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://port80events.co.uk/event/port-80-2016/&quot;&gt;Official Port80 2016 website&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.mearso.co.uk/sketchnotes/port80-2016/&quot;&gt;Sketch notes from Port80 2016 by Mearso&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 20 May 2016 11:46:00 +0100</pubDate>
+        <link>http://www.benjystanton.co.uk//blog/port-80-2016/</link>
+        <guid isPermaLink="true">http://www.benjystanton.co.uk//blog/port-80-2016/</guid>
+        
+        
+        <category>conferences</category>
+        
+        <category>front-end</category>
+        
+        <category>design</category>
+        
+      </item>
     
       <item>
         <title>The last ten percent</title>
@@ -404,44 +641,6 @@
         
         
         <category>design</category>
-        
-      </item>
-    
-      <item>
-        <title>What’s the best way to learn UX?</title>
-        <description>&lt;p&gt;A friend of mine asked for ideas on learning UX , so &lt;a href=&quot;https://twitter.com/benjystanton/status/581882786790928385&quot;&gt;I turned to Twitter&lt;/a&gt; and got a couple of really great responses.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;As Leisa Reichelt hinted at on Twitter; UX is a broad term and it can mean slightly different things to different people (usability, wireframes, user research, interaction design, HCI etc). Nevertheless, these resources should help you if you are just starting out (or even if you’re not)…&lt;/p&gt;
-
-&lt;h2 id=&quot;leisa-reichelt&quot;&gt;Leisa Reichelt&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/leisa&quot;&gt;Leisa&lt;/a&gt; &lt;s&gt;is&lt;/s&gt; was the Head of User Research at &lt;a href=&quot;https://www.gov.uk/&quot;&gt;Gov.uk&lt;/a&gt; at the time, and she gave me a huge list of resources to look at…&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://userresearch.blog.gov.uk/2015/03/18/so-youre-going-to-be-a-user-researcher-top-tips-to-get-you-going/&quot;&gt;So, you’re going to be a user researcher: top tips to get you going&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://userresearchmethods.hackpad.com/Books-that-we-recommend-LChcIQRffI2&quot;&gt;Books that we recommend&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://userresearchmethods.hackpad.com/Training-and-education-for-User-Research-bzr9JUSdv2B&quot;&gt;Training and education for User Research&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;andy-budd&quot;&gt;Andy Budd&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/andybudd&quot;&gt;Andy&lt;/a&gt; is a User Experience Designer, partner at &lt;a href=&quot;http://clearleft.com/&quot;&gt;Clearleft&lt;/a&gt; and curator of &lt;a href=&quot;http://2014.dconstruct.org/&quot;&gt;dConstruct&lt;/a&gt; and &lt;a href=&quot;http://2015.uxlondon.com/&quot;&gt;UX London&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Andy recommend this &lt;a href=&quot;https://generalassemb.ly/education/user-experience-design&quot;&gt;User Experience Design Course&lt;/a&gt; by General Assembly in London.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;P.S. Thanks to &lt;a href=&quot;https://twitter.com/zachinglis&quot;&gt;Zach Inglis&lt;/a&gt; too for pointing me in the right direction.&lt;/em&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Sat, 28 Mar 2015 20:06:06 +0000</pubDate>
-        <link>http://www.benjystanton.co.uk//blog/whats-the-best-way-to-learn-ux/</link>
-        <guid isPermaLink="true">http://www.benjystanton.co.uk//blog/whats-the-best-way-to-learn-ux/</guid>
-        
-        
-        <category>design</category>
-        
-        <category>ux</category>
         
       </item>
     
