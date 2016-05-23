@@ -77,3 +77,7 @@ My rough and patchy notes from the Cross Government Research meet-up that happen
 - real user needs are stable (they don’t change much overtime)
 - they come from the lived experience of real people
 - read [Indy Young’s Mental Models book](http://rosenfeldmedia.com/books/mental-models/)
+
+## Further reading
+
+- [GDS blog post: Research findings over the long term](https://userresearch.blog.gov.uk/2016/05/20/cross-government-meetup-research-findings-over-the-long-term/)
