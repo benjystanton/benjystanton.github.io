@@ -42,3 +42,4 @@ BlogConf Conference | October 2014
 Cross Gov Design Meetup | September 2015
 Swansea Software Meetup | November 2015
 Design Swansea | April 2016
+Design Stuff Cardiff | June 2016
