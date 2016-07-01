@@ -29,15 +29,10 @@
 
     .page-link {
         line-height: $base-line-height;
+        text-decoration: none;
 
         &:hover, &:focus {
             color: $brand-color;
-            transition: border-color .2s, color .2s;
-        }
-
-        &.current {
-            border-bottom: 2px solid $brand-color;
-
         }
 
         // Gaps between nav items, but not on the first one
@@ -87,7 +82,7 @@
 }
 
 .site-footer-icons a {
-    border-bottom: none;
+  text-decoration: none;
     margin-right: 1em;
 
     &:last-child {

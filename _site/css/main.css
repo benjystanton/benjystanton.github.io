@@ -115,18 +115,12 @@ small {
  * Links
  */
 a {
-  color: #58852c;
-  text-decoration: none;
-  border-bottom: 2px solid #bedf9e; }
+  color: #58852c; }
   a:hover, a:focus {
-    color: #3f5f1f;
-    border-color: #3f5f1f;
-    transition: border-color .2s, color .2s; }
+    color: #2D3033; }
 
-footer a {
-  border-bottom: 2px solid #8f969d; }
-  footer a:hover, footer a:focus {
-    border-color: #2D3033; }
+footer a:hover, footer a:focus {
+  color: #58852c; }
 
 /**
  * Blockquotes
@@ -246,12 +240,10 @@ button {
       float: right;
       margin-top: 18px; } }
   .site-nav .page-link {
-    line-height: 1.5; }
+    line-height: 1.5;
+    text-decoration: none; }
     .site-nav .page-link:hover, .site-nav .page-link:focus {
-      color: #58852c;
-      transition: border-color .2s, color .2s; }
-    .site-nav .page-link.current {
-      border-bottom: 2px solid #58852c; }
+      color: #58852c; }
     .site-nav .page-link:not(:first-child) {
       margin-left: 1em; }
 
@@ -283,7 +275,7 @@ button {
       margin-top: 0; } }
 
 .site-footer-icons a {
-  border-bottom: none;
+  text-decoration: none;
   margin-right: 1em; }
   .site-footer-icons a:last-child {
     margin-right: 0; }
