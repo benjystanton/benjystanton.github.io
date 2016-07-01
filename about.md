@@ -25,11 +25,11 @@ I’ve worked with some great clients over the years; including NHS Wales, Shelt
 
 Where | When
 ----- | -----
-Leadin | May 2015 – Present
-Freelance | February 2014 – March 2016
-James Good Limited | March 2011 – February 2014
-Freelance | May 2008 – May 2011
-Web Media Works | June 2004 – April 2008
+Leadin | May 2015 to present
+Freelance | February 2014 to March 2016
+James Good Limited | March 2011 to February 2014
+Freelance | May 2008 to May 2011
+Web Media Works | June 2004 to April 2008
 
 ## Speaking
 
