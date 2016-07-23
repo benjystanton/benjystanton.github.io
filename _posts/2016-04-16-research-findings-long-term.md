@@ -2,7 +2,7 @@
 layout: post  
 title: Research findings over the long term  
 date: 2016-04-16 17:57:00  
-categories: research conferences
+categories: research conferences meetup
 ---
 
 My rough and patchy notes from the Cross Government Research meet-up that happened on Tuesday 12 April 2016 at DVLA in Swansea.

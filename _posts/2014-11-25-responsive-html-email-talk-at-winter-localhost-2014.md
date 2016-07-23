@@ -2,7 +2,7 @@
 layout: post
 title: Responsive HTML email talk at Winter LocalHost 2014
 date: 2014-11-25 21:10:07
-categories: design email speaking
+categories: design email speaking meetup
 ---
 
 This talk was an a overview of the way I create responsive HTML emails, covering design, build and most importability testing (at [Port80 Winter Localhost 2014][1]).
