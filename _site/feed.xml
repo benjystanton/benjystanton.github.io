@@ -5,9 +5,32 @@
     <description>UX Designer. Family Man. Music Snob.</description>
     <link>http://www.benjystanton.co.uk//</link>
     <atom:link href="http://www.benjystanton.co.uk//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 23 Jul 2016 18:27:06 +0100</pubDate>
-    <lastBuildDate>Sat, 23 Jul 2016 18:27:06 +0100</lastBuildDate>
+    <pubDate>Fri, 29 Jul 2016 15:08:30 +0100</pubDate>
+    <lastBuildDate>Fri, 29 Jul 2016 15:08:30 +0100</lastBuildDate>
     <generator>Jekyll v3.1.3</generator>
+    
+      <item>
+        <title>Should designers design content?</title>
+        <description>&lt;p&gt;In my experience, graphic designers are often relied upon to write the words used in an interface (also known as microcopy).&lt;/p&gt;
+
+&lt;p&gt;Designers are also in a good position to improve longer types of content like blog articles. Remember, this content might have been written by someone who is not experienced at writing for the screens.&lt;/p&gt;
+
+&lt;p&gt;For these reasons, I think it’s the responsibility of graphic designers to improve a website’s content (unless you are lucky enough to work with a great content designer).&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.gov.uk/guidance/content-design/what-is-content-design&quot;&gt;What is content design?&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 28 Jul 2016 16:07:00 +0100</pubDate>
+        <link>http://www.benjystanton.co.uk//blog/should-designers-design-content/</link>
+        <guid isPermaLink="true">http://www.benjystanton.co.uk//blog/should-designers-design-content/</guid>
+        
+        
+        <category>content</category>
+        
+        <category>design</category>
+        
+        <category>web</category>
+        
+      </item>
     
       <item>
         <title>The first UK Government accessibility meet-up</title>
@@ -621,39 +644,6 @@ Ben Schneiderman&lt;/p&gt;
         <category>ux</category>
         
         <category>research</category>
-        
-      </item>
-    
-      <item>
-        <title>Tools for recording usability tests</title>
-        <description>&lt;p&gt;Good old Twitter… I asked my friends to &lt;a href=&quot;https://twitter.com/benjystanton/status/690206840827834368&quot;&gt;recommend screen recording software&lt;/a&gt; (specifically for recording usability tests), and I got a list of great looking apps to try. Silverback was the clear favourite, although the latest version appears to be in private beta.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://silverbackapp.com/&quot;&gt;Silverback&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://support.apple.com/en-gb/HT201066&quot;&gt;Quicktime&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://itunes.apple.com/gb/app/viewport/id953817966&quot;&gt;Viewport&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://lookback.io/&quot;&gt;Lookback&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://validately.com/&quot;&gt;Validately&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://obsproject.com/&quot;&gt;Open Broadcaster Software&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.telestream.net/screenflow/overview.htm&quot;&gt;Screenflow&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.ambrosiasw.com/utilities/snapzprox/&quot;&gt;SnapzProX&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Did I miss anything?&lt;/p&gt;
-
-</description>
-        <pubDate>Fri, 22 Jan 2016 20:53:00 +0000</pubDate>
-        <link>http://www.benjystanton.co.uk//blog/tools-for-recording-usability-tests/</link>
-        <guid isPermaLink="true">http://www.benjystanton.co.uk//blog/tools-for-recording-usability-tests/</guid>
-        
-        
-        <category>ux</category>
-        
-        <category>design</category>
-        
-        <category>tools</category>
         
       </item>
     
