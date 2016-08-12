@@ -288,6 +288,9 @@ button {
   @media screen and (min-width: 660px) {
     .page-content .wrapper {
       padding-right: 30%; } }
+  @media screen and (min-width: 900px) {
+    .page-content .wrapper {
+      padding-right: 20%; } }
 
 .post-list {
   margin-left: 0;

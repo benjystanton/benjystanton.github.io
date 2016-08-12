@@ -104,6 +104,12 @@
         }
     }
 
+    @include media-query($large) {
+        .wrapper {
+            padding-right: 20%;
+        }
+    }
+
 }
 
 .post-list {
