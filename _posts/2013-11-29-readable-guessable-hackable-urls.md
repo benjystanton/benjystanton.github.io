@@ -2,7 +2,7 @@
 layout: post  
 title: Readable, guessable and hackable urls
 date: 2013-11-29 11:41:00  
-categories: design content ia
+categories: design content ia conference
 ---
 
 The stand-out talk at Handheld 2013 was from Jeremy Keith, Founder & Web Stuff Do-er(?) at Clearleft in Brighton. Among other things, he talked about the importance of designing urls.
@@ -13,13 +13,13 @@ In some cases the url may be the first point of contact between you and the user
 
 ## Examples from HuffDuffer
 
-- ``http://huffduffer.com/new``
-- ``http://huffduffer.com/username``
-- ``http://huffduffer.com/tags/tag``
-- ``http://huffduffer.com/username/tags/tag``
-- ``http://huffduffer.com/username/collective``
-- ``http://huffduffer.com/username/collective/tags/tag``
-- ``http://huffduffer.com/search?q=query``
+- ``/new``
+- ``/username``
+- ``/tags/tag``
+- ``/username/tags/tag``
+- ``/username/collective``
+- ``/username/collective/tags/tag``
+- ``/search?q=query``
 
 ## Urls work anywhere
 
