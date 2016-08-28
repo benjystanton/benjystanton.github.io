@@ -67,7 +67,7 @@ ul, ol, dl, figure,
  */
 img {
   height: auto;
-  max-width: 100%;
+  width: 100%;
   vertical-align: middle;
   padding: 36px 0; }
 
@@ -231,7 +231,8 @@ button {
   .site-header a {
     border: none; }
   .site-header img {
-    padding: 0; }
+    padding: 0;
+    width: 160px; }
 
 .site-nav {
   margin-top: 36px; }
