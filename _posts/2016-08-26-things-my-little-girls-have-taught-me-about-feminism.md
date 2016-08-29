@@ -57,14 +57,15 @@ Nearly as bad as mansplaining is manspreading. Guys have a look down at your leg
 
 Credit: WNYC New York Public Radio (CC BY-NC 2.0)
 
-So, if like me, you’re keen to be a better man then I recommend following [@manwhohasitall on twitter](https://twitter.com/manwhohasitall). It’s account that takes headlines from trashy women’s magazines then aims them at men.
+So, if like me, you’re keen to be a better man then I recommend following [@manwhohasitall on twitter](https://twitter.com/manwhohasitall). It’s an account that takes headlines from trashy women’s magazines then aims them at men.
 
 Like this one:
+
 > “Men! Is having it all really possible? Kids, relationship, beach hair, imaginative picnic ideas AND a PH balanced intimate area?”
 
 It highlights the absurd way that women are treated by the media sometimes.
 
-So I’m hear today as sign of solidarity to say: “My name is Benjy and I’m a feminist”.
+So I’m hear today as a sign of solidarity to say: “My name is Benjy and I’m a feminist”.
 
 …and guys, it’s okay if you want to watch pink, sparkly things sometimes. It doesn’t mean you’re any less of a man. It doesn’t mean you’re gay. It doesn’t mean anything. Unless you want it to. Just relax and enjoy it.
 
