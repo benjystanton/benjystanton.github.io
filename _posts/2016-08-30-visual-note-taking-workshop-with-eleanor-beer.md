@@ -33,6 +33,7 @@ My notes from the Visual Notetaking Made Easy event on Thursday 11th August at I
 - Layouts: linear, circular, random, path or grid
 
 ## Shopping list
+
 ### Pens
 - [Tiger Pens](http://www.tigerpens.co.uk/)
 - [Pen & Paper, Cardiff](https://www.penandpaper.co.uk/)
