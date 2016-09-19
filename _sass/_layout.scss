@@ -13,6 +13,10 @@
         border: none;
     }
 
+    .logo:focus {
+      background-color: $white-color;
+    }
+
     img {
         padding: 0;
         width:160px;
@@ -32,8 +36,8 @@
         line-height: $base-line-height;
         text-decoration: none;
 
-        &:hover, &:focus {
-            color: $brand-color;
+        &:hover {
+          color: $brand-color;
         }
 
         // Gaps between nav items, but not on the first one
@@ -215,6 +219,11 @@
   background-repeat: no-repeat;
   background-size: 100%;
 }
+
+.site-footer-icons a:focus {
+  background-color: $white-color;
+}
+
 
 .icon-social {
   width: 25px;

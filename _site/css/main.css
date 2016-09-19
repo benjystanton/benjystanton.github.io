@@ -116,11 +116,18 @@ small {
  */
 a {
   color: #58852c; }
-  a:hover, a:focus {
+  a:hover {
     color: #2D3033; }
+  a:focus {
+    background-color: #58852c;
+    color: #ffffff;
+    outline: 3px solid #58852c;
+    text-decoration: none; }
 
-footer a:hover, footer a:focus {
+.site-footer a:hover {
   color: #58852c; }
+.site-footer a:focus {
+  color: #ffffff; }
 
 /**
  * Blockquotes
@@ -230,6 +237,8 @@ button {
       text-align: left; } }
   .site-header a {
     border: none; }
+  .site-header .logo:focus {
+    background-color: #ffffff; }
   .site-header img {
     padding: 0;
     width: 160px; }
@@ -243,7 +252,7 @@ button {
   .site-nav .page-link {
     line-height: 1.5;
     text-decoration: none; }
-    .site-nav .page-link:hover, .site-nav .page-link:focus {
+    .site-nav .page-link:hover {
       color: #58852c; }
     .site-nav .page-link:not(:first-child) {
       margin-left: 1em; }
@@ -363,6 +372,9 @@ button {
   background-position: 0 0;
   background-repeat: no-repeat;
   background-size: 100%; }
+
+.site-footer-icons a:focus {
+  background-color: #ffffff; }
 
 .icon-social {
   width: 25px;

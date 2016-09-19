@@ -147,16 +147,27 @@ small {
 a {
     color: $brand-color;
 
-    &:hover, &:focus {
+    &:hover {
         color: $text-color;
+    }
+
+    &:focus {
+      background-color: $brand-color;
+      color: $white-color;
+      outline: 3px solid $brand-color;
+      text-decoration: none;
     }
 
 }
 
-footer a {
+.site-footer a {
 
-    &:hover, &:focus {
+    &:hover {
         color: $brand-color;
+    }
+
+    &:focus {
+        color: $white-color;
     }
 }
 

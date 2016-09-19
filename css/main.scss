@@ -15,7 +15,8 @@ $base-line-height: 1.5;
 $spacing-unit:     36px;
 
 $text-color:       #2D3033;
-$background-color: #ffffff;
+$white-color:      #ffffff;
+$background-color: $white-color;
 $brand-color:      #58852c;
 
 // Width of the content area
