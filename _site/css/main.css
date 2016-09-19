@@ -252,8 +252,6 @@ button {
   .site-nav .page-link {
     line-height: 1.5;
     text-decoration: none; }
-    .site-nav .page-link:hover {
-      color: #58852c; }
     .site-nav .page-link:not(:first-child) {
       margin-left: 1em; }
 
