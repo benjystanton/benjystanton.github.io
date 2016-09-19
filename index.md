@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Benjy Stanton, UX designer
+title: Benjy Stanton – UX designer
 ---
 
 # My name is Benjy and I’m a user experience (UX) designer
