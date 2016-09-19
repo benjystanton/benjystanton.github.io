@@ -248,6 +248,15 @@ button {
     .site-nav .page-link:not(:first-child) {
       margin-left: 1em; }
 
+/* Make skiplinks visible when they are tabbed to */
+.skiplink {
+  position: absolute;
+  left: -9999em; }
+
+.skiplink:focus {
+  left: 0;
+  z-index: 1; }
+
 /**
  * Site footer
  */
