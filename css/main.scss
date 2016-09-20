@@ -6,18 +6,8 @@
 
 
 // Our variables
-$base-font-family: "omnes-pro", sans-serif;
-$heading-font-family: "quatro-slab", sans-serif;
-$base-font-size:   18px;
-$small-font-size:  $base-font-size * 0.8;
-$base-line-height: 1.5;
 
-$spacing-unit:     36px;
 
-$text-color:       #2D3033;
-$white-color:      #ffffff;
-$background-color: $white-color;
-$brand-color:      #58852c;
 
 // Width of the content area
 $medium:      	  660px;
@@ -35,7 +25,9 @@ $large:      	    900px;
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
-        "base",
-        "layout",
-        "syntax-highlighting"
+"typography",
+"colours",
+"base",
+"layout",
+"syntax-highlighting"
 ;
