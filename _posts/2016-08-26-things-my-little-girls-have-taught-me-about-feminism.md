@@ -9,7 +9,7 @@ image-alt: My 2 little girls, smiling in a phone box.
 
 A rough transcript of my talk on feminism at Ignite Swansea.  
 
-![My 2 little girls, smiling in a phone box.](http://www.benjystanton.co.uk/assets/my-little-girls.png)
+![My 2 little girls, smiling in a phone box.]({{ site.url }}/assets/my-little-girls.png)
 
 Here are my 2 little girls. Don’t be taken in by their cuteness, they are quite evil. Their favourite things are having meltdowns in the supermarket and making fun of my receding hair.
 
@@ -43,7 +43,7 @@ It’s a typical example of the way men react online when gender roles are rever
 
 The trolls have been out in force over the new Ghostbusters film too. But look how happy these 2 girls are. This is what representation in the media can do:
 
-![Kristen Wiig meeting 2 girls dressed in Ghostbusters fancy dress.](http://www.benjystanton.co.uk/assets/ghostbusters-representation.jpg)
+![Kristen Wiig meeting 2 girls dressed in Ghostbusters fancy dress.]({{ site.url }}/assets/ghostbusters-representation.jpg)
 
 The olympics have been full of men saying embarrassing things too.
 
@@ -53,7 +53,7 @@ And this [bloke on Twitter, mansplaining to olympic athlete](https://twitter.com
 
 Nearly as bad as mansplaining is manspreading. Guys have a look down at your legs now and if you’re manspreading then do the people either side of you a favour and close them up a little. You’re not that big.
 
-![Man on a train sitting with his legs very far apart.](http://www.benjystanton.co.uk/assets/manspreading.jpg)
+![Man on a train sitting with his legs very far apart.]({{ site.url }}/assets/manspreading.jpg)
 
 Credit: WNYC New York Public Radio (CC BY-NC 2.0)
 
@@ -69,7 +69,7 @@ So I’m hear today as a sign of solidarity to say: “My name is Benjy and I’
 
 …and guys, it’s okay if you want to watch pink, sparkly things sometimes. It doesn’t mean you’re any less of a man. It doesn’t mean you’re gay. It doesn’t mean anything. Unless you want it to. Just relax and enjoy it.
 
-![A pink super hero draws a huge heart in the sky.](http://www.benjystanton.co.uk/assets/glitter-force.gif)
+![A pink super hero draws a huge heart in the sky.]({{ site.url }}/assets/glitter-force.gif)
 
 Thanks.
 

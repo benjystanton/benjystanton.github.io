@@ -15,11 +15,11 @@
   <meta name="twitter:title" content="Making responsive HTML emails" />
   <meta name="twitter:description" content="This is a run down of my process for designing, building and testing responsive HTML emails. I’ve also included lots of links to articles and resources for f..." />
   
-  <meta name="twitter:image:src" content="http://www.benjystanton.co.uk/assets/benjy-stanton.jpg">
+  <meta name="twitter:image:src" content="http://benjystanton.github.io/assets/benjy-stanton.jpg">
   
   <link rel="stylesheet" href="/css/main.css">
-  <link rel="canonical" href="http://www.benjystanton.co.uk//blog/making-responsive-html-emails/">
-  <link rel="alternate" type="application/rss+xml" title="Benjy Stanton" href="http://www.benjystanton.co.uk//feed.xml" />
+  <link rel="canonical" href="http://benjystanton.github.io/blog/making-responsive-html-emails/">
+  <link rel="alternate" type="application/rss+xml" title="Benjy Stanton" href="http://benjystanton.github.io/feed.xml" />
 
   <script src="https://use.typekit.net/wcw4icc.js"></script>
   <script>try{Typekit.load();}catch(e){}</script>
@@ -35,7 +35,7 @@
   <div class="wrapper">
 
     <a class="logo" href="/">
-    	<img src="../assets/logo.png" alt="" height="52" width="160">
+    	<img src="http://benjystanton.github.io/assets/logo.png" alt="" height="52" width="160">
     	<p class="visuallyhidden">Benjy Stanton</p>
 
     </a>
@@ -112,11 +112,11 @@
 
 <p>Once you know what email clients you need to support, this guide from Campaign Monitor is really useful for checking what CSS is supported by various email clients: <a href="https://www.campaignmonitor.com/css/">The Ultimate Guide to CSS</a>.</p>
 
-<p><img src="http://www.benjystanton.co.uk/assets/email-css-support-table.png" alt="CSS Support in Emails" /></p>
+<p><img src="http://benjystanton.github.io/assets/email-css-support-table.png" alt="CSS Support in Emails" /></p>
 
 <p>If you can’t get any information about what email clients your users have, then this website from Litmus lists the top 10 clients according to their analytics: <a href="http://emailclientmarketshare.com/">Email Client Market Share</a>. You’ll notice that ‘mobile’ makes up a big chunk of users.</p>
 
-<p><img src="http://www.benjystanton.co.uk/assets/email-client-market-share.png" alt="Email Client Market Share" /></p>
+<p><img src="http://benjystanton.github.io/assets/email-client-market-share.png" alt="Email Client Market Share" /></p>
 
 <h2 id="sketching">Sketching</h2>
 
@@ -126,13 +126,13 @@
 
 <p>Next, I’ll begin to sketch a layout, slowly grouping the elements together into a very rough design.</p>
 
-<p><img src="http://www.benjystanton.co.uk/assets/email-design-sketch.png" alt="Sketching an Email Design" /></p>
+<p><img src="http://benjystanton.github.io/assets/email-design-sketch.png" alt="Sketching an Email Design" /></p>
 
 <h2 id="designing">Designing</h2>
 
 <p>If this is the first ever campaign, or the design is a big departure from previous campaigns, then I’ll jump into Photoshop (or whatever) at this point to mock-up a concept. This is useful for me as it helps to experiment with and gather any fonts, colours and imagery etc that I’ll be using.</p>
 
-<p><img src="http://www.benjystanton.co.uk/assets/designing-an-email.jpg" alt="Designing an Email in Illustrator" /></p>
+<p><img src="http://benjystanton.github.io/assets/designing-an-email.jpg" alt="Designing an Email in Illustrator" /></p>
 
 <p>If you are comfortable working directly in the browser than do that, I think that whatever is the fastest and most comfortable way for you to begin iterating on the design is the best route to take.</p>
 
@@ -154,11 +154,11 @@
 
 <p>Don’t forget how cluttered many email clients can be, don’t let your complicated design contribute to the noise. Your users probably don’t want to waste time and effort reading your email. So my recommendation would be to design with 1 column and plenty of space between elements to make things as easy as possible.</p>
 
-<p><img src="http://www.benjystanton.co.uk/assets/busy-email-inbox-interface.jpg" alt="A Busy Email Inbox" /></p>
+<p><img src="http://benjystanton.github.io/assets/busy-email-inbox-interface.jpg" alt="A Busy Email Inbox" /></p>
 
 <p>Consider also how the email copy will read in the inbox view too. The user may be presented with just the name of the sender, the subject line, and just a few words from the beginning of the email, before they decide whether to read it, swipe it straight to archive, or even worse, mark it as spam.</p>
 
-<p><img src="http://www.benjystanton.co.uk/assets/email-preview-pane.png" alt="The iPhone’s Mail Inbox Preview Pane" /></p>
+<p><img src="http://benjystanton.github.io/assets/email-preview-pane.png" alt="The iPhone’s Mail Inbox Preview Pane" /></p>
 
 <h3 id="spam">Spam</h3>
 
@@ -172,7 +172,7 @@
 
 <p>As I’m sure most of you know, HTML emails are built with tables instead of divs for layout. And for fine-grained control over things like spacing, you may even need to put each heading and paragraph in their own table cells too.</p>
 
-<p><img src="http://www.benjystanton.co.uk/assets/email-bloated-code.jpg" alt="Bloated Email Code" /></p>
+<p><img src="http://benjystanton.github.io/assets/email-bloated-code.jpg" alt="Bloated Email Code" /></p>
 
 <p>This results in horribly bloated code. And that’s before you’ve added all the CSS inline (we need to do this because Outlook and Gmail strip out CSS from the head).</p>
 
@@ -237,7 +237,7 @@
   <li>Windows Live Mail (Windows)</li>
 </ul>
 
-<p>The last email I did took about 15 tests before I was happy with it. Testing the same design 15 times on multiple email clients can get pretty demoralising, so to help ease the pain I created this handy <a href="http://www.benjystanton.co.uk/assets/email-client-testing.pdf" title="Email Testing PDF">PDF for testing email clients</a>.</p>
+<p>The last email I did took about 15 tests before I was happy with it. Testing the same design 15 times on multiple email clients can get pretty demoralising, so to help ease the pain I created this handy <a href="http://benjystanton.github.io/assets/email-client-testing.pdf" title="Email Testing PDF">PDF for testing email clients</a>.</p>
 
 <h3 id="debugging-common-problems">Debugging Common Problems</h3>
 
@@ -268,7 +268,7 @@
 
 <p>Rather than use these services directly, I use a feature via MailChimp called Inbox Inspection. This is powered by Litmus, and if you have a free MailChimp account, it only costs $3 per test which can work out cheaper than a monthly subscription.</p>
 
-<p><img src="http://www.benjystanton.co.uk/assets/email-design-testing.png" alt="Email Design Testing with Litmus" /></p>
+<p><img src="http://benjystanton.github.io/assets/email-design-testing.png" alt="Email Design Testing with Litmus" /></p>
 
 <h2 id="conclusion">Conclusion</h2>
 

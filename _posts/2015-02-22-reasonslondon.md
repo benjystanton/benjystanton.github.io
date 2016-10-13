@@ -72,7 +72,7 @@ Elliot’s talk was a bit of a retrospective of his work, mixed with tips on des
  [5]: https://twitter.com/csswizardry
  [6]: http://csswizardry.com/
  [7]: https://speakerdeck.com/csswizardry/4half-methods-for-theming-in-s-css " 4½ Methods for Theming in (S)CSS"
- [8]: http://www.benjystanton.co.uk/blog/bbc-newsnight-talks-graphic-design-info-graphics/
+ [8]: {{ site.url }}/blog/bbc-newsnight-talks-graphic-design-info-graphics/
  [9]: https://twitter.com/stefpos
  [10]: http://www.stefanieposavec.co.uk/
  [11]: https://twitter.com/mrrio

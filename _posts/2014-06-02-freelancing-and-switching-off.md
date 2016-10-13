@@ -57,7 +57,7 @@ Watching more telly and having a drink are easy solutions, but they probably don
 
 Time to dust off the surfboard I think.
 
-![My lonely surfboard]({{ site.url }}assets/surfboard.jpg)
+![My lonely surfboard]({{ site.url }}/assets/surfboard.jpg)
 
  [1]: https://twitter.com/benjystanton/status/472389216782262272
  [2]: https://twitter.com/StuRobson
@@ -72,4 +72,4 @@ Time to dust off the surfboard I think.
  [11]: https://twitter.com/Keiron
  [12]: https://twitter.com/aoimedia
  [13]: https://twitter.com/sanjaypoyzer
- [14]: http://www.benjystanton.co.uk/wp-content/uploads/2014/06/8bb1095acda411e1b9a5123138140995_7.jpg
+ [14]: {{ site.url }}/wp-content/uploads/2014/06/8bb1095acda411e1b9a5123138140995_7.jpg

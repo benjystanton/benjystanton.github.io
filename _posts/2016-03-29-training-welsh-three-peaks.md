@@ -15,7 +15,7 @@ In effort to get fit and make sure we can complete the challenge on the day, weâ
 
 ### Brecon waterfalls
 
-![One of the many waterfalls we saw]({{ site.url }}assets/brecon-waterfalls.jpg)
+![One of the many waterfalls we saw]({{ site.url }}/assets/brecon-waterfalls.jpg)
 
 - 7.7 miles
 - 2:38 hours
@@ -24,7 +24,7 @@ In effort to get fit and make sure we can complete the challenge on the day, weâ
 
 ### Port Eynon to Llanmadoc (Gower)
 
-![Panorama of Rhossili Bay]({{ site.url }}assets/rhossili=bay.jpg)
+![Panorama of Rhossili Bay]({{ site.url }}/assets/rhossili-bay.jpg)
 
 - 13.5 miles
 - 4:08 hours
@@ -33,7 +33,7 @@ In effort to get fit and make sure we can complete the challenge on the day, weâ
 
 ### Brecon Beacons
 
-![Panorama of the ridges on the way to Pen y Fan]({{ site.url }}assets/brecon-beacons.jpg)
+![Panorama of the ridges on the way to Pen y Fan]({{ site.url }}/assets/brecon-beacons.jpg)
 
 - 12.6 miles
 - 4:39 hours

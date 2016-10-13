@@ -9,7 +9,7 @@ image-alt: A sketch of a star.
 
 My notes from the Visual Notetaking Made Easy event on Thursday 11th August at Innovation House, Magor.
 
-![A drawing of a star and some lines from my sketchbook.](http://www.benjystanton.co.uk/assets/sketchnote-elements.png)
+![A drawing of a star and some lines from my sketchbook.]({{ site.url }}/assets/sketchnote-elements.png)
 
 ## Intro
 - Visual note-taking is basically notes with doodles

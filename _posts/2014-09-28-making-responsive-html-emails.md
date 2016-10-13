@@ -50,11 +50,11 @@ The reality is you will probably need to support a range of web, mobile and desk
 
 Once you know what email clients you need to support, this guide from Campaign Monitor is really useful for checking what CSS is supported by various email clients: [The Ultimate Guide to CSS][4].
 
-![CSS Support in Emails]({{ site.url }}assets/email-css-support-table.png)
+![CSS Support in Emails]({{ site.url }}/assets/email-css-support-table.png)
 
 If you can’t get any information about what email clients your users have, then this website from Litmus lists the top 10 clients according to their analytics: [Email Client Market Share][5]. You’ll notice that ‘mobile’ makes up a big chunk of users.
 
-![Email Client Market Share]({{ site.url }}assets/email-client-market-share.png)
+![Email Client Market Share]({{ site.url }}/assets/email-client-market-share.png)
 
 ## Sketching
 
@@ -64,13 +64,13 @@ This helps me to develop a hierarchy and a source order. And, by initially limit
 
 Next, I’ll begin to sketch a layout, slowly grouping the elements together into a very rough design.
 
-![Sketching an Email Design]({{ site.url }}assets/email-design-sketch.png)
+![Sketching an Email Design]({{ site.url }}/assets/email-design-sketch.png)
 
 ## Designing
 
 If this is the first ever campaign, or the design is a big departure from previous campaigns, then I’ll jump into Photoshop (or whatever) at this point to mock-up a concept. This is useful for me as it helps to experiment with and gather any fonts, colours and imagery etc that I’ll be using.
 
-![Designing an Email in Illustrator]({{ site.url }}assets/designing-an-email.jpg)
+![Designing an Email in Illustrator]({{ site.url }}/assets/designing-an-email.jpg)
 
 If you are comfortable working directly in the browser than do that, I think that whatever is the fastest and most comfortable way for you to begin iterating on the design is the best route to take.
 
@@ -92,11 +92,11 @@ Complicated designs take a very long time to test once built. And *more importan
 
 Don’t forget how cluttered many email clients can be, don’t let your complicated design contribute to the noise. Your users probably don’t want to waste time and effort reading your email. So my recommendation would be to design with 1 column and plenty of space between elements to make things as easy as possible.
 
-![A Busy Email Inbox]({{ site.url }}assets/busy-email-inbox-interface.jpg)
+![A Busy Email Inbox]({{ site.url }}/assets/busy-email-inbox-interface.jpg)
 
 Consider also how the email copy will read in the inbox view too. The user may be presented with just the name of the sender, the subject line, and just a few words from the beginning of the email, before they decide whether to read it, swipe it straight to archive, or even worse, mark it as spam.
 
-![The iPhone’s Mail Inbox Preview Pane]({{ site.url }}assets/email-preview-pane.png)
+![The iPhone’s Mail Inbox Preview Pane]({{ site.url }}/assets/email-preview-pane.png)
 
 ### Spam
 
@@ -110,7 +110,7 @@ Personally, I’m not a huge fan of using frameworks to build websites, but when
 
 As I’m sure most of you know, HTML emails are built with tables instead of divs for layout. And for fine-grained control over things like spacing, you may even need to put each heading and paragraph in their own table cells too.
 
-![Bloated Email Code]({{ site.url }}assets/email-bloated-code.jpg)
+![Bloated Email Code]({{ site.url }}/assets/email-bloated-code.jpg)
 
 This results in horribly bloated code. And that’s before you’ve added all the CSS inline (we need to do this because Outlook and Gmail strip out CSS from the head).
 
@@ -196,7 +196,7 @@ There are two email testing services that I would recommend…
 
 Rather than use these services directly, I use a feature via MailChimp called Inbox Inspection. This is powered by Litmus, and if you have a free MailChimp account, it only costs $3 per test which can work out cheaper than a monthly subscription.
 
-![Email Design Testing with Litmus]({{ site.url }}assets/email-design-testing.png)
+![Email Design Testing with Litmus]({{ site.url }}/assets/email-design-testing.png)
 
 ## Conclusion
 
@@ -247,7 +247,7 @@ Last of all, I find the best way to stay up-to-date with techniques and best pra
  [19]: http://buttons.cm/
  [20]: https://imageoptim.com/
  [21]: https://www.campaignmonitor.com/resources/will-it-work/image-blocking/
- [22]: http://www.benjystanton.co.uk/assets/email-client-testing.pdf "Email Testing PDF"
+ [22]: {{ site.url }}/assets/email-client-testing.pdf "Email Testing PDF"
  [23]: https://www.campaignmonitor.com/blog/post/3457/media-query-issues-in-yahoo-mail-mobile-email/
  [24]: https://www.campaignmonitor.com/guides/mobile/coding/
  [25]: https://litmus.com/blog/update-banning-blue-links-on-ios-devices

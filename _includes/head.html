@@ -12,10 +12,10 @@
   <meta name="twitter:title" content="{{ page.title }}" />
   <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}" />
   {% if page.image %}
-  <meta name="twitter:image:src" content="{{ site.url }}assets/{{ page.image }}">
+  <meta name="twitter:image:src" content="{{ site.url }}/assets/{{ page.image }}">
   <meta name="twitter:image:alt" content="{{ page.image-alt }}">
   {% else %}
-  <meta name="twitter:image:src" content="{{ site.url }}assets/benjy-stanton.jpg">
+  <meta name="twitter:image:src" content="{{ site.url }}/assets/benjy-stanton.jpg">
   {% endif %}
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
