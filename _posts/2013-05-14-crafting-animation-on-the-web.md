@@ -292,7 +292,7 @@ So what would the The Dream app be like? When working on the web, we’re used t
  [2]: http://mearso.com/2013/05/port80-sketchnotes-benjy-stanton/ "Sketch notes by @Mearso"
  [3]: http://port80events.co.uk/port80-2013-round-up/ "Links to all the speaker's slides and the official photos"
  [4]: https://vimeo.com/66002457 "The Nativity (on Vimeo)"
- [5]: http://www.benjystanton.co.uk/blog/animation-as-a-design-material/ "Animation as a Design Material"
+ [5]: {{ site.url }}/blog/animation-as-a-design-material/ "Animation as a Design Material"
  [6]: http://vimeo.com/41558459 "The Complete Animade Lernz"
  [7]: http://animade.tv/ "Animade’s Website"
  [8]: http://vimeo.com/28505330 "Ready Steady Bang"
