@@ -7,7 +7,7 @@ image: creating-a-digital-delivery-culture.png
 image-alt: Creating a digital delivery culture. Work in the open. Share, not send. Right people, same room. Less process, more progress. Don’t wait for permission. Show the thing.
 ---
 
-I’m a big fan of this [digital delivery culture poster](https://twitter.com/BenHolliday/status/657085783250227200), from [Ben Holliday](https://twitter.com/BenHolliday) and his team at [Digital DWP](https://twitter.com/digitaldwp) (Department for Work and Pensions).
+I’m a big fan of this [digital delivery culture poster](https://twitter.com/BenHolliday/status/657085783250227200), from [Ben Holliday](https://twitter.com/BenHolliday) and his team at [DWP Digital](https://twitter.com/DWPDigital) (Department for Work and Pensions).
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Digital delivery culture &gt; How we need to work to make this happen. Starting the conversation… / <a href="https://twitter.com/DigitalDWP">@DigitalDWP</a> <a href="https://t.co/SJpxh0RiFj">pic.twitter.com/SJpxh0RiFj</a></p>&mdash; Ben Holliday (@BenHolliday) <a href="https://twitter.com/BenHolliday/status/657085783250227200">October 22, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
