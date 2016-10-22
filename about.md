@@ -5,7 +5,11 @@ permalink: /about/
 
 ---
 
-My name is Benjy Stanton and I’m a senior User Experience (UX) designer at [Leadin](http://leadin.co.uk/). I’m based in Swansea, Wales. I design websites, apps and other digital things.
+My name is Benjy Stanton and I’m a User Experience (UX) designer at Office for National Statistics (ONS). I'm part of the [ONS digital](https://blog.ons.digital/) team.
+
+My full name is Benjamin, but nobody calls me that. No one calls me Ben either. Benj is good.
+
+Previously, I was at [Leadin](http://leadin.co.uk/), a service design agency in Swansea.
 
 I care about user needs, content, accessibility and good typography.
 
@@ -19,15 +23,16 @@ I care about user needs, content, accessibility and good typography.
 
 ## Clients
 
-I’ve worked with some great clients over the years; including NHS Wales, Shelter Cymru, Joe’s Ice Cream and Scouts Wales.
+I’ve worked with some great clients over the years; including the Driver and Vehicle Licensing Agency (DVLA), the The Secure Anonymised Information Linkage (SAIL) Databank, the NHS Wales Informatics Service (NWIS), Shelter Cymru, Joe’s Ice Cream and Scouts Wales.
 
 ## Experience
 
 Where | When
 ----- | -----
-Leadin | May 2015 to present
+ONS | October 2016 to present
+Leadin | May 2015 to October 2016
 Freelance | February 2014 to March 2016
-James Good Limited | March 2011 to February 2014
+James Good | March 2011 to February 2014
 Freelance | May 2008 to May 2011
 Web Media Works | June 2004 to April 2008
 
@@ -35,11 +40,12 @@ Web Media Works | June 2004 to April 2008
 
 Where | When
 ----- | -----
-Port80 Conference | May 2013
-Swansea Software Meetup | September 2014
+[Ignite Swansea](https://www.youtube.com/watch?v=9_XQ6H9Kmh0) | August 2016
+Design Stuff Cardiff | June 2016
+Design Swansea | April 2016
+Swansea Software Meetup | November 2015
+Cross Government Design Meetup | September 2015
 Port80 LocalHost Meetup | November 2014
 BlogConf Conference | October 2014
-Cross Gov Design Meetup | September 2015
-Swansea Software Meetup | November 2015
-Design Swansea | April 2016
-Design Stuff Cardiff | June 2016
+Swansea Software Meetup | September 2014
+Port80 Conference | May 2013
