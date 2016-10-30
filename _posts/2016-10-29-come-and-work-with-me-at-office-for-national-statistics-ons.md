@@ -3,6 +3,8 @@ layout: post
 title: Come and work with me at Office for National Statistics (ONS)
 date: 2016-10-29 01:14:00  
 categories: ons hiring
+image: ons-logomark.png
+image-alt: Office for National Statistics logomark
 ---
 
 I’ve just finished my second week at ONS. You can [read about my first week on the ONS Digital blog](https://blog.ons.digital/2016/10/21/my-first-week/). My second week was spent kicking off a big new project, more about that soon.
@@ -14,7 +16,7 @@ ONS are currently on the look out for [2 user experience (UX) designers](https:/
 ## What do UX designers do?
 The role has different meanings to different people. I really like this [list of UX designer skills]({{ site.url }}/blog/user-experience-ux-designer-skills/).
 
-I don’t think you need to be an expert in all of these things. But, if you are good at a few (and have an appreciation for why the rest are important) then I think you’ll make a good UX designer.
+I don’t think you need to be an expert in all of those things. But, if you are good at a few (and have an appreciation for why the rest are important) then I think you’ll make a good UX designer.
 
 ## Open days
 
