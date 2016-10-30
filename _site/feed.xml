@@ -5,9 +5,73 @@
     <description>UX Designer. Family Man. Music Snob.</description>
     <link>http://benjystanton.github.io/</link>
     <atom:link href="http://benjystanton.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 22 Oct 2016 22:38:56 +0100</pubDate>
-    <lastBuildDate>Sat, 22 Oct 2016 22:38:56 +0100</lastBuildDate>
+    <pubDate>Sun, 30 Oct 2016 01:19:50 +0100</pubDate>
+    <lastBuildDate>Sun, 30 Oct 2016 01:19:50 +0100</lastBuildDate>
     <generator>Jekyll v3.1.3</generator>
+    
+      <item>
+        <title>Come and work with me at Office for National Statistics (ONS)</title>
+        <description>&lt;p&gt;I’ve just finished my second week at ONS. You can &lt;a href=&quot;https://blog.ons.digital/2016/10/21/my-first-week/&quot;&gt;read about my first week on the ONS Digital blog&lt;/a&gt;. My second week was spent kicking off a big new project, more about that soon.&lt;/p&gt;
+
+&lt;h2 id=&quot;were-hiring-designers-and-researchers&quot;&gt;We’re hiring designers and researchers&lt;/h2&gt;
+
+&lt;p&gt;ONS are currently on the look out for &lt;a href=&quot;https://www.civilservicejobs.service.gov.uk/csr/jobs.cgi?jcode=1512692&quot;&gt;2 user experience (UX) designers&lt;/a&gt; and a few &lt;a href=&quot;https://www.civilservicejobs.service.gov.uk/csr/jobs.cgi?jcode=1512654&quot;&gt;user researchers&lt;/a&gt;. The roles are based in either Newport or Titchfield.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-do-ux-designers-do&quot;&gt;What do UX designers do?&lt;/h2&gt;
+&lt;p&gt;The role has different meanings to different people. I really like this &lt;a href=&quot;http://127.0.0.1:4000/blog/user-experience-ux-designer-skills/&quot;&gt;list of UX designer skills&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I don’t think you need to be an expert in all of these things. But, if you are good at a few (and have an appreciation for why the rest are important) then I think you’ll make a good UX designer.&lt;/p&gt;
+
+&lt;h2 id=&quot;open-days&quot;&gt;Open days&lt;/h2&gt;
+
+&lt;p&gt;If you’re interested, but would like to know more, we have 2 open days coming up:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Newport on Tuesday 1 November from 2pm to 7pm&lt;/li&gt;
+  &lt;li&gt;Titchfield on Thursday 3 November from 2pm to 7pm&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.ons.gov.uk/aboutus/contactus/officelocations&quot;&gt;View map and contact details on ONS website&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;whats-it-like-at-ons&quot;&gt;What’s it like at ONS?&lt;/h2&gt;
+
+&lt;p&gt;The main thing that convinced me to work at ONS was this: &lt;a href=&quot;https://productforthepeople.xyz/product-is-a-team-sport-c50d234745e#.uk86uylv5&quot;&gt;Product is a team sport, a talk/blog post by Matt Jukes&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;If you want to get an insight into the culture here at ONS, then I recommend that you take 10 minutes to read that.&lt;/p&gt;
+
+&lt;p&gt;Apart from the working culture and good pay (£35k) there are some great benefits, like:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;flexible working&lt;/li&gt;
+  &lt;li&gt;a Civil Service pension&lt;/li&gt;
+  &lt;li&gt;an on-site nursery at our Newport site&lt;/li&gt;
+  &lt;li&gt;an on-site gym&lt;/li&gt;
+  &lt;li&gt;free car-parking&lt;/li&gt;
+  &lt;li&gt;a training/conference budget&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I have 3 young kids and I commute from Swansea to Newport each day (50 miles each way). I don’t think I could do this job if it wasn’t for the (actually) flexible working arrangements and support from my managers.&lt;/p&gt;
+
+&lt;h2 id=&quot;apply&quot;&gt;Apply&lt;/h2&gt;
+&lt;p&gt;The closing date for applications is Tuesday 15 November 2016. If you have any questions, feel free to &lt;a href=&quot;https://twitter.com/benjystanton&quot;&gt;direct message (DM) me on Twitter&lt;/a&gt;. My DMs are open.&lt;/p&gt;
+
+&lt;h3 id=&quot;links-to-full-job-descriptions&quot;&gt;Links to full job descriptions&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.civilservicejobs.service.gov.uk/csr/jobs.cgi?jcode=1512692&quot;&gt;User experience (UX) designer&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.civilservicejobs.service.gov.uk/csr/jobs.cgi?jcode=1512654&quot;&gt;User researcher&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sat, 29 Oct 2016 02:14:00 +0100</pubDate>
+        <link>http://benjystanton.github.io/blog/come-and-work-with-me-at-office-for-national-statistics-ons/</link>
+        <guid isPermaLink="true">http://benjystanton.github.io/blog/come-and-work-with-me-at-office-for-national-statistics-ons/</guid>
+        
+        
+        <category>ons</category>
+        
+        <category>hiring</category>
+        
+      </item>
     
       <item>
         <title>Creating a digital delivery culture</title>
@@ -611,112 +675,6 @@ Ben Schneiderman&lt;/p&gt;
         <category>design</category>
         
         <category>process</category>
-        
-      </item>
-    
-      <item>
-        <title>Research findings over the long term</title>
-        <description>&lt;p&gt;My rough and patchy notes from the Cross Government Research meet-up that happened on Tuesday 12 April 2016 at DVLA in Swansea.&lt;/p&gt;
-
-&lt;h2 id=&quot;dave-ellenderhttpstwittercomdaveellender&quot;&gt;&lt;a href=&quot;https://twitter.com/daveellender&quot;&gt;Dave Ellender&lt;/a&gt;&lt;/h2&gt;
-
-&lt;h3 id=&quot;stop-important-stories-from-being-forgotten&quot;&gt;Stop important stories from being forgotten&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;create a spreadsheet of user stories&lt;/li&gt;
-  &lt;li&gt;give each story a star rating&lt;/li&gt;
-  &lt;li&gt;star rating = how many times this problem was seen&lt;/li&gt;
-  &lt;li&gt;use this rating to help prioritise backlog&lt;/li&gt;
-  &lt;li&gt;product owners can really relate to the star rating&lt;/li&gt;
-  &lt;li&gt;if design fixes don’t meet the user need, this method helps to push issues back to the top of the agenda&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;!-- ### Example user story spreadsheet
-
-| ID | Story | Status | Source | Star Rating |
-|:-|:-|:-|:-|:-|
-| Story number | User story | Fixed or not? | Date &amp; time | ***** | --&gt;
-
-&lt;h2 id=&quot;john-waterworthhttpstwittercomjwaterworth&quot;&gt;&lt;a href=&quot;https://twitter.com/jwaterworth&quot;&gt;John Waterworth&lt;/a&gt;&lt;/h2&gt;
-
-&lt;h3 id=&quot;make-research-data-traceable&quot;&gt;Make research data traceable&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;create one folder per round&lt;/li&gt;
-  &lt;li&gt;e.g. date - R12 - name of study&lt;/li&gt;
-  &lt;li&gt;keep all materials in there&lt;/li&gt;
-  &lt;li&gt;participant naming: R12-P3-name-of-file.jpg&lt;/li&gt;
-  &lt;li&gt;prune video files (keep key recordings, delete everything else)&lt;/li&gt;
-  &lt;li&gt;watch out for accidental deletion (especially when using shared folders on Google Drive or Dropbox)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;sharing-and-keeping-findings&quot;&gt;Sharing and keeping findings&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;show and tell what you’ve learnt (this builds up a “corporate memory”)&lt;/li&gt;
-  &lt;li&gt;show 5 to 10 findings per showcase&lt;/li&gt;
-  &lt;li&gt;each slide should have: a heading, 3 points and an image&lt;/li&gt;
-  &lt;li&gt;share the slides around afterwards&lt;/li&gt;
-  &lt;li&gt;build up a library of slides overtime&lt;/li&gt;
-  &lt;li&gt;helps you to understand and remember&lt;/li&gt;
-  &lt;li&gt;create a summary slide at the end of each phase to round-up important findings&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;share-at-every-opportunity&quot;&gt;Share at every opportunity&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;blog posts&lt;/li&gt;
-  &lt;li&gt;make a comic&lt;/li&gt;
-  &lt;li&gt;make posters&lt;/li&gt;
-  &lt;li&gt;create “big picture” journey maps&lt;/li&gt;
-  &lt;li&gt;create things that stay after you’ve gone (this is tricky)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;vicky-teinakihttpstwittercomvickytnz&quot;&gt;&lt;a href=&quot;https://twitter.com/vickytnz&quot;&gt;Vicky Teinaki&lt;/a&gt;&lt;/h2&gt;
-
-&lt;h3 id=&quot;documenting-changes-in-agile-teams&quot;&gt;Documenting changes in agile teams&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;things get buried in confluence&lt;/li&gt;
-  &lt;li&gt;create living documents&lt;/li&gt;
-  &lt;li&gt;Google Drive FTW&lt;/li&gt;
-  &lt;li&gt;spreadsheets don’t work too well&lt;/li&gt;
-  &lt;li&gt;try Google presentations (these are visual, malleable, trackable)&lt;/li&gt;
-  &lt;li&gt;in Google videos, you can link to timestamps&lt;/li&gt;
-  &lt;li&gt;create a stack of successes as you go&lt;/li&gt;
-  &lt;li&gt;use them for decision making&lt;/li&gt;
-  &lt;li&gt;these will help bring new staff up to speed&lt;/li&gt;
-  &lt;li&gt;it’s a hub, it doesn’t have to include everything&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;everything must be shareable&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;tara-landhttpswwwlinkedincominnaintara&quot;&gt;&lt;a href=&quot;https://www.linkedin.com/in/naintara&quot;&gt;Tara Land&lt;/a&gt;&lt;/h2&gt;
-
-&lt;h3 id=&quot;user-needs&quot;&gt;User needs&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;user needs should not become too granular&lt;/li&gt;
-  &lt;li&gt;real user needs are stable (they don’t change much overtime)&lt;/li&gt;
-  &lt;li&gt;they come from the lived experience of real people&lt;/li&gt;
-  &lt;li&gt;read &lt;a href=&quot;http://rosenfeldmedia.com/books/mental-models/&quot;&gt;Indy Young’s Mental Models book&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;further-reading&quot;&gt;Further reading&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://userresearch.blog.gov.uk/2016/05/20/cross-government-meetup-research-findings-over-the-long-term/&quot;&gt;GDS blog post: Research findings over the long term&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Sat, 16 Apr 2016 18:57:00 +0100</pubDate>
-        <link>http://benjystanton.github.io/blog/research-findings-long-term/</link>
-        <guid isPermaLink="true">http://benjystanton.github.io/blog/research-findings-long-term/</guid>
-        
-        
-        <category>research</category>
-        
-        <category>conferences</category>
-        
-        <category>meetup</category>
         
       </item>
     
