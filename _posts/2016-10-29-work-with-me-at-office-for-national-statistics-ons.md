@@ -1,6 +1,6 @@
 ---
 layout: post  
-title: Come and work with me at Office for National Statistics (ONS)
+title: Work with me at Office for National Statistics (ONS)
 date: 2016-10-29 01:14:00  
 categories: ons hiring
 image: ons-logomark.png
