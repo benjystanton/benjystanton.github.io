@@ -12,7 +12,7 @@ I’ve just finished my second week at ONS. You can [read about my first week on
 ONS are currently on the look out for [2 user experience (UX) designers](https://www.civilservicejobs.service.gov.uk/csr/jobs.cgi?jcode=1512692) and a few [user researchers](https://www.civilservicejobs.service.gov.uk/csr/jobs.cgi?jcode=1512654). The roles are based in either Newport or Titchfield.
 
 ## What do UX designers do?
-The role has different meanings to different people. I really like this [list of UX designer skills](http://127.0.0.1:4000/blog/user-experience-ux-designer-skills/).
+The role has different meanings to different people. I really like this [list of UX designer skills]({{ site.url }}/blog/user-experience-ux-designer-skills/).
 
 I don’t think you need to be an expert in all of these things. But, if you are good at a few (and have an appreciation for why the rest are important) then I think you’ll make a good UX designer.
 
