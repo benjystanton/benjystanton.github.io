@@ -7,6 +7,8 @@ image: user-research-activity-cards.png
 image-alt: colourful activity cards stuck up on the wall
 ---
 
+![Paper prototyping]({{ site.url }}/assets/paper-prototyping.png)
+
 GDS (Government Digital Service) have created this lovely set of user research activity cards. I spotted them stuck up on the wall at ONS (Office for National Statistics).
 
 After a little bit of poking around online, I found the original file. So here’s the link and a round-up of the activities.
