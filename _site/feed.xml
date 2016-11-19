@@ -5,9 +5,49 @@
     <description>UX Designer. Family Man. Music Snob.</description>
     <link>http://benjystanton.github.io/</link>
     <atom:link href="http://benjystanton.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 30 Oct 2016 01:34:58 +0100</pubDate>
-    <lastBuildDate>Sun, 30 Oct 2016 01:34:58 +0100</lastBuildDate>
+    <pubDate>Sat, 19 Nov 2016 22:13:23 +0000</pubDate>
+    <lastBuildDate>Sat, 19 Nov 2016 22:13:23 +0000</lastBuildDate>
     <generator>Jekyll v3.1.3</generator>
+    
+      <item>
+        <title>User research activity cards</title>
+        <description>&lt;p&gt;&lt;img src=&quot;http://benjystanton.github.io/assets/paper-prototyping.png&quot; alt=&quot;Paper prototyping&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;GDS (Government Digital Service) have created this lovely set of user research activity cards. I spotted them stuck up on the wall at ONS (Office for National Statistics).&lt;/p&gt;
+
+&lt;p&gt;After a little bit of poking around online, I found the original file. So here’s the link and a round-up of the activities.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/alphagov/govdesign/blob/master/Cards_User_Research_Activities.pdf&quot;&gt;Download the GDS user research activity cards&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;activities&quot;&gt;Activities&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Guided tour&lt;/li&gt;
+  &lt;li&gt;Pop-up research&lt;/li&gt;
+  &lt;li&gt;Sketch your idea&lt;/li&gt;
+  &lt;li&gt;Conversation cards&lt;/li&gt;
+  &lt;li&gt;Social network mapping&lt;/li&gt;
+  &lt;li&gt;Affinity mapping&lt;/li&gt;
+  &lt;li&gt;Card sorting&lt;/li&gt;
+  &lt;li&gt;Think aloud&lt;/li&gt;
+  &lt;li&gt;Write a diary&lt;/li&gt;
+  &lt;li&gt;In their environment&lt;/li&gt;
+  &lt;li&gt;Map your use&lt;/li&gt;
+  &lt;li&gt;A day in the life&lt;/li&gt;
+  &lt;li&gt;User persona&lt;/li&gt;
+  &lt;li&gt;Paper prototyping&lt;/li&gt;
+  &lt;li&gt;My user journey&lt;/li&gt;
+  &lt;li&gt;Remote research&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 09 Nov 2016 19:15:00 +0000</pubDate>
+        <link>http://benjystanton.github.io/blog/user-research-activity-cards/</link>
+        <guid isPermaLink="true">http://benjystanton.github.io/blog/user-research-activity-cards/</guid>
+        
+        
+        <category>research</category>
+        
+      </item>
     
       <item>
         <title>Work with me at Office for National Statistics (ONS)</title>
@@ -642,39 +682,6 @@ Ben Schneiderman&lt;/p&gt;
         <category>front-end</category>
         
         <category>design</category>
-        
-      </item>
-    
-      <item>
-        <title>The last ten percent</title>
-        <description>&lt;p&gt;At my first design job, we used to talk about the last 10%. This was the time that we’d set aside at the end of a project, to sit down and review the website together.&lt;/p&gt;
-
-&lt;p&gt;We’d compare the (almost) finished website against the mock-ups, the navigation diagrams and the content plan. We’d stop &lt;em&gt;making&lt;/em&gt; the site and try to &lt;em&gt;experience&lt;/em&gt; the site. We solved content issues, white space issues, typography issues, interaction issues. We were designing in the browser, although we didn’t call it that.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;We were designing in the browser, although we didn’t call it that.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Sometimes we’d even be shifting pixels about. Yeah I know pixel perfection is an unrealistic goal, but if every element is 5 pixels out, then the overall effect can be a design that feels &lt;a href=&quot;http://us5.campaign-archive2.com/?u=7e093c5cf4&amp;amp;id=564702bd96&quot;&gt;disjointed and unbalanced&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;It would always take longer than 10% of the project budget to get this done. But the effect was usually huge. It turned a site from an average one into a great one.&lt;/p&gt;
-
-&lt;p&gt;Part of the downfall of that business was that later on, we tried to cut out this process. We tried to compartmentalise our individual skills. We tried to force a waterfall approach and to become more streamlined. We stopped allowing for the final 10%. This meant that we shipped websites that weren’t finished, even though we had ticked every box in “our process”.&lt;/p&gt;
-
-&lt;p&gt;For a long time I held on the the crazy idea that better planning, better skills and more experience would lead to projects that didn’t need this review process.&lt;/p&gt;
-
-&lt;p&gt;Whatever you call it — the last 10%, testing, proofing, quality assurance — this is when the real work starts. It’s much more agile and much more realistic. It’s how really good products and services are designed.&lt;/p&gt;
-
-&lt;p&gt;Now, the last 10% usually takes up about 90% of the budget.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 17 Apr 2016 21:47:00 +0100</pubDate>
-        <link>http://benjystanton.github.io/blog/the-last-ten-percent/</link>
-        <guid isPermaLink="true">http://benjystanton.github.io/blog/the-last-ten-percent/</guid>
-        
-        
-        <category>design</category>
-        
-        <category>process</category>
         
       </item>
     
