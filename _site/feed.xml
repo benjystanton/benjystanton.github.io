@@ -5,9 +5,66 @@
     <description>UX Designer. Family Man. Music Snob.</description>
     <link>http://benjystanton.github.io/</link>
     <atom:link href="http://benjystanton.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 19 Nov 2016 23:13:35 +0000</pubDate>
-    <lastBuildDate>Sat, 19 Nov 2016 23:13:35 +0000</lastBuildDate>
+    <pubDate>Sun, 15 Jan 2017 13:16:52 +0000</pubDate>
+    <lastBuildDate>Sun, 15 Jan 2017 13:16:52 +0000</lastBuildDate>
     <generator>Jekyll v3.1.3</generator>
+    
+      <item>
+        <title>Retrospective (my first 2 months)</title>
+        <description>&lt;p&gt;It’s been 2 months since I started at ONS (Office for National Statistics). Generally speaking, I’m pleased with how I’m doing. I’m excited by the work and the team are great.&lt;/p&gt;
+
+&lt;p&gt;Here’s a quick retrospective that I’m going to turn into my New Year’s resolutions.&lt;/p&gt;
+
+&lt;h2 id=&quot;keep-doing&quot;&gt;Keep doing&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Feeding research findings back into the design process&lt;/li&gt;
+  &lt;li&gt;Working with the team to design and iterate together&lt;/li&gt;
+  &lt;li&gt;Met with lots of people and teams&lt;/li&gt;
+  &lt;li&gt;Blogging (although this has slowed down)&lt;/li&gt;
+  &lt;li&gt;Designing in the open (again, could do more)&lt;/li&gt;
+  &lt;li&gt;Getting design evidence from a range of sources (analytics, surveys, usability testing, subject matter experts and lessons learned from previous projects)&lt;/li&gt;
+  &lt;li&gt;Show and tells, stand-ups and team walls are working well&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;need-to-improve&quot;&gt;Need to improve&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Need an improved research rhythm&lt;/li&gt;
+  &lt;li&gt;Need to recruit more users&lt;/li&gt;
+  &lt;li&gt;I’m getting stressed out by the competing priorities&lt;/li&gt;
+  &lt;li&gt;Need to be better at switching contexts, focus on one task at a time&lt;/li&gt;
+  &lt;li&gt;Need to accept criticism without taking it personally&lt;/li&gt;
+  &lt;li&gt;Need to break for lunch and eat properly&lt;/li&gt;
+  &lt;li&gt;Need more exercise&lt;/li&gt;
+  &lt;li&gt;Falling behind with training&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;actions&quot;&gt;Actions&lt;/h2&gt;
+
+&lt;h3 id=&quot;research-rhythm&quot;&gt;Research rhythm&lt;/h3&gt;
+&lt;p&gt;Work even more closely with researcher to make sure we get more momentum in our research schedule. Try more varied research techniques.&lt;/p&gt;
+
+&lt;h3 id=&quot;work-from-home-more&quot;&gt;Work from home more&lt;/h3&gt;
+&lt;p&gt;Try working from home on the first Monday of every sprint. This way I can do the school run. Plus catch up on emails, training and writing blog posts. Anything that requires peace and quiet.&lt;/p&gt;
+
+&lt;h3 id=&quot;prototype-in-code&quot;&gt;Prototype in code&lt;/h3&gt;
+&lt;p&gt;Iterating designs on paper and in Sketch app is working well, but InVision prototypes are too limited to test everything. Easier to re-use code than clickable prototypes. It’s hard to design for accessibility and control things like URL names in InVision and these things are important to the overall user experience. This work should all contribute to the elements and patterns library.&lt;/p&gt;
+
+&lt;h3 id=&quot;manage-business-as-usual-work-better&quot;&gt;Manage “business as usual” work better&lt;/h3&gt;
+&lt;p&gt;There are lots of small projects that fall outside of the main work I’m doing. I could facilitate meetings with business areas so that we quickly sketch design solutions there and then. I need to come away from meetings with a clearer idea of what I need to design. The team need a clearer idea of what I’m planning to do. I need to keep track of this work somehow on the “business as usual” board.&lt;/p&gt;
+
+&lt;h3 id=&quot;go-for-walks&quot;&gt;Go for walks&lt;/h3&gt;
+&lt;p&gt;Try going for walks at lunchtime. Find out how to get into grounds of Tredegar House.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 17 Dec 2016 13:16:00 +0000</pubDate>
+        <link>http://benjystanton.github.io/blog/retrospective-my-first-2-months/</link>
+        <guid isPermaLink="true">http://benjystanton.github.io/blog/retrospective-my-first-2-months/</guid>
+        
+        
+        <category>ux</category>
+        
+        <category>ons</category>
+        
+      </item>
     
       <item>
         <title>User experience (UX) designer objectives</title>
@@ -424,59 +481,6 @@
         <category>design</category>
         
         <category>meetup</category>
-        
-      </item>
-    
-      <item>
-        <title>The New ABCs of Research by Ben Schneiderman</title>
-        <description>&lt;p&gt;Working at Swansea University has its benefits. I was invited along to a lecture by &lt;a href=&quot;https://twitter.com/benbendc&quot;&gt;Ben Schneiderman&lt;/a&gt; recently, one of the authors of &lt;a href=&quot;https://www.amazon.co.uk/Designing-User-Interface-Human-Computer-Interaction/dp/0321537351&quot;&gt;Designing the User Interface&lt;/a&gt;. Here are my rough notes from his talk.&lt;/p&gt;
-
-&lt;h2 id=&quot;new-book-the-new-abcs-of-research&quot;&gt;New Book: The New ABCs of Research&lt;/h2&gt;
-
-&lt;p&gt;Ben was promoting his new book &lt;a href=&quot;https://global.oup.com/academic/product/the-new-abcs-of-research-9780198758839?cc=gb&amp;amp;lang=en&amp;amp;&quot;&gt;The New ABCs of Research&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h3 id=&quot;new-research-context&quot;&gt;New research context&lt;/h3&gt;
-
-&lt;p&gt;The old model of research needs to be updated, because we are facing new challenges:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Immense challenges in the 21st Century (e.g. healthcare)&lt;/li&gt;
-  &lt;li&gt;New tools like the web, social media, visual communication&lt;/li&gt;
-  &lt;li&gt;Raised ambitions and expectations about what can be accomplished in a short period of time&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&quot;research-strategies&quot;&gt;Research strategies&lt;/h3&gt;
-
-&lt;p&gt;Some of the principles and tips from his talk:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;work on real world problems&lt;/li&gt;
-  &lt;li&gt;work with actual practitioners&lt;/li&gt;
-  &lt;li&gt;we are witnessing a growing movement in design&lt;/li&gt;
-  &lt;li&gt;design is as important as science and engineering&lt;/li&gt;
-  &lt;li&gt;talk to real users and have empathy&lt;/li&gt;
-  &lt;li&gt;the best way to promote your ideas is to write well&lt;/li&gt;
-  &lt;li&gt;publish in open, accessible, free ways&lt;/li&gt;
-  &lt;li&gt;form teams with diverse individuals and organisations&lt;/li&gt;
-  &lt;li&gt;do something small soon… it’s the path to larger things&lt;/li&gt;
-  &lt;li&gt;be social and be engaged with the wider community&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;“do something small soon… it’s the path to larger things”&lt;br /&gt;
-Ben Schneiderman&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-        <pubDate>Tue, 21 Jun 2016 17:30:00 +0100</pubDate>
-        <link>http://benjystanton.github.io/blog/the-new-abcs-of-research/</link>
-        <guid isPermaLink="true">http://benjystanton.github.io/blog/the-new-abcs-of-research/</guid>
-        
-        
-        <category>conferences</category>
-        
-        <category>research</category>
-        
-        <category>design</category>
         
       </item>
     
