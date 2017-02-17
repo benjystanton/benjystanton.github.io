@@ -5,9 +5,125 @@
     <description>UX Designer. Family Man. Music Snob.</description>
     <link>http://benjystanton.github.io/</link>
     <atom:link href="http://benjystanton.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 17 Feb 2017 22:30:52 +0000</pubDate>
-    <lastBuildDate>Fri, 17 Feb 2017 22:30:52 +0000</lastBuildDate>
+    <pubDate>Fri, 17 Feb 2017 23:12:59 +0000</pubDate>
+    <lastBuildDate>Fri, 17 Feb 2017 23:12:59 +0000</lastBuildDate>
     <generator>Jekyll v3.4.0</generator>
+    
+      <item>
+        <title>My 12 year quest to get a public service design job</title>
+        <description>&lt;p&gt;&lt;img src=&quot;http://benjystanton.github.io/assets/walter-and-muppets.png&quot; alt=&quot;Paper prototyping&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;There have been a lot of “I’m leaving government posts” recently.&lt;/p&gt;
+
+&lt;p&gt;It feels a bit weird because I’ve been trying for years to get in.&lt;/p&gt;
+
+&lt;p&gt;I don’t think I had a master plan, but looking back there were some interesting moments that lead me here. So here goes…&lt;/p&gt;
+
+&lt;h2 id=&quot;my-first-design-job&quot;&gt;My first design job&lt;/h2&gt;
+
+&lt;p&gt;When I first started in design, back in 2004, I remember worrying that being a designer was a soulless profession.&lt;/p&gt;
+
+&lt;p&gt;My parents were both in healthcare. And there I was; designing little websites and putting client’s logos on promotional mugs.&lt;/p&gt;
+
+&lt;p&gt;I failed to see how I was helping to make the world a better place.&lt;/p&gt;
+
+&lt;p&gt;There was something about web design that drew me in though. I started to get excited about the open source movement, and how the web enabled anybody to publish and share content.&lt;/p&gt;
+
+&lt;h2 id=&quot;public-services-designed-without-designers-gasp&quot;&gt;Public services designed without designers (gasp!)&lt;/h2&gt;
+
+&lt;p&gt;Fast forward a couple of jobs and I was working at a branding agency. We were conducting stakeholder interviews with a Welsh public sector organisation.&lt;/p&gt;
+
+&lt;p&gt;They were showing us their latest software and it was painfully obvious that there were no designers working with their teams.&lt;/p&gt;
+
+&lt;p&gt;They just didn’t see design as something that should be integrated into the software development process.&lt;/p&gt;
+
+&lt;p&gt;It freaked me out.&lt;/p&gt;
+
+&lt;p&gt;These were services that I might need to use one day. I could see that they weren’t following any kind of usability or web standards.&lt;/p&gt;
+
+&lt;p&gt;I knew I had the skills to help, but I had no idea how to get involved.&lt;/p&gt;
+
+&lt;h2 id=&quot;government-digital-service-gds&quot;&gt;Government Digital Service (GDS)&lt;/h2&gt;
+
+&lt;p&gt;Luckily there were a bunch of people who were figuring it out for me.&lt;/p&gt;
+
+&lt;p&gt;GDS was starting to make a real buzz in the web design community and I instantly fell in love with their world of design principles, service standards and laptop stickers.&lt;/p&gt;
+
+&lt;p&gt;Something clicked, and I realised that I could be a “web” designer and still do work that matters. I just needed a way for a massive public sector organisation to hire me.&lt;/p&gt;
+
+&lt;p&gt;Also, I didn’t want to move out of Swansea. Hmm.&lt;/p&gt;
+
+&lt;h2 id=&quot;comrade-paul-pod&quot;&gt;Comrade Paul Pod&lt;/h2&gt;
+
+&lt;p&gt;A while later I was freelancing and I came across a tweet by &lt;a href=&quot;https://twitter.com/paulpod&quot;&gt;Paul Pod&lt;/a&gt;. He was looking for user experience (UX) people in South Wales to join him at DVLA. We met a couple of times and chatted about the possibility of me working with him. For one reason or another it didn’t really go anywhere.&lt;/p&gt;
+
+&lt;p&gt;I think often, the easiest way to get into these types of roles is to be contracted in as part of a big external software agency.&lt;/p&gt;
+
+&lt;h2 id=&quot;leadin-and-dvla&quot;&gt;Leadin and DVLA&lt;/h2&gt;
+
+&lt;p&gt;As luck would have it, &lt;a href=&quot;http://leadin.fi/&quot;&gt;Leadin&lt;/a&gt; (a Finnish service design company) were establishing themselves in the UK with Swansea as their base. They’d won a contract with DVLA and hired me to work with their other UX designers.&lt;/p&gt;
+
+&lt;p&gt;For about a year I worked at DVLA as a Leadin employee. With the support of Leadin and Paul Pod, I got to grips with working in government on digital service design.&lt;/p&gt;
+
+&lt;p&gt;I became hooked on the ways of working that GDS helped introduce:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;user needs&lt;/li&gt;
+  &lt;li&gt;designers working in agile teams&lt;/li&gt;
+  &lt;li&gt;rapid prototyping&lt;/li&gt;
+  &lt;li&gt;design patterns&lt;/li&gt;
+  &lt;li&gt;laptop stickers&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;It was addictive. I realised that somehow, I needed to keep working in this way.&lt;/p&gt;
+
+&lt;h2 id=&quot;matt-jukes-talk-at-design-swansea&quot;&gt;Matt Jukes’ talk at Design Swansea&lt;/h2&gt;
+
+&lt;p&gt;I’d seen &lt;a href=&quot;https://twitter.com/jukesie&quot;&gt;Matt Jukes&lt;/a&gt; speak at Port80 back in 2014. Little did I know back then that I’d end up working on the new website he’d helped to launch.&lt;/p&gt;
+
+&lt;p&gt;In 2016 I asked him to speak at Design Swansea (a meetup that I help organise). He gave his &lt;a href=&quot;https://productforthepeople.xyz/product-is-a-team-sport-c50d234745e#.g3eauj6qu&quot;&gt;product is a team sport&lt;/a&gt; talk.&lt;/p&gt;
+
+&lt;p&gt;He painted a picture of the culture at ONS, especially within the digital publishing department.&lt;/p&gt;
+
+&lt;p&gt;He spoke about:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;the digital publishing department’s principles&lt;/li&gt;
+  &lt;li&gt;taking time to hire the right people&lt;/li&gt;
+  &lt;li&gt;posters on walls&lt;/li&gt;
+  &lt;li&gt;blogging and working in the open&lt;/li&gt;
+  &lt;li&gt;also, he brought laptop stickers&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;All this stuff rang true for me, and I remember thinking that I really wanted to work there.&lt;/p&gt;
+
+&lt;p&gt;A few months later they posted a job, I had to try applying.&lt;/p&gt;
+
+&lt;h2 id=&quot;joining-ons&quot;&gt;Joining ONS&lt;/h2&gt;
+
+&lt;p&gt;So, I’ve been at ONS for about 4 months now.&lt;/p&gt;
+
+&lt;p&gt;Working with service manager &lt;a href=&quot;https://twitter.com/mr_dudders&quot;&gt;Andy Dudfield&lt;/a&gt; and his team in the digital publishing department.&lt;/p&gt;
+
+&lt;p&gt;Why is it better than freelancing or agency work?&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;I get to work with a talented, engaged team … on stuff that matters&lt;/li&gt;
+  &lt;li&gt;the work is constantly challenging and the standard is high&lt;/li&gt;
+  &lt;li&gt;we are encouraged to work in the open and share what we do&lt;/li&gt;
+  &lt;li&gt;nobody is micromanaged or forced to do overtime&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;… and there are loads of laptop stickers.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 17 Feb 2017 22:38:00 +0000</pubDate>
+        <link>http://benjystanton.github.io/blog/my-12-year-quest/</link>
+        <guid isPermaLink="true">http://benjystanton.github.io/blog/my-12-year-quest/</guid>
+        
+        
+        <category>ons</category>
+        
+      </item>
     
       <item>
         <title>Retrospective (my first 2 months)</title>
@@ -462,25 +578,6 @@
         <category>design</category>
         
         <category>web</category>
-        
-      </item>
-    
-      <item>
-        <title>The first UK Government accessibility meet-up</title>
-        <description>&lt;p&gt;Back in May I went to the first UK Government accessibility meet-up. It was organised by &lt;a href=&quot;https://twitter.com/dugboticus&quot;&gt;Alistair Duggin&lt;/a&gt; and his accessibility team at GDS (Government Digital Service).&lt;/p&gt;
-
-&lt;p&gt;You can &lt;a href=&quot;http://leadin.fi/blog/uk-government-accessibility-meet-up/&quot;&gt;read my meetup notes over on the Leadin blog&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 22 Jul 2016 19:25:00 +0100</pubDate>
-        <link>http://benjystanton.github.io/blog/uk-government-accessibility-meet-up/</link>
-        <guid isPermaLink="true">http://benjystanton.github.io/blog/uk-government-accessibility-meet-up/</guid>
-        
-        
-        <category>accessibility</category>
-        
-        <category>design</category>
-        
-        <category>meetup</category>
         
       </item>
     
