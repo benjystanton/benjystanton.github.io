@@ -4,10 +4,10 @@ title: My 12 year quest to get a public service design job
 date: 2017-02-17 22:38:00  
 categories: ons
 image: walter-and-kermit.png
-image-alt: walter and kermit from The Muppets
+image-alt: Walter and Kermit from The Muppets
 ---
 
-![Paper prototyping]({{ site.url }}/assets/walter-and-muppets.png)
+![Walter and The Muppets]({{ site.url }}/assets/walter-and-muppets.png)
 
 There have been a lot of "I'm leaving government posts" recently.
 
