@@ -5,6 +5,7 @@ date: 2017-02-17 22:38:00
 categories: ons
 image: walter-and-kermit.png
 image-alt: Walter and Kermit from The Muppets
+excerpt: There have been a lot of 'I'm leaving government posts' recently. It feels a bit weird because I've been trying for years to get in.
 ---
 
 ![Walter and The Muppets]({{ site.url }}/assets/walter-and-muppets.png)
