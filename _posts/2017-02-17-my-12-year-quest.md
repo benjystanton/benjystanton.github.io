@@ -98,7 +98,7 @@ So, I've been at ONS for about 4 months now.
 
 Working with service manager [Andy Dudfield](https://twitter.com/mr_dudders) and his team in the digital publishing department.
 
-Why is it better than freelancing or agency work?
+Why is it so great? It combines the best bits of all my previous jobs and more:
 
 - I get to work with a talented, engaged team … on stuff that matters
 - the work is constantly challenging and the standard is high
