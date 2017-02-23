@@ -21,10 +21,6 @@ I care about user needs, content, accessibility and good typography.
 - HTML & CSS
 - Prototyping
 
-## Clients
-
-I’ve worked with some great clients over the years; including the Driver and Vehicle Licensing Agency (DVLA), the The Secure Anonymised Information Linkage (SAIL) Databank, the NHS Wales Informatics Service (NWIS), Shelter Cymru, Joe’s Ice Cream and Scouts Wales.
-
 ## Experience
 
 Where | When
