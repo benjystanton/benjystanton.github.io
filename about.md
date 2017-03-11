@@ -7,8 +7,6 @@ permalink: /about/
 
 My name is Benjy Stanton and I’m a User Experience (UX) designer at Office for National Statistics (ONS). I'm part of the [ONS digital](https://blog.ons.digital/) team.
 
-My full name is Benjamin, but nobody calls me that. No one calls me Ben either. Benj is good.
-
 Previously, I was at [Leadin](http://leadin.co.uk/), a service design agency in Swansea.
 
 I care about user needs, content, accessibility and good typography.
