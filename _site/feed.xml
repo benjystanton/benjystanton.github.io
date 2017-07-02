@@ -3,15 +3,89 @@
   <channel>
     <title>Benjy Stanton</title>
     <description>UX Designer. Family Man. Music Snob.</description>
-    <link>http://benjystanton.github.io/</link>
-    <atom:link href="http://benjystanton.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 19 May 2017 11:45:36 +0100</pubDate>
-    <lastBuildDate>Fri, 19 May 2017 11:45:36 +0100</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 19 May 2017 12:04:35 +0100</pubDate>
+    <lastBuildDate>Fri, 19 May 2017 12:04:35 +0100</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
     
       <item>
+        <title>Disney data</title>
+        <description>&lt;h2 id=&quot;driving&quot;&gt;Driving&lt;/h2&gt;
+&lt;p&gt;Swansea to Disneyland Paris and back again - 979 miles&lt;/p&gt;
+
+&lt;h2 id=&quot;steps&quot;&gt;Steps&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Monday 20 March, 15065 steps, 6.94 miles&lt;/li&gt;
+  &lt;li&gt;Tuesday 21 March, 19831 steps, 9.14 miles&lt;/li&gt;
+  &lt;li&gt;Wednesday 22 March, 14818 steps, 6.8 miles&lt;/li&gt;
+  &lt;li&gt;Thursday 23 March, 10006 steps, 4.6 miles&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;rides&quot;&gt;Rides&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;ride name&lt;/li&gt;
+  &lt;li&gt;Park&lt;/li&gt;
+  &lt;li&gt;Land&lt;/li&gt;
+  &lt;li&gt;Time spent queuing&lt;/li&gt;
+  &lt;li&gt;time of day&lt;/li&gt;
+  &lt;li&gt;Fun&lt;/li&gt;
+  &lt;li&gt;Thrill&lt;/li&gt;
+  &lt;li&gt;Fast pass used?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;rides-1&quot;&gt;Rides&lt;/h2&gt;
+
+&lt;h3 id=&quot;day-1&quot;&gt;Day 1&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Small world 0 mins&lt;/li&gt;
+  &lt;li&gt;Tea cups 5&lt;/li&gt;
+  &lt;li&gt;Dumbo 15&lt;/li&gt;
+  &lt;li&gt;Peter Pan 10&lt;/li&gt;
+  &lt;li&gt;Thunder mountain 20&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;day-2&quot;&gt;Day 2&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Thunder mountain 30&lt;/li&gt;
+  &lt;li&gt;Pinocchio 30&lt;/li&gt;
+  &lt;li&gt;Snow White 25&lt;/li&gt;
+  &lt;li&gt;Haunted mansion 20&lt;/li&gt;
+  &lt;li&gt;Star tours 20&lt;/li&gt;
+  &lt;li&gt;Buzz light year 15&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;day-3&quot;&gt;Day 3&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Aladdin 15&lt;/li&gt;
+  &lt;li&gt;Slinky 10&lt;/li&gt;
+  &lt;li&gt;Ratatouille 30&lt;/li&gt;
+  &lt;li&gt;Soldiers 30&lt;/li&gt;
+  &lt;li&gt;Cars 10&lt;/li&gt;
+  &lt;li&gt;Crush 60&lt;/li&gt;
+  &lt;li&gt;Aladdin 5&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;day-4&quot;&gt;Day 4&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Carousel 0&lt;/li&gt;
+  &lt;li&gt;Tea cups 5&lt;/li&gt;
+  &lt;li&gt;Princess 60&lt;/li&gt;
+  &lt;li&gt;Small world 10&lt;/li&gt;
+  &lt;li&gt;Tower of terror 45&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Thu, 18 May 2017 12:51:00 +0100</pubDate>
+        <link>http://localhost:4000/blog/disney-data/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/disney-data/</guid>
+        
+        
+      </item>
+    
+      <item>
         <title>My 12 year quest to get a public service design job</title>
-        <description>&lt;p&gt;&lt;img src=&quot;http://benjystanton.github.io/assets/walter-and-muppets.png&quot; alt=&quot;Walter and The Muppets&quot; /&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/walter-and-muppets.png&quot; alt=&quot;Walter and The Muppets&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;There have been a lot of “I’m leaving government posts” recently.&lt;/p&gt;
 
@@ -117,8 +191,8 @@
 &lt;p&gt;… and there are loads of laptop stickers.&lt;/p&gt;
 </description>
         <pubDate>Fri, 17 Feb 2017 22:38:00 +0000</pubDate>
-        <link>http://benjystanton.github.io/blog/my-12-year-quest/</link>
-        <guid isPermaLink="true">http://benjystanton.github.io/blog/my-12-year-quest/</guid>
+        <link>http://localhost:4000/blog/my-12-year-quest/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/my-12-year-quest/</guid>
         
         
         <category>ons</category>
@@ -172,8 +246,8 @@
 &lt;p&gt;Try going for walks at lunchtime. Find out how to get into grounds of Tredegar House.&lt;/p&gt;
 </description>
         <pubDate>Sat, 17 Dec 2016 13:16:00 +0000</pubDate>
-        <link>http://benjystanton.github.io/blog/retrospective-my-first-2-months/</link>
-        <guid isPermaLink="true">http://benjystanton.github.io/blog/retrospective-my-first-2-months/</guid>
+        <link>http://localhost:4000/blog/retrospective-my-first-2-months/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/retrospective-my-first-2-months/</guid>
         
         
         <category>ux</category>
@@ -204,11 +278,11 @@
 
 &lt;h3 id=&quot;further-reading&quot;&gt;Further reading&lt;/h3&gt;
 
-&lt;p&gt;You might be interested in this &lt;a href=&quot;http://benjystanton.github.io/blog/user-experience-ux-designer-skills/&quot;&gt;post about UX designer skills&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;You might be interested in this &lt;a href=&quot;http://localhost:4000/blog/user-experience-ux-designer-skills/&quot;&gt;post about UX designer skills&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Fri, 18 Nov 2016 22:22:00 +0000</pubDate>
-        <link>http://benjystanton.github.io/blog/user-experience-ux-designer-objectives/</link>
-        <guid isPermaLink="true">http://benjystanton.github.io/blog/user-experience-ux-designer-objectives/</guid>
+        <link>http://localhost:4000/blog/user-experience-ux-designer-objectives/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/user-experience-ux-designer-objectives/</guid>
         
         
         <category>ux</category>
@@ -219,7 +293,7 @@
     
       <item>
         <title>User research activity cards</title>
-        <description>&lt;p&gt;&lt;img src=&quot;http://benjystanton.github.io/assets/paper-prototyping.png&quot; alt=&quot;Paper prototyping&quot; /&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/paper-prototyping.png&quot; alt=&quot;Paper prototyping&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;GDS (Government Digital Service) have created this lovely set of user research activity cards. I spotted them stuck up on the wall at ONS (Office for National Statistics).&lt;/p&gt;
 
@@ -249,8 +323,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Wed, 09 Nov 2016 19:15:00 +0000</pubDate>
-        <link>http://benjystanton.github.io/blog/user-research-activity-cards/</link>
-        <guid isPermaLink="true">http://benjystanton.github.io/blog/user-research-activity-cards/</guid>
+        <link>http://localhost:4000/blog/user-research-activity-cards/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/user-research-activity-cards/</guid>
         
         
         <category>research</category>
@@ -266,7 +340,7 @@
 &lt;p&gt;ONS are currently on the look out for &lt;a href=&quot;https://www.civilservicejobs.service.gov.uk/csr/jobs.cgi?jcode=1512692&quot;&gt;2 user experience (UX) designers&lt;/a&gt; and a few &lt;a href=&quot;https://www.civilservicejobs.service.gov.uk/csr/jobs.cgi?jcode=1512654&quot;&gt;user researchers&lt;/a&gt;. The roles are based in either Newport or Titchfield.&lt;/p&gt;
 
 &lt;h2 id=&quot;what-do-ux-designers-do&quot;&gt;What do UX designers do?&lt;/h2&gt;
-&lt;p&gt;The role has different meanings to different people. I really like this &lt;a href=&quot;http://benjystanton.github.io/blog/user-experience-ux-designer-skills/&quot;&gt;list of UX designer skills&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The role has different meanings to different people. I really like this &lt;a href=&quot;http://localhost:4000/blog/user-experience-ux-designer-skills/&quot;&gt;list of UX designer skills&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;I don’t think you need to be an expert in all of those things. But, if you are good at a few (and have an appreciation for why the rest are important) then I think you’ll make a good UX designer.&lt;/p&gt;
 
@@ -311,8 +385,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 29 Oct 2016 02:14:00 +0100</pubDate>
-        <link>http://benjystanton.github.io/blog/work-with-me-at-office-for-national-statistics-ons/</link>
-        <guid isPermaLink="true">http://benjystanton.github.io/blog/work-with-me-at-office-for-national-statistics-ons/</guid>
+        <link>http://localhost:4000/blog/work-with-me-at-office-for-national-statistics-ons/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/work-with-me-at-office-for-national-statistics-ons/</guid>
         
         
         <category>ons</category>
@@ -347,8 +421,8 @@
 &lt;p&gt;I like to look back over design principles like these every now and then. They help me to focus on what’s important. Creating a good culture is really hard, but it’s essential if you need individuals to work together as a team.&lt;/p&gt;
 </description>
         <pubDate>Fri, 21 Oct 2016 21:50:00 +0100</pubDate>
-        <link>http://benjystanton.github.io/blog/creating-a-digital-delivery-culture/</link>
-        <guid isPermaLink="true">http://benjystanton.github.io/blog/creating-a-digital-delivery-culture/</guid>
+        <link>http://localhost:4000/blog/creating-a-digital-delivery-culture/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/creating-a-digital-delivery-culture/</guid>
         
         
         <category>digital</category>
@@ -363,7 +437,7 @@
         <title>Visual note-taking  with Eleanor Beer</title>
         <description>&lt;p&gt;My notes from the Visual Notetaking Made Easy event on Thursday 11th August at Innovation House, Magor.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://benjystanton.github.io/assets/sketchnote-elements.png&quot; alt=&quot;A drawing of a star and some lines from my sketchbook.&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/sketchnote-elements.png&quot; alt=&quot;A drawing of a star and some lines from my sketchbook.&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;intro&quot;&gt;Intro&lt;/h2&gt;
 &lt;ul&gt;
@@ -416,8 +490,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Tue, 30 Aug 2016 14:23:00 +0100</pubDate>
-        <link>http://benjystanton.github.io/blog/visual-note-taking-workshop-with-eleanor-beer/</link>
-        <guid isPermaLink="true">http://benjystanton.github.io/blog/visual-note-taking-workshop-with-eleanor-beer/</guid>
+        <link>http://localhost:4000/blog/visual-note-taking-workshop-with-eleanor-beer/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/visual-note-taking-workshop-with-eleanor-beer/</guid>
         
         
         <category>workshop</category>
@@ -432,7 +506,7 @@
         <title>Things my little girls have taught me about feminism</title>
         <description>&lt;p&gt;A rough transcript of my talk on feminism at Ignite Swansea.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://benjystanton.github.io/assets/my-little-girls.png&quot; alt=&quot;My 2 little girls, smiling in a phone box.&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/my-little-girls.png&quot; alt=&quot;My 2 little girls, smiling in a phone box.&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Here are my 2 little girls. Don’t be taken in by their cuteness, they are quite evil. Their favourite things are having meltdowns in the supermarket and making fun of my receding hair.&lt;/p&gt;
 
@@ -470,7 +544,7 @@
 
 &lt;p&gt;The trolls have been out in force over the new Ghostbusters film too. But look how happy these 2 girls are. This is what representation in the media can do:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://benjystanton.github.io/assets/ghostbusters-representation.jpg&quot; alt=&quot;Kristen Wiig meeting 2 girls dressed in Ghostbusters fancy dress.&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/ghostbusters-representation.jpg&quot; alt=&quot;Kristen Wiig meeting 2 girls dressed in Ghostbusters fancy dress.&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;The olympics have been full of men saying embarrassing things too.&lt;/p&gt;
 
@@ -480,7 +554,7 @@
 
 &lt;p&gt;Nearly as bad as mansplaining is manspreading. Guys have a look down at your legs now and if you’re manspreading then do the people either side of you a favour and close them up a little. You’re not that big.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://benjystanton.github.io/assets/manspreading.jpg&quot; alt=&quot;Man on a train sitting with his legs very far apart.&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/manspreading.jpg&quot; alt=&quot;Man on a train sitting with his legs very far apart.&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Credit: WNYC New York Public Radio (CC BY-NC 2.0)&lt;/p&gt;
 
@@ -498,7 +572,7 @@
 
 &lt;p&gt;…and guys, it’s okay if you want to watch pink, sparkly things sometimes. It doesn’t mean you’re any less of a man. It doesn’t mean you’re gay. It doesn’t mean anything. Unless you want it to. Just relax and enjoy it.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://benjystanton.github.io/assets/glitter-force.gif&quot; alt=&quot;A pink super hero draws a huge heart in the sky.&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/glitter-force.gif&quot; alt=&quot;A pink super hero draws a huge heart in the sky.&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Thanks.&lt;/p&gt;
 
@@ -507,8 +581,8 @@
 &lt;p&gt;I’ll probably look back on this and cringe. Being a feminist is hard and I’ve probably revealed some of inner prejudices here without realising it. If you have any feedback, &lt;a href=&quot;https://twitter.com/benjystanton&quot;&gt;let me know over on twitter&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Fri, 26 Aug 2016 12:12:00 +0100</pubDate>
-        <link>http://benjystanton.github.io/blog/things-my-little-girls-have-taught-me-about-feminism/</link>
-        <guid isPermaLink="true">http://benjystanton.github.io/blog/things-my-little-girls-have-taught-me-about-feminism/</guid>
+        <link>http://localhost:4000/blog/things-my-little-girls-have-taught-me-about-feminism/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/things-my-little-girls-have-taught-me-about-feminism/</guid>
         
         
         <category>feminism</category>
@@ -550,34 +624,11 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Thu, 18 Aug 2016 17:06:00 +0100</pubDate>
-        <link>http://benjystanton.github.io/blog/user-experience-ux-designer-skills/</link>
-        <guid isPermaLink="true">http://benjystanton.github.io/blog/user-experience-ux-designer-skills/</guid>
+        <link>http://localhost:4000/blog/user-experience-ux-designer-skills/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/user-experience-ux-designer-skills/</guid>
         
         
         <category>ux</category>
-        
-      </item>
-    
-      <item>
-        <title>Should designers design content?</title>
-        <description>&lt;p&gt;In my experience, interaction and visual designers are often relied upon to write the words used in an interface (also known as microcopy).&lt;/p&gt;
-
-&lt;p&gt;Designers are also in a good position to improve longer types of content like blog articles. Remember, this content might have been written by someone who is not experienced at writing for the web.&lt;/p&gt;
-
-&lt;p&gt;For these reasons, I think it’s the responsibility of designers to improve a website’s content (unless you are lucky enough to work with a great content designer).&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.gov.uk/guidance/content-design/what-is-content-design&quot;&gt;What is content design?&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Thu, 28 Jul 2016 16:07:00 +0100</pubDate>
-        <link>http://benjystanton.github.io/blog/should-designers-design-content/</link>
-        <guid isPermaLink="true">http://benjystanton.github.io/blog/should-designers-design-content/</guid>
-        
-        
-        <category>content</category>
-        
-        <category>design</category>
-        
-        <category>web</category>
         
       </item>
     
