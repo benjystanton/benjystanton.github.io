@@ -14,7 +14,7 @@ There have been a lot of "I'm leaving government posts" recently.
 
 It feels a bit weird because I've been trying for years to get in.
 
-I don't think I had a master plan, but looking back there were some interesting moments that lead me here. So here goes…
+I don't think I ever had a master plan, but looking back there were some interesting moments that lead me here. So here goes…
 
 ## My first design job
 
