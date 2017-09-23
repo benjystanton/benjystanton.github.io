@@ -1,0 +1,36 @@
+// Forms
+
+ legend {
+    padding:0;
+ }
+
+ fieldset {
+    border:none;
+    padding:0;
+    margin-bottom: $spacing-unit;
+ }
+
+ .field-container {
+    margin-bottom: $spacing-unit;
+ }
+
+ .field-container label, legend {
+    font-weight: bold;
+ }
+
+ input[type=text], select, textarea, button {
+    display: block;
+    font-size: $base-font-size;
+    padding:1em;
+ }
+
+ .options label {
+    padding-right:1em;
+ }
+
+ button {
+    color: $background-color;
+    background-color: $text-color;
+    border: 0 none;
+    cursor: pointer;
+ }

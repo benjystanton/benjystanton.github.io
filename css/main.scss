@@ -26,8 +26,15 @@ $large:      	    900px;
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
 "typography",
+"images",
 "colours",
 "base",
+"blockquotes",
 "layout",
-"syntax-highlighting"
+"syntax-highlighting",
+"tables",
+"data",
+"code",
+"forms",
+"icons"
 ;

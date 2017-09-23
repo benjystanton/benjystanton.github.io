@@ -5,81 +5,113 @@
     <description>UX Designer. Family Man. Music Snob.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 19 May 2017 12:04:35 +0100</pubDate>
-    <lastBuildDate>Fri, 19 May 2017 12:04:35 +0100</lastBuildDate>
-    <generator>Jekyll v3.4.3</generator>
+    <pubDate>Sat, 23 Sep 2017 21:55:45 +0100</pubDate>
+    <lastBuildDate>Sat, 23 Sep 2017 21:55:45 +0100</lastBuildDate>
+    <generator>Jekyll v3.5.2</generator>
     
       <item>
         <title>Disney data</title>
-        <description>&lt;h2 id=&quot;driving&quot;&gt;Driving&lt;/h2&gt;
-&lt;p&gt;Swansea to Disneyland Paris and back again - 979 miles&lt;/p&gt;
+        <description>&lt;p&gt;Back in March we took a family trip to Disneyland Paris.&lt;/p&gt;
 
-&lt;h2 id=&quot;steps&quot;&gt;Steps&lt;/h2&gt;
+&lt;p&gt;I collected some data, mainly so that I could play around with styling up key figures and data tables like this…&lt;/p&gt;
 
-&lt;ol&gt;
-  &lt;li&gt;Monday 20 March, 15065 steps, 6.94 miles&lt;/li&gt;
-  &lt;li&gt;Tuesday 21 March, 19831 steps, 9.14 miles&lt;/li&gt;
-  &lt;li&gt;Wednesday 22 March, 14818 steps, 6.8 miles&lt;/li&gt;
-  &lt;li&gt;Thursday 23 March, 10006 steps, 4.6 miles&lt;/li&gt;
-&lt;/ol&gt;
+&lt;h2 id=&quot;key-figures&quot;&gt;Key figures&lt;/h2&gt;
 
-&lt;h2 id=&quot;rides&quot;&gt;Rides&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;ride name&lt;/li&gt;
-  &lt;li&gt;Park&lt;/li&gt;
-  &lt;li&gt;Land&lt;/li&gt;
-  &lt;li&gt;Time spent queuing&lt;/li&gt;
-  &lt;li&gt;time of day&lt;/li&gt;
-  &lt;li&gt;Fun&lt;/li&gt;
-  &lt;li&gt;Thrill&lt;/li&gt;
-  &lt;li&gt;Fast pass used?&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;&lt;span class=&quot;data-item bold-xlarge&quot;&gt;979&lt;/span&gt; &lt;span&gt;miles driven&lt;/span&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;rides-1&quot;&gt;Rides&lt;/h2&gt;
+&lt;p&gt;&lt;span class=&quot;data-item bold-xlarge&quot;&gt;27&lt;/span&gt; &lt;span&gt;miles walked&lt;/span&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;day-1&quot;&gt;Day 1&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;Small world 0 mins&lt;/li&gt;
-  &lt;li&gt;Tea cups 5&lt;/li&gt;
-  &lt;li&gt;Dumbo 15&lt;/li&gt;
-  &lt;li&gt;Peter Pan 10&lt;/li&gt;
-  &lt;li&gt;Thunder mountain 20&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;&lt;span class=&quot;data-item bold-xlarge&quot;&gt;50,720&lt;/span&gt; &lt;span&gt;steps&lt;/span&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;day-2&quot;&gt;Day 2&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;Thunder mountain 30&lt;/li&gt;
-  &lt;li&gt;Pinocchio 30&lt;/li&gt;
-  &lt;li&gt;Snow White 25&lt;/li&gt;
-  &lt;li&gt;Haunted mansion 20&lt;/li&gt;
-  &lt;li&gt;Star tours 20&lt;/li&gt;
-  &lt;li&gt;Buzz light year 15&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;&lt;span class=&quot;data-item bold-xlarge&quot;&gt;7.8&lt;/span&gt; &lt;span&gt;hours spent queueing&lt;/span&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;day-3&quot;&gt;Day 3&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;Aladdin 15&lt;/li&gt;
-  &lt;li&gt;Slinky 10&lt;/li&gt;
-  &lt;li&gt;Ratatouille 30&lt;/li&gt;
-  &lt;li&gt;Soldiers 30&lt;/li&gt;
-  &lt;li&gt;Cars 10&lt;/li&gt;
-  &lt;li&gt;Crush 60&lt;/li&gt;
-  &lt;li&gt;Aladdin 5&lt;/li&gt;
-&lt;/ul&gt;
+&lt;h2 id=&quot;more-data&quot;&gt;More data&lt;/h2&gt;
 
-&lt;h3 id=&quot;day-4&quot;&gt;Day 4&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;Carousel 0&lt;/li&gt;
-  &lt;li&gt;Tea cups 5&lt;/li&gt;
-  &lt;li&gt;Princess 60&lt;/li&gt;
-  &lt;li&gt;Small world 10&lt;/li&gt;
-  &lt;li&gt;Tower of terror 45&lt;/li&gt;
-&lt;/ul&gt;
+&lt;table&gt;
+
+&lt;caption&gt;How far we walked each day&lt;/caption&gt;
+
+&lt;thead&gt;
+
+&lt;tr&gt;
+&lt;th scope=&quot;col&quot;&gt;Day&lt;/th&gt;
+&lt;th scope=&quot;col&quot; class=&quot;cell--right&quot;&gt;Steps&lt;/th&gt;
+&lt;th scope=&quot;col&quot; class=&quot;cell--right&quot;&gt;Miles&lt;/th&gt;
+&lt;/tr&gt;
+
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+
+&lt;tr&gt;
+&lt;th scope=&quot;row&quot;&gt;Monday&lt;/th&gt;
+&lt;td class=&quot;cell--right&quot;&gt;15065&lt;/td&gt;
+&lt;td class=&quot;cell--right&quot;&gt;6.94&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;th scope=&quot;row&quot;&gt;Tuesday&lt;/th&gt;
+&lt;td class=&quot;cell--right&quot;&gt;19831&lt;/td&gt;
+&lt;td class=&quot;cell--right&quot;&gt;9.14&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;th scope=&quot;row&quot;&gt;Wednesday&lt;/th&gt;
+&lt;td class=&quot;cell--right&quot;&gt;14818&lt;/td&gt;
+&lt;td class=&quot;cell--right&quot;&gt;6.80&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;th scope=&quot;row&quot;&gt;Thursday&lt;/th&gt;
+&lt;td class=&quot;cell--right&quot;&gt;10006&lt;/td&gt;
+&lt;td class=&quot;cell--right&quot;&gt;4.60&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;/tbody&gt;
+
+&lt;/table&gt;
+
+&lt;!-- ## Time spent queueing
+
+### Day 1
+- Small world 0 minutes
+- Tea cups 5 minutes
+- Dumbo 15 minutes
+- Peter Pan 10 minutes
+- Thunder mountain 20 minutes
+
+### Day 2
+- Thunder mountain 30 minutes
+- Pinocchio 30 minutes
+- Snow White 25 minutes
+- Haunted mansion 20 minutes
+- Star tours 20 minutes
+- Buzz light year 15 minutes
+
+### Day 3
+- Aladdin 15 minutes
+- Slinky 10 minutes
+- Ratatouille 30 minutes
+- Soldiers 30 minutes
+- Cars 10 minutes
+- Crush 60 minutes
+- Aladdin 5 minutes
+
+### Day 4
+- Carousel 0 minutes
+- Tea cups 5 minutes
+- Princess 60 minutes
+- Small world 10 minutes
+- Tower of terror 45 minutes --&gt;
 </description>
         <pubDate>Thu, 18 May 2017 12:51:00 +0100</pubDate>
         <link>http://localhost:4000/blog/disney-data/</link>
         <guid isPermaLink="true">http://localhost:4000/blog/disney-data/</guid>
         
+        
+        <category>data</category>
+        
+        <category>family</category>
         
       </item>
     
@@ -91,7 +123,7 @@
 
 &lt;p&gt;It feels a bit weird because I’ve been trying for years to get in.&lt;/p&gt;
 
-&lt;p&gt;I don’t think I had a master plan, but looking back there were some interesting moments that lead me here. So here goes…&lt;/p&gt;
+&lt;p&gt;I don’t think I ever had a master plan, but looking back there were some interesting moments that lead me here. So here goes…&lt;/p&gt;
 
 &lt;h2 id=&quot;my-first-design-job&quot;&gt;My first design job&lt;/h2&gt;
 

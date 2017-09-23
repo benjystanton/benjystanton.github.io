@@ -1,0 +1,39 @@
+// Tables
+
+table {
+  border-collapse:collapse;
+  border-spacing:0;
+  width: 100%;
+}
+
+thead {
+  border-bottom:2px solid lighten($text-color, 50%);
+}
+
+thead th {
+  font-weight: bold;
+}
+
+th, td {
+  font-weight: normal;
+  border-bottom:1px solid lighten($text-color, 50%);
+  text-align:left;
+  padding:.5em 2em .5em 0;
+}
+
+td:last-child, th:last-child {
+  padding-right: 0;
+}
+
+.cell--right {
+  text-align: right;
+}
+
+caption {
+  font-size: 26px;
+  margin-top: $spacing-unit/2;
+  line-height: 1.2;
+  font-weight: bold;
+  text-align: left;
+  margin-bottom: $spacing-unit/2;
+}

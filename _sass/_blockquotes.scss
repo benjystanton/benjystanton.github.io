@@ -1,0 +1,17 @@
+// Blockquotes
+
+blockquote {
+    border-left: 4px solid lighten($text-color, 0%);
+    padding-left: $spacing-unit / 2;
+    font-size: 24px;
+    margin: $spacing-unit 0;
+
+    > :last-child {
+        margin-bottom: 0;
+    }
+}
+
+blockquote footer {
+    font-size: 18px;
+    font-style: normal;
+}

@@ -82,31 +82,6 @@ ul, ol, dl, figure,
 
 
 /**
- * Images
- */
-img {
-    height: auto;
-    width: 100%;
-    vertical-align: middle;
-    padding: $spacing-unit 0;
-}
-
-
-
-/**
- * Figures
- */
-figure > img {
-    display: block;
-}
-
-figcaption {
-    font-size: $small-font-size;
-}
-
-
-
-/**
  * Lists
  */
 ul, ol {
@@ -121,7 +96,6 @@ li {
 }
 
 
-
 /**
  * Typography
  */
@@ -132,7 +106,6 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
     font-family: $heading-font-family;
     font-size: 32px;
-    font-weight: 900;
     margin-bottom: $spacing-unit;
 
     @include media-query($medium) {
@@ -183,69 +156,6 @@ a {
 
 
 /**
- * Blockquotes
- */
-blockquote {
-    border-left: 4px solid lighten($text-color, 0%);
-    padding-left: $spacing-unit / 2;
-    font-size: 24px;
-    margin: $spacing-unit 0;
-
-    > :last-child {
-        margin-bottom: 0;
-    }
-}
-
-blockquote footer {
-    font-size: 18px;
-    font-style: normal;
-}
-
-
-
-/**
- * Code formatting
- */
-pre,
-code {
-    font-size: 15px;
-    border: 1px solid lighten($text-color, 50%);
-    border-radius: 3px;
-    background-color: #eef;
-}
-
-code {
-    padding: 1px 5px;
-}
-
-pre {
-    padding: 8px 12px;
-    overflow-x: scroll;
-
-    > code {
-        border: 0;
-        padding-right: 0;
-        padding-left: 0;
-    }
-}
-
-
-
-/**
- * Wrapper
- */
-.wrapper {
-    max-width: 1000px;
-    margin-right: auto;
-    margin-left: auto;
-    padding-right: $spacing-unit/2;
-    padding-left: $spacing-unit/2;
-    @extend %clearfix;
-}
-
-
-
-/**
  * Clearfix
  */
 %clearfix {
@@ -256,60 +166,3 @@ pre {
         clear: both;
     }
 }
-
-
-
-/**
- * Table
- */
-
-table {
-    border-collapse:collapse;
-    border-spacing:0;
- }
-th, td {
-    border-bottom:1px solid lighten($text-color, 70%);
-    text-align:left;
-    padding:.5em 2em .5em 0;
-}
-
-
-
-/**
- * Forms
- */
-
- legend {
-    padding:0;
- }
-
- fieldset {
-    border:none;
-    padding:0;
-    margin-bottom: $spacing-unit;
- }
-
- .field-container {
-    margin-bottom: $spacing-unit;
- }
-
- .field-container label, legend {
-    font-weight: bold;
- }
-
- input[type=text], select, textarea, button {
-    display: block;
-    font-size: $base-font-size;
-    padding:1em;
- }
-
- .options label {
-    padding-right:1em;
- }
-
- button {
-    color: $background-color;
-    background-color: $text-color;
-    border: 0 none;
-    cursor: pointer;
- }
