@@ -5,8 +5,8 @@
     <description>UX Designer. Family Man. Music Snob.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 23 Sep 2017 22:11:44 +0100</pubDate>
-    <lastBuildDate>Sat, 23 Sep 2017 22:11:44 +0100</lastBuildDate>
+    <pubDate>Tue, 26 Sep 2017 14:34:43 +0100</pubDate>
+    <lastBuildDate>Tue, 26 Sep 2017 14:34:43 +0100</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
     
       <item>
@@ -71,38 +71,167 @@
 
 &lt;/table&gt;
 
-&lt;!-- ## Time spent queueing
+&lt;table&gt;
 
-### Day 1
-- Small world 0 minutes
-- Tea cups 5 minutes
-- Dumbo 15 minutes
-- Peter Pan 10 minutes
-- Thunder mountain 20 minutes
+&lt;caption&gt;How long we waited for each attraction&lt;/caption&gt;
 
-### Day 2
-- Thunder mountain 30 minutes
-- Pinocchio 30 minutes
-- Snow White 25 minutes
-- Haunted mansion 20 minutes
-- Star tours 20 minutes
-- Buzz light year 15 minutes
+&lt;thead&gt;
 
-### Day 3
-- Aladdin 15 minutes
-- Slinky 10 minutes
-- Ratatouille 30 minutes
-- Soldiers 30 minutes
-- Cars 10 minutes
-- Crush 60 minutes
-- Aladdin 5 minutes
+&lt;tr&gt;
+&lt;th scope=&quot;col&quot;&gt;Day&lt;/th&gt;
+&lt;th scope=&quot;col&quot;&gt;Attraction&lt;/th&gt;
+&lt;th scope=&quot;col&quot; class=&quot;cell--right&quot;&gt;Queue time (minutes)&lt;/th&gt;
+&lt;/tr&gt;
 
-### Day 4
-- Carousel 0 minutes
-- Tea cups 5 minutes
-- Princess 60 minutes
-- Small world 10 minutes
-- Tower of terror 45 minutes --&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+
+
+
+&lt;tr&gt;
+&lt;th scope=&quot;row&quot;&gt;Monday&lt;/th&gt;
+&lt;td&gt;&lt;a href=&quot;http://www.disneylandparis.co.uk/attractions/disneyland-park/its-a-small-world/&quot;&gt;&quot;it's a small world&quot;&lt;/a&gt;&lt;/td&gt;
+&lt;td class=&quot;cell--right&quot;&gt;0&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;th scope=&quot;row&quot;&gt;Monday&lt;/th&gt;
+&lt;td&gt;&lt;a href=&quot;http://www.disneylandparis.co.uk/attractions/disneyland-park/mad-hatters-tea-cups/&quot;&gt;Mad Hatter's Tea Cups&lt;/a&gt;&lt;/td&gt;
+&lt;td class=&quot;cell--right&quot;&gt;5&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;th scope=&quot;row&quot;&gt;Monday&lt;/th&gt;
+&lt;td&gt;&lt;a href=&quot;http://www.disneylandparis.co.uk/attractions/disneyland-park/dumbo-the-flying-elephant/&quot;&gt;Dumbo the Flying Elephant&lt;/a&gt;&lt;/td&gt;
+&lt;td class=&quot;cell--right&quot;&gt;15&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;th scope=&quot;row&quot;&gt;Monday&lt;/th&gt;
+&lt;td&gt;&lt;a href=&quot;http://www.disneylandparis.co.uk/attractions/disneyland-park/peter-pans-flight/&quot;&gt;Peter Pan's Flight&lt;/a&gt;&lt;/td&gt;
+&lt;td class=&quot;cell--right&quot;&gt;10&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;th scope=&quot;row&quot;&gt;Monday&lt;/th&gt;
+&lt;td&gt;&lt;a href=&quot;http://www.disneylandparis.co.uk/attractions/disneyland-park/big-thunder-mountain/&quot;&gt;Big Thunder Mountain&lt;/a&gt;&lt;/td&gt;
+&lt;td class=&quot;cell--right&quot;&gt;20&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;th scope=&quot;row&quot;&gt;Tuesday&lt;/th&gt;
+&lt;td&gt;&lt;a href=&quot;http://www.disneylandparis.co.uk/attractions/disneyland-park/big-thunder-mountain/&quot;&gt;Big Thunder Mountain&lt;/a&gt;&lt;/td&gt;
+&lt;td class=&quot;cell--right&quot;&gt;30&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;th scope=&quot;row&quot;&gt;Tuesday&lt;/th&gt;
+&lt;td&gt;&lt;a href=&quot;http://www.disneylandparis.co.uk/attractions/disneyland-park/les-voyages-de-pinocchio/&quot;&gt;Les Voyages de Pinocchio&lt;/a&gt;&lt;/td&gt;
+&lt;td class=&quot;cell--right&quot;&gt;30&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;th scope=&quot;row&quot;&gt;Tuesday&lt;/th&gt;
+&lt;td&gt;&lt;a href=&quot;http://www.disneylandparis.co.uk/attractions/disneyland-park/blanche-neige-et-les-sept-nains/&quot;&gt;Blanche-Neige et les Sept Nains&lt;/a&gt;&lt;/td&gt;
+&lt;td class=&quot;cell--right&quot;&gt;25&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;th scope=&quot;row&quot;&gt;Tuesday&lt;/th&gt;
+&lt;td&gt;&lt;a href=&quot;http://www.disneylandparis.co.uk/attractions/disneyland-park/phantom-manor/&quot;&gt;Phantom Manor&lt;/a&gt;&lt;/td&gt;
+&lt;td class=&quot;cell--right&quot;&gt;20&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;th scope=&quot;row&quot;&gt;Tuesday&lt;/th&gt;
+&lt;td&gt;&lt;a href=&quot;http://www.disneylandparis.co.uk/attractions/disneyland-park/star-tours-the-aventures-continue/&quot;&gt;Star Tours: The Adventures Continue&lt;/a&gt;&lt;/td&gt;
+&lt;td class=&quot;cell--right&quot;&gt;20&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;th scope=&quot;row&quot;&gt;Tuesday&lt;/th&gt;
+&lt;td&gt;&lt;a href=&quot;http://www.disneylandparis.co.uk/attractions/disneyland-park/buzz-lightyear-laser-blast/&quot;&gt;Buzz Lightyear Laser Blast&lt;/a&gt;&lt;/td&gt;
+&lt;td class=&quot;cell--right&quot;&gt;15&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;th scope=&quot;row&quot;&gt;Wednesday&lt;/th&gt;
+&lt;td&gt;&lt;a href=&quot;http://www.disneylandparis.co.uk/attractions/walt-disney-studios-park/flying-carpets-over-agrabah/&quot;&gt;Les Tapis Volants - Flying Carpets Over Agrabah&lt;/a&gt;&lt;/td&gt;
+&lt;td class=&quot;cell--right&quot;&gt;15&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;th scope=&quot;row&quot;&gt;Wednesday&lt;/th&gt;
+&lt;td&gt;&lt;a href=&quot;http://www.disneylandparis.co.uk/attractions/walt-disney-studios-park/slinky-dog-zigzag-spin/&quot;&gt;Slinky Dog Zigzag Spin&lt;/a&gt;&lt;/td&gt;
+&lt;td class=&quot;cell--right&quot;&gt;10&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;th scope=&quot;row&quot;&gt;Wednesday&lt;/th&gt;
+&lt;td&gt;&lt;a href=&quot;http://www.disneylandparis.co.uk/attractions/walt-disney-studios-park/ratatouille-the-adventure/&quot;&gt;Ratatouille: The Adventure&lt;/a&gt;&lt;/td&gt;
+&lt;td class=&quot;cell--right&quot;&gt;30&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;th scope=&quot;row&quot;&gt;Wednesday&lt;/th&gt;
+&lt;td&gt;&lt;a href=&quot;http://www.disneylandparis.co.uk/attractions/walt-disney-studios-park/toy-soldiers-parachute-drop/&quot;&gt;Toy Soldiers Parachute Drop&lt;/a&gt;&lt;/td&gt;
+&lt;td class=&quot;cell--right&quot;&gt;30&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;th scope=&quot;row&quot;&gt;Wednesday&lt;/th&gt;
+&lt;td&gt;&lt;a href=&quot;http://www.disneylandparis.co.uk/attractions/walt-disney-studios-park/cars-quatre-roues-rallye/&quot;&gt;Cars Quatre Roues Rallye&lt;/a&gt;&lt;/td&gt;
+&lt;td class=&quot;cell--right&quot;&gt;10&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;th scope=&quot;row&quot;&gt;Wednesday&lt;/th&gt;
+&lt;td&gt;&lt;a href=&quot;http://www.disneylandparis.co.uk/attractions/walt-disney-studios-park/crushs-coaster/&quot;&gt;Crush's Coaster&lt;/a&gt;&lt;/td&gt;
+&lt;td class=&quot;cell--right&quot;&gt;60&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;th scope=&quot;row&quot;&gt;Wednesday&lt;/th&gt;
+&lt;td&gt;&lt;a href=&quot;http://www.disneylandparis.co.uk/attractions/walt-disney-studios-park/flying-carpets-over-agrabah/&quot;&gt;Les Tapis Volants - Flying Carpets Over Agrabah&lt;/a&gt;&lt;/td&gt;
+&lt;td class=&quot;cell--right&quot;&gt;5&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;th scope=&quot;row&quot;&gt;Thursday&lt;/th&gt;
+&lt;td&gt;&lt;a href=&quot;http://www.disneylandparis.co.uk/attractions/disneyland-park/le-carrousel-de-lancelot/&quot;&gt;Le Carrousel de Lancelot&lt;/a&gt;&lt;/td&gt;
+&lt;td class=&quot;cell--right&quot;&gt;0&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;th scope=&quot;row&quot;&gt;Thursday&lt;/th&gt;
+&lt;td&gt;&lt;a href=&quot;http://www.disneylandparis.co.uk/attractions/disneyland-park/mad-hatters-tea-cups/&quot;&gt;Mad Hatter's Tea Cups&lt;/a&gt;&lt;/td&gt;
+&lt;td class=&quot;cell--right&quot;&gt;5&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;th scope=&quot;row&quot;&gt;Thursday&lt;/th&gt;
+&lt;td&gt;&lt;a href=&quot;http://www.disneylandparis.co.uk/attractions/disneyland-park/princess-pavilion/&quot;&gt;Princess Pavilion&lt;/a&gt;&lt;/td&gt;
+&lt;td class=&quot;cell--right&quot;&gt;60&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;th scope=&quot;row&quot;&gt;Thursday&lt;/th&gt;
+&lt;td&gt;&lt;a href=&quot;http://www.disneylandparis.co.uk/attractions/disneyland-park/its-a-small-world/&quot;&gt;&quot;it's a small world&quot;&lt;/a&gt;&lt;/td&gt;
+&lt;td class=&quot;cell--right&quot;&gt;10&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;th scope=&quot;row&quot;&gt;Thursday&lt;/th&gt;
+&lt;td&gt;&lt;a href=&quot;http://www.disneylandparis.co.uk/attractions/walt-disney-studios-park/twilight-zone-tower-of-terror/&quot;&gt;The Twilight Zone Tower of Terror&lt;/a&gt;&lt;/td&gt;
+&lt;td class=&quot;cell--right&quot;&gt;45&lt;/td&gt;
+&lt;/tr&gt;
+
+
+
+&lt;/tbody&gt;
+
+&lt;/table&gt;
 </description>
         <pubDate>Fri, 22 Sep 2017 12:51:00 +0100</pubDate>
         <link>http://localhost:4000/blog/disney-data/</link>

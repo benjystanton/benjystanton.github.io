@@ -139,6 +139,9 @@ a {
       outline: 3px solid $brand-color;
       text-decoration: none;
     }
+    &:visited {
+        color: #800080;
+    }
 
 }
 

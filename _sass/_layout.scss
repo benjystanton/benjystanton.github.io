@@ -25,6 +25,10 @@
 
     a {
         border: none;
+
+        &:visited {
+          color:$brand-color;
+        }
     }
 
     .logo:focus {

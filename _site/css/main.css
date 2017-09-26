@@ -110,6 +110,8 @@ a {
     color: #ffffff;
     outline: 3px solid #58852c;
     text-decoration: none; }
+  a:visited {
+    color: #800080; }
 
 .site-footer a:hover {
   color: #58852c; }
@@ -157,6 +159,8 @@ blockquote footer {
       text-align: left; } }
   .site-header a {
     border: none; }
+    .site-header a:visited {
+      color: #58852c; }
   .site-header .logo:focus {
     background-color: #ffffff; }
   .site-header img {
@@ -425,7 +429,8 @@ blockquote footer {
 table {
   border-collapse: collapse;
   border-spacing: 0;
-  width: 100%; }
+  width: 100%;
+  margin-bottom: 36px; }
 
 thead {
   border-bottom: 2px solid #babdc4; }
@@ -437,7 +442,8 @@ th, td {
   font-weight: normal;
   border-bottom: 1px solid #babdc4;
   text-align: left;
-  padding: .5em 2em .5em 0; }
+  padding: .8em 1.6em .8em 0;
+  line-height: 1.4; }
 
 td:last-child, th:last-child {
   padding-right: 0; }

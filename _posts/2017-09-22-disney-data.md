@@ -66,35 +66,32 @@ I collected some data, mainly so that I could play around with styling up key fi
 
 </table>
 
-<!-- ## Time spent queueing
+<table>
 
-### Day 1
-- Small world 0 minutes
-- Tea cups 5 minutes
-- Dumbo 15 minutes
-- Peter Pan 10 minutes
-- Thunder mountain 20 minutes
+<caption>How long we waited for each attraction</caption>
 
-### Day 2
-- Thunder mountain 30 minutes
-- Pinocchio 30 minutes
-- Snow White 25 minutes
-- Haunted mansion 20 minutes
-- Star tours 20 minutes
-- Buzz light year 15 minutes
+<thead>
 
-### Day 3
-- Aladdin 15 minutes
-- Slinky 10 minutes
-- Ratatouille 30 minutes
-- Soldiers 30 minutes
-- Cars 10 minutes
-- Crush 60 minutes
-- Aladdin 5 minutes
+<tr>
+<th scope="col">Day</th>
+<th scope="col">Attraction</th>
+<th scope="col" class="cell--right">Queue time (minutes)</th>
+</tr>
 
-### Day 4
-- Carousel 0 minutes
-- Tea cups 5 minutes
-- Princess 60 minutes
-- Small world 10 minutes
-- Tower of terror 45 minutes -->
+</thead>
+
+<tbody>
+
+
+{% for disney in site.data.disney %}
+<tr>
+<th scope="row">{{ disney.day }}</th>
+<td><a href="{{ disney.attraction-url }}">{{ disney.attraction }}</a></td>
+<td class="cell--right">{{ disney.time }}</td>
+</tr>
+{% endfor %}
+
+
+</tbody>
+
+</table>
