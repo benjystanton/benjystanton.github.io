@@ -169,6 +169,10 @@ blockquote footer {
     border: none; }
     .site-header a:visited {
       color: #58852c; }
+    .site-header a:focus {
+      color: #ffffff;
+      background-color: #58852c;
+      outline: 3px solid #58852c; }
   .site-header .logo:focus {
     background-color: #ffffff; }
   .site-header img {

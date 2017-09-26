@@ -29,6 +29,12 @@
         &:visited {
           color:$brand-color;
         }
+
+        &:focus {
+          color:$white-color;
+          background-color: $brand-color;
+          outline: 3px solid $brand-color;
+        }
     }
 
     .logo:focus {
