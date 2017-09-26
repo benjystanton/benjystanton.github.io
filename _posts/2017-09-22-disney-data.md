@@ -20,7 +20,7 @@ I collected some data, mainly so that I could play around with styling up key fi
 
 <span class="data-item bold-xlarge">7.8</span> <span>hours spent queueing</span>
 
-## More data
+## Walking
 
 <table>
 
@@ -65,6 +65,8 @@ I collected some data, mainly so that I could play around with styling up key fi
 </tbody>
 
 </table>
+
+## Queue time
 
 <table>
 
