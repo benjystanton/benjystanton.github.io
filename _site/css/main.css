@@ -104,14 +104,22 @@ small {
 a {
   color: #58852c; }
   a:hover {
-    color: #3B3E44; }
+    color: #3f5f1f; }
   a:focus {
     background-color: #58852c;
     color: #ffffff;
     outline: 3px solid #58852c;
     text-decoration: none; }
+  a:visited:focus {
+    background-color: #800080;
+    color: #ffffff;
+    outline: 3px solid #800080; }
   a:visited {
     color: #800080; }
+  a:visited:hover {
+    color: #4d004d; }
+  a:visited:focus:hover {
+    color: #ffffff; }
 
 .site-footer a:hover {
   color: #58852c; }

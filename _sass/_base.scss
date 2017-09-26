@@ -130,7 +130,7 @@ a {
     color: $brand-color;
 
     &:hover {
-        color: $text-color;
+        color: darken($brand-color,10%);
     }
 
     &:focus {
@@ -139,8 +139,19 @@ a {
       outline: 3px solid $brand-color;
       text-decoration: none;
     }
+    &:visited:focus {
+      background-color: #800080;
+      color: $white-color;
+      outline: 3px solid #800080;
+    }
     &:visited {
         color: #800080;
+    }
+    &:visited:hover {
+        color: darken(#800080,10%);
+    }
+    &:visited:focus:hover {
+        color: $white-color;
     }
 
 }
