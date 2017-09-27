@@ -20,6 +20,8 @@ I collected some data, mainly so that I could play around with styling up key fi
 
 <span class="data-item bold-xlarge">7.8</span> <span>hours spent queueing</span>
 
+<span class="data-item bold-xlarge">6</span> <span>buffets</span>
+
 ## Walking
 
 <table>

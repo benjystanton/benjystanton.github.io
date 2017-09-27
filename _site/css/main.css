@@ -124,7 +124,9 @@ a {
 .site-footer a:hover {
   color: #58852c; }
 .site-footer a:focus {
-  color: #ffffff; }
+  color: #ffffff;
+  background-color: #58852c;
+  outline: 3px solid #58852c; }
 
 /**
  * Clearfix
