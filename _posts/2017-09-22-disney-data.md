@@ -4,6 +4,7 @@ title: Disney data
 date: 2017-09-22 11:51:00  
 categories: data family
 excerpt: Data from our family trip to Disneyland Paris.
+day: monday
 ---
 
 Back in March we took a family trip to Disneyland Paris.
@@ -40,33 +41,19 @@ I collected some data, mainly so that I could play around with styling up key fi
 
 <tbody>
 
+{% for distance-walked in site.data.distance-walked %}
 <tr>
-<th scope="row">Monday</th>
-<td class="cell--right">15065</td>
-<td class="cell--right">6.94</td>
+<th scope="row">{{ distance-walked.steps }}</th>
+<td class="cell--right">{{ distance-walked.steps }}</td>
+<td class="cell--right">{{ distance-walked.steps }}</td>
 </tr>
-
-<tr>
-<th scope="row">Tuesday</th>
-<td class="cell--right">19831</td>
-<td class="cell--right">9.14</td>
-</tr>
-
-<tr>
-<th scope="row">Wednesday</th>
-<td class="cell--right">14818</td>
-<td class="cell--right">6.80</td>
-</tr>
-
-<tr>
-<th scope="row">Thursday</th>
-<td class="cell--right">10006</td>
-<td class="cell--right">4.60</td>
-</tr>
+{% endfor %}
 
 </tbody>
 
 </table>
+
+{{site.data.distance-walked.steps}}
 
 ## Queue time
 
@@ -87,11 +74,11 @@ I collected some data, mainly so that I could play around with styling up key fi
 <tbody>
 
 
-{% for disney in site.data.disney %}
+{% for queue-time in site.data.queue-time %}
 <tr>
-<th scope="row">{{ disney.day }}</th>
-<td><a href="{{ disney.attraction-url }}">{{ disney.attraction }}</a></td>
-<td class="cell--right">{{ disney.time }}</td>
+<th scope="row">{{ queue-time.day }}</th>
+<td><a href="{{ queue-time.attraction-url }}">{{ queue-time.attraction }}</a></td>
+<td class="cell--right">{{ queue-time.time }}</td>
 </tr>
 {% endfor %}
 

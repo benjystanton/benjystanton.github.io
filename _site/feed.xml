@@ -5,8 +5,8 @@
     <description>UX Designer. Family Man. Music Snob.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 27 Sep 2017 20:05:58 +0100</pubDate>
-    <lastBuildDate>Wed, 27 Sep 2017 20:05:58 +0100</lastBuildDate>
+    <pubDate>Wed, 27 Sep 2017 20:51:29 +0100</pubDate>
+    <lastBuildDate>Wed, 27 Sep 2017 20:51:29 +0100</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
     
       <item>
@@ -45,29 +45,31 @@
 
 &lt;tbody&gt;
 
+
 &lt;tr&gt;
-&lt;th scope=&quot;row&quot;&gt;Monday&lt;/th&gt;
+&lt;th scope=&quot;row&quot;&gt;15065&lt;/th&gt;
 &lt;td class=&quot;cell--right&quot;&gt;15065&lt;/td&gt;
-&lt;td class=&quot;cell--right&quot;&gt;6.94&lt;/td&gt;
+&lt;td class=&quot;cell--right&quot;&gt;15065&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;th scope=&quot;row&quot;&gt;Tuesday&lt;/th&gt;
+&lt;th scope=&quot;row&quot;&gt;19831&lt;/th&gt;
 &lt;td class=&quot;cell--right&quot;&gt;19831&lt;/td&gt;
-&lt;td class=&quot;cell--right&quot;&gt;9.14&lt;/td&gt;
+&lt;td class=&quot;cell--right&quot;&gt;19831&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;th scope=&quot;row&quot;&gt;Wednesday&lt;/th&gt;
+&lt;th scope=&quot;row&quot;&gt;14818&lt;/th&gt;
 &lt;td class=&quot;cell--right&quot;&gt;14818&lt;/td&gt;
-&lt;td class=&quot;cell--right&quot;&gt;6.80&lt;/td&gt;
+&lt;td class=&quot;cell--right&quot;&gt;14818&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;th scope=&quot;row&quot;&gt;Thursday&lt;/th&gt;
+&lt;th scope=&quot;row&quot;&gt;10006&lt;/th&gt;
 &lt;td class=&quot;cell--right&quot;&gt;10006&lt;/td&gt;
-&lt;td class=&quot;cell--right&quot;&gt;4.60&lt;/td&gt;
+&lt;td class=&quot;cell--right&quot;&gt;10006&lt;/td&gt;
 &lt;/tr&gt;
+
 
 &lt;/tbody&gt;
 
