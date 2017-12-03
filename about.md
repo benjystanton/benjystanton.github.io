@@ -11,16 +11,16 @@ Previously, I was at [Leadin](http://leadin.co.uk/), a service design agency in 
 
 I care about user needs, content, accessibility and good typography.
 
-## Skills
+<!-- ## Skills
 
 - User Experience design
 - Prototyping
 - Graphic design
-- HTML & CSS
+- HTML & CSS -->
 
 ## Experience
 
-- **ONS** — October 2016 to present
+- **Office for National Statistics** — October 2016 to present
 - **Leadin** — May 2015 to October 2016
 - **Freelance** — February 2014 to March 2016
 - **James Good** — March 2011 to February 2014
