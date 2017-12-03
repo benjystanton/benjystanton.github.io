@@ -43,7 +43,7 @@ body {
   font-family: "source-sans-pro", sans-serif;
   font-size: 18px;
   line-height: 1.5;
-  color: #3B3E44;
+  color: #2e343b;
   background-color: #ffffff;
   -webkit-text-size-adjust: 100%; }
   @media screen and (min-width: 660px) {
@@ -56,7 +56,7 @@ body {
 
 hr {
   border: 0;
-  border-bottom: 1px solid #f1f2f3;
+  border-bottom: 1px solid #e4e7ea;
   margin: 72px 0; }
 
 /**
@@ -102,31 +102,25 @@ small {
  * Links
  */
 a {
-  color: #58852c; }
-  a:hover {
-    color: #3f5f1f; }
-  a:focus {
-    background-color: #58852c;
+  color: #007575; }
+  a:hover, a:focus {
+    background-color: #007575;
     color: #ffffff;
-    outline: 3px solid #58852c;
+    outline: 3px solid #007575;
     text-decoration: none; }
-  a:visited:focus {
-    background-color: #800080;
+  a:visited:hover, a:visited:focus {
+    background-color: #2e343b;
     color: #ffffff;
-    outline: 3px solid #800080; }
+    outline: 3px solid #2e343b; }
   a:visited {
-    color: #800080; }
-  a:visited:hover {
-    color: #4d004d; }
+    color: #2e343b; }
   a:visited:focus:hover {
     color: #ffffff; }
 
-.site-footer a:hover {
-  color: #58852c; }
-.site-footer a:focus {
+.site-footer a:hover, .site-footer a:focus {
   color: #ffffff;
-  background-color: #58852c;
-  outline: 3px solid #58852c; }
+  background-color: #007575;
+  outline: 3px solid #007575; }
 
 /**
  * Clearfix
@@ -137,7 +131,7 @@ a {
   clear: both; }
 
 blockquote {
-  border-left: 4px solid #3b3e44;
+  border-left: 4px solid #2e343b;
   padding-left: 18px;
   font-size: 24px;
   margin: 36px 0; }
@@ -167,14 +161,14 @@ blockquote footer {
   @media screen and (min-width: 660px) {
     .site-header {
       text-align: left; } }
-  .site-header a {
-    border: none; }
-    .site-header a:visited {
-      color: #58852c; }
-    .site-header a:focus {
-      color: #ffffff;
-      background-color: #58852c;
-      outline: 3px solid #58852c; }
+  .site-header a:visited {
+    color: #007575; }
+  .site-header a:hover, .site-header a:focus {
+    color: #ffffff;
+    background-color: #007575;
+    outline: 3px solid #007575; }
+  .site-header a.logo:hover {
+    background-color: #ffffff; }
   .site-header .logo:focus {
     background-color: #ffffff; }
   .site-header img {
@@ -211,9 +205,9 @@ blockquote footer {
   .site-footer .wrapper {
     padding-top: 36px;
     padding-bottom: 36px;
-    border-top: 1px solid #f1f2f3; }
+    border-top: 1px solid #e4e7ea; }
   .site-footer a {
-    color: #3B3E44; }
+    color: #2e343b; }
 
 .site-footer-credit, .site-footer-email, .site-footer-icons {
   text-align: center;
@@ -258,7 +252,7 @@ blockquote footer {
 
 .post-meta {
   font-size: 14.4px;
-  color: #6a707b; }
+  color: #5b6774; }
   @media screen and (min-width: 660px) {
     .post-meta {
       font-size: 17.28px; } }
@@ -282,12 +276,12 @@ blockquote footer {
  * Grid
  */
 .column {
-  background-color: #f1f2f3;
+  background-color: #e4e7ea;
   padding: 18px;
   margin-bottom: 36px;
   float: left; }
   .column:nth-child(even) {
-    background-color: white; }
+    background-color: #f2f4f5; }
 
 .full {
   width: 100%; }
@@ -447,14 +441,14 @@ table {
   margin-bottom: 36px; }
 
 thead {
-  border-bottom: 2px solid #babdc4; }
+  border-bottom: 2px solid #abb3bd; }
 
 thead th {
   font-weight: bold; }
 
 th, td {
   font-weight: normal;
-  border-bottom: 1px solid #babdc4;
+  border-bottom: 1px solid #abb3bd;
   text-align: left;
   padding: .8em 1.6em .8em 0;
   line-height: 1.4; }
@@ -484,7 +478,7 @@ caption {
 pre,
 code {
   font-size: 15px;
-  border: 1px solid #babdc4;
+  border: 1px solid #abb3bd;
   border-radius: 3px;
   background-color: #eef; }
 
@@ -523,7 +517,7 @@ input[type=text], select, textarea, button {
 
 button {
   color: #ffffff;
-  background-color: #3B3E44;
+  background-color: #2e343b;
   border: 0 none;
   cursor: pointer; }
 
@@ -531,9 +525,7 @@ button {
   display: inline-block;
   background-position: 0 0;
   background-repeat: no-repeat;
-  background-size: 100%; }
-
-.site-footer-icons a:focus {
+  background-size: 100%;
   background-color: #ffffff; }
 
 .icon-social {

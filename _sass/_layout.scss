@@ -24,16 +24,18 @@
     }
 
     a {
-        border: none;
 
         &:visited {
           color:$brand-color;
         }
-
+        &:hover,
         &:focus {
           color:$white-color;
           background-color: $brand-color;
           outline: 3px solid $brand-color;
+        }
+        &.logo:hover {
+          background-color: $white-color;
         }
     }
 

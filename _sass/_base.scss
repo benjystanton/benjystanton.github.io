@@ -129,16 +129,17 @@ small {
 a {
     color: $brand-color;
 
-    &:hover {
-        color: darken($brand-color,10%);
-    }
-
+    // &:hover {
+    //     color: darken($brand-color,10%);
+    // }
+    &:hover,
     &:focus {
       background-color: $brand-color;
       color: $white-color;
       outline: 3px solid $brand-color;
       text-decoration: none;
     }
+    &:visited:hover,
     &:visited:focus {
       background-color: $visited;
       color: $white-color;
@@ -147,9 +148,9 @@ a {
     &:visited {
         color: $visited;
     }
-    &:visited:hover {
-        color: darken($visited,10%);
-    }
+    // &:visited:hover {
+    //     color: darken($visited,10%);
+    // }
     &:visited:focus:hover {
         color: $white-color;
     }
@@ -158,10 +159,10 @@ a {
 
 .site-footer a {
 
-    &:hover {
-        color: $brand-color;
-    }
-
+    // &:hover {
+    //     color: $brand-color;
+    // }
+    &:hover,
     &:focus {
         color: $white-color;
         background-color: $brand-color;
