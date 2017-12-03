@@ -60,13 +60,21 @@
 
     .page-link {
         line-height: $base-line-height;
-        text-decoration: none;
 
         // Gaps between nav items, but not on the first one
         &:not(:first-child) {
             margin-left: 1em;
         }
 
+    }
+
+    a.current {
+      color: $text-color;
+      text-decoration: none;
+
+        &:hover,&:focus {
+          color: $white-color;
+        }
     }
 }
 

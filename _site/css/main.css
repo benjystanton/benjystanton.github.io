@@ -182,10 +182,14 @@ blockquote footer {
       float: right;
       margin-top: 18px; } }
   .site-nav .page-link {
-    line-height: 1.5;
-    text-decoration: none; }
+    line-height: 1.5; }
     .site-nav .page-link:not(:first-child) {
       margin-left: 1em; }
+  .site-nav a.current {
+    color: #2e343b;
+    text-decoration: none; }
+    .site-nav a.current:hover, .site-nav a.current:focus {
+      color: #ffffff; }
 
 /* Make skiplinks visible when they are tabbed to */
 .skiplink {
