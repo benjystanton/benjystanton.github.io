@@ -29,6 +29,8 @@ I care about user needs, content, accessibility and good typography.
 
 ## Speaking
 
+- **ConCon** — October 2017
+- **Cross Government Design Meetup** — April 2017
 - **[Ignite Swansea](https://www.youtube.com/watch?v=9_XQ6H9Kmh0)** — August 2016
 - **Design Stuff Cardiff** — June 2016
 - **Design Swansea** — April 2016
