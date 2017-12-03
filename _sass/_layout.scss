@@ -93,12 +93,11 @@
  * Site footer
  */
 .site-footer {
-    padding: $spacing-unit*2 0 0;
+    padding: $spacing-unit*3 0 0;
     text-align: left;
 
     .wrapper {
         padding-top: $spacing-unit;
-        padding-bottom: $spacing-unit;
         border-top: 1px solid lighten($text-color, 70%);
     }
 

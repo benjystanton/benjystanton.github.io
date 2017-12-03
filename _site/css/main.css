@@ -204,11 +204,10 @@ blockquote footer {
  * Site footer
  */
 .site-footer {
-  padding: 72px 0 0;
+  padding: 108px 0 0;
   text-align: left; }
   .site-footer .wrapper {
     padding-top: 36px;
-    padding-bottom: 36px;
     border-top: 1px solid #e4e7ea; }
   .site-footer a {
     color: #2e343b; }
