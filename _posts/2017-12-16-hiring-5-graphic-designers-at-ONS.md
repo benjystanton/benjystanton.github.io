@@ -18,14 +18,13 @@ You'll be helping us to improve our charts, interactive tools and the typography
 - [Graphic Designer (Digital) £28,450](https://www.civilservicejobs.service.gov.uk/csr/jobs.cgi?jcode=1563087)
 - [Graphic Designer (Digital) £21,950](https://www.civilservicejobs.service.gov.uk/csr/jobs.cgi?jcode=1563101)
 
-## Graphic Designer (Brand and Print)
+## Graphic Designers (Brand and Print)
 
 These roles will be based in the Comms department. We're looking for designers who are experienced working in print and communications.
 
 You'll be helping us to improve our brand identity, reports and exhibition materials. You'll help the other designers to develop a consistent design system across ONS. These roles will include some digital things too.
 
 - [Lead Graphic Designer (Brand and Print) £35,200](https://www.civilservicejobs.service.gov.uk/csr/jobs.cgi?jcode=1563120 )
-
 - [Graphic Designer (Brand and Print) £28,450](https://www.civilservicejobs.service.gov.uk/csr/jobs.cgi?jcode=1563118)
 
 ## Bonus role: Front End Developer
