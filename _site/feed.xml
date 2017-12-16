@@ -5,9 +5,69 @@
     <description>UX Designer. Family Man. Music Snob.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 03 Dec 2017 22:47:32 +0000</pubDate>
-    <lastBuildDate>Sun, 03 Dec 2017 22:47:32 +0000</lastBuildDate>
+    <pubDate>Sat, 16 Dec 2017 07:44:57 +0000</pubDate>
+    <lastBuildDate>Sat, 16 Dec 2017 07:44:57 +0000</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
+    
+      <item>
+        <title>We're hiring 5 graphic designers at Office for National Statistics (ONS)</title>
+        <description>&lt;p&gt;We’re looking for 3 digital designers and 2 brand and print designers in Newport. The closing date is 22 January 2018.&lt;/p&gt;
+
+&lt;h2 id=&quot;graphic-designers-digital&quot;&gt;Graphic Designers (Digital)&lt;/h2&gt;
+
+&lt;p&gt;These roles are based in the Digital Publishing department. We’re looking for designers who are experienced working in digital.&lt;/p&gt;
+
+&lt;p&gt;You’ll be helping us to improve our charts, interactive tools and the typography on the website. You’ll help the other designers to develop a consistent design system across ONS.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.civilservicejobs.service.gov.uk/csr/jobs.cgi?jcode=1563104&quot;&gt;Lead Graphic Designer (Digital) £35,200&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.civilservicejobs.service.gov.uk/csr/jobs.cgi?jcode=1563087&quot;&gt;Graphic Designer (Digital) £28,450&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.civilservicejobs.service.gov.uk/csr/jobs.cgi?jcode=1563101&quot;&gt;Graphic Designer (Digital) £21,950&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;graphic-designer-brand-and-print&quot;&gt;Graphic Designer (Brand and Print)&lt;/h2&gt;
+
+&lt;p&gt;These roles will be based in the Comms department. We’re looking for designers who are experienced working in print and communications.&lt;/p&gt;
+
+&lt;p&gt;You’ll be helping us to improve our brand identity, reports and exhibition materials. You’ll help the other designers to develop a consistent design system across ONS. These roles will include some digital things too.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.civilservicejobs.service.gov.uk/csr/jobs.cgi?jcode=1563120&quot;&gt;Lead Graphic Designer (Brand and Print) £35,200&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.civilservicejobs.service.gov.uk/csr/jobs.cgi?jcode=1563118&quot;&gt;Graphic Designer (Brand and Print) £28,450&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;bonus-role-front-end-developer&quot;&gt;Bonus role: Front End Developer&lt;/h2&gt;
+
+&lt;p&gt;We’re also looking for a front end developer to join digital publishing. This person will be working closely with the designers.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.civilservicejobs.service.gov.uk/csr/jobs.cgi?jcode=1564122&quot;&gt;Front End Developer £21,950&lt;/a&gt; (Closing date 7 January 2018)&lt;/p&gt;
+
+&lt;h2 id=&quot;whats-it-like-to-work-at-ons&quot;&gt;What’s it like to work at ONS?&lt;/h2&gt;
+
+&lt;p&gt;Here are some blog posts I’ve written about life and work at ONS:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://digitalblog.ons.gov.uk/author/benjy/&quot;&gt;Blog posts I’ve written for the ONS digital blog&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.benjystanton.co.uk/blog/my-first-12ish-months/&quot;&gt;My first 12ish months&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.benjystanton.co.uk/blog/my-12-year-quest/&quot;&gt;My 12 year quest to get a public service design job&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.benjystanton.co.uk/blog/retrospective-my-first-2-months/&quot;&gt;Retrospective (my first 2 months)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.benjystanton.co.uk/blog/work-with-me-at-office-for-national-statistics-ons/&quot;&gt;Work with me at Office for National Statistics (ONS)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sat, 16 Dec 2017 07:41:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/hiring-5-graphic-designers-at-ONS/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/hiring-5-graphic-designers-at-ONS/</guid>
+        
+        
+        <category>ons</category>
+        
+        <category>design</category>
+        
+      </item>
     
       <item>
         <title>My first 12ish months</title>
@@ -754,97 +814,6 @@
         <category>talk</category>
         
         <category>ux</category>
-        
-      </item>
-    
-      <item>
-        <title>Things my little girls have taught me about feminism</title>
-        <description>&lt;p&gt;A rough transcript of my talk on feminism at Ignite Swansea.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/my-little-girls.png&quot; alt=&quot;My 2 little girls, smiling in a phone box.&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Here are my 2 little girls. Don’t be taken in by their cuteness, they are quite evil. Their favourite things are having meltdowns in the supermarket and making fun of my receding hair.&lt;/p&gt;
-
-&lt;p&gt;I want to start off with the definition of feminism. According to Google, feminism is:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;“the advocacy of women’s rights on the ground of the equality of the sexes”.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;For me it’s about wanting to live in a equal society, and I just don’t think we are there yet.&lt;/p&gt;
-
-&lt;p&gt;Apparently, gendered listening starts at the age of four. My eldest is 5. She’s had one year of listening to adults talk about men and women in different ways, usually to the detriment of women.&lt;/p&gt;
-
-&lt;p&gt;A good example of this: once when I was crossing the road I told her to wait for the green man. She asked “why is it always a man?”. This really hit home. It made me realise just how the world is weighted in favour of men.&lt;/p&gt;
-
-&lt;p&gt;My girls love Disney Princesses. Initially I was worried that these were too girly, too clichéd. Are they good role models for my kids? But I quickly learnt why they love them. They are exciting, strong, positive role models.&lt;/p&gt;
-
-&lt;p&gt;So together, we’re exploring different films and characters. Like My Little Pony: Equestrian Girls. This is an alternative universe where the ponies are human girls who form a rock band, have magical powers and work together to defeat evil dragons.&lt;/p&gt;
-
-&lt;p&gt;They enjoy “boy stuff” too, like Marvel and Transformers. But it feels very segregated still. Boys toys and girls toys.&lt;/p&gt;
-
-&lt;p&gt;I think companies like Disney and Marvel are slowly creating more diverse role models for kids to look up to though. Apparently, the next Iron Man film will star a 15-year-old black girl.&lt;/p&gt;
-
-&lt;p&gt;Star Wars is another good example of franchise that’s being updated. Princess Leia is pretty strong characted in the early films, but in one of them she’s tied up as Jabba’s sex slave, so I’m not going to watch that with my kids.&lt;/p&gt;
-
-&lt;p&gt;But in the new star wars, Leia is a General. And one of the lead characters, Rey, is 😮 a woman! I can’t wait to watch these films with my kids when they’re a bit older.&lt;/p&gt;
-
-&lt;p&gt;There is a new Star Wars film coming out too. It’s called Rogue One, and it also stars 😱 a woman! Apparently this is a genuine YouTube comment about the trailer:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;“I’m not sexist but Star Wars is about men, men fighting to save the universe. If women can do the same as men, what’s the point? I won’t be seeing this. If you need me I’ll be watching anime.”&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;It’s a typical example of the way men react online when gender roles are reversed.&lt;/p&gt;
-
-&lt;p&gt;The trolls have been out in force over the new Ghostbusters film too. But look how happy these 2 girls are. This is what representation in the media can do:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/ghostbusters-representation.jpg&quot; alt=&quot;Kristen Wiig meeting 2 girls dressed in Ghostbusters fancy dress.&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;The olympics have been full of men saying embarrassing things too.&lt;/p&gt;
-
-&lt;p&gt;Such as John Inverdale, saying that Andy Murray was “the first person ever to win two Olympic tennis gold medals”, completely forgetting that Venus and Serena Williams have won four each.&lt;/p&gt;
-
-&lt;p&gt;And this &lt;a href=&quot;https://twitter.com/beggie_smalls/status/762545510930677760&quot;&gt;bloke on Twitter, mansplaining to olympic athlete&lt;/a&gt; Annemiek van Vleuten after her horrendous crash by saying: “the first lesson in bicycling, keep your bike steady… whether fast or slow”.&lt;/p&gt;
-
-&lt;p&gt;Nearly as bad as mansplaining is manspreading. Guys have a look down at your legs now and if you’re manspreading then do the people either side of you a favour and close them up a little. You’re not that big.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/manspreading.jpg&quot; alt=&quot;Man on a train sitting with his legs very far apart.&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Credit: WNYC New York Public Radio (CC BY-NC 2.0)&lt;/p&gt;
-
-&lt;p&gt;So, if like me, you’re keen to be a better man then I recommend following &lt;a href=&quot;https://twitter.com/manwhohasitall&quot;&gt;@manwhohasitall on twitter&lt;/a&gt;. It’s an account that takes headlines from trashy women’s magazines then aims them at men.&lt;/p&gt;
-
-&lt;p&gt;Like this one:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;“Men! Is having it all really possible? Kids, relationship, beach hair, imaginative picnic ideas AND a PH balanced intimate area?”&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;It highlights the absurd way that women are treated by the media sometimes.&lt;/p&gt;
-
-&lt;p&gt;So I’m hear today as a sign of solidarity to say: “My name is Benjy and I’m a feminist”.&lt;/p&gt;
-
-&lt;p&gt;…and guys, it’s okay if you want to watch pink, sparkly things sometimes. It doesn’t mean you’re any less of a man. It doesn’t mean you’re gay. It doesn’t mean anything. Unless you want it to. Just relax and enjoy it.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/glitter-force.gif&quot; alt=&quot;A pink super hero draws a huge heart in the sky.&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Thanks.&lt;/p&gt;
-
-&lt;h2 id=&quot;update&quot;&gt;Update&lt;/h2&gt;
-
-&lt;p&gt;I’ll probably look back on this and cringe. Being a feminist is hard and I’ve probably revealed some of inner prejudices here without realising it. If you have any feedback, &lt;a href=&quot;https://twitter.com/benjystanton&quot;&gt;let me know over on twitter&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 26 Aug 2016 12:12:00 +0100</pubDate>
-        <link>http://localhost:4000/blog/things-my-little-girls-have-taught-me-about-feminism/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/things-my-little-girls-have-taught-me-about-feminism/</guid>
-        
-        
-        <category>feminism</category>
-        
-        <category>talk</category>
-        
-        <category>family</category>
         
       </item>
     
