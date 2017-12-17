@@ -35,3 +35,23 @@ $spacing-unit:        36px;
         font-size: $small-font-size*1.2;
     }
 }
+
+// Basic styling
+
+body {
+    font-family: $base-font-family;
+    font-size: $base-font-size;
+    line-height: $base-line-height;
+    color: $text-color;
+    background-color: $background-color;
+    -webkit-text-size-adjust: 100%;
+
+    @include media-query($medium) {
+        font-size: 20px;
+        line-height: $base-line-height*1.2;
+    }
+
+    @include media-query($large) {
+        font-size: 22px;
+    }
+}

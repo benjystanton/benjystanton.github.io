@@ -28,25 +28,7 @@ html {
   absolute;
   width: 1px; }
 
-// Basic styling
 
-body {
-    font-family: $base-font-family;
-    font-size: $base-font-size;
-    line-height: $base-line-height;
-    color: $text-color;
-    background-color: $background-color;
-    -webkit-text-size-adjust: 100%;
-
-    @include media-query($medium) {
-        font-size: 20px;
-        line-height: $base-line-height*1.2;
-    }
-
-    @include media-query($large) {
-        font-size: 22px;
-    }
-}
 
 hr {
     border: 0;

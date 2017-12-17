@@ -17,37 +17,20 @@
     .post-meta {
       font-size: 17.28px; } }
 
-/**
- * Links
- */
-a {
-  color: #007575; }
-  a:hover, a:focus {
-    background-color: #007575;
-    color: #ffffff;
-    outline: 3px solid #007575;
-    text-decoration: none; }
-  a:visited:hover, a:visited:focus {
-    background-color: #2e343b;
-    color: #ffffff;
-    outline: 3px solid #2e343b; }
-  a:visited {
-    color: #2e343b; }
-  a:visited:focus:hover {
-    color: #ffffff; }
-
-.site-footer a:hover, .site-footer a:focus {
-  color: #ffffff;
-  background-color: #007575;
-  outline: 3px solid #007575; }
-
-img {
-  height: auto;
-  width: 100%;
-  vertical-align: middle; }
+body {
+  font-family: "source-sans-pro", sans-serif;
+  font-size: 18px;
+  line-height: 1.5;
+  color: #2e343b;
+  background-color: #ffffff;
+  -webkit-text-size-adjust: 100%; }
   @media screen and (min-width: 660px) {
-    img {
-      margin: 18px 0; } }
+    body {
+      font-size: 20px;
+      line-height: 1.8; } }
+  @media screen and (min-width: 900px) {
+    body {
+      font-size: 22px; } }
 
 body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure {
   margin: 0;
@@ -68,21 +51,6 @@ html {
   padding: 0;
   position: absolute;
   width: 1px; }
-
-body {
-  font-family: "source-sans-pro", sans-serif;
-  font-size: 18px;
-  line-height: 1.5;
-  color: #2e343b;
-  background-color: #ffffff;
-  -webkit-text-size-adjust: 100%; }
-  @media screen and (min-width: 660px) {
-    body {
-      font-size: 20px;
-      line-height: 1.8; } }
-  @media screen and (min-width: 900px) {
-    body {
-      font-size: 22px; } }
 
 hr {
   border: 0;
@@ -150,6 +118,38 @@ a {
   content: "";
   display: table;
   clear: both; }
+
+/**
+ * Links
+ */
+a {
+  color: #007575; }
+  a:hover, a:focus {
+    background-color: #007575;
+    color: #ffffff;
+    outline: 3px solid #007575;
+    text-decoration: none; }
+  a:visited:hover, a:visited:focus {
+    background-color: #2e343b;
+    color: #ffffff;
+    outline: 3px solid #2e343b; }
+  a:visited {
+    color: #2e343b; }
+  a:visited:focus:hover {
+    color: #ffffff; }
+
+.site-footer a:hover, .site-footer a:focus {
+  color: #ffffff;
+  background-color: #007575;
+  outline: 3px solid #007575; }
+
+img {
+  height: auto;
+  width: 100%;
+  vertical-align: middle; }
+  @media screen and (min-width: 660px) {
+    img {
+      margin: 18px 0; } }
 
 blockquote {
   border-left: 4px solid #2e343b;
