@@ -52,11 +52,6 @@ html {
   position: absolute;
   width: 1px; }
 
-hr {
-  border: 0;
-  border-bottom: 1px solid #e4e7ea;
-  margin: 72px 0; }
-
 h1, h2, h3, h4, h5, h6,
 p, blockquote, pre,
 ul, ol, dl, figure,
