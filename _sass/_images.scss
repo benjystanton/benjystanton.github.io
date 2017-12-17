@@ -4,5 +4,8 @@ img {
     height: auto;
     width: 100%;
     vertical-align: middle;
-    padding: $spacing-unit 0;
+
+    @include media-query($medium) {
+        margin: $spacing-unit/2 0;
+    }
 }
