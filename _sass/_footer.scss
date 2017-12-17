@@ -1,0 +1,42 @@
+// Site footer
+
+.site-footer {
+    padding: $spacing-unit*3 0 0;
+    text-align: left;
+
+    .wrapper {
+        padding-top: $spacing-unit;
+        border-top: 1px solid lighten($text-color, 70%);
+    }
+
+    a {
+        color: $text-color;
+    }
+}
+
+.site-footer-credit, .site-footer-email, .site-footer-icons {
+    text-align: center;
+    margin-bottom: 1em;
+
+    @include media-query($medium) {
+        float: left;
+        margin-right: 2em;
+    }
+}
+
+.site-footer-icons {
+    margin-top: 1.5em;
+
+    @include media-query($medium) {
+        margin-top: 0;
+    }
+}
+
+.site-footer-icons a {
+  text-decoration: none;
+    margin-right: 1em;
+
+    &:last-child {
+        margin-right: 0;
+    }
+}
