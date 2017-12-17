@@ -17,6 +17,30 @@
     .post-meta {
       font-size: 17.28px; } }
 
+/**
+ * Links
+ */
+a {
+  color: #007575; }
+  a:hover, a:focus {
+    background-color: #007575;
+    color: #ffffff;
+    outline: 3px solid #007575;
+    text-decoration: none; }
+  a:visited:hover, a:visited:focus {
+    background-color: #2e343b;
+    color: #ffffff;
+    outline: 3px solid #2e343b; }
+  a:visited {
+    color: #2e343b; }
+  a:visited:focus:hover {
+    color: #ffffff; }
+
+.site-footer a:hover, .site-footer a:focus {
+  color: #ffffff;
+  background-color: #007575;
+  outline: 3px solid #007575; }
+
 img {
   height: auto;
   width: 100%;
