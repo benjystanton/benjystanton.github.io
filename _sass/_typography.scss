@@ -111,14 +111,14 @@ li {
   }
 }
 
-// Swatch
+// Inline list
 
-.list--neutral {
+.list--inline {
   list-style: none;
   margin-left: 0;
 }
 
-.list--neutral li {
+.list--inline li {
   display: inline-block;
   margin-right: $spacing-unit/3;
   margin-bottom: $spacing-unit/3;

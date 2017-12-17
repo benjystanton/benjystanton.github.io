@@ -102,11 +102,11 @@ li > ul,
 li > ol {
   margin-bottom: 0; }
 
-.list--neutral {
+.list--inline {
   list-style: none;
   margin-left: 0; }
 
-.list--neutral li {
+.list--inline li {
   display: inline-block;
   margin-right: 12px;
   margin-bottom: 12px; }

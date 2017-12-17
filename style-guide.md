@@ -9,7 +9,7 @@ permalink: /style-guide/
 - Heading font: [Quatro Slab Ultra Black](https://typekit.com/fonts/quatro-slab)
 
 ## Colours
-<ul class="list--neutral">
+<ul class="list--inline">
   <li class="background--text-colour padding--1">Text</li>
   <li class="background--dark-grey-colour padding--1">Dark grey</li>
   <li class="background--medium-grey-colour padding--1">Medium grey</li>
@@ -20,7 +20,11 @@ permalink: /style-guide/
 
 ## Icons
 
-<p><i class="icon icon-social icon-github"><span class="visuallyhidden">GitHub</span></i> <i class="icon icon-social icon-twitter"><span class="visuallyhidden">Twitter</span></i> <i class="icon icon-social icon-instagram"><span class="visuallyhidden">Instagram</span></i></p>
+<ul class="list--inline">
+<li><i class="icon icon-social icon-github"><span class="visuallyhidden">GitHub</span></i></li>
+<li><i class="icon icon-social icon-twitter"><span class="visuallyhidden">Twitter</span></i></li>
+<li><i class="icon icon-social icon-instagram"><span class="visuallyhidden">Instagram</span></i></li>
+</ul>
 
 ***
 
