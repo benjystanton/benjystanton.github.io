@@ -10,6 +10,13 @@
     font-size: 20px;
     margin-top: 36px; }
 
+.post-meta {
+  font-size: 14.4px;
+  color: #5b6774; }
+  @media screen and (min-width: 660px) {
+    .post-meta {
+      font-size: 17.28px; } }
+
 img {
   height: auto;
   width: 100%;
@@ -132,18 +139,6 @@ blockquote footer {
   font-size: 18px;
   font-style: normal; }
 
-/**
- * Page content
- */
-.page-content {
-  padding: 72px 0 36px; }
-  @media screen and (min-width: 660px) {
-    .page-content .wrapper {
-      padding-right: 30%; } }
-  @media screen and (min-width: 900px) {
-    .page-content .wrapper {
-      padding-right: 20%; } }
-
 .post-list {
   margin-left: 0;
   list-style: none; }
@@ -152,13 +147,6 @@ blockquote footer {
     margin-bottom: 0; }
   .post-list > li {
     margin-bottom: 36px; }
-
-.post-meta {
-  font-size: 14.4px;
-  color: #5b6774; }
-  @media screen and (min-width: 660px) {
-    .post-meta {
-      font-size: 17.28px; } }
 
 .site-header {
   padding-top: 36px;
@@ -233,9 +221,6 @@ blockquote footer {
   .site-footer-icons a:last-child {
     margin-right: 0; }
 
-/**
- * Wrapper
- */
 .wrapper {
   max-width: 1000px;
   margin-right: auto;
@@ -243,9 +228,15 @@ blockquote footer {
   padding-right: 18px;
   padding-left: 18px; }
 
-/**
- * Grid
- */
+.page-content {
+  padding: 72px 0 36px; }
+  @media screen and (min-width: 660px) {
+    .page-content .wrapper {
+      padding-right: 30%; } }
+  @media screen and (min-width: 900px) {
+    .page-content .wrapper {
+      padding-right: 20%; } }
+
 .column {
   background-color: #e4e7ea;
   padding: 18px;

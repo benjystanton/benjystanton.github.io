@@ -1,24 +1,6 @@
 // Layout
 
-/**
- * Page content
- */
-.page-content {
-    padding: $spacing-unit*2 0 $spacing-unit;
-
-    @include media-query($medium) {
-        .wrapper {
-            padding-right: 30%;
-        }
-    }
-
-    @include media-query($large) {
-        .wrapper {
-            padding-right: 20%;
-        }
-    }
-
-}
+// Page content
 
 .post-list {
     margin-left: 0;
@@ -31,14 +13,5 @@
 
     > li {
         margin-bottom: $spacing-unit;
-    }
-}
-
-.post-meta {
-    font-size: $small-font-size;
-    color: lighten($text-color, 20%);
-
-    @include media-query($medium) {
-        font-size: $small-font-size*1.2;
     }
 }

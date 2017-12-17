@@ -1,6 +1,5 @@
-/**
- * Wrapper
- */
+// Wrapper
+
 .wrapper {
     max-width: 1000px;
     margin-right: auto;
@@ -10,12 +9,27 @@
     @extend %clearfix;
 }
 
+// Page content
 
-/**
- * Grid
- */
+.page-content {
+    padding: $spacing-unit*2 0 $spacing-unit;
 
- // The grid is currently only used in the style guide
+    @include media-query($medium) {
+        .wrapper {
+            padding-right: 30%;
+        }
+    }
+
+    @include media-query($large) {
+        .wrapper {
+            padding-right: 20%;
+        }
+    }
+
+}
+
+// Grid
+// The grid is currently only used in the style guide
  .row {
     @extend %clearfix;
  }
