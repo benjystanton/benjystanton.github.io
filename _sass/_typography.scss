@@ -5,7 +5,6 @@ body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure {
   padding: 0;
 }
 
-
 // Typography
 
 $base-font-family:    "source-sans-pro",sans-serif;
@@ -37,7 +36,7 @@ $spacing-unit:        36px;
 
 .post-meta {
     font-size: $small-font-size;
-    color: lighten($text-color, 20%);
+    color: $dark-grey-colour;
 
     @include media-query($medium) {
         font-size: $small-font-size*1.2;
@@ -50,8 +49,8 @@ body {
     font-family: $base-font-family;
     font-size: $base-font-size;
     line-height: $base-line-height;
-    color: $text-color;
-    background-color: $background-color;
+    color: $text-colour;
+    background-color: $white-colour;
     -webkit-text-size-adjust: 100%;
 
     @include media-query($medium) {
@@ -97,11 +96,12 @@ small {
         font-size: $small-font-size*1.2;
     }
 }
-// hr {
-//     border: 0;
-//     border-bottom: 1px solid lighten($text-color, 70%);
-//     margin: $spacing-unit*2 0;
-// }
+
+hr {
+    border: 0;
+    border-bottom: 1px solid $light-grey-colour;
+    margin: $spacing-unit*2 0;
+}
 
 // Lists
 

@@ -22,9 +22,7 @@ html {
   width: 1px; }
 
 
-/**
- * Clearfix
- */
+// Clearfix
 %clearfix {
 
     &:after {
@@ -32,4 +30,14 @@ html {
         display: table;
         clear: both;
     }
+}
+
+// Spacing classes
+.padding--1 {
+  padding: $spacing-unit/3;
+}
+
+// border
+.border {
+  border: 1px solid $light-grey-colour;
 }

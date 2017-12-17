@@ -1,7 +1,7 @@
 // Blockquotes
 
 blockquote {
-    border-left: 4px solid lighten($text-color, 0%);
+    border-left: 4px solid $text-colour;
     padding-left: $spacing-unit / 2;
     font-size: 24px;
     margin: $spacing-unit 0;

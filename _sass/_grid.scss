@@ -35,13 +35,13 @@
  }
 
 .column {
-    background-color: lighten($text-color, 70%);
+    background-color: $light-grey-colour;
     padding: $spacing-unit/2;
     margin-bottom: $spacing-unit;
     float: left;
 
         &:nth-child(even) {
-        background-color: lighten($text-color, 75%);
+        background-color: $medium-grey-colour;
     }
 }
 

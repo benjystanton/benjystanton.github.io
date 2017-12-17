@@ -8,7 +8,7 @@ table {
 }
 
 thead {
-  border-bottom:2px solid lighten($text-color, 50%);
+  border-bottom:2px solid $medium-grey-colour;
 }
 
 thead th {
@@ -17,7 +17,7 @@ thead th {
 
 th, td {
   font-weight: normal;
-  border-bottom:1px solid lighten($text-color, 50%);
+  border-bottom:1px solid $medium-grey-colour;
   text-align:left;
   padding:.8em 1.6em .8em 0;
   line-height: 1.4;

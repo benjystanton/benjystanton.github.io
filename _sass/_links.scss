@@ -2,45 +2,36 @@
  * Links
  */
 a {
-    color: $brand-color;
+    color: $brand-colour;
 
-    // &:hover {
-    //     color: darken($brand-color,10%);
-    // }
     &:hover,
     &:focus {
-      background-color: $brand-color;
-      color: $white-color;
-      outline: 3px solid $brand-color;
+      background-color: $brand-colour;
+      color: $white-colour;
+      outline: 3px solid $brand-colour;
       text-decoration: none;
     }
     &:visited:hover,
     &:visited:focus {
-      background-color: $visited;
-      color: $white-color;
-      outline: 3px solid $visited;
+      background-color: $visited-colour;
+      color: $white-colour;
+      outline: 3px solid $visited-colour;
     }
     &:visited {
-        color: $visited;
+        color: $visited-colour;
     }
-    // &:visited:hover {
-    //     color: darken($visited,10%);
-    // }
     &:visited:focus:hover {
-        color: $white-color;
+        color: $white-colour;
     }
 
 }
 
 .site-footer a {
 
-    // &:hover {
-    //     color: $brand-color;
-    // }
     &:hover,
     &:focus {
-        color: $white-color;
-        background-color: $brand-color;
-        outline: 3px solid $brand-color;
+        color: $white-colour;
+        background-color: $brand-colour;
+        outline: 3px solid $brand-colour;
     }
 }

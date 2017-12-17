@@ -4,7 +4,19 @@ title: Style Guide
 permalink: /style-guide/
 ---
 
-A collection of all the elements on this website. Inspired by [Pattern Lab][1], [Paul Robert Lloyd’s Style Guide][2] and [Pea.rs][3].
+## Fonts
+- Base font family: [Source Sans](https://typekit.com/fonts/source-sans)
+- Heading font: [Quatro Slab Ultra Black](https://typekit.com/fonts/quatro-slab)
+
+## Colours
+<ul class="list--neutral">
+  <li class="background--text-colour padding--1">Text</li>
+  <li class="background--dark-grey-colour padding--1">Dark grey</li>
+  <li class="background--medium-grey-colour padding--1">Medium grey</li>
+  <li class="background--light-grey-colour padding--1">Light grey</li>
+  <li class="background--white-colour padding--1 border">White</li>
+  <li class="background--brand-colour padding--1">Brand</li>
+</ul>
 
 ***
 
@@ -16,7 +28,7 @@ A collection of all the elements on this website. Inspired by [Pattern Lab][1], 
 
 A paragraph (from the Greek paragraphos, "to write beside" or "written beside") is a self-contained unit of a discourse in writing dealing with a particular point or idea. A paragraph consists of one or more sentences. Though not required by the syntax of any language, paragraphs are usually an expected part of formal writing, used to organize longer prose.
 
-Lorem ipsum dolor sit amet, consectetur adip*isicing elit, sed do eiusmod * tempor incididunt ut labore et dolore magna aliqua. 
+Lorem ipsum dolor sit amet, consectetur adip*isicing elit, sed do eiusmod * tempor incididunt ut labore et dolore magna aliqua.
 
 - This is a list item in an unordered list
 - An unordered list is a list in which the sequence of items is not important. Sometimes, an unordered list is a bulleted list. And this is a long list item in an unordered list that can wrap onto a new line.
@@ -40,7 +52,7 @@ Table Cell | Table Cell | Table Cell
 Table Cell | Table Cell | Table Cell
 Table Cell | Table Cell | Table Cell
 
-***
+<!-- ***
 
 <fieldset>
 
@@ -79,7 +91,7 @@ Table Cell | Table Cell | Table Cell
 
     <button type="submit" value="Submit">Submit</button>
 
-</fieldset>
+</fieldset> -->
 
 ***
 
@@ -101,7 +113,3 @@ Table Cell | Table Cell | Table Cell
 	<div class="column quarter">.column .quarter</div>
 	<div class="column quarter">.column .quarter</div>
 </div>
-
-[1]: http://patternlab.io/
-[2]: https://paulrobertlloyd.com/styleguide/
-[3]: http://pea.rs/

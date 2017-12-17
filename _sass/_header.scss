@@ -11,21 +11,21 @@
     a {
 
         &:visited {
-          color:$brand-color;
+          color:$brand-colour;
         }
         &:hover,
         &:focus {
-          color:$white-color;
-          background-color: $brand-color;
-          outline: 3px solid $brand-color;
+          color:$white-colour;
+          background-color: $brand-colour;
+          outline: 3px solid $brand-colour;
         }
         &.logo:hover {
-          background-color: $white-color;
+          background-color: $white-colour;
         }
     }
 
     .logo:focus {
-      background-color: $white-color;
+      background-color: $white-colour;
     }
 
     img {
@@ -54,11 +54,11 @@
     }
 
     a.current {
-      color: $text-color;
+      color: $text-colour;
       text-decoration: none;
 
         &:hover,&:focus {
-          color: $white-color;
+          color: $white-colour;
         }
     }
 }

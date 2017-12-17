@@ -1,7 +1,51 @@
 // Colours
 
-$text-color:       #2e343b;
-$white-color:      #ffffff;
-$background-color: $white-color;
-$brand-color:      #007575;
-$visited:          $text-color;
+$text-colour:         #2e343b;
+$light-grey-colour:   lighten($text-colour, 70%);
+$medium-grey-colour:  lighten($text-colour, 50%);
+$dark-grey-colour:    lighten($text-colour, 20%);
+$white-colour:        #ffffff;
+$brand-colour:        #007575;
+$visited-colour:      $text-colour;
+
+// If you change these, don't forget to update the style-guide.md
+
+// Background Colours
+
+.background--text-colour {
+  background-color: $text-colour;
+  color: $white-colour;
+}
+
+.background--light-grey-colour {
+  background-color: $light-grey-colour;
+}
+
+.background--medium-grey-colour {
+  background-color: $medium-grey-colour;
+}
+
+.background--dark-grey-colour {
+  background-color: $dark-grey-colour;
+  color: $white-colour;
+}
+
+.background--white-colour {
+  background-color: $white-colour;
+}
+
+.background--brand-colour {
+  background-color: $brand-colour;
+  color: $white-colour;
+}
+
+// Swatch
+
+.list--neutral {
+  list-style: none;
+  margin-left: 0;
+}
+
+.list--neutral li {
+  display: inline-block;
+}
