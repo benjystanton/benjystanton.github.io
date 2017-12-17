@@ -121,16 +121,6 @@ blockquote footer {
   font-style: normal; }
 
 /**
- * Wrapper
- */
-.wrapper {
-  max-width: 1000px;
-  margin-right: auto;
-  margin-left: auto;
-  padding-right: 18px;
-  padding-left: 18px; }
-
-/**
  * Page content
  */
 .page-content {
@@ -245,6 +235,16 @@ blockquote footer {
   margin-right: 1em; }
   .site-footer-icons a:last-child {
     margin-right: 0; }
+
+/**
+ * Wrapper
+ */
+.wrapper {
+  max-width: 1000px;
+  margin-right: auto;
+  margin-left: auto;
+  padding-right: 18px;
+  padding-left: 18px; }
 
 /**
  * Grid

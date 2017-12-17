@@ -1,6 +1,21 @@
 /**
+ * Wrapper
+ */
+.wrapper {
+    max-width: 1000px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: $spacing-unit/2;
+    padding-left: $spacing-unit/2;
+    @extend %clearfix;
+}
+
+
+/**
  * Grid
  */
+
+ // The grid is currently only used in the style guide
  .row {
     @extend %clearfix;
  }

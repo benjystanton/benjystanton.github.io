@@ -1,18 +1,6 @@
 // Layout
 
 /**
- * Wrapper
- */
-.wrapper {
-    max-width: 1000px;
-    margin-right: auto;
-    margin-left: auto;
-    padding-right: $spacing-unit/2;
-    padding-left: $spacing-unit/2;
-    @extend %clearfix;
-}
-
-/**
  * Page content
  */
 .page-content {
