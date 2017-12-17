@@ -1,0 +1,46 @@
+/**
+ * Links
+ */
+a {
+    color: $brand-color;
+
+    // &:hover {
+    //     color: darken($brand-color,10%);
+    // }
+    &:hover,
+    &:focus {
+      background-color: $brand-color;
+      color: $white-color;
+      outline: 3px solid $brand-color;
+      text-decoration: none;
+    }
+    &:visited:hover,
+    &:visited:focus {
+      background-color: $visited;
+      color: $white-color;
+      outline: 3px solid $visited;
+    }
+    &:visited {
+        color: $visited;
+    }
+    // &:visited:hover {
+    //     color: darken($visited,10%);
+    // }
+    &:visited:focus:hover {
+        color: $white-color;
+    }
+
+}
+
+.site-footer a {
+
+    // &:hover {
+    //     color: $brand-color;
+    // }
+    &:hover,
+    &:focus {
+        color: $white-color;
+        background-color: $brand-color;
+        outline: 3px solid $brand-color;
+    }
+}
