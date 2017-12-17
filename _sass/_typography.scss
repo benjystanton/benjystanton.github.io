@@ -6,3 +6,23 @@ $base-font-size:   18px;
 $small-font-size:  $base-font-size * 0.8;
 $base-line-height: 1.5;
 $spacing-unit:     36px;
+
+
+.post-content {
+    margin-bottom: $spacing-unit;
+
+    h2 {
+        font-size: 32px;
+        margin-top: $spacing-unit*2;
+    }
+
+    h3 {
+        font-size: 26px;
+        margin-top: $spacing-unit*2;
+    }
+
+    h4 {
+        font-size: 20px;
+        margin-top: $spacing-unit;
+    }
+}

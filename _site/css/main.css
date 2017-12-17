@@ -1,3 +1,15 @@
+.post-content {
+  margin-bottom: 36px; }
+  .post-content h2 {
+    font-size: 32px;
+    margin-top: 72px; }
+  .post-content h3 {
+    font-size: 26px;
+    margin-top: 72px; }
+  .post-content h4 {
+    font-size: 20px;
+    margin-top: 36px; }
+
 img {
   height: auto;
   width: 100%;
@@ -147,21 +159,6 @@ blockquote footer {
   @media screen and (min-width: 660px) {
     .post-meta {
       font-size: 17.28px; } }
-
-/**
- * Posts
- */
-.post-content {
-  margin-bottom: 36px; }
-  .post-content h2 {
-    font-size: 32px;
-    margin-top: 72px; }
-  .post-content h3 {
-    font-size: 26px;
-    margin-top: 72px; }
-  .post-content h4 {
-    font-size: 20px;
-    margin-top: 36px; }
 
 .site-header {
   padding-top: 36px;
