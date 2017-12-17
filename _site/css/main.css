@@ -1,3 +1,7 @@
+body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure {
+  margin: 0;
+  padding: 0; }
+
 .post-content {
   margin-bottom: 36px; }
   .post-content h2 {
@@ -32,38 +36,11 @@ body {
     body {
       font-size: 22px; } }
 
-body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure {
-  margin: 0;
-  padding: 0; }
-
-html {
-  box-sizing: border-box; }
-
-*, *:before, *:after {
-  box-sizing: inherit; }
-
-.visuallyhidden {
-  border: 0;
-  clip: rect(0 0 0 0);
-  height: 1px;
-  margin: -1px;
-  overflow: hidden;
-  padding: 0;
-  position: absolute;
-  width: 1px; }
-
 h1, h2, h3, h4, h5, h6,
 p, blockquote, pre,
 ul, ol, dl, figure,
 .highlight {
   margin-bottom: 18px; }
-
-ul, ol {
-  margin-left: 36px; }
-
-li > ul,
-li > ol {
-  margin-bottom: 0; }
 
 h1, h2, h3, h4, h5, h6 {
   line-height: 1.2; }
@@ -82,29 +59,28 @@ small {
     small {
       font-size: 17.28px; } }
 
-/**
- * Links
- */
-a {
-  color: #007575; }
-  a:hover, a:focus {
-    background-color: #007575;
-    color: #ffffff;
-    outline: 3px solid #007575;
-    text-decoration: none; }
-  a:visited:hover, a:visited:focus {
-    background-color: #2e343b;
-    color: #ffffff;
-    outline: 3px solid #2e343b; }
-  a:visited {
-    color: #2e343b; }
-  a:visited:focus:hover {
-    color: #ffffff; }
+ul, ol {
+  margin-left: 36px; }
 
-.site-footer a:hover, .site-footer a:focus {
-  color: #ffffff;
-  background-color: #007575;
-  outline: 3px solid #007575; }
+li > ul,
+li > ol {
+  margin-bottom: 0; }
+
+html {
+  box-sizing: border-box; }
+
+*, *:before, *:after {
+  box-sizing: inherit; }
+
+.visuallyhidden {
+  border: 0;
+  clip: rect(0 0 0 0);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px; }
 
 /**
  * Clearfix
