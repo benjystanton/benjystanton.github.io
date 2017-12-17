@@ -1,18 +1,12 @@
-/**
- * Reset some basic elements
- */
-body, h1, h2, h3, h4, h5, h6,
-p, blockquote, pre, hr,
-dl, dd, ol, ul, figure {
-    margin: 0;
-    padding: 0;
+// Reset some basic elements
+
+body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure {
+  margin: 0;
+  padding: 0;
 }
 
+// Box sizing
 
-
-/**
- * Box sizing
- */
 html {
   box-sizing: border-box;
 }
@@ -20,13 +14,9 @@ html {
   box-sizing: inherit;
 }
 
+// Hide things
+// Hide only visually, but have it available for screenreaders: h5bp.com/v
 
-
-/**
- * Hide things
- */
-
-/* Hide only visually, but have it available for screenreaders: h5bp.com/v */
 .visuallyhidden {
   border: 0;
   clip: rect(0 0 0 0);
@@ -38,11 +28,8 @@ html {
   absolute;
   width: 1px; }
 
+// Basic styling
 
-
-/**
- * Basic styling
- */
 body {
     font-family: $base-font-family;
     font-size: $base-font-size;
@@ -67,11 +54,8 @@ hr {
     margin: $spacing-unit*2 0;
 }
 
+// Set `margin-bottom` to maintain vertical rhythm
 
-
-/**
- * Set `margin-bottom` to maintain vertical rhythm
- */
 h1, h2, h3, h4, h5, h6,
 p, blockquote, pre,
 ul, ol, dl, figure,
@@ -79,11 +63,8 @@ ul, ol, dl, figure,
     margin-bottom: $spacing-unit/2;
 }
 
+// Lists
 
-
-/**
- * Lists
- */
 ul, ol {
     margin-left: $spacing-unit;
 }
@@ -96,9 +77,8 @@ li {
 }
 
 
-/**
- * Typography
- */
+// Typography
+
 h1, h2, h3, h4, h5, h6 {
     line-height: 1.2;
 }
