@@ -173,29 +173,6 @@ blockquote footer {
     font-size: 20px;
     margin-top: 36px; }
 
-/**
- * Grid
- */
-.column {
-  background-color: #e4e7ea;
-  padding: 18px;
-  margin-bottom: 36px;
-  float: left; }
-  .column:nth-child(even) {
-    background-color: #f2f4f5; }
-
-.full {
-  width: 100%; }
-
-.half {
-  width: 50%; }
-
-.third {
-  width: 33.333333%; }
-
-.quarter {
-  width: 25%; }
-
 .site-header {
   padding-top: 36px;
   text-align: center; }
@@ -268,6 +245,29 @@ blockquote footer {
   margin-right: 1em; }
   .site-footer-icons a:last-child {
     margin-right: 0; }
+
+/**
+ * Grid
+ */
+.column {
+  background-color: #e4e7ea;
+  padding: 18px;
+  margin-bottom: 36px;
+  float: left; }
+  .column:nth-child(even) {
+    background-color: #f2f4f5; }
+
+.full {
+  width: 100%; }
+
+.half {
+  width: 50%; }
+
+.third {
+  width: 33.333333%; }
+
+.quarter {
+  width: 25%; }
 
 /**
  * Syntax highlighting styles

@@ -1,0 +1,33 @@
+/**
+ * Grid
+ */
+ .row {
+    @extend %clearfix;
+ }
+
+.column {
+    background-color: lighten($text-color, 70%);
+    padding: $spacing-unit/2;
+    margin-bottom: $spacing-unit;
+    float: left;
+
+        &:nth-child(even) {
+        background-color: lighten($text-color, 75%);
+    }
+}
+
+.full {
+    width: 100%;
+}
+
+.half {
+    width: 50%;
+}
+
+.third {
+    width: 33.333333%;
+}
+
+.quarter {
+    width: 25%;
+}
