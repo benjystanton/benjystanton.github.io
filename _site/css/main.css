@@ -131,54 +131,6 @@ blockquote footer {
   padding-left: 18px; }
 
 /**
- * Site header
- */
-.site-header {
-  padding-top: 36px;
-  text-align: center; }
-  @media screen and (min-width: 660px) {
-    .site-header {
-      text-align: left; } }
-  .site-header a:visited {
-    color: #007575; }
-  .site-header a:hover, .site-header a:focus {
-    color: #ffffff;
-    background-color: #007575;
-    outline: 3px solid #007575; }
-  .site-header a.logo:hover {
-    background-color: #ffffff; }
-  .site-header .logo:focus {
-    background-color: #ffffff; }
-  .site-header img {
-    padding: 0;
-    width: 160px; }
-
-.site-nav {
-  margin-top: 36px; }
-  @media screen and (min-width: 660px) {
-    .site-nav {
-      float: right;
-      margin-top: 18px; } }
-  .site-nav .page-link {
-    line-height: 1.5; }
-    .site-nav .page-link:not(:first-child) {
-      margin-left: 1em; }
-  .site-nav a.current {
-    color: #2e343b;
-    text-decoration: none; }
-    .site-nav a.current:hover, .site-nav a.current:focus {
-      color: #ffffff; }
-
-/* Make skiplinks visible when they are tabbed to */
-.skiplink {
-  position: absolute;
-  left: -9999em; }
-
-.skiplink:focus {
-  left: 0;
-  z-index: 1; }
-
-/**
  * Site footer
  */
 .site-footer {
@@ -275,6 +227,50 @@ blockquote footer {
 
 .quarter {
   width: 25%; }
+
+.site-header {
+  padding-top: 36px;
+  text-align: center; }
+  @media screen and (min-width: 660px) {
+    .site-header {
+      text-align: left; } }
+  .site-header a:visited {
+    color: #007575; }
+  .site-header a:hover, .site-header a:focus {
+    color: #ffffff;
+    background-color: #007575;
+    outline: 3px solid #007575; }
+  .site-header a.logo:hover {
+    background-color: #ffffff; }
+  .site-header .logo:focus {
+    background-color: #ffffff; }
+  .site-header img {
+    padding: 0;
+    width: 160px; }
+
+.site-nav {
+  margin-top: 36px; }
+  @media screen and (min-width: 660px) {
+    .site-nav {
+      float: right;
+      margin-top: 18px; } }
+  .site-nav .page-link {
+    line-height: 1.5; }
+    .site-nav .page-link:not(:first-child) {
+      margin-left: 1em; }
+  .site-nav a.current {
+    color: #2e343b;
+    text-decoration: none; }
+    .site-nav a.current:hover, .site-nav a.current:focus {
+      color: #ffffff; }
+
+.skiplink {
+  position: absolute;
+  left: -9999em; }
+
+.skiplink:focus {
+  left: 0;
+  z-index: 1; }
 
 /**
  * Syntax highlighting styles
