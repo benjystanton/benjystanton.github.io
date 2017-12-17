@@ -50,7 +50,7 @@ Lorem ipsum dolor sit amet, consectetur adip*isicing elit, sed do eiusmod * temp
 2. An ordered list is a list in which the sequence of items is important. An ordered list does not necessarily contain sequence characters.
 3. This is the last list item
 
-> A block quotation (also known as a long quotation or extract) is a quotation in a written document, that is set off from the main text as a paragraph, or block of text, and typically distinguished visually using indentation and a different typeface or smaller size quotation.
+> A blockquote is a quotation in a written document, that is set off from the main text as a paragraph, or block of text, and typically distinguished visually using indentation.
 
 <p class="post-meta">Post meta (used for blog published dates)</p>
 
@@ -143,7 +143,7 @@ Lorem ipsum dolor sit amet, consectetur adip*isicing elit, sed do eiusmod * temp
 
 </fieldset> -->
 
-***
+<!-- ***
 
 <div class="row">
 	<div class="column full">.column .full</div>
@@ -162,4 +162,4 @@ Lorem ipsum dolor sit amet, consectetur adip*isicing elit, sed do eiusmod * temp
 	<div class="column quarter">.column .quarter</div>
 	<div class="column quarter">.column .quarter</div>
 	<div class="column quarter">.column .quarter</div>
-</div>
+</div> -->
