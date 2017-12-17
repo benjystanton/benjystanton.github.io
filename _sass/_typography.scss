@@ -67,42 +67,30 @@ h1 {
 h1, .heading-xlarge {
   font-family: $heading-font-family;
   font-size: 32px;
-
-  @include media-query($medium) {
-    font-size: 56px;
-  }
+  @include media-query($medium) {font-size: 44px;}
+  @include media-query($large) {font-size: 56px;}
 }
 
 h2, .heading-large {
   font-size: 28px;
-  @include media-query($medium) {
-    font-size: 32px;
-  }
+  @include media-query($medium) {font-size: 32px;}
   font-weight: bold;
 }
 
 h3, .heading-medium {
   font-size: 22px;
-  @include media-query($medium) {
-    font-size: 26px;
-  }
+  @include media-query($medium) {font-size: 26px;}
   font-weight: bold;
 }
 
 h4, .heading-small {
   font-size: 18px;
-  @include media-query($medium) {
-    font-size: 20px;
-  }
+  @include media-query($medium) {font-size: 20px;}
   font-weight: bold;
 }
 
 small {
   font-size: $small-font-size;
-
-  @include media-query($medium) {
-    font-size: $small-font-size*1.2;
-  }
 }
 
 .post-meta {
