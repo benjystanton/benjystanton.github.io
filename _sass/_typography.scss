@@ -1,117 +1,148 @@
-// Reset some basic elements
+// Reset
 
 body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure {
   margin: 0;
   padding: 0;
 }
 
-// Typography
+// Variables
 
 $base-font-family:    "source-sans-pro",sans-serif;
 $heading-font-family: "quatro-slab", sans-serif;
 $base-font-size:      18px;
-$small-font-size:     $base-font-size * 0.8;
+$small-font-size:     16px;
 $base-line-height:    1.5;
 $spacing-unit:        36px;
-
-
-.post-content {
-    margin-bottom: $spacing-unit;
-
-    h2 {
-        font-size: 32px;
-        margin-top: $spacing-unit*2;
-    }
-
-    h3 {
-        font-size: 26px;
-        margin-top: $spacing-unit*2;
-    }
-
-    h4 {
-        font-size: 20px;
-        margin-top: $spacing-unit;
-    }
-}
-
-.post-meta {
-    font-size: $small-font-size;
-    color: $dark-grey-colour;
-
-    @include media-query($medium) {
-        font-size: $small-font-size*1.2;
-    }
-}
 
 // Basic styling
 
 body {
-    font-family: $base-font-family;
-    font-size: $base-font-size;
-    line-height: $base-line-height;
-    color: $text-colour;
-    background-color: $white-colour;
-    -webkit-text-size-adjust: 100%;
+  font-family:      $base-font-family;
+  font-size:        $base-font-size;
+  line-height:      $base-line-height;
+  color:            $text-colour;
+  // -webkit-text-size-adjust: 100%;
 
-    @include media-query($medium) {
-        font-size: 20px;
-        line-height: $base-line-height*1.2;
-    }
+  @include media-query($medium) {
+      font-size: 20px;
+      line-height: $base-line-height*1.2;
+  }
 
-    @include media-query($large) {
-        font-size: 22px;
-    }
+  @include media-query($large) {
+      font-size: 22px;
+  }
 }
 
-// Set `margin-bottom` to maintain vertical rhythm
+// Vertical rhythm
 
-h1, h2, h3, h4, h5, h6,
-p, blockquote, pre,
-ul, ol, dl, figure,
-%vertical-rhythm {
-    margin-bottom: $spacing-unit/2;
+h1, h2, h3, h4, h5, h6, p, blockquote, pre, ul, ol, dl, figure, %vertical-rhythm {
+  margin-bottom: $spacing-unit/2;
 }
 
-
-// Typography
+// Heading spacing
 
 h1, h2, h3, h4, h5, h6 {
-    line-height: 1.2;
+  line-height: 1.2;
+  margin-top: $spacing-unit;
+  @include media-query($medium) {
+    margin-top: $spacing-unit*2;
+  }
 }
 
 h1 {
-    font-family: $heading-font-family;
-    font-size: 32px;
-    margin-bottom: $spacing-unit;
+  margin-bottom: $spacing-unit;
+  margin-top: 0;
+}
 
-    @include media-query($medium) {
-        font-size: 56px;
-    }
+// Heading spacing
+
+.heading-xxlarge {
+  font-family: $heading-font-family;
+  font-size: 56px;
+  @include media-query($medium) {
+    font-size: 74px;
+  }
+}
+
+h1, .heading-xlarge {
+  font-family: $heading-font-family;
+  font-size: 32px;
+
+  @include media-query($medium) {
+    font-size: 56px;
+  }
+}
+
+h2, .heading-large {
+  font-size: 28px;
+  @include media-query($medium) {
+    font-size: 32px;
+  }
+  font-weight: bold;
+}
+
+h3, .heading-medium {
+  font-size: 22px;
+  @include media-query($medium) {
+    font-size: 26px;
+  }
+  font-weight: bold;
+}
+
+h4, .heading-small {
+  font-size: 18px;
+  @include media-query($medium) {
+    font-size: 20px;
+  }
+  font-weight: bold;
 }
 
 small {
-    font-size: $small-font-size;
+  font-size: $small-font-size;
 
-    @include media-query($medium) {
-        font-size: $small-font-size*1.2;
-    }
+  @include media-query($medium) {
+    font-size: $small-font-size*1.2;
+  }
 }
 
-hr {
-    border: 0;
-    border-bottom: 1px solid $light-grey-colour;
-    margin: $spacing-unit*2 0;
+.post-meta {
+  font-size: $small-font-size;
+  color: $dark-grey-colour;
 }
 
 // Lists
 
 ul, ol {
-    margin-left: $spacing-unit;
+  margin-left: $spacing-unit;
 }
 
 li {
-    > ul,
-    > ol {
-         margin-bottom: 0;
-    }
+  > ul,
+  > ol {
+       margin-bottom: 0;
+  }
+}
+
+// Swatch
+
+.list--neutral {
+  list-style: none;
+  margin-left: 0;
+}
+
+.list--neutral li {
+  display: inline-block;
+  margin-right: $spacing-unit/3;
+  margin-bottom: $spacing-unit/3;
+}
+
+// Horizontal rule
+
+hr {
+  border: 0;
+  border-bottom: 1px solid $light-grey-colour;
+  margin: $spacing-unit 0;
+  @include media-query($medium) {
+    margin: $spacing-unit*2 0;
+  }
 }

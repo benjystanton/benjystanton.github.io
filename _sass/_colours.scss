@@ -38,14 +38,3 @@ $visited-colour:      $text-colour;
   background-color: $brand-colour;
   color: $white-colour;
 }
-
-// Swatch
-
-.list--neutral {
-  list-style: none;
-  margin-left: 0;
-}
-
-.list--neutral li {
-  display: inline-block;
-}

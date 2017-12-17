@@ -18,21 +18,32 @@ permalink: /style-guide/
   <li class="background--brand-colour padding--1">Brand</li>
 </ul>
 
+## Icons
+
+<p><i class="icon icon-social icon-github"><span class="visuallyhidden">GitHub</span></i> <i class="icon icon-social icon-twitter"><span class="visuallyhidden">Twitter</span></i> <i class="icon icon-social icon-instagram"><span class="visuallyhidden">Instagram</span></i></p>
+
 ***
 
-# Heading 1
+<p class="heading-xxlarge">XXL text</p>
 
-## Heading 2
+<p class="heading-xlarge">XL heading (h1)</p>
 
-### Heading 3
+<p class="heading-large">Large heading (h2)</p>
+
+<p class="heading-medium">Medium heading (h3)</p>
+
+<p class="heading-small">Small heading (h4)</p>
 
 A paragraph (from the Greek paragraphos, "to write beside" or "written beside") is a self-contained unit of a discourse in writing dealing with a particular point or idea. A paragraph consists of one or more sentences. Though not required by the syntax of any language, paragraphs are usually an expected part of formal writing, used to organize longer prose.
 
+![Alt text goes here]({{ site.url }}/assets/make-data-part-of-the-web-landscape.png)
+
 Lorem ipsum dolor sit amet, consectetur adip*isicing elit, sed do eiusmod * tempor incididunt ut labore et dolore magna aliqua.
+
+[An example link](#)
 
 - This is a list item in an unordered list
 - An unordered list is a list in which the sequence of items is not important. Sometimes, an unordered list is a bulleted list. And this is a long list item in an unordered list that can wrap onto a new line.
-  - This is an second level list item
 - This is the last list item
 
 1. This is a list item in an ordered list
@@ -40,17 +51,56 @@ Lorem ipsum dolor sit amet, consectetur adip*isicing elit, sed do eiusmod * temp
 3. This is the last list item
 
 > A block quotation (also known as a long quotation or extract) is a quotation in a written document, that is set off from the main text as a paragraph, or block of text, and typically distinguished visually using indentation and a different typeface or smaller size quotation.
-> <footer>Quote footer</footer>
+
+<p class="post-meta">Post meta (used for blog published dates)</p>
 
 ***
 
-Table Heading | Table Heading | Table Heading
-------------- | ------------- | -------------
-Table Cell | Table Cell | Table Cell
-Table Cell | Table Cell | Table Cell
-Table Cell | Table Cell | Table Cell
-Table Cell | Table Cell | Table Cell
-Table Cell | Table Cell | Table Cell
+## Big numbers
+
+<span class="data-item heading-xxlarge">979</span> <span>miles driven</span>
+
+<span class="data-item heading-xxlarge">27</span> <span>miles walked</span>
+
+***
+
+<table>
+  <caption>This is a table caption</caption>
+  <thead>
+    <tr>
+      <th>Table Heading</th>
+      <th>Table Heading</th>
+      <th class="cell--right">Numbers</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Table Cell</td>
+      <td>Table Cell</td>
+      <td class="cell--right">1</td>
+    </tr>
+    <tr>
+      <td>Table Cell</td>
+      <td>Table Cell</td>
+      <td class="cell--right">12</td>
+    </tr>
+    <tr>
+      <td>Table Cell</td>
+      <td>Table Cell</td>
+      <td class="cell--right">123</td>
+    </tr>
+    <tr>
+      <td>Table Cell</td>
+      <td>Table Cell</td>
+      <td class="cell--right">1234</td>
+    </tr>
+    <tr>
+      <td>Table Cell</td>
+      <td>Table Cell</td>
+      <td class="cell--right">12345</td>
+    </tr>
+  </tbody>
+</table>
 
 <!-- ***
 

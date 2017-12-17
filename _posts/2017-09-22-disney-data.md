@@ -13,15 +13,15 @@ I collected some data, mainly so that I could play around with styling up key fi
 
 ## Key figures
 
-<span class="data-item bold-xlarge">979</span> <span>miles driven</span>
+<span class="data-item heading-xxlarge">979</span> <span>miles driven</span>
 
-<span class="data-item bold-xlarge">27</span> <span>miles walked</span>
+<span class="data-item heading-xxlarge">27</span> <span>miles walked</span>
 
-<span class="data-item bold-xlarge">50,720</span> <span>steps</span>
+<span class="data-item heading-xxlarge">50,720</span> <span>steps</span>
 
-<span class="data-item bold-xlarge">7.8</span> <span>hours spent queueing</span>
+<span class="data-item heading-xxlarge">7.8</span> <span>hours spent queueing</span>
 
-<span class="data-item bold-xlarge">6</span> <span>buffets</span>
+<span class="data-item heading-xxlarge">6</span> <span>buffets</span>
 
 ## Walking
 
