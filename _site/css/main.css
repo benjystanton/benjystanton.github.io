@@ -139,15 +139,6 @@ blockquote footer {
   font-size: 18px;
   font-style: normal; }
 
-.post-list {
-  margin-left: 0;
-  list-style: none; }
-  .post-list li h2 {
-    margin-top: 0;
-    margin-bottom: 0; }
-  .post-list > li {
-    margin-bottom: 36px; }
-
 .site-header {
   padding-top: 36px;
   text-align: center; }
@@ -256,6 +247,15 @@ blockquote footer {
 
 .quarter {
   width: 25%; }
+
+.post-list {
+  margin-left: 0;
+  list-style: none; }
+  .post-list li h2 {
+    margin-top: 0;
+    margin-bottom: 0; }
+  .post-list > li {
+    margin-bottom: 36px; }
 
 /**
  * Syntax highlighting styles
