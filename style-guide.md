@@ -62,9 +62,17 @@ Lorem ipsum dolor sit amet, consectetur adip*isicing elit, sed do eiusmod * temp
 
 ## Big numbers
 
-<span class="data-item heading-xxlarge">979</span> <span>miles driven</span>
+Uses the ```big-number.html``` include.
 
-<span class="data-item heading-xxlarge">27</span> <span>miles walked</span>
+{% include big-number.html
+  big-number="979"
+  text="miles driven"
+%}
+
+{% include big-number.html
+  big-number="27"
+  text="miles walked"
+%}
 
 ***
 

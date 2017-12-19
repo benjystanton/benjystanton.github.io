@@ -5,8 +5,8 @@
     <description>UX Designer. Family Man. Music Snob.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 18 Dec 2017 08:41:05 +0000</pubDate>
-    <lastBuildDate>Mon, 18 Dec 2017 08:41:05 +0000</lastBuildDate>
+    <pubDate>Tue, 19 Dec 2017 22:51:47 +0000</pubDate>
+    <lastBuildDate>Tue, 19 Dec 2017 22:51:47 +0000</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
     
       <item>
@@ -161,15 +161,40 @@
 
 &lt;h2 id=&quot;key-figures&quot;&gt;Key figures&lt;/h2&gt;
 
-&lt;p&gt;&lt;span class=&quot;data-item heading-xxlarge&quot;&gt;979&lt;/span&gt; &lt;span&gt;miles driven&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;data-item heading-xxlarge&quot;&gt;
+  979
+&lt;/span&gt;
+&lt;span&gt;
+  miles driven
+&lt;/span&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;span class=&quot;data-item heading-xxlarge&quot;&gt;27&lt;/span&gt; &lt;span&gt;miles walked&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;data-item heading-xxlarge&quot;&gt;
+  27
+&lt;/span&gt;
+&lt;span&gt;
+  miles walked
+&lt;/span&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;span class=&quot;data-item heading-xxlarge&quot;&gt;50,720&lt;/span&gt; &lt;span&gt;steps&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;data-item heading-xxlarge&quot;&gt;
+  50,720
+&lt;/span&gt;
+&lt;span&gt;
+  steps
+&lt;/span&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;span class=&quot;data-item heading-xxlarge&quot;&gt;7.8&lt;/span&gt; &lt;span&gt;hours spent queueing&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;data-item heading-xxlarge&quot;&gt;
+  7.8
+&lt;/span&gt;
+&lt;span&gt;
+  hours spent queueing
+&lt;/span&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;span class=&quot;data-item heading-xxlarge&quot;&gt;6&lt;/span&gt; &lt;span&gt;buffets&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;data-item heading-xxlarge&quot;&gt;
+  6
+&lt;/span&gt;
+&lt;span&gt;
+  miles buffets
+&lt;/span&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;walking&quot;&gt;Walking&lt;/h2&gt;
 
@@ -191,27 +216,27 @@
 
 
 &lt;tr&gt;
-&lt;th scope=&quot;row&quot;&gt;15065&lt;/th&gt;
+&lt;th scope=&quot;row&quot;&gt;Monday&lt;/th&gt;
 &lt;td class=&quot;cell--right&quot;&gt;15065&lt;/td&gt;
-&lt;td class=&quot;cell--right&quot;&gt;15065&lt;/td&gt;
+&lt;td class=&quot;cell--right&quot;&gt;6.94&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;th scope=&quot;row&quot;&gt;19831&lt;/th&gt;
+&lt;th scope=&quot;row&quot;&gt;Tuesday&lt;/th&gt;
 &lt;td class=&quot;cell--right&quot;&gt;19831&lt;/td&gt;
-&lt;td class=&quot;cell--right&quot;&gt;19831&lt;/td&gt;
+&lt;td class=&quot;cell--right&quot;&gt;9.14&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;th scope=&quot;row&quot;&gt;14818&lt;/th&gt;
+&lt;th scope=&quot;row&quot;&gt;Wednesday&lt;/th&gt;
 &lt;td class=&quot;cell--right&quot;&gt;14818&lt;/td&gt;
-&lt;td class=&quot;cell--right&quot;&gt;14818&lt;/td&gt;
+&lt;td class=&quot;cell--right&quot;&gt;6.80&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;th scope=&quot;row&quot;&gt;10006&lt;/th&gt;
+&lt;th scope=&quot;row&quot;&gt;Thursday&lt;/th&gt;
 &lt;td class=&quot;cell--right&quot;&gt;10006&lt;/td&gt;
-&lt;td class=&quot;cell--right&quot;&gt;10006&lt;/td&gt;
+&lt;td class=&quot;cell--right&quot;&gt;4.60&lt;/td&gt;
 &lt;/tr&gt;
 
 

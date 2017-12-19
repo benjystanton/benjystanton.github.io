@@ -13,15 +13,30 @@ I collected some data, mainly so that I could play around with styling up key fi
 
 ## Key figures
 
-<span class="data-item heading-xxlarge">979</span> <span>miles driven</span>
+{% include big-number.html
+  big-number="979"
+  text="miles driven"
+%}
 
-<span class="data-item heading-xxlarge">27</span> <span>miles walked</span>
+{% include big-number.html
+  big-number="27"
+  text="miles walked"
+%}
 
-<span class="data-item heading-xxlarge">50,720</span> <span>steps</span>
+{% include big-number.html
+  big-number="50,720"
+  text="steps"
+%}
 
-<span class="data-item heading-xxlarge">7.8</span> <span>hours spent queueing</span>
+{% include big-number.html
+  big-number="7.8"
+  text="hours spent queueing"
+%}
 
-<span class="data-item heading-xxlarge">6</span> <span>buffets</span>
+{% include big-number.html
+  big-number="6"
+  text="miles buffets"
+%}
 
 ## Walking
 
@@ -43,9 +58,9 @@ I collected some data, mainly so that I could play around with styling up key fi
 
 {% for distance-walked in site.data.distance-walked %}
 <tr>
-<th scope="row">{{ distance-walked.steps }}</th>
+<th scope="row">{{ distance-walked.day }}</th>
 <td class="cell--right">{{ distance-walked.steps }}</td>
-<td class="cell--right">{{ distance-walked.steps }}</td>
+<td class="cell--right">{{ distance-walked.miles }}</td>
 </tr>
 {% endfor %}
 
