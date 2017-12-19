@@ -5,9 +5,139 @@
     <description>UX Designer. Family Man. Music Snob.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 19 Dec 2017 22:51:47 +0000</pubDate>
-    <lastBuildDate>Tue, 19 Dec 2017 22:51:47 +0000</lastBuildDate>
+    <pubDate>Tue, 19 Dec 2017 23:23:07 +0000</pubDate>
+    <lastBuildDate>Tue, 19 Dec 2017 23:23:07 +0000</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
+    
+      <item>
+        <title>Accessibility for designers</title>
+        <description>&lt;p&gt;A guide to web accessibility best practices for graphic, visual and UI (user interface) designers.&lt;/p&gt;
+
+&lt;h2 id=&quot;images&quot;&gt;Images&lt;/h2&gt;
+
+&lt;h3 id=&quot;images-of-text&quot;&gt;Images of text&lt;/h3&gt;
+&lt;p&gt;Avoid having images of text, especially when it makes up part of the interface. If possible, recreate images using HTML and CSS.&lt;/p&gt;
+
+&lt;p&gt;In some cases, images that contain text are appropriate. For example a photo of a building or a screenshot of an app might contain some text. If the text is important to the meaning of the image, be sure to include it as alt text somewhere.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://blog.ghost.org/text-images/&quot;&gt;The big problem with sharing text in images&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;images-should-have-alternative-text&quot;&gt;Images should have alternative text&lt;/h3&gt;
+&lt;p&gt;Alt text is one of those web jobs that falls through the cracks. Whose responsibility is it? Designers? Developers? Content editors? I suggest that you do everyone a favour and write alt text for any image that you create or supply.&lt;/p&gt;
+
+&lt;p&gt;Images that add meaning to the content need to have alternative text. Imagine you are explaining the image down the phone to someone who can’t see it.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.webcredible.com/blog/writing-effective-alt-text-images/&quot;&gt;Writing effective ALT text for images&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;typography&quot;&gt;Typography&lt;/h2&gt;
+
+&lt;h3 id=&quot;measure&quot;&gt;Measure&lt;/h3&gt;
+&lt;p&gt;Long lines of text are hard to read. So are very short lines. As a rule of thumb, I try to keep line length within 45 to 75 characters per line. This is extra tricky when it comes to responsive web design.&lt;/p&gt;
+
+&lt;p&gt;Luckily Trent Walton has a &lt;a href=&quot;http://trentwalton.com/2012/06/19/fluid-type/&quot;&gt;neat trick for managing fluid type&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;justified-text&quot;&gt;Justified text&lt;/h3&gt;
+&lt;p&gt;Don’t use fully justified text. Having ragged lines on the right edge helps our eyes to read. Fully justified text is harder to read, and these effects can be exaggerated for users who have visual or cognitive access needs.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://designforhackers.com/blog/never-justify-type-on-the-web/&quot;&gt;Never Justify Type on the Web&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;line-spacing&quot;&gt;Line spacing&lt;/h3&gt;
+&lt;p&gt;Make sure the vertical white space between lines of text is enough so that the taller letters don’t bump into each other. It’s also possible to have too much space. If you’re eye is more drawn the gaps than the text then you probably need to reduce your line spacing a little.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://practicaltypography.com/line-spacing.html&quot;&gt;Line Spacing&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;colour&quot;&gt;Colour&lt;/h2&gt;
+
+&lt;h3 id=&quot;dont-use-colour-alone-to-give-meaning&quot;&gt;Don’t use colour alone to give meaning&lt;/h3&gt;
+&lt;p&gt;Users who are colour blind can miss out on important information if you don’t consider their needs when designing. For example if you highlight a required form field with a red outline, this could be invisible to them.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://24ways.org/2012/colour-accessibility/&quot;&gt;Colour accessibility&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;colour-contrast&quot;&gt;Colour contrast&lt;/h3&gt;
+&lt;p&gt;Text must have contrast ratio of at least 4.5:1. Larger text doesn’t need as much contrast. A contrast ratio of at least 3:1 is enough for anything over 18 point.&lt;/p&gt;
+
+&lt;p&gt;Watch out: good displays like those on Macbook Pros have much higher contrast than most monitors. Test your design on an average, low-res PC display, whilst squinting. That should give you a better idea of how some users struggle to read low contrast interface text.&lt;/p&gt;
+
+&lt;p&gt;Very light text is overused by designers. We rely on it, because contrast can balance a design. But, if you have to add very light text to a design in order for it to feel balanced then you probably have too much stuff on the page.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://webaim.org/resources/contrastchecker/&quot;&gt;Colour Contrast Checker&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;interaction&quot;&gt;Interaction&lt;/h2&gt;
+
+&lt;h3 id=&quot;design-a-style-for-keyboard-focus&quot;&gt;Design a style for keyboard focus&lt;/h3&gt;
+&lt;p&gt;Some users will navigate a website using only a keyboard. But often it’s impossible to tell which elements are currently in focus. Be sure to to give links, buttons and form elements a high contrast focus style.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.gov.uk/&quot;&gt;Tip: go to GOV.UK&lt;/a&gt; and press the tab key a few times to see a good example of this in practice.&lt;/p&gt;
+
+&lt;h2 id=&quot;forms&quot;&gt;Forms&lt;/h2&gt;
+
+&lt;h3 id=&quot;labels&quot;&gt;Labels&lt;/h3&gt;
+&lt;p&gt;Form elements should always have labels. It’s not enough to use placeholder text as it’s usually very light. It also disappears then users’s select the form field.&lt;/p&gt;
+
+&lt;h3 id=&quot;help-text&quot;&gt;Help text&lt;/h3&gt;
+&lt;p&gt;Add useful instructions to help users to complete the form. If a certain date format or password length is required, let users know. If a field is optional consider removing it, if that’s not possible, mark it as optional.&lt;/p&gt;
+
+&lt;h3 id=&quot;validation-errors&quot;&gt;Validation errors&lt;/h3&gt;
+&lt;p&gt;Design errors that are easily understood (this includes writing good content too). Make sure they allow users to navigate to the problem and fix it easily.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://mono.company/journal/design-practice/the-10-commandments-of-good-form-design-on-the-web/&quot;&gt;The 10 Commandments of Good Form Design on the Web&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;content&quot;&gt;Content&lt;/h2&gt;
+
+&lt;h3 id=&quot;avoid-technical-terms-abbreviations-and-jargon&quot;&gt;Avoid technical terms, abbreviations and jargon&lt;/h3&gt;
+&lt;p&gt;Technical terms, abbreviations and jargon can be off putting to all sorts of users:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;users who don’t speak English as a first language (English is a second language for British Sign Language users)&lt;/li&gt;
+  &lt;li&gt;users who have a low reading age&lt;/li&gt;
+  &lt;li&gt;newcomers to the topic you are writing about&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;You can help everyone understand your content better if you use common and simple words.&lt;/p&gt;
+
+&lt;p&gt;If you absolutely have to use these words then explain them using the &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;abbr&amp;gt;&lt;/code&gt; element or by add a glossary.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.disambiguity.com/stop-your-team-using-technical-terms-and-jargon/&quot;&gt;Stop your team using technical terms and jargon&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;readable-page-titles-and-hackable-urls&quot;&gt;Readable page titles and hackable urls&lt;/h3&gt;
+&lt;p&gt;Page titles should be descriptive and should match the &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;h1&amp;gt;&lt;/code&gt; (main heading) on the page. This helps users to orientate themselves.&lt;/p&gt;
+
+&lt;p&gt;URLs should be designed so that users could navigate their way through a site by editing the website url in the browser address bar. For example the url for this page is http://www.benjystanton.co.uk/blog/research-findings-long-term/. A user might expect that if they only enter the last part of the&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://simplyaccessible.com/article/web-accessibility-and-urls/&quot;&gt;Web accessibility &amp;amp; URLs&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;buttons-and-links-should-have-descriptive-labels&quot;&gt;Buttons and links should have descriptive labels&lt;/h3&gt;
+&lt;p&gt;Users often scan pages quickly to look for links on a page. This can be done visually or by using screen readers. Don’t use receptive or vague link labels like “read more” or “click here”. They don’t offer any information to the user when taken out of context.&lt;/p&gt;
+
+&lt;p&gt;Make sure link and button labels describe what will happen when someone selects them. For example, if they link to a download tell the user the file type and file size.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://gds.blog.gov.uk/2016/02/23/writing-content-for-everyone/&quot;&gt;Writing content for everyone&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;Everyone benefits from good accessible design. Think about it all of the time. It’s not a separate thing that can be added at the end of a project.&lt;/p&gt;
+
+&lt;p&gt;Designers often put up barriers to users with access needs without really meaning to. Don’t be one of those designers.&lt;/p&gt;
+
+&lt;h2 id=&quot;further-reading-on-accessibility&quot;&gt;Further reading on accessibility&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://accessibility.blog.gov.uk/&quot;&gt;Government Digital Service Accessibility&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://webaim.org/standards/wcag/checklist&quot;&gt;WebAIM’s WCAG 2.0 Checklist&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://accessibility.voxmedia.com/&quot;&gt;Vox Media’s Accessibility Guidelines&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/salesforce-ux/7-things-every-designer-needs-to-know-about-accessibility-64f105f0881b#.tu5t4zg4m&quot;&gt;7 Things Every Designer Needs to Know about Accessibility&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Tue, 19 Dec 2017 23:20:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/accessibility-for-designers/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/accessibility-for-designers/</guid>
+        
+        
+        <category>accessibility</category>
+        
+        <category>graphic</category>
+        
+        <category>design</category>
+        
+      </item>
     
       <item>
         <title>We’re hiring 5 graphic designers at Office for National Statistics (ONS)</title>
@@ -766,75 +896,6 @@
         <category>culture</category>
         
         <category>poster</category>
-        
-      </item>
-    
-      <item>
-        <title>Visual note-taking  with Eleanor Beer</title>
-        <description>&lt;p&gt;My notes from the Visual Notetaking Made Easy event on Thursday 11th August at Innovation House, Magor.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/sketchnote-elements.png&quot; alt=&quot;A drawing of a star and some lines from my sketchbook.&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;intro&quot;&gt;Intro&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Visual note-taking is basically notes with doodles&lt;/li&gt;
-  &lt;li&gt;It’s also known as sketchnoting&lt;/li&gt;
-  &lt;li&gt;The basic processes is; listen, filter, draw&lt;/li&gt;
-  &lt;li&gt;It’s useful for creating user journeys, meeting facilitation and conference recording&lt;/li&gt;
-  &lt;li&gt;Listening is a key skill!&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;benefits&quot;&gt;Benefits&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Improves memory recall&lt;/li&gt;
-  &lt;li&gt;Captures emotion&lt;/li&gt;
-  &lt;li&gt;It’s fun!&lt;/li&gt;
-  &lt;li&gt;People who are usually quiet in meetings feel included&lt;/li&gt;
-  &lt;li&gt;Can help people with low literacy&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;elements&quot;&gt;Elements&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Basics: layout, words, objects, containers, lines and arrows&lt;/li&gt;
-  &lt;li&gt;Pictographs are drawings of things; like a book, dog, mobile phone or aeroplane&lt;/li&gt;
-  &lt;li&gt;Ideographs are pictures that represent an idea; like balance, collaboration, education or digital&lt;/li&gt;
-  &lt;li&gt;People (stick figures and smiley faces)&lt;/li&gt;
-  &lt;li&gt;Layouts: linear, circular, random, path or grid&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;shopping-list&quot;&gt;Shopping list&lt;/h2&gt;
-
-&lt;h3 id=&quot;pens&quot;&gt;Pens&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.tigerpens.co.uk/&quot;&gt;Tiger Pens&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.penandpaper.co.uk/&quot;&gt;Pen &amp;amp; Paper, Cardiff&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;books&quot;&gt;Books&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://rohdesign.com/handbook&quot;&gt;The Sketchnote Handbook&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.danroam.com/the-back-of-the-napkin/&quot;&gt;The Back of the Napkin&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.sketchnotesbook.com/&quot;&gt;Sketchnotes&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://payhip.com/b/uvS3&quot;&gt;A Pocket Guide to Sketchnoting&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;follow-eleanor-beer&quot;&gt;Follow Eleanor Beer&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.eleanorbeer.com/&quot;&gt;www.eleanorbeer.com&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/eleanorbeer&quot;&gt;Eleanor on Twitter&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.instagram.com/eleanorbeer/&quot;&gt;Eleanor on Instagram&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Tue, 30 Aug 2016 14:23:00 +0100</pubDate>
-        <link>http://localhost:4000/blog/visual-note-taking-workshop-with-eleanor-beer/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/visual-note-taking-workshop-with-eleanor-beer/</guid>
-        
-        
-        <category>workshop</category>
-        
-        <category>talk</category>
-        
-        <category>ux</category>
         
       </item>
     

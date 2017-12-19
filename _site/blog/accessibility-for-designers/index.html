@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Accessibility for designers – Benjy Stanton</title>
+  <meta name="description" content="A guide to web accessibility for graphic, visual and UI (user interface) designers.">
+
+  <!-- Twitter summary card stuff, based on http://davidensinger.com/2013/04/supporting-twitter-cards-with-jekyll/ -->
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:site" content="benjystanton">
+  <meta name="twitter:title" content="Accessibility for designers" />
+  <meta name="twitter:description" content="A guide to web accessibility for graphic, visual and UI (user interface) designers." />
+  
+  <meta name="twitter:image:src" content="http://localhost:4000/assets/benjy-stanton.jpg">
+  
+  <link rel="stylesheet" href="/css/main.css">
+  <link rel="stylesheet" href="https://use.typekit.net/wcw4icc.css">
+  <link rel="canonical" href="http://localhost:4000/blog/accessibility-for-designers/">
+  <link rel="alternate" type="application/rss+xml" title="Benjy Stanton" href="http://localhost:4000/feed.xml" />
+</head>
+
+
+  <body>
+
+    <a href="#content" class="skiplink">Skip to main content</a>
+
+<header class="site-header" role="banner">
+
+  <div class="wrapper">
+
+    <a class="logo" href="/">
+    	<img src="http://localhost:4000/assets/logo.png" alt="" height="52" width="160">
+    	<p class="visuallyhidden">Benjy Stanton</p>
+
+    </a>
+
+    <nav class="site-nav" role="navigation">
+      <a class="page-link" href="/">Home</a>
+      <a class="page-link" href="/about/">About</a>
+      <a class="page-link" href="/blog/">Blog</a>
+    </nav>
+
+  </div>
+
+</header>
+
+
+    <main role="main">
+
+      <div class="page-content" id="content">
+        <div class="wrapper">
+          <div class="post">
+
+  <header class="post-header">
+  	<p class="post-meta">19 Dec 2017</p>
+    <h1 class="post-title">Accessibility for designers</h1>
+  </header>
+
+  <article class="post-content" role="article">
+    <p>A guide to web accessibility best practices for graphic, visual and UI (user interface) designers.</p>
+
+<h2 id="images">Images</h2>
+
+<h3 id="images-of-text">Images of text</h3>
+<p>Avoid having images of text, especially when it makes up part of the interface. If possible, recreate images using HTML and CSS.</p>
+
+<p>In some cases, images that contain text are appropriate. For example a photo of a building or a screenshot of an app might contain some text. If the text is important to the meaning of the image, be sure to include it as alt text somewhere.</p>
+
+<p><a href="https://blog.ghost.org/text-images/">The big problem with sharing text in images</a></p>
+
+<h3 id="images-should-have-alternative-text">Images should have alternative text</h3>
+<p>Alt text is one of those web jobs that falls through the cracks. Whose responsibility is it? Designers? Developers? Content editors? I suggest that you do everyone a favour and write alt text for any image that you create or supply.</p>
+
+<p>Images that add meaning to the content need to have alternative text. Imagine you are explaining the image down the phone to someone who can’t see it.</p>
+
+<p><a href="http://www.webcredible.com/blog/writing-effective-alt-text-images/">Writing effective ALT text for images</a></p>
+
+<h2 id="typography">Typography</h2>
+
+<h3 id="measure">Measure</h3>
+<p>Long lines of text are hard to read. So are very short lines. As a rule of thumb, I try to keep line length within 45 to 75 characters per line. This is extra tricky when it comes to responsive web design.</p>
+
+<p>Luckily Trent Walton has a <a href="http://trentwalton.com/2012/06/19/fluid-type/">neat trick for managing fluid type</a>.</p>
+
+<h3 id="justified-text">Justified text</h3>
+<p>Don’t use fully justified text. Having ragged lines on the right edge helps our eyes to read. Fully justified text is harder to read, and these effects can be exaggerated for users who have visual or cognitive access needs.</p>
+
+<p><a href="http://designforhackers.com/blog/never-justify-type-on-the-web/">Never Justify Type on the Web</a></p>
+
+<h3 id="line-spacing">Line spacing</h3>
+<p>Make sure the vertical white space between lines of text is enough so that the taller letters don’t bump into each other. It’s also possible to have too much space. If you’re eye is more drawn the gaps than the text then you probably need to reduce your line spacing a little.</p>
+
+<p><a href="http://practicaltypography.com/line-spacing.html">Line Spacing</a></p>
+
+<h2 id="colour">Colour</h2>
+
+<h3 id="dont-use-colour-alone-to-give-meaning">Don’t use colour alone to give meaning</h3>
+<p>Users who are colour blind can miss out on important information if you don’t consider their needs when designing. For example if you highlight a required form field with a red outline, this could be invisible to them.</p>
+
+<p><a href="https://24ways.org/2012/colour-accessibility/">Colour accessibility</a></p>
+
+<h3 id="colour-contrast">Colour contrast</h3>
+<p>Text must have contrast ratio of at least 4.5:1. Larger text doesn’t need as much contrast. A contrast ratio of at least 3:1 is enough for anything over 18 point.</p>
+
+<p>Watch out: good displays like those on Macbook Pros have much higher contrast than most monitors. Test your design on an average, low-res PC display, whilst squinting. That should give you a better idea of how some users struggle to read low contrast interface text.</p>
+
+<p>Very light text is overused by designers. We rely on it, because contrast can balance a design. But, if you have to add very light text to a design in order for it to feel balanced then you probably have too much stuff on the page.</p>
+
+<p><a href="http://webaim.org/resources/contrastchecker/">Colour Contrast Checker</a></p>
+
+<h2 id="interaction">Interaction</h2>
+
+<h3 id="design-a-style-for-keyboard-focus">Design a style for keyboard focus</h3>
+<p>Some users will navigate a website using only a keyboard. But often it’s impossible to tell which elements are currently in focus. Be sure to to give links, buttons and form elements a high contrast focus style.</p>
+
+<p><a href="https://www.gov.uk/">Tip: go to GOV.UK</a> and press the tab key a few times to see a good example of this in practice.</p>
+
+<h2 id="forms">Forms</h2>
+
+<h3 id="labels">Labels</h3>
+<p>Form elements should always have labels. It’s not enough to use placeholder text as it’s usually very light. It also disappears then users’s select the form field.</p>
+
+<h3 id="help-text">Help text</h3>
+<p>Add useful instructions to help users to complete the form. If a certain date format or password length is required, let users know. If a field is optional consider removing it, if that’s not possible, mark it as optional.</p>
+
+<h3 id="validation-errors">Validation errors</h3>
+<p>Design errors that are easily understood (this includes writing good content too). Make sure they allow users to navigate to the problem and fix it easily.</p>
+
+<p><a href="http://mono.company/journal/design-practice/the-10-commandments-of-good-form-design-on-the-web/">The 10 Commandments of Good Form Design on the Web</a></p>
+
+<h2 id="content">Content</h2>
+
+<h3 id="avoid-technical-terms-abbreviations-and-jargon">Avoid technical terms, abbreviations and jargon</h3>
+<p>Technical terms, abbreviations and jargon can be off putting to all sorts of users:</p>
+
+<ul>
+  <li>users who don’t speak English as a first language (English is a second language for British Sign Language users)</li>
+  <li>users who have a low reading age</li>
+  <li>newcomers to the topic you are writing about</li>
+</ul>
+
+<p>You can help everyone understand your content better if you use common and simple words.</p>
+
+<p>If you absolutely have to use these words then explain them using the <code class="highlighter-rouge">&lt;abbr&gt;</code> element or by add a glossary.</p>
+
+<p><a href="http://www.disambiguity.com/stop-your-team-using-technical-terms-and-jargon/">Stop your team using technical terms and jargon</a></p>
+
+<h3 id="readable-page-titles-and-hackable-urls">Readable page titles and hackable urls</h3>
+<p>Page titles should be descriptive and should match the <code class="highlighter-rouge">&lt;h1&gt;</code> (main heading) on the page. This helps users to orientate themselves.</p>
+
+<p>URLs should be designed so that users could navigate their way through a site by editing the website url in the browser address bar. For example the url for this page is http://www.benjystanton.co.uk/blog/research-findings-long-term/. A user might expect that if they only enter the last part of the</p>
+
+<p><a href="http://simplyaccessible.com/article/web-accessibility-and-urls/">Web accessibility &amp; URLs</a></p>
+
+<h3 id="buttons-and-links-should-have-descriptive-labels">Buttons and links should have descriptive labels</h3>
+<p>Users often scan pages quickly to look for links on a page. This can be done visually or by using screen readers. Don’t use receptive or vague link labels like “read more” or “click here”. They don’t offer any information to the user when taken out of context.</p>
+
+<p>Make sure link and button labels describe what will happen when someone selects them. For example, if they link to a download tell the user the file type and file size.</p>
+
+<p><a href="https://gds.blog.gov.uk/2016/02/23/writing-content-for-everyone/">Writing content for everyone</a></p>
+
+<h2 id="conclusion">Conclusion</h2>
+<p>Everyone benefits from good accessible design. Think about it all of the time. It’s not a separate thing that can be added at the end of a project.</p>
+
+<p>Designers often put up barriers to users with access needs without really meaning to. Don’t be one of those designers.</p>
+
+<h2 id="further-reading-on-accessibility">Further reading on accessibility</h2>
+<ul>
+  <li><a href="https://accessibility.blog.gov.uk/">Government Digital Service Accessibility</a></li>
+  <li><a href="http://webaim.org/standards/wcag/checklist">WebAIM’s WCAG 2.0 Checklist</a></li>
+  <li><a href="http://accessibility.voxmedia.com/">Vox Media’s Accessibility Guidelines</a></li>
+  <li><a href="https://medium.com/salesforce-ux/7-things-every-designer-needs-to-know-about-accessibility-64f105f0881b#.tu5t4zg4m">7 Things Every Designer Needs to Know about Accessibility</a></li>
+</ul>
+
+  </article>
+
+</div>
+
+        </div>
+      </div>
+
+    </main>
+
+    <footer class="site-footer" role="contentinfo">
+
+  <div class="wrapper">
+
+  	<div class="site-footer-credit">
+  		© Benjy Stanton
+  	</div>
+
+	<div class="site-footer-email">
+		<a href="mailto:hi@benjystanton.co.uk">hi@benjystanton.co.uk</a>
+	</div>
+
+	<div class="site-footer-icons">
+
+		<a href="https://twitter.com/benjystanton">
+			<i class="icon icon-social icon-twitter">
+				<span class="visuallyhidden">Twitter</span>
+			</i>
+		</a>
+
+		<a href="https://github.com/benjystanton">
+			<i class="icon icon-social icon-github">
+				<span class="visuallyhidden">GitHub</span>
+			</i>
+		</a>
+
+		<!-- <a href="https://dribbble.com/benjystanton">
+			<i class="icon icon-social icon-dribbble">
+				<span class="visuallyhidden">Dribbble</span>
+			</i>
+		</a> -->
+
+    <a href="https://instagram.com/benjystanton">
+			<i class="icon icon-social icon-instagram">
+				<span class="visuallyhidden">Instagram</span>
+			</i>
+		</a>
+
+	</div>
+
+  </div>
+
+</footer>
+
+
+    <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
+<script>
+    (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
+    function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
+    e=o.createElement(i);r=o.getElementsByTagName(i)[0];
+    e.src='https://www.google-analytics.com/analytics.js';
+    r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
+    ga('create','UA-48114544-1','auto');ga('send','pageview');
+</script>
+
+
+  </body>
+
+</html>

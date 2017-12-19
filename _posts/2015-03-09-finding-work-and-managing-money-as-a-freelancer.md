@@ -24,7 +24,7 @@ Even though Networking (with a capital N) sucks, in reality though, you do need 
 Blog, speak at meet-ups, help people on Twitter who ask for help. Doing all these things can help grow your network of contacts, and people will then help you in return. Just share what you know, don’t worry about being an expert.
 
 > Work hard. Don’t be an asshole. Share what you know.
-> —[Brad Frost][1]
+<br>— [Brad Frost][1]
 
 When you first go self employed, tell as many people as you can. Tweet about it, share it on Facebook, tell your Nan. You never know where work will come from… and in my experience, people like to help you out when you are just starting.
 

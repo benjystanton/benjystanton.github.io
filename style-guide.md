@@ -55,6 +55,7 @@ Lorem ipsum dolor sit amet, consectetur adip*isicing elit, sed do eiusmod * temp
 3. This is the last list item
 
 > A blockquote is a quotation in a written document, that is set off from the main text as a paragraph, or block of text, and typically distinguished visually using indentation.
+<br>— Homer Simpson
 
 <p class="post-meta">Post meta (used for blog published dates)</p>
 
