@@ -42,6 +42,8 @@ A paragraph (from the Greek paragraphos, "to write beside" or "written beside") 
 
 ![Alt text goes here]({{ site.url }}/assets/make-data-part-of-the-web-landscape.png)
 
+`![Alt text](path/to/image.png)`
+
 Lorem ipsum dolor sit amet, consectetur adip*isicing elit, sed do eiusmod * tempor incididunt ut labore et dolore magna aliqua.
 
 [An example link](#)
@@ -63,7 +65,7 @@ Lorem ipsum dolor sit amet, consectetur adip*isicing elit, sed do eiusmod * temp
 
 ## Big numbers
 
-Uses the ```big-number.html``` include.
+Uses the `big-number.html` include.
 
 {% include big-number.html
   big-number="979"

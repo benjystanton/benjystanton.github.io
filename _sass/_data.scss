@@ -1,6 +1,7 @@
 // Data
 
-.data-item {
+.big-number {
   display: block;
   line-height: 1;
+  @extend .heading-xxlarge;
 }

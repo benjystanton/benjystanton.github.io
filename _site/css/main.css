@@ -50,11 +50,11 @@ h1 {
   margin-bottom: 36px;
   margin-top: 0; }
 
-.heading-xxlarge {
+.heading-xxlarge, .big-number {
   font-family: "quatro-slab", sans-serif;
   font-size: 56px; }
   @media screen and (min-width: 660px) {
-    .heading-xxlarge {
+    .heading-xxlarge, .big-number {
       font-size: 74px; } }
 
 h1, .heading-xlarge {
@@ -339,7 +339,7 @@ caption {
   text-align: left;
   margin-bottom: 18px; }
 
-.data-item {
+.big-number {
   display: block;
   line-height: 1; }
 
