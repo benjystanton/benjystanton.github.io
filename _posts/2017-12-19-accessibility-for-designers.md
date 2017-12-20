@@ -67,7 +67,7 @@ Some users will navigate a website using only a keyboard. But often it’s impos
 ## Forms
 
 ### Labels
-Form elements should always have labels. It’s not enough to use placeholder text as it’s usually very light. It also disappears then users’s select the form field.
+Form elements should always have labels. It’s not enough to use placeholder text as it’s usually very light. It also disappears when users select the form field.
 
 ### Help text
 Add useful instructions to help users to complete the form. If a certain date format or password length is required, let users know. If a field is optional consider removing it, if that’s not possible, mark it as optional.
@@ -88,19 +88,19 @@ Technical terms, abbreviations and jargon can be off putting to all sorts of use
 
 You can help everyone understand your content better if you use common and simple words.
 
-If you absolutely have to use these words then explain them using the `<abbr>` element or by add a glossary.
+If you absolutely have to use these words then explain them by using the `<abbr>` element or by adding a glossary.
 
 [Stop your team using technical terms and jargon](http://www.disambiguity.com/stop-your-team-using-technical-terms-and-jargon/)
 
 ### Readable page titles and hackable urls
 Page titles should be descriptive and should match the `<h1>` (main heading) on the page. This helps users to orientate themselves.
 
-URLs should be designed so that users could navigate their way through a site by editing the website url in the browser address bar. For example the url for this page is http://www.benjystanton.co.uk/blog/research-findings-long-term/. A user might expect that if they only enter the last part of the
+URLs should be designed so that users could navigate their way through a site by editing the website url in the browser address bar.
 
 [Web accessibility & URLs](http://simplyaccessible.com/article/web-accessibility-and-urls/)
 
 ### Buttons and links should have descriptive labels
-Users often scan pages quickly to look for links on a page. This can be done visually or by using screen readers. Don’t use receptive or vague link labels like “read more” or “click here”. They don’t offer any information to the user when taken out of context.
+Users often scan pages quickly to look for links on a page. This can be done visually or by using screen readers. Don’t use repetitive or vague link labels like “read more” or “click here”. They don’t offer any information to the user when taken out of context.
 
 Make sure link and button labels describe what will happen when someone selects them. For example, if they link to a download tell the user the file type and file size.
 
