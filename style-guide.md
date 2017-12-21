@@ -40,6 +40,8 @@ This blog is built with [Jekyll](https://jekyllrb.com/) and hosted on [GitHub](h
 
 ***
 
+## Typography
+
 <p class="heading-xxlarge">XXL text</p>
 
 <p class="heading-xlarge">XL heading (h1)</p>
@@ -71,6 +73,11 @@ Lorem ipsum dolor sit amet, consectetur adip*isicing elit, sed do eiusmod * temp
 > A blockquote is a quotation in a written document, that is set off from the main text as a paragraph, or block of text, and typically distinguished visually using indentation.
 <br>— Homer Simpson
 
+```
+> A blockquote is a quotation in a written document, that is set off from the main text as a paragraph, or block of text, and typically distinguished visually using indentation.
+<br>— Homer Simpson
+```
+
 <p class="post-meta">Post meta (used for blog published dates)</p>
 
 ***
@@ -78,6 +85,14 @@ Lorem ipsum dolor sit amet, consectetur adip*isicing elit, sed do eiusmod * temp
 ## Big numbers
 
 Uses the `big-number.html` include.
+
+{% raw %}
+```
+include big-number.html
+big-number="979"
+text="miles driven"
+```
+{% endraw %}
 
 {% include big-number.html
   big-number="979"
