@@ -33,8 +33,12 @@ html {
 }
 
 // Spacing classes
-.padding--1 {
+.padding--s {
   padding: $spacing-unit/3 $spacing-unit/2;
+}
+
+.margin-top--m {
+  margin-top: $spacing-unit*2;
 }
 
 // border

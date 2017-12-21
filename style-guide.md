@@ -23,12 +23,12 @@ This blog is built with [Jekyll](https://jekyllrb.com/) and hosted on [GitHub](h
 
 ## Colours
 <ul class="list-inline">
-  <li class="background--text-colour padding--1">Text</li>
-  <li class="background--dark-grey-colour padding--1">Dark grey</li>
-  <li class="background--medium-grey-colour padding--1">Medium grey</li>
-  <li class="background--light-grey-colour padding--1">Light grey</li>
-  <li class="background--white-colour padding--1 border">White</li>
-  <li class="background--brand-colour padding--1">Brand</li>
+  <li class="background--text-colour padding--s">Text</li>
+  <li class="background--dark-grey-colour padding--s">Dark grey</li>
+  <li class="background--medium-grey-colour padding--s">Medium grey</li>
+  <li class="background--light-grey-colour padding--s">Light grey</li>
+  <li class="background--white-colour padding--s border">White</li>
+  <li class="background--brand-colour padding--s">Brand</li>
 </ul>
 
 ## Icons
