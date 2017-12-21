@@ -7,7 +7,9 @@ permalink: /style-guide/
 ## Build
 This blog is built with [Jekyll](https://jekyllrb.com/) and hosted on [GitHub](https://github.com/benjystanton/benjystanton.github.io ).
 
-`https://github.com/benjystanton/benjystanton.github.io`
+```
+https://github.com/benjystanton/benjystanton.github.io
+```
 
 ## Fonts
 - Base font family: [Source Sans](https://typekit.com/fonts/source-sans)

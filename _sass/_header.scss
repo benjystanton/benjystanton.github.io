@@ -2,11 +2,7 @@
 
 .site-header {
     padding-top: $spacing-unit;
-    text-align: center;
-
-    @include media-query($medium) {
-        text-align: left;
-    }
+    text-align: left;
 
     a {
 
@@ -48,7 +44,7 @@
 
         // Gaps between nav items, but not on the first one
         &:not(:first-child) {
-            margin-left: 1em;
+            margin-left: $spacing-unit/2;
         }
 
     }

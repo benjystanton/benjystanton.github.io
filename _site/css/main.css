@@ -212,10 +212,7 @@ blockquote {
 
 .site-header {
   padding-top: 36px;
-  text-align: center; }
-  @media screen and (min-width: 660px) {
-    .site-header {
-      text-align: left; } }
+  text-align: left; }
   .site-header a:visited {
     color: #007575; }
   .site-header a:hover, .site-header a:focus {
@@ -239,7 +236,7 @@ blockquote {
   .site-nav .page-link {
     line-height: 1.4; }
     .site-nav .page-link:not(:first-child) {
-      margin-left: 1em; }
+      margin-left: 18px; }
   .site-nav a.current {
     color: #2e343b;
     text-decoration: none; }

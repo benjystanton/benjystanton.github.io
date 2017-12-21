@@ -5,7 +5,7 @@ permalink: /about/
 
 ---
 
-My name is Benjy Stanton and I’m a User Experience designer at the Office for National Statistics. I'm part of the [digital publishing team](https://blog.ons.digital/).
+My name is Benjy Stanton and I'm one of the lead user experience designers at the Office for National Statistics (ONS). I'm part of the [digital publishing team](https://blog.ons.digital/).
 
 Previously, I was at [Leadin](http://leadin.co.uk/), a service design agency in Swansea.
 

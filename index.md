@@ -9,4 +9,4 @@ I'm the lead user experience designer on the Office for National Statistics (ONS
 
 I started a [design meet-up in Swansea](http://designswansea.org.uk/). I have 3 kids, and when I’m not working, I like to spend time in The Great Outdoors or listening to music.
 
-You might want to [read my blog](/blog/) or find out a little [more about me](/about/).
+<p class="margin-top--m"><a href="/blog">Read the blog →</a></p>
