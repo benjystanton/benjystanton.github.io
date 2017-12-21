@@ -126,7 +126,7 @@ li {
 
 // Pair list
 
-.list--pairs {
+.list-pairs {
   list-style: none;
   margin-left: 0;
   @extend %clearfix;
@@ -135,7 +135,7 @@ li {
   }
 }
 
-.list--pairs li {
+.list-pairs li {
   margin-bottom: $spacing-unit/2;
   @include media-query($medium) {
     margin-bottom: $spacing-unit;
@@ -146,6 +146,10 @@ li {
       clear: left;
     }
   }
+}
+
+.list-pairs__name {
+  font-weight: bold;
 }
 
 // Horizontal rule

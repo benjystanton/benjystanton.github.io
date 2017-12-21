@@ -1,11 +1,11 @@
-<ul class="list--pairs">
+<ul class="list-pairs">
   {% for item in include.list %} <!-- Create a list -->
-  <li><strong>
+  <li><span class="list-pairs__name">
     {% if item.url %} <!-- If there's a url, add it to the list name -->
     <a href="{{ item.url }}">{{ item.name }}</a>
     {% else %} <!-- If there's no url, just list the name -->
       {{ item.name }}
-    {% endif %}
-  </strong> <br />{{ item.description }}</li> <!-- Then add the description -->
+    {% endif %}</span>
+    <br />{{ item.description }}</li> <!-- Then add the description -->
   {% endfor %}
 </ul>
