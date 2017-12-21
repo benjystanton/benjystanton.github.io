@@ -26,12 +26,12 @@ body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure {
 body {
   font-family: "source-sans-pro", sans-serif;
   font-size: 18px;
-  line-height: 1.5;
+  line-height: 1.4;
   color: #2e343b; }
   @media screen and (min-width: 660px) {
     body {
       font-size: 20px;
-      line-height: 1.8; } }
+      line-height: 1.68; } }
   @media screen and (min-width: 900px) {
     body {
       font-size: 22px; } }
@@ -111,6 +111,24 @@ li > ol {
   margin-right: 12px;
   margin-bottom: 12px; }
 
+.list--pairs {
+  list-style: none;
+  margin-left: 0; }
+  @media screen and (min-width: 660px) {
+    .list--pairs {
+      margin-top: 36px; } }
+
+.list--pairs li {
+  margin-bottom: 18px; }
+  @media screen and (min-width: 660px) {
+    .list--pairs li {
+      margin-bottom: 36px;
+      width: 50%;
+      padding-right: 72px;
+      float: left; }
+      .list--pairs li:nth-child(odd) {
+        clear: left; } }
+
 hr {
   border: 0;
   border-bottom: 1px solid #e4e7ea;
@@ -135,7 +153,7 @@ html {
   position: absolute;
   width: 1px; }
 
-.wrapper:after, .row:after {
+.list--pairs:after, .wrapper:after, .row:after {
   content: "";
   display: table;
   clear: both; }
@@ -213,7 +231,7 @@ blockquote {
       float: right;
       margin-top: 18px; } }
   .site-nav .page-link {
-    line-height: 1.5; }
+    line-height: 1.4; }
     .site-nav .page-link:not(:first-child) {
       margin-left: 1em; }
   .site-nav a.current {
@@ -272,9 +290,6 @@ blockquote {
 .page-content {
   padding: 72px 0 36px; }
   @media screen and (min-width: 660px) {
-    .page-content .wrapper {
-      padding-right: 30%; } }
-  @media screen and (min-width: 900px) {
     .page-content .wrapper {
       padding-right: 20%; } }
 

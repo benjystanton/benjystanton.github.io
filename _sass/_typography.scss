@@ -11,7 +11,7 @@ $base-font-family:    "source-sans-pro",sans-serif;
 $heading-font-family: "quatro-slab", sans-serif;
 $base-font-size:      18px;
 $small-font-size:     16px;
-$base-line-height:    1.5;
+$base-line-height:    1.4;
 $spacing-unit:        36px;
 
 // Basic styling
@@ -122,6 +122,30 @@ li {
   display: inline-block;
   margin-right: $spacing-unit/3;
   margin-bottom: $spacing-unit/3;
+}
+
+// Pair list
+
+.list--pairs {
+  list-style: none;
+  margin-left: 0;
+  @extend %clearfix;
+  @include media-query($medium) {
+    margin-top: $spacing-unit;
+  }
+}
+
+.list--pairs li {
+  margin-bottom: $spacing-unit/2;
+  @include media-query($medium) {
+    margin-bottom: $spacing-unit;
+    width: 50%;
+    padding-right: $spacing-unit*2;
+    float: left;
+    &:nth-child(odd) {
+      clear: left;
+    }
+  }
 }
 
 // Horizontal rule

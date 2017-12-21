@@ -16,12 +16,6 @@
 
     @include media-query($medium) {
         .wrapper {
-            padding-right: 30%;
-        }
-    }
-
-    @include media-query($large) {
-        .wrapper {
             padding-right: 20%;
         }
     }
