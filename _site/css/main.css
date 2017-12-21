@@ -102,11 +102,11 @@ li > ul,
 li > ol {
   margin-bottom: 0; }
 
-.list--inline {
+.list-inline {
   list-style: none;
   margin-left: 0; }
 
-.list--inline li {
+.list-inline li {
   display: inline-block;
   margin-right: 12px;
   margin-bottom: 12px; }
@@ -252,36 +252,16 @@ blockquote {
   z-index: 1; }
 
 .site-footer {
-  padding: 36px 0 0;
+  padding: 36px 0;
   text-align: left; }
   @media screen and (min-width: 660px) {
     .site-footer {
-      padding: 108px 0 0; } }
+      padding: 108px 0 36px; } }
   .site-footer .wrapper {
     padding-top: 36px;
     border-top: 1px solid #e4e7ea; }
   .site-footer a {
     color: #2e343b; }
-
-.site-footer-credit, .site-footer-email, .site-footer-icons {
-  text-align: center;
-  margin-bottom: 1em; }
-  @media screen and (min-width: 660px) {
-    .site-footer-credit, .site-footer-email, .site-footer-icons {
-      float: left;
-      margin-right: 2em; } }
-
-.site-footer-icons {
-  margin-top: 1.5em; }
-  @media screen and (min-width: 660px) {
-    .site-footer-icons {
-      margin-top: 0; } }
-
-.site-footer-icons a {
-  text-decoration: none;
-  margin-right: 1em; }
-  .site-footer-icons a:last-child {
-    margin-right: 0; }
 
 .wrapper {
   max-width: 1000px;

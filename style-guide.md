@@ -22,7 +22,7 @@ This blog is built with [Jekyll](https://jekyllrb.com/) and hosted on [GitHub](h
 - minus symbol `&minus;` &minus;
 
 ## Colours
-<ul class="list--inline">
+<ul class="list-inline">
   <li class="background--text-colour padding--1">Text</li>
   <li class="background--dark-grey-colour padding--1">Dark grey</li>
   <li class="background--medium-grey-colour padding--1">Medium grey</li>
@@ -32,7 +32,7 @@ This blog is built with [Jekyll](https://jekyllrb.com/) and hosted on [GitHub](h
 </ul>
 
 ## Icons
-<ul class="list--inline">
+<ul class="list-inline">
 <li><i class="icon icon-social icon-github"><span class="visuallyhidden">GitHub</span></i></li>
 <li><i class="icon icon-social icon-twitter"><span class="visuallyhidden">Twitter</span></i></li>
 <li><i class="icon icon-social icon-instagram"><span class="visuallyhidden">Instagram</span></i></li>

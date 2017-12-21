@@ -2,41 +2,11 @@
 
   <div class="wrapper">
 
-  	<div class="site-footer-credit">
-  		© {{ site.title }}
-  	</div>
-
-	<div class="site-footer-email">
-		<a href="mailto:{{ site.email }}">{{ site.email }}</a>
-	</div>
-
-	<div class="site-footer-icons">
-
-		<a href="https://twitter.com/{{ site.twitter_username }}">
-			<i class="icon icon-social icon-twitter">
-				<span class="visuallyhidden">Twitter</span>
-			</i>
-		</a>
-
-		<a href="https://github.com/{{ site.github_username }}">
-			<i class="icon icon-social icon-github">
-				<span class="visuallyhidden">GitHub</span>
-			</i>
-		</a>
-
-		<!-- <a href="https://dribbble.com/{{ site.dribbble_username }}">
-			<i class="icon icon-social icon-dribbble">
-				<span class="visuallyhidden">Dribbble</span>
-			</i>
-		</a> -->
-
-    <a href="https://instagram.com/{{ site.instagram_username }}">
-			<i class="icon icon-social icon-instagram">
-				<span class="visuallyhidden">Instagram</span>
-			</i>
-		</a>
-
-	</div>
+    <ul class="list-inline">
+      <li>© {{ site.title }}</li>
+      <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+      <li><i class="icon icon-social icon-twitter"><span class="visuallyhidden">Twitter</span></i> <a href="https://twitter.com/{{ site.twitter_username }}">@{{ site.twitter_username }}</a></li>
+    </ul>
 
   </div>
 
