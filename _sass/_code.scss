@@ -27,7 +27,7 @@ pre {
  * Syntax highlighting styles
  */
 .highlight {
-    background: #fff;
+    background: $light-grey-colour;;
     @extend %vertical-rhythm;
 
     .c     { color: #998; font-style: italic } // Comment
