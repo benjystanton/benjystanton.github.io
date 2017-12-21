@@ -2,7 +2,7 @@
 layout: post  
 title: Work with me at Office for National Statistics (ONS)
 date: 2016-10-29 01:14:00  
-categories: ons hiring
+categories: ons
 image: ons-logomark.png
 image-alt: Office for National Statistics logomark
 ---

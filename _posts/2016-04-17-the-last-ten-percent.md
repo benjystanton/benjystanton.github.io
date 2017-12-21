@@ -2,7 +2,7 @@
 layout: post  
 title: The last ten percent  
 date: 2016-04-17 20:47:00  
-categories: design process
+categories: design
 ---
 
 At my first design job, we used to talk about the last 10%. This was the time that we’d set aside at the end of a project, to sit down and review the website together.

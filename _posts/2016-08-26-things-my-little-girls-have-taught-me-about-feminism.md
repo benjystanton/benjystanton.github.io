@@ -2,7 +2,7 @@
 layout: post  
 title: Things my little girls have taught me about feminism
 date: 2016-08-26 11:12:00  
-categories: feminism talk family
+categories: speaking personal
 image: my-little-girls.png
 image-alt: My 2 little girls, smiling in a phone box.
 ---
