@@ -2,7 +2,7 @@
 layout: post  
 title: Disney data
 date: 2017-09-22 11:51:00  
-categories: data family
+categories: personal
 excerpt: Data from our family trip to Disneyland Paris.
 day: monday
 ---

@@ -2,7 +2,7 @@
 layout: post  
 title: Accessibility for designers
 date: 2017-12-19 23:20:00  
-categories: accessibility graphic design
+categories: accessibility design
 excerpt: A guide to web accessibility for graphic, visual and UI (user interface) designers.
 ---
 

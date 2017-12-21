@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+<header class="post-header">
+  <h1 class="post-title">{{ page.title }} posts</h1>
+</header>
+
+  <ul class="post-list">
+    {% for post in site.categories[page.category] %}
+      <li>
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+        <span class="post-meta">{{ post.date | date: "%d %b %Y" }}</span>
+
+      </li>
+    {% endfor %}
+  </ul>
+
+  <p class="margin-top--m"><a href="/blog/category">← Back to all categories</a></p>

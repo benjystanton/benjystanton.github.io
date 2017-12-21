@@ -2,7 +2,7 @@
 layout: post
 title: Swansea design meet-up
 date: 2014-11-25 9:16:32
-categories: design open meetup
+categories: design meetup
 ---
 
 I’m planning a [design meet-up in Swansea][1]. This is a timeline of my notes (expect them to change a lot).
