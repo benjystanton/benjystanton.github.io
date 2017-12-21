@@ -5,8 +5,8 @@
     <description>UX Designer. Family Man. Music Snob.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 21 Dec 2017 10:44:25 +0000</pubDate>
-    <lastBuildDate>Thu, 21 Dec 2017 10:44:25 +0000</lastBuildDate>
+    <pubDate>Thu, 21 Dec 2017 10:49:09 +0000</pubDate>
+    <lastBuildDate>Thu, 21 Dec 2017 10:49:09 +0000</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
     
       <item>
@@ -72,7 +72,7 @@
 &lt;h2 id=&quot;forms&quot;&gt;Forms&lt;/h2&gt;
 
 &lt;h3 id=&quot;labels&quot;&gt;Labels&lt;/h3&gt;
-&lt;p&gt;Form elements should always have labels. It’s not enough to use placeholder text as it’s usually very light. It also disappears then users’s select the form field.&lt;/p&gt;
+&lt;p&gt;Form elements should always have labels. It’s not enough to use placeholder text as it’s usually very light. It also disappears when users select the form field.&lt;/p&gt;
 
 &lt;h3 id=&quot;help-text&quot;&gt;Help text&lt;/h3&gt;
 &lt;p&gt;Add useful instructions to help users to complete the form. If a certain date format or password length is required, let users know. If a field is optional consider removing it, if that’s not possible, mark it as optional.&lt;/p&gt;
@@ -95,19 +95,19 @@
 
 &lt;p&gt;You can help everyone understand your content better if you use common and simple words.&lt;/p&gt;
 
-&lt;p&gt;If you absolutely have to use these words then explain them using the &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;abbr&amp;gt;&lt;/code&gt; element or by add a glossary.&lt;/p&gt;
+&lt;p&gt;If you absolutely have to use these words then explain them by using the &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;abbr&amp;gt;&lt;/code&gt; element or by adding a glossary.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://www.disambiguity.com/stop-your-team-using-technical-terms-and-jargon/&quot;&gt;Stop your team using technical terms and jargon&lt;/a&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;readable-page-titles-and-hackable-urls&quot;&gt;Readable page titles and hackable urls&lt;/h3&gt;
 &lt;p&gt;Page titles should be descriptive and should match the &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;h1&amp;gt;&lt;/code&gt; (main heading) on the page. This helps users to orientate themselves.&lt;/p&gt;
 
-&lt;p&gt;URLs should be designed so that users could navigate their way through a site by editing the website url in the browser address bar. For example the url for this page is http://www.benjystanton.co.uk/blog/research-findings-long-term/. A user might expect that if they only enter the last part of the&lt;/p&gt;
+&lt;p&gt;URLs should be designed so that users could navigate their way through a site by editing the website url in the browser address bar.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://simplyaccessible.com/article/web-accessibility-and-urls/&quot;&gt;Web accessibility &amp;amp; URLs&lt;/a&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;buttons-and-links-should-have-descriptive-labels&quot;&gt;Buttons and links should have descriptive labels&lt;/h3&gt;
-&lt;p&gt;Users often scan pages quickly to look for links on a page. This can be done visually or by using screen readers. Don’t use receptive or vague link labels like “read more” or “click here”. They don’t offer any information to the user when taken out of context.&lt;/p&gt;
+&lt;p&gt;Users often scan pages quickly to look for links on a page. This can be done visually or by using screen readers. Don’t use repetitive or vague link labels like “read more” or “click here”. They don’t offer any information to the user when taken out of context.&lt;/p&gt;
 
 &lt;p&gt;Make sure link and button labels describe what will happen when someone selects them. For example, if they link to a download tell the user the file type and file size.&lt;/p&gt;
 
