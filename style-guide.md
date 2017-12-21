@@ -4,9 +4,22 @@ title: Style Guide
 permalink: /style-guide/
 ---
 
+## Build
+This blog is built with [Jekyll](https://jekyllrb.com/) and hosted on [GitHub](https://github.com/benjystanton/benjystanton.github.io ).
+
+`https://github.com/benjystanton/benjystanton.github.io`
+
 ## Fonts
 - Base font family: [Source Sans](https://typekit.com/fonts/source-sans)
 - Heading font: [Quatro Slab Ultra Black](https://typekit.com/fonts/quatro-slab)
+
+## Symbols
+- non-breaking space `&nbsp;` &nbsp;
+- en dash `&ndash;` &ndash;
+- em dash `&mdash;` &mdash;
+- horizontal ellipsis `&hellip;` …
+- times (multiply) symbol `&times;` ×
+- minus symbol `&minus;` &minus;
 
 ## Colours
 <ul class="list--inline">
@@ -19,7 +32,6 @@ permalink: /style-guide/
 </ul>
 
 ## Icons
-
 <ul class="list--inline">
 <li><i class="icon icon-social icon-github"><span class="visuallyhidden">GitHub</span></i></li>
 <li><i class="icon icon-social icon-twitter"><span class="visuallyhidden">Twitter</span></i></li>
@@ -79,6 +91,11 @@ Uses the `big-number.html` include.
 
 ***
 
+## Tables
+
+### HTML tables
+
+```
 <table>
   <caption>This is a table caption</caption>
   <thead>
@@ -99,23 +116,46 @@ Uses the `big-number.html` include.
       <td>Table Cell</td>
       <td class="cell--right">12</td>
     </tr>
+  </tbody>
+</table>
+```
+
+<table>
+  <caption>This is a table caption</caption>
+  <thead>
+    <tr>
+      <th>Table Heading</th>
+      <th>Table Heading</th>
+      <th class="cell--right">Numbers</th>
+    </tr>
+  </thead>
+  <tbody>
     <tr>
       <td>Table Cell</td>
       <td>Table Cell</td>
-      <td class="cell--right">123</td>
+      <td class="cell--right">1</td>
     </tr>
     <tr>
       <td>Table Cell</td>
       <td>Table Cell</td>
-      <td class="cell--right">1234</td>
-    </tr>
-    <tr>
-      <td>Table Cell</td>
-      <td>Table Cell</td>
-      <td class="cell--right">12345</td>
+      <td class="cell--right">12</td>
     </tr>
   </tbody>
 </table>
+
+### Markdown tables
+
+```
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+```
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
 
 <!-- ***
 
