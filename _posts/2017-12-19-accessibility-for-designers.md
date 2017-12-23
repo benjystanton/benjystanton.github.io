@@ -11,7 +11,7 @@ A guide to web accessibility best practices for graphic, visual and UI (user int
 ## Images
 
 ### Images of text
-Avoid having images of text, especially when it makes up part of the interface. If possible, recreate images using HTML and CSS.
+Avoid having images of text, especially when it makes up part of the interface. Recreate simple graphical elements (like buttons) using HTML and CSS. Diagrams and charts should be created using SVG.
 
 In some cases, images that contain text are appropriate. For example a photo of a building or a screenshot of an app might contain some text. If the text is important to the meaning of the image, be sure to include it as alt text somewhere.
 
