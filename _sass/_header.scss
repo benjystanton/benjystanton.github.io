@@ -24,15 +24,20 @@
       background-color: $white-colour;
     }
 
-    img {
-        padding: 0;
-        width:160px;
+    .logo svg {
+      // Base size for small and css-free layouts is set inside the SVG
+      @include media-query($medium) {
+        width: 180px;
+      }
+      @include media-query($large) {
+        width: 200px;
+      }
     }
 }
 
 .site-nav {
 
-    margin-top: $spacing-unit;
+    margin-top: $spacing-unit/3;
 
     @include media-query($medium) {
         float: right;

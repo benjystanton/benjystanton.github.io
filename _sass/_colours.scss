@@ -36,3 +36,9 @@ $visited-colour:      $text-colour;
   background-color: $brand-colour;
   color: $white-colour;
 }
+
+// Background Colours
+
+.logo svg path {
+  fill: $brand-colour;
+}

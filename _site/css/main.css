@@ -19,6 +19,9 @@
   background-color: #007575;
   color: #ffffff; }
 
+.logo svg path {
+  fill: #007575; }
+
 body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure {
   margin: 0;
   padding: 0; }
@@ -93,7 +96,8 @@ small {
 
 .post-meta {
   font-size: 16px;
-  color: #5b6774; }
+  color: #5b6774;
+  margin-bottom: 0; }
 
 ul, ol {
   margin-left: 36px; }
@@ -226,12 +230,15 @@ blockquote {
     background-color: #ffffff; }
   .site-header .logo:focus {
     background-color: #ffffff; }
-  .site-header img {
-    padding: 0;
-    width: 160px; }
+  @media screen and (min-width: 660px) {
+    .site-header .logo svg {
+      width: 180px; } }
+  @media screen and (min-width: 900px) {
+    .site-header .logo svg {
+      width: 200px; } }
 
 .site-nav {
-  margin-top: 36px; }
+  margin-top: 12px; }
   @media screen and (min-width: 660px) {
     .site-nav {
       float: right;
@@ -274,10 +281,12 @@ blockquote {
   padding-left: 18px; }
 
 .page-content {
-  padding: 72px 0 36px; }
+  padding: 36px 0 36px; }
   @media screen and (min-width: 660px) {
-    .page-content .wrapper {
-      padding-right: 20%; } }
+    .page-content {
+      padding-top: 72px; }
+      .page-content .wrapper {
+        padding-right: 20%; } }
 
 .column {
   background-color: #e4e7ea;

@@ -12,9 +12,10 @@
 // Page content
 
 .page-content {
-    padding: $spacing-unit*2 0 $spacing-unit;
+    padding: $spacing-unit 0 $spacing-unit;
 
     @include media-query($medium) {
+      padding-top: $spacing-unit*2;
         .wrapper {
             padding-right: 20%;
         }
