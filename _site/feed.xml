@@ -5,8 +5,8 @@
     <description>UX Designer. Family Man. Music Snob.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 26 Dec 2017 10:31:48 +0000</pubDate>
-    <lastBuildDate>Tue, 26 Dec 2017 10:31:48 +0000</lastBuildDate>
+    <pubDate>Tue, 26 Dec 2017 10:32:17 +0000</pubDate>
+    <lastBuildDate>Tue, 26 Dec 2017 10:32:17 +0000</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
     
       <item>
@@ -16,7 +16,7 @@
 &lt;h2 id=&quot;images&quot;&gt;Images&lt;/h2&gt;
 
 &lt;h3 id=&quot;images-of-text&quot;&gt;Images of text&lt;/h3&gt;
-&lt;p&gt;Avoid having images of text, especially when it makes up part of the interface. If possible, recreate images using HTML and CSS.&lt;/p&gt;
+&lt;p&gt;Avoid having images of text, especially when it makes up part of the interface. Recreate simple graphical elements (like buttons) using HTML and CSS. Diagrams and charts should be created using SVG.&lt;/p&gt;
 
 &lt;p&gt;In some cases, images that contain text are appropriate. For example a photo of a building or a screenshot of an app might contain some text. If the text is important to the meaning of the image, be sure to include it as alt text somewhere.&lt;/p&gt;
 
