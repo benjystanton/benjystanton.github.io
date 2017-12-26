@@ -79,7 +79,7 @@ h2, .heading-large {
 
 h3, .heading-medium {
   font-size: 22px;
-  @include media-query($medium) {font-size: 26px;}
+  @include media-query($medium) {font-size: 26px; margin-top: $spacing-unit;}
   font-weight: bold;
 }
 

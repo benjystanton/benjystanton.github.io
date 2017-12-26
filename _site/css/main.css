@@ -82,7 +82,8 @@ h3, .heading-medium {
   font-weight: bold; }
   @media screen and (min-width: 660px) {
     h3, .heading-medium {
-      font-size: 26px; } }
+      font-size: 26px;
+      margin-top: 36px; } }
 
 h4, .heading-small {
   font-size: 18px;
