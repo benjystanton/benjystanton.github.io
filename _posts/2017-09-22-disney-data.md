@@ -4,7 +4,6 @@ title: Disney data
 date: 2017-09-22 11:51:00  
 categories: personal
 excerpt: Data from our family trip to Disneyland Paris.
-day: monday
 ---
 
 Back in March we took a family trip to Disneyland Paris.

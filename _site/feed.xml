@@ -5,8 +5,8 @@
     <description>UX Designer. Family Man. Music Snob.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 27 Dec 2017 11:28:53 +0000</pubDate>
-    <lastBuildDate>Wed, 27 Dec 2017 11:28:53 +0000</lastBuildDate>
+    <pubDate>Wed, 27 Dec 2017 12:11:59 +0000</pubDate>
+    <lastBuildDate>Wed, 27 Dec 2017 12:11:59 +0000</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
     
       <item>
@@ -170,12 +170,19 @@
 
 &lt;p&gt;&lt;a href=&quot;https://www.civilservicejobs.service.gov.uk/csr/jobs.cgi?jcode=1564122&quot;&gt;Front End Developer £21,950&lt;/a&gt; (Closing date 7 January 2018)&lt;/p&gt;
 
+&lt;h2 id=&quot;websites-youll-be-working-on&quot;&gt;Websites you’ll be working on&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.ons.gov.uk/&quot;&gt;ONS website&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://visual.ons.gov.uk/&quot;&gt;Visual.ONS&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;h2 id=&quot;whats-it-like-to-work-at-ons&quot;&gt;What’s it like to work at ONS?&lt;/h2&gt;
 
 &lt;p&gt;Here are some blog posts I’ve written about life and work at ONS:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://digitalblog.ons.gov.uk/author/benjy/&quot;&gt;Blog posts I’ve written for the ONS digital blog&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/ONSdigital/design/blob/master/principles.md&quot;&gt;ONS design community principles&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://www.benjystanton.co.uk/blog/my-first-12ish-months/&quot;&gt;My first 12ish months&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://www.benjystanton.co.uk/blog/my-12-year-quest/&quot;&gt;My 12 year quest to get a public service design job&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://www.benjystanton.co.uk/blog/retrospective-my-first-2-months/&quot;&gt;Retrospective (my first 2 months)&lt;/a&gt;&lt;/li&gt;
