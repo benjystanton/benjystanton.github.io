@@ -5,7 +5,7 @@ date: 2017-12-16 07:41:00
 categories: ons design
 image: porg-on-designers-cutting-mat.jpg
 image-alt: A cute Star Wars Porg model on a designer's cutting mat.
-excerpt: Help us tell human stories with our data.
+excerpt: 3 digital designers and 2 brand and print designers in Newport. Closing 22 Jan 2018.
 ---
 
 We're looking for 3 digital designers and 2 brand and print designers in Newport. The closing date is 22 January 2018.
