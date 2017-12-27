@@ -12,6 +12,19 @@
         border-top: 1px solid $light-grey-colour;
     }
 
+    ul {
+      list-style: none;
+      margin-left: 0;
+    }
+
+    li {
+      margin-bottom: $spacing-unit/2;
+      @include media-query($large) {
+        display: inline-block;
+        margin-right: $spacing-unit;
+      }
+    }
+
     a {
         color: $text-colour;
     }

@@ -110,11 +110,10 @@ li > ol {
 .list-inline {
   list-style: none;
   margin-left: 0; }
-
-.list-inline li {
-  display: inline-block;
-  margin-right: 12px;
-  margin-bottom: 12px; }
+  .list-inline li {
+    display: inline-block;
+    margin-right: 12px;
+    margin-bottom: 12px; }
 
 .list-pairs {
   list-style: none;
@@ -271,6 +270,15 @@ blockquote {
   .site-footer .wrapper {
     padding-top: 36px;
     border-top: 1px solid #e4e7ea; }
+  .site-footer ul {
+    list-style: none;
+    margin-left: 0; }
+  .site-footer li {
+    margin-bottom: 18px; }
+    @media screen and (min-width: 900px) {
+      .site-footer li {
+        display: inline-block;
+        margin-right: 36px; } }
   .site-footer a {
     color: #2e343b; }
 

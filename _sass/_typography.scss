@@ -117,12 +117,12 @@ li {
 .list-inline {
   list-style: none;
   margin-left: 0;
-}
 
-.list-inline li {
-  display: inline-block;
-  margin-right: $spacing-unit/3;
-  margin-bottom: $spacing-unit/3;
+  li {
+    display: inline-block;
+    margin-right: $spacing-unit/3;
+    margin-bottom: $spacing-unit/3;
+  }
 }
 
 // Pair list
