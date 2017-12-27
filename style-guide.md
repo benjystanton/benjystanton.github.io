@@ -106,7 +106,7 @@ text="miles driven"
 
 `![Alt text](path/to/image.png)`
 
-## Emoji
+## Emoji (work in progress)
 
 Use the `emoji.html` include, so that we can add some alt text. Technique inspired by <a href="https://tink.uk/accessible-emoji/">Léonie Watson</a>.
 
