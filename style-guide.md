@@ -56,10 +56,6 @@ https://github.com/benjystanton/benjystanton.github.io
 
 A paragraph (from the Greek paragraphos, "to write beside" or "written beside") is a self-contained unit of a discourse in writing dealing with a particular point or idea. A paragraph consists of one or more sentences. Though not required by the syntax of any language, paragraphs are usually an expected part of formal writing, used to organize longer prose.
 
-![Alt text goes here]({{ site.url }}/assets/make-data-part-of-the-web-landscape.png)
-
-`![Alt text](path/to/image.png)`
-
 Lorem ipsum dolor sit amet, consectetur adip*isicing elit, sed do eiusmod * tempor incididunt ut labore et dolore magna aliqua.
 
 [An example link](#)
@@ -82,19 +78,15 @@ Lorem ipsum dolor sit amet, consectetur adip*isicing elit, sed do eiusmod * temp
 
 <p class="post-meta">Post meta (used for blog published dates)</p>
 
-***
-
 ## Big numbers
 
-Uses the `big-number.html` include.
+Use the `big-number.html` include.
 
-{% raw %}
 ```
 include big-number.html
 big-number="979"
 text="miles driven"
 ```
-{% endraw %}
 
 {% include big-number.html
   big-number="979"
@@ -105,6 +97,29 @@ text="miles driven"
   big-number="27"
   text="miles walked"
 %}
+
+***
+
+## Images
+
+![Alt text goes here]({{ site.url }}/assets/make-data-part-of-the-web-landscape.png)
+
+`![Alt text](path/to/image.png)`
+
+## Emoji
+
+Use the `emoji.html` include, so that we can add some alt text. Technique inspired by <a href="https://tink.uk/accessible-emoji/">Léonie Watson</a>.
+
+```
+include emoji.html
+emoji="💩"
+alt-text="Pile of poo"
+```
+<ul class="list-inline">
+<li>{% include emoji.html emoji="💩" alt-text="Pile of poo" %}</li>
+<li><span class="heading-large">{% include emoji.html emoji="👻" alt-text="Ghost" %}</span></li>
+<li><span class="heading-xxlarge">{% include emoji.html emoji="🤖" alt-text="Robot" %}</span></li>
+</ul>
 
 ***
 

@@ -122,10 +122,6 @@
 
 <p>A paragraph (from the Greek paragraphos, “to write beside” or “written beside”) is a self-contained unit of a discourse in writing dealing with a particular point or idea. A paragraph consists of one or more sentences. Though not required by the syntax of any language, paragraphs are usually an expected part of formal writing, used to organize longer prose.</p>
 
-<p><img src="http://localhost:4000/assets/make-data-part-of-the-web-landscape.png" alt="Alt text goes here" /></p>
-
-<p><code class="highlighter-rouge">![Alt text](path/to/image.png)</code></p>
-
 <p>Lorem ipsum dolor sit amet, consectetur adip*isicing elit, sed do eiusmod * tempor incididunt ut labore et dolore magna aliqua.</p>
 
 <p><a href="#">An example link</a></p>
@@ -154,11 +150,9 @@
 
 <p class="post-meta">Post meta (used for blog published dates)</p>
 
-<hr />
-
 <h2 id="big-numbers">Big numbers</h2>
 
-<p>Uses the <code class="highlighter-rouge">big-number.html</code> include.</p>
+<p>Use the <code class="highlighter-rouge">big-number.html</code> include.</p>
 
 <div class="highlighter-rouge"><pre class="highlight"><code>include big-number.html
 big-number="979"
@@ -179,6 +173,35 @@ text="miles driven"
 <span>
   miles walked
 </span></p>
+
+<hr />
+
+<h2 id="images">Images</h2>
+
+<p><img src="http://localhost:4000/assets/make-data-part-of-the-web-landscape.png" alt="Alt text goes here" /></p>
+
+<p><code class="highlighter-rouge">![Alt text](path/to/image.png)</code></p>
+
+<h2 id="emoji">Emoji</h2>
+
+<p>Use the <code class="highlighter-rouge">emoji.html</code> include, so that we can add some alt text. Technique inspired by <a href="https://tink.uk/accessible-emoji/">Léonie Watson</a>.</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>include emoji.html
+emoji="💩"
+alt-text="Pile of poo"
+</code></pre>
+</div>
+<ul class="list-inline">
+<li><span role="img" aria-label="Pile of poo" tabindex="0">💩</span>
+<!-- Accessible emojis, inspired by https://tink.uk/accessible-emoji/ -->
+</li>
+<li><span class="heading-large"><span role="img" aria-label="Ghost" tabindex="0">👻</span>
+<!-- Accessible emojis, inspired by https://tink.uk/accessible-emoji/ -->
+</span></li>
+<li><span class="heading-xxlarge"><span role="img" aria-label="Robot" tabindex="0">🤖</span>
+<!-- Accessible emojis, inspired by https://tink.uk/accessible-emoji/ -->
+</span></li>
+</ul>
 
 <hr />
 

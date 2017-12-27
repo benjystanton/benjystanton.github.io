@@ -1,0 +1,37 @@
+// Tooltip
+
+span[role=img][aria-label],
+span[role=img][aria-label] {
+  position: relative;
+}
+
+span[role=img][aria-label]:focus,
+span[role=img][aria-label]:hover {
+  outline: 1px solid $white-colour;
+}
+
+
+span[role=img][aria-label]:focus::after,
+span[role=img][aria-label]:hover::after {
+  position: absolute;
+  display: block;
+  z-index: 1;
+  bottom: 100%;
+  left: 0;
+  width: max-content;
+  max-width: 300px;
+  font-size: $base-font-size;
+  font-family: $base-font-family;
+  font-weight: normal;
+  @extend .padding--s;
+  content: attr(aria-label);
+  background-color: $brand-colour;
+  color: $white-colour;
+  border-radius: 5px;
+}
+
+@media print {
+  span[role=img][aria-label]::after {
+    content: " (" attr(aria-label) ") ";
+  }
+}
