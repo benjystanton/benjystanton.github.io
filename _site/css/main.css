@@ -91,6 +91,9 @@ h4, .heading-small {
   @media screen and (min-width: 660px) {
     h4, .heading-small {
       font-size: 20px; } }
+  @media screen and (min-width: 900px) {
+    h4, .heading-small {
+      font-size: 22px; } }
 
 small {
   font-size: 16px; }
@@ -329,7 +332,6 @@ blockquote {
 table {
   border-collapse: collapse;
   border-spacing: 0;
-  width: 100%;
   margin-bottom: 36px; }
 
 thead {
@@ -338,10 +340,16 @@ thead {
 thead th {
   font-weight: bold; }
 
-th, td {
+th {
+  vertical-align: bottom; }
+
+th[scope=row], td {
+  vertical-align: text-top; }
+
+td, th {
   border-bottom: 1px solid #abb3bd;
   text-align: left;
-  padding: .8em 1.6em .8em 0;
+  padding: 0.8em 1.3em 0.8em 0;
   line-height: 1.4; }
 
 td:last-child, th:last-child {
@@ -351,12 +359,7 @@ td:last-child, th:last-child {
   text-align: right; }
 
 caption {
-  font-size: 26px;
-  margin-top: 18px;
-  line-height: 1.2;
-  font-weight: bold;
-  text-align: left;
-  margin-bottom: 18px; }
+  text-align: left; }
 
 .big-number {
   display: block;

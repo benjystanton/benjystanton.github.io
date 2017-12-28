@@ -3,7 +3,6 @@
 table {
   border-collapse:collapse;
   border-spacing:0;
-  width: 100%;
   margin-bottom: $spacing-unit;
 }
 
@@ -15,11 +14,19 @@ thead th {
   font-weight: bold;
 }
 
-th, td {
+th {
+  vertical-align: bottom;
+}
+
+th[scope=row], td {
+  vertical-align: text-top;
+}
+
+td, th {
   border-bottom: 1px solid $medium-grey-colour;
   text-align: left;
-  padding: .8em 1.6em .8em 0;
-  line-height: 1.4;
+  padding: 0.8em 1.3em 0.8em 0;
+  line-height: $base-line-height;
 }
 
 td:last-child, th:last-child {
@@ -31,10 +38,5 @@ td:last-child, th:last-child {
 }
 
 caption {
-  font-size: 26px;
-  margin-top: $spacing-unit/2;
-  line-height: 1.2;
-  font-weight: bold;
   text-align: left;
-  margin-bottom: $spacing-unit/2;
 }

@@ -86,6 +86,7 @@ h3, .heading-medium {
 h4, .heading-small {
   font-size: 18px;
   @include media-query($medium) {font-size: 20px;}
+  @include media-query($large) {font-size: 22px;}
   font-weight: bold;
 }
 

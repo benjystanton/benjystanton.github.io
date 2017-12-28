@@ -129,7 +129,7 @@ alt-text="Pile of poo"
 
 ```
 <table>
-  <caption>This is a table caption</caption>
+  <caption><h4>This is a table caption</h4></caption>
   <thead>
     <tr>
       <th>Table Heading</th>
@@ -153,7 +153,7 @@ alt-text="Pile of poo"
 ```
 
 <table>
-  <caption>This is a table caption</caption>
+  <caption><h4>This is a table caption</h4></caption>
   <thead>
     <tr>
       <th>Table Heading</th>

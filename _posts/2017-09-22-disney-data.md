@@ -41,7 +41,7 @@ I collected some data, mainly so that I could play around with styling up key fi
 
 <table>
 
-<caption>How far we walked each day</caption>
+<caption><h3>How far we walked each day</h3></caption>
 
 <thead>
 
@@ -73,7 +73,7 @@ I collected some data, mainly so that I could play around with styling up key fi
 
 <table>
 
-<caption>How long we waited for each attraction</caption>
+<caption><h3>How long we waited for each attraction</h3></caption>
 
 <thead>
 
