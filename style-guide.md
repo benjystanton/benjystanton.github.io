@@ -53,15 +53,25 @@ Lorem ipsum dolor sit amet, consectetur adip*isicing elit, sed do eiusmod * temp
 2. An ordered list is a list in which the sequence of items is important. An ordered list does not necessarily contain sequence characters.
 3. This is the last list item
 
-> A blockquote is a quotation in a written document, that is set off from the main text as a paragraph, or block of text, and typically distinguished visually using indentation.
-<br>— Homer Simpson
+### Blockquote
 
 ```
 > A blockquote is a quotation in a written document, that is set off from the main text as a paragraph, or block of text, and typically distinguished visually using indentation.
 <br>— Homer Simpson
 ```
 
-<p class="post-meta">Post meta (used for blog published dates)</p>
+> A blockquote is a quotation in a written document, that is set off from the main text as a paragraph, or block of text, and typically distinguished visually using indentation.
+<br>— Homer Simpson
+
+### Post meta
+
+Slightly smaller, slightly lighter text.
+
+```
+<p class="post-meta">9 Jan 2018</p>
+```
+
+<p class="post-meta">9 Jan 2018</p>
 
 ## Big numbers
 
@@ -95,9 +105,35 @@ text="miles driven"
 
 ## Images
 
+Images are full width by default. Don't forget alt text.
+
+- Standard blog image: 1024 × 512
+- Thumbnail (for Twitter summary card): 500 × 500
+
+```
+![Alt text](path/to/image.png)
+```
+
 ![Alt text goes here]({{ site.url }}/assets/make-data-part-of-the-web-landscape.png)
 
-`![Alt text](path/to/image.png)`
+## SVGs
+
+I've made the SVGs extra accessible by using [Léonie Watson's accessible SVGs technique](http://decks.tink.uk/2017/lws/index.html#cover).
+
+
+- use `role="img"` so that SVGs are exposed to assistive technology like screen readers
+- use the SVG's `<title>` tag together with `aria-labelledby` to expose the name to assistive technology
+
+```
+<svg width="165" viewBox="0 0 320 104">
+<g role="img" aria-labelledby="logo-title">
+<title id="logo-title">Benjy Stanton</title>
+...
+</g>
+</svg>
+```
+
+{% include benjy-stanton-logo.svg %}
 
 ## Emoji (work in progress)
 
@@ -114,41 +150,20 @@ alt-text="Pile of poo"
 <li><span class="heading-xxlarge">{% include emoji.html emoji="🤖" alt-text="Robot" %}</span></li>
 </ul>
 
-## SVGs
-
-SVGs are better for graphics on the web:
-
-- they are a vector format so they scale to any size without losing quality
-- you can control the styling with CSS
-- complex graphics can be made extra accessible with the right mark-up
-- use `role="img"` so that SVGs are exposed to assistive technology like screen readers
-- use `title` and `aria-labelledby` to expose an accessible name
-
-Read more about [accessible SVGs by Léonie Watson](http://decks.tink.uk/2017/lws/index.html#cover).
-
-
-{% include benjy-stanton-logo.svg %}
-
-```
-<svg width="165" viewBox="0 0 320 104">
-<g role="img" aria-labelledby="logo-title">
-<title id="logo-title">Benjy Stanton</title>
-...
-</g>
-</svg>
-```
-
 ## Icons
 I'm phasing out these icons. They're not ideal because the mark-up uses the `<i>` tag. I also plan to use SVG icons in future. These are PNGs.
+
+```
+<i class="icon icon-social icon-instagram">
+<span class="visuallyhidden">Instagram</span>
+</i>
+```
+
 <ul class="list-inline">
 <li><i class="icon icon-social icon-github"><span class="visuallyhidden">GitHub</span></i></li>
 <li><i class="icon icon-social icon-twitter"><span class="visuallyhidden">Twitter</span></i></li>
 <li><i class="icon icon-social icon-instagram"><span class="visuallyhidden">Instagram</span></i></li>
 </ul>
-
-```
-<i class="icon icon-social icon-instagram"><span class="visuallyhidden">Instagram</span></i>
-```
 
 ***
 
