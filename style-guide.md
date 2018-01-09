@@ -15,14 +15,6 @@ https://github.com/benjystanton/benjystanton.github.io
 - Base font family: [Source Sans](https://typekit.com/fonts/source-sans)
 - Heading font: [Quatro Slab Ultra Black](https://typekit.com/fonts/quatro-slab)
 
-## Symbols
-- non-breaking space `&nbsp;` &nbsp;
-- en dash `&ndash;` &ndash;
-- em dash `&mdash;` &mdash;
-- horizontal ellipsis `&hellip;` …
-- times (multiply) symbol `&times;` ×
-- minus symbol `&minus;` &minus;
-
 ## Colours
 <ul class="list-inline">
   <li class="background--text-colour padding--s">Text</li>
@@ -32,40 +24,6 @@ https://github.com/benjystanton/benjystanton.github.io
   <li class="background--white-colour padding--s border">White</li>
   <li class="background--primary-colour padding--s">Primary</li>
 </ul>
-
-## Icons
-I'm phasing out these icons. They're not ideal because the mark-up uses the `<i>` tag. I also plan to use SVG icons in future. These are PNGs.
-<ul class="list-inline">
-<li><i class="icon icon-social icon-github"><span class="visuallyhidden">GitHub</span></i></li>
-<li><i class="icon icon-social icon-twitter"><span class="visuallyhidden">Twitter</span></i></li>
-<li><i class="icon icon-social icon-instagram"><span class="visuallyhidden">Instagram</span></i></li>
-</ul>
-
-```
-<i class="icon icon-social icon-instagram"><span class="visuallyhidden">Instagram</span></i>
-```
-
-## SVGs
-SVGs are better for graphics on the web:
-- they are a vector format so they scale to any size without losing quality
-- you can control the styling with CSS
-- complex graphics can be made extra accessible with the right mark-up
-- Use `role="img"` so that SVGs are exposed to assistive technology like screen readers
-- Use `title` and `aria-labelledby` to expose an accessible name
-
-Read more on [accessible SVGs by Léonie Watson](http://decks.tink.uk/2017/lws/index.html#cover)
-
-
-{% include benjy-stanton-logo.svg %}
-
-```
-<svg width="165" viewBox="0 0 320 104">
-<g role="img" aria-labelledby="logo-title">
-<title id="logo-title">Benjy Stanton</title>
-...
-</g>
-</svg>
-```
 
 ***
 
@@ -125,6 +83,14 @@ text="miles driven"
   text="miles walked"
 %}
 
+## Symbols
+- non-breaking space `&nbsp;` &nbsp;
+- en dash `&ndash;` &ndash;
+- em dash `&mdash;` &mdash;
+- horizontal ellipsis `&hellip;` …
+- times (multiply) symbol `&times;` ×
+- minus symbol `&minus;` &minus;
+
 ***
 
 ## Images
@@ -147,6 +113,42 @@ alt-text="Pile of poo"
 <li><span class="heading-large">{% include emoji.html emoji="👻" alt-text="Ghost" %}</span></li>
 <li><span class="heading-xxlarge">{% include emoji.html emoji="🤖" alt-text="Robot" %}</span></li>
 </ul>
+
+## SVGs
+
+SVGs are better for graphics on the web:
+
+- they are a vector format so they scale to any size without losing quality
+- you can control the styling with CSS
+- complex graphics can be made extra accessible with the right mark-up
+- use `role="img"` so that SVGs are exposed to assistive technology like screen readers
+- use `title` and `aria-labelledby` to expose an accessible name
+
+Read more about [accessible SVGs by Léonie Watson](http://decks.tink.uk/2017/lws/index.html#cover).
+
+
+{% include benjy-stanton-logo.svg %}
+
+```
+<svg width="165" viewBox="0 0 320 104">
+<g role="img" aria-labelledby="logo-title">
+<title id="logo-title">Benjy Stanton</title>
+...
+</g>
+</svg>
+```
+
+## Icons
+I'm phasing out these icons. They're not ideal because the mark-up uses the `<i>` tag. I also plan to use SVG icons in future. These are PNGs.
+<ul class="list-inline">
+<li><i class="icon icon-social icon-github"><span class="visuallyhidden">GitHub</span></i></li>
+<li><i class="icon icon-social icon-twitter"><span class="visuallyhidden">Twitter</span></i></li>
+<li><i class="icon icon-social icon-instagram"><span class="visuallyhidden">Instagram</span></i></li>
+</ul>
+
+```
+<i class="icon icon-social icon-instagram"><span class="visuallyhidden">Instagram</span></i>
+```
 
 ***
 
