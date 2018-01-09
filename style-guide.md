@@ -45,6 +45,28 @@ I'm phasing out these icons. They're not ideal because the mark-up uses the `<i>
 <i class="icon icon-social icon-instagram"><span class="visuallyhidden">Instagram</span></i>
 ```
 
+## SVGs
+SVGs are better for graphics on the web:
+- they are a vector format so they scale to any size without losing quality
+- you can control the styling with CSS
+- complex graphics can be made extra accessible with the right mark-up
+- Use `role="img"` so that SVGs are exposed to assistive technology like screen readers
+- Use `title` and `aria-labelledby` to expose an accessible name
+
+Read more on [accessible SVGs by Léonie Watson](http://decks.tink.uk/2017/lws/index.html#cover)
+
+
+{% include benjy-stanton-logo.svg %}
+
+```
+<svg width="165" viewBox="0 0 320 104">
+<g role="img" aria-labelledby="logo-title">
+<title id="logo-title">Benjy Stanton</title>
+...
+</g>
+</svg>
+```
+
 ***
 
 ## Typography
