@@ -7,13 +7,13 @@
     a {
 
         &:visited {
-          color:$brand-colour;
+          color:$primary-colour;
         }
         &:hover,
         &:focus {
           color:$white-colour;
-          background-color: $brand-colour;
-          outline: 3px solid $brand-colour;
+          background-color: $primary-colour;
+          outline: 3px solid $primary-colour;
         }
         &.logo:hover {
           background-color: $white-colour;

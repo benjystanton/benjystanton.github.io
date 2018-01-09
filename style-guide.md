@@ -30,7 +30,7 @@ https://github.com/benjystanton/benjystanton.github.io
   <li class="background--medium-grey-colour padding--s">Medium grey</li>
   <li class="background--light-grey-colour padding--s">Light grey</li>
   <li class="background--white-colour padding--s border">White</li>
-  <li class="background--brand-colour padding--s">Brand</li>
+  <li class="background--primary-colour padding--s">Primary</li>
 </ul>
 
 ## Icons

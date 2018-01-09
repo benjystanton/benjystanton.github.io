@@ -26,7 +26,7 @@ span[role=img][aria-label]:hover::after {
   font-weight: normal;
   @extend .padding--s;
   content: attr(aria-label);
-  background-color: $brand-colour;
+  background-color: $primary-colour;
   color: $white-colour;
   border-radius: 5px;
 }

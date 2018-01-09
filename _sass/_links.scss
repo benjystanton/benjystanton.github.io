@@ -2,13 +2,13 @@
  * Links
  */
 a {
-    color: $brand-colour;
+    color: $primary-colour;
 
     &:hover,
     &:focus {
-      background-color: $brand-colour;
+      background-color: $primary-colour;
       color: $white-colour;
-      outline: 3px solid $brand-colour;
+      outline: 3px solid $primary-colour;
       text-decoration: none;
     }
     &:visited:hover,
@@ -31,7 +31,7 @@ a {
     &:hover,
     &:focus {
         color: $white-colour;
-        background-color: $brand-colour;
-        outline: 3px solid $brand-colour;
+        background-color: $primary-colour;
+        outline: 3px solid $primary-colour;
     }
 }

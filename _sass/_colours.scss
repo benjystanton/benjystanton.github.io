@@ -5,7 +5,7 @@ $light-grey-colour:   lighten($text-colour, 70%);
 $medium-grey-colour:  lighten($text-colour, 50%);
 $dark-grey-colour:    lighten($text-colour, 20%);
 $white-colour:        #ffffff;
-$brand-colour:        #007575;
+$primary-colour:        #007575;
 $visited-colour:      $text-colour;
 
 // Background Colours
@@ -32,13 +32,13 @@ $visited-colour:      $text-colour;
   background-color: $white-colour;
 }
 
-.background--brand-colour {
-  background-color: $brand-colour;
+.background--primary-colour {
+  background-color: $primary-colour;
   color: $white-colour;
 }
 
 // Background Colours
 
 .logo svg path {
-  fill: $brand-colour;
+  fill: $primary-colour;
 }
