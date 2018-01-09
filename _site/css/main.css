@@ -121,20 +121,9 @@ li > ol {
 .list-pairs {
   list-style: none;
   margin-left: 0; }
-  @media screen and (min-width: 660px) {
-    .list-pairs {
-      margin-top: 36px; } }
 
 .list-pairs li {
   margin-bottom: 18px; }
-  @media screen and (min-width: 660px) {
-    .list-pairs li {
-      margin-bottom: 36px;
-      width: 50%;
-      padding-right: 72px;
-      float: left; }
-      .list-pairs li:nth-child(odd) {
-        clear: left; } }
 
 .list-pairs__name {
   font-weight: bold; }
@@ -163,7 +152,7 @@ html {
   position: absolute;
   width: 1px; }
 
-.list-pairs:after, .wrapper:after, .row:after {
+.wrapper:after, .row:after {
   content: "";
   display: table;
   clear: both; }
