@@ -34,11 +34,16 @@ https://github.com/benjystanton/benjystanton.github.io
 </ul>
 
 ## Icons
+I'm phasing out these icons. They're not ideal because the mark-up uses the `<i>` tag. I also plan to use SVG icons in future. These are PNGs.
 <ul class="list-inline">
 <li><i class="icon icon-social icon-github"><span class="visuallyhidden">GitHub</span></i></li>
 <li><i class="icon icon-social icon-twitter"><span class="visuallyhidden">Twitter</span></i></li>
 <li><i class="icon icon-social icon-instagram"><span class="visuallyhidden">Instagram</span></i></li>
 </ul>
+
+```
+<i class="icon icon-social icon-instagram"><span class="visuallyhidden">Instagram</span></i>
+```
 
 ***
 
