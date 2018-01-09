@@ -39,7 +39,7 @@ body {
     body {
       font-size: 22px; } }
 
-h1, h2, h3, h4, h5, h6, p, blockquote, pre, ul, ol, dl, figure, .highlight {
+h1, h2, h3, h4, h5, h6, p, blockquote, pre, ul, ol, dl, figure, svg, .highlight {
   margin-bottom: 18px; }
 
 h1, h2, h3, h4, h5, h6 {
@@ -222,12 +222,14 @@ blockquote {
     background-color: #ffffff; }
   .site-header .logo:focus {
     background-color: #ffffff; }
-  @media screen and (min-width: 660px) {
-    .site-header .logo svg {
-      width: 180px; } }
-  @media screen and (min-width: 900px) {
-    .site-header .logo svg {
-      width: 200px; } }
+  .site-header .logo svg {
+    margin-bottom: 0; }
+    @media screen and (min-width: 660px) {
+      .site-header .logo svg {
+        width: 180px; } }
+    @media screen and (min-width: 900px) {
+      .site-header .logo svg {
+        width: 200px; } }
 
 .site-nav {
   margin-top: 12px; }
