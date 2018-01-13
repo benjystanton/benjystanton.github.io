@@ -5,9 +5,50 @@
     <description>UX Designer. Family Man. Music Snob.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 13 Jan 2018 21:25:47 +0000</pubDate>
-    <lastBuildDate>Sat, 13 Jan 2018 21:25:47 +0000</lastBuildDate>
+    <pubDate>Sat, 13 Jan 2018 22:18:06 +0000</pubDate>
+    <lastBuildDate>Sat, 13 Jan 2018 22:18:06 +0000</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
+    
+      <item>
+        <title>Add aria-current to the site nav</title>
+        <description>&lt;p&gt;When browsing the main pages of this site (home, about, blog) the current page link changes style. This helps sighted users to tell which page they’re on. But this feature is invisible to screen reader users. So I’m adding the &lt;code class=&quot;highlighter-rouge&quot;&gt;aria-current&lt;/code&gt; attribute to fix this.&lt;/p&gt;
+
+&lt;h2 id=&quot;user-story&quot;&gt;User story&lt;/h2&gt;
+
+&lt;p&gt;As a screen reader user, I need to know which page I’m on when I’m using the navigation, so that I can find my way around the site.&lt;/p&gt;
+
+&lt;h2 id=&quot;acceptance-criteria&quot;&gt;Acceptance criteria&lt;/h2&gt;
+
+&lt;p&gt;The screen reader will announce “current page” when it reads out the label of the current page in the site navigation.&lt;/p&gt;
+
+&lt;h2 id=&quot;whats-changed&quot;&gt;What’s changed&lt;/h2&gt;
+
+&lt;p&gt;I’ve added the &lt;code class=&quot;highlighter-rouge&quot;&gt;aria-current=&quot;page&quot;&lt;/code&gt; attribute to the current page link in the site nav.&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;nav class=&quot;site-nav&quot; role=&quot;navigation&quot;&amp;gt;
+  &amp;lt;a class=&quot;current page-link&quot; aria-current=&quot;page&quot; href=&quot;/&quot;&amp;gt;Home&amp;lt;/a&amp;gt;
+  &amp;lt;a class=&quot;page-link&quot; href=&quot;/about/&quot;&amp;gt;About&amp;lt;/a&amp;gt;
+  &amp;lt;a class=&quot;page-link&quot; href=&quot;/blog/&quot;&amp;gt;Blog&amp;lt;/a&amp;gt;
+&amp;lt;/nav&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;a href=&quot;/&quot;&gt;Visit the home page to test this out&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;resources&quot;&gt;Resources&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tink.uk/using-the-aria-current-attribute/&quot;&gt;Using the aria-current attribute by Léonie Watson&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://design-patterns.tink.uk/aria-current/&quot;&gt;aria-current design patterns by Léonie Watson&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sat, 13 Jan 2018 21:32:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/add-aria-current/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/add-aria-current/</guid>
+        
+        
+        <category>release-notes</category>
+        
+      </item>
     
       <item>
         <title>Accessibility for designers</title>
@@ -859,40 +900,6 @@
         
         
         <category>ons</category>
-        
-      </item>
-    
-      <item>
-        <title>Creating a digital delivery culture</title>
-        <description>&lt;p&gt;I’m a big fan of this &lt;a href=&quot;https://twitter.com/BenHolliday/status/657085783250227200&quot;&gt;digital delivery culture poster&lt;/a&gt;, from &lt;a href=&quot;https://twitter.com/BenHolliday&quot;&gt;Ben Holliday&lt;/a&gt; and his team at &lt;a href=&quot;https://twitter.com/DWPDigital&quot;&gt;DWP Digital&lt;/a&gt; (Department for Work and Pensions).&lt;/p&gt;
-
-&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Digital delivery culture &amp;gt; How we need to work to make this happen. Starting the conversation… / &lt;a href=&quot;https://twitter.com/DigitalDWP&quot;&gt;@DigitalDWP&lt;/a&gt; &lt;a href=&quot;https://t.co/SJpxh0RiFj&quot;&gt;pic.twitter.com/SJpxh0RiFj&lt;/a&gt;&lt;/p&gt;&amp;mdash; Ben Holliday (@BenHolliday) &lt;a href=&quot;https://twitter.com/BenHolliday/status/657085783250227200&quot;&gt;October 22, 2015&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
-
-&lt;p&gt;In case you can’t access the tweet, here are the points from the poster:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Work in the open&lt;/li&gt;
-  &lt;li&gt;Share, not send&lt;/li&gt;
-  &lt;li&gt;Right people, same room&lt;/li&gt;
-  &lt;li&gt;Less process, more progress&lt;/li&gt;
-  &lt;li&gt;Don’t wait for permission&lt;/li&gt;
-  &lt;li&gt;Show the thing&lt;/li&gt;
-  &lt;li&gt;People, not resources&lt;/li&gt;
-  &lt;li&gt;Build strong communities&lt;/li&gt;
-  &lt;li&gt;Fail fast and learn&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&quot;my-thoughts&quot;&gt;My thoughts&lt;/h2&gt;
-
-&lt;p&gt;I like to look back over design principles like these every now and then. They help me to focus on what’s important. Creating a good culture is really hard, but it’s essential if you need individuals to work together as a team.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 21 Oct 2016 21:50:00 +0100</pubDate>
-        <link>http://localhost:4000/blog/creating-a-digital-delivery-culture/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/creating-a-digital-delivery-culture/</guid>
-        
-        
-        <category>design</category>
         
       </item>
     
