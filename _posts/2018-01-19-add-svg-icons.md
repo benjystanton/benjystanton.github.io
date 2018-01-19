@@ -7,6 +7,9 @@ image: svg-icon.png
 image-alt: An SVG icon surrounded by website text.
 ---
 
+I've been meaning to switch out the old PNG icons on the site for a while. Inline SVG icons are better because they look crisper, can be controlled using CSS and have some performance gains.
+
+
 ## User story
 
 As a user, I need icons to help me recognise social links, so that I can spot links easily and be confident in where they'll take me.
