@@ -5,12 +5,12 @@
     <description>UX Designer. Family Man. Music Snob.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 19 Jan 2018 22:36:08 +0000</pubDate>
-    <lastBuildDate>Fri, 19 Jan 2018 22:36:08 +0000</lastBuildDate>
+    <pubDate>Fri, 19 Jan 2018 22:38:19 +0000</pubDate>
+    <lastBuildDate>Fri, 19 Jan 2018 22:38:19 +0000</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
     
       <item>
-        <title>Add SVG icon to the footer</title>
+        <title>Add SVG icons to the footer</title>
         <description>&lt;p&gt;I’ve been meaning to switch out the old PNG icons on the site for a while. Inline SVG icons are better because they look crisper, can be controlled using CSS and have some performance gains.&lt;/p&gt;
 
 &lt;h2 id=&quot;user-story&quot;&gt;User story&lt;/h2&gt;

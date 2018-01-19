@@ -1,6 +1,6 @@
 ---
 layout: post  
-title: "Add SVG icon to the footer"
+title: "Add SVG icons to the footer"
 date: 2018-01-19 21:58:00  
 categories: release-notes
 image: svg-icon.png
