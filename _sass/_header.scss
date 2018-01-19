@@ -33,6 +33,10 @@
       @include media-query($large) {
         width: 200px;
       }
+      path {
+        fill: $primary-colour;
+      }
+
     }
 }
 

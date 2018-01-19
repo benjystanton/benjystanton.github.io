@@ -1,31 +1,11 @@
 // Icons
 
-.icon {
-  display: inline-block;
-  background-position: 0 0;
-  background-repeat: no-repeat;
-  background-size: 100%;
-  background-color: $white-colour;
+.icon svg {
+  margin-bottom: 0;
+  position: relative;
+  top:0.3em;
 }
 
-.icon-social {
-  width: 25px;
-  height: 25px;
-  vertical-align: middle;
-}
-
-.icon-twitter {
-  background-image: url("/assets/icons/icon-twitter.png");
-}
-
-.icon-github {
-  background-image: url("/assets/icons/icon-github.png");
-}
-
-.icon-dribbble {
-  background-image: url("/assets/icons/icon-dribbble.png");
-}
-
-.icon-instagram {
-  background-image: url("/assets/icons/icon-instagram.png");
+.icon path {
+  fill: $primary-colour;
 }

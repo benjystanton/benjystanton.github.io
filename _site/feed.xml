@@ -5,9 +5,60 @@
     <description>UX Designer. Family Man. Music Snob.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 13 Jan 2018 22:38:05 +0000</pubDate>
-    <lastBuildDate>Sat, 13 Jan 2018 22:38:05 +0000</lastBuildDate>
+    <pubDate>Fri, 19 Jan 2018 22:29:56 +0000</pubDate>
+    <lastBuildDate>Fri, 19 Jan 2018 22:29:56 +0000</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
+    
+      <item>
+        <title>Add SVG icon to the footer</title>
+        <description>&lt;h2 id=&quot;user-story&quot;&gt;User story&lt;/h2&gt;
+
+&lt;p&gt;As a user, I need icons to help me recognise social links, so that I can spot links easily and be confident in where they’ll take me.&lt;/p&gt;
+
+&lt;h2 id=&quot;acceptance-criteria&quot;&gt;Acceptance criteria&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;PNG icons are switched to SVG Icons&lt;/li&gt;
+  &lt;li&gt;SVG colour is controlled via CSS&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jakearchibald.github.io/svgomg/&quot;&gt;SVG is optimised&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://decks.tink.uk/2017/lws/index.html&quot;&gt;SVG is accessible&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Stop using the &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;i&amp;gt;&lt;/code&gt; tag&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;whats-changed&quot;&gt;What’s changed&lt;/h2&gt;
+
+&lt;h3 id=&quot;old-mark-up&quot;&gt;Old mark-up&lt;/h3&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;i class=&quot;icon icon-social icon-instagram&quot;&amp;gt;
+&amp;lt;span class=&quot;visuallyhidden&quot;&amp;gt;Instagram&amp;lt;/span&amp;gt;
+&amp;lt;/i&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&quot;new-markup&quot;&gt;New markup&lt;/h3&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;span class=&quot;icon&quot;&amp;gt;&amp;lt;svg width=&quot;25&quot; viewBox=&quot;0 0 25 25&quot;&amp;gt;
+&amp;lt;g role=&quot;img&quot; aria-labelledby=&quot;twitter-icon-title&quot;&amp;gt;
+&amp;lt;title id=&quot;twitter-icon-title&quot;&amp;gt;Twitter&amp;lt;/title&amp;gt;
+&amp;lt;path d=&quot;M7.8 22.6c8 .1 14.6-6.3 14.6-14.3v-.9c1-.7 1.8-1.6 2.5-2.7-.9.4-1.9.7-3 .8a4.7 4.7 0 0 0 2.2-2.8c-1 .6-2.1 1.1-3.2 1.3a5.1 5.1 0 0 0-7.3-.2c-1 1-1.6 2.3-1.6 3.7l.1 1.1C8.2 8.4 4.4 6.5 1.7 3.3a5 5 0 0 0 1.5 6.8c-.7 0-1.5-.2-2.2-.6v.1c0 2.4 1.7 4.6 4.1 5.1-.7.2-1.5.2-2.3.1a5 5 0 0 0 4.8 3.5 10.5 10.5 0 0 1-6.4 2.2H0c2.3 1.4 5.1 2.1 7.8 2.1&quot;/&amp;gt;
+&amp;lt;/g&amp;gt;
+&amp;lt;/svg&amp;gt;
+&amp;lt;/span&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&quot;performance&quot;&gt;Performance&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;File size is reduced from 1.05 KB to 152 bytes&lt;/li&gt;
+  &lt;li&gt;There is one less http request because we don’t need to load an external image&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 19 Jan 2018 21:58:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/add-svg-icons/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/add-svg-icons/</guid>
+        
+        
+        <category>release-notes</category>
+        
+      </item>
     
       <item>
         <title>Add aria-current to the site nav</title>
@@ -838,68 +889,6 @@
         
         
         <category>research</category>
-        
-      </item>
-    
-      <item>
-        <title>Work with me at Office for National Statistics (ONS)</title>
-        <description>&lt;p&gt;I’ve just finished my second week at ONS. You can &lt;a href=&quot;https://blog.ons.digital/2016/10/21/my-first-week/&quot;&gt;read about my first week on the ONS Digital blog&lt;/a&gt;. My second week was spent kicking off a big new project, more about that soon.&lt;/p&gt;
-
-&lt;h2 id=&quot;were-hiring-designers-and-researchers&quot;&gt;We’re hiring designers and researchers&lt;/h2&gt;
-
-&lt;p&gt;ONS are currently on the look out for &lt;a href=&quot;https://www.civilservicejobs.service.gov.uk/csr/jobs.cgi?jcode=1512692&quot;&gt;2 user experience (UX) designers&lt;/a&gt; and a few &lt;a href=&quot;https://www.civilservicejobs.service.gov.uk/csr/jobs.cgi?jcode=1512654&quot;&gt;user researchers&lt;/a&gt;. The roles are based in either Newport or Titchfield.&lt;/p&gt;
-
-&lt;h2 id=&quot;what-do-ux-designers-do&quot;&gt;What do UX designers do?&lt;/h2&gt;
-&lt;p&gt;The role has different meanings to different people. I really like this &lt;a href=&quot;http://localhost:4000/blog/user-experience-ux-designer-skills/&quot;&gt;list of UX designer skills&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;I don’t think you need to be an expert in all of those things. But, if you are good at a few (and have an appreciation for why the rest are important) then I think you’ll make a good UX designer.&lt;/p&gt;
-
-&lt;h2 id=&quot;open-days&quot;&gt;Open days&lt;/h2&gt;
-
-&lt;p&gt;If you’re interested, but would like to know more, we have 2 open days coming up:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Newport on Tuesday 1 November from 2pm to 7pm&lt;/li&gt;
-  &lt;li&gt;Titchfield on Thursday 3 November from 2pm to 7pm&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.ons.gov.uk/aboutus/contactus/officelocations&quot;&gt;View map and contact details on ONS website&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;whats-it-like-at-ons&quot;&gt;What’s it like at ONS?&lt;/h2&gt;
-
-&lt;p&gt;The main thing that convinced me to work at ONS was this: &lt;a href=&quot;https://productforthepeople.xyz/product-is-a-team-sport-c50d234745e#.uk86uylv5&quot;&gt;Product is a team sport, a talk/blog post by Matt Jukes&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;If you want to get an insight into the culture here at ONS, then I recommend that you take 10 minutes to read that.&lt;/p&gt;
-
-&lt;p&gt;Apart from the working culture and good pay (£35k) there are some great benefits, like:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;flexible working&lt;/li&gt;
-  &lt;li&gt;a Civil Service pension&lt;/li&gt;
-  &lt;li&gt;an on-site nursery at our Newport site&lt;/li&gt;
-  &lt;li&gt;an on-site gym&lt;/li&gt;
-  &lt;li&gt;free car-parking&lt;/li&gt;
-  &lt;li&gt;a training/conference budget&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;I have 3 young kids and I commute from Swansea to Newport each day (50 miles each way). I don’t think I could do this job if it wasn’t for the (actually) flexible working arrangements and support from my managers.&lt;/p&gt;
-
-&lt;h2 id=&quot;apply&quot;&gt;Apply&lt;/h2&gt;
-&lt;p&gt;The closing date for applications is Tuesday 15 November 2016. If you have any questions, feel free to &lt;a href=&quot;https://twitter.com/benjystanton&quot;&gt;direct message (DM) me on Twitter&lt;/a&gt;. My DMs are open.&lt;/p&gt;
-
-&lt;h3 id=&quot;links-to-full-job-descriptions&quot;&gt;Links to full job descriptions&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.civilservicejobs.service.gov.uk/csr/jobs.cgi?jcode=1512692&quot;&gt;User experience (UX) designer&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.civilservicejobs.service.gov.uk/csr/jobs.cgi?jcode=1512654&quot;&gt;User researcher&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Sat, 29 Oct 2016 02:14:00 +0100</pubDate>
-        <link>http://localhost:4000/blog/work-with-me-at-office-for-national-statistics-ons/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/work-with-me-at-office-for-national-statistics-ons/</guid>
-        
-        
-        <category>ons</category>
         
       </item>
     

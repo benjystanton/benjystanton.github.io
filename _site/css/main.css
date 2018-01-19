@@ -19,9 +19,6 @@
   background-color: #007575;
   color: #ffffff; }
 
-.logo svg path {
-  fill: #007575; }
-
 body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure {
   margin: 0;
   padding: 0; }
@@ -229,6 +226,8 @@ blockquote {
     @media screen and (min-width: 900px) {
       .site-header .logo svg {
         width: 200px; } }
+    .site-header .logo svg path {
+      fill: #007575; }
 
 .site-nav {
   margin-top: 12px; }
@@ -540,26 +539,10 @@ button {
   border: 0 none;
   cursor: pointer; }
 
-.icon {
-  display: inline-block;
-  background-position: 0 0;
-  background-repeat: no-repeat;
-  background-size: 100%;
-  background-color: #ffffff; }
+.icon svg {
+  margin-bottom: 0;
+  position: relative;
+  top: 0.3em; }
 
-.icon-social {
-  width: 25px;
-  height: 25px;
-  vertical-align: middle; }
-
-.icon-twitter {
-  background-image: url("/assets/icons/icon-twitter.png"); }
-
-.icon-github {
-  background-image: url("/assets/icons/icon-github.png"); }
-
-.icon-dribbble {
-  background-image: url("/assets/icons/icon-dribbble.png"); }
-
-.icon-instagram {
-  background-image: url("/assets/icons/icon-instagram.png"); }
+.icon path {
+  fill: #007575; }

@@ -151,19 +151,14 @@ alt-text="Pile of poo"
 </ul>
 
 ## Icons
-I'm phasing out these icons. They're not ideal because the mark-up uses the `<i>` tag. I also plan to use SVG icons in future. These are PNGs.
+
+Use SVG icons because they look crisper and can be controlled using CSS.
 
 ```
-<i class="icon icon-social icon-instagram">
-<span class="visuallyhidden">Instagram</span>
-</i>
+<span class="icon">{% include icon-twitter.svg %}</span>
 ```
 
-<ul class="list-inline">
-<li><i class="icon icon-social icon-github"><span class="visuallyhidden">GitHub</span></i></li>
-<li><i class="icon icon-social icon-twitter"><span class="visuallyhidden">Twitter</span></i></li>
-<li><i class="icon icon-social icon-instagram"><span class="visuallyhidden">Instagram</span></i></li>
-</ul>
+<p><span class="icon">{% include icon-twitter.svg %}</span></p>
 
 ***
 
