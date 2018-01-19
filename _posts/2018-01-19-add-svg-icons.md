@@ -37,5 +37,5 @@ As a user, I need icons to help me recognise social links, so that I can spot li
 ```
 
 ### Performance
-- File size is reduced from 1.05 KB to 152 bytes
+- File size is reduced from 1.05 KB to 500 bytes
 - There is one less http request because we don't need to load an external image

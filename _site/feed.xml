@@ -5,8 +5,8 @@
     <description>UX Designer. Family Man. Music Snob.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 19 Jan 2018 22:38:19 +0000</pubDate>
-    <lastBuildDate>Fri, 19 Jan 2018 22:38:19 +0000</lastBuildDate>
+    <pubDate>Fri, 19 Jan 2018 22:41:38 +0000</pubDate>
+    <lastBuildDate>Fri, 19 Jan 2018 22:41:38 +0000</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
     
       <item>
@@ -49,7 +49,7 @@
 
 &lt;h3 id=&quot;performance&quot;&gt;Performance&lt;/h3&gt;
 &lt;ul&gt;
-  &lt;li&gt;File size is reduced from 1.05 KB to 152 bytes&lt;/li&gt;
+  &lt;li&gt;File size is reduced from 1.05 KB to 500 bytes&lt;/li&gt;
   &lt;li&gt;There is one less http request because we don’t need to load an external image&lt;/li&gt;
 &lt;/ul&gt;
 </description>
