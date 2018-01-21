@@ -67,8 +67,6 @@ I collected some data, mainly so that I could play around with styling up key fi
 
 </table>
 
-{{site.data.distance-walked.steps}}
-
 ## Queue time
 
 <table>
