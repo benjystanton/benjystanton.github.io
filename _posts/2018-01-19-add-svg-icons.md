@@ -33,7 +33,9 @@ As a user, I need icons to help me recognise social links, so that I can spot li
 
 ### New HTML
 {% highlight html %}
-<span class="icon">{% include icon-twitter.svg %}</span>
+<span class="icon">
+{% include icon-twitter.svg %}
+</span>
 {% endhighlight %}
 
 ### Performance
