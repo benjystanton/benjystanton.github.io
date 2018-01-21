@@ -24,14 +24,14 @@ As a user, I need icons to help me recognise social links, so that I can spot li
 
 ## What's changed
 
-### Old mark-up
+### Old HTML
 ```
 <i class="icon icon-social icon-instagram">
 <span class="visuallyhidden">Instagram</span>
 </i>
 ```
 
-### New markup
+### New HTML
 ```
 <span class="icon">{% include icon-twitter.svg %}</span>
 ```
