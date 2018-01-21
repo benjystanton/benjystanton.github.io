@@ -25,16 +25,16 @@ As a user, I need icons to help me recognise social links, so that I can spot li
 ## What's changed
 
 ### Old HTML
-```
+{% highlight html %}
 <i class="icon icon-social icon-instagram">
 <span class="visuallyhidden">Instagram</span>
 </i>
-```
+{% endhighlight %}
 
 ### New HTML
-```
+{% highlight html %}
 <span class="icon">{% include icon-twitter.svg %}</span>
-```
+{% endhighlight %}
 
 ### Performance
 - File size is reduced from 1.05 KB to 500 bytes
