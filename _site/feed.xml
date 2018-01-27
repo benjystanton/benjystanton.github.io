@@ -5,9 +5,34 @@
     <description>UX Designer. Family Man. Music Snob.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 27 Jan 2018 21:58:39 +0000</pubDate>
-    <lastBuildDate>Sat, 27 Jan 2018 21:58:39 +0000</lastBuildDate>
+    <pubDate>Sat, 27 Jan 2018 22:46:12 +0000</pubDate>
+    <lastBuildDate>Sat, 27 Jan 2018 22:46:12 +0000</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
+    
+      <item>
+        <title>Change date format</title>
+        <description>&lt;p&gt;The “published on” date sometimes appeared below the post-title and sometimes it appeared above it. I wanted to fix this small inconsistency. I also wanted to take this opportunity to make the date format a bit more natural by removing the leading zero from the date and writing out months in full.&lt;/p&gt;
+
+&lt;h2 id=&quot;user-story&quot;&gt;User story&lt;/h2&gt;
+
+&lt;p&gt;As a user, I need to know when an article was written, to help me decide if the content is still relevant.&lt;/p&gt;
+
+&lt;h2 id=&quot;acceptance-criteria&quot;&gt;Acceptance criteria&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Date format is changed from &lt;code class=&quot;highlighter-rouge&quot;&gt;01 Jan 2018&lt;/code&gt; to &lt;code class=&quot;highlighter-rouge&quot;&gt;1 January 2018&lt;/code&gt; to match the &lt;a href=&quot;https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style#dates&quot;&gt;GDS content style guide&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Use the &lt;a href=&quot;https://shopify.github.io/liquid/filters/date/&quot;&gt;Shopify Liquid&lt;/a&gt; and &lt;a href=&quot;http://strftime.net/&quot;&gt;STRFTIME&lt;/a&gt; resources to control the date format&lt;/li&gt;
+  &lt;li&gt;Date is moved below the title on post pages&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sat, 27 Jan 2018 22:16:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/change-date-format/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/change-date-format/</guid>
+        
+        
+        <category>release-notes</category>
+        
+      </item>
     
       <item>
         <title>Add SVG icons to the footer</title>
@@ -851,46 +876,6 @@
         <category>ux</category>
         
         <category>ons</category>
-        
-      </item>
-    
-      <item>
-        <title>User research activity cards</title>
-        <description>&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/paper-prototyping.png&quot; alt=&quot;Paper prototyping&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;GDS (Government Digital Service) have created this lovely set of user research activity cards. I spotted them stuck up on the wall at ONS (Office for National Statistics).&lt;/p&gt;
-
-&lt;p&gt;After a little bit of poking around online, I found the original file. So here’s the link and a round-up of the activities.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://github.com/alphagov/govdesign/blob/master/Cards_User_Research_Activities.pdf&quot;&gt;Download the GDS user research activity cards&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;activities&quot;&gt;Activities&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Guided tour&lt;/li&gt;
-  &lt;li&gt;Pop-up research&lt;/li&gt;
-  &lt;li&gt;Sketch your idea&lt;/li&gt;
-  &lt;li&gt;Conversation cards&lt;/li&gt;
-  &lt;li&gt;Social network mapping&lt;/li&gt;
-  &lt;li&gt;Affinity mapping&lt;/li&gt;
-  &lt;li&gt;Card sorting&lt;/li&gt;
-  &lt;li&gt;Think aloud&lt;/li&gt;
-  &lt;li&gt;Write a diary&lt;/li&gt;
-  &lt;li&gt;In their environment&lt;/li&gt;
-  &lt;li&gt;Map your use&lt;/li&gt;
-  &lt;li&gt;A day in the life&lt;/li&gt;
-  &lt;li&gt;User persona&lt;/li&gt;
-  &lt;li&gt;Paper prototyping&lt;/li&gt;
-  &lt;li&gt;My user journey&lt;/li&gt;
-  &lt;li&gt;Remote research&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Wed, 09 Nov 2016 19:15:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/user-research-activity-cards/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/user-research-activity-cards/</guid>
-        
-        
-        <category>research</category>
         
       </item>
     

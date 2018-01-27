@@ -65,13 +65,15 @@ Lorem ipsum dolor sit amet, consectetur adip*isicing elit, sed do eiusmod * temp
 
 ### Post meta
 
-Slightly smaller, slightly lighter text.
+Smaller, lighter text used for the "published on" date.
+
+[How to set date formats with Liquid](https://shopify.github.io/liquid/filters/date/).
 
 ```
-<p class="post-meta">9 Jan 2018</p>
+<p class="post-meta">%e %B %Y</p>
 ```
 
-<p class="post-meta">9 Jan 2018</p>
+<p class="post-meta">Style guide last updated on {{ "now" | date: "%e %B %Y" }}</p>
 
 ## Big numbers
 

@@ -99,6 +99,12 @@ small {
   font-size: 16px;
   color: #5b6774; }
 
+.post-header {
+  margin-bottom: 36px; }
+
+.post-header h1 {
+  margin-bottom: 18px; }
+
 ul, ol {
   margin-left: 36px; }
 
