@@ -99,6 +99,14 @@ small {
   color: $dark-grey-colour;
 }
 
+.post-header {
+  margin-bottom: $spacing-unit;
+}
+
+.post-header h1 {
+  margin-bottom: $spacing-unit/2;
+}
+
 // Lists
 
 ul, ol {

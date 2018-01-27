@@ -12,7 +12,7 @@ permalink: /blog/
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
-        <span class="post-meta">{{ post.date | date: "%d %b %Y" }}</span>
+        <span class="post-meta">{{ post.date | date: "%e %B %Y" }}</span>
 
       </li>
     {% endfor %}
