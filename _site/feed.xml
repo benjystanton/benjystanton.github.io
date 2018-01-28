@@ -5,9 +5,35 @@
     <description>UX Designer. Family Man. Music Snob.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 27 Jan 2018 22:46:12 +0000</pubDate>
-    <lastBuildDate>Sat, 27 Jan 2018 22:46:12 +0000</lastBuildDate>
+    <pubDate>Sun, 28 Jan 2018 08:25:31 +0000</pubDate>
+    <lastBuildDate>Sun, 28 Jan 2018 08:25:31 +0000</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
+    
+      <item>
+        <title>Add a list of page layouts</title>
+        <description>&lt;p&gt;I’ve made a lot of changes to the site recently, and some small inconsistencies are creeping in to the page templates. Some very similar pages use different templates. And some layout stuff is stored in individual pages, making it more difficult to manage.&lt;/p&gt;
+
+&lt;p&gt;By adding a list of different page types I can start to make them more consistent.&lt;/p&gt;
+
+&lt;h2 id=&quot;user-story&quot;&gt;User story&lt;/h2&gt;
+
+&lt;p&gt;As a user, I need the website pages to be consistent, so that I can read and browse them easily.&lt;/p&gt;
+
+&lt;h2 id=&quot;acceptance-criteria&quot;&gt;Acceptance criteria&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Add a &lt;a href=&quot;http://www.benjystanton.co.uk/style-guide/#layout-templates&quot;&gt;list of different page types&lt;/a&gt; to the style guide&lt;/li&gt;
+  &lt;li&gt;Include a link to an example for each&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sun, 28 Jan 2018 08:13:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/add-a-list-of-page-layouts/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/add-a-list-of-page-layouts/</guid>
+        
+        
+        <category>release-notes</category>
+        
+      </item>
     
       <item>
         <title>Change date format</title>
@@ -836,41 +862,6 @@
         <pubDate>Sat, 17 Dec 2016 13:16:00 +0000</pubDate>
         <link>http://localhost:4000/blog/retrospective-my-first-2-months/</link>
         <guid isPermaLink="true">http://localhost:4000/blog/retrospective-my-first-2-months/</guid>
-        
-        
-        <category>ux</category>
-        
-        <category>ons</category>
-        
-      </item>
-    
-      <item>
-        <title>User experience (UX) designer objectives</title>
-        <description>&lt;p&gt;We’re working on some objectives for the UX design role at Office for National Statistics (ONS). These are pretty high level, and soon they’ll have specific tasks under each. The tasks will help guide me and the other UX designers, and will be used as a way to monitor performance.&lt;/p&gt;
-
-&lt;p&gt;A well timed visit to the Government Digital Service (GDS) to discuss the role of designers in government has really helped to sharpen up our thinking.&lt;/p&gt;
-
-&lt;p&gt;Does this look like a UX designer to you?&lt;/p&gt;
-
-&lt;h2 id=&quot;ux-designer-objectives&quot;&gt;UX designer objectives&lt;/h2&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Follow a user centered design approach&lt;/li&gt;
-  &lt;li&gt;Use evidence to inform design&lt;/li&gt;
-  &lt;li&gt;Create prototypes and iterate designs&lt;/li&gt;
-  &lt;li&gt;Work as part of an agile team&lt;/li&gt;
-  &lt;li&gt;Be part of the community&lt;/li&gt;
-  &lt;li&gt;Communicate effectively&lt;/li&gt;
-  &lt;li&gt;Learn new skills and improve existing ones&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&quot;further-reading&quot;&gt;Further reading&lt;/h3&gt;
-
-&lt;p&gt;You might be interested in this &lt;a href=&quot;http://localhost:4000/blog/user-experience-ux-designer-skills/&quot;&gt;post about UX designer skills&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 18 Nov 2016 22:22:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/user-experience-ux-designer-objectives/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/user-experience-ux-designer-objectives/</guid>
         
         
         <category>ux</category>
