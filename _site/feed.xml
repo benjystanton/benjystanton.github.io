@@ -5,8 +5,8 @@
     <description>UX Designer. Family Man. Music Snob.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 29 Jan 2018 07:07:17 +0000</pubDate>
-    <lastBuildDate>Mon, 29 Jan 2018 07:07:17 +0000</lastBuildDate>
+    <pubDate>Mon, 29 Jan 2018 23:04:52 +0000</pubDate>
+    <lastBuildDate>Mon, 29 Jan 2018 23:04:52 +0000</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
     
       <item>
@@ -38,17 +38,37 @@
       <item>
         <title>January 2018 links</title>
         <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://lawsofux.com/&quot;&gt;Laws of UX&lt;/a&gt;, Jon Yablonski&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.mearso.co.uk/blog/todo-system.html&quot;&gt;Todo list system&lt;/a&gt;, Mearso&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.sarasoueidan.com/blog/svg-coordinate-systems/&quot;&gt;Understanding SVG Coordinate Systems and Transformations&lt;/a&gt;, Sara Soueidan&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://quotesandaccents.com/&quot;&gt;Quotes &amp;amp; Accents&lt;/a&gt;, Jessica Hische&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/@BenHolliday/seniority-in-design-5169a39465c8&quot;&gt;Seniority in design&lt;/a&gt;, Ben Holliday&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://uxdesign.cc/designing-tables-for-reusability-490a3760533&quot;&gt;Designing Tables for Reusability&lt;/a&gt;, Havana Nguyen&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://w3c.github.io/using-aria/#checklist&quot;&gt;Custom Control Accessible Development Checklist:&lt;/a&gt;, W3C&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.asana.com/2017/12/things-welcome-new-employees-managers-do/&quot;&gt;You’re hired: 6 ways to welcome your new employee on their first day&lt;/a&gt;, Asana&lt;/li&gt;
+  
+  &lt;li&gt;&lt;a href=&quot;https://lawsofux.com/&quot;&gt;Laws of UX&lt;/a&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;a href=&quot;https://www.mearso.co.uk/blog/todo-system.html&quot;&gt;Todo list system&lt;/a&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;a href=&quot;https://www.sarasoueidan.com/blog/svg-coordinate-systems/&quot;&gt;Understanding SVG Coordinate Systems and Transformations&lt;/a&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;a href=&quot;http://quotesandaccents.com/&quot;&gt;Quotes &amp;amp; Accents&lt;/a&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@BenHolliday/seniority-in-design-5169a39465c8&quot;&gt;Seniority in design&lt;/a&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;a href=&quot;https://uxdesign.cc/designing-tables-for-reusability-490a3760533&quot;&gt;Designing Tables for Reusability&lt;/a&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;a href=&quot;https://w3c.github.io/using-aria/#checklist&quot;&gt;Custom Control Accessible Development Checklist&lt;/a&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;a href=&quot;https://blog.asana.com/2017/12/things-welcome-new-employees-managers-do/&quot;&gt;You’re hired: 6 ways to welcome your new employee on their first day&lt;/a&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;a href=&quot;http://thecooperreview.com/meeting-achievement-stickers/&quot;&gt;Meeting Achievement Stickers&lt;/a&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;a href=&quot;https://hodigital.blog.gov.uk/2017/07/31/types-and-stages-of-services/&quot;&gt;Types and stages of services&lt;/a&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;a href=&quot;https://hodigital.blog.gov.uk/2017/08/04/what-we-mean-by-service-outcomes-and-measurement/&quot;&gt;What we mean by service outcomes and measurement&lt;/a&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;a href=&quot;https://hodigital.blog.gov.uk/2016/12/21/creating-a-common-language-to-describe-services/&quot;&gt;Creating a common language to describe services&lt;/a&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;a href=&quot;http://www.emailcharter.org/&quot;&gt;Email charter&lt;/a&gt;&lt;/li&gt;
+  
 &lt;/ul&gt;
+
 </description>
-        <pubDate>Sun, 28 Jan 2018 06:55:00 +0000</pubDate>
+        <pubDate>Sun, 28 Jan 2018 00:00:00 +0000</pubDate>
         <link>http://localhost:4000/blog/january-2018-links/</link>
         <guid isPermaLink="true">http://localhost:4000/blog/january-2018-links/</guid>
         
@@ -179,18 +199,29 @@
       <item>
         <title>December 2017 links</title>
         <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://designnotes.blog.gov.uk/2017/12/01/design-in-the-parliamentary-digital-service/&quot;&gt;Design in: the Parliamentary Digital Service&lt;/a&gt;, Design notes, Government Digital Service&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://24ways.org/2017/wcag-for-people-who-havent-read-them/&quot;&gt;Web Content Accessibility Guidelines—for People Who Haven’t Read Them&lt;/a&gt;, 24 ways&lt;/li&gt;
+  
+  &lt;li&gt;&lt;a href=&quot;https://designnotes.blog.gov.uk/2017/12/01/design-in-the-parliamentary-digital-service/&quot;&gt;Design in: the Parliamentary Digital Service&lt;/a&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;a href=&quot;https://24ways.org/2017/wcag-for-people-who-havent-read-them/&quot;&gt;Web Content Accessibility Guidelines—for People Who Haven't Read Them&lt;/a&gt;&lt;/li&gt;
+  
   &lt;li&gt;&lt;a href=&quot;https://joemc.gr/2017/12/03/getting-remote-friendly/&quot;&gt;Getting remote-friendly&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://userresearch.blog.gov.uk/2017/12/05/understanding-the-needs-of-service-data-users/&quot;&gt;Understanding the needs of service data users&lt;/a&gt;, User research, Government Digital Service&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.24a11y.com/2017/wcag-2-1-silver-ag-next-accessibility-guidelines/&quot;&gt;WCAG 2.1 and Silver (AG): What is Next for Accessibility Guidelines&lt;/a&gt;, 24 Accessibility&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2017/12/design-workouts-world-class-teams/&quot;&gt;Using Design Workouts To Build World-Class Design Teams&lt;/a&gt;, Smashing Magazine&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.w3.org/TR/svg-aam-1.0/&quot;&gt;SVG Accessibility API Mappings&lt;/a&gt;, W3C&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://alistapart.com/article/web-typography-numerals&quot;&gt;Web Typography: Numerals&lt;/a&gt;, A List Apart&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.w3.org/TR/csvw-html/&quot;&gt;Embedding Tabular Metadata in HTML&lt;/a&gt;, W3C&lt;/li&gt;
+  
+  &lt;li&gt;&lt;a href=&quot;https://userresearch.blog.gov.uk/2017/12/05/understanding-the-needs-of-service-data-users/&quot;&gt;Understanding the needs of service data users&lt;/a&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;a href=&quot;https://www.24a11y.com/2017/wcag-2-1-silver-ag-next-accessibility-guidelines/&quot;&gt;WCAG 2.1 and Silver (AG): What is Next for Accessibility Guidelines&lt;/a&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2017/12/design-workouts-world-class-teams/&quot;&gt;Using Design Workouts To Build World-Class Design Teams&lt;/a&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;a href=&quot;https://www.w3.org/TR/svg-aam-1.0/&quot;&gt;SVG Accessibility API Mappings&lt;/a&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;a href=&quot;https://alistapart.com/article/web-typography-numerals&quot;&gt;Web Typography: Numerals&lt;/a&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;a href=&quot;https://www.w3.org/TR/csvw-html/&quot;&gt;Embedding Tabular Metadata in HTML&lt;/a&gt;&lt;/li&gt;
+  
 &lt;/ul&gt;
+
 </description>
-        <pubDate>Sun, 31 Dec 2017 06:48:00 +0000</pubDate>
+        <pubDate>Sun, 31 Dec 2017 00:00:00 +0000</pubDate>
         <link>http://localhost:4000/blog/december-2017-links/</link>
         <guid isPermaLink="true">http://localhost:4000/blog/december-2017-links/</guid>
         
@@ -393,11 +424,15 @@
       <item>
         <title>November 2017 links</title>
         <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://gds.blog.gov.uk/2014/09/03/vertical-campfires-our-user-research-walls/&quot;&gt;Vertical campfires: our user research walls&lt;/a&gt;, Government Digital Service&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://designnotes.blog.gov.uk/2017/11/27/using-design-crits-to-improve-collaboration/&quot;&gt;Using design crits to improve collaboration&lt;/a&gt;, Design notes, Government Digital Service&lt;/li&gt;
+  
+  &lt;li&gt;&lt;a href=&quot;https://gds.blog.gov.uk/2014/09/03/vertical-campfires-our-user-research-walls/&quot;&gt;Vertical campfires: our user research walls&lt;/a&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;a href=&quot;https://designnotes.blog.gov.uk/2017/11/27/using-design-crits-to-improve-collaboration/&quot;&gt;Using design crits to improve collaboration&lt;/a&gt;&lt;/li&gt;
+  
 &lt;/ul&gt;
+
 </description>
-        <pubDate>Thu, 30 Nov 2017 06:48:00 +0000</pubDate>
+        <pubDate>Thu, 30 Nov 2017 00:00:00 +0000</pubDate>
         <link>http://localhost:4000/blog/november-2017-links/</link>
         <guid isPermaLink="true">http://localhost:4000/blog/november-2017-links/</guid>
         
