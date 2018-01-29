@@ -5,9 +5,31 @@
     <description>UX Designer. Family Man. Music Snob.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 27 Jan 2018 22:46:12 +0000</pubDate>
-    <lastBuildDate>Sat, 27 Jan 2018 22:46:12 +0000</lastBuildDate>
+    <pubDate>Mon, 29 Jan 2018 07:06:58 +0000</pubDate>
+    <lastBuildDate>Mon, 29 Jan 2018 07:06:58 +0000</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
+    
+      <item>
+        <title>January 2018 links</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://lawsofux.com/&quot;&gt;Laws of UX&lt;/a&gt;, Jon Yablonski&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.mearso.co.uk/blog/todo-system.html&quot;&gt;Todo list system&lt;/a&gt;, Mearso&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.sarasoueidan.com/blog/svg-coordinate-systems/&quot;&gt;Understanding SVG Coordinate Systems and Transformations&lt;/a&gt;, Sara Soueidan&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://quotesandaccents.com/&quot;&gt;Quotes &amp;amp; Accents&lt;/a&gt;, Jessica Hische&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@BenHolliday/seniority-in-design-5169a39465c8&quot;&gt;Seniority in design&lt;/a&gt;, Ben Holliday&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://uxdesign.cc/designing-tables-for-reusability-490a3760533&quot;&gt;Designing Tables for Reusability&lt;/a&gt;, Havana Nguyen&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://w3c.github.io/using-aria/#checklist&quot;&gt;Custom Control Accessible Development Checklist:&lt;/a&gt;, W3C&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.asana.com/2017/12/things-welcome-new-employees-managers-do/&quot;&gt;You’re hired: 6 ways to welcome your new employee on their first day&lt;/a&gt;, Asana&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sun, 28 Jan 2018 06:55:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/january-2018-links/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/january-2018-links/</guid>
+        
+        
+        <category>links</category>
+        
+      </item>
     
       <item>
         <title>Change date format</title>
@@ -125,6 +147,29 @@
         
         
         <category>release-notes</category>
+        
+      </item>
+    
+      <item>
+        <title>December 2017 links</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://designnotes.blog.gov.uk/2017/12/01/design-in-the-parliamentary-digital-service/&quot;&gt;Design in: the Parliamentary Digital Service&lt;/a&gt;, Design notes, Government Digital Service&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://24ways.org/2017/wcag-for-people-who-havent-read-them/&quot;&gt;Web Content Accessibility Guidelines—for People Who Haven’t Read Them&lt;/a&gt;, 24 ways&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://joemc.gr/2017/12/03/getting-remote-friendly/&quot;&gt;Getting remote-friendly&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://userresearch.blog.gov.uk/2017/12/05/understanding-the-needs-of-service-data-users/&quot;&gt;Understanding the needs of service data users&lt;/a&gt;, User research, Government Digital Service&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.24a11y.com/2017/wcag-2-1-silver-ag-next-accessibility-guidelines/&quot;&gt;WCAG 2.1 and Silver (AG): What is Next for Accessibility Guidelines&lt;/a&gt;, 24 Accessibility&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2017/12/design-workouts-world-class-teams/&quot;&gt;Using Design Workouts To Build World-Class Design Teams&lt;/a&gt;, Smashing Magazine&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.w3.org/TR/svg-aam-1.0/&quot;&gt;SVG Accessibility API Mappings&lt;/a&gt;, W3C&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://alistapart.com/article/web-typography-numerals&quot;&gt;Web Typography: Numerals&lt;/a&gt;, A List Apart&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.w3.org/TR/csvw-html/&quot;&gt;Embedding Tabular Metadata in HTML&lt;/a&gt;, W3C&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sun, 31 Dec 2017 06:48:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/december-2017-links/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/december-2017-links/</guid>
+        
+        
+        <category>links</category>
         
       </item>
     
@@ -316,6 +361,22 @@
         <category>ons</category>
         
         <category>design</category>
+        
+      </item>
+    
+      <item>
+        <title>November 2017 links</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gds.blog.gov.uk/2014/09/03/vertical-campfires-our-user-research-walls/&quot;&gt;Vertical campfires: our user research walls&lt;/a&gt;, Government Digital Service&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://designnotes.blog.gov.uk/2017/11/27/using-design-crits-to-improve-collaboration/&quot;&gt;Using design crits to improve collaboration&lt;/a&gt;, Design notes, Government Digital Service&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Thu, 30 Nov 2017 06:48:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/november-2017-links/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/november-2017-links/</guid>
+        
+        
+        <category>links</category>
         
       </item>
     
@@ -668,214 +729,6 @@
         
         
         <category>personal</category>
-        
-      </item>
-    
-      <item>
-        <title>My 12 year quest to get a public service design job</title>
-        <description>&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/walter-and-muppets.png&quot; alt=&quot;Walter and The Muppets&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;There have been a lot of “I’m leaving government posts” recently.&lt;/p&gt;
-
-&lt;p&gt;It feels a bit weird because I’ve been trying for years to get in.&lt;/p&gt;
-
-&lt;p&gt;I don’t think I ever had a master plan, but looking back there were some interesting moments that lead me here. So here goes…&lt;/p&gt;
-
-&lt;h2 id=&quot;my-first-design-job&quot;&gt;My first design job&lt;/h2&gt;
-
-&lt;p&gt;When I first started in design, back in 2004, I remember worrying that being a designer was a soulless profession.&lt;/p&gt;
-
-&lt;p&gt;My parents were both in healthcare. And there I was; designing little websites and putting client’s logos on promotional mugs.&lt;/p&gt;
-
-&lt;p&gt;I failed to see how I was helping to make the world a better place.&lt;/p&gt;
-
-&lt;p&gt;There was something about web design that drew me in though. I started to get excited about the open source movement, and how the web enabled anybody to publish and share content.&lt;/p&gt;
-
-&lt;h2 id=&quot;public-services-designed-without-designers-gasp&quot;&gt;Public services designed without designers (gasp!)&lt;/h2&gt;
-
-&lt;p&gt;Fast forward a couple of jobs and I was working at a branding agency. We were conducting stakeholder interviews with a Welsh public sector organisation.&lt;/p&gt;
-
-&lt;p&gt;They were showing us their latest software and it was painfully obvious that there were no designers working with their teams.&lt;/p&gt;
-
-&lt;p&gt;They just didn’t see design as something that should be integrated into the software development process.&lt;/p&gt;
-
-&lt;p&gt;It freaked me out.&lt;/p&gt;
-
-&lt;p&gt;These were services that I might need to use one day. I could see that they weren’t following any kind of usability or web standards.&lt;/p&gt;
-
-&lt;p&gt;I knew I had the skills to help, but I had no idea how to get involved.&lt;/p&gt;
-
-&lt;h2 id=&quot;government-digital-service-gds&quot;&gt;Government Digital Service (GDS)&lt;/h2&gt;
-
-&lt;p&gt;Luckily there were a bunch of people who were figuring it out for me.&lt;/p&gt;
-
-&lt;p&gt;GDS was starting to make a real buzz in the web design community and I instantly fell in love with their world of design principles, service standards and laptop stickers.&lt;/p&gt;
-
-&lt;p&gt;Something clicked, and I realised that I could be a “web” designer and still do work that matters. I just needed a way for a massive public sector organisation to hire me.&lt;/p&gt;
-
-&lt;p&gt;Also, I didn’t want to move out of Swansea. Hmm.&lt;/p&gt;
-
-&lt;h2 id=&quot;comrade-paul-pod&quot;&gt;Comrade Paul Pod&lt;/h2&gt;
-
-&lt;p&gt;A while later I was freelancing and I came across a tweet by &lt;a href=&quot;https://twitter.com/paulpod&quot;&gt;Paul Pod&lt;/a&gt;. He was looking for user experience (UX) people in South Wales to join him at DVLA. We met a couple of times and chatted about the possibility of me working with him. For one reason or another it didn’t really go anywhere.&lt;/p&gt;
-
-&lt;p&gt;I think often, the easiest way to get into these types of roles is to be contracted in as part of a big external software agency.&lt;/p&gt;
-
-&lt;h2 id=&quot;leadin-and-dvla&quot;&gt;Leadin and DVLA&lt;/h2&gt;
-
-&lt;p&gt;As luck would have it, &lt;a href=&quot;http://leadin.fi/&quot;&gt;Leadin&lt;/a&gt; (a Finnish service design company) were establishing themselves in the UK with Swansea as their base. They’d won a contract with DVLA and hired me to work with their other UX designers.&lt;/p&gt;
-
-&lt;p&gt;For about a year I worked at DVLA as a Leadin employee. With the support of Leadin and Paul Pod, I got to grips with working in government on digital service design.&lt;/p&gt;
-
-&lt;p&gt;I became hooked on the ways of working that GDS helped introduce:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;user needs&lt;/li&gt;
-  &lt;li&gt;designers working in agile teams&lt;/li&gt;
-  &lt;li&gt;rapid prototyping&lt;/li&gt;
-  &lt;li&gt;design patterns&lt;/li&gt;
-  &lt;li&gt;laptop stickers&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;It was addictive. I realised that somehow, I needed to keep working in this way.&lt;/p&gt;
-
-&lt;h2 id=&quot;matt-jukes-talk-at-design-swansea&quot;&gt;Matt Jukes’ talk at Design Swansea&lt;/h2&gt;
-
-&lt;p&gt;I’d seen &lt;a href=&quot;https://twitter.com/jukesie&quot;&gt;Matt Jukes&lt;/a&gt; speak at Port80 back in 2014. Little did I know back then that I’d end up working on the new website he’d helped to launch.&lt;/p&gt;
-
-&lt;p&gt;In 2016 I asked him to speak at Design Swansea (a meetup that I help organise). He gave his &lt;a href=&quot;https://productforthepeople.xyz/product-is-a-team-sport-c50d234745e#.g3eauj6qu&quot;&gt;product is a team sport&lt;/a&gt; talk.&lt;/p&gt;
-
-&lt;p&gt;He painted a picture of the culture at ONS, especially within the digital publishing department.&lt;/p&gt;
-
-&lt;p&gt;He spoke about:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;the digital publishing department’s principles&lt;/li&gt;
-  &lt;li&gt;taking time to hire the right people&lt;/li&gt;
-  &lt;li&gt;posters on walls&lt;/li&gt;
-  &lt;li&gt;blogging and working in the open&lt;/li&gt;
-  &lt;li&gt;also, he brought laptop stickers&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;All this stuff rang true for me, and I remember thinking that I really wanted to work there.&lt;/p&gt;
-
-&lt;p&gt;A few months later they posted a job, I had to try applying.&lt;/p&gt;
-
-&lt;h2 id=&quot;joining-ons&quot;&gt;Joining ONS&lt;/h2&gt;
-
-&lt;p&gt;So, I’ve been at ONS for about 4 months now.&lt;/p&gt;
-
-&lt;p&gt;Working with service manager &lt;a href=&quot;https://twitter.com/mr_dudders&quot;&gt;Andy Dudfield&lt;/a&gt; and his team in the digital publishing department.&lt;/p&gt;
-
-&lt;p&gt;Why is it so great? It combines the best bits of all my previous jobs and more:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;I get to work with a talented, engaged team … on stuff that matters&lt;/li&gt;
-  &lt;li&gt;the work is constantly challenging and the standard is high&lt;/li&gt;
-  &lt;li&gt;we are encouraged to work in the open and share what we do&lt;/li&gt;
-  &lt;li&gt;nobody is micromanaged or forced to do overtime&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;… and there are loads of laptop stickers.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 17 Feb 2017 22:38:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/my-12-year-quest/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/my-12-year-quest/</guid>
-        
-        
-        <category>ons</category>
-        
-      </item>
-    
-      <item>
-        <title>Retrospective (my first 2 months)</title>
-        <description>&lt;p&gt;It’s been 2 months since I started at ONS (Office for National Statistics). Generally speaking, I’m pleased with how I’m doing. I’m excited by the work and the team are great.&lt;/p&gt;
-
-&lt;p&gt;Here’s a quick retrospective that I’m going to turn into my New Year’s resolutions.&lt;/p&gt;
-
-&lt;h2 id=&quot;keep-doing&quot;&gt;Keep doing&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Feeding research findings back into the design process&lt;/li&gt;
-  &lt;li&gt;Working with the team to design and iterate together&lt;/li&gt;
-  &lt;li&gt;Met with lots of people and teams&lt;/li&gt;
-  &lt;li&gt;Blogging (although this has slowed down)&lt;/li&gt;
-  &lt;li&gt;Designing in the open (again, could do more)&lt;/li&gt;
-  &lt;li&gt;Getting design evidence from a range of sources (analytics, surveys, usability testing, subject matter experts and lessons learned from previous projects)&lt;/li&gt;
-  &lt;li&gt;Show and tells, stand-ups and team walls are working well&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;need-to-improve&quot;&gt;Need to improve&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Need an improved research rhythm&lt;/li&gt;
-  &lt;li&gt;Need to recruit more users&lt;/li&gt;
-  &lt;li&gt;I’m getting stressed out by the competing priorities&lt;/li&gt;
-  &lt;li&gt;Need to be better at switching contexts, focus on one task at a time&lt;/li&gt;
-  &lt;li&gt;Need to accept criticism without taking it personally&lt;/li&gt;
-  &lt;li&gt;Need to break for lunch and eat properly&lt;/li&gt;
-  &lt;li&gt;Need more exercise&lt;/li&gt;
-  &lt;li&gt;Falling behind with training&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;actions&quot;&gt;Actions&lt;/h2&gt;
-
-&lt;h3 id=&quot;research-rhythm&quot;&gt;Research rhythm&lt;/h3&gt;
-&lt;p&gt;Work even more closely with researcher to make sure we get more momentum in our research schedule. Try more varied research techniques.&lt;/p&gt;
-
-&lt;h3 id=&quot;work-from-home-more&quot;&gt;Work from home more&lt;/h3&gt;
-&lt;p&gt;Try working from home on the first Monday of every sprint. This way I can do the school run. Plus catch up on emails, training and writing blog posts. Anything that requires peace and quiet.&lt;/p&gt;
-
-&lt;h3 id=&quot;prototype-in-code&quot;&gt;Prototype in code&lt;/h3&gt;
-&lt;p&gt;Iterating designs on paper and in Sketch app is working well, but InVision prototypes are too limited to test everything. Easier to re-use code than clickable prototypes. It’s hard to design for accessibility and control things like URL names in InVision and these things are important to the overall user experience. This work should all contribute to the elements and patterns library.&lt;/p&gt;
-
-&lt;h3 id=&quot;manage-business-as-usual-work-better&quot;&gt;Manage “business as usual” work better&lt;/h3&gt;
-&lt;p&gt;There are lots of small projects that fall outside of the main work I’m doing. I could facilitate meetings with business areas so that we quickly sketch design solutions there and then. I need to come away from meetings with a clearer idea of what I need to design. The team need a clearer idea of what I’m planning to do. I need to keep track of this work somehow on the “business as usual” board.&lt;/p&gt;
-
-&lt;h3 id=&quot;go-for-walks&quot;&gt;Go for walks&lt;/h3&gt;
-&lt;p&gt;Try going for walks at lunchtime. Find out how to get into grounds of Tredegar House.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 17 Dec 2016 13:16:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/retrospective-my-first-2-months/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/retrospective-my-first-2-months/</guid>
-        
-        
-        <category>ux</category>
-        
-        <category>ons</category>
-        
-      </item>
-    
-      <item>
-        <title>User experience (UX) designer objectives</title>
-        <description>&lt;p&gt;We’re working on some objectives for the UX design role at Office for National Statistics (ONS). These are pretty high level, and soon they’ll have specific tasks under each. The tasks will help guide me and the other UX designers, and will be used as a way to monitor performance.&lt;/p&gt;
-
-&lt;p&gt;A well timed visit to the Government Digital Service (GDS) to discuss the role of designers in government has really helped to sharpen up our thinking.&lt;/p&gt;
-
-&lt;p&gt;Does this look like a UX designer to you?&lt;/p&gt;
-
-&lt;h2 id=&quot;ux-designer-objectives&quot;&gt;UX designer objectives&lt;/h2&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Follow a user centered design approach&lt;/li&gt;
-  &lt;li&gt;Use evidence to inform design&lt;/li&gt;
-  &lt;li&gt;Create prototypes and iterate designs&lt;/li&gt;
-  &lt;li&gt;Work as part of an agile team&lt;/li&gt;
-  &lt;li&gt;Be part of the community&lt;/li&gt;
-  &lt;li&gt;Communicate effectively&lt;/li&gt;
-  &lt;li&gt;Learn new skills and improve existing ones&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&quot;further-reading&quot;&gt;Further reading&lt;/h3&gt;
-
-&lt;p&gt;You might be interested in this &lt;a href=&quot;http://localhost:4000/blog/user-experience-ux-designer-skills/&quot;&gt;post about UX designer skills&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 18 Nov 2016 22:22:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/user-experience-ux-designer-objectives/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/user-experience-ux-designer-objectives/</guid>
-        
-        
-        <category>ux</category>
-        
-        <category>ons</category>
         
       </item>
     
