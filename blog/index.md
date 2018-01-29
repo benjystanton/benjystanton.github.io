@@ -4,9 +4,9 @@ title: Blog
 permalink: /blog/
 ---
 
-  <p class="margin-bottom--m"><a href="category">View all categories →</a></p>
+  <p><a href="category">View all categories →</a></p>
 
-  <ul class="post-list">
+  <ul class="post-list margin-top--s">
     {% for post in site.posts %}
       <li>
         <h2>
