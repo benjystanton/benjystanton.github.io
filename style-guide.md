@@ -85,7 +85,7 @@ Smaller, lighter text used for the "published on" date.
 <p class="post-meta">%e %B %Y</p>
 ```
 
-<p class="post-meta">Style guide last updated on {{ "now" | date: "%e %B %Y" }}</p>
+<p class="post-meta">Website last updated on {{ "now" | date: "%e %B %Y" }}</p>
 
 ## Big numbers
 
