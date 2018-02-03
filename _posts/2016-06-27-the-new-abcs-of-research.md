@@ -1,5 +1,5 @@
 ---
-layout: post  
+layout: page   
 title: The New ABCs of Research by Ben Schneiderman
 date: 2016-06-21 16:30:00  
 categories: conferences research design

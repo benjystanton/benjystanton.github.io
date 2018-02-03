@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page 
 title: 30 things done before I’m 30
 date: 2013-06-10 11:05:56
 categories: personal

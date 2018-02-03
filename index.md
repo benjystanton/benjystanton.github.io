@@ -1,9 +1,7 @@
 ---
-layout: default
-title: Benjy Stanton – User experience designer
+layout: page
+title: My name is Benjy and I’m a user experience designer
 ---
-
-# My name is Benjy and I’m a user experience designer
 
 I'm the lead user experience designer on the Office for National Statistics (ONS) website. Check out the [ONS digital blog](http://digitalblog.ons.gov.uk/).
 

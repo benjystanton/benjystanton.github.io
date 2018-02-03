@@ -1,5 +1,5 @@
 ---
-layout: post  
+layout: page   
 title: Should designers design content?
 date: 2016-07-28 15:07:00  
 categories: content design

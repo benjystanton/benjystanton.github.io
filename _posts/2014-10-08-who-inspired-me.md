@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page 
 title: Who inspired me
 date: 2014-10-08 13:09:08
 categories: personal

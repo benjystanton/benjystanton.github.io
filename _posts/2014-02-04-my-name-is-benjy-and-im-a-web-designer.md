@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page 
 title: My name is Benjy and I’m a web designer
 date: 2014-02-04 10:03:02
 categories: design

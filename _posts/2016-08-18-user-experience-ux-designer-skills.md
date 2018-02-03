@@ -1,5 +1,5 @@
 ---
-layout: post  
+layout: page   
 title: User experience (UX) designer skills
 date: 2016-08-18 16:06:00  
 categories: ux

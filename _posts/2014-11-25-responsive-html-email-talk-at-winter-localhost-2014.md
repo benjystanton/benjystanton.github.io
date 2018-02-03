@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page 
 title: Responsive HTML email talk at Winter LocalHost 2014
 date: 2014-11-25 21:10:07
 categories: design email speaking meetup
