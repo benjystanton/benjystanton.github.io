@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page 
 title: Finding work and managing money as a freelancer
 date: 2015-03-09 22:05:22
 categories: conferences design freelance

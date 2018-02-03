@@ -1,5 +1,5 @@
 ---
-layout: post  
+layout: page   
 title: Visual note-taking  with Eleanor Beer
 date: 2016-08-30 13:23:00  
 categories: meetup

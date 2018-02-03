@@ -1,5 +1,5 @@
 ---
-layout: post  
+layout: page   
 title: Disney data
 date: 2017-09-22 11:51:00  
 categories: personal

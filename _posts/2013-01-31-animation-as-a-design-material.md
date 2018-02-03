@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page 
 title: Animation as a design&nbsp;material
 date: 2013-01-31 23:21:00
 categories: design animation

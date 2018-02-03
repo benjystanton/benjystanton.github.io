@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page 
 title: Longbridge Device Lab
 date: 2014-08-29 13:05:42
 categories: design open

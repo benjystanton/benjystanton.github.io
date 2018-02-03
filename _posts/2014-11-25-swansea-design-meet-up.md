@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page 
 title: Swansea design meet-up
 date: 2014-11-25 9:16:32
 categories: design meetup

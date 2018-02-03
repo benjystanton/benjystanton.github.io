@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page 
 title: Freelancing and switching off
 date: 2014-06-02 23:48:20
 categories: freelance personal

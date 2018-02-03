@@ -1,5 +1,5 @@
 ---
-layout: post  
+layout: page   
 title: Retrospective (my first 2 months)
 date: 2016-12-17 13:16:00  
 categories: ux ons

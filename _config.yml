@@ -15,3 +15,11 @@ markdown: kramdown
 # Outputting
 permalink: /blog/:title/ # change default permalink structure to /blog/title-of-blog.html
 post_dirs: true
+
+defaults:
+  -
+    scope:
+      path: ""      # empty string for all files
+      type: posts   # limit to posts
+    values:
+      is_post: true # automatically set is_post=true for all posts

@@ -1,5 +1,5 @@
 ---
-layout: post  
+layout: page   
 title: Great service (design) at Premier Inn  
 date: 2016-03-26 20:50:00  
 categories: personal design

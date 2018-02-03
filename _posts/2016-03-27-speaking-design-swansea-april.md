@@ -1,5 +1,5 @@
 ---
-layout: post  
+layout: page   
 title: Speaking at Design Swansea in April  
 date: 2016-03-27 20:50:00  
 categories: ux design speaking meetup
