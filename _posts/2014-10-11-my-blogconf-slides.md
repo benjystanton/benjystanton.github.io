@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page 
 title: My BlogConf slides
 date: 2014-10-11 21:01:51
 categories: design conferences speaking

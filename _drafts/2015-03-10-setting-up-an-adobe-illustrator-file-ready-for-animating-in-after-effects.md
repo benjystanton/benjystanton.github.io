@@ -1,7 +1,7 @@
 ---
 title: Setting up an Adobe Illustrator file ready for animating in After Effects
 author: benjystanton
-layout: post
+layout: page 
 permalink: /blog/setting-up-an-adobe-illustrator-file-ready-for-animating-in-after-effects/
 categories:
   - Animation

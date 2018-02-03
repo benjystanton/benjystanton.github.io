@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page 
 title: BBC Newsnight talks graphic design and infographics
 date:   2010-08-10 12:46:00
 categories: design

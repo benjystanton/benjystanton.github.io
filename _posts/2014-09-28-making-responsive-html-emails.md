@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page 
 title: Making responsive HTML emails
 date: 2014-09-28 20:04:40
 categories: design email

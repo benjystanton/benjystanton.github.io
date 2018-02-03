@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page 
 title: Crafting animation on the web (an introduction)
 date: 2013-03-02 20:51:00
 categories: design animation speaking

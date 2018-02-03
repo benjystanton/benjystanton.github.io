@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page 
 title: Design is an actual job
 date: 2012-10-07 05:13:00
 categories: design

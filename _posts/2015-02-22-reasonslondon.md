@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page 
 title: Reasons&#58; London
 date: 2015-02-22 21:26:01
 categories: conferences design ux

@@ -1,11 +1,9 @@
 ---
-layout: default
+layout: page
 ---
 
-<header class="post-header">
-  <h1 class="post-title">{{ page.title }}</h1>
-</header>
-{{ content }}
+  {{ content }}
+
   <ul class="post-list margin-top--s">
     {% for post in site.categories[page.category] %}
       <li>

@@ -28,12 +28,10 @@ https://github.com/benjystanton/benjystanton.github.io
 ## Layout templates
 A list of different layouts in use on the site.
 <ul>
-  <li>Default – <a href="{{ site.baseurl }}/">Home</a></li>
-  <li>Page – <a href="{{ site.baseurl }}/about/">About</a></li>
+  <li>Page – <a href="{{ site.baseurl }}/about/">About</a>, <a href="{{ site.baseurl }}/blog/accessibility-for-designers/">Accessibility for designers</a></li>
   <li>List of posts – <a href="{{ site.baseurl }}/blog/">Blog</a></li>
-  <li>Post – <a href="{{ site.baseurl }}/blog/accessibility-for-designers/">Accessibility for designers</a></li>
-  <li>List of categories – <a href="{{ site.baseurl }}/blog/category/">Categories</a></li>
   <li>List of categorised posts – <a href="{{ site.baseurl }}/blog/category/release-notes/">Release notes</a></li>
+  <li>List of categories – <a href="{{ site.baseurl }}/blog/category/">Categories</a></li>
 
 </ul>
 

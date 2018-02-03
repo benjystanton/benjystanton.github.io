@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page 
 title: Goodbye WordPress
 date: 2015-11-05 15:53:00
 categories: design

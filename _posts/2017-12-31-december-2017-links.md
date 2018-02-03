@@ -1,5 +1,5 @@
 ---
-layout: post  
+layout: page   
 title: December 2017 links
 categories: links
 ---
