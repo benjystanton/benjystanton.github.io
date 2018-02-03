@@ -6,18 +6,18 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>Release notes – Benjy Stanton</title>
-  <meta name="description" content="A collection of posts detailing the changes and improvements that I'm making to this site.">
+  <title>Use fewer layouts – Benjy Stanton</title>
+  <meta name="description" content="Jekyll uses templates stored in the _layouts folder to apply reusable designs to its pages. In a previous release, I created a list of page layouts in use on...">
 
   <!-- Twitter summary card stuff, based on http://davidensinger.com/2013/04/supporting-twitter-cards-with-jekyll/ -->
   <meta name="twitter:card" content="summary">
   <meta name="twitter:site" content="benjystanton">
-  <meta name="twitter:title" content="Release notes" />
-  <meta name="twitter:description" content="A collection of posts detailing the changes and improvements that I'm making to this site." />
+  <meta name="twitter:title" content="Use fewer layouts" />
+  <meta name="twitter:description" content="Jekyll uses templates stored in the _layouts folder to apply reusable designs to its pages. In a previous release, I created a list of page layouts in use on..." />
   
   <link rel="stylesheet" href="/css/main.css">
   <link rel="stylesheet" href="https://use.typekit.net/wcw4icc.css">
-  <link rel="canonical" href="http://localhost:4000/blog/category/release-notes/">
+  <link rel="canonical" href="http://localhost:4000/blog/use-fewer-layouts/">
   <link rel="alternate" type="application/rss+xml" title="Benjy Stanton" href="http://localhost:4000/feed.xml" />
 </head>
 
@@ -57,56 +57,53 @@
 
       <div class="page-content" id="content">
         <div class="wrapper">
-          <header class="post-header">
-  <h1 class="post-title">Release notes</h1>
-</header>
-<p>A collection of posts detailing the changes and improvements that I’m making to this site.</p>
+          <div class="post">
 
-  <ul class="post-list margin-top--s">
-    
-      <li>
-        <h2>
-          <a class="post-link" href="/blog/use-fewer-layouts/">Use fewer layouts</a>
-        </h2>
-        <span class="post-meta"> 3 February 2018</span>
+  <header class="post-header">
+    <h1 class="post-title">Use fewer layouts</h1>
+  </header>
 
-      </li>
-    
-      <li>
-        <h2>
-          <a class="post-link" href="/blog/add-a-list-of-page-layouts/">Add a list of page layouts</a>
-        </h2>
-        <span class="post-meta">28 January 2018</span>
+  <article class="post-content" role="article">
+    <p>Jekyll uses templates stored in the <code class="highlighter-rouge">_layouts</code> folder to apply reusable designs to its pages. In a previous release, I created a list of <a href="../add-a-list-of-page-layouts">page layouts in use on this site</a> to help me spot inconsistencies.</p>
 
-      </li>
-    
-      <li>
-        <h2>
-          <a class="post-link" href="/blog/change-date-format/">Change date format</a>
-        </h2>
-        <span class="post-meta">27 January 2018</span>
+<p>For this release I’ve started to reduce the inconsistencies and duplicate code. The user story is the same though…</p>
 
-      </li>
-    
-      <li>
-        <h2>
-          <a class="post-link" href="/blog/add-svg-icons/">Add SVG icons to the footer</a>
-        </h2>
-        <span class="post-meta">19 January 2018</span>
+<h2 id="user-story">User story</h2>
 
-      </li>
-    
-      <li>
-        <h2>
-          <a class="post-link" href="/blog/add-aria-current/">Add aria-current to the site nav</a>
-        </h2>
-        <span class="post-meta">13 January 2018</span>
+<p>As a user, I need the website pages to be consistent, so that I can read and browse them easily.</p>
 
-      </li>
-    
-  </ul>
+<h2 id="acceptance-criteria">Acceptance criteria</h2>
 
-  <p class="margin-top--m"><a href="/blog/category">← Back to all categories</a></p>
+<ul>
+  <li>Combine the <code class="highlighter-rouge">page</code> and <code class="highlighter-rouge">post</code> layout into one</li>
+  <li>Update the <code class="highlighter-rouge">index.md</code> to use the page layout</li>
+  <li>Update the <a href="http://www.benjystanton.co.uk/style-guide/#layout-templates">style guide</a> to reflect the changes</li>
+</ul>
+
+<h2 id="whats-changed">What’s changed</h2>
+
+<p>The biggest change was combining the <code class="highlighter-rouge">page</code> and <code class="highlighter-rouge">post</code> layouts. They are very similar, so it makes sense to merge them. But I do need to check if a page is a blog post, so that I can show the post date.</p>
+
+<p>The <code class="highlighter-rouge">if</code> statement looks something like this…</p>
+
+<figure class="highlight"><pre><code class="language-html" data-lang="html">{% if page.is_post %}
+<span class="nt">&lt;p</span> <span class="na">class=</span><span class="s">"post-meta"</span><span class="nt">&gt;</span>{{ page.date | date: "%e %B %Y" }}<span class="nt">&lt;/p&gt;</span>
+{% endif %}</code></pre></figure>
+
+<p>So that posts know they are posts, I had to add the following snippet to the <code class="highlighter-rouge">_config.yml</code> file.</p>
+
+<figure class="highlight"><pre><code class="language-yml" data-lang="yml"><span class="s">defaults</span><span class="pi">:</span>
+  <span class="pi">-</span>
+    <span class="s">scope</span><span class="pi">:</span>
+      <span class="s">path</span><span class="pi">:</span> <span class="s2">"</span><span class="s">"</span>      <span class="c1"># empty string for all files</span>
+      <span class="s">type</span><span class="pi">:</span> <span class="s">posts</span>   <span class="c1"># limit to posts</span>
+    <span class="s">values</span><span class="pi">:</span>
+      <span class="s">is_post</span><span class="pi">:</span> <span class="s">true</span> <span class="c1"># automatically set is_post=true for all posts</span></code></pre></figure>
+
+
+  </article>
+
+</div>
 
         </div>
       </div>
