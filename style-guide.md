@@ -17,12 +17,12 @@ https://github.com/benjystanton/benjystanton.github.io
 
 ## Colours
 <ul class="list-inline">
-  <li class="background--text-colour padding--s">Text</li>
-  <li class="background--dark-grey-colour padding--s">Dark grey</li>
-  <li class="background--medium-grey-colour padding--s">Medium grey</li>
-  <li class="background--light-grey-colour padding--s">Light grey</li>
-  <li class="background--white-colour padding--s border">White</li>
-  <li class="background--primary-colour padding--s">Primary</li>
+  <li class="background--text-colour padding--s">Text #2e343b</li>
+  <li class="background--dark-grey-colour padding--s">Dark grey #5b6774</li>
+  <li class="background--medium-grey-colour padding--s">Medium grey #abb3bd</li>
+  <li class="background--light-grey-colour padding--s">Light grey #e4e7ea</li>
+  <li class="background--white-colour padding--s border">White #ffffff</li>
+  <li class="background--primary-colour padding--s">Primary #007575</li>
 </ul>
 
 ## Layout templates
