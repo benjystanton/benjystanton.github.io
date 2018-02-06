@@ -298,6 +298,14 @@ blockquote {
       .page-content .wrapper {
         padding-right: 20%; } }
 
+.flex-grid {
+  display: flex;
+  flex-wrap: wrap; }
+
+.flex-grid .col {
+  margin-right: 5%;
+  margin-bottom: 36px; }
+
 .column {
   background-color: #e4e7ea;
   padding: 18px;

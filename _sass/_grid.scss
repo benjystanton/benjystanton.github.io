@@ -23,6 +23,18 @@
 
 }
 
+// Flex grid
+//https://css-tricks.com/dont-overthink-flexbox-grids/
+.flex-grid {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.flex-grid .col {
+  margin-right: 5%;
+  margin-bottom: $spacing-unit;
+}
+
 // Grid
 // The grid is currently only used in the style guide
  .row {
