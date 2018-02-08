@@ -302,9 +302,18 @@ blockquote {
   display: flex;
   flex-wrap: wrap; }
 
-.flex-grid .col {
-  margin-right: 5%;
-  margin-bottom: 36px; }
+.flex-grid__col {
+  margin-bottom: 36px;
+  width: 100%; }
+
+.flex-grid__col--half {
+  width: 48%; }
+
+.flex-grid__col--half:nth-child(odd) {
+  margin-right: 2%; }
+
+.flex-grid__col--half:nth-child(even) {
+  margin-left: 2%; }
 
 .column {
   background-color: #e4e7ea;
