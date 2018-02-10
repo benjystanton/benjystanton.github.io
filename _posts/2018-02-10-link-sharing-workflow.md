@@ -3,7 +3,11 @@ layout: page
 title: "My link sharing workflow"
 date: 2018-02-10 08:01:00  
 categories: release-notes
+image: me-share.png
+image-alt: Sketch of a smily face and the RSS sharing icon
 ---
+
+![A sketch of this workflow: me, pocket, IFTTT, sheets, Jekyll, share]({{ site.url }}/assets/link-sharing-workflow.png)
 
 I’m a big fan of bookmarking links. I won’t always read everything, but I like having them saved somewhere. And although it’s easy to bookmark things in your browser and build up a useful resource for yourself, it annoys me that these links aren’t easily shared.
 

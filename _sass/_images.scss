@@ -9,3 +9,7 @@ img {
         margin: $spacing-unit/2 0;
     }
 }
+
+.post-content img {
+  border: 1px solid $light-grey-colour;
+}
