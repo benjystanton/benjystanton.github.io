@@ -6,18 +6,18 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>Categories – Benjy Stanton</title>
-  <meta name="description" content="UX Designer. Family Man. Music Snob.">
+  <title>My link sharing workflow – Benjy Stanton</title>
+  <meta name="description" content="I’m a big fan of bookmarking links. I won’t always read everything, but I like having them saved somewhere. And although it’s easy to bookmark things in your...">
 
   <!-- Twitter summary card stuff, based on http://davidensinger.com/2013/04/supporting-twitter-cards-with-jekyll/ -->
   <meta name="twitter:card" content="summary">
   <meta name="twitter:site" content="benjystanton">
-  <meta name="twitter:title" content="Categories" />
-  <meta name="twitter:description" content="UX Designer. Family Man. Music Snob." />
+  <meta name="twitter:title" content="My link sharing workflow" />
+  <meta name="twitter:description" content="I’m a big fan of bookmarking links. I won’t always read everything, but I like having them saved somewhere. And although it’s easy to bookmark things in your..." />
   
   <link rel="stylesheet" href="/css/main.css">
   <link rel="stylesheet" href="https://use.typekit.net/wcw4icc.css">
-  <link rel="canonical" href="http://localhost:4000/blog/category/">
+  <link rel="canonical" href="http://localhost:4000/blog/link-sharing-workflow/">
   <link rel="alternate" type="application/rss+xml" title="Benjy Stanton" href="http://localhost:4000/feed.xml" />
 </head>
 
@@ -58,84 +58,68 @@
       <div class="page-content" id="content">
         <div class="wrapper">
           <header class="post-header">
-  <h1 class="post-title">Categories</h1>
-  
+  <h1 class="post-title">My link sharing workflow</h1>
+  <p class="post-meta">10 February 2018</p>
 </header>
 
 <article class="post-content" role="article">
-  <ul class="list-inline">
+  <p>I’m a big fan of bookmarking links. I won’t always read everything, but I like having them saved somewhere. And although it’s easy to bookmark things in your browser and build up a useful resource for yourself, it annoys me that these links aren’t easily shared.</p>
 
-  <li>
-    <a href="/blog/category/personal/">personal</a>
-  <span class="post-meta">(10)</span></li>
+<p>So, I’ve come up with a workflow that lets me collect and publish <a href="/blog/category/links/">my bookmarked links</a> on this blog.</p>
 
-  <li>
-    <a href="/blog/category/design/">design</a>
-  <span class="post-meta">(37)</span></li>
+<h2 id="1-save-links-to-pocket">1. Save links to Pocket</h2>
 
-  <li>
-    <a href="/blog/category/ux/">ux</a>
-  <span class="post-meta">(10)</span></li>
+<p><a href="https://getpocket.com">Pocket</a> is a neat service that lets you save articles and read them later. It has <a href="https://getpocket.com/add/">plugins</a> for Chrome on Mac and Safari on iOS, so with one click or a couple of taps I can save things to my account.</p>
 
-  <li>
-    <a href="/blog/category/animation/">animation</a>
-  <span class="post-meta">(5)</span></li>
+<h2 id="2-ifttt-if-this-then-that-and-google-sheets">2. IFTTT (if this, then that) and Google Sheets</h2>
 
-  <li>
-    <a href="/blog/category/speaking/">speaking</a>
-  <span class="post-meta">(6)</span></li>
+<p><a href="https://ifttt.com/">IFTTT</a> is another handy service that lets you connect up lots of popular web apps and internet connected things.</p>
 
-  <li>
-    <a href="/blog/category/conferences/">conferences</a>
-  <span class="post-meta">(9)</span></li>
+<p>I’ve set it up to check my Pocket account and add any links that I bookmark to a <a href="https://www.google.com/sheets/about/">Google Sheet</a>. Each article I bookmark gets saved to the spreadsheet as a new row.</p>
 
-  <li>
-    <a href="/blog/category/tools/">tools</a>
-  <span class="post-meta">(3)</span></li>
+<h2 id="3-copy-the-data-into-jekyll">3. Copy the data into Jekyll</h2>
 
-  <li>
-    <a href="/blog/category/content/">content</a>
-  <span class="post-meta">(2)</span></li>
+<p>Next, I need to copy the links from Google Sheets and add them as a CSV to Jekyll’s <code class="highlighter-rouge">_data</code> folder. Now that I’ve got my links stored as structured data I can make use of <a href="https://jekyllrb.com/docs/datafiles/">Jekyll’s handy templating features</a>.</p>
 
-  <li>
-    <a href="/blog/category/email/">email</a>
-  <span class="post-meta">(3)</span></li>
+<h2 id="4-create-a-list-of-links-component">4. Create a list of links component</h2>
 
-  <li>
-    <a href="/blog/category/freelance/">freelance</a>
-  <span class="post-meta">(2)</span></li>
+<p>I’ve created a little reusable component that will check the data folder my links and output that as a list.</p>
 
-  <li>
-    <a href="/blog/category/meetup/">meetup</a>
-  <span class="post-meta">(6)</span></li>
+<h3 id="include-the-component-and-point-it-at-the-data">Include the component and point it at the data</h3>
 
-  <li>
-    <a href="/blog/category/research/">research</a>
-  <span class="post-meta">(4)</span></li>
+<p>Insert the component into the blog post and point it to the right month, for example January 2018.</p>
 
-  <li>
-    <a href="/blog/category/accessibility/">accessibility</a>
-  <span class="post-meta">(2)</span></li>
+<figure class="highlight"><pre><code class="language-html" data-lang="html">{% include list-o-links.html list=site.data.links-2018-january %}</code></pre></figure>
 
-  <li>
-    <a href="/blog/category/ons/">ons</a>
-  <span class="post-meta">(6)</span></li>
+<h3 id="the-list-component-itself">The list component itself</h3>
 
-  <li>
-    <a href="/blog/category/links/">links</a>
-  <span class="post-meta">(3)</span></li>
+<p>The list component automatically creates an unordered list of links.</p>
 
-  <li>
-    <a href="/blog/category/release-notes/">release-notes</a>
-  <span class="post-meta">(6)</span></li>
+<figure class="highlight"><pre><code class="language-html" data-lang="html"><span class="nt">&lt;ul&gt;</span>
+  {% for item in include.list %}
+  <span class="nt">&lt;li&gt;&lt;a</span> <span class="na">href=</span><span class="s">"{{ item.url }}"</span><span class="nt">&gt;</span>{{ item.label }}<span class="nt">&lt;/a&gt;&lt;/li&gt;</span>
+  {% endfor %}
+<span class="nt">&lt;/ul&gt;</span></code></pre></figure>
 
-</ul>
+<h3 id="example-of-the-generated-html">Example of the generated html</h3>
 
-<p class="margin-top--m"><a href="/blog">← Back to the blog</a></p>
+<figure class="highlight"><pre><code class="language-html" data-lang="html"><span class="nt">&lt;ul&gt;</span>
+<span class="nt">&lt;li&gt;&lt;a</span> <span class="na">href=</span><span class="s">"https://lawsofux.com/"</span><span class="nt">&gt;</span>Laws of UX<span class="nt">&lt;/a&gt;&lt;/li&gt;</span>
+<span class="nt">&lt;li&gt;&lt;a</span> <span class="na">href=</span><span class="s">"https://www.mearso.co.uk/blog/todo-system.html"</span><span class="nt">&gt;</span>Todo list system<span class="nt">&lt;/a&gt;&lt;/li&gt;</span>
+<span class="nt">&lt;li&gt;&lt;a</span> <span class="na">href=</span><span class="s">"https://www.sarasoueidan.com/blog/svg-coordinate-systems/"</span><span class="nt">&gt;</span>Understanding SVG Coordinate Systems and Transformations<span class="nt">&lt;/a&gt;&lt;/li&gt;</span>
+<span class="nt">&lt;/ul&gt;</span></code></pre></figure>
+
+<h2 id="5-steps-each-month">5. Steps each month</h2>
+
+<p>Now that I’ve set all this up, it’s almost effortless to keep it maintained.</p>
+
+<p>There are a couple of manual steps each month, but this forces me to review anything I’ve saved and prompts me to read a few more articles.</p>
+
+<p><a href="/blog/january-2018-links/">Check out last month’s links</a></p>
 
 </article>
 
-
+<p class="margin-top--m"><a href="/blog">← Back to the blog</a></p>
 
         </div>
       </div>

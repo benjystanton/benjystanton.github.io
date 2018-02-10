@@ -5,9 +5,74 @@
     <description>UX Designer. Family Man. Music Snob.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 08 Feb 2018 21:58:11 +0000</pubDate>
-    <lastBuildDate>Thu, 08 Feb 2018 21:58:11 +0000</lastBuildDate>
+    <pubDate>Sat, 10 Feb 2018 08:01:13 +0000</pubDate>
+    <lastBuildDate>Sat, 10 Feb 2018 08:01:13 +0000</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
+    
+      <item>
+        <title>My link sharing workflow</title>
+        <description>&lt;p&gt;I’m a big fan of bookmarking links. I won’t always read everything, but I like having them saved somewhere. And although it’s easy to bookmark things in your browser and build up a useful resource for yourself, it annoys me that these links aren’t easily shared.&lt;/p&gt;
+
+&lt;p&gt;So, I’ve come up with a workflow that lets me collect and publish &lt;a href=&quot;/blog/category/links/&quot;&gt;my bookmarked links&lt;/a&gt; on this blog.&lt;/p&gt;
+
+&lt;h2 id=&quot;1-save-links-to-pocket&quot;&gt;1. Save links to Pocket&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://getpocket.com&quot;&gt;Pocket&lt;/a&gt; is a neat service that lets you save articles and read them later. It has &lt;a href=&quot;https://getpocket.com/add/&quot;&gt;plugins&lt;/a&gt; for Chrome on Mac and Safari on iOS, so with one click or a couple of taps I can save things to my account.&lt;/p&gt;
+
+&lt;h2 id=&quot;2-ifttt-if-this-then-that-and-google-sheets&quot;&gt;2. IFTTT (if this, then that) and Google Sheets&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://ifttt.com/&quot;&gt;IFTTT&lt;/a&gt; is another handy service that lets you connect up lots of popular web apps and internet connected things.&lt;/p&gt;
+
+&lt;p&gt;I’ve set it up to check my Pocket account and add any links that I bookmark to a &lt;a href=&quot;https://www.google.com/sheets/about/&quot;&gt;Google Sheet&lt;/a&gt;. Each article I bookmark gets saved to the spreadsheet as a new row.&lt;/p&gt;
+
+&lt;h2 id=&quot;3-copy-the-data-into-jekyll&quot;&gt;3. Copy the data into Jekyll&lt;/h2&gt;
+
+&lt;p&gt;Next, I need to copy the links from Google Sheets and add them as a CSV to Jekyll’s &lt;code class=&quot;highlighter-rouge&quot;&gt;_data&lt;/code&gt; folder. Now that I’ve got my links stored as structured data I can make use of &lt;a href=&quot;https://jekyllrb.com/docs/datafiles/&quot;&gt;Jekyll’s handy templating features&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;4-create-a-list-of-links-component&quot;&gt;4. Create a list of links component&lt;/h2&gt;
+
+&lt;p&gt;I’ve created a little reusable component that will check the data folder my links and output that as a list.&lt;/p&gt;
+
+&lt;h3 id=&quot;include-the-component-and-point-it-at-the-data&quot;&gt;Include the component and point it at the data&lt;/h3&gt;
+
+&lt;p&gt;Insert the component into the blog post and point it to the right month, for example January 2018.&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;{% include list-o-links.html list=site.data.links-2018-january %}&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;h3 id=&quot;the-list-component-itself&quot;&gt;The list component itself&lt;/h3&gt;
+
+&lt;p&gt;The list component automatically creates an unordered list of links.&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;ul&amp;gt;&lt;/span&gt;
+  {% for item in include.list %}
+  &lt;span class=&quot;nt&quot;&gt;&amp;lt;li&amp;gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;{{ item.url }}&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;{{ item.label }}&lt;span class=&quot;nt&quot;&gt;&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;&lt;/span&gt;
+  {% endfor %}
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/ul&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;h3 id=&quot;example-of-the-generated-html&quot;&gt;Example of the generated html&lt;/h3&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;ul&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;li&amp;gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;https://lawsofux.com/&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Laws of UX&lt;span class=&quot;nt&quot;&gt;&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;li&amp;gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;https://www.mearso.co.uk/blog/todo-system.html&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Todo list system&lt;span class=&quot;nt&quot;&gt;&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;li&amp;gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;https://www.sarasoueidan.com/blog/svg-coordinate-systems/&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Understanding SVG Coordinate Systems and Transformations&lt;span class=&quot;nt&quot;&gt;&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/ul&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;5-steps-each-month&quot;&gt;5. Steps each month&lt;/h2&gt;
+
+&lt;p&gt;Now that I’ve set all this up, it’s almost effortless to keep it maintained.&lt;/p&gt;
+
+&lt;p&gt;There are a couple of manual steps each month, but this forces me to review anything I’ve saved and prompts me to read a few more articles.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/blog/january-2018-links/&quot;&gt;Check out last month’s links&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 10 Feb 2018 08:01:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/link-sharing-workflow/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/link-sharing-workflow/</guid>
+        
+        
+        <category>release-notes</category>
+        
+      </item>
     
       <item>
         <title>Use fewer layouts</title>
@@ -476,26 +541,6 @@
         <category>ons</category>
         
         <category>design</category>
-        
-      </item>
-    
-      <item>
-        <title>November 2017 links</title>
-        <description>&lt;ul&gt;
-  
-  &lt;li&gt;&lt;a href=&quot;https://gds.blog.gov.uk/2014/09/03/vertical-campfires-our-user-research-walls/&quot;&gt;Vertical campfires: our user research walls&lt;/a&gt;&lt;/li&gt;
-  
-  &lt;li&gt;&lt;a href=&quot;https://designnotes.blog.gov.uk/2017/11/27/using-design-crits-to-improve-collaboration/&quot;&gt;Using design crits to improve collaboration&lt;/a&gt;&lt;/li&gt;
-  
-&lt;/ul&gt;
-
-</description>
-        <pubDate>Thu, 30 Nov 2017 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/november-2017-links/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/november-2017-links/</guid>
-        
-        
-        <category>links</category>
         
       </item>
     
