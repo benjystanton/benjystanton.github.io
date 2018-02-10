@@ -47,6 +47,17 @@
   margin-left: 2%;
 }
 
+.flex-grid__col--third {
+  width: 32%;
+  margin-right: 2%;
+}
+
+.flex-grid__col--third:nth-child(3) {
+  margin-right: 0;
+
+}
+
+
 // Grid
 // The grid is currently only used in the style guide
  .row {
