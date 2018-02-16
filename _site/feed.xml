@@ -5,9 +5,89 @@
     <description>UX Designer. Family Man. Music Snob.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 10 Feb 2018 21:39:33 +0000</pubDate>
-    <lastBuildDate>Sat, 10 Feb 2018 21:39:33 +0000</lastBuildDate>
+    <pubDate>Fri, 16 Feb 2018 16:53:24 +0000</pubDate>
+    <lastBuildDate>Fri, 16 Feb 2018 16:53:24 +0000</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
+    
+      <item>
+        <title>February 2018 links</title>
+        <description>&lt;ul&gt;
+  
+  &lt;li&gt;&lt;a href=&quot;https://insidegovuk.blog.gov.uk/2018/01/24/improving-accessibility-with-accessibility-acceptance-criteria/&quot;&gt;Improving accessibility with accessibility acceptance criteria&lt;/a&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;a href=&quot;https://getkap.co/&quot;&gt;Capture your screen&lt;/a&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@vihra.rogacheva/guerrilla-research-in-university-setting-what-worked-and-what-didnt-259924b190be&quot;&gt;Studying students’ experience using guerrilla research. What worked and what didn’t.&lt;/a&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;a href=&quot;http://alistapart.com/article/my-accessibility-journey-what-ive-learned-so-far&quot;&gt;My Accessibility Journey: What I’ve Learned So Far&lt;/a&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;a href=&quot;https://meowni.ca/posts/2017-puppeteer-tests/&quot;&gt;Automatic visual diffing with Puppeteer&lt;/a&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;a href=&quot;https://blog.usejournal.com/net-promoter-score-considered-harmful-and-what-ux-professionals-can-do-about-it-fe7a132f4430&quot;&gt;Net Promoter Score Considered Harmful (and What UX Professionals Can Do About It)&lt;/a&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;a href=&quot;https://2018.ampersandconf.com/&quot;&gt;AMPERSAND&lt;/a&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.com/Org-Design-Orgs-Building-House/dp/1491938404&quot;&gt;Org Design for Design Orgs: Building and Managing In-House Design Teams 1st Edition&lt;/a&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;a href=&quot;https://github.com/buzzfeed/design/blob/master/tech-leadership-principles.md&quot;&gt;buzzfeed/design&lt;/a&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@nathangitter/why-your-app-looks-better-in-sketch-3a01b22c43d7&quot;&gt;Why Your App Looks Better in Sketch&lt;/a&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;a href=&quot;https://blog.prototypr.io/we-need-to-talk-about-patterns-8dcc73aff318&quot;&gt;We need to talk about design patterns&lt;/a&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;a href=&quot;http://www.hollidazed.co.uk/2015/07/28/frame-the-problem/&quot;&gt;Asking the right questions to frame the problem&lt;/a&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/mixed-methods/five-user-research-rules-of-thumb-to-follow-a738d5c78957&quot;&gt;Five User Research Rules of Thumb to Follow&lt;/a&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@rossferg/the-principles-that-make-me-a-better-product-manager-9e50814d184f&quot;&gt;The principles that make me a better product manager&lt;/a&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;a href=&quot;http://boingboing.net/2017/02/08/lies-arrow-stickers-for-the-er.html&quot;&gt;LIES arrow-stickers for the era of the Alternate Fact&lt;/a&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;a href=&quot;https://github.com/giving-a-fuck-about-climate-change/carbondoomsday&quot;&gt;giving-a-fuck-about-climate-change/carbondoomsday&lt;/a&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;a href=&quot;https://www.designweek.co.uk/issues/5-11-february-2018/the-most-influential-female-designers-of-the-last-century/&quot;&gt;The most influential female designers of the last century&lt;/a&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;a href=&quot;https://spectrum.chat/thread/1021be59-2738-4511-aceb-c66921050b9a&quot;&gt;.mdx proposal · Frontend Cafe&lt;/a&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;a href=&quot;http://emilywebber.co.uk/what-is-an-agile-delivery-manager/&quot;&gt;Explaining the role of a Delivery Manager&lt;/a&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/hubspot-product/how-to-gain-widespread-adoption-of-your-design-system-29d1b142b158&quot;&gt;How to gain widespread adoption of your design system&lt;/a&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;a href=&quot;https://articles.uie.com/user_exposure_hours/&quot;&gt;Fast Path to a Great UX – Increased Exposure Hours&lt;/a&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;a href=&quot;https://www.fastcompany.com/40524955/i-accidentally-built-a-brogrammer-culture-now-were-undoing-it&quot;&gt;I Accidentally Built A Brogrammer Culture. Now We’re Undoing It&lt;/a&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;a href=&quot;https://www.frankchimero.com/writing/everything-easy-is-hard-again/&quot;&gt;Everything Easy is Hard Again&lt;/a&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/channel/UC7TizprGknbDalbHplROtag&quot;&gt;Layout Land&lt;/a&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;a href=&quot;https://clearleft.com/posts/scaling-design-the-case-for-narrative-transformation&quot;&gt;Scaling design: the case for narrative transformation&lt;/a&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;a href=&quot;https://css-tricks.com/using-conic-gradients-css-variables-create-doughnut-chart-output-range-input/&quot;&gt;Using Conic Gradients and CSS Variables to Create a Doughnut Chart Output for a Range Input&lt;/a&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;a href=&quot;https://publication.design.systems/the-musicality-of-design-systems-f090b2ec0213&quot;&gt;The musicality of design systems&lt;/a&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/no-you-go/thriving-in-a-toxic-culture-3aa0d78820ed&quot;&gt;Work culture is toxic to women. I’m finding joy anyway.&lt;/a&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;a href=&quot;http://contentdesign.london/content-design/content-crits/&quot;&gt;Content crits&lt;/a&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;a href=&quot;https://pds.blog.parliament.uk/2018/02/16/creating-accessible-and-responsive-search/&quot;&gt;Creating accessible and responsive search&lt;/a&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;a href=&quot;https://getpixelsnap.com&quot;&gt;PixelSnap&lt;/a&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/sketch-app-sources/sketch-plugins-i-cant-live-without-1ed2b09dcc5c&quot;&gt;Sketch Plugins I Can’t Live Without&lt;/a&gt;&lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Fri, 16 Feb 2018 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/february-2018-links/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/february-2018-links/</guid>
+        
+        
+        <category>links</category>
+        
+      </item>
     
       <item>
         <title>My link sharing workflow</title>
@@ -478,69 +558,6 @@
         
         
         <category>accessibility</category>
-        
-        <category>design</category>
-        
-      </item>
-    
-      <item>
-        <title>We’re hiring 5 graphic designers at Office for National Statistics (ONS)</title>
-        <description>&lt;p&gt;We’re looking for 3 digital designers and 2 brand and print designers in Newport. The closing date is 22 January 2018.&lt;/p&gt;
-
-&lt;h2 id=&quot;graphic-designers-digital&quot;&gt;Graphic Designers (Digital)&lt;/h2&gt;
-
-&lt;p&gt;These roles are based in the Digital Publishing department. We’re looking for designers who are experienced working in digital.&lt;/p&gt;
-
-&lt;p&gt;You’ll be helping us to improve our charts, interactive tools and the typography on the website. You’ll help the other designers to develop a consistent design system across ONS.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.civilservicejobs.service.gov.uk/csr/jobs.cgi?jcode=1563104&quot;&gt;Lead Graphic Designer (Digital) £35,200 to £40,249&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.civilservicejobs.service.gov.uk/csr/jobs.cgi?jcode=1563087&quot;&gt;Graphic Designer (Digital) £28,450 to 33,249&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.civilservicejobs.service.gov.uk/csr/jobs.cgi?jcode=1563101&quot;&gt;Graphic Designer (Digital) £21,950 to £27,249&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;graphic-designers-brand-and-print&quot;&gt;Graphic Designers (Brand and Print)&lt;/h2&gt;
-
-&lt;p&gt;These roles will be based in the Comms department. We’re looking for designers who are experienced working in print and communications.&lt;/p&gt;
-
-&lt;p&gt;You’ll be helping us to improve our brand identity, reports and exhibition materials. You’ll help the other designers to develop a consistent design system across ONS. These roles will include some digital things too.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.civilservicejobs.service.gov.uk/csr/jobs.cgi?jcode=1563120&quot;&gt;Lead Graphic Designer (Brand and Print) £35,200 to £40,249&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.civilservicejobs.service.gov.uk/csr/jobs.cgi?jcode=1563118&quot;&gt;Graphic Designer (Brand and Print) £28,450 to 33,249&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;bonus-role-front-end-developer&quot;&gt;Bonus role: Front End Developer&lt;/h2&gt;
-
-&lt;p&gt;We’re also looking for a front end developer to join digital publishing. This person will be working closely with the designers.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.civilservicejobs.service.gov.uk/csr/jobs.cgi?jcode=1564122&quot;&gt;Front End Developer £21,950&lt;/a&gt; (Closing date 7 January 2018)&lt;/p&gt;
-
-&lt;h2 id=&quot;websites-youll-be-working-on&quot;&gt;Websites you’ll be working on&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.ons.gov.uk/&quot;&gt;ONS website&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://visual.ons.gov.uk/&quot;&gt;Visual.ONS&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;whats-it-like-to-work-at-ons&quot;&gt;What’s it like to work at ONS?&lt;/h2&gt;
-
-&lt;p&gt;Here are some blog posts I’ve written about life and work at ONS:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://digitalblog.ons.gov.uk/author/benjy/&quot;&gt;Blog posts I’ve written for the ONS digital blog&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/ONSdigital/design/blob/master/principles.md&quot;&gt;ONS design community principles&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.benjystanton.co.uk/blog/my-first-12ish-months/&quot;&gt;My first 12ish months&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.benjystanton.co.uk/blog/my-12-year-quest/&quot;&gt;My 12 year quest to get a public service design job&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.benjystanton.co.uk/blog/retrospective-my-first-2-months/&quot;&gt;Retrospective (my first 2 months)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.benjystanton.co.uk/blog/work-with-me-at-office-for-national-statistics-ons/&quot;&gt;Work with me at Office for National Statistics (ONS)&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Sat, 16 Dec 2017 07:41:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/hiring-5-graphic-designers-at-ONS/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/hiring-5-graphic-designers-at-ONS/</guid>
-        
-        
-        <category>ons</category>
         
         <category>design</category>
         
