@@ -5,8 +5,8 @@
     <description>UX Designer. Family Man. Music Snob.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 01 Mar 2018 20:21:08 +0000</pubDate>
-    <lastBuildDate>Thu, 01 Mar 2018 20:21:08 +0000</lastBuildDate>
+    <pubDate>Thu, 01 Mar 2018 20:24:42 +0000</pubDate>
+    <lastBuildDate>Thu, 01 Mar 2018 20:24:42 +0000</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
     
       <item>
@@ -76,6 +76,16 @@
   &lt;li&gt;&lt;a href=&quot;https://getpixelsnap.com&quot;&gt;PixelSnap&lt;/a&gt;&lt;/li&gt;
   
   &lt;li&gt;&lt;a href=&quot;https://medium.com/sketch-app-sources/sketch-plugins-i-cant-live-without-1ed2b09dcc5c&quot;&gt;Sketch Plugins I Can’t Live Without&lt;/a&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;a href=&quot;http://apievangelist.com/2016/09/20/d3js-visualizations-using-yaml-and-jekyll/&quot;&gt;D3.js Visualizations Using YAML and Jekyll&lt;/a&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@monteiro/designs-lost-generation-ac7289549017&quot;&gt;Design’s Lost Generation&lt;/a&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;a href=&quot;https://designnotes.blog.gov.uk/2018/02/19/developing-new-typography-and-spacing-for-gov-uk-frontend/&quot;&gt;Developing new typography and spacing for GOV.UK Frontend&lt;/a&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;a href=&quot;https://github.com/audreyr/favicon-cheat-sheet&quot;&gt;audreyr/favicon-cheat-sheet&lt;/a&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@catherineehope/no-more-data-pukes-no-more-jargon-ed3eb18b1609&quot;&gt;No more data pukes, no more jargon&lt;/a&gt;&lt;/li&gt;
   
 &lt;/ul&gt;
 
