@@ -9,7 +9,7 @@ I have 3 kids and in my spare time I enjoy messing around with this blog and lis
 
 <p class="margin-top--m"><a href="/blog">Read my blog →</a></p>
 
-***
+<!-- ***
 
 <h2>Currently listening to…</h2>
 
@@ -26,4 +26,4 @@ I have 3 kids and in my spare time I enjoy messing around with this blog and lis
   <img src="https://i.scdn.co/image/085afcde4cbf2136e3394ffe050f3c4a90901ec3" alt="Album cover for The Flying Club Cup">
   <p class="post-meta">Nantes <br>by Beirut</p>
   </div>
-</div>
+</div> -->
