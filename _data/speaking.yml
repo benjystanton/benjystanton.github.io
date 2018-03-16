@@ -1,23 +1,35 @@
+---
+
 - name: ConCon
   description: October 2017
+
 - name: Cross Government Design Meetup
   description: April 2017
+
 - name: Ignite Swansea
   description: August 2016
   url: https://www.youtube.com/watch?v=9_XQ6H9Kmh0
+
 - name: Design Stuff Cardiff
   description: June 2016
+
 - name: Design Swansea
   description: April 2016
+
 - name: Swansea Software Meetup
   description: November 2015
+
 - name: Cross Government Design Meetup
   description: September 2015
+
 - name: Port80 LocalHost Meetup
   description: November 2014
+
 - name: BlogConf Conference
   description: October 2014
+
 - name: Swansea Software Meetup
   description: September 2014
+  
 - name: Port80 Conference
   description: May 2013
