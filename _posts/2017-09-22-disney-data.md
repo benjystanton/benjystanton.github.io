@@ -34,7 +34,7 @@ I collected some data, mainly so that I could play around with styling up key fi
   <div class="flex-grid__col flex-grid__col--half">
   {% include big-number.html
     big-number="6"
-    text="miles buffets"
+    text="buffets"
   %}
   </div>
   <div class="flex-grid__col">
