@@ -23,6 +23,39 @@
 
 }
 
+// Grid
+// The grid is currently only used in the style guide
+ .row {
+    @extend %clearfix;
+ }
+
+.column {
+    background-color: $light-grey-colour;
+    padding: $spacing-unit/2;
+    margin-bottom: $spacing-unit;
+    float: left;
+
+        &:nth-child(even) {
+        background-color: $medium-grey-colour;
+    }
+}
+
+.full {
+    width: 100%;
+}
+
+.half {
+    width: 50%;
+}
+
+.third {
+    width: 33.333333%;
+}
+
+.quarter {
+    width: 25%;
+}
+
 // Flex grid
 //https://css-tricks.com/dont-overthink-flexbox-grids/
 .flex-grid {
@@ -55,38 +88,4 @@
 .flex-grid__col--third:nth-child(3) {
   margin-right: 0;
 
-}
-
-
-// Grid
-// The grid is currently only used in the style guide
- .row {
-    @extend %clearfix;
- }
-
-.column {
-    background-color: $light-grey-colour;
-    padding: $spacing-unit/2;
-    margin-bottom: $spacing-unit;
-    float: left;
-
-        &:nth-child(even) {
-        background-color: $medium-grey-colour;
-    }
-}
-
-.full {
-    width: 100%;
-}
-
-.half {
-    width: 50%;
-}
-
-.third {
-    width: 33.333333%;
-}
-
-.quarter {
-    width: 25%;
 }

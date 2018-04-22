@@ -301,6 +301,26 @@ blockquote {
       .page-content .wrapper {
         padding-right: 20%; } }
 
+.column {
+  background-color: #e4e7ea;
+  padding: 18px;
+  margin-bottom: 36px;
+  float: left; }
+  .column:nth-child(even) {
+    background-color: #abb3bd; }
+
+.full {
+  width: 100%; }
+
+.half {
+  width: 50%; }
+
+.third {
+  width: 33.333333%; }
+
+.quarter {
+  width: 25%; }
+
 .flex-grid {
   display: flex;
   flex-wrap: wrap; }
@@ -324,26 +344,6 @@ blockquote {
 
 .flex-grid__col--third:nth-child(3) {
   margin-right: 0; }
-
-.column {
-  background-color: #e4e7ea;
-  padding: 18px;
-  margin-bottom: 36px;
-  float: left; }
-  .column:nth-child(even) {
-    background-color: #abb3bd; }
-
-.full {
-  width: 100%; }
-
-.half {
-  width: 50%; }
-
-.third {
-  width: 33.333333%; }
-
-.quarter {
-  width: 25%; }
 
 .post-list {
   margin-left: 0;
