@@ -5,9 +5,107 @@
     <description>UX Designer. Family Man. Music Snob.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 22 Apr 2018 14:45:20 +0100</pubDate>
-    <lastBuildDate>Sun, 22 Apr 2018 14:45:20 +0100</lastBuildDate>
+    <pubDate>Tue, 01 May 2018 20:34:21 +0100</pubDate>
+    <lastBuildDate>Tue, 01 May 2018 20:34:21 +0100</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
+    
+      <item>
+        <title>April 2018 links</title>
+        <description>&lt;ul&gt;
+  
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@drryandunn/dash-bored-f0c460a240e6&quot;&gt;Dash-bored&lt;/a&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;a href=&quot;https://medium.muz.li/design-docs-6bb34589f7a9&quot;&gt;Designing Better Design Documentation&lt;/a&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;a href=&quot;https://abookapart.com/products/going-offline&quot;&gt;Going Offline&lt;/a&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;a href=&quot;https://speakerdeck.com/jensimmons/everything-about-web-design-just-changed&quot;&gt;Everything About Web Design Just Changed&lt;/a&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;a href=&quot;http://bradfrost.com/blog/post/creating-themeable-design-systems/&quot;&gt;Creating Themeable Design Systems&lt;/a&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;a href=&quot;https://gds.blog.gov.uk/2018/04/04/what-do-we-mean-when-we-talk-about-services/&quot;&gt;What do we mean when we talk about services?&lt;/a&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;a href=&quot;https://sonniesedge.co.uk/talks/dear-developer&quot;&gt;Dear Developer, The Web Isn't About You&lt;/a&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;a href=&quot;https://daverupert.com/2018/04/pitfalls-of-card-uis/&quot;&gt;Pitfalls of Card UIs&lt;/a&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/sketch-app-sources/smarter-tables-with-sketch-paddy-3214f6594611&quot;&gt;Smarter Tables with Sketch + Paddy&lt;/a&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;a href=&quot;https://dwpdigital.blog.gov.uk/2018/03/27/using-a-design-challenge-to-bring-policy-and-design-closer-together/&quot;&gt;Using a design challenge to bring policy and design closer together&lt;/a&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@BenHolliday/the-strange-becoming-familiar-218df65c9a4c&quot;&gt;The strange becoming familiar&lt;/a&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@acuity_design/the-problem-of-looks-good-inclusive-design-741022b4ac44&quot;&gt;The problem of ‘Looks good’ inclusive design&lt;/a&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;a href=&quot;https://www.aaron-gustafson.com/notebook/enabling-webmentions-in-jekyll/&quot;&gt;Enabling Webmentions in Jekyll&lt;/a&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;a href=&quot;http://uxmovement.com/content/how-you-can-aid-user-scanning-with-eyebrow-headlines/&quot;&gt;How You Can Aid User Scanning with Eyebrow Headlines&lt;/a&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;a href=&quot;https://neiltamplin.me/why-work-out-loud-a432de7b6883&quot;&gt;Why Work Out Loud?&lt;/a&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;a href=&quot;https://wildlyinaccurate.com/introducing-second-a-framework-for-mostly-static-react-applications&quot;&gt;Introducing Second: a framework for mostly-static React applications&lt;/a&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;a href=&quot;https://aneventapart.com/news/post/resilience-building-a-robust-web-that-lasts-jeremy-keith-an-event-apart&quot;&gt;Resilience: Building a Robust Web That Lasts by Jeremy Keith—An Event Apart video&lt;/a&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/dsconf/takeaways-from-the-dsconf-part-1-2-90730393ee3d&quot;&gt;Takeaways from the DSConf (part 1/2)&lt;/a&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;a href=&quot;http://datavizproject.com/&quot;&gt;Data Viz Project | Collection of data visualizations to get inspired and finding the right type.&lt;/a&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;a href=&quot;http://www.purple.pm/&quot;&gt;Project boards that build team harmony ?&lt;/a&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;a href=&quot;https://adactio.com/notes/13743&quot;&gt;April 16th, 2018&lt;/a&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;a href=&quot;https://pinthemall.net/pin/561cdc9481edb/&quot;&gt;It's Nice That | An insight into The Guardian’s newly released brand guidelines #branding&lt;/a&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;a href=&quot;https://www.nngroup.com/articles/scrolling-and-attention/&quot;&gt;Scrolling and Attention&lt;/a&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=O_OJfY4Jax4&amp;amp;amp=&amp;amp;t=0s&amp;amp;amp=&amp;amp;index=11&quot;&gt;Common ways we break accessibility and how to avoid them - Laura Carvajal | Render Conf 2018&lt;/a&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=ZqoqBfwULbQ&amp;amp;amp=&amp;amp;t=0s&amp;amp;amp=&amp;amp;index=13&quot;&gt;Data Sketches | A year of exotic data visualizations - Nadieh Bremer | Render Conf 2018&lt;/a&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;a href=&quot;https://www.madebymike.com.au/smashing-conf-2018/&quot;&gt;Smashing Conf 2018&lt;/a&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;a href=&quot;https://standards.theodi.org/useful-tools/how-to-use-the-open-standards-for-data-canvas/&quot;&gt;How to use the open standards for data canvas&lt;/a&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;a href=&quot;https://www.spectacleapp.com/&quot;&gt;If you enjoy Spectacle please consider donating&lt;/a&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/we-cant-do-that-in-one-sprint-a6780d67480&quot;&gt;We Can’t Do That In One Sprint&lt;/a&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@Heydon/managing-heading-levels-in-design-systems-18be9a746fa3&quot;&gt;Managing Heading Levels In Design Systems&lt;/a&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;a href=&quot;https://evilmartians.com/chronicles/scroll-to-the-future-modern-javascript-css-scrolling-implementations&quot;&gt;Scroll to the future&lt;/a&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;a href=&quot;https://www.interaction-design.org/literature/article/empathy-map-why-and-how-to-use-it&quot;&gt;Empathy Map – Why and How to Use It&lt;/a&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;a href=&quot;https://alistapart.com/article/the-core-model-designing-inside-out-for-better-results&quot;&gt;The Core Model: Designing Inside Out for Better Results&lt;/a&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;a href=&quot;https://articles.uie.com/users-dont-hate-change-they-hate-our-design-choices/&quot;&gt;Users don’t hate change. They hate our design choices.&lt;/a&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;a href=&quot;https://pds.blog.parliament.uk/2018/04/23/a-new-typeface-for-parliament/&quot;&gt;A new typeface for Parliament&lt;/a&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/leading-service-design/comparing-service-design-and-business-analysis-aed52d8ea8fb&quot;&gt;Comparing service design and business analysis&lt;/a&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;a href=&quot;http://alistapart.com/article/the-illusion-of-control-in-web-design&quot;&gt;The Illusion of Control in Web Design&lt;/a&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;a href=&quot;https://v-fonts.com/&quot;&gt;Variable Fonts (beta)&lt;/a&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;a href=&quot;http://shortcuts.design/&quot;&gt;Shortcuts.design&lt;/a&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;a href=&quot;https://articles.uie.com/despicable-design-when-going-evil-is-the-perfect-technique/&quot;&gt;Despicable Design – When “Going Evil” is the Perfect Technique&lt;/a&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;a href=&quot;https://gds.blog.gov.uk/2018/04/30/consultation-launch-accessibility-of-public-sector-websites-and-apps/&quot;&gt;Consultation launch: accessibility of public sector websites and apps&lt;/a&gt;&lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Mon, 30 Apr 2018 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/blog/april-2018-links/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/april-2018-links/</guid>
+        
+        
+        <category>links</category>
+        
+      </item>
     
       <item>
         <title>March 2018 links</title>
@@ -482,40 +580,6 @@
         
         
         <category>release-notes</category>
-        
-      </item>
-    
-      <item>
-        <title>December 2017 links</title>
-        <description>&lt;ul&gt;
-  
-  &lt;li&gt;&lt;a href=&quot;https://designnotes.blog.gov.uk/2017/12/01/design-in-the-parliamentary-digital-service/&quot;&gt;Design in: the Parliamentary Digital Service&lt;/a&gt;&lt;/li&gt;
-  
-  &lt;li&gt;&lt;a href=&quot;https://24ways.org/2017/wcag-for-people-who-havent-read-them/&quot;&gt;Web Content Accessibility Guidelines—for People Who Haven't Read Them&lt;/a&gt;&lt;/li&gt;
-  
-  &lt;li&gt;&lt;a href=&quot;https://joemc.gr/2017/12/03/getting-remote-friendly/&quot;&gt;Getting remote-friendly&lt;/a&gt;&lt;/li&gt;
-  
-  &lt;li&gt;&lt;a href=&quot;https://userresearch.blog.gov.uk/2017/12/05/understanding-the-needs-of-service-data-users/&quot;&gt;Understanding the needs of service data users&lt;/a&gt;&lt;/li&gt;
-  
-  &lt;li&gt;&lt;a href=&quot;https://www.24a11y.com/2017/wcag-2-1-silver-ag-next-accessibility-guidelines/&quot;&gt;WCAG 2.1 and Silver (AG): What is Next for Accessibility Guidelines&lt;/a&gt;&lt;/li&gt;
-  
-  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2017/12/design-workouts-world-class-teams/&quot;&gt;Using Design Workouts To Build World-Class Design Teams&lt;/a&gt;&lt;/li&gt;
-  
-  &lt;li&gt;&lt;a href=&quot;https://www.w3.org/TR/svg-aam-1.0/&quot;&gt;SVG Accessibility API Mappings&lt;/a&gt;&lt;/li&gt;
-  
-  &lt;li&gt;&lt;a href=&quot;https://alistapart.com/article/web-typography-numerals&quot;&gt;Web Typography: Numerals&lt;/a&gt;&lt;/li&gt;
-  
-  &lt;li&gt;&lt;a href=&quot;https://www.w3.org/TR/csvw-html/&quot;&gt;Embedding Tabular Metadata in HTML&lt;/a&gt;&lt;/li&gt;
-  
-&lt;/ul&gt;
-
-</description>
-        <pubDate>Sun, 31 Dec 2017 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/december-2017-links/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/december-2017-links/</guid>
-        
-        
-        <category>links</category>
         
       </item>
     
