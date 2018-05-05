@@ -5,8 +5,8 @@
     <description>UX Designer. Family Man. Music Snob.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 05 May 2018 17:10:17 +0100</pubDate>
-    <lastBuildDate>Sat, 05 May 2018 17:10:17 +0100</lastBuildDate>
+    <pubDate>Sat, 05 May 2018 21:59:31 +0100</pubDate>
+    <lastBuildDate>Sat, 05 May 2018 21:59:31 +0100</lastBuildDate>
     <generator>Jekyll v3.8.1</generator>
     
       <item>
@@ -48,8 +48,8 @@
 &lt;p&gt;I was a bit late leaving work, but managed to catch an interview with with &lt;a href=&quot;https://twitter.com/MonaChalabi&quot;&gt;Mona Chalabi&lt;/a&gt; on &lt;a href=&quot;https://www.bbc.co.uk/programmes/b0b0xll3&quot;&gt;Radio 4’s More or Less&lt;/a&gt; programme. It’s worth a listen if you’re interested in Data Journalism.&lt;/p&gt;
 </description>
         <pubDate>Sat, 05 May 2018 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/blog/weeknotes/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/weeknotes/</guid>
+        <link>http://localhost:4000/blog/weeknotes-series-01-episode-01/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/weeknotes-series-01-episode-01/</guid>
         
         
         <category>weeknotes</category>
