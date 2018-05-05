@@ -6,18 +6,18 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>Add aria-current to the site nav – Benjy Stanton</title>
-  <meta name="description" content="When browsing the main pages of this site (home, about, blog) the current page link changes style. This helps sighted users to tell which page they’re on. Bu...">
+  <title>Weeknotes – series 01 episode 01 – Benjy Stanton</title>
+  <meta name="description" content="My first ever weeknotes! Thanks to Dan Barret for finally pushing me over the edge and convincing me to start. This intro to weeknotes by Jenny Vas helped too.">
 
   <!-- Twitter summary card stuff, based on http://davidensinger.com/2013/04/supporting-twitter-cards-with-jekyll/ -->
   <meta name="twitter:card" content="summary">
   <meta name="twitter:site" content="benjystanton">
-  <meta name="twitter:title" content="Add aria-current to the site nav" />
-  <meta name="twitter:description" content="When browsing the main pages of this site (home, about, blog) the current page link changes style. This helps sighted users to tell which page they’re on. Bu..." />
+  <meta name="twitter:title" content="Weeknotes – series 01 episode 01" />
+  <meta name="twitter:description" content="My first ever weeknotes! Thanks to Dan Barret for finally pushing me over the edge and convincing me to start. This intro to weeknotes by Jenny Vas helped too." />
   
   <link rel="stylesheet" href="/css/main.css">
   <link rel="stylesheet" href="https://use.typekit.net/wcw4icc.css">
-  <link rel="canonical" href="http://localhost:4000/blog/add-aria-current/">
+  <link rel="canonical" href="http://localhost:4000/blog/weeknotes/">
   <link rel="alternate" type="application/rss+xml" title="Benjy Stanton" href="http://localhost:4000/feed.xml" />
 </head>
 
@@ -60,10 +60,10 @@
           
 
 <header class="post-header">
-  <h1 class="post-title">Add aria-current to the site nav</h1>
-  <p class="post-meta">13 January 2018 • 
+  <h1 class="post-title">Weeknotes – series 01 episode 01</h1>
+  <p class="post-meta"> 5 May 2018 • 
 
-<a href="/blog/category/release-notes">release-notes</a>
+<a href="/blog/category/weeknotes">weeknotes</a>
 
 
 </p>
@@ -72,34 +72,41 @@
 </header>
 
 <article class="post-content" role="article">
-  <p>When browsing the main pages of this site (home, about, blog) the current page link changes style. This helps sighted users to tell which page they’re on. But this feature is invisible to screen reader users. So I’m adding the <code class="highlighter-rouge">aria-current</code> attribute to fix this.</p>
+  <p class="lede">My first ever weeknotes! Thanks to <a href="https://twitter.com/dasbarrett">Dan Barret</a> for finally pushing me over the edge and convincing me to start. This <a href="https://weeknot.es/what-on-earth-are-weeknotes-a81874c5cef9">intro to weeknotes</a> by <a href="https://twitter.com/JennyVass">Jenny Vas</a> helped too.</p>
 
-<h2 id="user-story">User story</h2>
+<h2 id="monday">Monday</h2>
 
-<p>As a screen reader user, I need to know which page I’m on when I’m using the navigation, so that I can find my way around the site.</p>
+<p>I was off on Monday to look after the kids. I needed a 3 day weekend to recover from the <a href="https://twitter.com/i/moments/990913328003338241">Design Sprint</a> and <a href="https://twitter.com/tomten2two">Tom’s</a> leaving do.</p>
 
-<h2 id="acceptance-criteria">Acceptance criteria</h2>
+<h2 id="tuesday">Tuesday</h2>
 
-<p>The screen reader will announce “current page” when it reads out the label of the current page in the site navigation.</p>
+<p>Tuesday I was busy catching up with all the emails I’d ignored last week. The most important was reviewing CVs for contract user experience designers to replace Tom while we hire a permanent replacement.</p>
 
-<h2 id="whats-changed">What’s changed</h2>
+<p>I also had to fill out the recruitment template on SharePoint for the permanent replacement. I think SharePoint is terrible and I predict that moaning about it will be a recurring theme in my weeknotes.</p>
 
-<p>I’ve added the <code class="highlighter-rouge">aria-current="page"</code> attribute to the current page link in the site nav.</p>
+<p><a href="https://twitter.com/Carlie_Edge">Carlie</a> also showed us the <a href="https://www.nationaltrust.org.uk/tredegar-house/features/brewhouse-tearooms">National Trust tea rooms</a> which are just a 15 minute walk from the office. There is a lovely coartyard too which feels a million miles away from the lovingly named ‘Government Buildings’, where ONS is based.</p>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;nav class="site-nav" role="navigation"&gt;
-  &lt;a class="current page-link" aria-current="page" href="/"&gt;Home&lt;/a&gt;
-  &lt;a class="page-link" href="/about/"&gt;About&lt;/a&gt;
-  &lt;a class="page-link" href="/blog/"&gt;Blog&lt;/a&gt;
-&lt;/nav&gt;
-</code></pre></div></div>
+<p>I started doing 1-to-1s with some of the new designers (<a href="https://twitter.com/mrandybudd">Andy</a> and <a href="https://twitter.com/mathew_weeks">Matt</a>). They seem to be doing really well and I’m impressed with their progress despite me being too busy to really help them out much.</p>
 
-<p><a href="/">Visit the home page to test this out</a></p>
+<p>Lastly on Tuesday we had a chat about how to improve the maps we publish on the ONS website. There were some difficult conversations about how we balance rich interactive content with accessibility and progressive enhancement.</p>
 
-<h2 id="resources">Resources</h2>
-<ul>
-  <li><a href="https://tink.uk/using-the-aria-current-attribute/">Using the aria-current attribute by Léonie Watson</a></li>
-  <li><a href="http://design-patterns.tink.uk/aria-current/">aria-current design patterns by Léonie Watson</a></li>
-</ul>
+<h2 id="wednesday">Wednesday</h2>
+
+<p>I was meant to be going to the <a href="http://digitalaccessibilitycentre.org/">Digital Accessibility Centre</a> in Neath to observe them auditing the “filter a dataset” part of <a href="https://digitalblog.ons.gov.uk/2018/01/15/customise-my-data-public-beta/">Customise My Data</a>. But, I caught a stomach bug off the kids so I couldn’t go.</p>
+
+<h2 id="thursday">Thursday</h2>
+
+<p>I was off again on Thursday to look after the kids, but managed to do some prepping for the contractor interviews during nap time.</p>
+
+<h2 id="friday">Friday</h2>
+
+<p>We (the designers in digital publishing) held a second design review/critique session because I’d missed the usual Thursday slot.</p>
+
+<p>Matt has started mocking up design patterns for the interactive content that we publish on the website, so we can begin to formalise the designs and be more consistent across releases.</p>
+
+<p>Andy and <a href="https://twitter.com/designergrace">Grace</a> have started working on the UKSA Annual Report – it’s shaping up nicely after just one week. I showed the new <a href="https://onsdigital.github.io/dp-design-manual/sprint/23/bulletin/">bulletin</a> prototype.</p>
+
+<p>I was a bit late leaving work, but managed to catch an interview with with <a href="https://twitter.com/MonaChalabi">Mona Chalabi</a> on <a href="https://www.bbc.co.uk/programmes/b0b0xll3">Radio 4’s More or Less</a> programme. It’s worth a listen if you’re interested in Data Journalism.</p>
 
 </article>
 

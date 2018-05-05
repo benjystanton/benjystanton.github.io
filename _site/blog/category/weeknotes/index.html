@@ -6,18 +6,18 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>Add aria-current to the site nav – Benjy Stanton</title>
-  <meta name="description" content="When browsing the main pages of this site (home, about, blog) the current page link changes style. This helps sighted users to tell which page they’re on. Bu...">
+  <title>Weeknotes – Benjy Stanton</title>
+  <meta name="description" content="UX Designer. Family Man. Music Snob.">
 
   <!-- Twitter summary card stuff, based on http://davidensinger.com/2013/04/supporting-twitter-cards-with-jekyll/ -->
   <meta name="twitter:card" content="summary">
   <meta name="twitter:site" content="benjystanton">
-  <meta name="twitter:title" content="Add aria-current to the site nav" />
-  <meta name="twitter:description" content="When browsing the main pages of this site (home, about, blog) the current page link changes style. This helps sighted users to tell which page they’re on. Bu..." />
+  <meta name="twitter:title" content="Weeknotes" />
+  <meta name="twitter:description" content="UX Designer. Family Man. Music Snob." />
   
   <link rel="stylesheet" href="/css/main.css">
   <link rel="stylesheet" href="https://use.typekit.net/wcw4icc.css">
-  <link rel="canonical" href="http://localhost:4000/blog/add-aria-current/">
+  <link rel="canonical" href="http://localhost:4000/blog/category/weeknotes/">
   <link rel="alternate" type="application/rss+xml" title="Benjy Stanton" href="http://localhost:4000/feed.xml" />
 </head>
 
@@ -60,50 +60,31 @@
           
 
 <header class="post-header">
-  <h1 class="post-title">Add aria-current to the site nav</h1>
-  <p class="post-meta">13 January 2018 • 
-
-<a href="/blog/category/release-notes">release-notes</a>
-
-
-</p>
+  <h1 class="post-title">Weeknotes</h1>
   
 
 </header>
 
 <article class="post-content" role="article">
-  <p>When browsing the main pages of this site (home, about, blog) the current page link changes style. This helps sighted users to tell which page they’re on. But this feature is invisible to screen reader users. So I’m adding the <code class="highlighter-rouge">aria-current</code> attribute to fix this.</p>
+    
 
-<h2 id="user-story">User story</h2>
+  <ul class="post-list margin-top--s">
+    
+      <li>
+        <h2>
+          <a class="post-link" href="/blog/weeknotes/">Weeknotes – series 01 episode 01</a>
+        </h2>
+        <span class="post-meta"> 5 May 2018</span>
 
-<p>As a screen reader user, I need to know which page I’m on when I’m using the navigation, so that I can find my way around the site.</p>
+      </li>
+    
+  </ul>
 
-<h2 id="acceptance-criteria">Acceptance criteria</h2>
-
-<p>The screen reader will announce “current page” when it reads out the label of the current page in the site navigation.</p>
-
-<h2 id="whats-changed">What’s changed</h2>
-
-<p>I’ve added the <code class="highlighter-rouge">aria-current="page"</code> attribute to the current page link in the site nav.</p>
-
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;nav class="site-nav" role="navigation"&gt;
-  &lt;a class="current page-link" aria-current="page" href="/"&gt;Home&lt;/a&gt;
-  &lt;a class="page-link" href="/about/"&gt;About&lt;/a&gt;
-  &lt;a class="page-link" href="/blog/"&gt;Blog&lt;/a&gt;
-&lt;/nav&gt;
-</code></pre></div></div>
-
-<p><a href="/">Visit the home page to test this out</a></p>
-
-<h2 id="resources">Resources</h2>
-<ul>
-  <li><a href="https://tink.uk/using-the-aria-current-attribute/">Using the aria-current attribute by Léonie Watson</a></li>
-  <li><a href="http://design-patterns.tink.uk/aria-current/">aria-current design patterns by Léonie Watson</a></li>
-</ul>
+  <p class="margin-top--m"><a href="/blog/category">← Back to all categories</a></p>
 
 </article>
 
-<p class="margin-top--m"><a href="/blog">← Back to the blog</a></p>
+
 
         </div>
       </div>
