@@ -1,41 +1,41 @@
-"label","url"
-"Dash-bored","https://medium.com/@drryandunn/dash-bored-f0c460a240e6"
-"Designing Better Design Documentation","https://medium.muz.li/design-docs-6bb34589f7a9"
-"Going Offline","https://abookapart.com/products/going-offline"
-"Everything About Web Design Just Changed","https://speakerdeck.com/jensimmons/everything-about-web-design-just-changed"
-"Creating Themeable Design Systems","http://bradfrost.com/blog/post/creating-themeable-design-systems/"
-"What do we mean when we talk about services?","https://gds.blog.gov.uk/2018/04/04/what-do-we-mean-when-we-talk-about-services/"
-"Dear Developer, The Web Isn't About You","https://sonniesedge.co.uk/talks/dear-developer"
-"Pitfalls of Card UIs","https://daverupert.com/2018/04/pitfalls-of-card-uis/"
-"Smarter Tables with Sketch + Paddy","https://medium.com/sketch-app-sources/smarter-tables-with-sketch-paddy-3214f6594611"
-"Using a design challenge to bring policy and design closer together","https://dwpdigital.blog.gov.uk/2018/03/27/using-a-design-challenge-to-bring-policy-and-design-closer-together/"
-"The strange becoming familiar","https://medium.com/@BenHolliday/the-strange-becoming-familiar-218df65c9a4c"
-"The problem of ‘Looks good’ inclusive design","https://medium.com/@acuity_design/the-problem-of-looks-good-inclusive-design-741022b4ac44"
-"Enabling Webmentions in Jekyll","https://www.aaron-gustafson.com/notebook/enabling-webmentions-in-jekyll/"
-"How You Can Aid User Scanning with Eyebrow Headlines","http://uxmovement.com/content/how-you-can-aid-user-scanning-with-eyebrow-headlines/"
-"Why Work Out Loud?","https://neiltamplin.me/why-work-out-loud-a432de7b6883"
-"Introducing Second: a framework for mostly-static React applications","https://wildlyinaccurate.com/introducing-second-a-framework-for-mostly-static-react-applications"
-"Resilience: Building a Robust Web That Lasts by Jeremy Keith—An Event Apart video","https://aneventapart.com/news/post/resilience-building-a-robust-web-that-lasts-jeremy-keith-an-event-apart"
-"Takeaways from the DSConf (part 1/2)","https://medium.com/dsconf/takeaways-from-the-dsconf-part-1-2-90730393ee3d"
-"Data Viz Project | Collection of data visualizations to get inspired and finding the right type.","http://datavizproject.com/"
-"Project boards that build team harmony ?","http://www.purple.pm/"
-"It's Nice That | An insight into The Guardian’s newly released brand guidelines #branding","https://pinthemall.net/pin/561cdc9481edb/"
-"Scrolling and Attention","https://www.nngroup.com/articles/scrolling-and-attention/"
-"Common ways we break accessibility and how to avoid them - Laura Carvajal | Render Conf 2018","https://www.youtube.com/watch?v=O_OJfY4Jax4&amp=&t=0s&amp=&index=11"
-"Data Sketches | A year of exotic data visualizations - Nadieh Bremer | Render Conf 2018","https://www.youtube.com/watch?v=ZqoqBfwULbQ&amp=&t=0s&amp=&index=13"
-"Smashing Conf 2018","https://www.madebymike.com.au/smashing-conf-2018/"
-"How to use the open standards for data canvas","https://standards.theodi.org/useful-tools/how-to-use-the-open-standards-for-data-canvas/"
-"If you enjoy Spectacle please consider donating","https://www.spectacleapp.com/"
-"We Can’t Do That In One Sprint","https://hackernoon.com/we-cant-do-that-in-one-sprint-a6780d67480"
-"Managing Heading Levels In Design Systems","https://medium.com/@Heydon/managing-heading-levels-in-design-systems-18be9a746fa3"
-"Scroll to the future","https://evilmartians.com/chronicles/scroll-to-the-future-modern-javascript-css-scrolling-implementations"
-"Empathy Map – Why and How to Use It","https://www.interaction-design.org/literature/article/empathy-map-why-and-how-to-use-it"
-"The Core Model: Designing Inside Out for Better Results","https://alistapart.com/article/the-core-model-designing-inside-out-for-better-results"
-"Users don’t hate change. They hate our design choices.","https://articles.uie.com/users-dont-hate-change-they-hate-our-design-choices/"
-"A new typeface for Parliament","https://pds.blog.parliament.uk/2018/04/23/a-new-typeface-for-parliament/"
-"Comparing service design and business analysis","https://medium.com/leading-service-design/comparing-service-design-and-business-analysis-aed52d8ea8fb"
-"The Illusion of Control in Web Design","http://alistapart.com/article/the-illusion-of-control-in-web-design"
-"Variable Fonts (beta)","https://v-fonts.com/"
-"Shortcuts.design","http://shortcuts.design/"
-"Despicable Design – When “Going Evil” is the Perfect Technique","https://articles.uie.com/despicable-design-when-going-evil-is-the-perfect-technique/"
-"Consultation launch: accessibility of public sector websites and apps","https://gds.blog.gov.uk/2018/04/30/consultation-launch-accessibility-of-public-sector-websites-and-apps/"
+name,url,
+Dash-bored,https://medium.com/@drryandunn/dash-bored-f0c460a240e6,
+Designing Better Design Documentation,https://medium.muz.li/design-docs-6bb34589f7a9,
+Going Offline,https://abookapart.com/products/going-offline,
+Everything About Web Design Just Changed,https://speakerdeck.com/jensimmons/everything-about-web-design-just-changed,
+Creating Themeable Design Systems,http://bradfrost.com/blog/post/creating-themeable-design-systems/,
+What do we mean when we talk about services?,https://gds.blog.gov.uk/2018/04/04/what-do-we-mean-when-we-talk-about-services/,
+"Dear Developer, The Web Isn't About You",https://sonniesedge.co.uk/talks/dear-developer,
+Pitfalls of Card UIs,https://daverupert.com/2018/04/pitfalls-of-card-uis/,
+Smarter Tables with Sketch + Paddy,https://medium.com/sketch-app-sources/smarter-tables-with-sketch-paddy-3214f6594611,
+Using a design challenge to bring policy and design closer together,https://dwpdigital.blog.gov.uk/2018/03/27/using-a-design-challenge-to-bring-policy-and-design-closer-together/,
+The strange becoming familiar,https://medium.com/@BenHolliday/the-strange-becoming-familiar-218df65c9a4c,
+The problem of ‘Looks good’ inclusive design,https://medium.com/@acuity_design/the-problem-of-looks-good-inclusive-design-741022b4ac44,
+Enabling Webmentions in Jekyll,https://www.aaron-gustafson.com/notebook/enabling-webmentions-in-jekyll/,
+How You Can Aid User Scanning with Eyebrow Headlines,http://uxmovement.com/content/how-you-can-aid-user-scanning-with-eyebrow-headlines/,
+Why Work Out Loud?,https://neiltamplin.me/why-work-out-loud-a432de7b6883,
+Introducing Second: a framework for mostly-static React applications,https://wildlyinaccurate.com/introducing-second-a-framework-for-mostly-static-react-applications,
+Resilience: Building a Robust Web That Lasts by Jeremy Keith—An Event Apart video,https://aneventapart.com/news/post/resilience-building-a-robust-web-that-lasts-jeremy-keith-an-event-apart,
+Takeaways from the DSConf (part 1/2),https://medium.com/dsconf/takeaways-from-the-dsconf-part-1-2-90730393ee3d,
+Data Viz Project | Collection of data visualizations to get inspired and finding the right type.,http://datavizproject.com/,
+Project boards that build team harmony ?,http://www.purple.pm/,
+It's Nice That | An insight into The Guardian’s newly released brand guidelines #branding,https://pinthemall.net/pin/561cdc9481edb/,
+Scrolling and Attention,https://www.nngroup.com/articles/scrolling-and-attention/,
+Common ways we break accessibility and how to avoid them - Laura Carvajal | Render Conf 2018,https://www.youtube.com/watch?v=O_OJfY4Jax4&amp=&t=0s&amp=&index=11,
+Data Sketches | A year of exotic data visualizations - Nadieh Bremer | Render Conf 2018,https://www.youtube.com/watch?v=ZqoqBfwULbQ&amp=&t=0s&amp=&index=13,
+Smashing Conf 2018,https://www.madebymike.com.au/smashing-conf-2018/,
+How to use the open standards for data canvas,https://standards.theodi.org/useful-tools/how-to-use-the-open-standards-for-data-canvas/,
+If you enjoy Spectacle please consider donating,https://www.spectacleapp.com/,
+We Can’t Do That In One Sprint,https://hackernoon.com/we-cant-do-that-in-one-sprint-a6780d67480,
+Managing Heading Levels In Design Systems,https://medium.com/@Heydon/managing-heading-levels-in-design-systems-18be9a746fa3,
+Scroll to the future,https://evilmartians.com/chronicles/scroll-to-the-future-modern-javascript-css-scrolling-implementations,
+Empathy Map – Why and How to Use It,https://www.interaction-design.org/literature/article/empathy-map-why-and-how-to-use-it,
+The Core Model: Designing Inside Out for Better Results,https://alistapart.com/article/the-core-model-designing-inside-out-for-better-results,
+Users don’t hate change. They hate our design choices.,https://articles.uie.com/users-dont-hate-change-they-hate-our-design-choices/,
+A new typeface for Parliament,https://pds.blog.parliament.uk/2018/04/23/a-new-typeface-for-parliament/,
+Comparing service design and business analysis,https://medium.com/leading-service-design/comparing-service-design-and-business-analysis-aed52d8ea8fb,
+The Illusion of Control in Web Design,http://alistapart.com/article/the-illusion-of-control-in-web-design,
+Variable Fonts (beta),https://v-fonts.com/,
+Shortcuts.design,http://shortcuts.design/,
+Despicable Design – When “Going Evil” is the Perfect Technique,https://articles.uie.com/despicable-design-when-going-evil-is-the-perfect-technique/,
+Consultation launch: accessibility of public sector websites and apps,https://gds.blog.gov.uk/2018/04/30/consultation-launch-accessibility-of-public-sector-websites-and-apps/,
