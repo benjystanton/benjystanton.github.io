@@ -2,5 +2,9 @@
   {{ include.big-number }}
 </span>
 <span>
-  {{ include.text }}
+  {% if include.url %}
+  <a href="{{ include.url }}">{{ include.text }}</a>
+  {% else %}
+    {{ include.text }}
+  {% endif %}
 </span>

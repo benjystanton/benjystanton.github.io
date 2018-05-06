@@ -3,11 +3,47 @@ layout: page
 title: Hi, my name is Benjy and I’m a user experience (UX) designer
 ---
 
-I'm the lead user experience designer on the Office for National Statistics (ONS) website. You can read about our work on the [ONS digital blog](http://digitalblog.ons.gov.uk/).
+<p class="lede">I’m the lead user experience designer on the Office for National Statistics (ONS) website. I have 3 kids, and in my spare time in enjoy hanging out with them. I also enjoy finding ways to relax and listen to music with no kids around.</p>
 
-I have 3 kids and in my spare time I enjoy messing around with this blog and listening to music.
+<!-- You can't pass variables straight into includes, you have to capture them first https://jekyllrb.com/docs/includes/#passing-parameter-variables-to-includes  -->
 
-<p class="margin-top--m"><a href="/blog">Read my blog →</a></p>
+{% capture post-count %}
+{{ site.posts | size }}
+{% endcapture %}
+
+{% capture category-count %}
+{{ site.categories | size }}
+{% endcapture %}
+
+{% capture weeknotes-count %}
+{{ site.categories.weeknotes | size }}
+{% endcapture %}
+
+<div class="flex-grid margin-top--s">
+  <div class="flex-grid__col flex-grid__col--third">
+  {% include big-number.html
+    big-number=post-count
+    text="blog posts"
+    url="/blog/"
+  %}
+  </div>
+  <div class="flex-grid__col flex-grid__col--third">
+  {% include big-number.html
+    big-number=category-count
+    text="categories"
+    url="/blog/category/"
+  %}
+  </div>
+  <div class="flex-grid__col flex-grid__col--third">
+  {% include big-number.html
+    big-number=weeknotes-count
+    text="weeknotes"
+    url="/blog/category/weeknotes"
+  %}
+  </div>
+</div>
+
+<p class="margin-top--s"><a href="/blog">Read my blog →</a></p>
 
 <!-- ***
 

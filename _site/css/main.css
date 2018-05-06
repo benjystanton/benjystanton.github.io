@@ -251,10 +251,6 @@ blockquote {
 
 .site-nav {
   margin-top: 12px; }
-  @media screen and (min-width: 660px) {
-    .site-nav {
-      float: right;
-      margin-top: 18px; } }
   .site-nav .page-link {
     line-height: 1.4; }
     .site-nav .page-link:not(:first-child) {

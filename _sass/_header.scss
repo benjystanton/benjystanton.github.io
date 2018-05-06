@@ -44,10 +44,10 @@
 
     margin-top: $spacing-unit/3;
 
-    @include media-query($medium) {
-        float: right;
-        margin-top: $spacing-unit/2;
-    }
+    // @include media-query($medium) {
+    //     float: right;
+    //     margin-top: $spacing-unit/2;
+    // }
 
     .page-link {
         line-height: $base-line-height;
