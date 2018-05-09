@@ -69,3 +69,15 @@
     - Birmingham New Street
     - Bristol Parkway
     - Swansea
+
+- destination: Birmingham
+  category: User research
+  month: May
+  outwardJourney:
+    - Swansea
+    - Bristol Parkway
+    - Birmingham New Street
+  returnJourney:
+    - Birmingham New Street
+    - Newport (South Wales)
+    - Swansea
