@@ -7,6 +7,8 @@ title: Hi, my name is Benjy and I’m a user experience (UX) designer
 
 I have 3 kids, and in my spare time I enjoy hanging out with them. I also enjoy finding ways to relax with no kids around.
 
+## Blog stats
+
 <!-- You can't pass variables straight into includes, you have to capture them first https://jekyllrb.com/docs/includes/#passing-parameter-variables-to-includes  -->
 
 {% capture post-count %}
