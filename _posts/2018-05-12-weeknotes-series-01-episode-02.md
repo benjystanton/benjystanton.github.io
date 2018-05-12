@@ -5,6 +5,7 @@ categories: weeknotes
 image: sisters-beach-square.jpg
 image-alt: 2 girls standing together, looking down at the beach on a sunny day
 excerpt: Heatwave edition.
+crosspost_to_medium: true
 
 ---
 
