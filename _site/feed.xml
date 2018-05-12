@@ -5,9 +5,73 @@
     <description>UX Designer. Family Man. Music Snob.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 09 May 2018 21:23:31 +0100</pubDate>
-    <lastBuildDate>Wed, 09 May 2018 21:23:31 +0100</lastBuildDate>
+    <pubDate>Sat, 12 May 2018 22:00:05 +0100</pubDate>
+    <lastBuildDate>Sat, 12 May 2018 22:00:05 +0100</lastBuildDate>
     <generator>Jekyll v3.8.1</generator>
+    
+      <item>
+        <title>Weeknotes – series 01 episode 02</title>
+        <description>&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/sisters-beach.jpg&quot; alt=&quot;2 girls standing together, looking down at the beach on a sunny day&quot; /&gt;&lt;/p&gt;
+
+&lt;p class=&quot;lede&quot;&gt;It was the super hot bank holiday weekend – so I was down the beach with the family, along with most of the country. Related: &lt;a href=&quot;https://twitter.com/awen_j/status/994220526171312128&quot;&gt;Awen&lt;/a&gt; noticed that Saturday 5th May had the lowest number of sessions on the ONS website since Boxing Day 2017.&lt;/p&gt;
+
+&lt;h2 id=&quot;monday--tuesday&quot;&gt;Monday &amp;amp; Tuesday&lt;/h2&gt;
+
+&lt;p&gt;Days off. &lt;span role=&quot;img&quot; aria-label=&quot;Smiling face With sunglasses&quot;&gt;😎&lt;/span&gt;
+&lt;!-- Accessible emojis, inspired by https://tink.uk/accessible-emoji/ --&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;wednesday&quot;&gt;Wednesday&lt;/h2&gt;
+
+&lt;h3 id=&quot;stats-new-zealand&quot;&gt;Stats New Zealand&lt;/h3&gt;
+
+&lt;p&gt;Me and &lt;a href=&quot;https://twitter.com/rachelpricetag&quot;&gt;Rachel&lt;/a&gt; started the day early by chatting to Blair and Arna from the &lt;a href=&quot;https://www.stats.govt.nz/&quot;&gt;Stats.NZ website&lt;/a&gt;. 8am for us was 6pm for them I think. It was reassuring to hear their research and findings were inline with what we learn from users of the ONS website. They’re also doing some great work to measure and learn how well individual releases are doing, so they can benchmark their performance.&lt;/p&gt;
+
+&lt;h3 id=&quot;show-and-tell&quot;&gt;Show and tell&lt;/h3&gt;
+
+&lt;p&gt;We had the show and tell for &lt;a href=&quot;https://onsdigital.github.io/dp-prototypes/#sprint-23&quot;&gt;sprint 23&lt;/a&gt;. Everyone was excited by &lt;a href=&quot;https://twitter.com/robchamberspfc/status/992301199155085312&quot;&gt;observation level endpoints&lt;/a&gt; being added to the API for some reason. More importantly I showed the &lt;a href=&quot;https://onsdigital.github.io/dp-design-manual/sprint/23/bulletin/&quot;&gt;prototype&lt;/a&gt; we made during the recent design sprint.&lt;/p&gt;
+
+&lt;h3 id=&quot;culture-and-service-design&quot;&gt;Culture and service design&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/reinikainen&quot;&gt;Esko&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/likeaword&quot;&gt;Ben&lt;/a&gt; popped in to give a &lt;a href=&quot;https://twitter.com/mr_dudders/status/993832910435299330&quot;&gt;lunch time talk&lt;/a&gt; about service design and culture. I really liked what Ben said about culture…&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“culture is: what is okay here and what is not okay”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;… it reminded me of the &lt;a href=&quot;https://gds.blog.gov.uk/2016/05/25/its-ok-to-say-whats-ok/&quot;&gt;GDS it’s okay to poster&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;thursday&quot;&gt;Thursday&lt;/h2&gt;
+
+&lt;h3 id=&quot;usability-testing&quot;&gt;Usability testing&lt;/h3&gt;
+
+&lt;p&gt;On Thursday I went to Birmingham with &lt;a href=&quot;https://twitter.com/AldaviesAlison&quot;&gt;Al&lt;/a&gt; to observe some user research sessions. We did the first round of usability testing on the new bulletin prototype and I even managed to create a &lt;a href=&quot;https://onsdigital.github.io/dp-design-manual/sprint/24/bulletin/&quot;&gt;second iteration&lt;/a&gt; whilst I was up there fixing some of the obvious issues (like missing links).&lt;/p&gt;
+
+&lt;h3 id=&quot;prototyping-on-the-train&quot;&gt;Prototyping on the train&lt;/h3&gt;
+
+&lt;p&gt;Whilst on the train back I began to split the &lt;a href=&quot;https://github.com/benjystanton/dp-prototype-kit&quot;&gt;ONS website prototype kit&lt;/a&gt; out of the &lt;a href=&quot;https://github.com/ONSdigital/dp-design-manual&quot;&gt;design manual&lt;/a&gt; repo. It no longer makes sense to keep them together and having them separate should make it easier to update both.&lt;/p&gt;
+
+&lt;h2 id=&quot;friday&quot;&gt;Friday&lt;/h2&gt;
+
+&lt;h3 id=&quot;hiring-a-user-experience-designer&quot;&gt;Hiring a user experience designer&lt;/h3&gt;
+
+&lt;p&gt;The &lt;a href=&quot;https://www.civilservicejobs.service.gov.uk/csr/jobs.cgi?jcode=1581727&quot;&gt;job ad went live&lt;/a&gt; on Friday to replace &lt;a href=&quot;https://twitter.com/tomten2two&quot;&gt;Tom&lt;/a&gt;. I’m pretty pleased with the job description:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“As a user experience designer in the Digital Publishing department, you’ll help us to improve the usability, interaction and accessibility of the ONS website and the content management systems that the publishing team use. You’ll help our users to find, understand and use our content. You’ll work with the design community across ONS to create a consistent design system that meets user needs. You’ll love the web and working in the open.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;future-of-research-and-design-at-ons&quot;&gt;Future of research and design at ONS&lt;/h3&gt;
+
+&lt;p&gt;Then, just a little 3 hour meeting to round the week off. Me and the user-centred design leads at ONS got together to talk about future plans for our teams. More news on that soon.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 12 May 2018 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/blog/weeknotes-series-01-episode-02/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/weeknotes-series-01-episode-02/</guid>
+        
+        
+        <category>weeknotes</category>
+        
+      </item>
     
       <item>
         <title>Weeknotes – series 01 episode 01</title>
@@ -1024,59 +1088,6 @@
         <pubDate>Sat, 27 Jan 2018 22:16:00 +0000</pubDate>
         <link>http://localhost:4000/blog/change-date-format/</link>
         <guid isPermaLink="true">http://localhost:4000/blog/change-date-format/</guid>
-        
-        
-        <category>release-notes</category>
-        
-      </item>
-    
-      <item>
-        <title>Add SVG icons to the footer</title>
-        <description>&lt;p&gt;I’ve been meaning to switch out the old PNG icons on the site for a while. Inline SVG icons are better because they look crisper, can be controlled using CSS and have some performance gains.&lt;/p&gt;
-
-&lt;h2 id=&quot;user-story&quot;&gt;User story&lt;/h2&gt;
-
-&lt;p&gt;As a user, I need icons to help me recognise social links, so that I can spot links easily and be confident in where they’ll take me.&lt;/p&gt;
-
-&lt;h2 id=&quot;acceptance-criteria&quot;&gt;Acceptance criteria&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;PNG icons are switched to SVG Icons&lt;/li&gt;
-  &lt;li&gt;SVG colour is controlled via CSS&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://jakearchibald.github.io/svgomg/&quot;&gt;SVG is optimised&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://decks.tink.uk/2017/lws/index.html&quot;&gt;SVG is accessible&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Stop using the &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;i&amp;gt;&lt;/code&gt; tag&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;whats-changed&quot;&gt;What’s changed&lt;/h2&gt;
-
-&lt;h3 id=&quot;old-html&quot;&gt;Old HTML&lt;/h3&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;i&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;icon icon-social icon-instagram&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;span&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;visuallyhidden&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Instagram&lt;span class=&quot;nt&quot;&gt;&amp;lt;/span&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;/i&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;h3 id=&quot;new-html&quot;&gt;New HTML&lt;/h3&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;span&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;icon&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;svg&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;width=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;25&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;viewBox=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;0 0 25 25&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;g&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;role=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;img&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;aria-labelledby=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;twitter-icon-title&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;title&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;id=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;twitter-icon-title&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Twitter&lt;span class=&quot;nt&quot;&gt;&amp;lt;/title&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;path&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;d=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;M7.8 22.6c8 .1 14.6-6.3 14.6-14.3v-.9c1-.7 1.8-1.6 2.5-2.7-.9.4-1.9.7-3 .8a4.7 4.7 0 0 0 2.2-2.8c-1 .6-2.1 1.1-3.2 1.3a5.1 5.1 0 0 0-7.3-.2c-1 1-1.6 2.3-1.6 3.7l.1 1.1C8.2 8.4 4.4 6.5 1.7 3.3a5 5 0 0 0 1.5 6.8c-.7 0-1.5-.2-2.2-.6v.1c0 2.4 1.7 4.6 4.1 5.1-.7.2-1.5.2-2.3.1a5 5 0 0 0 4.8 3.5 10.5 10.5 0 0 1-6.4 2.2H0c2.3 1.4 5.1 2.1 7.8 2.1&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;/&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;/g&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;/svg&amp;gt;&lt;/span&gt;
-
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;/span&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;h3 id=&quot;performance&quot;&gt;Performance&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;File size is reduced from 1.05 KB to 500 bytes&lt;/li&gt;
-  &lt;li&gt;There is one less http request because we don’t need to load an external image&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Fri, 19 Jan 2018 21:58:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/add-svg-icons/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/add-svg-icons/</guid>
         
         
         <category>release-notes</category>
