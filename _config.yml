@@ -9,10 +9,6 @@ github_username:  benjystanton
 dribbble_username:  benjystanton
 instagram_username:  benjystanton
 
-# plugins
-plugins:
-  - jekyll-crosspost-to-medium
-
 # Build settings
 markdown: kramdown
 

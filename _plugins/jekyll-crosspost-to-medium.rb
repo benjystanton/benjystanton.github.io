@@ -78,13 +78,13 @@ module Jekyll
               content = post.content
               url = "#{@site.config['url']}#{post.url}"
               title = post.data['title']
-              
+
               published_at = backdate ? post.date : DateTime.now
 
               crosspost_payload(crossposted, post, content, title, url, published_at)
             end
           else
-            
+
             # post Jekyll commit 0c0aea3
             # https://github.com/jekyll/jekyll/commit/0c0aea3ad7d2605325d420a23d21729c5cf7cf88
             if defined? site.find_converter_instance
@@ -112,11 +112,11 @@ module Jekyll
 
               url = "#{@site.config['url']}#{post.url}"
               title = post.title
-              
+
               published_at = backdate ? post.date : DateTime.now
 
               crosspost_payload(crossposted, post, content, title, url, published_at)
-              
+
             end
           end
         end
@@ -213,5 +213,5 @@ module Jekyll
     end
 
   end
-  
+
 end

@@ -2,6 +2,7 @@
 layout: page
 title: Weeknotes – series 01 episode 01
 categories: weeknotes
+crosspost_to_medium: true
 ---
 
 <p class="lede">My first ever weeknotes! Thanks to <a href="https://twitter.com/dasbarrett">Dan Barret</a> for finally pushing me over the edge and convincing me to start. This <a href="https://weeknot.es/what-on-earth-are-weeknotes-a81874c5cef9">intro to weeknotes</a> by <a href="https://twitter.com/JennyVass">Jenny Vas</a> helped too.</p>
