@@ -11,4 +11,6 @@ categories: ons
 
 ## Working at ONS
 
-To learn what it's like to learn at ONS, check out our [Digital Blog](https://digitalblog.ons.gov.uk/) or you can read some of my [ONS posts](/blog/category/ons/) and [weeknotes](/blog/category/weeknotes/).
+To learn what it's like to work at ONS, check out our [Digital Blog](https://digitalblog.ons.gov.uk/) or you can read some of my [ONS posts](/blog/category/ons/) and [weeknotes](/blog/category/weeknotes/).
+
+Or, feel free to [ask me on Twitter](https://twitter.com/benjystanton).
