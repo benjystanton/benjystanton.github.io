@@ -5,9 +5,31 @@
     <description>UX Designer. Family Man. Music Snob.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 12 May 2018 23:22:43 +0100</pubDate>
-    <lastBuildDate>Sat, 12 May 2018 23:22:43 +0100</lastBuildDate>
+    <pubDate>Mon, 14 May 2018 17:01:48 +0100</pubDate>
+    <lastBuildDate>Mon, 14 May 2018 17:01:48 +0100</lastBuildDate>
     <generator>Jekyll v3.8.1</generator>
+    
+      <item>
+        <title>Hiring a user experience (UX) designer at ONS</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;Closing date: 11 Jun 2018&lt;/li&gt;
+  &lt;li&gt;Salary: £28,450 to £33,249&lt;/li&gt;
+  &lt;li&gt;Location: Newport&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.civilservicejobs.service.gov.uk/csr/jobs.cgi?jcode=1581727&quot;&gt;Read the full job advert&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;working-at-ons&quot;&gt;Working at ONS&lt;/h2&gt;
+
+&lt;p&gt;To learn what it’s like to learn at ONS, check out our &lt;a href=&quot;https://digitalblog.ons.gov.uk/&quot;&gt;Digital Blog&lt;/a&gt; or you can read some of my &lt;a href=&quot;/blog/category/ons/&quot;&gt;ONS posts&lt;/a&gt; and &lt;a href=&quot;/blog/category/weeknotes/&quot;&gt;weeknotes&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 14 May 2018 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/blog/hiring-ux-designer-ons/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/hiring-ux-designer-ons/</guid>
+        
+        
+        <category>ons</category>
+        
+      </item>
     
       <item>
         <title>Weeknotes – series 01 episode 02</title>
@@ -1066,31 +1088,6 @@
         
         
         <category>links</category>
-        
-      </item>
-    
-      <item>
-        <title>Change date format</title>
-        <description>&lt;p&gt;The “published on” date sometimes appeared below the post-title and sometimes it appeared above it. I wanted to fix this small inconsistency. I also wanted to take this opportunity to make the date format a bit more natural by removing the leading zero from the date and writing out months in full.&lt;/p&gt;
-
-&lt;h2 id=&quot;user-story&quot;&gt;User story&lt;/h2&gt;
-
-&lt;p&gt;As a user, I need to know when an article was written, to help me decide if the content is still relevant.&lt;/p&gt;
-
-&lt;h2 id=&quot;acceptance-criteria&quot;&gt;Acceptance criteria&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Date format is changed from &lt;code class=&quot;highlighter-rouge&quot;&gt;01 Jan 2018&lt;/code&gt; to &lt;code class=&quot;highlighter-rouge&quot;&gt;1 January 2018&lt;/code&gt; to match the &lt;a href=&quot;https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style#dates&quot;&gt;GDS content style guide&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Use the &lt;a href=&quot;https://shopify.github.io/liquid/filters/date/&quot;&gt;Shopify Liquid&lt;/a&gt; and &lt;a href=&quot;http://strftime.net/&quot;&gt;STRFTIME&lt;/a&gt; resources to control the date format&lt;/li&gt;
-  &lt;li&gt;Date is moved below the title on post pages&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Sat, 27 Jan 2018 22:16:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/change-date-format/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/change-date-format/</guid>
-        
-        
-        <category>release-notes</category>
         
       </item>
     
