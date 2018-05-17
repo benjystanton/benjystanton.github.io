@@ -81,3 +81,13 @@
     - Birmingham New Street
     - Newport (South Wales)
     - Swansea
+
+- destination: Government Digital Service, London
+  category: Training
+  month: May
+  outwardJourney:
+    - Newport
+    - London Paddington
+  returnJourney:
+    - London Paddington
+    - Swansea
