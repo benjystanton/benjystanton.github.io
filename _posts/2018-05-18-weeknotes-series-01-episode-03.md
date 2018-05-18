@@ -75,7 +75,7 @@ Me and [Matt](https://twitter.com/mathew_weeks) got together in the morning to r
 
 ### Design review
 
-We had our regular design reivew (my fav meeting of the week). [Carlie](https://twitter.com/Carlie_Edge) showed this neat data viz thing that Go Compare have made called [You and planet earth](http://www.gocompare.com/life-insurance/you-and-planet-earth/).
+We had our regular design review (my fav meeting of the week). [Carlie](https://twitter.com/Carlie_Edge) showed this neat data viz thing that Go Compare have made called [You and planet earth](http://www.gocompare.com/life-insurance/you-and-planet-earth/).
 
 ### Front-end dev and user experience (UX) design reviews
 
