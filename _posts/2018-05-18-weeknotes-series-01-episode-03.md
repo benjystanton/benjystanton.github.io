@@ -87,7 +87,7 @@ We did a card-sorting exercise to help us figure out how to:
 2. prioritise the elements on the page
 3. name the pages and sections
 
-### Train
+### London
 
 ![a pizza with an egg and spinach topping]({{ site.url }}/assets/pizza-union.jpg)
 
