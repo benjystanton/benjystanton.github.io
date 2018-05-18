@@ -23,6 +23,10 @@ The lead user-centred design people met with [Sam](https://twitter.com/SamHallWa
 
 [Andy](https://twitter.com/mr_dudders) brought back [co-op design principle](http://coop-design-manual.herokuapp.com/principles.html) stickers from his conference in Manchester.
 
+### Hiring a user experience designer
+
+The advert to [hire a user experience designer](https://www.civilservicejobs.service.gov.uk/csr/jobs.cgi?jcode=1581727) to replace Tom went live! No-one can replace Tom obviously – but we have to try.
+
 ## Tuesday
 
 ### Design sprint next steps
