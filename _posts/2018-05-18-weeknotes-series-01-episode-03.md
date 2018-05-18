@@ -21,6 +21,8 @@ The lead user-centred design people met with [Sam](https://twitter.com/SamHallWa
 
 ### Stickers!
 
+![sticker that reads: we design for everyone]({{ site.url }}/assets/coop-sticker.jpg)
+
 [Andy](https://twitter.com/mr_dudders) brought back [co-op design principle](http://coop-design-manual.herokuapp.com/principles.html) stickers from his conference in Manchester.
 
 ### Hiring a user experience designer
