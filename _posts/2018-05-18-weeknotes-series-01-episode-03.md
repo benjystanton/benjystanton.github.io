@@ -107,7 +107,7 @@ I was in London for my 'intro to [service design](https://gds.blog.gov.uk/2016/0
 
 The key takeaways were:
 
-- service design tools are easy to pick-up
+- service design tools are easy to pick-up (like this one: [service walkthroughs](https://twitter.com/benjystanton/status/997486239451316225))
 - you don't have to be an expert to start doing it
 - service design helps you to ask 'why?'
 - service design helps us to rephrase problem statements so we're meeting user needs
