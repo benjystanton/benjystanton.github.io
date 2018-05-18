@@ -112,3 +112,5 @@ The key takeaways were:
 - design across channel (digital, face-to-face, phone, letter, email)
 - service design is great for facilitating discussions  and creating shared understanding with stakeholders
 - service design can help you make sure you are building the right thing
+
+You can [see me being trained in the art of service design](https://twitter.com/Martin_Jordan/status/997427134258909184) in this tweet.
