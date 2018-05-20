@@ -21,6 +21,12 @@
         }
     }
 
+    @include media-query($xlarge) {
+        .wrapper {
+            padding-right: 10%;
+        }
+    }
+
 }
 
 // Grid

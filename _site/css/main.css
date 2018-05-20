@@ -304,6 +304,9 @@ blockquote {
       padding-top: 72px; }
       .page-content .wrapper {
         padding-right: 20%; } }
+  @media screen and (min-width: 1400px) {
+    .page-content .wrapper {
+      padding-right: 10%; } }
 
 .column {
   background-color: #e4e7ea;
