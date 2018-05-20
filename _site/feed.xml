@@ -5,9 +5,39 @@
     <description>UX Designer. Family Man. Music Snob.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 20 May 2018 12:28:29 +0100</pubDate>
-    <lastBuildDate>Sun, 20 May 2018 12:28:29 +0100</lastBuildDate>
+    <pubDate>Sun, 20 May 2018 21:47:09 +0100</pubDate>
+    <lastBuildDate>Sun, 20 May 2018 21:47:09 +0100</lastBuildDate>
     <generator>Jekyll v3.8.1</generator>
+    
+      <item>
+        <title>Service walkthrough</title>
+        <description>&lt;p class=&quot;lede&quot;&gt;Service walkthroughs are a service design tool. Observe a service by going through the stages of the user journey.&lt;/p&gt;
+
+&lt;h2 id=&quot;how-to-use-service-walkthroughs&quot;&gt;How to use service walkthroughs…&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;facilitator creates and acts out a scenario&lt;/li&gt;
+  &lt;li&gt;participant pretends to be a user&lt;/li&gt;
+  &lt;li&gt;walkthrough each touchpoint&lt;/li&gt;
+  &lt;li&gt;put equal emphasis on digital and human interactions&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;use-service-walkthroughs-to-find-out&quot;&gt;Use service walkthroughs to find out…&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;key touch points of the service&lt;/li&gt;
+  &lt;li&gt;gaps in the end-to-end journey&lt;/li&gt;
+  &lt;li&gt;how users become aware of a service&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sun, 20 May 2018 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/blog/service-walkthrough/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/service-walkthrough/</guid>
+        
+        
+        <category>service-design</category>
+        
+      </item>
     
       <item>
         <title>Weeknotes – series 01 episode 03</title>
@@ -1077,32 +1107,6 @@ You have to meet all competencies when you apply, and at the interview. [Read th
         <pubDate>Sat, 03 Feb 2018 21:08:00 +0000</pubDate>
         <link>http://localhost:4000/blog/use-fewer-layouts/</link>
         <guid isPermaLink="true">http://localhost:4000/blog/use-fewer-layouts/</guid>
-        
-        
-        <category>release-notes</category>
-        
-      </item>
-    
-      <item>
-        <title>Add a list of page layouts</title>
-        <description>&lt;p&gt;I’ve made a lot of changes to the site recently, and some small inconsistencies are creeping in to the page templates. Some very similar pages use different templates. And some layout stuff is stored in individual pages, making it more difficult to manage.&lt;/p&gt;
-
-&lt;p&gt;By adding a list of different page types I can start to make them more consistent.&lt;/p&gt;
-
-&lt;h2 id=&quot;user-story&quot;&gt;User story&lt;/h2&gt;
-
-&lt;p&gt;As a user, I need the website pages to be consistent, so that I can read and browse them easily.&lt;/p&gt;
-
-&lt;h2 id=&quot;acceptance-criteria&quot;&gt;Acceptance criteria&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Add a &lt;a href=&quot;http://www.benjystanton.co.uk/style-guide/#layout-templates&quot;&gt;list of different page types&lt;/a&gt; to the style guide&lt;/li&gt;
-  &lt;li&gt;Include a link to an example for each&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Sun, 28 Jan 2018 08:13:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/add-a-list-of-page-layouts/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/add-a-list-of-page-layouts/</guid>
         
         
         <category>release-notes</category>
