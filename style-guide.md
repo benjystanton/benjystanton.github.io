@@ -95,6 +95,12 @@ big-number="979"
 text="miles driven"
 ```
 
+{%
+  include big-number.html
+  big-number="979"
+  text="miles driven"
+%}
+
 {% include big-number.html
   big-number="979"
   text="miles driven"
