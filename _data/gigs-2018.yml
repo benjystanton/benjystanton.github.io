@@ -1,11 +1,25 @@
 ---
 
 - artist: Submotion Orchestra
-  venue: TramShed
+  support:
+    - Kizzy Crawford
+  venue: Tramshed
   city: Cardiff
   date: Saturday 10 March 2018
+  url: http://tramshedcardiff.com/event/submotion-orchestra/
 
 - artist: Public Service Broadcasting
   venue: Brangwyn Hall
   city: Swansea
   date: Wednesday 11 April 2018
+  url: http://www.brangwyn.co.uk/events/public-service-broadcasting/
+
+- artist: Florence and the Machine
+  support:
+    - Taylor Swift
+    - Rita Ora
+    - Camila Cabello
+  venue: Singleton Park
+  city: Swansea
+  date: Sunday 27 May 2018
+  url: http://www.bbc.co.uk/programmes/articles/4bzvTKWBMzGGdDCxfcWhgyd/the-biggest-weekend-swansea
