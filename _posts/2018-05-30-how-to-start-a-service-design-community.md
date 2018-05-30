@@ -23,6 +23,8 @@ excerpt: My notes from today’s cross-gov service design call.
 - Allow people to join remotely, use quick and easy tools like Google Meet
 - Spread the word using offline channels too (for example; posters in the kitchen)
 
+Marie has written about [building up the service design community](https://dwpdigital.blog.gov.uk/2018/05/01/building-up-our-service-design-community/) in DWP.
+
 ## Why to start doing service design
 
 Sanjay talked about how the [digital service standard](https://www.gov.uk/service-manual/service-standard) is changing to become the [service standard](https://gds.blog.gov.uk/2018/03/07/what-we-need-to-do-to-support-end-to-end-services-across-government/).
