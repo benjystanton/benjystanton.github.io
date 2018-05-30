@@ -5,9 +5,66 @@
     <description>UX Designer. Family Man. Music Snob.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 26 May 2018 17:46:05 +0100</pubDate>
-    <lastBuildDate>Sat, 26 May 2018 17:46:05 +0100</lastBuildDate>
+    <pubDate>Wed, 30 May 2018 19:01:23 +0100</pubDate>
+    <lastBuildDate>Wed, 30 May 2018 19:01:23 +0100</lastBuildDate>
     <generator>Jekyll v3.8.1</generator>
+    
+      <item>
+        <title>How to start a service design community</title>
+        <description>&lt;p class=&quot;lede&quot;&gt;Here are my notes from today’s cross-gov service design call. Thanks to &lt;a href=&quot;https://twitter.com/martin_jordan&quot;&gt;Martin&lt;/a&gt; for inviting me along and letting me ask lots of questions.&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Today, we ran the first cross-gov service design peer support call – with folks from DWP, HMCTS, Home Office, NHS, and ONS. Great questions and discussions! &lt;br /&gt;&lt;br /&gt;We’ll do another one in a month from now. &lt;a href=&quot;https://t.co/EaaLPEfDX2&quot;&gt;pic.twitter.com/EaaLPEfDX2&lt;/a&gt;&lt;/p&gt;&amp;mdash; Martin Jordan 🌈 (@Martin_Jordan) &lt;a href=&quot;https://twitter.com/Martin_Jordan/status/1001824939496869888?ref_src=twsrc%5Etfw&quot;&gt;May 30, 2018&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;h2 id=&quot;how-to-start-a-service-design-community&quot;&gt;How to start a service design community&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/mariecheungsays&quot;&gt;Marie&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/tsmz&quot;&gt;Tom&lt;/a&gt; at DWP gave some tips on how to grow your own service design community. Warning: this will create demand for service design.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Extend the invite beyond user-centred design roles&lt;/li&gt;
+  &lt;li&gt;Include policy makers, business architects and business analysts&lt;/li&gt;
+  &lt;li&gt;Find allies to help&lt;/li&gt;
+  &lt;li&gt;Try an “intro to service design” workshop&lt;/li&gt;
+  &lt;li&gt;Start lunch time meet-ups&lt;/li&gt;
+  &lt;li&gt;Start user-centred design show and tells (designers, researchers, performance analysts)&lt;/li&gt;
+  &lt;li&gt;Allow people to join remotely, use quick and easy tools like Google Meet&lt;/li&gt;
+  &lt;li&gt;Spread the word using offline channels too (for example; posters in the kitchen)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;why-to-start-doing-service-design&quot;&gt;Why to start doing service design&lt;/h2&gt;
+
+&lt;p&gt;Sanjay talked about how the &lt;a href=&quot;https://www.gov.uk/service-manual/service-standard&quot;&gt;digital service standard&lt;/a&gt; is changing to become the &lt;a href=&quot;https://gds.blog.gov.uk/2018/03/07/what-we-need-to-do-to-support-end-to-end-services-across-government/&quot;&gt;service standard&lt;/a&gt;.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;service designers help organisations &lt;a href=&quot;https://gds.blog.gov.uk/2016/04/18/what-we-mean-by-service-design/&quot;&gt;design services&lt;/a&gt; that work end-to-end, front to back and across every channel&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;how-to-do-service-design&quot;&gt;How to do service design&lt;/h2&gt;
+
+&lt;p&gt;The hard bit. You need service designers. But it’s not just work for one person. Everyone helps to design services. Try to structure the whole organisation around users. A key theme that keeps coming up when I talk to people about design recently is:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;zoom in and zoom out – you need to consider the details and the big picture.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;next-steps&quot;&gt;Next steps&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Go to a service design conference (like &lt;a href=&quot;http://serviceexperiencecamp.de/&quot;&gt;Service
+Experience
+Camp&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;Create a business case to hire service designers (in the open)&lt;/li&gt;
+  &lt;li&gt;Go to the next cross-gov service design meet-up (maybe host it in South Wales)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 30 May 2018 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/blog/service-design-chats/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/service-design-chats/</guid>
+        
+        
+        <category>service-design</category>
+        
+      </item>
     
       <item>
         <title>Weeknotes – series 01 episode 04</title>
@@ -943,244 +1000,6 @@ You have to meet all competencies when you apply, and at the interview. [Read th
         <pubDate>Sun, 25 Mar 2018 00:00:00 +0000</pubDate>
         <link>http://localhost:4000/blog/march-2018-links/</link>
         <guid isPermaLink="true">http://localhost:4000/blog/march-2018-links/</guid>
-        
-        
-        <category>links</category>
-        
-      </item>
-    
-      <item>
-        <title>February 2018 links</title>
-        <description>&lt;ul class=&quot;list-pairs&quot;&gt;
-  
-  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
-    
-    &lt;a href=&quot;https://insidegovuk.blog.gov.uk/2018/01/24/improving-accessibility-with-accessibility-acceptance-criteria/&quot;&gt;Improving accessibility with accessibility acceptance criteria&lt;/a&gt;
-    &lt;/span&gt;
-    &lt;br /&gt;&lt;/li&gt;
-  
-  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
-    
-    &lt;a href=&quot;https://getkap.co/&quot;&gt;Capture your screen&lt;/a&gt;
-    &lt;/span&gt;
-    &lt;br /&gt;&lt;/li&gt;
-  
-  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
-    
-    &lt;a href=&quot;https://medium.com/@vihra.rogacheva/guerrilla-research-in-university-setting-what-worked-and-what-didnt-259924b190be&quot;&gt;Studying students’ experience using guerrilla research. What worked and what didn’t.&lt;/a&gt;
-    &lt;/span&gt;
-    &lt;br /&gt;&lt;/li&gt;
-  
-  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
-    
-    &lt;a href=&quot;http://alistapart.com/article/my-accessibility-journey-what-ive-learned-so-far&quot;&gt;My Accessibility Journey: What I’ve Learned So Far&lt;/a&gt;
-    &lt;/span&gt;
-    &lt;br /&gt;&lt;/li&gt;
-  
-  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
-    
-    &lt;a href=&quot;https://meowni.ca/posts/2017-puppeteer-tests/&quot;&gt;Automatic visual diffing with Puppeteer&lt;/a&gt;
-    &lt;/span&gt;
-    &lt;br /&gt;&lt;/li&gt;
-  
-  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
-    
-    &lt;a href=&quot;https://blog.usejournal.com/net-promoter-score-considered-harmful-and-what-ux-professionals-can-do-about-it-fe7a132f4430&quot;&gt;Net Promoter Score Considered Harmful (and What UX Professionals Can Do About It)&lt;/a&gt;
-    &lt;/span&gt;
-    &lt;br /&gt;&lt;/li&gt;
-  
-  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
-    
-    &lt;a href=&quot;https://2018.ampersandconf.com/&quot;&gt;AMPERSAND&lt;/a&gt;
-    &lt;/span&gt;
-    &lt;br /&gt;&lt;/li&gt;
-  
-  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
-    
-    &lt;a href=&quot;https://www.amazon.com/Org-Design-Orgs-Building-House/dp/1491938404&quot;&gt;Org Design for Design Orgs: Building and Managing In-House Design Teams 1st Edition&lt;/a&gt;
-    &lt;/span&gt;
-    &lt;br /&gt;&lt;/li&gt;
-  
-  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
-    
-    &lt;a href=&quot;https://github.com/buzzfeed/design/blob/master/tech-leadership-principles.md&quot;&gt;buzzfeed/design&lt;/a&gt;
-    &lt;/span&gt;
-    &lt;br /&gt;&lt;/li&gt;
-  
-  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
-    
-    &lt;a href=&quot;https://medium.com/@nathangitter/why-your-app-looks-better-in-sketch-3a01b22c43d7&quot;&gt;Why Your App Looks Better in Sketch&lt;/a&gt;
-    &lt;/span&gt;
-    &lt;br /&gt;&lt;/li&gt;
-  
-  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
-    
-    &lt;a href=&quot;https://blog.prototypr.io/we-need-to-talk-about-patterns-8dcc73aff318&quot;&gt;We need to talk about design patterns&lt;/a&gt;
-    &lt;/span&gt;
-    &lt;br /&gt;&lt;/li&gt;
-  
-  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
-    
-    &lt;a href=&quot;http://www.hollidazed.co.uk/2015/07/28/frame-the-problem/&quot;&gt;Asking the right questions to frame the problem&lt;/a&gt;
-    &lt;/span&gt;
-    &lt;br /&gt;&lt;/li&gt;
-  
-  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
-    
-    &lt;a href=&quot;https://medium.com/mixed-methods/five-user-research-rules-of-thumb-to-follow-a738d5c78957&quot;&gt;Five User Research Rules of Thumb to Follow&lt;/a&gt;
-    &lt;/span&gt;
-    &lt;br /&gt;&lt;/li&gt;
-  
-  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
-    
-    &lt;a href=&quot;https://medium.com/@rossferg/the-principles-that-make-me-a-better-product-manager-9e50814d184f&quot;&gt;The principles that make me a better product manager&lt;/a&gt;
-    &lt;/span&gt;
-    &lt;br /&gt;&lt;/li&gt;
-  
-  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
-    
-    &lt;a href=&quot;http://boingboing.net/2017/02/08/lies-arrow-stickers-for-the-er.html&quot;&gt;LIES arrow-stickers for the era of the Alternate Fact&lt;/a&gt;
-    &lt;/span&gt;
-    &lt;br /&gt;&lt;/li&gt;
-  
-  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
-    
-    &lt;a href=&quot;https://github.com/giving-a-fuck-about-climate-change/carbondoomsday&quot;&gt;giving-a-fuck-about-climate-change/carbondoomsday&lt;/a&gt;
-    &lt;/span&gt;
-    &lt;br /&gt;&lt;/li&gt;
-  
-  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
-    
-    &lt;a href=&quot;https://www.designweek.co.uk/issues/5-11-february-2018/the-most-influential-female-designers-of-the-last-century/&quot;&gt;The most influential female designers of the last century&lt;/a&gt;
-    &lt;/span&gt;
-    &lt;br /&gt;&lt;/li&gt;
-  
-  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
-    
-    &lt;a href=&quot;https://spectrum.chat/thread/1021be59-2738-4511-aceb-c66921050b9a&quot;&gt;.mdx proposal · Frontend Cafe&lt;/a&gt;
-    &lt;/span&gt;
-    &lt;br /&gt;&lt;/li&gt;
-  
-  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
-    
-    &lt;a href=&quot;http://emilywebber.co.uk/what-is-an-agile-delivery-manager/&quot;&gt;Explaining the role of a Delivery Manager&lt;/a&gt;
-    &lt;/span&gt;
-    &lt;br /&gt;&lt;/li&gt;
-  
-  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
-    
-    &lt;a href=&quot;https://medium.com/hubspot-product/how-to-gain-widespread-adoption-of-your-design-system-29d1b142b158&quot;&gt;How to gain widespread adoption of your design system&lt;/a&gt;
-    &lt;/span&gt;
-    &lt;br /&gt;&lt;/li&gt;
-  
-  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
-    
-    &lt;a href=&quot;https://articles.uie.com/user_exposure_hours/&quot;&gt;Fast Path to a Great UX – Increased Exposure Hours&lt;/a&gt;
-    &lt;/span&gt;
-    &lt;br /&gt;&lt;/li&gt;
-  
-  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
-    
-    &lt;a href=&quot;https://www.fastcompany.com/40524955/i-accidentally-built-a-brogrammer-culture-now-were-undoing-it&quot;&gt;I Accidentally Built A Brogrammer Culture. Now We’re Undoing It&lt;/a&gt;
-    &lt;/span&gt;
-    &lt;br /&gt;&lt;/li&gt;
-  
-  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
-    
-    &lt;a href=&quot;https://www.frankchimero.com/writing/everything-easy-is-hard-again/&quot;&gt;Everything Easy is Hard Again&lt;/a&gt;
-    &lt;/span&gt;
-    &lt;br /&gt;&lt;/li&gt;
-  
-  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
-    
-    &lt;a href=&quot;https://www.youtube.com/channel/UC7TizprGknbDalbHplROtag&quot;&gt;Layout Land&lt;/a&gt;
-    &lt;/span&gt;
-    &lt;br /&gt;&lt;/li&gt;
-  
-  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
-    
-    &lt;a href=&quot;https://clearleft.com/posts/scaling-design-the-case-for-narrative-transformation&quot;&gt;Scaling design: the case for narrative transformation&lt;/a&gt;
-    &lt;/span&gt;
-    &lt;br /&gt;&lt;/li&gt;
-  
-  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
-    
-    &lt;a href=&quot;https://css-tricks.com/using-conic-gradients-css-variables-create-doughnut-chart-output-range-input/&quot;&gt;Using Conic Gradients and CSS Variables to Create a Doughnut Chart Output for a Range Input&lt;/a&gt;
-    &lt;/span&gt;
-    &lt;br /&gt;&lt;/li&gt;
-  
-  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
-    
-    &lt;a href=&quot;https://publication.design.systems/the-musicality-of-design-systems-f090b2ec0213&quot;&gt;The musicality of design systems&lt;/a&gt;
-    &lt;/span&gt;
-    &lt;br /&gt;&lt;/li&gt;
-  
-  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
-    
-    &lt;a href=&quot;https://medium.com/no-you-go/thriving-in-a-toxic-culture-3aa0d78820ed&quot;&gt;Work culture is toxic to women. I’m finding joy anyway.&lt;/a&gt;
-    &lt;/span&gt;
-    &lt;br /&gt;&lt;/li&gt;
-  
-  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
-    
-    &lt;a href=&quot;http://contentdesign.london/content-design/content-crits/&quot;&gt;Content crits&lt;/a&gt;
-    &lt;/span&gt;
-    &lt;br /&gt;&lt;/li&gt;
-  
-  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
-    
-    &lt;a href=&quot;https://pds.blog.parliament.uk/2018/02/16/creating-accessible-and-responsive-search/&quot;&gt;Creating accessible and responsive search&lt;/a&gt;
-    &lt;/span&gt;
-    &lt;br /&gt;&lt;/li&gt;
-  
-  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
-    
-    &lt;a href=&quot;https://getpixelsnap.com&quot;&gt;PixelSnap&lt;/a&gt;
-    &lt;/span&gt;
-    &lt;br /&gt;&lt;/li&gt;
-  
-  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
-    
-    &lt;a href=&quot;https://medium.com/sketch-app-sources/sketch-plugins-i-cant-live-without-1ed2b09dcc5c&quot;&gt;Sketch Plugins I Can’t Live Without&lt;/a&gt;
-    &lt;/span&gt;
-    &lt;br /&gt;&lt;/li&gt;
-  
-  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
-    
-    &lt;a href=&quot;http://apievangelist.com/2016/09/20/d3js-visualizations-using-yaml-and-jekyll/&quot;&gt;D3.js Visualizations Using YAML and Jekyll&lt;/a&gt;
-    &lt;/span&gt;
-    &lt;br /&gt;&lt;/li&gt;
-  
-  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
-    
-    &lt;a href=&quot;https://medium.com/@monteiro/designs-lost-generation-ac7289549017&quot;&gt;Design’s Lost Generation&lt;/a&gt;
-    &lt;/span&gt;
-    &lt;br /&gt;&lt;/li&gt;
-  
-  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
-    
-    &lt;a href=&quot;https://designnotes.blog.gov.uk/2018/02/19/developing-new-typography-and-spacing-for-gov-uk-frontend/&quot;&gt;Developing new typography and spacing for GOV.UK Frontend&lt;/a&gt;
-    &lt;/span&gt;
-    &lt;br /&gt;&lt;/li&gt;
-  
-  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
-    
-    &lt;a href=&quot;https://github.com/audreyr/favicon-cheat-sheet&quot;&gt;audreyr/favicon-cheat-sheet&lt;/a&gt;
-    &lt;/span&gt;
-    &lt;br /&gt;&lt;/li&gt;
-  
-  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
-    
-    &lt;a href=&quot;https://medium.com/@catherineehope/no-more-data-pukes-no-more-jargon-ed3eb18b1609&quot;&gt;No more data pukes, no more jargon&lt;/a&gt;
-    &lt;/span&gt;
-    &lt;br /&gt;&lt;/li&gt;
-  
-&lt;/ul&gt;
-
-</description>
-        <pubDate>Fri, 16 Feb 2018 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/february-2018-links/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/february-2018-links/</guid>
         
         
         <category>links</category>
