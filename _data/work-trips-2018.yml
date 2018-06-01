@@ -91,3 +91,13 @@
   returnJourney:
     - London Paddington
     - Swansea
+
+- destination: Government Digital Service, London
+  category: Meeting design teams
+  month: May
+  outwardJourney:
+    - Swansea
+    - London Paddington
+  returnJourney:
+    - London Paddington
+    - Swansea
