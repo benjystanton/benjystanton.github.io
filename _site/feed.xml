@@ -5,8 +5,8 @@
     <description>UX Designer. Family Man. Music Snob.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 01 Jun 2018 22:31:10 +0100</pubDate>
-    <lastBuildDate>Fri, 01 Jun 2018 22:31:10 +0100</lastBuildDate>
+    <pubDate>Sat, 02 Jun 2018 13:01:10 +0100</pubDate>
+    <lastBuildDate>Sat, 02 Jun 2018 13:01:10 +0100</lastBuildDate>
     <generator>Jekyll v3.8.1</generator>
     
       <item>
@@ -290,6 +290,48 @@ Camp&lt;/a&gt;)&lt;/li&gt;
     &lt;a href=&quot;https://designnotes.blog.gov.uk/2018/05/23/how-i-used-wget-to-make-a-copy-of-the-service-manual-for-user-research/&quot;&gt;How I used Wget to make a copy of the Service Manual for user research&lt;/a&gt;
     &lt;/span&gt;
     &lt;br /&gt;Last year I made a complete copy of the Service Manual for some user research. One of my teams was planning some research to test some new content for the Service Manual with users.&lt;/li&gt;
+  
+  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
+    
+    &lt;a href=&quot;https://medium.com/researchops-community/whatisresearchops-a-starting-point-aa7174eb9759&quot;&gt;#WhatisResearchOps? A starting point&lt;/a&gt;
+    &lt;/span&gt;
+    &lt;br /&gt;Next week, the first #WhatisResearchOps global workshops kick off. Are you attending one or would you like to? You can find out more in Kate’s post here.&lt;/li&gt;
+  
+  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
+    
+    &lt;a href=&quot;https://medium.com/design-ibm/card-sorting-a-powerful-simple-research-method-9d1566be9b62&quot;&gt;Card sorting: a powerful, simple research method&lt;/a&gt;
+    &lt;/span&gt;
+    &lt;br /&gt;As someone who studied Information Science, I’ve always been drawn to grouping and categorizing things. Imagine my glee when I first learned there was a UX research method that was all about grouping and categorizing.&lt;/li&gt;
+  
+  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
+    
+    &lt;a href=&quot;https://uxplanet.org/search-interface-20-things-to-consider-4b1466e98881&quot;&gt;Search interface: 20 things to consider&lt;/a&gt;
+    &lt;/span&gt;
+    &lt;br /&gt;What questions to ask users? What to consider while prototyping? And what are the best practices in search interface design?  Depending on the project, search may be one of the most complex features.&lt;/li&gt;
+  
+  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
+    
+    &lt;a href=&quot;https://blog.ldodds.com/2018/05/29/observations-on-the-web/&quot;&gt;Observations on the web&lt;/a&gt;
+    &lt;/span&gt;
+    &lt;br /&gt;About seven years ago I was invited to a workshop. The Office for National Statistics were gathering together people from the statistics and linked data communities to talk about publishing statistics on the web.&lt;/li&gt;
+  
+  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
+    
+    &lt;a href=&quot;https://wearecitizensadvice.org.uk/to-take-the-next-step-on-digital-we-dropped-the-word-digital-14b09ec2f25f&quot;&gt;To take the next step on digital, we dropped the word ‘digital’&lt;/a&gt;
+    &lt;/span&gt;
+    &lt;br /&gt;Last year, Citizens Advice helped over 2.6 million people directly and our digital advice had 41 million hits.&lt;/li&gt;
+  
+  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
+    
+    &lt;a href=&quot;https://medium.com/@leemunroe/enterprise-design-stack-the-tools-we-use-to-design-the-datacenter-operating-system-6865ed73ff04&quot;&gt;Enterprise Design Stack: The Tools We Use To Design The Datacenter Operating System&lt;/a&gt;
+    &lt;/span&gt;
+    &lt;br /&gt;I love reading about how other Design teams are working together and what tools they’re using. It’s reassuring to know teams you admire and respect use the same tools you do.&lt;/li&gt;
+  
+  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
+    
+    &lt;a href=&quot;https://developer.paciellogroup.com/blog/2013/11/short-note-aria-dragon-accessibility/&quot;&gt;Short Note on ARIA, Dragon and Standards&lt;/a&gt;
+    &lt;/span&gt;
+    &lt;br /&gt;There has been ongoing discussion, mainly on twitter, about Dragon naturally speaking, ARIA and Accessibility APIs. A recent tweet informs these notes.  #dragon doesn’t support #aria &amp;amp; according to @ewaccess, it probably never will. It’s definitely an AT solution nonetheless. #a11yCampTO&lt;/li&gt;
   
 &lt;/ul&gt;
 
