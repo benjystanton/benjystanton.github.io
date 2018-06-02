@@ -11,7 +11,7 @@ excerpt: A trip to GDS to discuss service and graphic design. Plus prototypes, p
 
 ## Monday
 
-Monday was a bank holiday. I needed a day to recover because I went to The Biggest Weekend in Swansea on Sunday. Here's [child 2 getting into the festival spirit](https://www.instagram.com/benjystanton/).
+Monday was a bank holiday. I needed a day to recover because I went to The Biggest Weekend in Swansea on Sunday. Here's [child 2 getting into the festival spirit](https://www.instagram.com/p/BjT41n4BVTY/?taken-by=benjystanton).
 
 ## Tuesday
 
