@@ -5,8 +5,8 @@
     <description>UX Designer. Family Man. Music Snob.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 03 Jun 2018 15:01:51 +0100</pubDate>
-    <lastBuildDate>Sun, 03 Jun 2018 15:01:51 +0100</lastBuildDate>
+    <pubDate>Sun, 03 Jun 2018 19:55:42 +0100</pubDate>
+    <lastBuildDate>Sun, 03 Jun 2018 19:55:42 +0100</lastBuildDate>
     <generator>Jekyll v3.8.1</generator>
     
       <item>
@@ -19,7 +19,7 @@
 &lt;figure class=&quot;border padding--s&quot;&gt;
 
   &lt;figcaption&gt;
-    &lt;span class=&quot;heading-large margin-top--0 margin-bottom--xs&quot;&gt;Map of Swansea&lt;/span&gt;
+    &lt;span class=&quot;heading-large margin-top--0 margin-bottom--xs&quot;&gt;Swansea&lt;/span&gt;
     &lt;span class=&quot;heading-small&quot;&gt;Unitary Authority W06000011&lt;/span&gt;
   &lt;/figcaption&gt;
 
@@ -43,7 +43,7 @@
 &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;figure class=&quot;border padding--s&quot;&amp;gt;
 
   &amp;lt;figcaption&amp;gt;
-    &amp;lt;span class=&quot;heading-large margin-top--0 margin-bottom--xs&quot;&amp;gt;Map of Swansea&amp;lt;/span&amp;gt;
+    &amp;lt;span class=&quot;heading-large margin-top--0 margin-bottom--xs&quot;&amp;gt;Swansea&amp;lt;/span&amp;gt;
     &amp;lt;span class=&quot;heading-small&quot;&amp;gt;Unitary Authority W06000011&amp;lt;/span&amp;gt;
   &amp;lt;/figcaption&amp;gt;
 
@@ -63,6 +63,17 @@
 &amp;lt;/figure&amp;gt;
 
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;codepen&quot;&gt;CodePen&lt;/h2&gt;
+
+&lt;p&gt;I’ve popped the &lt;a href=&quot;https://codepen.io/benjystanton/pen/yEeVOJ&quot;&gt;html into a Pen&lt;/a&gt; if you want to have a play.&lt;/p&gt;
+
+&lt;h2 id=&quot;further-reading&quot;&gt;Further reading&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.sitepoint.com/tips-accessible-svg/&quot;&gt;Tips for Creating Accessible SVG&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tympanus.net/codrops/2014/08/19/making-svgs-responsive-with-css/&quot;&gt;Making SVGs Responsive with CSS&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://css-tricks.com/how-to-make-charts-with-svg/&quot;&gt;How to Make Charts with SVG&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
         <pubDate>Sun, 03 Jun 2018 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/blog/best-way-mark-up-svg-map/</link>
