@@ -17,3 +17,13 @@ img {
 figure img {
   margin-bottom: $spacing-unit/4;
 }
+
+figure figcaption span {
+  display: block;
+}
+
+.map {
+  fill: $primary-colour;
+  stroke-width:1;
+  stroke:white;
+}

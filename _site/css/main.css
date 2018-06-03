@@ -19,7 +19,7 @@
   background-color: #007575;
   color: #ffffff; }
 
-body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure {
+body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure, figcaption {
   margin: 0;
   padding: 0; }
 
@@ -36,7 +36,7 @@ body {
     body {
       font-size: 22px; } }
 
-h1, h2, h3, h4, h5, h6, p, blockquote, pre, ul, ol, dl, figure, svg, .highlight {
+h1, h2, h3, h4, h5, h6, p, blockquote, pre, ul, ol, dl, figure, figcaption, svg, .highlight {
   margin-bottom: 18px; }
 
 h1, h2, h3, h4, h5, h6 {
@@ -170,11 +170,20 @@ html {
 .padding--s {
   padding: 12px 18px; }
 
+.margin-top--0 {
+  margin-top: 0; }
+
 .margin-top--s {
   margin-top: 36px; }
 
 .margin-top--m {
   margin-top: 72px; }
+
+.margin-bottom--xs {
+  margin-bottom: 9px; }
+
+.margin-bottom--s {
+  margin-bottom: 36px; }
 
 .margin-bottom--m {
   margin-bottom: 72px; }
@@ -219,6 +228,14 @@ img {
 
 figure img {
   margin-bottom: 9px; }
+
+figure figcaption span {
+  display: block; }
+
+.map {
+  fill: #007575;
+  stroke-width: 1;
+  stroke: white; }
 
 blockquote {
   border-left: 4px solid #2e343b;

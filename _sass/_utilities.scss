@@ -37,12 +37,24 @@ html {
   padding: $spacing-unit/3 $spacing-unit/2;
 }
 
+.margin-top--0 {
+  margin-top: 0;
+}
+
 .margin-top--s {
   margin-top: $spacing-unit;
 }
 
 .margin-top--m {
   margin-top: $spacing-unit*2;
+}
+
+.margin-bottom--xs {
+  margin-bottom: $spacing-unit/4;
+}
+
+.margin-bottom--s {
+  margin-bottom: $spacing-unit;
 }
 
 .margin-bottom--m {
