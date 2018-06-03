@@ -142,16 +142,16 @@
 <br />— Homer Simpson</p>
 </blockquote>
 
-<h3 id="post-meta">Post meta</h3>
+<h3 id="small-text">Small text</h3>
 
-<p>Smaller, lighter text used for the “published on” date.</p>
+<p>Smaller, lighter text used for the “published on” date and image captions.</p>
 
 <p><a href="https://shopify.github.io/liquid/filters/date/">How to set date formats with Liquid</a>.</p>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;p class="post-meta"&gt;%e %B %Y&lt;/p&gt;
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;p class="text-small"&gt;%e %B %Y&lt;/p&gt;
 </code></pre></div></div>
 
-<p class="post-meta">Website last updated on  2 June 2018</p>
+<p class="text-small">Website last updated on  3 June 2018</p>
 
 <h2 id="big-numbers">Big numbers</h2>
 
@@ -190,10 +190,37 @@ text="miles driven"
   <li>Thumbnail (for Twitter summary card): 500 × 500</li>
 </ul>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>![Alt text](path/to/image.png)
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>![Alt text goes here]({{ site.url }}/assets/image.png)
 </code></pre></div></div>
 
 <p><img src="http://localhost:4000/assets/make-data-part-of-the-web-landscape.png" alt="Alt text goes here" /></p>
+
+<h3 id="images-with-captions">Images with captions</h3>
+
+<p>Image captions aren’t supported in standard Markdown so I’ve made an include.</p>
+
+<figure>
+  <img src="http://localhost:4000/assets/coop-sticker.jpg" alt="A yellow sticker with black text on a laptop" />
+  <figcaption class="text-small">
+    Co-op digital design principle sticker – We design for everyone
+  </figcaption>
+</figure>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>{% include image-with-caption.html
+  image="coop-sticker.jpg"
+  caption="Co-op digital design principle sticker – We design for everyone"
+  alt-text="A yellow sticker with black text on a laptop"
+  %}
+</code></pre></div></div>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;figure&gt;
+  &lt;img src="http://localhost:4000/assets/coop-sticker.jpg" alt="A yellow sticker with black text on a laptop" /&gt;
+  &lt;figcaption class="text-small"&gt;
+    Co-op digital design principle sticker – We design for everyone
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+</code></pre></div></div>
 
 <h2 id="svgs">SVGs</h2>
 

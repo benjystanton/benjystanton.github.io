@@ -6,10 +6,14 @@ img {
     vertical-align: middle;
 
     @include media-query($medium) {
-        margin: $spacing-unit/2 0;
+        margin: 0 0 $spacing-unit/2 0;
     }
 }
 
 .post-content img {
   border: 1px solid $light-grey-colour;
+}
+
+figure img {
+  margin-bottom: $spacing-unit/4;
 }

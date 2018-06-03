@@ -73,17 +73,17 @@ Lorem ipsum dolor sit amet, consectetur adip*isicing elit, sed do eiusmod * temp
 > A blockquote is a quotation in a written document, that is set off from the main text as a paragraph, or block of text, and typically distinguished visually using indentation.
 <br>— Homer Simpson
 
-### Post meta
+### Small text
 
-Smaller, lighter text used for the "published on" date.
+Smaller, lighter text used for the "published on" date and image captions.
 
 [How to set date formats with Liquid](https://shopify.github.io/liquid/filters/date/).
 
 ```
-<p class="post-meta">%e %B %Y</p>
+<p class="text-small">%e %B %Y</p>
 ```
 
-<p class="post-meta">Website last updated on {{ "now" | date: "%e %B %Y" }}</p>
+<p class="text-small">Website last updated on {{ "now" | date: "%e %B %Y" }}</p>
 
 ## Big numbers
 
@@ -118,16 +118,46 @@ Images are full width by default. Don't forget alt text.
 - Standard blog image: 1024 × 512
 - Thumbnail (for Twitter summary card): 500 × 500
 
+{% raw %}  
 ```
-![Alt text](path/to/image.png)
+![Alt text goes here]({{ site.url }}/assets/image.png)
 ```
+{% endraw %}  
 
 ![Alt text goes here]({{ site.url }}/assets/make-data-part-of-the-web-landscape.png)
+
+### Images with captions
+
+Image captions aren't supported in standard Markdown so I've made an include.
+
+{% include image-with-caption.html
+  image="coop-sticker.jpg"
+  caption="Co-op digital design principle sticker – We design for everyone"
+  alt-text="A yellow sticker with black text on a laptop"
+  %}
+
+
+{% raw %}  
+```
+{% include image-with-caption.html
+  image="coop-sticker.jpg"
+  caption="Co-op digital design principle sticker – We design for everyone"
+  alt-text="A yellow sticker with black text on a laptop"
+  %}
+```
+{% endraw %}
+
+```
+{% include image-with-caption.html
+  image="coop-sticker.jpg"
+  caption="Co-op digital design principle sticker – We design for everyone"
+  alt-text="A yellow sticker with black text on a laptop"
+  %}
+```
 
 ## SVGs
 
 I've made the SVGs extra accessible by using [Léonie Watson's accessible SVGs technique](http://decks.tink.uk/2017/lws/index.html#cover).
-
 
 - use `role="img"` so that SVGs are exposed to assistive technology like screen readers
 - use the SVG's `<title>` tag together with `aria-labelledby` to expose the name to assistive technology

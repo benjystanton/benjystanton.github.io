@@ -10,7 +10,7 @@ A growing collection of resources to help you get started with animation on the 
 
 ### [UI Animation and UX: A Not-So-Secret Friendship][1]
 
-<p class="post-meta">
+<p class="text-small">
   by <a href="https://twitter.com/vlh">Val Head</a>
 </p>
 
@@ -18,7 +18,7 @@ Val’s article includes practical examples on how to us animation to improve UX
 
 ### [Web Animation at Work][2]
 
-<p class="post-meta">
+<p class="text-small">
   by <a href="https://twitter.com/rachelnabors">Rachel Nabors</a>
 </p>
 
@@ -26,7 +26,7 @@ A perfect primer on animation theory and the various different tools (CSS, SVG, 
 
 ### [Transitional Interfaces][3]
 
-<p class="post-meta">
+<p class="text-small">
   by <a href="https://twitter.com/pasql">Pasquale D’Silva</a>
 </p>
 
@@ -34,7 +34,7 @@ An introduction to some basic animation principles plus examples on how to impro
 
 ### [A New Mobile UX Design Material][4]
 
-<p class="post-meta">
+<p class="text-small">
   by <a href="https://twitter.com/Hinman">Rachel Hinman</a>
 </p>
 
@@ -42,7 +42,7 @@ A look at the 12 basic principles of animation (as laid out in The Illusion of 
 
 ### [Make Your Browser Dance][5]
 
-<p class="post-meta">
+<p class="text-small">
   by <a title="Ruth John’s Twitter" href="https://twitter.com/rumyra">Ruth John</a>
 </p>
 
@@ -50,7 +50,7 @@ Ruth’s 24 Ways article explores how to combine animations and audio using HTM
 
 ### [Better Navigation Through Proprioception][6]
 
-<p class="post-meta">
+<p class="text-small">
   by <a href="https://twitter.com/Cennydd">Cennydd Bowles</a>
 </p>
 
@@ -58,7 +58,7 @@ Cennydd looks at how movement and transitions can help communicate a sense of na
 
 ### [Flashless Animation][7]
 
-<p class="post-meta">
+<p class="text-small">
   by <a href="https://twitter.com/rachelnabors">Rachel Nabors</a>
 </p>
 
@@ -66,7 +66,7 @@ Part of 24 Ways in 2012, Rachel shows us how to create a walk cycle using a back
 
 ### [How SVG Line Animation Works][8]
 
-<p class="post-meta">
+<p class="text-small">
   by <a title="Chris Coyier’s Twitter" href="https://twitter.com/chriscoyier">Chris Coyier</a>
 </p>
 
@@ -76,7 +76,7 @@ An article from CSS-Tricks about animating SVG lines (y’know, like the ones Vo
 
 ### [A Pocket Guide to CSS Animations][9]
 
-<p class="post-meta">
+<p class="text-small">
   by <a href="https://twitter.com/vlh">Val Head</a>
 </p>
 
@@ -84,7 +84,7 @@ Part of the Five Simple Steps Pocket Guide series, this little book introduces y
 
 ### [The Animator’s Survival Kit][10]
 
-<p class="post-meta">
+<p class="text-small">
   by Richard Williams
 </p>
 
@@ -94,7 +94,7 @@ This ‘manual’, written by the animation director of Who Framed Roger Rabbit,
 
 ### [CSS: Animations][11]
 
-<p class="post-meta">
+<p class="text-small">
   by <a href="https://twitter.com/vlh">Val Head</a>
 </p>
 
@@ -102,7 +102,7 @@ A introduction to CSS animations from Lynda.com. Goes together perfectly with Va
 
 ### [Animation Story Telling with HTML5 and CSS3][12]
 
-<p class="post-meta">
+<p class="text-small">
   by <a href="https://twitter.com/rachelnabors">Rachel Nabors</a>
 </p>
 
@@ -110,7 +110,7 @@ Rachel covers CSS animations, transitions, audio and more, plus a short history 
 
 ### [All The Right Moves][13]
 
-<p class="post-meta">
+<p class="text-small">
   by <a href="https://twitter.com/vlh">Val Head</a>
 </p>
 
@@ -120,7 +120,7 @@ A series of short screencasts on Vimeo covering some of the more quirky parts of
 
 ### [Designing with Animation][14]
 
-<p class="post-meta">
+<p class="text-small">
   by <a href="https://twitter.com/pasql">Pasquale D’Silva</a>
 </p>
 
@@ -128,7 +128,7 @@ A video of Pasquale’s talk at Web Directions South.
 
 ### [Sync HTML5 Audio with CSS3 Animation][15]
 
-<p class="post-meta">
+<p class="text-small">
   by <a title="Tim Pietrusky’s Twitter" href="https://twitter.com/TimPietrusky">Tim Pietrusky</a>
 </p>
 
@@ -138,7 +138,7 @@ A short (5 minute) video from dotJS 2013 where Tim talks us through syncing HTML
 
 ### [Keyframer][16]
 
-<p class="post-meta">
+<p class="text-small">
   by <a title="Alex Bergin’s Website" href="http://alexberg.in/">Alex Bergin</a>
 </p>
 
@@ -146,7 +146,7 @@ Keyframer is a useful browser based tool that helps you visualise your animation
 
 ### [Animate.css][18]
 
-<p class="post-meta">
+<p class="text-small">
   by <a href="https://twitter.com/_dte">Dan Eden</a>
 </p>
 
@@ -154,7 +154,7 @@ A library of pre-built CSS animations that you can preview in the browser, or fo
 
 ### [Ceaser][19]
 
-<p class="post-meta">
+<p class="text-small">
   by <a href="https://twitter.com/matthewlein">Matthew Lein</a>
 </p>
 
@@ -162,7 +162,7 @@ A (touch device friendly) tool for creating and previewing custom easing (cubic-
 
 ### [Cubic-bezier.com][20]
 
-<p class="post-meta">
+<p class="text-small">
   by <a href="https://twitter.com/leaverou">Lea Verou</a>
 </p>
 
@@ -170,7 +170,7 @@ Another tool for creating custom cubic-beziers. This one lets you play your tran
 
 ### [CSSynth][21]
 
-<p class="post-meta">
+<p class="text-small">
   by <a title="Bennet Feely on Twitter" href="https://twitter.com/bennettfeely">Bennett Feely</a>
 </p>
 
@@ -178,7 +178,7 @@ Play around with particle-like effects and transitions, using a grid of shapes. 
 
 ### [Bounce.js][22]
 
-<p class="post-meta">
+<p class="text-small">
   by <a title="Joel Besada on Twitter" href="https://twitter.com/joelbesada">Joel Besada</a>
 </p>
 
@@ -186,7 +186,7 @@ Create some lovely, squashy CSS animations then export the markup. Has a really 
 
 ### [Framer][23]
 
-<p class="post-meta">
+<p class="text-small">
   by <a title="Koen Bok on Twitter" href="https://twitter.com/koenbok">Koen Bok</a>
 </p>
 
@@ -194,7 +194,7 @@ Framer is an animation and interaction prototyping tool that is built for design
 
 ### [Snap.svg][25]
 
-<p class="post-meta">
+<p class="text-small">
   by <a title="Snap.svg on Twitter" href="https://twitter.com/Snapsvg">Snap.svg</a>
 </p>
 
@@ -204,7 +204,7 @@ A JavaScript SVG library including animation and event handling from Adobe.
 
 ### [The Illusion of Life][26]
 
-<p class="post-meta">
+<p class="text-small">
   by <a title="Cento Lodigiani on Vimeo" href="http://vimeo.com/centodesign">Cento Lodigiani</a>
 </p>
 
@@ -212,7 +212,7 @@ A beautifully created film, inspired by the 12 basic principles of animation de
 
 ### [Hover States][28]
 
-<p class="post-meta">
+<p class="text-small">
   by <a title="Hover Studio on Twitter" href="https://twitter.com/hover_studio">Hover Studio</a>
 </p>
 
@@ -220,7 +220,7 @@ A high quality collection of interesting animation and interaction design exampl
 
 ### [Use Your Interface][29]
 
-<p class="post-meta">
+<p class="text-small">
   by <a title="Josh Davey’s Twitter page" href="https://twitter.com/Jshdvy">Josh Davey</a>
 </p>
 
@@ -228,7 +228,7 @@ A useful library (withs tags) of interface patterns that use transitions and ani
 
 ### [SIX UX][31]
 
-<p class="post-meta">
+<p class="text-small">
   by <a title="SIX UX on twitter" href="https://twitter.com/thisissixux">SIX UX</a>
 </p>
 

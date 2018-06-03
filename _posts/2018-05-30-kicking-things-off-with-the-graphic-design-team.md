@@ -9,8 +9,11 @@ excerpt: Make your work visible, zoom out, and create some great British public 
 
 <p class="lede">I went up to GDS to talk to <a href="https://twitter.com/markhurrell">Mark</a> about how graphic design works on his team. And we chatted about what first steps I should take with the new graphic design team in ONS Digital Publishing.</p>
 
-![A blue man leans down to pick up litter. Large red text says "keep Britain tidy"]({{ site.url }}/assets/keep-britain-tidy.jpg)
-<p class="post-meta">Image credit: <a href="http://visualarts.britishcouncil.org/collection/artists/eckersley-tom-1914/object/keep-britain-tidy-eckersley-1963-m116">Keep Britain Tidy</a>, 1963, Tom Eckersley</p>
+{% include image-with-caption.html
+  image="keep-britain-tidy.jpg"
+  caption="Keep Britain Tidy, 1963, Tom Eckersley"
+  alt-text="A blue man leans down to pick up litter. Large red text says keep Britain tidy"
+  %}
 
 ## Make your work visible
 

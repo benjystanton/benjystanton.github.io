@@ -7,7 +7,7 @@ title: Categories
 {% for category in site.categories %}
   <li>
     <a href="/blog/category/{{category | first}}/">{{category | first }}</a>
-  <span class="post-meta">({{ category | last | size }})</span></li>
+  <span class="text-small">({{ category | last | size }})</span></li>
 {% endfor %}
 </ul>
 

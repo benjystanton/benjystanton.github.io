@@ -5,8 +5,8 @@
     <description>UX Designer. Family Man. Music Snob.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 02 Jun 2018 14:25:47 +0100</pubDate>
-    <lastBuildDate>Sat, 02 Jun 2018 14:25:47 +0100</lastBuildDate>
+    <pubDate>Sun, 03 Jun 2018 13:12:07 +0100</pubDate>
+    <lastBuildDate>Sun, 03 Jun 2018 13:12:07 +0100</lastBuildDate>
     <generator>Jekyll v3.8.1</generator>
     
       <item>
@@ -76,8 +76,12 @@
         <title>Kicking things off with the graphic design team</title>
         <description>&lt;p class=&quot;lede&quot;&gt;I went up to GDS to talk to &lt;a href=&quot;https://twitter.com/markhurrell&quot;&gt;Mark&lt;/a&gt; about how graphic design works on his team. And we chatted about what first steps I should take with the new graphic design team in ONS Digital Publishing.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/keep-britain-tidy.jpg&quot; alt=&quot;A blue man leans down to pick up litter. Large red text says &amp;quot;keep Britain tidy&amp;quot;&quot; /&gt;&lt;/p&gt;
-&lt;p class=&quot;post-meta&quot;&gt;Image credit: &lt;a href=&quot;http://visualarts.britishcouncil.org/collection/artists/eckersley-tom-1914/object/keep-britain-tidy-eckersley-1963-m116&quot;&gt;Keep Britain Tidy&lt;/a&gt;, 1963, Tom Eckersley&lt;/p&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;http://localhost:4000/assets/keep-britain-tidy.jpg&quot; alt=&quot;A blue man leans down to pick up litter. Large red text says keep Britain tidy&quot; /&gt;
+  &lt;figcaption class=&quot;text-small&quot;&gt;
+    Keep Britain Tidy, 1963, Tom Eckersley
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;h2 id=&quot;make-your-work-visible&quot;&gt;Make your work visible&lt;/h2&gt;
 

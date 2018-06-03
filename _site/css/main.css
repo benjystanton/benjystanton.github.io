@@ -103,7 +103,7 @@ small {
       font-size: 26px;
       line-height: 1.4; } }
 
-.post-meta {
+.text-small {
   font-size: 16px;
   color: #5b6774; }
 
@@ -212,10 +212,13 @@ img {
   vertical-align: middle; }
   @media screen and (min-width: 660px) {
     img {
-      margin: 18px 0; } }
+      margin: 0 0 18px 0; } }
 
 .post-content img {
   border: 1px solid #e4e7ea; }
+
+figure img {
+  margin-bottom: 9px; }
 
 blockquote {
   border-left: 4px solid #2e343b;

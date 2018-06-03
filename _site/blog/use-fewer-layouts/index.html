@@ -62,7 +62,7 @@
 
 <header class="post-header">
   <h1 class="post-title">Use fewer layouts</h1>
-  <p class="post-meta"> 3 February 2018 • 
+  <p class="text-small"> 3 February 2018 • 
 
 <a href="/blog/category/release-notes">release-notes</a>
 
@@ -96,7 +96,7 @@
 <p>The <code class="highlighter-rouge">if</code> statement looks something like this…</p>
 
 <figure class="highlight"><pre><code class="language-html" data-lang="html">{% if page.is_post %}
-<span class="nt">&lt;p</span> <span class="na">class=</span><span class="s">"post-meta"</span><span class="nt">&gt;</span>{{ page.date | date: "%e %B %Y" }}<span class="nt">&lt;/p&gt;</span>
+<span class="nt">&lt;p</span> <span class="na">class=</span><span class="s">"text-small"</span><span class="nt">&gt;</span>{{ page.date | date: "%e %B %Y" }}<span class="nt">&lt;/p&gt;</span>
 {% endif %}</code></pre></figure>
 
 <p>So that posts know they are posts, I had to add the following snippet to the <code class="highlighter-rouge">_config.yml</code> file.</p>
