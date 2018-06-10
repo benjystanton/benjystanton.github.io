@@ -5,9 +5,79 @@
     <description>UX Designer. Family Man. Music Snob.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 03 Jun 2018 19:55:42 +0100</pubDate>
-    <lastBuildDate>Sun, 03 Jun 2018 19:55:42 +0100</lastBuildDate>
+    <pubDate>Sun, 10 Jun 2018 22:24:33 +0100</pubDate>
+    <lastBuildDate>Sun, 10 Jun 2018 22:24:33 +0100</lastBuildDate>
     <generator>Jekyll v3.8.1</generator>
+    
+      <item>
+        <title>Weeknotes – series 01 episode 06</title>
+        <description>&lt;p class=&quot;lede&quot;&gt;Inflatable bowels, Twitter charts and busy, busy days.&lt;/p&gt;
+
+&lt;h2 id=&quot;monday&quot;&gt;Monday&lt;/h2&gt;
+
+&lt;h3 id=&quot;sharing-charts-on-twitter-at-time-of-release&quot;&gt;Sharing charts on Twitter at time of release&lt;/h3&gt;
+
+&lt;p&gt;It’s difficult to remember back to Monday now, but one meeting in particular stood out. A few of us got together to try and improve the ‘sharing charts on Twitter at time of release’ workflow.&lt;/p&gt;
+
+&lt;p&gt;Because of the unique (it’s probably not unique) way ONS handles and publishes sensitive data, creating an image of chart in time for 9:30am publishing is really tricky and it’s causing headaches for a few of us.&lt;/p&gt;
+
+&lt;h2 id=&quot;tuesday&quot;&gt;Tuesday&lt;/h2&gt;
+
+&lt;h3 id=&quot;show-and-tell-with-the-publishing-team&quot;&gt;Show and tell with the publishing team&lt;/h3&gt;
+
+&lt;p&gt;On Tuesday I was asked to run a show and tell for the publishing team.&lt;/p&gt;
+
+&lt;p&gt;The publishing team are the people who use the ONS website’s content management system to upload content so it can be published.&lt;/p&gt;
+
+&lt;p&gt;It reminded me that we have made some progress in breaking down the silos in the department. But there is still more that can be done, and I’ve made a note to remind myself to spend more time observing the work that they do.&lt;/p&gt;
+
+&lt;h2 id=&quot;wednesday&quot;&gt;Wednesday&lt;/h2&gt;
+
+&lt;h3 id=&quot;wednesday-was-intense&quot;&gt;Wednesday was intense&lt;/h3&gt;
+
+&lt;p&gt;In the morning I finished off my &lt;a href=&quot;https://dp-prototype-kit.netlify.com/sprint/25/geography-2/&quot;&gt;find data by location&lt;/a&gt; prototype, then presented it at our usual end-of-sprint show and tell.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/SuepremeDesign&quot;&gt;Sue&lt;/a&gt; (graphic designer from Home Office Digital) visited. She spent some time chatting with the various design teams (thanks everyone who spent time showing her around). She has plans to start a cross-gov graphic design meet-up.&lt;/p&gt;
+
+&lt;p&gt;At lunch time, we walked around a giant inflatable bowel. Which was a completely normal thing to do.&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;When you get invitied into an inflatable bowel you can’t say no 🤷‍♀️ &lt;a href=&quot;https://twitter.com/mathew_weeks?ref_src=twsrc%5Etfw&quot;&gt;@mathew_weeks&lt;/a&gt; &lt;a href=&quot;https://twitter.com/RachelPricetag?ref_src=twsrc%5Etfw&quot;&gt;@RachelPricetag&lt;/a&gt; &lt;a href=&quot;https://twitter.com/NationJoseph?ref_src=twsrc%5Etfw&quot;&gt;@NationJoseph&lt;/a&gt; &lt;a href=&quot;https://twitter.com/benjystanton?ref_src=twsrc%5Etfw&quot;&gt;@benjystanton&lt;/a&gt; &lt;a href=&quot;https://t.co/cF4l3cgayx&quot;&gt;pic.twitter.com/cF4l3cgayx&lt;/a&gt;&lt;/p&gt;&amp;mdash; Grace Elizabeth (@designergrace) &lt;a href=&quot;https://twitter.com/designergrace/status/1004324407693709313?ref_src=twsrc%5Etfw&quot;&gt;June 6, 2018&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;Whilst all this was going on we had our usual end-of-sprint ceremonies like retrospective and sprint planning. These are usually exhausting just by themselves. Especially for an introvert like me.&lt;/p&gt;
+
+&lt;p&gt;Last of all, &lt;a href=&quot;https://twitter.com/SamHallWales&quot;&gt;Sam&lt;/a&gt; has rebooted the digital services monthly meeting. The team rarely get together, despite all sharing digital job roles, so it was good to be in the same room sharing news and updates.&lt;/p&gt;
+
+&lt;h2 id=&quot;thursday&quot;&gt;Thursday&lt;/h2&gt;
+
+&lt;h3 id=&quot;thursday-was-also-intense&quot;&gt;Thursday was also intense&lt;/h3&gt;
+
+&lt;p&gt;Looking back — I had too much on on Thursday. My day went a bit like this…&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;3 stand-ups&lt;/li&gt;
+  &lt;li&gt;Usability testing with the publishing team part 1&lt;/li&gt;
+  &lt;li&gt;Follow-up chat about social media workflows&lt;/li&gt;
+  &lt;li&gt;Meeting to discuss UX (user experience) designer progression pathways&lt;/li&gt;
+  &lt;li&gt;Design community of practice&lt;/li&gt;
+  &lt;li&gt;Usability testing with the publishing team part 2&lt;/li&gt;
+  &lt;li&gt;Meeting to finish off sprint planning because we didn’t finish everything on Wednesday&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;My head was spinning by the end of the day. Part of me feels proud that I can play an active role in 9 different meetings/discussions and still do some good work. Another part of me was just glad I had booked off Friday.&lt;/p&gt;
+
+&lt;h2 id=&quot;friday&quot;&gt;Friday&lt;/h2&gt;
+
+&lt;p&gt;Day off with the kids — whoop!&lt;/p&gt;
+</description>
+        <pubDate>Sun, 10 Jun 2018 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/blog/weeknotes-series-01-episode-06/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/weeknotes-series-01-episode-06/</guid>
+        
+        
+        <category>weeknotes</category>
+        
+      </item>
     
       <item>
         <title>What's the best way to mark-up an SVG map?</title>
@@ -678,70 +748,6 @@ You have to meet all competencies when you apply, and at the interview. [Read th
         
         
         <category>ons</category>
-        
-      </item>
-    
-      <item>
-        <title>Weeknotes – series 01 episode 02</title>
-        <description>&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/sisters-beach.jpg&quot; alt=&quot;2 girls standing together, looking down at the beach on a sunny day&quot; /&gt;&lt;/p&gt;
-
-&lt;p class=&quot;lede&quot;&gt;It was the super hot bank holiday weekend – so I was down the beach with the family, along with most of the country. Related: &lt;a href=&quot;https://twitter.com/awen_j/status/994220526171312128&quot;&gt;Awen&lt;/a&gt; noticed that Saturday 5th May had the lowest number of sessions on the ONS website since Boxing Day 2017.&lt;/p&gt;
-
-&lt;h2 id=&quot;monday--tuesday&quot;&gt;Monday &amp;amp; Tuesday&lt;/h2&gt;
-
-&lt;p&gt;Days off. &lt;span role=&quot;img&quot; aria-label=&quot;Smiling face With sunglasses&quot;&gt;😎&lt;/span&gt;
-&lt;!-- Accessible emojis, inspired by https://tink.uk/accessible-emoji/ --&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;wednesday&quot;&gt;Wednesday&lt;/h2&gt;
-
-&lt;h3 id=&quot;stats-new-zealand&quot;&gt;Stats New Zealand&lt;/h3&gt;
-
-&lt;p&gt;Me and &lt;a href=&quot;https://twitter.com/rachelpricetag&quot;&gt;Rachel&lt;/a&gt; started the day early by chatting to Blair and Arna from the &lt;a href=&quot;https://www.stats.govt.nz/&quot;&gt;Stats.NZ website&lt;/a&gt;. 8am for us was 6pm for them I think. It was reassuring to hear their research and findings were inline with what we learn from users of the ONS website. They’re also doing some great work to measure and learn how well individual releases are doing, so they can benchmark their performance.&lt;/p&gt;
-
-&lt;h3 id=&quot;show-and-tell&quot;&gt;Show and tell&lt;/h3&gt;
-
-&lt;p&gt;We had the show and tell for &lt;a href=&quot;https://onsdigital.github.io/dp-prototypes/#sprint-23&quot;&gt;sprint 23&lt;/a&gt;. Everyone was excited by &lt;a href=&quot;https://twitter.com/robchamberspfc/status/992301199155085312&quot;&gt;observation level endpoints&lt;/a&gt; being added to the API for some reason. More importantly I showed the &lt;a href=&quot;https://onsdigital.github.io/dp-design-manual/sprint/23/bulletin/&quot;&gt;prototype&lt;/a&gt; we made during the recent design sprint.&lt;/p&gt;
-
-&lt;h3 id=&quot;culture-and-service-design&quot;&gt;Culture and service design&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/reinikainen&quot;&gt;Esko&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/likeaword&quot;&gt;Ben&lt;/a&gt; popped in to give a &lt;a href=&quot;https://twitter.com/mr_dudders/status/993832910435299330&quot;&gt;lunch time talk&lt;/a&gt; about service design and culture. I really liked what Ben said about culture…&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;“culture is: what is okay here and what is not okay”&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;… it reminded me of the &lt;a href=&quot;https://gds.blog.gov.uk/2016/05/25/its-ok-to-say-whats-ok/&quot;&gt;GDS it’s okay to poster&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;thursday&quot;&gt;Thursday&lt;/h2&gt;
-
-&lt;h3 id=&quot;usability-testing&quot;&gt;Usability testing&lt;/h3&gt;
-
-&lt;p&gt;On Thursday I went to Birmingham with &lt;a href=&quot;https://twitter.com/AldaviesAlison&quot;&gt;Al&lt;/a&gt; to observe some user research sessions. We did the first round of usability testing on the new bulletin prototype and I even managed to create a &lt;a href=&quot;https://onsdigital.github.io/dp-design-manual/sprint/24/bulletin/&quot;&gt;second iteration&lt;/a&gt; whilst I was up there fixing some of the obvious issues (like missing links).&lt;/p&gt;
-
-&lt;h3 id=&quot;prototyping-on-the-train&quot;&gt;Prototyping on the train&lt;/h3&gt;
-
-&lt;p&gt;Whilst on the train back I began to split the &lt;a href=&quot;https://github.com/benjystanton/dp-prototype-kit&quot;&gt;ONS website prototype kit&lt;/a&gt; out of the &lt;a href=&quot;https://github.com/ONSdigital/dp-design-manual&quot;&gt;design manual&lt;/a&gt; repo. It no longer makes sense to keep them together and having them separate should make it easier to update both.&lt;/p&gt;
-
-&lt;h2 id=&quot;friday&quot;&gt;Friday&lt;/h2&gt;
-
-&lt;h3 id=&quot;hiring-a-user-experience-designer&quot;&gt;Hiring a user experience designer&lt;/h3&gt;
-
-&lt;p&gt;The &lt;a href=&quot;https://www.civilservicejobs.service.gov.uk/csr/jobs.cgi?jcode=1581727&quot;&gt;job ad went live&lt;/a&gt; on Friday to replace &lt;a href=&quot;https://twitter.com/tomten2two&quot;&gt;Tom&lt;/a&gt;. I’m pretty pleased with the job description:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;“As a user experience designer in the Digital Publishing department, you’ll help us to improve the usability, interaction and accessibility of the ONS website and the content management systems that the publishing team use. You’ll help our users to find, understand and use our content. You’ll work with the design community across ONS to create a consistent design system that meets user needs. You’ll love the web and working in the open.”&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&quot;future-of-research-and-design-at-ons&quot;&gt;Future of research and design at ONS&lt;/h3&gt;
-
-&lt;p&gt;Then, just a little 3 hour meeting to round the week off. Me and the user-centred design leads at ONS got together to talk about future plans for our teams. More news on that soon.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 12 May 2018 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/blog/weeknotes-series-01-episode-02/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/weeknotes-series-01-episode-02/</guid>
-        
-        
-        <category>weeknotes</category>
         
       </item>
     

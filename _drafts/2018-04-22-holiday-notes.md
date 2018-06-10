@@ -23,3 +23,7 @@ categories: personal
 - with [Travel Republic](https://www.travelrepublic.co.uk/)
 - £10 deposit
 - hotel only
+
+## June
+- Checking flight costs on Skyscanner for this August as a comparison
+- Started a Trello board
