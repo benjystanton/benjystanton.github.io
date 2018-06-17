@@ -27,3 +27,5 @@ categories: personal
 ## June
 - Checking flight costs on Skyscanner for this August as a comparison
 - Started a Trello board
+- added calendar powerup so i can deadlines in my calendar
+- booked universal tickets
