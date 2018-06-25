@@ -1,7 +1,7 @@
 {
 	"short_name": "Benjy S",
 	"name": "Benjy Stanton’s website",
-	"start_url": "",
+	"start_url": "/",
 	"background_color": "#007575",
 	"display": "standalone",
 	"scope": "",
