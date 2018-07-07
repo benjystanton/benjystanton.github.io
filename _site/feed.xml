@@ -5,8 +5,8 @@
     <description>UX Designer. Family Man. Music Snob.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 07 Jul 2018 13:54:17 +0100</pubDate>
-    <lastBuildDate>Sat, 07 Jul 2018 13:54:17 +0100</lastBuildDate>
+    <pubDate>Sat, 07 Jul 2018 13:56:13 +0100</pubDate>
+    <lastBuildDate>Sat, 07 Jul 2018 13:56:13 +0100</lastBuildDate>
     <generator>Jekyll v3.8.1</generator>
     
       <item>
@@ -137,8 +137,8 @@
 
 </description>
         <pubDate>Sat, 07 Jul 2018 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/blog/June-2018-links/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/June-2018-links/</guid>
+        <link>http://localhost:4000/blog/june-2018-links/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/june-2018-links/</guid>
         
         
         <category>links</category>
