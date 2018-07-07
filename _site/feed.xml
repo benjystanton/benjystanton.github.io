@@ -5,9 +5,145 @@
     <description>UX Designer. Family Man. Music Snob.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 25 Jun 2018 16:53:23 +0100</pubDate>
-    <lastBuildDate>Mon, 25 Jun 2018 16:53:23 +0100</lastBuildDate>
+    <pubDate>Sat, 07 Jul 2018 13:54:17 +0100</pubDate>
+    <lastBuildDate>Sat, 07 Jul 2018 13:54:17 +0100</lastBuildDate>
     <generator>Jekyll v3.8.1</generator>
+    
+      <item>
+        <title>June 2018 links</title>
+        <description>&lt;ul class=&quot;list-pairs&quot;&gt;
+  
+  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
+    
+    &lt;a href=&quot;http://emilywebber.co.uk/a-decent-remote-show-and-tell-set-up/&quot;&gt;A decent remote show and tell set up&lt;/a&gt;
+    &lt;/span&gt;
+    &lt;br /&gt;Many organisations work with dispersed teams or stakeholders, so there must be an easy way to do an engaging remote show and tell, surely… right? I couldn’t find one, this is my ongoing request to find my own and my current set up.&lt;/li&gt;
+  
+  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
+    
+    &lt;a href=&quot;https://alistapart.com/article/cult-of-the-complex&quot;&gt;The Cult of the Complex&lt;/a&gt;
+    &lt;/span&gt;
+    &lt;br /&gt;In an industry that extols innovation over customer satisfaction, and prefers algorithm to human judgement (forgetting that every algorithm has human bias in its DNA), perhaps it should not surprise us that toolchains have replaced know-how&lt;/li&gt;
+  
+  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
+    
+    &lt;a href=&quot;https://inclusive-components.design/cards/&quot;&gt;Cards&lt;/a&gt;
+    &lt;/span&gt;
+    &lt;br /&gt;Some of the components I've explored here have specific standardized requirements in order to work as expected. Tab interfaces, for example, have a prescribed structure and a set of interaction behaviors as mandated by the WAI-ARIA specification.&lt;/li&gt;
+  
+  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
+    
+    &lt;a href=&quot;https://www.w3.org/TR/WCAG21/&quot;&gt;Web Content Accessibility Guidelines (WCAG) 2.1&lt;/a&gt;
+    &lt;/span&gt;
+    &lt;br /&gt;Web Content Accessibility Guidelines (WCAG) 2.1 covers a wide range of recommendations for making Web content more accessible. Following these guidelines will make content more accessible to a wider range of people with disabilities.&lt;/li&gt;
+  
+  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
+    
+    &lt;a href=&quot;https://hodigital.blog.gov.uk/2018/06/07/creating-a-list-of-services/&quot;&gt;Creating a list of services&lt;/a&gt;
+    &lt;/span&gt;
+    &lt;br /&gt;The Home Office is developing a list of services it delivers, or delivers a part of, as an end user might know them, or might search for them online. By end user, we mean citizens, visitors, people living here from abroad, employers, universities, airlines, port operators and many more.&lt;/li&gt;
+  
+  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
+    
+    &lt;a href=&quot;https://blog.trello.com/how-design-teams-are-using-trello-ultimate-guide&quot;&gt;How Design Teams Are Using Trello: The Ultimate Round Up&lt;/a&gt;
+    &lt;/span&gt;
+    &lt;br /&gt;Design teams are arguably the most underrated, understaffed, but also one of the most important teams at your company.&lt;/li&gt;
+  
+  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
+    
+    &lt;a href=&quot;https://medium.com/@Elijah_Meeks/making-annotations-first-class-citizens-in-data-visualization-21db6383d3fe&quot;&gt;Making Annotations First-Class Citizens in Data Visualization&lt;/a&gt;
+    &lt;/span&gt;
+    &lt;br /&gt;I’m convinced that annotations are where we’re going to see the next wave of innovation in data visualization.&lt;/li&gt;
+  
+  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
+    
+    &lt;a href=&quot;https://blog.mattedgar.com/2018/06/06/look-after-the-water-reflections-1-year-into-my-work-at-nhs-digital/&quot;&gt;“Look after the water” – reflections 1 year into my work at NHS Digital&lt;/a&gt;
+    &lt;/span&gt;
+    &lt;br /&gt;Other people’s jobs are endlessly fascinating. At a birthday celebration a couple of years ago I got talking to Johnny, a family friend who works as an aquarium curator. He told me a surprising thing about his work: how little of his time he spends actually looking after the fish.&lt;/li&gt;
+  
+  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
+    
+    &lt;a href=&quot;https://open.nytimes.com/reimagining-the-new-york-times-digital-story-experience-ff698541ac09&quot;&gt;Reimagining The New York Times Digital Story Experience&lt;/a&gt;
+    &lt;/span&gt;
+    &lt;br /&gt;The New York Times publishes more than 150 articles a day to our iOS and Android apps, and our desktop and mobile websites. All of these platforms were originally developed by separate teams, so each had its own implementation and user experience.&lt;/li&gt;
+  
+  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
+    
+    &lt;a href=&quot;https://www.designbetter.co/designops-handbook&quot;&gt;DesignOps Handbook&lt;/a&gt;
+    &lt;/span&gt;
+    &lt;br /&gt;DesignOps is the key to scaling digital product design teams with more efficiency.&lt;/li&gt;
+  
+  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
+    
+    &lt;a href=&quot;https://blog.louisedowne.com/2018/06/14/15-principles-of-good-service-design/&quot;&gt;15 principles of good service design&lt;/a&gt;
+    &lt;/span&gt;
+    &lt;br /&gt;What is a good service and why are we so afraid to talk about it? I’ve been asking myself this question a lot recently.  In a bid to find out, I tweeted this a few weeks ago and – bar a couple of people also wondering the same thing – got pretty much tumbleweeds in return.&lt;/li&gt;
+  
+  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
+    
+    &lt;a href=&quot;https://www.gov.uk/service-manual/measuring-success/measuring-service-benefits&quot;&gt;Measuring the benefits of your service&lt;/a&gt;
+    &lt;/span&gt;
+    &lt;br /&gt;Building the wrong thing can be very costly. It wastes users’ time, causes frustration and leads to people getting in touch via less cost effective channels.&lt;/li&gt;
+  
+  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
+    
+    &lt;a href=&quot;https://medium.com/@loft27design/designers-as-power-brokers-403338d79361&quot;&gt;Designers as power brokers&lt;/a&gt;
+    &lt;/span&gt;
+    &lt;br /&gt;I put this flag up in work a couple of weeks ago. It caused a bit of a conversation and people had different interpretations of what it meant. I thought it best to explain the way I intended it.&lt;/li&gt;
+  
+  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
+    
+    &lt;a href=&quot;https://pds.blog.parliament.uk/2018/06/13/making-the-hours-count-not-counting-the-hours/&quot;&gt;Making the hours count, not counting the hours&lt;/a&gt;
+    &lt;/span&gt;
+    &lt;br /&gt;I’ve been a content designer for about two years. I started just after my daughter was born. It’s taken some close supervision, support, and some pretty intense onboarding, but we’re both getting used to our roles.  We’re taking small steps because getting used to new things takes time.&lt;/li&gt;
+  
+  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
+    
+    &lt;a href=&quot;https://cm.engineering/how-to-test-accessibility-of-emails-b68fed03f5f4&quot;&gt;How to test accessibility of emails&lt;/a&gt;
+    &lt;/span&gt;
+    &lt;br /&gt;Testing for accessibility in your emails doesn’t have to be a chore. Making accessible and inclusive emails will increase your target audience (1, 2, 3) and will have other unintended benefits. These other benefits are known as the Curb-Cut effect. When people first introduced curb cuts (i.e.&lt;/li&gt;
+  
+  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
+    
+    &lt;a href=&quot;https://design-system.service.gov.uk&quot;&gt;Design your service using GOV.UK styles, components and patterns&lt;/a&gt;
+    &lt;/span&gt;
+    &lt;br /&gt;GOV.UK uses cookies to make the site simpler. Find out more about cookies  Use this design system to make your service consistent with GOV.UK. Learn from the research and experience of other service teams and avoid repeating work that’s already been done.&lt;/li&gt;
+  
+  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
+    
+    &lt;a href=&quot;https://medium.com/leading-service-design/service-mapping-and-different-types-of-maps-604a1a22e22c&quot;&gt;Service mapping and different types of maps&lt;/a&gt;
+    &lt;/span&gt;
+    &lt;br /&gt;Written by Ben Holliday. Based on work developed with Kirsty Sinclair and feedback from the FutureGov design team.  There’s a question of why designers make so many maps. We love maps.&lt;/li&gt;
+  
+  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
+    
+    &lt;a href=&quot;https://medium.com/@deanvipond/jelly-flood-the-world-of-design-seen-through-the-lens-of-a-kids-cartoon-f2d854bf4db9&quot;&gt;Jelly Flood! The world of design, seen through the lens of a kids’ cartoon&lt;/a&gt;
+    &lt;/span&gt;
+    &lt;br /&gt;Maybe it was the sleep deprivation that parenthood brought, but Ben &amp;amp; Holly’s Little Kingdom was one of my favourite TV shows whilst my children were younger. It was funny and smart, and had some wry comments about class and royalty.  These are the Fairies. They live in a castle, and can do magic.&lt;/li&gt;
+  
+  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
+    
+    &lt;a href=&quot;https://www.gov.uk/service-manual/agile-delivery/working-across-organisational-boundaries&quot;&gt;Working across organisational boundaries&lt;/a&gt;
+    &lt;/span&gt;
+    &lt;br /&gt;You may need to work with other organisations or teams across your department to build services that make sense to users.  This is because separate teams are often responsible for different chunks of a full end-to-end journey like becoming a childminder or setting up a company.&lt;/li&gt;
+  
+  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
+    
+    &lt;a href=&quot;https://medium.com/twitter-design-research/all-in-sync-how-our-designers-keep-up-with-the-latest-design-system-assets-98687925d7e&quot;&gt;All in Sync: How our designers keep up with the latest design system assets&lt;/a&gt;
+    &lt;/span&gt;
+    &lt;br /&gt;Design systems empower designers to focus on the many unique problems that they’re solving while providing a consistent experience.&lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Sat, 07 Jul 2018 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/blog/June-2018-links/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/June-2018-links/</guid>
+        
+        
+        <category>links</category>
+        
+      </item>
     
       <item>
         <title>Weeknotes – series 01 episode 06</title>
@@ -712,42 +848,6 @@ Camp&lt;/a&gt;)&lt;/li&gt;
         
         
         <category>weeknotes</category>
-        
-      </item>
-    
-      <item>
-        <title>Hiring a user experience (UX) designer at ONS</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;Closing date: 11 Jun 2018&lt;/li&gt;
-  &lt;li&gt;Salary: £28,450 to £33,249&lt;/li&gt;
-  &lt;li&gt;Location: Newport&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.civilservicejobs.service.gov.uk/csr/jobs.cgi?jcode=1581727&quot;&gt;Read the full job advert&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;!-- ## Applying for the post
-
-You CV and suitability statement together should show that you have the right experience and skills and that you meet the competencies.
-
-&gt; Your CV should cover details of education, professional qualifications, employment history, as well as giving details of relevant experience.
-
-&gt; Your suitability statement should contain details explaining why this post interests you and how you meet the criteria as detailed in the vacancy description. Your statement should detail skills, talents, experiences and your suitability for the role, giving evidence of examples of experience to the specialist skills listed in the role profile attached.
-
-&gt; Successful candidates will need to demonstrate broad competencies providing clear examples in their statement of suitability
-
-You have to meet all competencies when you apply, and at the interview. [Read this if you are unfamiliar with competencies](https://www.gov.uk/government/publications/civil-service-competency-framework).
- --&gt;
-&lt;h2 id=&quot;working-at-ons&quot;&gt;Working at ONS&lt;/h2&gt;
-
-&lt;p&gt;To learn what it’s like to work at ONS, check out our &lt;a href=&quot;https://digitalblog.ons.gov.uk/&quot;&gt;Digital Blog&lt;/a&gt; or you can read some of my &lt;a href=&quot;/blog/category/ons/&quot;&gt;ONS posts&lt;/a&gt; and &lt;a href=&quot;/blog/category/weeknotes/&quot;&gt;weeknotes&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Or, feel free to &lt;a href=&quot;https://twitter.com/benjystanton&quot;&gt;ask me on Twitter&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 14 May 2018 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/blog/hiring-ux-designer-ons/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/hiring-ux-designer-ons/</guid>
-        
-        
-        <category>ons</category>
         
       </item>
     
