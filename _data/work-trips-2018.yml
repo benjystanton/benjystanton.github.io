@@ -101,3 +101,14 @@
   returnJourney:
     - London Paddington
     - Swansea
+
+- destination: International Design in Goverment
+  category: Conference
+  month: July
+  outwardJourney:
+    - Swansea
+    - Cardiff
+    - London Paddington
+  returnJourney:
+    - London Paddington
+    - Swansea
