@@ -387,7 +387,7 @@ table {
   margin-bottom: 36px; }
 
 thead {
-  border-bottom: 2px solid #abb3bd; }
+  border-bottom: 5px solid #5b6774; }
 
 thead th {
   font-weight: bold; }
@@ -416,6 +416,24 @@ caption {
 .big-number {
   display: block;
   line-height: 1; }
+
+.chart__axis-label {
+  font-size: 16px;
+  fill: #2e343b; }
+
+.chart__axis-label--white {
+  font-size: 16px;
+  fill: #ffffff; }
+
+.chart__grid-line {
+  stroke: #e4e7ea;
+  stroke-width: 1px; }
+
+.chart__grid-line--major {
+  stroke-width: 2px; }
+
+.chart__bar {
+  fill: #007575; }
 
 pre,
 code {

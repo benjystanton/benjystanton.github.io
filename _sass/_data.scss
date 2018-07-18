@@ -5,3 +5,31 @@
   line-height: 1;
   @extend .heading-xxlarge;
 }
+
+// charts
+.chart {
+  // width: 100%;
+}
+
+.chart__axis-label {
+  font-size: $small-font-size;
+  fill: $text-colour;
+}
+
+.chart__axis-label--white {
+  font-size: $small-font-size;
+  fill: $white-colour;
+}
+
+.chart__grid-line {
+  stroke: $light-grey-colour;
+  stroke-width: 1px;
+}
+
+.chart__grid-line--major {
+  stroke-width: 2px;
+}
+
+.chart__bar {
+  fill: $primary-colour;
+}
