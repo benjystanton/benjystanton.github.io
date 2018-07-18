@@ -7,7 +7,7 @@ table {
 }
 
 thead {
-  border-bottom:2px solid $medium-grey-colour;
+  border-top: $spacing-unit/4 solid $text-colour;
 }
 
 thead th {
@@ -15,7 +15,7 @@ thead th {
 }
 
 th {
-  vertical-align: bottom;
+  vertical-align: text-top;
 }
 
 th[scope=row], td {
@@ -23,9 +23,9 @@ th[scope=row], td {
 }
 
 td, th {
-  border-bottom: 1px solid $medium-grey-colour;
+  border-bottom: 1px solid $text-colour;
   text-align: left;
-  padding: 0.8em 1.3em 0.8em 0;
+  padding: $spacing-unit/4 $spacing-unit $spacing-unit 0;
   line-height: $base-line-height;
 }
 

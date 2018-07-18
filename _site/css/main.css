@@ -238,7 +238,7 @@ figure figcaption span {
   stroke: white; }
 
 blockquote {
-  border-left: 4px solid #2e343b;
+  border-left: 9px solid #2e343b;
   padding-left: 18px;
   font-size: 24px;
   margin: 36px 0; }
@@ -387,21 +387,21 @@ table {
   margin-bottom: 36px; }
 
 thead {
-  border-bottom: 5px solid #5b6774; }
+  border-top: 9px solid #2e343b; }
 
 thead th {
   font-weight: bold; }
 
 th {
-  vertical-align: bottom; }
+  vertical-align: text-top; }
 
 th[scope=row], td {
   vertical-align: text-top; }
 
 td, th {
-  border-bottom: 1px solid #abb3bd;
+  border-bottom: 1px solid #2e343b;
   text-align: left;
-  padding: 0.8em 1.3em 0.8em 0;
+  padding: 9px 36px 36px 0;
   line-height: 1.4; }
 
 td:last-child, th:last-child {
