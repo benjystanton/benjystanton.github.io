@@ -4,13 +4,13 @@ title: Holiday notes
 categories: personal
 ---
 
-## April
-- Decided we wanted to go Florida in 2019
-- We were spending the day in [Mumbles](https://www.instagram.com/p/Bh4DV-whygQ/)
-- Then, we did lots of research and chats with family
-- Started to price it all up
+## April – 16 months to go
+- decided we wanted to go Florida in 2019
+- we were spending the day in [Mumbles](https://www.instagram.com/p/Bh4DV-whygQ/)
+- did lots of research and chatting with family
+- started to price it all up
 
-## May
+## May – 15 months to go
 
 ### Booked the Disney half
 - with [Attraction Tickets Direct](https://www.attraction-tickets-direct.co.uk/)
@@ -24,8 +24,12 @@ categories: personal
 - £10 deposit
 - hotel only
 
-## June
-- Checking flight costs on Skyscanner for this August as a comparison
-- Started a Trello board
-- added calendar powerup so i can deadlines in my calendar
+## June – 14 months to go
+- checking flight costs on Skyscanner for August 2018 as a comparison
+- started a Trello board
+- added calendar powerup so I can sync deadlines with my calendar
 - booked universal tickets
+
+## July – 13 months to go
+- told my boss
+- 
