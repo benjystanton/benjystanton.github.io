@@ -5,9 +5,157 @@
     <description>UX Designer. Family Man. Music Snob.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 18 Jul 2018 21:08:10 +0100</pubDate>
-    <lastBuildDate>Wed, 18 Jul 2018 21:08:10 +0100</lastBuildDate>
+    <pubDate>Thu, 06 Sep 2018 12:59:11 +0100</pubDate>
+    <lastBuildDate>Thu, 06 Sep 2018 12:59:11 +0100</lastBuildDate>
     <generator>Jekyll v3.8.1</generator>
+    
+      <item>
+        <title>July 2018 links</title>
+        <description>&lt;ul class=&quot;list-pairs&quot;&gt;
+  
+  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
+    
+    &lt;a href=&quot;https://medium.com/@avfletcher/design-backgrounds-are-over-rated-85ed59f7c7df&quot;&gt;Design backgrounds are over-rated&lt;/a&gt;
+    &lt;/span&gt;
+    &lt;br /&gt;For strategic, systems and service design at least, design backgrounds are over-rated. If you insist on recruiting only “talent” with such backgrounds, you will dramatically reduce your chances of finding candidates with the skills required design and deliver change.&lt;/li&gt;
+  
+  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
+    
+    &lt;a href=&quot;http://stevehoneyman.co.uk/blog/blue-notes/&quot;&gt;Responsive Blue Note Album sleeves recreated in the browser using HTML and CSS&lt;/a&gt;
+    &lt;/span&gt;
+    &lt;br /&gt;Over the last few months I’ve been busying myself trying to re-create some of Reid Miles iconic album sleeves  in the browser.&lt;/li&gt;
+  
+  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
+    
+    &lt;a href=&quot;https://www.bbc.co.uk/gel/guidelines/how-to-make-accessible-animated-images&quot;&gt;How to make Accessible Animated Images&lt;/a&gt;
+    &lt;/span&gt;
+    &lt;br /&gt;Animated images can really enhance user experience and understanding, but there are limitations. If they’re not designed in an accessible way, GIFs can be distracting or could even cause seizures.  To make sure your animated images are safe and accessible for all, here’s what you need to know.&lt;/li&gt;
+  
+  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
+    
+    &lt;a href=&quot;https://medium.com/cbc-digital-labs/planting-the-service-design-seeds-at-cbc-f0ced9a0f225&quot;&gt;Planting the Service Design Seeds at CBC&lt;/a&gt;
+    &lt;/span&gt;
+    &lt;br /&gt;Hi there ?, thanks for stopping by! My name is Hira and I’m excited to introduce the Service Design practice at CBC.  We define Service Design as a human-centred approach to creating and delivering holistic, seamless audience experiences across the CBC ecosystem.&lt;/li&gt;
+  
+  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
+    
+    &lt;a href=&quot;https://civilservice.blog.gov.uk/2018/07/06/keeping-in-touch-helps-me-feel-like-me/&quot;&gt;Keeping in touch helps me feel like me&lt;/a&gt;
+    &lt;/span&gt;
+    &lt;br /&gt;So, how have I used my time, what are the challenges you face as the mother of a young baby away from work, and how have I tackled them?  I’ve thought of myself as a member of two minority groups for quite some time - a woman and a member of the LGBT community.&lt;/li&gt;
+  
+  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
+    
+    &lt;a href=&quot;http://www.visionofbritain.org.uk/data&quot;&gt;Data Access&lt;/a&gt;
+    &lt;/span&gt;
+    &lt;br /&gt;The GB1900 project computerised all the place names and other text on the Second Edition County Series six-inch-to-one-mile maps covering the whole of Great Britain, published by the Ordnance Survey between 1888 and 1914 -- 1900 for short.&lt;/li&gt;
+  
+  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
+    
+    &lt;a href=&quot;https://larahogan.me/blog/leadership-style-colors/&quot;&gt;Leadership Style Colors&lt;/a&gt;
+    &lt;/span&gt;
+    &lt;br /&gt;Search for “leadership styles” on Google, and you’ll find lots of different articles describing the various types and numbers of leadership styles. Here are some examples of articles that say there are five, six, seven, eight, nine, and twelve leadership styles.&lt;/li&gt;
+  
+  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
+    
+    &lt;a href=&quot;https://www.w3.org/WAI/standards-guidelines/wcag/new-in-21/&quot;&gt;What's New in WCAG 2.1&lt;/a&gt;
+    &lt;/span&gt;
+    &lt;br /&gt;This page lists the new success criteria in Web Content Accessibility Guidelines (WCAG) 2.1.  It includes quotes from personas (fictional people) to help you understand some aspects of the success criteria.&lt;/li&gt;
+  
+  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
+    
+    &lt;a href=&quot;https://www.smashingmagazine.com/2018/07/pattern-library-first-css/&quot;&gt;Pattern Library First: An Approach For Managing CSS&lt;/a&gt;
+    &lt;/span&gt;
+    &lt;br /&gt;Upgrade your inbox and get our editors’ picks twice a month.  CSS can be hard to manage across a project, especially when you need to include media queries for various breakpoints and fallbacks for older browsers.&lt;/li&gt;
+  
+  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
+    
+    &lt;a href=&quot;https://medium.com/@karenyunqiuli/lifecycle-a-simple-service-design-mapping-technique-69bdec645ad6&quot;&gt;Lifecycle: a simple service design mapping technique&lt;/a&gt;
+    &lt;/span&gt;
+    &lt;br /&gt;Being a part of an in-house service design team in the BBC comes with a lot of perks. I get to work on many complex and exciting projects, with a wide range of stakeholders. Every project is an opportunity to explore something new.&lt;/li&gt;
+  
+  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
+    
+    &lt;a href=&quot;https://medium.com/@sanjaypoyzer/3-questions-everybody-should-know-the-answer-to-e6a91fe572b9&quot;&gt;3 questions everybody should know the answer to&lt;/a&gt;
+    &lt;/span&gt;
+    &lt;br /&gt;Whatever you’re working on, it probably needs to be delivered quickly.  There are always deadlines that need to be met, stakeholders who need to be managed, and meetings that need to be booked. In all the rush of the day-to-day, it’s often hard to work out what really needs to be achieved.&lt;/li&gt;
+  
+  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
+    
+    &lt;a href=&quot;https://www.theguardian.com/guardian-masterclasses/2015/aug/07/data-visualisation-a-one-day-workshop-tobias-sturt-adam-frost-digital-course&quot;&gt;Data visualisation: A one-day workshop&lt;/a&gt;
+    &lt;/span&gt;
+    &lt;br /&gt;Learn how to transform data into beautiful infographics at this hands-on workshop with our data visualisation experts Adam Frost and Tobias SturtDates: Multiple dates availableTimes: Full-day course, 10am-4pm                Whether you’re working on a presentation, a website or teaching materia&lt;/li&gt;
+  
+  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
+    
+    &lt;a href=&quot;https://contentdesign.london/usability/readability-guidelines/&quot;&gt;Readability guidelines&lt;/a&gt;
+    &lt;/span&gt;
+    &lt;br /&gt;Not brand or tone of voice just the mechanics of the language that are usually in style guides. So how to write a date or numerals vs numbers.   But the term ‘style guide’ seems to mean different things to different people.&lt;/li&gt;
+  
+  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
+    
+    &lt;a href=&quot;https://medium.com/@mariecheung/outcome-based-service-mapping-feec7e1937da&quot;&gt;Outcome-based service mapping&lt;/a&gt;
+    &lt;/span&gt;
+    &lt;br /&gt;At the Department for Work and Pensions in the UK government, I work with many teams who are currently tasked with replacing internal systems and improving the staff experience.&lt;/li&gt;
+  
+  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
+    
+    &lt;a href=&quot;https://pudding.cool/process/flexbox-layout/&quot;&gt;Making Data Viz Without SVG Using D3 &amp;amp; Flexbox&lt;/a&gt;
+    &lt;/span&gt;
+    &lt;br /&gt;Bye bye tricky alignments.  A few months ago, my co-worker Matt and I were collaborating on a project. I had been building a stacked bar chart in D3.js, and was seriously struggling to get the bars to stack on top of each other nicely and to animate from the bottom of the graphic instead of the top.&lt;/li&gt;
+  
+  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
+    
+    &lt;a href=&quot;https://larahogan.me/blog/feedback-equation/&quot;&gt;Feedback Equation&lt;/a&gt;
+    &lt;/span&gt;
+    &lt;br /&gt;As I mention in my book Demystifying Public Speaking, humans are mostly bad at giving feedback. We’re also really bad at preparing ourselves to receive feedback.  Many of us are paralyzed by the fear of having these awkward conversations.&lt;/li&gt;
+  
+  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
+    
+    &lt;a href=&quot;https://tom.loosemore.com/2018/07/17/interview-in-offscreen-magazine/&quot;&gt;Interview in Offscreen Magazine&lt;/a&gt;
+    &lt;/span&gt;
+    &lt;br /&gt;Last year I was interviewed by the mercurial Kai Brach for his magazine Offscreen, which seeks to highlight the human side of technology, and does so in style. You should subscribe.&lt;/li&gt;
+  
+  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
+    
+    &lt;a href=&quot;https://alistapart.com/article/webmentions-enabling-better-communication-on-the-internet&quot;&gt;Webmentions: Enabling Better Communication on the Internet&lt;/a&gt;
+    &lt;/span&gt;
+    &lt;br /&gt;Over 1 million Webmentions will have been sent across the internet since the specification was made a full Recommendation by the W3C—the standards body that guides the direction of the web—in early January 2017.&lt;/li&gt;
+  
+  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
+    
+    &lt;a href=&quot;https://medium.com/bbc-news-labs/beyond-800-words-prototyping-new-story-formats-for-news-e3102e783b5f&quot;&gt;Beyond 800 words: prototyping new story formats for news&lt;/a&gt;
+    &lt;/span&gt;
+    &lt;br /&gt;News on the internet is largely served up as 500 to 800-word articles — a legacy of newspapers. Although the digital article has been enhanced and improved with new technologies, it still works on the assumption that ‘one size fits all’.&lt;/li&gt;
+  
+  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
+    
+    &lt;a href=&quot;https://www.sarasoueidan.com/blog/toggle-switch-design/&quot;&gt;Sara Soueidan – Freelance front-end Web developer, author &amp;amp; speaker&lt;/a&gt;
+    &lt;/span&gt;
+    &lt;br /&gt;Yesterday I was working on creating the slides and accompanying demos for my upcoming Web Directions Code talk next week. One of the demos I’m creating is a basic proof of concept for a simple switch that is used to switch the theme of a UI from light to dark and vice versa.&lt;/li&gt;
+  
+  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
+    
+    &lt;a href=&quot;https://alphagov.github.io/wcag-primer/#wcag-2-0-getting-started&quot;&gt;WCAG 2.0 Primer alpha&lt;/a&gt;
+    &lt;/span&gt;
+    &lt;br /&gt;This document will help you get up to speed with WCAG 2.0 quickly and avoid common mistakes people make when creating or updating web content. You will find this really helpful if you design, build or create web content.&lt;/li&gt;
+  
+  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
+    
+    &lt;a href=&quot;https://blog.marvelapp.com/body-text-small/&quot;&gt;Your Body Text Is Too Small&lt;/a&gt;
+    &lt;/span&gt;
+    &lt;br /&gt;Body text is the key component in communicating the main bulk of a message or story, and it’s probably the most important element on a website, even if people sometimes read just the headlines.&lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Thu, 06 Sep 2018 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/blog/july-2018-links/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/july-2018-links/</guid>
+        
+        
+        <category>links</category>
+        
+      </item>
     
       <item>
         <title>June 2018 links</title>
@@ -720,134 +868,6 @@ Camp&lt;/a&gt;)&lt;/li&gt;
         
         
         <category>service-design</category>
-        
-      </item>
-    
-      <item>
-        <title>Weeknotes – series 01 episode 03</title>
-        <description>&lt;p class=&quot;lede&quot;&gt;Featuring service design, accessible maths symbols and pizza. If you only read one bit, read the bit on &lt;a href=&quot;#service-design-training&quot;&gt;service design training&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;monday&quot;&gt;Monday&lt;/h2&gt;
-
-&lt;h3 id=&quot;review-user-research&quot;&gt;Review user research&lt;/h3&gt;
-
-&lt;p&gt;We got together after morning stand-up to review the user research findings from &lt;a href=&quot;https://twitter.com/AldaviesAlison&quot;&gt;Alison&lt;/a&gt;’s recent trips. It’s always a popular slot, but it was good to involve people from the editorial team and graphic design team. (Breaking down silos!)&lt;/p&gt;
-
-&lt;h3 id=&quot;future-of-research-and-design&quot;&gt;Future of research and design&lt;/h3&gt;
-
-&lt;p&gt;The lead user-centred design people met with &lt;a href=&quot;https://twitter.com/SamHallWales&quot;&gt;Sam&lt;/a&gt; in her new role as Chief Digital Officer to talk about plans for the future of our teams. It was good to see Sam is open to new ideas but also pushing back on us to gather evidence for the changes we want to make.&lt;/p&gt;
-
-&lt;h3 id=&quot;stickers&quot;&gt;Stickers!&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/coop-sticker.jpg&quot; alt=&quot;sticker that reads: we design for everyone&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/mr_dudders&quot;&gt;Andy&lt;/a&gt; brought back &lt;a href=&quot;http://coop-design-manual.herokuapp.com/principles.html&quot;&gt;co-op design principle&lt;/a&gt; stickers from his conference in Manchester.&lt;/p&gt;
-
-&lt;h3 id=&quot;hiring-a-user-experience-designer&quot;&gt;Hiring a user experience designer&lt;/h3&gt;
-
-&lt;p&gt;The advert to &lt;a href=&quot;https://www.civilservicejobs.service.gov.uk/csr/jobs.cgi?jcode=1581727&quot;&gt;hire a user experience designer&lt;/a&gt; to replace Tom went live! No-one can replace Tom obviously – but we have to try.&lt;/p&gt;
-
-&lt;h2 id=&quot;tuesday&quot;&gt;Tuesday&lt;/h2&gt;
-
-&lt;h3 id=&quot;design-sprint-next-steps&quot;&gt;Design sprint next steps&lt;/h3&gt;
-
-&lt;p&gt;We got together to chat about next steps for the bulletin prototype. We’re planning a one day workshop to create iteration 3 of the prototype ready for the next round of usability testing. It should contain more realistic content thanks to the work of &lt;a href=&quot;https://twitter.com/kieran_forde&quot;&gt;Kieran&lt;/a&gt; and a more flexible “at a glance” section at the top thanks to &lt;a href=&quot;https://twitter.com/RachelPricetag&quot;&gt;Rachel&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h3 id=&quot;user-experience-design-lead-catch-up&quot;&gt;User experience design lead catch-up&lt;/h3&gt;
-
-&lt;p&gt;Me and &lt;a href=&quot;https://twitter.com/wiredimage&quot;&gt;Ben&lt;/a&gt; chatted about whether we’ll use &lt;a href=&quot;https://fractal.build/&quot;&gt;Fractal&lt;/a&gt; for the next iteration of the pattern library or not. Hint: probably will.&lt;/p&gt;
-
-&lt;h3 id=&quot;prototypin&quot;&gt;Prototypin’&lt;/h3&gt;
-
-&lt;p&gt;I spent most of the day doing some prototyping for the “publish a dataset” task that our publishing team will be using. The exercise was useful, but made me realise I had to take a step back and understand user needs and technical processes in more detail.&lt;/p&gt;
-
-&lt;h2 id=&quot;wednesday&quot;&gt;Wednesday&lt;/h2&gt;
-
-&lt;h3 id=&quot;cross-site-working&quot;&gt;Cross site working&lt;/h3&gt;
-
-&lt;p&gt;Wednesday I had a couple of meetings with the Census team based in Titchfield. We need to figure out how the designers there can work with the team here in Newport and support each other with consistency, accessibility and ways of working.&lt;/p&gt;
-
-&lt;h3 id=&quot;accessible-maths-symbols&quot;&gt;Accessible maths symbols&lt;/h3&gt;
-
-&lt;p&gt;I had a quick meeting with the website publishing team to check if we can add minuses (not hyphens) to website content (we can). Using a minus is supported by the &lt;a href=&quot;https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style#maths-content&quot;&gt;GDS content style&lt;/a&gt; guide.&lt;/p&gt;
-
-&lt;p&gt;It’s more likely than a hyphen to be read out as “minus” by screen readers. It’s wider so it might be easier to read (hypothesis). The drawback is it’s more difficult to type and will require manual checking. Seems like a lot of effort, but if anyone should be getting maths symbols right it should be us.&lt;/p&gt;
-
-&lt;p&gt;Related: we noticed that our equations are inserted as outlined SVG shapes, so they are effectively invisible to assistive technology. I put together a &lt;a href=&quot;https://codepen.io/benjystanton/pen/KRrWNN&quot;&gt;quick demo&lt;/a&gt; to show how could add accessible text.&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;g role=&quot;img&quot; aria-labelledby=&quot;title&quot;&amp;gt;
-&amp;lt;title id=&quot;title&quot;&amp;gt;FISML=(r−Rt)SL&amp;lt;/title&amp;gt;
-...
-&amp;lt;/g&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;p&gt;But this is just a proof of concept and doesn’t consider how we’d turn this into a functioning tool that could be used by the publishing team.&lt;/p&gt;
-
-&lt;h2 id=&quot;thursday&quot;&gt;Thursday&lt;/h2&gt;
-
-&lt;p&gt;Thursday was a loooong day. I got the train in because I needed to get the train straight to London after work.&lt;/p&gt;
-
-&lt;h3 id=&quot;interactive-calculators-pattern-library&quot;&gt;Interactive calculators pattern library&lt;/h3&gt;
-
-&lt;p&gt;Me and &lt;a href=&quot;https://twitter.com/mathew_weeks&quot;&gt;Matt&lt;/a&gt; got together in the morning to review progress he’s made mocking up the pattern library for our interactive calculators. This should lead to more consistent, usable and accessible content for our website and I’m really excited by the progress being made.&lt;/p&gt;
-
-&lt;h3 id=&quot;design-review&quot;&gt;Design review&lt;/h3&gt;
-
-&lt;p&gt;We had our regular design review (my fav meeting of the week). &lt;a href=&quot;https://twitter.com/Carlie_Edge&quot;&gt;Carlie&lt;/a&gt; showed this neat data viz thing that Go Compare have made called &lt;a href=&quot;http://www.gocompare.com/life-insurance/you-and-planet-earth/&quot;&gt;You and planet earth&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h3 id=&quot;front-end-dev-and-user-experience-ux-design-reviews&quot;&gt;Front-end dev and user experience (UX) design reviews&lt;/h3&gt;
-
-&lt;p&gt;We decided to introduce twice weekly slots for the front-end devs to get together with ux designers to review work-in-progress. This will help us to have more opportunities to chat and also reduce the distraction of ad-hoc meetings that break us out of our workflow.&lt;/p&gt;
-
-&lt;p&gt;This is in addition to the regular demo slots we have after morning stand-up and sprint show and tells.&lt;/p&gt;
-
-&lt;h3 id=&quot;card-sorting-with-the-publishing-team&quot;&gt;Card sorting with the publishing team&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/card-sorting.jpg&quot; alt=&quot;index cards randomly arranged on a table, ready to be sorted&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;We did a card-sorting exercise to help us figure out how to:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;help the publishing team find pieces of content&lt;/li&gt;
-  &lt;li&gt;prioritise the elements on the page&lt;/li&gt;
-  &lt;li&gt;name the pages and sections&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&quot;london&quot;&gt;London&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/pizza-union.jpg&quot; alt=&quot;a pizza with an egg and spinach topping&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;After work I went straight to Newport station and caught the train to London ready for my training on Friday. Went for a lovely dinner in Pizza Union thanks to &lt;a href=&quot;https://twitter.com/tomten2two&quot;&gt;Tom&lt;/a&gt;’s recommendation.&lt;/p&gt;
-
-&lt;h2 id=&quot;friday&quot;&gt;Friday&lt;/h2&gt;
-
-&lt;h3 id=&quot;service-design-training&quot;&gt;Service design training&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/service-design.jpg&quot; alt=&quot;service design is end-to-end, front-to-back and cross-channel&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I was in London for my ‘intro to &lt;a href=&quot;https://gds.blog.gov.uk/2016/04/18/what-we-mean-by-service-design/&quot;&gt;service design&lt;/a&gt; training’ at GDS with &lt;a href=&quot;https://twitter.com/claragt&quot;&gt;Clara&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/Martin_Jordan&quot;&gt;Martin&lt;/a&gt;. It was really, really good.&lt;/p&gt;
-
-&lt;p&gt;The key takeaways were:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;service design tools are easy to pick-up (like this one: &lt;a href=&quot;https://twitter.com/benjystanton/status/997486239451316225&quot;&gt;service walkthroughs&lt;/a&gt;)&lt;/li&gt;
-  &lt;li&gt;you don’t have to be an expert to start doing it&lt;/li&gt;
-  &lt;li&gt;service design helps you to ask ‘why?’&lt;/li&gt;
-  &lt;li&gt;service design helps us to rephrase problem statements so we’re meeting user needs&lt;/li&gt;
-  &lt;li&gt;design the end-to-end process (and think about what happens before and after the service)&lt;/li&gt;
-  &lt;li&gt;design the things the user can’t see (not just the front-end touch-points)&lt;/li&gt;
-  &lt;li&gt;design across channel (digital, face-to-face, phone, letter, email)&lt;/li&gt;
-  &lt;li&gt;service design is great for facilitating discussions  and creating shared understanding with stakeholders&lt;/li&gt;
-  &lt;li&gt;service design can help you make sure you are building the right thing&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;You can &lt;a href=&quot;https://twitter.com/Martin_Jordan/status/997427134258909184&quot;&gt;see me being trained in the art of service design&lt;/a&gt; in this tweet.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 18 May 2018 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/blog/weeknotes-series-01-episode-03/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/weeknotes-series-01-episode-03/</guid>
-        
-        
-        <category>weeknotes</category>
         
       </item>
     
