@@ -5,8 +5,8 @@
     <description>UX Designer. Family Man. Music Snob.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 06 Sep 2018 12:59:11 +0100</pubDate>
-    <lastBuildDate>Thu, 06 Sep 2018 12:59:11 +0100</lastBuildDate>
+    <pubDate>Thu, 06 Sep 2018 13:05:01 +0100</pubDate>
+    <lastBuildDate>Thu, 06 Sep 2018 13:05:01 +0100</lastBuildDate>
     <generator>Jekyll v3.8.1</generator>
     
       <item>
@@ -151,6 +151,40 @@
         <pubDate>Thu, 06 Sep 2018 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/blog/july-2018-links/</link>
         <guid isPermaLink="true">http://localhost:4000/blog/july-2018-links/</guid>
+        
+        
+        <category>links</category>
+        
+      </item>
+    
+      <item>
+        <title>August 2018 links</title>
+        <description>&lt;ul class=&quot;list-pairs&quot;&gt;
+  
+  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
+    
+    &lt;a href=&quot;https://blog.datawrapper.de/colorguide/index.html&quot;&gt;Your Friendly Guide to Colors in Data Visualisation&lt;/a&gt;
+    &lt;/span&gt;
+    &lt;br /&gt;Once upon a time, I tweeted on an urgent matter. “Can somebody tell me how to get better with color?” I wrote.&quot; My color decisions are awful.&quot; I got a lot of replies with links to tools. They were awesome, so I collected them in a blog post.&lt;/li&gt;
+  
+  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
+    
+    &lt;a href=&quot;https://www.youtube.com/watch?v=2DLK3qK2aw0&quot;&gt;Blocked from benefits ... literally&lt;/a&gt;
+    &lt;/span&gt;
+    &lt;br /&gt;Jaki has been living without disability benefits for almost a year. When she applied for employment and support allowance, she had to attend a work capability assessment. After an hour's journey, she found she was not able to access the testing centre. Her experience is not unique.&lt;/li&gt;
+  
+  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
+    
+    &lt;a href=&quot;https://ethanmarcotte.com/wrote/accessibility-is-not-a-feature/&quot;&gt;Accessibility is not a feature. — ethanmarcotte.com&lt;/a&gt;
+    &lt;/span&gt;
+    &lt;br /&gt;I care pretty deeply about accessible design. I wouldn’t call myself an accessibility specialist, mind you, but I’ve always felt that “designing for the web” means ensuring our work is accessible as broadly as possible.&lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Thu, 06 Sep 2018 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/blog/aug-2018-links/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/aug-2018-links/</guid>
         
         
         <category>links</category>
@@ -838,36 +872,6 @@ Camp&lt;/a&gt;)&lt;/li&gt;
         
         
         <category>links</category>
-        
-      </item>
-    
-      <item>
-        <title>Service walkthrough</title>
-        <description>&lt;p class=&quot;lede&quot;&gt;Service walkthroughs are a service design tool. Observe a service by going through the stages of the user journey.&lt;/p&gt;
-
-&lt;h2 id=&quot;how-to-use-service-walkthroughs&quot;&gt;How to use service walkthroughs…&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;facilitator creates and acts out a scenario&lt;/li&gt;
-  &lt;li&gt;participant pretends to be a user&lt;/li&gt;
-  &lt;li&gt;walkthrough each touchpoint&lt;/li&gt;
-  &lt;li&gt;put equal emphasis on digital and human interactions&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;use-service-walkthroughs-to-find-out&quot;&gt;Use service walkthroughs to find out…&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;key touch points of the service&lt;/li&gt;
-  &lt;li&gt;gaps in the end-to-end journey&lt;/li&gt;
-  &lt;li&gt;how users become aware of a service&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Sun, 20 May 2018 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/blog/service-walkthrough/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/service-walkthrough/</guid>
-        
-        
-        <category>service-design</category>
         
       </item>
     
