@@ -112,3 +112,15 @@
   returnJourney:
     - London Paddington
     - Swansea
+
+- destination: Office for National Statistics (ONS), Titchfield
+  category: Meeting
+  month: September
+  outwardJourney:
+    - Swansea
+    - Cardiff Central
+    - Fareham
+  returnJourney:
+    - Fareham
+    - Newport (South Wales)
+    - Swansea
