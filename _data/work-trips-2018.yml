@@ -124,3 +124,21 @@
     - Fareham
     - Newport (South Wales)
     - Swansea
+
+- destination: Government Digital Service, London
+  category: Leadership training
+  month: September
+  outwardJourney:
+    - Swansea
+    - London Paddington
+
+- destination: Exeter
+  category: User research
+  month: September
+  outwardJourney:
+    - London Paddington
+    - Exeter St Davids
+  returnJourney:
+    - Exeter St Davids
+    - Bristol Parkway
+    - Swansea
