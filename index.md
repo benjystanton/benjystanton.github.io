@@ -3,9 +3,7 @@ layout: page
 title: Hi, my name is Benjy and I’m an interaction designer
 ---
 
-<p class="lede">I’m the lead interaction designer on the Office for National Statistics (ONS) website.</p>
-
-I have 3 kids, and in my spare time I enjoy hanging out with them. I also enjoy finding ways to relax with no kids around.
+<p class="lede">I’m a lead interaction designer at Office for National Statistics (ONS).</p>
 
 ## Blog stats
 
