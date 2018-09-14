@@ -5,9 +5,57 @@
     <description>UX Designer. Family Man. Music Snob.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 06 Sep 2018 13:05:01 +0100</pubDate>
-    <lastBuildDate>Thu, 06 Sep 2018 13:05:01 +0100</lastBuildDate>
+    <pubDate>Fri, 14 Sep 2018 16:57:54 +0100</pubDate>
+    <lastBuildDate>Fri, 14 Sep 2018 16:57:54 +0100</lastBuildDate>
     <generator>Jekyll v3.8.1</generator>
+    
+      <item>
+        <title>How to lead user-centred design</title>
+        <description>&lt;p class=&quot;lede&quot;&gt;My brief notes from the Government Digital Service (GDS) essentials of leadership training, run by &lt;a href=&quot;https://twitter.com/rebeccakemp&quot;&gt;Rebecca Kemp&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/Adewunmi&quot;&gt;Ade Adewunmi&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;tell-a-good-story&quot;&gt;Tell a good story&lt;/h2&gt;
+
+&lt;p&gt;Learn how to talk about what you and your team do.&lt;/p&gt;
+
+&lt;p&gt;Learn how to talk to people who aren’t familiar with user-centred design.&lt;/p&gt;
+
+&lt;p&gt;Help your team to talk about it too.&lt;/p&gt;
+
+&lt;p&gt;Make sure you can talk about your profession, and the product you are working on.&lt;/p&gt;
+
+&lt;h2 id=&quot;find-common-ground&quot;&gt;Find common ground&lt;/h2&gt;
+&lt;p&gt;Not everybody cares about user-centred design, so don’t be a purist.&lt;/p&gt;
+
+&lt;p&gt;You only have to convince people enough to let you do your job, you don’t have to convert them.&lt;/p&gt;
+
+&lt;p&gt;Acknowledge other peoples’ expertise.&lt;/p&gt;
+
+&lt;p&gt;Work to find common ground, almost everyone wants to improve the service they’re working on in some way. Learn how to talk about things in a way that they can relate to.&lt;/p&gt;
+
+&lt;p&gt;Be pragmatic. What concrete steps can you take to improve the service? Making everything better for everyone at the same time is impossible.&lt;/p&gt;
+
+&lt;p&gt;Learn how much things cost, and show people what savings can be made.&lt;/p&gt;
+
+&lt;h2 id=&quot;look-after-your-team-and-yourself&quot;&gt;Look after your team (and yourself)&lt;/h2&gt;
+
+&lt;p&gt;Protect your team from things that can disrupt their flow.&lt;/p&gt;
+
+&lt;p&gt;Make decisions for them (when they need you to).&lt;/p&gt;
+
+&lt;p&gt;Leading can be exhausting. It requires a lot of emotional labour. Find things that you can do to recharge. Plan at least one of these things into your schedule every week.&lt;/p&gt;
+
+&lt;p&gt;Don’t let yourself burn out.&lt;/p&gt;
+
+&lt;p&gt;Speak to friends and mentors outside of your organisation.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 14 Sep 2018 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/blog/how-to-lead-user-centred-design/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/how-to-lead-user-centred-design/</guid>
+        
+        
+        <category>ux</category>
+        
+      </item>
     
       <item>
         <title>July 2018 links</title>
@@ -706,172 +754,6 @@ Camp&lt;/a&gt;)&lt;/li&gt;
         
         
         <category>weeknotes</category>
-        
-      </item>
-    
-      <item>
-        <title>May 2018 links</title>
-        <description>&lt;ul class=&quot;list-pairs&quot;&gt;
-  
-  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
-    
-    &lt;a href=&quot;https://digitalblog.coop.co.uk/2018/05/02/introducing-our-user-research-principles/&quot;&gt;Introducing our user research principles&lt;/a&gt;
-    &lt;/span&gt;
-    &lt;br /&gt;Our user research community of practice has been thinking about how we should approach our work. We decided to produce a set of principles that we believe underpin our purpose and our ways of working.&lt;/li&gt;
-  
-  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
-    
-    &lt;a href=&quot;http://www.craigabbott.co.uk/designing-the-impossible-makes-it-possible&quot;&gt;Designing the impossible makes it possible&lt;/a&gt;
-    &lt;/span&gt;
-    &lt;br /&gt;As an interaction designer, I hear a sentence at least once on every project I work on. &quot;We can't do that because [insert mediocre excuse here].&quot; A lot of the time this is because of technology restrictions. We can't integrate with legacy systems.&lt;/li&gt;
-  
-  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
-    
-    &lt;a href=&quot;https://markboulton.co.uk/journal/the-fast-and-slow-of-design&quot;&gt;The Fast and Slow of Design&lt;/a&gt;
-    &lt;/span&gt;
-    &lt;br /&gt;Move fast, break things. Fail forward. Fail fast. Always be shipping. These idioms are all around us in the tech industry. Establishing themselves in small, garage-band startups, they are now deeply entrenched in working cultures of even the most traditional publicly listed companies.&lt;/li&gt;
-  
-  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
-    
-    &lt;a href=&quot;https://ethanmarcotte.com/wrote/whats-in-a-pattern-name/&quot;&gt;What's in a pattern name?&lt;/a&gt;
-    &lt;/span&gt;
-    &lt;br /&gt;Some time ago, I worked with a large client, helping them to catalog their existing design patterns, and to understand how they could establish a broader design system.&lt;/li&gt;
-  
-  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
-    
-    &lt;a href=&quot;https://css-tricks.com/where-lines-break-is-complicated-heres-all-the-related-css-and-html/&quot;&gt;Where Lines Break is Complicated. Here's all the Related CSS and HTML.&lt;/a&gt;
-    &lt;/span&gt;
-    &lt;br /&gt;Say you have a really long word within some text inside an element that isn't wide enough to hold it. A common cause of that is a long URL finding it's way into copy. What happens? It depends on the CSS. How that CSS is controlling the layout and what the CSS is telling the text to do.&lt;/li&gt;
-  
-  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
-    
-    &lt;a href=&quot;https://blog.marvelapp.com/the-veil-of-ignorance/&quot;&gt;The Veil of Ignorance&lt;/a&gt;
-    &lt;/span&gt;
-    &lt;br /&gt;You are in your mid-twenties and your vision is 20/20 or better. You are not color blind and all the devices you own have a retina screen. You are standing in a major city and your internet is fast. Your vision isn't 20/20 anymore, just like 65% of the population, it's worse than that.&lt;/li&gt;
-  
-  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
-    
-    &lt;a href=&quot;https://medium.com/mule-design/design-sprints-are-snake-oil-fd6f8e385a27&quot;&gt;Design Sprints Are Snake Oil&lt;/a&gt;
-    &lt;/span&gt;
-    &lt;br /&gt;Design sprints are snake oil, and I'll tell you why. Their creator, Jake Knapp, (formerly) a designer with Google Ventures, promises fast, tangible results for virtually any problem of any size, in any organization.&lt;/li&gt;
-  
-  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
-    
-    &lt;a href=&quot;https://accessibility.blog.gov.uk/2018/05/15/what-we-learned-from-getting-our-autocomplete-tested-for-accessibility/&quot;&gt;What we learned from getting our autocomplete tested for accessibility&lt;/a&gt;
-    &lt;/span&gt;
-    &lt;br /&gt;We've been working on an autocomplete/location picker for use across government. I blogged last year about what an autocomplete is and why we are building one. While we were building it, we had our autocomplete/location picker tested for accessibility.&lt;/li&gt;
-  
-  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
-    
-    &lt;a href=&quot;https://larahogan.me/meeting-facilitation/&quot;&gt;Facilitating Awesome Meetings&lt;/a&gt;
-    &lt;/span&gt;
-    &lt;br /&gt;Meeting facilitation is a critical leadership skill that's often overlooked. Excellent meeting facilitation means that the attendees know why they're there, they get equal participation time, and your meeting's goal or deliverable is achieved in a timely and productive way.&lt;/li&gt;
-  
-  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
-    
-    &lt;a href=&quot;https://digitalblog.ons.gov.uk/2018/05/14/how-were-using-data-dashboards-for-content-design-at-ons/&quot;&gt;How we're using data dashboards for content design at ONS&lt;/a&gt;
-    &lt;/span&gt;
-    &lt;br /&gt;This is the final post in our short series on using data for content design at ONS. My first blog looked at why we're taking this approach, and the previous post covered the data we're using and how we're presenting it using dashboards.&lt;/li&gt;
-  
-  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
-    
-    &lt;a href=&quot;https://designnotes.blog.gov.uk/2018/05/17/10-principles-for-service-patterns/&quot;&gt;10 principles for service patterns&lt;/a&gt;
-    &lt;/span&gt;
-    &lt;br /&gt;Design patterns are reusable solutions for common problems. In government at the moment there are a number of interaction and content design patterns that are used by service teams across departments.&lt;/li&gt;
-  
-  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
-    
-    &lt;a href=&quot;http://lea.verou.me/2018/05/responsive-tables-revisited/&quot;&gt;Responsive tables, revisited&lt;/a&gt;
-    &lt;/span&gt;
-    &lt;br /&gt;Many people have explored responsive tables. The usual idea is turning the table into key-value pairs so that cells become rows and there are only 2 columns total, which fit in any screen. However, this means table headers need to now be repeated for every row. The current ways to do that are:&lt;/li&gt;
-  
-  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
-    
-    &lt;a href=&quot;http://www.defra.net/home/a-guide-to-agile-communication&quot;&gt;A guide to agile communication&lt;/a&gt;
-    &lt;/span&gt;
-    &lt;br /&gt;The government service standard encourages teams to work in the open as much as possible, echoing item 10 in the government design principles, 'make things open, it makes them better'. This short guide was written to help teams do just that.&lt;/li&gt;
-  
-  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
-    
-    &lt;a href=&quot;https://www.gov.uk/service-manual/technology/how-to-test-frontend-performance&quot;&gt;How to test frontend performance&lt;/a&gt;
-    &lt;/span&gt;
-    &lt;br /&gt;Websites that perform badly can frustrate users and drain their data plans and battery life. You can address this by making sure your service frontend is as fast and lightweight as possible. This will also mean your service works well on a range of devices.&lt;/li&gt;
-  
-  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
-    
-    &lt;a href=&quot;https://medium.com/@Elijah_Meeks/what-charts-do-48ed96f70a74&quot;&gt;What charts do&lt;/a&gt;
-    &lt;/span&gt;
-    &lt;br /&gt;The most important thing about a chart is not its aesthetics, the technology used to create it, the kind of data visualization layout or even the data it represents. The most important thing about a chart is its impact. Impact is what a chart does.&lt;/li&gt;
-  
-  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
-    
-    &lt;a href=&quot;https://medium.com/confrere/automatically-creating-an-accessible-color-palette-from-any-color-sure-e735c3f2f45e&quot;&gt;Automatically creating an accessible color palette from any color? Sure!&lt;/a&gt;
-    &lt;/span&gt;
-    &lt;br /&gt;The natural way to let users configure their Confrere, so it looks more like their own brand, is to let them pick their own brand color. To have buttons, links and so on in the brand color seems like a no-brainer. But it's easier said than done.&lt;/li&gt;
-  
-  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
-    
-    &lt;a href=&quot;https://wearecitizensadvice.org.uk/why-were-removing-the-most-visited-advice-page-on-our-website-d1664076dd56&quot;&gt;Why we removed the most visited advice page on our website&lt;/a&gt;
-    &lt;/span&gt;
-    &lt;br /&gt;Using data to investigate how people use content can challenge our assumptions in surprising ways. We've recently decided to remove Basic rights at work, the most visited advice page on our website.&lt;/li&gt;
-  
-  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
-    
-    &lt;a href=&quot;https://designnotes.blog.gov.uk/2018/05/23/how-i-used-wget-to-make-a-copy-of-the-service-manual-for-user-research/&quot;&gt;How I used Wget to make a copy of the Service Manual for user research&lt;/a&gt;
-    &lt;/span&gt;
-    &lt;br /&gt;Last year I made a complete copy of the Service Manual for some user research. One of my teams was planning some research to test some new content for the Service Manual with users.&lt;/li&gt;
-  
-  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
-    
-    &lt;a href=&quot;https://medium.com/researchops-community/whatisresearchops-a-starting-point-aa7174eb9759&quot;&gt;#WhatisResearchOps? A starting point&lt;/a&gt;
-    &lt;/span&gt;
-    &lt;br /&gt;Next week, the first #WhatisResearchOps global workshops kick off. Are you attending one or would you like to? You can find out more in Kate’s post here.&lt;/li&gt;
-  
-  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
-    
-    &lt;a href=&quot;https://medium.com/design-ibm/card-sorting-a-powerful-simple-research-method-9d1566be9b62&quot;&gt;Card sorting: a powerful, simple research method&lt;/a&gt;
-    &lt;/span&gt;
-    &lt;br /&gt;As someone who studied Information Science, I’ve always been drawn to grouping and categorizing things. Imagine my glee when I first learned there was a UX research method that was all about grouping and categorizing.&lt;/li&gt;
-  
-  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
-    
-    &lt;a href=&quot;https://uxplanet.org/search-interface-20-things-to-consider-4b1466e98881&quot;&gt;Search interface: 20 things to consider&lt;/a&gt;
-    &lt;/span&gt;
-    &lt;br /&gt;What questions to ask users? What to consider while prototyping? And what are the best practices in search interface design?  Depending on the project, search may be one of the most complex features.&lt;/li&gt;
-  
-  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
-    
-    &lt;a href=&quot;https://blog.ldodds.com/2018/05/29/observations-on-the-web/&quot;&gt;Observations on the web&lt;/a&gt;
-    &lt;/span&gt;
-    &lt;br /&gt;About seven years ago I was invited to a workshop. The Office for National Statistics were gathering together people from the statistics and linked data communities to talk about publishing statistics on the web.&lt;/li&gt;
-  
-  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
-    
-    &lt;a href=&quot;https://wearecitizensadvice.org.uk/to-take-the-next-step-on-digital-we-dropped-the-word-digital-14b09ec2f25f&quot;&gt;To take the next step on digital, we dropped the word ‘digital’&lt;/a&gt;
-    &lt;/span&gt;
-    &lt;br /&gt;Last year, Citizens Advice helped over 2.6 million people directly and our digital advice had 41 million hits.&lt;/li&gt;
-  
-  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
-    
-    &lt;a href=&quot;https://medium.com/@leemunroe/enterprise-design-stack-the-tools-we-use-to-design-the-datacenter-operating-system-6865ed73ff04&quot;&gt;Enterprise Design Stack: The Tools We Use To Design The Datacenter Operating System&lt;/a&gt;
-    &lt;/span&gt;
-    &lt;br /&gt;I love reading about how other Design teams are working together and what tools they’re using. It’s reassuring to know teams you admire and respect use the same tools you do.&lt;/li&gt;
-  
-  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
-    
-    &lt;a href=&quot;https://developer.paciellogroup.com/blog/2013/11/short-note-aria-dragon-accessibility/&quot;&gt;Short Note on ARIA, Dragon and Standards&lt;/a&gt;
-    &lt;/span&gt;
-    &lt;br /&gt;There has been ongoing discussion, mainly on twitter, about Dragon naturally speaking, ARIA and Accessibility APIs. A recent tweet informs these notes.  #dragon doesn’t support #aria &amp;amp; according to @ewaccess, it probably never will. It’s definitely an AT solution nonetheless. #a11yCampTO&lt;/li&gt;
-  
-&lt;/ul&gt;
-
-</description>
-        <pubDate>Fri, 25 May 2018 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/blog/may-2018-links/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/may-2018-links/</guid>
-        
-        
-        <category>links</category>
         
       </item>
     
