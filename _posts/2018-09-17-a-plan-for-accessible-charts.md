@@ -1,7 +1,7 @@
 ---
 layout: page
 title: A plan for accessible charts
-categories: design
+categories: accessibility
 excerpt: A list of chart user research findings, accessibility report findings, best practice, resources and good ideas that I’ve collected over the past 2 years.
 ---
 
