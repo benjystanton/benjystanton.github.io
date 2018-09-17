@@ -6,18 +6,18 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>Benjy Stanton – Interaction designer</title>
-  <meta name="description" content="Interaction Designer. Family Man. Music Snob.">
+  <title>A plan for accessible charts – Benjy Stanton</title>
+  <meta name="description" content="A list of chart user research findings, accessibility report findings, best practice, resources and good ideas that I’ve collected over the past 2 years.">
 
   <!-- Twitter summary card stuff, based on http://davidensinger.com/2013/04/supporting-twitter-cards-with-jekyll/ -->
   <meta name="twitter:card" content="summary">
   <meta name="twitter:site" content="benjystanton">
-  <meta name="twitter:title" content="Hi, my name is Benjy and I’m an interaction designer" />
-  <meta name="twitter:description" content="Interaction Designer. Family Man. Music Snob." />
+  <meta name="twitter:title" content="A plan for accessible charts" />
+  <meta name="twitter:description" content="A list of chart user research findings, accessibility report findings, best practice, resources and good ideas that I’ve collected over the past 2 years." />
   
   <link rel="stylesheet" href="/css/main.css">
   <link rel="stylesheet" href="https://use.typekit.net/wcw4icc.css">
-  <link rel="canonical" href="http://localhost:4000/">
+  <link rel="canonical" href="http://localhost:4000/blog/a-plan-for-accessible-charts/">
   <link rel="alternate" type="application/rss+xml" title="Benjy Stanton" href="http://localhost:4000/feed.xml" />
   <!-- Touch icons and favicons -->
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -51,7 +51,7 @@
     </a>
 
     <nav class="site-nav" role="navigation">
-      <a class="current page-link" aria-current="page" href="/">Home</a>
+      <a class="page-link" href="/">Home</a>
       <a class="page-link" href="/about/">About</a>
       <a class="page-link" href="/blog/">Blog</a>
       <a class="page-link" href="/style-guide/">Style&nbsp;guide</a>
@@ -69,59 +69,120 @@
           
 
 <header class="post-header">
-  <h1 class="post-title">Hi, my name is Benjy and I’m an interaction designer</h1>
+  <h1 class="post-title">A plan for accessible charts</h1>
+  <p class="text-small">17 September 2018 • 
+
+<a href="/blog/category/design">design</a>
+
+
+</p>
   
 
 </header>
 
 <article class="post-content" role="article">
-  <p class="lede">I’m a lead interaction designer at Office for National Statistics (ONS).</p>
+  <p class="lede">A list of chart user research findings, accessibility report findings, best practice, resources and good ideas that I’ve collected over the past 2 years.</p>
 
-<h2 id="blog-stats">Blog stats</h2>
+<p>The next step is to create some prototypes and start iterating. But I wanted to write-up and share the work so far, in case it’s useful to others.</p>
 
-<!-- You can't pass variables straight into includes, you have to capture them first https://jekyllrb.com/docs/includes/#passing-parameter-variables-to-includes  -->
+<h2 id="colour">Colour</h2>
 
-<div class="flex-grid margin-top--s">
-  <div class="flex-grid__col flex-grid__col--third">
-  <span class="big-number">
-  
-86
+<ul>
+  <li>Check colour meets contrast standards</li>
+  <li>Don’t use colour alone to convey meaning</li>
+  <li>Charts should be readable in black and white</li>
+  <li>Consider colour blind users (use colour blind simulators to check)</li>
+</ul>
 
-</span>
-<span>
-  <a href="/blog/">blog posts</a>
-</span>
+<h2 id="line-and-bar-style">Line and bar style</h2>
+<ul>
+  <li>Consider using patterns or textures to distinguish bars and lines</li>
+  <li><a href="https://www.w3.org/WAI/GL/low-vision-a11y-tf/wiki/Informational_Graphic_Contrast_(Minimum)">Increase minimum size of elements in chart</a></li>
+  <li>Label the data directly (instead of a separate keys or legend)</li>
+</ul>
 
-  </div>
-  <div class="flex-grid__col flex-grid__col--third">
-  <span class="big-number">
-  
-18
+<h2 id="present-data-in-alternative-ways">Present data in alternative ways</h2>
 
-</span>
-<span>
-  <a href="/blog/category/">categories</a>
-</span>
+<ul>
+  <li>Use titles and descriptions to support the chart</li>
+  <li><a href="https://www.gov.uk/government/publications/government-digital-strategy/government-digital-strategy#people-who-are-already-online">Allow users to view data in an html table</a></li>
+  <li>Allow users to download the data as a spreadsheet</li>
+</ul>
 
-  </div>
-  <div class="flex-grid__col flex-grid__col--third">
-  <span class="big-number">
-  
-6
+<h2 id="interactive-elements">Interactive elements</h2>
 
-</span>
-<span>
-  <a href="/blog/category/weeknotes">weeknotes</a>
-</span>
+<ul>
+  <li>Interactive elements must have affordance (for example, links should be blue with an underline)</li>
+  <li>Make sure interactive elements are usable without a mouse</li>
+  <li>All interactive elements should have a focus style</li>
+  <li>Tool tips can help some users to read charts, especially users with cognitive conditions</li>
+</ul>
 
-  </div>
-</div>
+<h2 id="typography">Typography</h2>
 
-<p class="margin-top--s"><a href="/blog">Read my blog →</a></p>
+<ul>
+  <li>Use a minimum font size</li>
+  <li>Use consistent font and spacing</li>
+</ul>
+
+<h2 id="layout">Layout</h2>
+
+<ul>
+  <li>Design with a mobile-first mindset</li>
+  <li>Use a consistent design</li>
+  <li>Use simple, well known chart types that users are more likely to understand</li>
+  <li>Create a limited number of reusable templates</li>
+  <li>Strive to use a simple design</li>
+</ul>
+
+<h2 id="svgs">SVGs</h2>
+
+<ul>
+  <li>Use SVG because they are scalable</li>
+  <li>Users can zoom in and they won’t become pixellated</li>
+  <li>Structure the SVG carefully, so that it makes use of their accessible powers</li>
+  <li>Use ARIA tags to improve accessibility</li>
+  <li><a href="https://www.sitepoint.com/tips-accessible-svg/">Tips for Creating Accessible SVG</a></li>
+  <li><a href="http://decks.tink.uk/2017/lws/index.html#cover">Making SVG accessible</a></li>
+  <li><a href="https://tink.uk/accessible-svg-line-graphs/">Accessible SVG line graphs</a></li>
+  <li><a href="https://css-tricks.com/how-to-make-charts-with-svg/">How to Make Charts with SVG</a></li>
+</ul>
+
+<h2 id="html-mark-up">HTML mark-up</h2>
+
+<ul>
+  <li>Use <code class="highlighter-rouge">fig</code> element to wrap the chart</li>
+  <li>Use <code class="highlighter-rouge">figcaption</code> for the chart title</li>
+  <li>Use <code class="highlighter-rouge">footer</code> inside the <code class="highlighter-rouge">fig</code> element to contain any notes or citation information</li>
+</ul>
+
+<h2 id="other-resources">Other resources</h2>
+
+<ul>
+  <li><a href="http://accessibility.psu.edu/images/charts/">Charts &amp; Accessibility</a></li>
+  <li><a href="http://colorbrewer2.org/#type=sequential&amp;scheme=BuGn&amp;n=3">Color brewer</a></li>
+  <li><a href="https://www.highcharts.com/a11y.html">Highcharts accessibility demos</a></li>
+  <li><a href="http://webaim.org/resources/contrastchecker/">Color Contrast Checker</a></li>
+  <li><a href="http://colororacle.org/">Color Oracle</a></li>
+  <li><a href="http://littlebigdetails.com/post/35775193711/trello-color-blind-friendly-mode-makes">Trello - Color Blind Friendly Mode</a></li>
+  <li><a href="https://24ways.org/2012/colour-accessibility">Colour Accessibility</a></li>
+  <li><a href="https://medium.com/@sidgtl/designing-for-colour-blindness-b74a9d012ef2">Designing for Colour Blindness</a></li>
+</ul>
+
+<h2 id="examples-of-charts-across-uk-government-services">Examples of charts across UK government services</h2>
+
+<ul>
+  <li><a href="https://www.ethnicity-facts-figures.service.gov.uk/">Ethnicity facts and figures</a></li>
+  <li><a href="https://gds.blog.gov.uk/2012/11/12/updating-performance-dashboard/">Updating the GOV.UK Performance Dashboard</a></li>
+  <li><a href="https://www.gov.uk/performance">GOV.UK Performance Dashboards</a></li>
+  <li><a href="https://github.com/alphagov/magna-charta">Magna Charta repo</a></li>
+  <li><a href="http://alphagov.github.io/magna-charta/">Magna Charta demo</a></li>
+  <li><a href="https://www.gov.uk/government/news/uk-export-finance-annual-report-and-accounts-published">UK Export Finance: annual report and accounts published</a></li>
+</ul>
 
 </article>
 
-
+<p class="margin-top--m"><a href="/blog">← Back to the blog</a></p>
 
         </div>
       </div>

@@ -5,9 +5,119 @@
     <description>Interaction Designer. Family Man. Music Snob.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 14 Sep 2018 17:59:37 +0100</pubDate>
-    <lastBuildDate>Fri, 14 Sep 2018 17:59:37 +0100</lastBuildDate>
+    <pubDate>Mon, 17 Sep 2018 21:06:39 +0100</pubDate>
+    <lastBuildDate>Mon, 17 Sep 2018 21:06:39 +0100</lastBuildDate>
     <generator>Jekyll v3.8.1</generator>
+    
+      <item>
+        <title>A plan for accessible charts</title>
+        <description>&lt;p class=&quot;lede&quot;&gt;A list of chart user research findings, accessibility report findings, best practice, resources and good ideas that I’ve collected over the past 2 years.&lt;/p&gt;
+
+&lt;p&gt;The next step is to create some prototypes and start iterating. But I wanted to write-up and share the work so far, in case it’s useful to others.&lt;/p&gt;
+
+&lt;h2 id=&quot;colour&quot;&gt;Colour&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Check colour meets contrast standards&lt;/li&gt;
+  &lt;li&gt;Don’t use colour alone to convey meaning&lt;/li&gt;
+  &lt;li&gt;Charts should be readable in black and white&lt;/li&gt;
+  &lt;li&gt;Consider colour blind users (use colour blind simulators to check)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;line-and-bar-style&quot;&gt;Line and bar style&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Consider using patterns or textures to distinguish bars and lines&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.w3.org/WAI/GL/low-vision-a11y-tf/wiki/Informational_Graphic_Contrast_(Minimum)&quot;&gt;Increase minimum size of elements in chart&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Label the data directly (instead of a separate keys or legend)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;present-data-in-alternative-ways&quot;&gt;Present data in alternative ways&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Use titles and descriptions to support the chart&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.gov.uk/government/publications/government-digital-strategy/government-digital-strategy#people-who-are-already-online&quot;&gt;Allow users to view data in an html table&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Allow users to download the data as a spreadsheet&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;interactive-elements&quot;&gt;Interactive elements&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Interactive elements must have affordance (for example, links should be blue with an underline)&lt;/li&gt;
+  &lt;li&gt;Make sure interactive elements are usable without a mouse&lt;/li&gt;
+  &lt;li&gt;All interactive elements should have a focus style&lt;/li&gt;
+  &lt;li&gt;Tool tips can help some users to read charts, especially users with cognitive conditions&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;typography&quot;&gt;Typography&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Use a minimum font size&lt;/li&gt;
+  &lt;li&gt;Use consistent font and spacing&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;layout&quot;&gt;Layout&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Design with a mobile-first mindset&lt;/li&gt;
+  &lt;li&gt;Use a consistent design&lt;/li&gt;
+  &lt;li&gt;Use simple, well known chart types that users are more likely to understand&lt;/li&gt;
+  &lt;li&gt;Create a limited number of reusable templates&lt;/li&gt;
+  &lt;li&gt;Strive to use a simple design&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;svgs&quot;&gt;SVGs&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Use SVG because they are scalable&lt;/li&gt;
+  &lt;li&gt;Users can zoom in and they won’t become pixellated&lt;/li&gt;
+  &lt;li&gt;Structure the SVG carefully, so that it makes use of their accessible powers&lt;/li&gt;
+  &lt;li&gt;Use ARIA tags to improve accessibility&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.sitepoint.com/tips-accessible-svg/&quot;&gt;Tips for Creating Accessible SVG&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://decks.tink.uk/2017/lws/index.html#cover&quot;&gt;Making SVG accessible&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tink.uk/accessible-svg-line-graphs/&quot;&gt;Accessible SVG line graphs&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://css-tricks.com/how-to-make-charts-with-svg/&quot;&gt;How to Make Charts with SVG&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;html-mark-up&quot;&gt;HTML mark-up&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Use &lt;code class=&quot;highlighter-rouge&quot;&gt;fig&lt;/code&gt; element to wrap the chart&lt;/li&gt;
+  &lt;li&gt;Use &lt;code class=&quot;highlighter-rouge&quot;&gt;figcaption&lt;/code&gt; for the chart title&lt;/li&gt;
+  &lt;li&gt;Use &lt;code class=&quot;highlighter-rouge&quot;&gt;footer&lt;/code&gt; inside the &lt;code class=&quot;highlighter-rouge&quot;&gt;fig&lt;/code&gt; element to contain any notes or citation information&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;other-resources&quot;&gt;Other resources&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://accessibility.psu.edu/images/charts/&quot;&gt;Charts &amp;amp; Accessibility&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://colorbrewer2.org/#type=sequential&amp;amp;scheme=BuGn&amp;amp;n=3&quot;&gt;Color brewer&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.highcharts.com/a11y.html&quot;&gt;Highcharts accessibility demos&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://webaim.org/resources/contrastchecker/&quot;&gt;Color Contrast Checker&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://colororacle.org/&quot;&gt;Color Oracle&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://littlebigdetails.com/post/35775193711/trello-color-blind-friendly-mode-makes&quot;&gt;Trello - Color Blind Friendly Mode&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://24ways.org/2012/colour-accessibility&quot;&gt;Colour Accessibility&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@sidgtl/designing-for-colour-blindness-b74a9d012ef2&quot;&gt;Designing for Colour Blindness&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;examples-of-charts-across-uk-government-services&quot;&gt;Examples of charts across UK government services&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ethnicity-facts-figures.service.gov.uk/&quot;&gt;Ethnicity facts and figures&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gds.blog.gov.uk/2012/11/12/updating-performance-dashboard/&quot;&gt;Updating the GOV.UK Performance Dashboard&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.gov.uk/performance&quot;&gt;GOV.UK Performance Dashboards&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/alphagov/magna-charta&quot;&gt;Magna Charta repo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://alphagov.github.io/magna-charta/&quot;&gt;Magna Charta demo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.gov.uk/government/news/uk-export-finance-annual-report-and-accounts-published&quot;&gt;UK Export Finance: annual report and accounts published&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 17 Sep 2018 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/blog/a-plan-for-accessible-charts/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/a-plan-for-accessible-charts/</guid>
+        
+        
+        <category>design</category>
+        
+      </item>
     
       <item>
         <title>How to lead user-centred design</title>
@@ -689,71 +799,6 @@ Camp&lt;/a&gt;)&lt;/li&gt;
         
         
         <category>service-design</category>
-        
-      </item>
-    
-      <item>
-        <title>Weeknotes – series 01 episode 04</title>
-        <description>&lt;p class=&quot;lede&quot;&gt;This week, we got a new graphic designer and a new user experience designer. Ryan Dunn popped in too.&lt;/p&gt;
-
-&lt;h2 id=&quot;monday&quot;&gt;Monday&lt;/h2&gt;
-
-&lt;h3 id=&quot;lead-graphic-designer-starts&quot;&gt;Lead graphic designer starts&lt;/h3&gt;
-
-&lt;p&gt;Monday was &lt;a href=&quot;https://twitter.com/NationJoseph&quot;&gt;Joe&lt;/a&gt;’s first day. Joe’s the lead graphic designer in the digital content team. It’s great to finally complete the graphic design team, hiring them has been my main focus for the past few months.&lt;/p&gt;
-
-&lt;h2 id=&quot;tuesday&quot;&gt;Tuesday&lt;/h2&gt;
-
-&lt;p&gt;Tuesday was my usual non-work day, to look after the kids.&lt;/p&gt;
-
-&lt;h2 id=&quot;wednesday&quot;&gt;Wednesday&lt;/h2&gt;
-
-&lt;h3 id=&quot;contract-user-experience-ux-designer-starts&quot;&gt;Contract user experience (UX) designer starts&lt;/h3&gt;
-
-&lt;p&gt;Another new starter this week. We’ve hired a temporary UX designer to help while we hire a permanent replacement. Did I mention we’re &lt;a href=&quot;https://www.civilservicejobs.service.gov.uk/csr/jobs.cgi?jcode=1581727&quot;&gt;hiring a UX designer&lt;/a&gt;?&lt;/p&gt;
-
-&lt;h3 id=&quot;end-of-sprint-24&quot;&gt;End of sprint 24&lt;/h3&gt;
-
-&lt;p&gt;Wednesday was a good day for the new starters as we had our fortnightly show and tell, covering &lt;a href=&quot;https://onsdigital.github.io/dp-prototypes/#sprint-24&quot;&gt;things we’d done to improve the ONS website&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h3 id=&quot;publish-a-dataset-prototype&quot;&gt;Publish a dataset prototype&lt;/h3&gt;
-
-&lt;p&gt;My main focus has been working on the ‘&lt;a href=&quot;http://www.benjystanton.co.uk/dp-prototype-kit/sprint/24/publish-a-dataset/&quot;&gt;publish a dataset&lt;/a&gt;’ prototype. The next step is to test the second iteration with the publishing team, to see if we’ve solved some of the problems we found last time.&lt;/p&gt;
-
-&lt;h2 id=&quot;thursday&quot;&gt;Thursday&lt;/h2&gt;
-
-&lt;h3 id=&quot;ryan-dunn-pops-in&quot;&gt;Ryan Dunn pops in&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/data-design-community-idea.jpg&quot; alt=&quot;Post its with that say things like GDS, data design principles and user needs&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/drryandunn&quot;&gt;Ryan from DWP&lt;/a&gt; visited on Thursday. At lunch time, he demo’d some of the things he’s been working on, like &lt;a href=&quot;https://dwpdigital.blog.gov.uk/2017/02/24/data-for-people-who-dont-like-data/&quot;&gt;Churchill&lt;/a&gt;. And afterwards we had a chat about starting a cross-gov data design community. &lt;a href=&quot;https://twitter.com/benjystanton&quot;&gt;Let me know if you’re up for joining that&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h3 id=&quot;bulletin-design-workshop&quot;&gt;Bulletin design workshop&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/bulletin-workshop-plan.jpg&quot; alt=&quot;Our plan for the bulletin workshop&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;We also had an all-day workshop to continue the &lt;a href=&quot;https://digitalblog.ons.gov.uk/2018/05/17/making-better-bulletins-lets-start-with-what-we-know/&quot;&gt;bulletin&lt;/a&gt; work we’d started in the design sprint a few weeks ago. We wanted to get together and &lt;a href=&quot;http://www.benjystanton.co.uk/dp-prototype-kit/sprint/25/crime-overview/&quot;&gt;iterate on the prototype&lt;/a&gt;, following the first round of user research.&lt;/p&gt;
-
-&lt;p&gt;It was great to get product manager, UX design, content design, graphic design and editorial back together, working on the prototype at the same time. We also managed to book the &lt;a href=&quot;https://twitter.com/darrenwaters/status/999683035489554432&quot;&gt;best room in the house&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;friday&quot;&gt;Friday&lt;/h2&gt;
-
-&lt;h3 id=&quot;catch-up-with-joe&quot;&gt;Catch-up with Joe&lt;/h3&gt;
-
-&lt;p&gt;On Friday morning I had a quick catch-up with Joe after his first week. I’m excited to work with him and &lt;a href=&quot;https://twitter.com/mrandybudd&quot;&gt;Andy&lt;/a&gt; to start taking control of the design workflow and plan out the things we want to achieve now we have a full team.&lt;/p&gt;
-
-&lt;h3 id=&quot;ux-designer-promotions&quot;&gt;UX designer promotions&lt;/h3&gt;
-
-&lt;p&gt;We also had a meeting to discuss promotion opportunities for the UX designers. The plan is to get UX design signed up to the ‘variable grade’ thing so that we can promote people when they reach the next level in experience and skill.&lt;/p&gt;
-
-&lt;p&gt;This will help us to reward good people, and hang on to them for longer.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 26 May 2018 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/blog/weeknotes-series-01-episode-04/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/weeknotes-series-01-episode-04/</guid>
-        
-        
-        <category>weeknotes</category>
         
       </item>
     
