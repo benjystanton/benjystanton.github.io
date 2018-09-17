@@ -2,12 +2,12 @@
 layout: page
 title: A plan for accessible charts
 categories: accessibility
-excerpt: A list of chart user research findings, accessibility report findings, best practice, resources and good ideas that I’ve collected over the past 2 years.
+excerpt: A list of user research findings, accessibility report findings, best practice, resources and good ideas that I’ve collected over the past 2 years.
 ---
 
-<p class="lede">A list of chart user research findings, accessibility report findings, best practice, resources and good ideas that I’ve collected over the past 2 years.</p>
+<p class="lede">A list of user research findings, accessibility report findings, best practice, resources and good ideas that I’ve collected over the past 2 years.</p>
 
-The next step is to create some prototypes and start iterating. But I wanted to write-up and share the work so far, in case it’s useful to others.
+The next step is to create some prototype charts and start iterating. But I wanted to write-up and share the work so far, in case it’s useful to others.
 
 ## Colour
 
