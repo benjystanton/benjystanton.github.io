@@ -60,9 +60,9 @@ The next step is to create some prototype charts and start iterating. But I want
 
 ## HTML mark-up
 
-- Use `fig` element to wrap the chart
+- Use `figure` element to wrap the chart
 - Use `figcaption` for the chart title
-- Use `footer` inside the `fig` element to contain any notes or citation information
+- Use `footer` inside the `figure` element to contain any notes or citation information
 
 
 ## Other resources
