@@ -13,8 +13,9 @@ The next step is to create some prototype charts and start iterating. But I want
 
 - Check colour meets contrast standards
 - Don’t use colour alone to convey meaning
-- Charts should be readable in black and white
 - Consider colour blind users (use colour blind simulators to check)
+- Charts should be readable in black and white
+- Check design works in high contrast mode
 
 ## Line and bar style
 - Consider using patterns or textures to distinguish bars and lines
@@ -33,11 +34,21 @@ The next step is to create some prototype charts and start iterating. But I want
 - Make sure interactive elements are usable without a mouse
 - All interactive elements should have a focus style
 - Tool tips can help some users to read charts, especially users with cognitive conditions
+- Download links labels must include file format and size
+- Headings, links and button text must be unique and descriptive
+- If an experience cannot be made accessible, create another route for users to get that information
 
 ## Typography
 
 - Use a minimum font size
 - Use consistent font and spacing
+- Lines are less than 80 characters wide
+- Avoid italics and block capitals
+- Use a san-serif font with thick letters
+- Make sure text can be resized
+- Test the content doesn't overflow or become truncated when font size is increased
+- Nest headings in order (for example, H2s only appear after H1s)
+- Don't skip heading levels
 
 ## Layout
 
@@ -46,6 +57,7 @@ The next step is to create some prototype charts and start iterating. But I want
 - Use simple, well known chart types that users are more likely to understand
 - Create a limited number of reusable templates
 - Strive to use a simple design
+- Reading and navigation order is logical
 
 ## SVGs
 
