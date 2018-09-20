@@ -5,8 +5,8 @@
     <description>Interaction Designer. Family Man. Music Snob.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 18 Sep 2018 07:26:32 +0100</pubDate>
-    <lastBuildDate>Tue, 18 Sep 2018 07:26:32 +0100</lastBuildDate>
+    <pubDate>Thu, 20 Sep 2018 09:51:51 +0100</pubDate>
+    <lastBuildDate>Thu, 20 Sep 2018 09:51:51 +0100</lastBuildDate>
     <generator>Jekyll v3.8.1</generator>
     
       <item>
@@ -20,11 +20,13 @@
 &lt;ul&gt;
   &lt;li&gt;Check colour meets contrast standards&lt;/li&gt;
   &lt;li&gt;Don’t use colour alone to convey meaning&lt;/li&gt;
-  &lt;li&gt;Charts should be readable in black and white&lt;/li&gt;
   &lt;li&gt;Consider colour blind users (use colour blind simulators to check)&lt;/li&gt;
+  &lt;li&gt;Charts should be readable in black and white&lt;/li&gt;
+  &lt;li&gt;Check design works in high contrast mode&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;line-and-bar-style&quot;&gt;Line and bar style&lt;/h2&gt;
+
 &lt;ul&gt;
   &lt;li&gt;Consider using patterns or textures to distinguish bars and lines&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.w3.org/WAI/GL/low-vision-a11y-tf/wiki/Informational_Graphic_Contrast_(Minimum)&quot;&gt;Increase minimum size of elements in chart&lt;/a&gt;&lt;/li&gt;
@@ -46,6 +48,9 @@
   &lt;li&gt;Make sure interactive elements are usable without a mouse&lt;/li&gt;
   &lt;li&gt;All interactive elements should have a focus style&lt;/li&gt;
   &lt;li&gt;Tool tips can help some users to read charts, especially users with cognitive conditions&lt;/li&gt;
+  &lt;li&gt;Download links labels must include file format and size&lt;/li&gt;
+  &lt;li&gt;Headings, links and button text must be unique and descriptive&lt;/li&gt;
+  &lt;li&gt;If an experience cannot be made accessible, create another route for users to get that information&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;typography&quot;&gt;Typography&lt;/h2&gt;
@@ -53,6 +58,13 @@
 &lt;ul&gt;
   &lt;li&gt;Use a minimum font size&lt;/li&gt;
   &lt;li&gt;Use consistent font and spacing&lt;/li&gt;
+  &lt;li&gt;Lines are less than 80 characters wide&lt;/li&gt;
+  &lt;li&gt;Avoid italics and block capitals&lt;/li&gt;
+  &lt;li&gt;Use a san-serif font with thick letters&lt;/li&gt;
+  &lt;li&gt;Make sure text can be resized&lt;/li&gt;
+  &lt;li&gt;Test the content doesn’t overflow or become truncated when font size is increased&lt;/li&gt;
+  &lt;li&gt;Nest headings in order (for example, H2s only appear after H1s)&lt;/li&gt;
+  &lt;li&gt;Don’t skip heading levels&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;layout&quot;&gt;Layout&lt;/h2&gt;
@@ -63,6 +75,7 @@
   &lt;li&gt;Use simple, well known chart types that users are more likely to understand&lt;/li&gt;
   &lt;li&gt;Create a limited number of reusable templates&lt;/li&gt;
   &lt;li&gt;Strive to use a simple design&lt;/li&gt;
+  &lt;li&gt;Reading and navigation order is logical&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;svgs&quot;&gt;SVGs&lt;/h2&gt;
@@ -90,6 +103,7 @@
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;http://accessibility.psu.edu/images/charts/&quot;&gt;Charts &amp;amp; Accessibility&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ontario.ca/document/ontario-design-guide/charts&quot;&gt;Charts, graphs and infographics&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://colorbrewer2.org/#type=sequential&amp;amp;scheme=BuGn&amp;amp;n=3&quot;&gt;Color brewer&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.highcharts.com/a11y.html&quot;&gt;Highcharts accessibility demos&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://webaim.org/resources/contrastchecker/&quot;&gt;Color Contrast Checker&lt;/a&gt;&lt;/li&gt;

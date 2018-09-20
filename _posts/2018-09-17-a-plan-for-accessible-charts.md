@@ -18,6 +18,7 @@ The next step is to create some prototype charts and start iterating. But I want
 - Check design works in high contrast mode
 
 ## Line and bar style
+
 - Consider using patterns or textures to distinguish bars and lines
 - [Increase minimum size of elements in chart](https://www.w3.org/WAI/GL/low-vision-a11y-tf/wiki/Informational_Graphic_Contrast_(Minimum))
 - Label the data directly (instead of a separate keys or legend)
@@ -80,6 +81,7 @@ The next step is to create some prototype charts and start iterating. But I want
 ## Other resources
 
 - [Charts & Accessibility](http://accessibility.psu.edu/images/charts/)
+- [Charts, graphs and infographics](https://www.ontario.ca/document/ontario-design-guide/charts)
 - [Color brewer](http://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3)
 - [Highcharts accessibility demos](https://www.highcharts.com/a11y.html)
 - [Color Contrast Checker](http://webaim.org/resources/contrastchecker/)
