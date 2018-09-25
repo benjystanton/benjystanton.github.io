@@ -86,6 +86,7 @@ The next step is to create some prototype charts and start iterating. But I want
 - [Highcharts accessibility demos](https://www.highcharts.com/a11y.html)
 - [Color Contrast Checker](http://webaim.org/resources/contrastchecker/)
 - [Color Oracle](http://colororacle.org/)
+- [Sim Daltonism colour blindness simulator](https://michelf.ca/projects/sim-daltonism/)
 - [Trello - Color Blind Friendly Mode](http://littlebigdetails.com/post/35775193711/trello-color-blind-friendly-mode-makes)
 - [Colour Accessibility](https://24ways.org/2012/colour-accessibility)
 - [Designing for Colour Blindness](https://medium.com/@sidgtl/designing-for-colour-blindness-b74a9d012ef2)

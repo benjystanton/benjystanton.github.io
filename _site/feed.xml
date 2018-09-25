@@ -5,8 +5,8 @@
     <description>Interaction Designer. Family Man. Music Snob.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 20 Sep 2018 09:51:51 +0100</pubDate>
-    <lastBuildDate>Thu, 20 Sep 2018 09:51:51 +0100</lastBuildDate>
+    <pubDate>Tue, 25 Sep 2018 19:36:04 +0100</pubDate>
+    <lastBuildDate>Tue, 25 Sep 2018 19:36:04 +0100</lastBuildDate>
     <generator>Jekyll v3.8.1</generator>
     
       <item>
@@ -108,6 +108,7 @@
   &lt;li&gt;&lt;a href=&quot;https://www.highcharts.com/a11y.html&quot;&gt;Highcharts accessibility demos&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://webaim.org/resources/contrastchecker/&quot;&gt;Color Contrast Checker&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://colororacle.org/&quot;&gt;Color Oracle&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://michelf.ca/projects/sim-daltonism/&quot;&gt;Sim Daltonism colour blindness simulator&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://littlebigdetails.com/post/35775193711/trello-color-blind-friendly-mode-makes&quot;&gt;Trello - Color Blind Friendly Mode&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://24ways.org/2012/colour-accessibility&quot;&gt;Colour Accessibility&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://medium.com/@sidgtl/designing-for-colour-blindness-b74a9d012ef2&quot;&gt;Designing for Colour Blindness&lt;/a&gt;&lt;/li&gt;
