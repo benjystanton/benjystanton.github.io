@@ -5,9 +5,81 @@
     <description>Interaction Designer. Family Man. Music Snob.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 25 Sep 2018 19:36:04 +0100</pubDate>
-    <lastBuildDate>Tue, 25 Sep 2018 19:36:04 +0100</lastBuildDate>
+    <pubDate>Wed, 26 Sep 2018 20:59:16 +0100</pubDate>
+    <lastBuildDate>Wed, 26 Sep 2018 20:59:16 +0100</lastBuildDate>
     <generator>Jekyll v3.8.1</generator>
+    
+      <item>
+        <title>How to focus in open plan offices</title>
+        <description>&lt;p class=&quot;lede&quot;&gt;Earlier this week, I asked the Twitter hive mind for tips how to get focussed work done when working in open plan offices.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Designers who work in open plan offices — how do you make space and time for focussed work?&lt;/p&gt;&amp;mdash; Benjy Stanton (@benjystanton) &lt;a href=&quot;https://twitter.com/benjystanton/status/1044599479721218048?ref_src=twsrc%5Etfw&quot;&gt;September 25, 2018&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;I got some great responses (thanks everyone!) so I’ve captured them here for prosperity…&lt;/p&gt;
+
+&lt;h2 id=&quot;put-on-some-headphones&quot;&gt;Put on some headphones&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Get some headphones&lt;/li&gt;
+  &lt;li&gt;The bigger the better&lt;/li&gt;
+  &lt;li&gt;Noise cancelling ones are good&lt;/li&gt;
+  &lt;li&gt;Listen to white noise&lt;/li&gt;
+  &lt;li&gt;Or don’t listen to anything – just wear them to discourage people from interrupting you&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;work-from-home&quot;&gt;Work from home&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;That’s it really, just work from home more&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;manage-your-calendar&quot;&gt;Manage your calendar&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Block out slots in your calendar&lt;/li&gt;
+  &lt;li&gt;Decline non-essential meetings&lt;/li&gt;
+  &lt;li&gt;Plan to do focussed work when you’re at your most productive – for me that’s early in the morning&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;stop-using-distracting-apps&quot;&gt;Stop using distracting apps&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Put do not disturb on Slack&lt;/li&gt;
+  &lt;li&gt;Turn your emails off&lt;/li&gt;
+  &lt;li&gt;Use &lt;a href=&quot;http://heyfocus.com/&quot;&gt;Focus app&lt;/a&gt; to help&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;get-away-from-your-desk&quot;&gt;Get away from your desk&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Book yourself a meeting room&lt;/li&gt;
+  &lt;li&gt;Use Skype pods and breakout spaces&lt;/li&gt;
+  &lt;li&gt;Hide in usability labs&lt;/li&gt;
+  &lt;li&gt;Find anywhere that’s quiet or tucked away&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;be-anti-social&quot;&gt;Be anti-social&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Scowl at people&lt;/li&gt;
+  &lt;li&gt;Put a hoodie on&lt;/li&gt;
+  &lt;li&gt;Put up ‘do not disturb’ signs&lt;/li&gt;
+  &lt;li&gt;Make sure people know you’re busy&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;look-after-yourself&quot;&gt;Look after yourself&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Working in distracting environments can be stressful&lt;/li&gt;
+  &lt;li&gt;Don’t ignore the problem&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 26 Sep 2018 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/blog/how-to-focus-in-open-plan-offices/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/how-to-focus-in-open-plan-offices/</guid>
+        
+        
+        <category>design</category>
+        
+      </item>
     
       <item>
         <title>A plan for accessible charts</title>
@@ -755,65 +827,6 @@
         
         
         <category>design</category>
-        
-      </item>
-    
-      <item>
-        <title>How to start a service design community</title>
-        <description>&lt;p class=&quot;lede&quot;&gt;Here are my notes from today’s cross-gov service design call. Thanks to &lt;a href=&quot;https://twitter.com/martin_jordan&quot;&gt;Martin&lt;/a&gt; for inviting me along and letting me ask lots of questions.&lt;/p&gt;
-
-&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Today, we ran the first cross-gov service design peer support call – with folks from DWP, HMCTS, Home Office, NHS, and ONS. Great questions and discussions! &lt;br /&gt;&lt;br /&gt;We’ll do another one in a month from now. &lt;a href=&quot;https://t.co/EaaLPEfDX2&quot;&gt;pic.twitter.com/EaaLPEfDX2&lt;/a&gt;&lt;/p&gt;&amp;mdash; Martin Jordan 🌈 (@Martin_Jordan) &lt;a href=&quot;https://twitter.com/Martin_Jordan/status/1001824939496869888?ref_src=twsrc%5Etfw&quot;&gt;May 30, 2018&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
-
-&lt;h2 id=&quot;how-to-start-a-service-design-community&quot;&gt;How to start a service design community&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/mariecheungsays&quot;&gt;Marie&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/tsmz&quot;&gt;Tom&lt;/a&gt; at DWP gave some tips on how to grow your own service design community. Warning: this will create demand for service design.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Extend the invite beyond user-centred design roles&lt;/li&gt;
-  &lt;li&gt;Include policy makers, business architects and business analysts&lt;/li&gt;
-  &lt;li&gt;Find allies to help&lt;/li&gt;
-  &lt;li&gt;Try an “intro to service design” workshop&lt;/li&gt;
-  &lt;li&gt;Start lunch time meet-ups&lt;/li&gt;
-  &lt;li&gt;Start user-centred design show and tells (designers, researchers, performance analysts)&lt;/li&gt;
-  &lt;li&gt;Allow people to join remotely, use quick and easy tools like Google Meet&lt;/li&gt;
-  &lt;li&gt;Spread the word using offline channels too (for example; posters in the kitchen)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Marie has written about &lt;a href=&quot;https://dwpdigital.blog.gov.uk/2018/05/01/building-up-our-service-design-community/&quot;&gt;building up the service design community&lt;/a&gt; in DWP.&lt;/p&gt;
-
-&lt;h2 id=&quot;why-to-start-doing-service-design&quot;&gt;Why to start doing service design&lt;/h2&gt;
-
-&lt;p&gt;Sanjay talked about how the &lt;a href=&quot;https://www.gov.uk/service-manual/service-standard&quot;&gt;digital service standard&lt;/a&gt; is changing to become the &lt;a href=&quot;https://gds.blog.gov.uk/2018/03/07/what-we-need-to-do-to-support-end-to-end-services-across-government/&quot;&gt;service standard&lt;/a&gt;.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;service designers help organisations &lt;a href=&quot;https://gds.blog.gov.uk/2016/04/18/what-we-mean-by-service-design/&quot;&gt;design services&lt;/a&gt; that work end-to-end, front to back and across every channel&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&quot;how-to-do-service-design&quot;&gt;How to do service design&lt;/h2&gt;
-
-&lt;p&gt;The hard bit. You need service designers. But it’s not just work for one person. Everyone helps to design services. Try to structure the whole organisation around users. A key theme that keeps coming up when I talk to people about design recently is:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;zoom in and zoom out – you need to consider the details and the big picture.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&quot;next-steps&quot;&gt;Next steps&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Go to a service design conference (like &lt;a href=&quot;http://serviceexperiencecamp.de/&quot;&gt;Service
-Experience
-Camp&lt;/a&gt;)&lt;/li&gt;
-  &lt;li&gt;Create a business case to hire service designers (in the open)&lt;/li&gt;
-  &lt;li&gt;Go to the next cross-gov service design meet-up (maybe host it in South Wales)&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Wed, 30 May 2018 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/blog/how-to-start-a-service-design-community/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/how-to-start-a-service-design-community/</guid>
-        
-        
-        <category>service-design</category>
         
       </item>
     

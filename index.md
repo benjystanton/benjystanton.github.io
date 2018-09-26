@@ -17,9 +17,9 @@ title: Hi, my name is Benjy and I’m an interaction designer
 {{ site.categories | size }}
 {% endcapture %}
 
-{% capture weeknotes-count %}
+<!-- {% capture weeknotes-count %}
 {{ site.categories.weeknotes | size }}
-{% endcapture %}
+{% endcapture %} -->
 
 <div class="flex-grid margin-top--s">
   <div class="flex-grid__col flex-grid__col--third">
@@ -36,13 +36,13 @@ title: Hi, my name is Benjy and I’m an interaction designer
     url="/blog/category/"
   %}
   </div>
-  <div class="flex-grid__col flex-grid__col--third">
+  <!-- <div class="flex-grid__col flex-grid__col--third">
   {% include big-number.html
     big-number=weeknotes-count
     text="weeknotes"
     url="/blog/category/weeknotes"
   %}
-  </div>
+  </div> -->
 </div>
 
 <p class="margin-top--s"><a href="/blog">Read my blog →</a></p>
