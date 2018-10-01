@@ -37,6 +37,9 @@ body {
 
 h1, h2, h3, h4, h5, h6, p, blockquote, pre, ul, ol, dl, figure, figcaption, svg, %vertical-rhythm {
   margin-bottom: $spacing-unit/2;
+  @include media-query($medium) {
+    margin-bottom: $spacing-unit;
+  }
 }
 
 // Heading spacing
@@ -151,6 +154,9 @@ li {
 
 .list-pairs li {
   margin-bottom: $spacing-unit/2;
+  @include media-query($medium) {
+    margin-bottom: $spacing-unit;
+  }
 }
 
 .list-pairs__name {

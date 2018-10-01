@@ -38,6 +38,9 @@ body {
 
 h1, h2, h3, h4, h5, h6, p, blockquote, pre, ul, ol, dl, figure, figcaption, svg, .highlight {
   margin-bottom: 18px; }
+  @media screen and (min-width: 660px) {
+    h1, h2, h3, h4, h5, h6, p, blockquote, pre, ul, ol, dl, figure, figcaption, svg, .highlight {
+      margin-bottom: 36px; } }
 
 h1, h2, h3, h4, h5, h6 {
   line-height: 1.2;
@@ -134,6 +137,9 @@ li > ol {
 
 .list-pairs li {
   margin-bottom: 18px; }
+  @media screen and (min-width: 660px) {
+    .list-pairs li {
+      margin-bottom: 36px; } }
 
 .list-pairs__name {
   font-weight: bold; }

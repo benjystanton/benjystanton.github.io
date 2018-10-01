@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-<p class="lede">My name is Benjy Stanton and I'm one of the lead interaction designers at the Office for National Statistics (ONS). I'm part of the <a href="https://blog.ons.digital/">digital publishing team</a>.</p>
+<p class="lede">My name is Benjy Stanton and I'm one of the lead interaction designers at the Office for National Statistics (ONS).</p>
 
-Previously, I was at [Leadin](http://leadin.co.uk/), a service design agency in Swansea.
+I'm part of [digital publishing](https://digitalblog.ons.gov.uk/). We focus on improving the website, and helping people to use the data that ONS publishes. I manage a team of interaction designers and graphic designers.
 
-I care about user needs, content, accessibility and good typography.
+Previously, I was at [Leadin](http://leadin.co.uk/), a service design agency in Swansea. I care about user needs, content, accessibility and good typography.
 
 ## Experience
 
