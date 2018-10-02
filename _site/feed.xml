@@ -5,9 +5,79 @@
     <description>Interaction Designer. Family Man. Music Snob.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 01 Oct 2018 21:21:31 +0100</pubDate>
-    <lastBuildDate>Mon, 01 Oct 2018 21:21:31 +0100</lastBuildDate>
+    <pubDate>Tue, 02 Oct 2018 17:27:16 +0100</pubDate>
+    <lastBuildDate>Tue, 02 Oct 2018 17:27:16 +0100</lastBuildDate>
     <generator>Jekyll v3.8.1</generator>
+    
+      <item>
+        <title>September 2018 links</title>
+        <description>&lt;ul class=&quot;list-pairs&quot;&gt;
+  
+  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
+    
+    &lt;a href=&quot;https://ethanmarcotte.com/wrote/accessibility-is-not-a-feature/&quot;&gt;Accessibility is not a feature. — ethanmarcotte.com&lt;/a&gt;
+    &lt;/span&gt;
+    &lt;br /&gt;I care pretty deeply about accessible design. I wouldn’t call myself an accessibility specialist, mind you, but I’ve always felt that “designing for the web” means ensuring our work is accessible as broadly as possible.&lt;/li&gt;
+  
+  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
+    
+    &lt;a href=&quot;https://blog-louisedowne-com.cdn.ampproject.org/c/s/blog.louisedowne.com/2018/04/03/why-its-never-a-good-time-for-service-design/amp/&quot;&gt;Why it’s never a good time for service design&lt;/a&gt;
+    &lt;/span&gt;
+    &lt;br /&gt;Picture the scene: you’ve just joined a new team, they’re doing good work but they’re plugging away at the wrong problem.  You bide your time, thinking of ways to bring them round.&lt;/li&gt;
+  
+  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
+    
+    &lt;a href=&quot;https://uxplanet.org/from-idea-to-appstore-a-design-sprint-case-study-a7781093de8d&quot;&gt;From Idea to App Store: A Design Sprint Case Study&lt;/a&gt;
+    &lt;/span&gt;
+    &lt;br /&gt;If you’ve ever worked on an app, you can only dream of that feeling of pure joy when you open the App Store and see your app featured on the homepage.&lt;/li&gt;
+  
+  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
+    
+    &lt;a href=&quot;https://alistapart.com/article/the-core-model-designing-inside-out-for-better-results&quot;&gt;The Core Model: Designing Inside Out for Better Results&lt;/a&gt;
+    &lt;/span&gt;
+    &lt;br /&gt;If you’ve worked on a website design with a large team or client, chances are good you’ve spent some time debating (arguing?) with each other about what the homepage should look like, or which department gets to be in the top-lev&lt;/li&gt;
+  
+  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
+    
+    &lt;a href=&quot;https://medium.com/@Ellayanor/team-charters-for-diverse-teams-a50add65dd92&quot;&gt;Team Charters for Diverse Teams&lt;/a&gt;
+    &lt;/span&gt;
+    &lt;br /&gt;Team Charters are things which come up a lot, and are often triggers for really insightful conversations about how teams work together and function well. A team charter is basically a set of principles for how a group of people work as a team, that a team draft together and agree to abide by.&lt;/li&gt;
+  
+  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
+    
+    &lt;a href=&quot;http://www.jamiearnold.com/blog/2014/07/22/seven-questions-to-build-a-roadmap&quot;&gt;Seven questions to build a roadmap&lt;/a&gt;
+    &lt;/span&gt;
+    &lt;br /&gt;In my last post I wrote about why roadmaps are for everyone. This post is about techniques for building one and how the use of language can help align your pure agile or mixed methodology programmes.&lt;/li&gt;
+  
+  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
+    
+    &lt;a href=&quot;https://medium.com/@cassierobinson/a-user-manual-for-me-d3a851fbc694&quot;&gt;A user manual for me&lt;/a&gt;
+    &lt;/span&gt;
+    &lt;br /&gt;There are lots of ways to build good teams and working relationships. But, before you get to the relational matter of teams, platforms and systems, it’s important for people to know your preferences as an individual.&lt;/li&gt;
+  
+  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
+    
+    &lt;a href=&quot;https://www.smashingmagazine.com/2018/09/importance-manual-accessibility-testing/&quot;&gt;The Importance Of Manual Accessibility Testing&lt;/a&gt;
+    &lt;/span&gt;
+    &lt;br /&gt;Automated accessibility tests are a great resource to have, but they can’t automatically make your site accessible. Use them as one step of a larger testing process.&lt;/li&gt;
+  
+  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
+    
+    &lt;a href=&quot;https://accessibility.blog.gov.uk/2018/09/27/assistive-technology-tools-you-can-use-at-no-cost/&quot;&gt;Assistive technology tools you can use at no cost&lt;/a&gt;
+    &lt;/span&gt;
+    &lt;br /&gt;GDS’s Accessibility Empathy Lab is open to anyone from the public sector. Since we blogged about the lab, we’ve seen a huge increase in visitors coming in to use it as an assistive technology space.&lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Tue, 02 Oct 2018 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/blog/october-2018-links/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/october-2018-links/</guid>
+        
+        
+        <category>links</category>
+        
+      </item>
     
       <item>
         <title>How to focus in open plan offices</title>
@@ -777,56 +847,6 @@
         
         
         <category>weeknotes</category>
-        
-      </item>
-    
-      <item>
-        <title>Kicking things off with the graphic design team</title>
-        <description>&lt;p class=&quot;lede&quot;&gt;I went up to GDS to talk to &lt;a href=&quot;https://twitter.com/markhurrell&quot;&gt;Mark&lt;/a&gt; about how graphic design works on his team. And we chatted about what first steps I should take with the new graphic design team in ONS Digital Publishing.&lt;/p&gt;
-
-&lt;figure&gt;
-  &lt;img src=&quot;http://localhost:4000/assets/keep-britain-tidy.jpg&quot; alt=&quot;A blue man leans down to pick up litter. Large red text says keep Britain tidy&quot; /&gt;
-  &lt;figcaption class=&quot;text-small&quot;&gt;
-    Keep Britain Tidy, 1963, Tom Eckersley
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;h2 id=&quot;make-your-work-visible&quot;&gt;Make your work visible&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Share patterns offline&lt;/li&gt;
-  &lt;li&gt;Pattern libraries don’t have to be code based&lt;/li&gt;
-  &lt;li&gt;Create posters&lt;/li&gt;
-  &lt;li&gt;Especially key things like typographic scale and colours&lt;/li&gt;
-  &lt;li&gt;Print out work and stick it on the wall&lt;/li&gt;
-  &lt;li&gt;Print black ink on coloured paper to add colour (but keep costs down)&lt;/li&gt;
-  &lt;li&gt;Cover the environment in “good design”&lt;/li&gt;
-  &lt;li&gt;Graphic design and data visualisations might need a more extensive pattern library that is difficult to maintain – that’s okay&lt;/li&gt;
-  &lt;li&gt;Maybe we do need &lt;a href=&quot;http://onsdigital.github.io/ons-pattern-library-starter/colour/#greys&quot;&gt;50 shades of grey&lt;/a&gt;?&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;british-public-service-design&quot;&gt;British public service design&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;British public service design has a strong history of great graphic design&lt;/li&gt;
-  &lt;li&gt;Look at designers like &lt;a href=&quot;https://en.wikipedia.org/wiki/Tom_Eckersley&quot;&gt;Tom Eckersley&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;ONS is in a position to create some great information and editorial design&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;zoom-out&quot;&gt;Zoom out&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Step back and look at your work&lt;/li&gt;
-  &lt;li&gt;Does it work at a distance?&lt;/li&gt;
-  &lt;li&gt;Does it work at a angle?&lt;/li&gt;
-  &lt;li&gt;Does it work on smaller screens?&lt;/li&gt;
-  &lt;li&gt;Graphic design needs to be strong enough that the hierarchy still works under pressure&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Wed, 30 May 2018 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/blog/kicking-things-off-with-the-graphic-design-team/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/kicking-things-off-with-the-graphic-design-team/</guid>
-        
-        
-        <category>design</category>
         
       </item>
     
