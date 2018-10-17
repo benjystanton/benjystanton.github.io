@@ -5,9 +5,9 @@
     <description>Interaction Designer. Family Man. Music Snob.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 02 Oct 2018 17:27:16 +0100</pubDate>
-    <lastBuildDate>Tue, 02 Oct 2018 17:27:16 +0100</lastBuildDate>
-    <generator>Jekyll v3.8.1</generator>
+    <pubDate>Wed, 17 Oct 2018 14:59:00 +0100</pubDate>
+    <lastBuildDate>Wed, 17 Oct 2018 14:59:00 +0100</lastBuildDate>
+    <generator>Jekyll v3.8.4</generator>
     
       <item>
         <title>September 2018 links</title>
@@ -71,8 +71,8 @@
 
 </description>
         <pubDate>Tue, 02 Oct 2018 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/blog/october-2018-links/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/october-2018-links/</guid>
+        <link>http://localhost:4000/blog/september-2018-links/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/september-2018-links/</guid>
         
         
         <category>links</category>

@@ -1,7 +1,8 @@
 ---
 
-- destination: One Team Gov in Wales, Cardiff
-  category: Conference
+- destination: One Team Gov in Wales
+  city: Cardiff
+  category: Training and conferences
   month: January
   outwardJourney:
     - Swansea
@@ -10,7 +11,8 @@
     - Cardiff Central
     - Swansea
 
-- destination: Birmingham
+- destination: Birmingham city centre hotel
+  city: Birmingham
   category: User research
   month: January
   outwardJourney:
@@ -22,8 +24,9 @@
     - Newport (South Wales)
     - Swansea
 
-- destination: BBC, London
-  category: Meeting design teams
+- destination: BBC
+  city: London
+  category: Training and conferences
   month: February
   outwardJourney:
     - Swansea
@@ -32,7 +35,8 @@
     - London Paddington
     - Swansea
 
-- destination: Manchester
+- destination: Manchester city centre hotel
+  city: Manchester
   category: User research
   month: February
   outwardJourney:
@@ -44,7 +48,8 @@
     - Bristol Parkway
     - Swansea
 
-- destination: Office for National Statistics (ONS), Titchfield
+- destination: Office for National Statistics (ONS)
+  city: Titchfield
   category: Meeting
   month: February
   outwardJourney:
@@ -56,7 +61,8 @@
     - Newport (South Wales)
     - Swansea
 
-- destination: Edinburgh
+- destination: Edinburgh city centre hotel
+  city: Edinburgh
   category: User research
   month: March
   outwardJourney:
@@ -70,7 +76,8 @@
     - Bristol Parkway
     - Swansea
 
-- destination: Birmingham
+- destination: Birmingham city centre hotel
+  city: Birmingham
   category: User research
   month: May
   outwardJourney:
@@ -82,8 +89,9 @@
     - Newport (South Wales)
     - Swansea
 
-- destination: Government Digital Service, London
-  category: Training
+- destination: Government Digital Service (GDS)
+  city: London
+  category: Training and conferences
   month: May
   outwardJourney:
     - Newport
@@ -92,8 +100,9 @@
     - London Paddington
     - Swansea
 
-- destination: Government Digital Service, London
-  category: Meeting design teams
+- destination: Government Digital Service (GDS)
+  city: London
+  category: Training and conferences
   month: May
   outwardJourney:
     - Swansea
@@ -103,17 +112,19 @@
     - Swansea
 
 - destination: International Design in Goverment
-  category: Conference
+  city: London
+  category: Training and conferences
   month: July
   outwardJourney:
     - Swansea
-    - Cardiff
+    - Cardiff Central
     - London Paddington
   returnJourney:
     - London Paddington
     - Swansea
 
-- destination: Office for National Statistics (ONS), Titchfield
+- destination: Office for National Statistics (ONS)
+  city: Titchfield
   category: Meeting
   month: September
   outwardJourney:
@@ -125,14 +136,16 @@
     - Newport (South Wales)
     - Swansea
 
-- destination: Government Digital Service, London
-  category: Leadership training
+- destination: Government Digital Service (GDS)
+  city: London
+  category: Training and conferences
   month: September
   outwardJourney:
     - Swansea
     - London Paddington
 
 - destination: Exeter
+  city: Exeter
   category: User research
   month: September
   outwardJourney:

@@ -17,9 +17,9 @@ I'e come to the conclustion
 
 ### Good meetings are just conversations
 
-I moan about meetings a lot. But, they are (I've conceded) an essential part of working in a big organisation. Good meetings are just conversations with your team and they need to happen regularly if you hope to do good work.
+I moan about meetings a lot. But, they are an essential part of working in a big organisation. Good meetings are just conversations with your team and they need to happen regularly if you hope to do good work.
 
-Big proper stakeholder type meetings are important too, if you want to help nudge the organisation towards doing user-centred design (or whatever it is you champion).
+Big proper stakeholder type meetings are important too, if you want to help nudge the organisation towards doing user-centred design (or whatever you care about).
 
 ### Managing your calendar
 
