@@ -78,9 +78,6 @@
   <h2 id="build">Build</h2>
 <p>This blog is built with <a href="https://jekyllrb.com/">Jekyll</a> and hosted on <a href="https://github.com/benjystanton/benjystanton.github.io">GitHub</a>.</p>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>https://github.com/benjystanton/benjystanton.github.io
-</code></pre></div></div>
-
 <h2 id="fonts">Fonts</h2>
 <ul>
   <li>Base font family: <a href="https://typekit.com/fonts/source-sans">Source Sans</a></li>
@@ -139,6 +136,13 @@
   <li>This is the last list item</li>
 </ol>
 
+<h3 id="lede">Lede</h3>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;p class="lede"&gt;A large intro paragraph or summary.&lt;/p&gt;
+</code></pre></div></div>
+
+<p class="lede">A large intro paragraph or summary.</p>
+
 <h3 id="blockquote">Blockquote</h3>
 
 <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&gt; A blockquote is a quotation in a written document, that is set off from the main text as a paragraph, or block of text, and typically distinguished visually using indentation.
@@ -159,15 +163,17 @@
 <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;p class="text-small"&gt;%e %B %Y&lt;/p&gt;
 </code></pre></div></div>
 
-<p class="text-small">Website last updated on 17 October 2018</p>
+<p class="text-small">Website last updated on 31 October 2018</p>
 
 <h2 id="big-numbers">Big numbers</h2>
 
 <p>Use the <code class="highlighter-rouge">big-number.html</code> include.</p>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>include big-number.html
-big-number="979"
-text="miles driven"
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>{%
+  include big-number.html
+  big-number="979"
+  text="miles driven"
+%}
 </code></pre></div></div>
 
 <p><span class="big-number">
@@ -176,6 +182,21 @@ text="miles driven"
 <span>
   miles driven
 </span></p>
+
+<h2 id="file-link">File link</h2>
+
+<p>Use the <code class="highlighter-rouge">file-link.html</code> include when you need to link a file and specify the file format and size at the same time.</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>{%
+  include file-link.html
+  text="View the raw data"
+  url="https://github.com/benjystanton/benjystanton.github.io/blob/master/_data/work-trips-2018.yml"
+  format="YML"
+  size="3KB"
+%}
+</code></pre></div></div>
+
+<p><a href="https://github.com/benjystanton/benjystanton.github.io/blob/master/_data/work-trips-2018.yml">View the raw data – YML 3KB</a></p>
 
 <h2 id="symbols">Symbols</h2>
 <ul>
@@ -205,7 +226,7 @@ text="miles driven"
 
 <h3 id="images-with-captions">Images with captions</h3>
 
-<p>Image captions aren’t supported in standard Markdown so I’ve made an include.</p>
+<p>Image captions aren’t supported in standard Markdown so I’ve made an <code class="highlighter-rouge">image-with-caption.html</code> include.</p>
 
 <figure>
   <img src="http://localhost:4000/assets/coop-sticker.jpg" alt="A yellow sticker with black text on a laptop" />
@@ -214,11 +235,12 @@ text="miles driven"
   </figcaption>
 </figure>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>{% include image-with-caption.html
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>{%
+  include image-with-caption.html
   image="coop-sticker.jpg"
   caption="Co-op digital design principle sticker – We design for everyone"
   alt-text="A yellow sticker with black text on a laptop"
-  %}
+%}
 </code></pre></div></div>
 
 <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;figure&gt;
@@ -240,10 +262,10 @@ text="miles driven"
 </ul>
 
 <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;svg width="165" viewBox="0 0 320 104"&gt;
-&lt;g role="img" aria-labelledby="logo-title"&gt;
-&lt;title id="logo-title"&gt;Benjy Stanton&lt;/title&gt;
-...
-&lt;/g&gt;
+  &lt;g role="img" aria-labelledby="logo-title"&gt;
+    &lt;title id="logo-title"&gt;Benjy Stanton&lt;/title&gt;
+    ...
+  &lt;/g&gt;
 &lt;/svg&gt;
 </code></pre></div></div>
 
@@ -260,10 +282,13 @@ text="miles driven"
 
 <p>Use the <code class="highlighter-rouge">emoji.html</code> include, so that we can add some alt text. Technique inspired by <a href="https://tink.uk/accessible-emoji/">Léonie Watson</a>.</p>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>include emoji.html
-emoji="💩"
-alt-text="Pile of poo"
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>{%
+  include emoji.html
+  emoji="💩"
+  alt-text="Pile of poo"
+%}
 </code></pre></div></div>
+
 <ul class="list-inline">
 <li><span role="img" aria-label="Pile of poo">💩</span>
 <!-- Accessible emojis, inspired by https://tink.uk/accessible-emoji/ -->

@@ -7,10 +7,6 @@ permalink: /style-guide/
 ## Build
 This blog is built with [Jekyll](https://jekyllrb.com/) and hosted on [GitHub](https://github.com/benjystanton/benjystanton.github.io ).
 
-```
-https://github.com/benjystanton/benjystanton.github.io
-```
-
 ## Fonts
 - Base font family: [Source Sans](https://typekit.com/fonts/source-sans)
 - Heading font: [Quatro Slab Ultra Black](https://typekit.com/fonts/quatro-slab)
@@ -63,6 +59,14 @@ Lorem ipsum dolor sit amet, consectetur adip*isicing elit, sed do eiusmod * temp
 2. An ordered list is a list in which the sequence of items is important. An ordered list does not necessarily contain sequence characters.
 3. This is the last list item
 
+### Lede
+
+```
+<p class="lede">A large intro paragraph or summary.</p>
+```
+
+<p class="lede">A large intro paragraph or summary.</p>
+
 ### Blockquote
 
 ```
@@ -89,16 +93,44 @@ Smaller, lighter text used for the "published on" date and image captions.
 
 Use the `big-number.html` include.
 
+{% raw %}  
 ```
-include big-number.html
-big-number="979"
-text="miles driven"
+{%
+  include big-number.html
+  big-number="979"
+  text="miles driven"
+%}
 ```
+{% endraw %}
 
 {%
   include big-number.html
   big-number="979"
   text="miles driven"
+%}
+
+## File link
+
+Use the `file-link.html` include when you need to link a file and specify the file format and size at the same time.
+
+{% raw %}  
+```
+{%
+  include file-link.html
+  text="View the raw data"
+  url="https://github.com/benjystanton/benjystanton.github.io/blob/master/_data/work-trips-2018.yml"
+  format="YML"
+  size="3KB"
+%}
+```
+{% endraw %}
+
+{%
+  include file-link.html
+  text="View the raw data"
+  url="https://github.com/benjystanton/benjystanton.github.io/blob/master/_data/work-trips-2018.yml"
+  format="YML"
+  size="3KB"
 %}
 
 ## Symbols
@@ -128,7 +160,7 @@ Images are full width by default. Don't forget alt text.
 
 ### Images with captions
 
-Image captions aren't supported in standard Markdown so I've made an include.
+Image captions aren't supported in standard Markdown so I've made an `image-with-caption.html` include.
 
 {% include image-with-caption.html
   image="coop-sticker.jpg"
@@ -139,20 +171,22 @@ Image captions aren't supported in standard Markdown so I've made an include.
 
 {% raw %}  
 ```
-{% include image-with-caption.html
+{%
+  include image-with-caption.html
   image="coop-sticker.jpg"
   caption="Co-op digital design principle sticker – We design for everyone"
   alt-text="A yellow sticker with black text on a laptop"
-  %}
+%}
 ```
 {% endraw %}
 
 ```
-{% include image-with-caption.html
+{%
+  include image-with-caption.html
   image="coop-sticker.jpg"
   caption="Co-op digital design principle sticker – We design for everyone"
   alt-text="A yellow sticker with black text on a laptop"
-  %}
+%}
 ```
 
 ## SVGs
@@ -164,10 +198,10 @@ I've made the SVGs extra accessible by using [Léonie Watson's accessible SVGs t
 
 ```
 <svg width="165" viewBox="0 0 320 104">
-<g role="img" aria-labelledby="logo-title">
-<title id="logo-title">Benjy Stanton</title>
-...
-</g>
+  <g role="img" aria-labelledby="logo-title">
+    <title id="logo-title">Benjy Stanton</title>
+    ...
+  </g>
 </svg>
 ```
 
@@ -177,11 +211,16 @@ I've made the SVGs extra accessible by using [Léonie Watson's accessible SVGs t
 
 Use the `emoji.html` include, so that we can add some alt text. Technique inspired by <a href="https://tink.uk/accessible-emoji/">Léonie Watson</a>.
 
+{% raw %}  
 ```
-include emoji.html
-emoji="💩"
-alt-text="Pile of poo"
+{%
+  include emoji.html
+  emoji="💩"
+  alt-text="Pile of poo"
+%}
 ```
+{% endraw %}
+
 <ul class="list-inline">
 <li>{% include emoji.html emoji="💩" alt-text="Pile of poo" %}</li>
 <li><span class="heading-large">{% include emoji.html emoji="👻" alt-text="Ghost" %}</span></li>
