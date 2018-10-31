@@ -36,14 +36,9 @@
  }
 
 .column {
-    background-color: $light-grey-colour;
-    padding: $spacing-unit/2;
+    padding-right: $spacing-unit/2;
     margin-bottom: $spacing-unit;
     float: left;
-
-        &:nth-child(even) {
-        background-color: $medium-grey-colour;
-    }
 }
 
 .full {
