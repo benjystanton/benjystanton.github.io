@@ -123,6 +123,22 @@ li > ul,
 li > ol {
   margin-bottom: 0; }
 
+dl {
+  border-top: 1px solid #2e343b; }
+
+dt {
+  float: left;
+  clear: left;
+  width: 50%;
+  font-weight: bold; }
+
+dt, dd {
+  padding-bottom: 12px;
+  padding-top: 9px; }
+
+dd {
+  border-bottom: 1px solid #2e343b; }
+
 .list-inline {
   list-style: none;
   margin-left: 0; }
@@ -335,12 +351,9 @@ blockquote {
       padding-right: 10%; } }
 
 .column {
-  background-color: #e4e7ea;
-  padding: 18px;
+  padding-right: 18px;
   margin-bottom: 36px;
   float: left; }
-  .column:nth-child(even) {
-    background-color: #abb3bd; }
 
 .full {
   width: 100%; }
