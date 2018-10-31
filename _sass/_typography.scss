@@ -132,6 +132,28 @@ li {
   }
 }
 
+// Definition list
+
+dl {
+  border-top: 1px solid $text-colour;
+}
+
+dt {
+  float: left;
+  clear: left;
+  width: 50%;
+  font-weight: bold;
+}
+
+dt,dd {
+  padding-bottom: $spacing-unit/3;
+  padding-top: $spacing-unit/4;
+}
+
+dd {
+  border-bottom: 1px solid $text-colour;
+}
+
 // Inline list
 
 .list-inline {
