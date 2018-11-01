@@ -1,6 +1,6 @@
 ---
 layout: page
-title: October 2018 links
+title: October 2018 bookmarks
 categories: links NaBloPoMo
 excerpt: My read later list from October.
 ---
