@@ -1,6 +1,6 @@
 ---
 layout: page   
-title: November 2017 links
+title: November 2017 bookmarks
 categories: links
 ---
 

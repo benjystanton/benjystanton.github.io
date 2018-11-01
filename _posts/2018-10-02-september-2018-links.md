@@ -1,6 +1,6 @@
 ---
 layout: page
-title: September 2018 links
+title: September 2018 bookmarks
 categories: links
 excerpt: My read later list from September.
 ---

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: February 2018 links
+title: February 2018 bookmarks
 categories: links
 ---
 
