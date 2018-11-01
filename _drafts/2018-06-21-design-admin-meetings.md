@@ -9,9 +9,7 @@ excerpt:
 
 I've blogged before about [how ONS is my first job in a large organisation](/blog/my-first-12ish-months/). Previously I had only worked for small design agencies or as a freelancer.
 
-Even when doing contracts for larger organisations you are protected from most of the admin and meetings so you are free to spend most of your time doing design work.
-
-I'e come to the conclustion
+Even when doing contracts for larger organisations you are protected from most of the admin and meetings so you are free (and expected) to spend most of your time doing design work.
 
 ## 1. Meetings
 
