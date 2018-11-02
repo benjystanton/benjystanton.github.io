@@ -75,6 +75,7 @@ h1, .heading-xlarge {
 }
 
 h2, .heading-large {
+  font-family: $base-font-family;
   font-size: 28px;
   @include media-query($medium) {font-size: 32px;}
   font-weight: bold;
