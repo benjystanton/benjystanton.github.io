@@ -3,7 +3,7 @@
 .site-footer {
     padding: $spacing-unit 0;
     @include media-query($medium) {
-      padding: $spacing-unit*3 0 $spacing-unit;
+      padding: 0 0 $spacing-unit;
     }
     text-align: left;
 
