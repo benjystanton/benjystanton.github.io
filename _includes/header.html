@@ -8,12 +8,14 @@
       {% include benjy-stanton-logo.svg %}
     </a>
 
+    {% if page.nav != false %}
     <nav class="site-nav" role="navigation">
       <a {% if page.url == '/' %}class="current page-link" aria-current="page"{% else %}class="page-link"{% endif %} href="/">Home</a>
       <a {% if page.url == '/about/' %}class="current page-link" aria-current="page"{% else %}class="page-link"{% endif %} href="/about/">About</a>
       <a {% if page.url == '/blog/' %}class="current page-link" aria-current="page"{% else %}class="page-link"{% endif %} href="/blog/">Blog</a>
       <a {% if page.url == '/style-guide/' %}class="current page-link" aria-current="page"{% else %}class="page-link"{% endif %} href="/style-guide/">Style&nbsp;guide</a>
     </nav>
+    {% endif %}
 
   </div>
 
