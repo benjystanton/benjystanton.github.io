@@ -28,7 +28,7 @@ A list of different layouts in use on the site.
   <li>List of posts – <a href="{{ site.baseurl }}/blog/">Blog</a></li>
   <li>List of categorised posts – <a href="{{ site.baseurl }}/blog/category/release-notes/">Release notes</a></li>
   <li>List of categories – <a href="{{ site.baseurl }}/blog/category/">Categories</a></li>
-
+  <li>Image post – <a href="{{ site.baseurl }}/blog/9-miles-to-glasto/">9 miles to Glasto</a></li>
 </ul>
 
 ***
