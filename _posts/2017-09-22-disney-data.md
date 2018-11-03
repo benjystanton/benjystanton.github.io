@@ -10,8 +10,6 @@ Back in March we took a family trip to Disneyland Paris.
 
 I collected some data, mainly so that I could play around with styling up key figures and data tables like this...
 
-<!-- {% include chart.svg %} -->
-
 ## Key figures
 
 <div class="flex-grid">
