@@ -6,21 +6,21 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>Work with me at Office for National Statistics (ONS) – Benjy Stanton</title>
-  <meta name="description" content="I’ve just finished my second week at ONS. You can read about my first week on the ONS Digital blog. My second week was spent kicking off a big new project, m...">
+  <title>Creating the image post layout – Benjy Stanton</title>
+  <meta name="description" content="A round-up of the key things in my new image post template.">
 
   <!-- Twitter summary card stuff, based on http://davidensinger.com/2013/04/supporting-twitter-cards-with-jekyll/ -->
   <meta name="twitter:card" content="summary">
   <meta name="twitter:site" content="benjystanton">
-  <meta name="twitter:title" content="Work with me at Office for National Statistics (ONS)" />
-  <meta name="twitter:description" content="I’ve just finished my second week at ONS. You can read about my first week on the ONS Digital blog. My second week was spent kicking off a big new project, m..." />
+  <meta name="twitter:title" content="Creating the image post layout" />
+  <meta name="twitter:description" content="A round-up of the key things in my new image post template." />
   
-  <meta name="twitter:image:src" content="http://localhost:4000/assets/ons-logomark.png">
-  <meta name="twitter:image:alt" content="Office for National Statistics logomark">
+  <meta name="twitter:image:src" content="http://localhost:4000/assets/image-post-example.jpg">
+  <meta name="twitter:image:alt" content="A screenshot of a web page with my logo, a big photo and a title">
   
   <link rel="stylesheet" href="/css/main.css">
   <link rel="stylesheet" href="https://use.typekit.net/wcw4icc.css">
-  <link rel="canonical" href="http://localhost:4000/blog/work-with-me-at-office-for-national-statistics-ons/">
+  <link rel="canonical" href="http://localhost:4000/blog/creating-the-image-post-layout/">
   <link rel="alternate" type="application/rss+xml" title="Benjy Stanton" href="http://localhost:4000/feed.xml" />
   <!-- Touch icons and favicons -->
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -74,10 +74,13 @@
           
 
 <header class="post-header">
-  <h1 class="post-title">Work with me at Office for National Statistics (ONS)</h1>
-  <p class="text-small">29 October 2016 • 
+  <h1 class="post-title">Creating the image post layout</h1>
+  <p class="text-small"> 3 November 2018 • 
 
-<a href="/blog/category/ons">ons</a>
+<a href="/blog/category/nablopomo">nablopomo</a>
+,
+
+<a href="/blog/category/release-notes">release-notes</a>
 
 
 </p>
@@ -86,56 +89,64 @@
 </header>
 
 <article class="post-content" role="article">
-  <p>I’ve just finished my second week at ONS. You can <a href="https://blog.ons.digital/2016/10/21/my-first-week/">read about my first week on the ONS Digital blog</a>. My second week was spent kicking off a big new project, more about that soon.</p>
+  <p class="lede">Yesterday I posted a <a href="/blog/9-miles-to-glasto">photo using a new image post layout</a>. Here’s a round up of the key things in the new template.</p>
 
-<h2 id="were-hiring-designers-and-researchers">We’re hiring designers and researchers</h2>
+<h2 id="content">Content</h2>
 
-<p>ONS are currently on the look out for <a href="https://www.civilservicejobs.service.gov.uk/csr/jobs.cgi?jcode=1512692">2 user experience (UX) designers</a> and a few <a href="https://www.civilservicejobs.service.gov.uk/csr/jobs.cgi?jcode=1512654">user researchers</a>. The roles are based in either Newport or Titchfield.</p>
-
-<h2 id="what-do-ux-designers-do">What do UX designers do?</h2>
-<p>The role has different meanings to different people. I really like this <a href="http://localhost:4000/blog/user-experience-ux-designer-skills/">list of UX designer skills</a>.</p>
-
-<p>I don’t think you need to be an expert in all of those things. But, if you are good at a few (and have an appreciation for why the rest are important) then I think you’ll make a good UX designer.</p>
-
-<h2 id="open-days">Open days</h2>
-
-<p>If you’re interested, but would like to know more, we have 2 open days coming up:</p>
+<p>Each image post needs 3 bits of unique content;</p>
 
 <ul>
-  <li>Newport on Tuesday 1 November from 2pm to 7pm</li>
-  <li>Titchfield on Thursday 3 November from 2pm to 7pm</li>
+  <li>image file name</li>
+  <li>image alt text</li>
+  <li>title</li>
 </ul>
 
-<p><a href="https://www.ons.gov.uk/aboutus/contactus/officelocations">View map and contact details on ONS website</a></p>
+<p>They are defined at the top of the post, like this;</p>
 
-<h2 id="whats-it-like-at-ons">What’s it like at ONS?</h2>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>---
+image: "glasto-sign.jpg"
+image-alt: "A rusty roadside sign in the countryside"
+title: 9 miles to Glasto
+---
+</code></pre></div></div>
 
-<p>The main thing that convinced me to work at ONS was this: <a href="https://productforthepeople.xyz/product-is-a-team-sport-c50d234745e#.uk86uylv5">Product is a team sport, a talk/blog post by Matt Jukes</a>.</p>
+<p>The image template is very simple, and doesn’t require any more content. So <a href="https://raw.githubusercontent.com/benjystanton/benjystanton.github.io/master/_posts/2018-11-02-9-miles-to-glasto.md">a finished post looks like this</a>.</p>
 
-<p>If you want to get an insight into the culture here at ONS, then I recommend that you take 10 minutes to read that.</p>
+<h2 id="template">Template</h2>
 
-<p>Apart from the working culture and good pay (£35k) there are some great benefits, like:</p>
+<p>The <a href="https://github.com/benjystanton/benjystanton.github.io/blob/master/_layouts/image.html">image layout</a> takes these variables and inserts them into the template to generate the page.</p>
 
-<ul>
-  <li>flexible working</li>
-  <li>a Civil Service pension</li>
-  <li>an on-site nursery at our Newport site</li>
-  <li>an on-site gym</li>
-  <li>free car-parking</li>
-  <li>a training/conference budget</li>
-</ul>
+<p>Here’s a simplified version of the template mark-up;</p>
 
-<p>I have 3 young kids and I commute from Swansea to Newport each day (50 miles each way). I don’t think I could do this job if it wasn’t for the (actually) flexible working arrangements and support from my managers.</p>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;article role="article"&gt;
+  &lt;figure&gt;
+    &lt;img src="{{ site.url }}/assets/{{ page.image }}" alt="{{ page.image-alt }}" /&gt;
+    &lt;figcaption&gt;
+      &lt;h1&gt;{{ page.title }}&lt;/h1&gt;
+    &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/article&gt;
+</code></pre></div></div>
 
-<h2 id="apply">Apply</h2>
-<p>The closing date for applications is Tuesday 15 November 2016. If you have any questions, feel free to <a href="https://twitter.com/benjystanton">direct message (DM) me on Twitter</a>. My DMs are open.</p>
+<p>The image is wrapped in a <code class="highlighter-rouge">&lt;figure&gt;</code> element.</p>
 
-<h3 id="links-to-full-job-descriptions">Links to full job descriptions</h3>
+<p>The <code class="highlighter-rouge">image</code> and <code class="highlighter-rouge">image-alt</code> variables are combined to fill in the gaps in the <code class="highlighter-rouge">&lt;img&gt;</code> element.</p>
 
-<ul>
-  <li><a href="https://www.civilservicejobs.service.gov.uk/csr/jobs.cgi?jcode=1512692">User experience (UX) designer</a></li>
-  <li><a href="https://www.civilservicejobs.service.gov.uk/csr/jobs.cgi?jcode=1512654">User researcher</a></li>
-</ul>
+<p>Since the <code class="highlighter-rouge">title</code> variable is used to describe the image and the entire post, I’ve wrapped it inside a <code class="highlighter-rouge">&lt;h1&gt;</code> and then inside the <code class="highlighter-rouge">&lt;figcaption&gt;</code>. This is the simplest, most semantic way I could think of doing the page, and means the mark-up and design is a lean as possible.</p>
+
+<h2 id="twitter-summary-card">Twitter summary card</h2>
+
+<p>I’ve also reused the image variables to populate the <a href="https://developer.twitter.com/en/docs/tweets/optimize-with-cards/overview/summary.html">Twitter summary card</a> in the <code class="highlighter-rouge">&lt;head&gt;</code>.</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>{% if page.image %}
+&lt;meta name="twitter:image:src" content="{{ site.url }}/assets/{{ page.image }}"&gt;
+&lt;meta name="twitter:image:alt" content="{{ page.image-alt }}"&gt;
+{% endif %}
+</code></pre></div></div>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">For day 2 of <a href="https://twitter.com/hashtag/NaBloPoMo?src=hash&amp;ref_src=twsrc%5Etfw">#NaBloPoMo</a> I&#39;ve created a new post layout that allows me to publish microblog style image posts with a simple design <a href="https://t.co/0bnbT1Fgza">https://t.co/0bnbT1Fgza</a></p>&mdash; Benjy Stanton (@benjystanton) <a href="https://twitter.com/benjystanton/status/1058257626239197184?ref_src=twsrc%5Etfw">November 2, 2018</a></blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 </article>
 

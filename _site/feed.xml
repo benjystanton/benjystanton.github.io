@@ -5,9 +5,81 @@
     <description>Interaction Designer. Family Man. Music Snob.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 02 Nov 2018 08:01:00 +0000</pubDate>
-    <lastBuildDate>Fri, 02 Nov 2018 08:01:00 +0000</lastBuildDate>
+    <pubDate>Sat, 03 Nov 2018 10:18:35 +0000</pubDate>
+    <lastBuildDate>Sat, 03 Nov 2018 10:18:35 +0000</lastBuildDate>
     <generator>Jekyll v3.8.4</generator>
+    
+      <item>
+        <title>Creating the image post layout</title>
+        <description>&lt;p class=&quot;lede&quot;&gt;Yesterday I posted a &lt;a href=&quot;/blog/9-miles-to-glasto&quot;&gt;photo using a new image post layout&lt;/a&gt;. Here’s a round up of the key things in the new template.&lt;/p&gt;
+
+&lt;h2 id=&quot;content&quot;&gt;Content&lt;/h2&gt;
+
+&lt;p&gt;Each image post needs 3 bits of unique content;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;image file name&lt;/li&gt;
+  &lt;li&gt;image alt text&lt;/li&gt;
+  &lt;li&gt;title&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;They are defined at the top of the post, like this;&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;---
+image: &quot;glasto-sign.jpg&quot;
+image-alt: &quot;A rusty roadside sign in the countryside&quot;
+title: 9 miles to Glasto
+---
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;The image template is very simple, and doesn’t require any more content. So &lt;a href=&quot;https://raw.githubusercontent.com/benjystanton/benjystanton.github.io/master/_posts/2018-11-02-9-miles-to-glasto.md&quot;&gt;a finished post looks like this&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;template&quot;&gt;Template&lt;/h2&gt;
+
+&lt;p&gt;The &lt;a href=&quot;https://github.com/benjystanton/benjystanton.github.io/blob/master/_layouts/image.html&quot;&gt;image layout&lt;/a&gt; takes these variables and inserts them into the template to generate the page.&lt;/p&gt;
+
+&lt;p&gt;Here’s a simplified version of the template mark-up;&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;article role=&quot;article&quot;&amp;gt;
+  &amp;lt;figure&amp;gt;
+    &amp;lt;img src=&quot;{{ site.url }}/assets/{{ page.image }}&quot; alt=&quot;{{ page.image-alt }}&quot; /&amp;gt;
+    &amp;lt;figcaption&amp;gt;
+      &amp;lt;h1&amp;gt;{{ page.title }}&amp;lt;/h1&amp;gt;
+    &amp;lt;/figcaption&amp;gt;
+  &amp;lt;/figure&amp;gt;
+&amp;lt;/article&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;The image is wrapped in a &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;figure&amp;gt;&lt;/code&gt; element.&lt;/p&gt;
+
+&lt;p&gt;The &lt;code class=&quot;highlighter-rouge&quot;&gt;image&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;image-alt&lt;/code&gt; variables are combined to fill in the gaps in the &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;img&amp;gt;&lt;/code&gt; element.&lt;/p&gt;
+
+&lt;p&gt;Since the &lt;code class=&quot;highlighter-rouge&quot;&gt;title&lt;/code&gt; variable is used to describe the image and the entire post, I’ve wrapped it inside a &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;h1&amp;gt;&lt;/code&gt; and then inside the &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;figcaption&amp;gt;&lt;/code&gt;. This is the simplest, most semantic way I could think of doing the page, and means the mark-up and design is a lean as possible.&lt;/p&gt;
+
+&lt;h2 id=&quot;twitter-summary-card&quot;&gt;Twitter summary card&lt;/h2&gt;
+
+&lt;p&gt;I’ve also reused the image variables to populate the &lt;a href=&quot;https://developer.twitter.com/en/docs/tweets/optimize-with-cards/overview/summary.html&quot;&gt;Twitter summary card&lt;/a&gt; in the &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;head&amp;gt;&lt;/code&gt;.&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;{% if page.image %}
+&amp;lt;meta name=&quot;twitter:image:src&quot; content=&quot;{{ site.url }}/assets/{{ page.image }}&quot;&amp;gt;
+&amp;lt;meta name=&quot;twitter:image:alt&quot; content=&quot;{{ page.image-alt }}&quot;&amp;gt;
+{% endif %}
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;For day 2 of &lt;a href=&quot;https://twitter.com/hashtag/NaBloPoMo?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#NaBloPoMo&lt;/a&gt; I&amp;#39;ve created a new post layout that allows me to publish microblog style image posts with a simple design &lt;a href=&quot;https://t.co/0bnbT1Fgza&quot;&gt;https://t.co/0bnbT1Fgza&lt;/a&gt;&lt;/p&gt;&amp;mdash; Benjy Stanton (@benjystanton) &lt;a href=&quot;https://twitter.com/benjystanton/status/1058257626239197184?ref_src=twsrc%5Etfw&quot;&gt;November 2, 2018&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+</description>
+        <pubDate>Sat, 03 Nov 2018 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/creating-the-image-post-layout/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/creating-the-image-post-layout/</guid>
+        
+        
+        <category>nablopomo</category>
+        
+        <category>release-notes</category>
+        
+      </item>
     
       <item>
         <title>9 miles to Glasto</title>
@@ -804,76 +876,6 @@
         
         
         <category>links</category>
-        
-      </item>
-    
-      <item>
-        <title>Weeknotes – series 01 episode 06</title>
-        <description>&lt;p class=&quot;lede&quot;&gt;Inflatable bowels, Twitter charts and busy, busy days.&lt;/p&gt;
-
-&lt;h2 id=&quot;monday&quot;&gt;Monday&lt;/h2&gt;
-
-&lt;h3 id=&quot;sharing-charts-on-twitter-at-time-of-release&quot;&gt;Sharing charts on Twitter at time of release&lt;/h3&gt;
-
-&lt;p&gt;It’s difficult to remember back to Monday now, but one meeting in particular stood out. A few of us got together to try and improve the ‘sharing charts on Twitter at time of release’ workflow.&lt;/p&gt;
-
-&lt;p&gt;Because of the unique (it’s probably not unique) way ONS handles and publishes sensitive data, creating an image of chart in time for 9:30am publishing is really tricky and it’s causing headaches for a few of us.&lt;/p&gt;
-
-&lt;h2 id=&quot;tuesday&quot;&gt;Tuesday&lt;/h2&gt;
-
-&lt;h3 id=&quot;show-and-tell-with-the-publishing-team&quot;&gt;Show and tell with the publishing team&lt;/h3&gt;
-
-&lt;p&gt;On Tuesday I was asked to run a show and tell for the publishing team.&lt;/p&gt;
-
-&lt;p&gt;The publishing team are the people who use the ONS website’s content management system to upload content so it can be published.&lt;/p&gt;
-
-&lt;p&gt;It reminded me that we have made some progress in breaking down the silos in the department. But there is still more that can be done, and I’ve made a note to remind myself to spend more time observing the work that they do.&lt;/p&gt;
-
-&lt;h2 id=&quot;wednesday&quot;&gt;Wednesday&lt;/h2&gt;
-
-&lt;h3 id=&quot;wednesday-was-intense&quot;&gt;Wednesday was intense&lt;/h3&gt;
-
-&lt;p&gt;In the morning I finished off my &lt;a href=&quot;https://dp-prototype-kit.netlify.com/sprint/25/geography-2/&quot;&gt;find data by location&lt;/a&gt; prototype, then presented it at our usual end-of-sprint show and tell.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/SuepremeDesign&quot;&gt;Sue&lt;/a&gt; (graphic designer from Home Office Digital) visited. She spent some time chatting with the various design teams (thanks everyone who spent time showing her around). She has plans to start a cross-gov graphic design meet-up.&lt;/p&gt;
-
-&lt;p&gt;At lunch time, we walked around a giant inflatable bowel. Which was a completely normal thing to do.&lt;/p&gt;
-
-&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;When you get invitied into an inflatable bowel you can’t say no 🤷‍♀️ &lt;a href=&quot;https://twitter.com/mathew_weeks?ref_src=twsrc%5Etfw&quot;&gt;@mathew_weeks&lt;/a&gt; &lt;a href=&quot;https://twitter.com/RachelPricetag?ref_src=twsrc%5Etfw&quot;&gt;@RachelPricetag&lt;/a&gt; &lt;a href=&quot;https://twitter.com/NationJoseph?ref_src=twsrc%5Etfw&quot;&gt;@NationJoseph&lt;/a&gt; &lt;a href=&quot;https://twitter.com/benjystanton?ref_src=twsrc%5Etfw&quot;&gt;@benjystanton&lt;/a&gt; &lt;a href=&quot;https://t.co/cF4l3cgayx&quot;&gt;pic.twitter.com/cF4l3cgayx&lt;/a&gt;&lt;/p&gt;&amp;mdash; Grace Elizabeth (@designergrace) &lt;a href=&quot;https://twitter.com/designergrace/status/1004324407693709313?ref_src=twsrc%5Etfw&quot;&gt;June 6, 2018&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
-
-&lt;p&gt;Whilst all this was going on we had our usual end-of-sprint ceremonies like retrospective and sprint planning. These are usually exhausting just by themselves. Especially for an introvert like me.&lt;/p&gt;
-
-&lt;p&gt;Last of all, &lt;a href=&quot;https://twitter.com/SamHallWales&quot;&gt;Sam&lt;/a&gt; has rebooted the digital services monthly meeting. The team rarely get together, despite all sharing digital job roles, so it was good to be in the same room sharing news and updates.&lt;/p&gt;
-
-&lt;h2 id=&quot;thursday&quot;&gt;Thursday&lt;/h2&gt;
-
-&lt;h3 id=&quot;thursday-was-also-intense&quot;&gt;Thursday was also intense&lt;/h3&gt;
-
-&lt;p&gt;Looking back — I had too much on on Thursday. My day went a bit like this…&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;3 stand-ups&lt;/li&gt;
-  &lt;li&gt;Usability testing with the publishing team part 1&lt;/li&gt;
-  &lt;li&gt;Follow-up chat about social media workflows&lt;/li&gt;
-  &lt;li&gt;Meeting to discuss UX (user experience) designer progression pathways&lt;/li&gt;
-  &lt;li&gt;Design community of practice&lt;/li&gt;
-  &lt;li&gt;Usability testing with the publishing team part 2&lt;/li&gt;
-  &lt;li&gt;Meeting to finish off sprint planning because we didn’t finish everything on Wednesday&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;My head was spinning by the end of the day. Part of me feels proud that I can play an active role in 9 different meetings/discussions and still do some good work. Another part of me was just glad I had booked off Friday.&lt;/p&gt;
-
-&lt;h2 id=&quot;friday&quot;&gt;Friday&lt;/h2&gt;
-
-&lt;p&gt;Day off with the kids — whoop!&lt;/p&gt;
-</description>
-        <pubDate>Sun, 10 Jun 2018 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/blog/weeknotes-series-01-episode-06/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/weeknotes-series-01-episode-06/</guid>
-        
-        
-        <category>weeknotes</category>
         
       </item>
     
