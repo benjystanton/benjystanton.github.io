@@ -135,24 +135,33 @@ li {
 
 // Definition list
 
-dl {
+dt {
+  font-weight: bold;
+}
+
+dd {
+  margin-bottom: $spacing-unit/2;
+}
+
+.dl-table {
   border-top: 1px solid $text-colour;
 }
 
-dt {
+.dl-table dt {
   float: left;
   clear: left;
   width: 50%;
   font-weight: bold;
 }
 
-dt,dd {
+.dl-table dt, .dl-table dd {
   padding-bottom: $spacing-unit/3;
   padding-top: $spacing-unit/4;
 }
 
-dd {
+.dl-table dd {
   border-bottom: 1px solid $text-colour;
+  margin-bottom: 0;
 }
 
 // Inline list
@@ -160,12 +169,12 @@ dd {
 .list-inline {
   list-style: none;
   margin-left: 0;
+}
 
-  li {
-    display: inline-block;
-    margin-right: $spacing-unit/3;
-    margin-bottom: $spacing-unit/3;
-  }
+.list-inline__item {
+  display: inline-block;
+  margin-right: $spacing-unit/3;
+  margin-bottom: $spacing-unit/3;
 }
 
 // Pair list
