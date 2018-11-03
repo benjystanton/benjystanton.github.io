@@ -9,3 +9,5 @@ categories: NaBloPoMo release-notes
 - [file link](../../style-guide#file-link)
 - next and previous links
 - front matter
+- SSL
+- Image post
