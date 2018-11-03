@@ -6,7 +6,7 @@ categories: NaBloPoMo
 
 <p class="lede">Hello</p>
 
-<dl>
+<dl class="dl-table">
 {% for sids-words in site.data.sids-words %}
   <dt>{{ sids-words.English }}</dt>
   <dd>{{ sids-words.Sid }}</dd>
