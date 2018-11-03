@@ -6,30 +6,24 @@
   @extend .heading-xxlarge;
 }
 
-// charts
-.chart {
-  // width: 100%;
+// Progress bar
+
+.progress-bar {
+	height: $spacing-unit*3;
+	background: repeating-linear-gradient(
+  to right,
+  $text-colour,
+  $text-colour 1px,
+  #fff 1px,
+  #fff 3.3333333333%
+  );
+  padding: $spacing-unit/2 0;
+  margin-bottom: $spacing-unit;
+  box-shadow: 3px 0 0 $text-colour; // Use box shadow to create a border right that doesn't affect the width of the box
 }
 
-.chart__axis-label {
-  font-size: $small-font-size;
-  fill: $text-colour;
-}
-
-.chart__axis-label--white {
-  font-size: $small-font-size;
-  fill: $white-colour;
-}
-
-.chart__grid-line {
-  stroke: $light-grey-colour;
-  stroke-width: 1px;
-}
-
-.chart__grid-line--major {
-  stroke-width: 2px;
-}
-
-.chart__bar {
-  fill: $primary-colour;
+.progress-bar > span {
+  display: block;
+  height: 100%;
+  background-color: $text-colour;
 }
