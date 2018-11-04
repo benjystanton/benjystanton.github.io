@@ -1,8 +1,8 @@
 ---
 layout: page
-title: NaBloPoMo Progress
+title: NaBloPoMo progress
 categories: nablopomo
-excerpt: It's
+excerpt: It’s not a dashboard. Definitely not a dashboard.
 ---
 
 <p class="lede">NaBloPoMo stands for National Blog Posting Month. I’ve decided to join in this November and post something new every day.</p>
