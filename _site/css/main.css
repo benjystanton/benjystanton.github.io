@@ -124,29 +124,37 @@ li > ul,
 li > ol {
   margin-bottom: 0; }
 
-dl {
+dt {
+  font-weight: bold; }
+
+dd {
+  margin-bottom: 18px; }
+
+.dl-table {
   border-top: 1px solid #2e343b; }
 
-dt {
+.dl-table dt {
   float: left;
   clear: left;
   width: 50%;
   font-weight: bold; }
 
-dt, dd {
+.dl-table dt, .dl-table dd {
   padding-bottom: 12px;
   padding-top: 9px; }
 
-dd {
-  border-bottom: 1px solid #2e343b; }
+.dl-table dd {
+  border-bottom: 1px solid #2e343b;
+  margin-bottom: 0; }
 
 .list-inline {
   list-style: none;
   margin-left: 0; }
-  .list-inline li {
-    display: inline-block;
-    margin-right: 12px;
-    margin-bottom: 12px; }
+
+.list-inline__item {
+  display: inline-block;
+  margin-right: 12px;
+  margin-bottom: 12px; }
 
 .list-pairs {
   list-style: none;
@@ -204,6 +212,12 @@ html {
 
 .margin-top--m {
   margin-top: 72px; }
+
+.margin-right--s {
+  margin-right: 36px; }
+
+.margin-right--m {
+  margin-right: 72px; }
 
 .margin-bottom--0 {
   margin-bottom: 0; }
@@ -443,23 +457,17 @@ caption {
   display: block;
   line-height: 1; }
 
-.chart__axis-label {
-  font-size: 16px;
-  fill: #2e343b; }
+.progress-bar {
+  height: 108px;
+  background: repeating-linear-gradient(to right, #2e343b, #2e343b 1px, #fff 1px, #fff 3.3333333333%);
+  padding: 18px 0;
+  margin-bottom: 36px;
+  box-shadow: 3px 0 0 #2e343b; }
 
-.chart__axis-label--white {
-  font-size: 16px;
-  fill: #ffffff; }
-
-.chart__grid-line {
-  stroke: #e4e7ea;
-  stroke-width: 1px; }
-
-.chart__grid-line--major {
-  stroke-width: 2px; }
-
-.chart__bar {
-  fill: #007575; }
+.progress-bar > span {
+  display: block;
+  height: 100%;
+  background-color: #2e343b; }
 
 pre,
 code {
