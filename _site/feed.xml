@@ -5,9 +5,34 @@
     <description>Interaction Designer. Family Man. Music Snob.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 05 Nov 2018 20:45:41 +0000</pubDate>
-    <lastBuildDate>Mon, 05 Nov 2018 20:45:41 +0000</lastBuildDate>
+    <pubDate>Tue, 06 Nov 2018 20:53:45 +0000</pubDate>
+    <lastBuildDate>Tue, 06 Nov 2018 20:53:45 +0000</lastBuildDate>
     <generator>Jekyll v3.8.4</generator>
+    
+      <item>
+        <title>New design team retro</title>
+        <description>&lt;p class=&quot;lede&quot;&gt;Here's a snippet from an article I wrote for the ONS (Office for National Statistics) digital blog:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;This year we’ve interviewed, hired and welcomed six new interaction and graphic designers to the Digital Publishing team at ONS (Office for National Statistics). A few weeks ago I ran an anonymous retrospective to review the whole hiring process and their first few weeks and months.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://digitalblog.ons.gov.uk/2018/11/06/things-we-learnt-when-we-hired-6-designers-at-the-same-time/&quot;&gt;Read the full article on the ONS digital blog&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I also learnt not to use the word onboarding. &lt;a href=&quot;https://twitter.com/robchamberspfc/status/1059907595991945217&quot;&gt;Joining&lt;/a&gt; or &lt;a href=&quot;https://twitter.com/avfletcher/status/1059908570660114433&quot;&gt;induction&lt;/a&gt; is better.&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Sorry for using the word &amp;quot;onboarding&amp;quot; – it won&amp;#39;t happen again. &lt;a href=&quot;https://t.co/K70vTLIMsB&quot;&gt;https://t.co/K70vTLIMsB&lt;/a&gt;&lt;/p&gt;&amp;mdash; Benjy Stanton (@benjystanton) &lt;a href=&quot;https://twitter.com/benjystanton/status/1059903687106158593?ref_src=twsrc%5Etfw&quot;&gt;November 6, 2018&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+</description>
+        <pubDate>Tue, 06 Nov 2018 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/new-design-team-retro/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/new-design-team-retro/</guid>
+        
+        
+        <category>nablopomo</category>
+        
+      </item>
     
       <item>
         <title>Work trips 2018</title>
@@ -46,14 +71,14 @@
 &lt;hr /&gt;
 
 &lt;ul class=&quot;list-inline&quot;&gt;
-&lt;li class=&quot;margin-right--m list-inline__item&quot;&gt;&lt;span class=&quot;big-number&quot;&gt;5 of 30&lt;/span&gt;
+&lt;li class=&quot;margin-right--m list-inline__item&quot;&gt;&lt;span class=&quot;big-number&quot;&gt;6 of 30&lt;/span&gt;
 &lt;span&gt;posts published&lt;/span&gt;&lt;/li&gt;
-&lt;li class=&quot;list-inline__item&quot;&gt;&lt;span class=&quot;big-number&quot;&gt;16%&lt;/span&gt;
+&lt;li class=&quot;list-inline__item&quot;&gt;&lt;span class=&quot;big-number&quot;&gt;20%&lt;/span&gt;
 &lt;span&gt;complete&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;div class=&quot;progress-bar&quot;&gt;
-  &lt;span style=&quot;width: 16.666666666666664%&quot;&gt;&lt;/span&gt;
+  &lt;span style=&quot;width: 20.0%&quot;&gt;&lt;/span&gt;
 &lt;/div&gt;
 
 &lt;hr /&gt;
@@ -620,40 +645,6 @@ title: 9 miles to Glasto
         
         
         <category>ux</category>
-        
-      </item>
-    
-      <item>
-        <title>August 2018 bookmarks</title>
-        <description>&lt;ul class=&quot;list-pairs&quot;&gt;
-  
-  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
-    
-    &lt;a href=&quot;https://blog.datawrapper.de/colorguide/index.html&quot;&gt;Your Friendly Guide to Colors in Data Visualisation&lt;/a&gt;
-    &lt;/span&gt;
-    &lt;br /&gt;Once upon a time, I tweeted on an urgent matter. “Can somebody tell me how to get better with color?” I wrote.&quot; My color decisions are awful.&quot; I got a lot of replies with links to tools. They were awesome, so I collected them in a blog post.&lt;/li&gt;
-  
-  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
-    
-    &lt;a href=&quot;https://www.youtube.com/watch?v=2DLK3qK2aw0&quot;&gt;Blocked from benefits ... literally&lt;/a&gt;
-    &lt;/span&gt;
-    &lt;br /&gt;Jaki has been living without disability benefits for almost a year. When she applied for employment and support allowance, she had to attend a work capability assessment. After an hour's journey, she found she was not able to access the testing centre. Her experience is not unique.&lt;/li&gt;
-  
-  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
-    
-    &lt;a href=&quot;https://ethanmarcotte.com/wrote/accessibility-is-not-a-feature/&quot;&gt;Accessibility is not a feature. — ethanmarcotte.com&lt;/a&gt;
-    &lt;/span&gt;
-    &lt;br /&gt;I care pretty deeply about accessible design. I wouldn’t call myself an accessibility specialist, mind you, but I’ve always felt that “designing for the web” means ensuring our work is accessible as broadly as possible.&lt;/li&gt;
-  
-&lt;/ul&gt;
-
-</description>
-        <pubDate>Thu, 06 Sep 2018 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/blog/aug-2018-links/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/aug-2018-links/</guid>
-        
-        
-        <category>links</category>
         
       </item>
     
