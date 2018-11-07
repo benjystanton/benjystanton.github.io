@@ -187,7 +187,7 @@ dd {
 .list-pairs li {
   margin-bottom: $spacing-unit/2;
   @include media-query($medium) {
-    margin-bottom: $spacing-unit;
+    margin-bottom: $spacing-unit/2;
   }
 }
 
@@ -199,7 +199,7 @@ dd {
 
 hr {
   border: 0;
-  border-bottom: 1px solid $light-grey-colour;
+  border-bottom: $spacing-unit/4 solid $text-colour;
   margin: $spacing-unit 0;
   @include media-query($medium) {
     margin: $spacing-unit*2 0;

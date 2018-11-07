@@ -5,21 +5,91 @@
     <description>Interaction Designer. Family Man. Music Snob.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 07 Nov 2018 15:23:11 +0000</pubDate>
-    <lastBuildDate>Wed, 07 Nov 2018 15:23:11 +0000</lastBuildDate>
+    <pubDate>Wed, 07 Nov 2018 15:46:29 +0000</pubDate>
+    <lastBuildDate>Wed, 07 Nov 2018 15:46:29 +0000</lastBuildDate>
     <generator>Jekyll v3.8.4</generator>
     
       <item>
         <title>Good coffee in places we go for meetings and user research</title>
-        <description>&lt;p class=&quot;lede&quot;&gt;Sometimes you want a Greggs, sometimes you want a good, independent, artisanal coffee shop.&lt;/p&gt;
+        <description>&lt;p class=&quot;lede&quot;&gt;Sometimes you want a Greggs, but sometimes you want a good, independent, artisanal coffee shop. Greggs are easy to find, but good coffee shops are more tricky.&lt;/p&gt;
 
-&lt;p&gt;Greggs are easy to find, but good coffee shops are more tricky.&lt;/p&gt;
+&lt;hr /&gt;
 
-&lt;p&gt;Here’s our &lt;a href=&quot;https://docs.google.com/spreadsheets/d/1mXwoRE_Ws280rLevbXKl1bzbDl1cfmVD63OLY-lfwrk/edit?usp=sharing&quot;&gt;list of good places to get coffee&lt;/a&gt; when we travel for meetings and user research.&lt;/p&gt;
+&lt;h2 id=&quot;our-mostly-andys-list-of-coffee-shops&quot;&gt;Our (mostly &lt;a href=&quot;https://twitter.com/mr_dudders&quot;&gt;Andy’s&lt;/a&gt;) list of coffee shops&lt;/h2&gt;
 
-&lt;p&gt;It’s an editable Google Sheet, so feel free to add your own.&lt;/p&gt;
+&lt;ul class=&quot;list-pairs&quot;&gt;
+  
+  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
+    
+    &lt;a href=&quot;http://www.booksandbeans.co.uk&quot;&gt;Books and Beans&lt;/a&gt;
+    &lt;/span&gt;
+    &lt;br /&gt;Aberdeen &lt;/li&gt;
+  
+  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
+    
+    &lt;a href=&quot;https://www.cairngormcoffee.com&quot;&gt;Cairngorm Coffee&lt;/a&gt;
+    &lt;/span&gt;
+    &lt;br /&gt;Edinburgh &lt;/li&gt;
+  
+  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
+    
+    &lt;a href=&quot;https://explodingbakery.com/&quot;&gt;Exploding Bakery&lt;/a&gt;
+    &lt;/span&gt;
+    &lt;br /&gt;Exeter&lt;/li&gt;
+  
+  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
+    
+    &lt;a href=&quot;https://m.facebook.com/foundrycoffeeroasterscoffeeshop/&quot;&gt;Foundry &lt;/a&gt;
+    &lt;/span&gt;
+    &lt;br /&gt;Sheffield &lt;/li&gt;
+  
+  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
+    
+    &lt;a href=&quot;http://kioskafe.com&quot;&gt;Kioskafe&lt;/a&gt;
+    &lt;/span&gt;
+    &lt;br /&gt;London Paddington&lt;/li&gt;
+  
+  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
+    
+    &lt;a href=&quot;https://twitter.com/siopshop&quot;&gt;Siop Shop&lt;/a&gt;
+    &lt;/span&gt;
+    &lt;br /&gt;Manchester&lt;/li&gt;
+  
+  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
+    
+    &lt;a href=&quot;https://www.smallstreetespresso.co.uk&quot;&gt;Small Street&lt;/a&gt;
+    &lt;/span&gt;
+    &lt;br /&gt;Bristol&lt;/li&gt;
+  
+  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
+    
+    &lt;a href=&quot;http://takkmcr.com&quot;&gt;Takk&lt;/a&gt;
+    &lt;/span&gt;
+    &lt;br /&gt;Manchester &lt;/li&gt;
+  
+  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
+    
+    &lt;a href=&quot;https://www.thepocket.coffee&quot;&gt;The Pocket&lt;/a&gt;
+    &lt;/span&gt;
+    &lt;br /&gt;Belfast&lt;/li&gt;
+  
+  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
+    
+    &lt;a href=&quot;http://workhousecoffee.co.uk/&quot;&gt;Workhouse Coffee&lt;/a&gt;
+    &lt;/span&gt;
+    &lt;br /&gt;Reading&lt;/li&gt;
+  
+  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
+    
+    &lt;a href=&quot;https://www.yorkscafe.co.uk&quot;&gt;Yorks&lt;/a&gt;
+    &lt;/span&gt;
+    &lt;br /&gt;Birmingham&lt;/li&gt;
+  
+&lt;/ul&gt;
 
-&lt;p&gt;(Thanks to &lt;a href=&quot;https://twitter.com/benjystanton/status/1060140366698033152&quot;&gt;@mr_dudders for the inspiration&lt;/a&gt;)&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/spreadsheets/d/1mXwoRE_Ws280rLevbXKl1bzbDl1cfmVD63OLY-lfwrk/edit?usp=sharing&quot;&gt;Add your own to this list&lt;/a&gt;. It’s an open, editable Google Sheet. This web page won’t automatically update though. I’ll do that every now and then.&lt;/p&gt;
 </description>
         <pubDate>Wed, 07 Nov 2018 00:00:00 +0000</pubDate>
         <link>http://localhost:4000/blog/good-coffee-in-places-we-go-for-meetings-and-user-research/</link>

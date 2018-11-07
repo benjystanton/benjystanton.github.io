@@ -164,14 +164,14 @@ dd {
   margin-bottom: 18px; }
   @media screen and (min-width: 660px) {
     .list-pairs li {
-      margin-bottom: 36px; } }
+      margin-bottom: 18px; } }
 
 .list-pairs__name {
   font-weight: bold; }
 
 hr {
   border: 0;
-  border-bottom: 1px solid #e4e7ea;
+  border-bottom: 9px solid #2e343b;
   margin: 36px 0; }
   @media screen and (min-width: 660px) {
     hr {
