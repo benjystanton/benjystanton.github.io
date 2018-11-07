@@ -5,8 +5,8 @@
     <description>Interaction Designer. Family Man. Music Snob.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 07 Nov 2018 15:46:29 +0000</pubDate>
-    <lastBuildDate>Wed, 07 Nov 2018 15:46:29 +0000</lastBuildDate>
+    <pubDate>Wed, 07 Nov 2018 15:52:57 +0000</pubDate>
+    <lastBuildDate>Wed, 07 Nov 2018 15:52:57 +0000</lastBuildDate>
     <generator>Jekyll v3.8.4</generator>
     
       <item>
@@ -60,6 +60,12 @@
     &lt;a href=&quot;https://www.smallstreetespresso.co.uk&quot;&gt;Small Street&lt;/a&gt;
     &lt;/span&gt;
     &lt;br /&gt;Bristol&lt;/li&gt;
+  
+  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
+    
+    &lt;a href=&quot;https://www.squarepeg.org.uk/&quot;&gt;Square Peg&lt;/a&gt;
+    &lt;/span&gt;
+    &lt;br /&gt;Swansea&lt;/li&gt;
   
   &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
     
