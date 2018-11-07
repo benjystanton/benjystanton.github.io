@@ -5,9 +5,30 @@
     <description>Interaction Designer. Family Man. Music Snob.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 06 Nov 2018 20:53:45 +0000</pubDate>
-    <lastBuildDate>Tue, 06 Nov 2018 20:53:45 +0000</lastBuildDate>
+    <pubDate>Wed, 07 Nov 2018 15:23:11 +0000</pubDate>
+    <lastBuildDate>Wed, 07 Nov 2018 15:23:11 +0000</lastBuildDate>
     <generator>Jekyll v3.8.4</generator>
+    
+      <item>
+        <title>Good coffee in places we go for meetings and user research</title>
+        <description>&lt;p class=&quot;lede&quot;&gt;Sometimes you want a Greggs, sometimes you want a good, independent, artisanal coffee shop.&lt;/p&gt;
+
+&lt;p&gt;Greggs are easy to find, but good coffee shops are more tricky.&lt;/p&gt;
+
+&lt;p&gt;Here’s our &lt;a href=&quot;https://docs.google.com/spreadsheets/d/1mXwoRE_Ws280rLevbXKl1bzbDl1cfmVD63OLY-lfwrk/edit?usp=sharing&quot;&gt;list of good places to get coffee&lt;/a&gt; when we travel for meetings and user research.&lt;/p&gt;
+
+&lt;p&gt;It’s an editable Google Sheet, so feel free to add your own.&lt;/p&gt;
+
+&lt;p&gt;(Thanks to &lt;a href=&quot;https://twitter.com/benjystanton/status/1060140366698033152&quot;&gt;@mr_dudders for the inspiration&lt;/a&gt;)&lt;/p&gt;
+</description>
+        <pubDate>Wed, 07 Nov 2018 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/good-coffee-in-places-we-go-for-meetings-and-user-research/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/good-coffee-in-places-we-go-for-meetings-and-user-research/</guid>
+        
+        
+        <category>nablopomo</category>
+        
+      </item>
     
       <item>
         <title>New design team retro</title>
@@ -38,7 +59,7 @@
         <title>Work trips 2018</title>
         <description>&lt;p class=&quot;lede&quot;&gt;Inspired by people like &lt;a href=&quot;https://twitter.com/AldaviesAlison&quot;&gt;Al&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/dasbarrett&quot;&gt;Dan&lt;/a&gt;, I've been making a note of all my work trips this year. Here’s a run down of the key things I spotted after looking back at my notes…&lt;/p&gt;
 
-&lt;p&gt;In 2018 I went on 13 work trips.&lt;/p&gt;
+&lt;p&gt;In 2018 I went on 14 work trips.&lt;/p&gt;
 
 &lt;p&gt;I travelled to 7 different locations – London, Birmingham, Titchfield, Cardiff, Edinburgh, Exeter and Manchester.&lt;/p&gt;
 
@@ -71,14 +92,14 @@
 &lt;hr /&gt;
 
 &lt;ul class=&quot;list-inline&quot;&gt;
-&lt;li class=&quot;margin-right--m list-inline__item&quot;&gt;&lt;span class=&quot;big-number&quot;&gt;6 of 30&lt;/span&gt;
+&lt;li class=&quot;margin-right--m list-inline__item&quot;&gt;&lt;span class=&quot;big-number&quot;&gt;7 of 30&lt;/span&gt;
 &lt;span&gt;posts published&lt;/span&gt;&lt;/li&gt;
-&lt;li class=&quot;list-inline__item&quot;&gt;&lt;span class=&quot;big-number&quot;&gt;20%&lt;/span&gt;
+&lt;li class=&quot;list-inline__item&quot;&gt;&lt;span class=&quot;big-number&quot;&gt;23%&lt;/span&gt;
 &lt;span&gt;complete&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;div class=&quot;progress-bar&quot;&gt;
-  &lt;span style=&quot;width: 20.0%&quot;&gt;&lt;/span&gt;
+  &lt;span style=&quot;width: 23.333333333333336%&quot;&gt;&lt;/span&gt;
 &lt;/div&gt;
 
 &lt;hr /&gt;
@@ -597,54 +618,6 @@ title: 9 miles to Glasto
         
         
         <category>accessibility</category>
-        
-      </item>
-    
-      <item>
-        <title>How to lead user-centred design</title>
-        <description>&lt;p class=&quot;lede&quot;&gt;My brief notes from the Government Digital Service (GDS) essentials of leadership training, run by &lt;a href=&quot;https://twitter.com/rebeccakemp&quot;&gt;Rebecca Kemp&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/Adewunmi&quot;&gt;Ade Adewunmi&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;tell-a-good-story&quot;&gt;Tell a good story&lt;/h2&gt;
-
-&lt;p&gt;Learn how to talk about what you and your team do.&lt;/p&gt;
-
-&lt;p&gt;Learn how to talk to people who aren’t familiar with user-centred design.&lt;/p&gt;
-
-&lt;p&gt;Help your team to talk about it too.&lt;/p&gt;
-
-&lt;p&gt;Make sure you can talk about your profession, and the product you are working on.&lt;/p&gt;
-
-&lt;h2 id=&quot;find-common-ground&quot;&gt;Find common ground&lt;/h2&gt;
-&lt;p&gt;Not everybody cares about user-centred design, so don’t be a purist.&lt;/p&gt;
-
-&lt;p&gt;You only have to convince people enough to let you do your job, you don’t have to convert them.&lt;/p&gt;
-
-&lt;p&gt;Acknowledge other peoples’ expertise.&lt;/p&gt;
-
-&lt;p&gt;Work to find common ground, almost everyone wants to improve the service they’re working on in some way. Learn how to talk about things in a way that they can relate to.&lt;/p&gt;
-
-&lt;p&gt;Be pragmatic. What concrete steps can you take to improve the service? Making everything better for everyone at the same time is impossible.&lt;/p&gt;
-
-&lt;p&gt;Learn how much things cost, and show people what savings can be made.&lt;/p&gt;
-
-&lt;h2 id=&quot;look-after-your-team-and-yourself&quot;&gt;Look after your team (and yourself)&lt;/h2&gt;
-
-&lt;p&gt;Protect your team from things that can disrupt their flow.&lt;/p&gt;
-
-&lt;p&gt;Make decisions for them (when they need you to).&lt;/p&gt;
-
-&lt;p&gt;Leading can be exhausting. It requires a lot of emotional labour. Find things that you can do to recharge. Plan at least one of these things into your schedule every week.&lt;/p&gt;
-
-&lt;p&gt;Don’t let yourself burn out.&lt;/p&gt;
-
-&lt;p&gt;Speak to friends and mentors outside of your organisation.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 14 Sep 2018 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/blog/how-to-lead-user-centred-design/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/how-to-lead-user-centred-design/</guid>
-        
-        
-        <category>ux</category>
         
       </item>
     
