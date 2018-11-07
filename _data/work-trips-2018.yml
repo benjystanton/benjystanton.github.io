@@ -155,3 +155,14 @@
     - Exeter St Davids
     - Bristol Parkway
     - Swansea
+
+- destination: Reading
+  city: Reading
+  category: User research
+  month: November
+  outwardJourney:
+    - Swansea
+    - Reading
+  returnJourney:
+    - Reading
+    - Swansea
