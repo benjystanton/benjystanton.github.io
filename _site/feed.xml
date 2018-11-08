@@ -5,9 +5,70 @@
     <description>Interaction Designer. Family Man. Music Snob.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 07 Nov 2018 15:54:00 +0000</pubDate>
-    <lastBuildDate>Wed, 07 Nov 2018 15:54:00 +0000</lastBuildDate>
+    <pubDate>Thu, 08 Nov 2018 13:32:48 +0000</pubDate>
+    <lastBuildDate>Thu, 08 Nov 2018 13:32:48 +0000</lastBuildDate>
     <generator>Jekyll v3.8.4</generator>
+    
+      <item>
+        <title>Sid’s words</title>
+        <description>&lt;p class=&quot;lede&quot;&gt;Our 2 year old has a unique language. I’ve made a note of the most common words he uses, so we can remember them after he stops.&lt;/p&gt;
+
+&lt;dl class=&quot;dl-table&quot;&gt;
+
+  &lt;dt&gt;Hello&lt;/dt&gt;
+  &lt;dd&gt;Ay-oh&lt;/dd&gt;
+
+  &lt;dt&gt;Baby (as in himself)&lt;/dt&gt;
+  &lt;dd&gt;Bubba&lt;/dd&gt;
+
+  &lt;dt&gt;Milk&lt;/dt&gt;
+  &lt;dd&gt;Nooz&lt;/dd&gt;
+
+  &lt;dt&gt;Ice cream or yogurt&lt;/dt&gt;
+  &lt;dd&gt;A-nooz&lt;/dd&gt;
+
+  &lt;dt&gt;Car&lt;/dt&gt;
+  &lt;dd&gt;Boom-ba&lt;/dd&gt;
+
+  &lt;dt&gt;Sing&lt;/dt&gt;
+  &lt;dd&gt;Mah-moz&lt;/dd&gt;
+
+  &lt;dt&gt;Dance&lt;/dt&gt;
+  &lt;dd&gt;Nh-nh&lt;/dd&gt;
+
+  &lt;dt&gt;Sorry&lt;/dt&gt;
+  &lt;dd&gt;Yoy-oh&lt;/dd&gt;
+
+  &lt;dt&gt;Tummy&lt;/dt&gt;
+  &lt;dd&gt;Bdum-bdum&lt;/dd&gt;
+
+  &lt;dt&gt;Sweets&lt;/dt&gt;
+  &lt;dd&gt;Num-num&lt;/dd&gt;
+
+  &lt;dt&gt;Barf (as in bath)&lt;/dt&gt;
+  &lt;dd&gt;Water&lt;/dd&gt;
+
+  &lt;dt&gt;Jump&lt;/dt&gt;
+  &lt;dd&gt;Dump&lt;/dd&gt;
+
+&lt;/dl&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;http://localhost:4000/assets/sid-mirror-techniquest.jpg&quot; alt=&quot;A toddler looks at his distorted reflection in a round mirror.&quot; /&gt;
+  &lt;figcaption class=&quot;text-small&quot;&gt;
+    Sid playing with a mirror at Techniquest, Cardiff
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+</description>
+        <pubDate>Thu, 08 Nov 2018 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/sids-words/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/sids-words/</guid>
+        
+        
+        <category>nablopomo</category>
+        
+      </item>
     
       <item>
         <title>Good coffee in places we go for meetings and user research</title>
@@ -168,14 +229,14 @@
 &lt;hr /&gt;
 
 &lt;ul class=&quot;list-inline&quot;&gt;
-&lt;li class=&quot;margin-right--m list-inline__item&quot;&gt;&lt;span class=&quot;big-number&quot;&gt;7 of 30&lt;/span&gt;
+&lt;li class=&quot;margin-right--m list-inline__item&quot;&gt;&lt;span class=&quot;big-number&quot;&gt;8 of 30&lt;/span&gt;
 &lt;span&gt;posts published&lt;/span&gt;&lt;/li&gt;
-&lt;li class=&quot;list-inline__item&quot;&gt;&lt;span class=&quot;big-number&quot;&gt;23%&lt;/span&gt;
+&lt;li class=&quot;list-inline__item&quot;&gt;&lt;span class=&quot;big-number&quot;&gt;26%&lt;/span&gt;
 &lt;span&gt;complete&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;div class=&quot;progress-bar&quot;&gt;
-  &lt;span style=&quot;width: 23.333333333333336%&quot;&gt;&lt;/span&gt;
+  &lt;span style=&quot;width: 26.666666666666664%&quot;&gt;&lt;/span&gt;
 &lt;/div&gt;
 
 &lt;hr /&gt;
@@ -569,131 +630,6 @@ title: 9 miles to Glasto
         
         
         <category>design</category>
-        
-      </item>
-    
-      <item>
-        <title>A plan for accessible charts</title>
-        <description>&lt;p class=&quot;lede&quot;&gt;A list of user research findings, accessibility report findings, best practice, resources and good ideas that I’ve collected over the past 2 years.&lt;/p&gt;
-
-&lt;p&gt;The next step is to create some prototype charts and start iterating. But I wanted to write-up and share the work so far, in case it’s useful to others.&lt;/p&gt;
-
-&lt;h2 id=&quot;colour&quot;&gt;Colour&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Check colour meets contrast standards&lt;/li&gt;
-  &lt;li&gt;Don’t use colour alone to convey meaning&lt;/li&gt;
-  &lt;li&gt;Consider colour blind users (use colour blind simulators to check)&lt;/li&gt;
-  &lt;li&gt;Charts should be readable in black and white&lt;/li&gt;
-  &lt;li&gt;Check design works in high contrast mode&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;line-and-bar-style&quot;&gt;Line and bar style&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Consider using patterns or textures to distinguish bars and lines&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.w3.org/WAI/GL/low-vision-a11y-tf/wiki/Informational_Graphic_Contrast_(Minimum)&quot;&gt;Increase minimum size of elements in chart&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Label the data directly (instead of a separate keys or legend)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;present-data-in-alternative-ways&quot;&gt;Present data in alternative ways&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Use titles and descriptions to support the chart&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.gov.uk/government/publications/government-digital-strategy/government-digital-strategy#people-who-are-already-online&quot;&gt;Allow users to view data in an html table&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Allow users to download the data as a spreadsheet&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;interactive-elements&quot;&gt;Interactive elements&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Interactive elements must have affordance (for example, links should be blue with an underline)&lt;/li&gt;
-  &lt;li&gt;Make sure interactive elements are usable without a mouse&lt;/li&gt;
-  &lt;li&gt;All interactive elements should have a focus style&lt;/li&gt;
-  &lt;li&gt;Tool tips can help some users to read charts, especially users with cognitive conditions&lt;/li&gt;
-  &lt;li&gt;Download links labels must include file format and size&lt;/li&gt;
-  &lt;li&gt;Headings, links and button text must be unique and descriptive&lt;/li&gt;
-  &lt;li&gt;If an experience cannot be made accessible, create another route for users to get that information&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;typography&quot;&gt;Typography&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Use a minimum font size&lt;/li&gt;
-  &lt;li&gt;Use consistent font and spacing&lt;/li&gt;
-  &lt;li&gt;Lines are less than 80 characters wide&lt;/li&gt;
-  &lt;li&gt;Avoid italics and block capitals&lt;/li&gt;
-  &lt;li&gt;Use a san-serif font with thick letters&lt;/li&gt;
-  &lt;li&gt;Make sure text can be resized&lt;/li&gt;
-  &lt;li&gt;Test the content doesn’t overflow or become truncated when font size is increased&lt;/li&gt;
-  &lt;li&gt;Nest headings in order (for example, H2s only appear after H1s)&lt;/li&gt;
-  &lt;li&gt;Don’t skip heading levels&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;layout&quot;&gt;Layout&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Design with a mobile-first mindset&lt;/li&gt;
-  &lt;li&gt;Use a consistent design&lt;/li&gt;
-  &lt;li&gt;Use simple, well known chart types that users are more likely to understand&lt;/li&gt;
-  &lt;li&gt;Create a limited number of reusable templates&lt;/li&gt;
-  &lt;li&gt;Strive to use a simple design&lt;/li&gt;
-  &lt;li&gt;Reading and navigation order is logical&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;svgs&quot;&gt;SVGs&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Use SVG because they are scalable&lt;/li&gt;
-  &lt;li&gt;Users can zoom in and they won’t become pixellated&lt;/li&gt;
-  &lt;li&gt;Structure the SVG carefully, so that it makes use of their accessible powers&lt;/li&gt;
-  &lt;li&gt;Use ARIA tags to improve accessibility&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.sitepoint.com/tips-accessible-svg/&quot;&gt;Tips for Creating Accessible SVG&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://decks.tink.uk/2017/lws/index.html#cover&quot;&gt;Making SVG accessible&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://tink.uk/accessible-svg-line-graphs/&quot;&gt;Accessible SVG line graphs&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://css-tricks.com/how-to-make-charts-with-svg/&quot;&gt;How to Make Charts with SVG&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;html-mark-up&quot;&gt;HTML mark-up&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Use &lt;code class=&quot;highlighter-rouge&quot;&gt;figure&lt;/code&gt; element to wrap the chart&lt;/li&gt;
-  &lt;li&gt;Use &lt;code class=&quot;highlighter-rouge&quot;&gt;figcaption&lt;/code&gt; for the chart title&lt;/li&gt;
-  &lt;li&gt;Use &lt;code class=&quot;highlighter-rouge&quot;&gt;footer&lt;/code&gt; inside the &lt;code class=&quot;highlighter-rouge&quot;&gt;figure&lt;/code&gt; element to contain any notes or citation information&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;other-resources&quot;&gt;Other resources&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://accessibility.psu.edu/images/charts/&quot;&gt;Charts &amp;amp; Accessibility&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.ontario.ca/document/ontario-design-guide/charts&quot;&gt;Charts, graphs and infographics&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://colorbrewer2.org/#type=sequential&amp;amp;scheme=BuGn&amp;amp;n=3&quot;&gt;Color brewer&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.highcharts.com/a11y.html&quot;&gt;Highcharts accessibility demos&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://webaim.org/resources/contrastchecker/&quot;&gt;Color Contrast Checker&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://colororacle.org/&quot;&gt;Color Oracle&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://michelf.ca/projects/sim-daltonism/&quot;&gt;Sim Daltonism colour blindness simulator&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://littlebigdetails.com/post/35775193711/trello-color-blind-friendly-mode-makes&quot;&gt;Trello - Color Blind Friendly Mode&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://24ways.org/2012/colour-accessibility&quot;&gt;Colour Accessibility&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/@sidgtl/designing-for-colour-blindness-b74a9d012ef2&quot;&gt;Designing for Colour Blindness&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;examples-of-charts-across-uk-government-services&quot;&gt;Examples of charts across UK government services&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.ethnicity-facts-figures.service.gov.uk/&quot;&gt;Ethnicity facts and figures&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://gds.blog.gov.uk/2012/11/12/updating-performance-dashboard/&quot;&gt;Updating the GOV.UK Performance Dashboard&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.gov.uk/performance&quot;&gt;GOV.UK Performance Dashboards&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/alphagov/magna-charta&quot;&gt;Magna Charta repo&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://alphagov.github.io/magna-charta/&quot;&gt;Magna Charta demo&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.gov.uk/government/news/uk-export-finance-annual-report-and-accounts-published&quot;&gt;UK Export Finance: annual report and accounts published&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Mon, 17 Sep 2018 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/blog/a-plan-for-accessible-charts/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/a-plan-for-accessible-charts/</guid>
-        
-        
-        <category>accessibility</category>
         
       </item>
     
