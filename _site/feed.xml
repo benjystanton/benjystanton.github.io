@@ -5,8 +5,8 @@
     <description>Interaction Designer. Family Man. Music Snob.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 08 Nov 2018 18:29:16 +0000</pubDate>
-    <lastBuildDate>Thu, 08 Nov 2018 18:29:16 +0000</lastBuildDate>
+    <pubDate>Thu, 08 Nov 2018 18:31:21 +0000</pubDate>
+    <lastBuildDate>Thu, 08 Nov 2018 18:31:21 +0000</lastBuildDate>
     <generator>Jekyll v3.8.4</generator>
     
       <item>
@@ -114,6 +114,18 @@
   
   &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
     
+    &lt;a href=&quot;http://www.mccunesmith.co.uk/&quot;&gt;McCune Smith&lt;/a&gt;
+    &lt;/span&gt;
+    &lt;br /&gt;Glasgow&lt;/li&gt;
+  
+  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
+    
+    &lt;a href=&quot;http://quayingredient.co.uk/&quot;&gt;Quay Ingredient&lt;/a&gt;
+    &lt;/span&gt;
+    &lt;br /&gt;Newcastle&lt;/li&gt;
+  
+  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
+    
     &lt;a href=&quot;https://twitter.com/siopshop&quot;&gt;Siop Shop&lt;/a&gt;
     &lt;/span&gt;
     &lt;br /&gt;Manchester&lt;/li&gt;
@@ -141,6 +153,12 @@
     &lt;a href=&quot;https://www.thepocket.coffee&quot;&gt;The Pocket&lt;/a&gt;
     &lt;/span&gt;
     &lt;br /&gt;Belfast&lt;/li&gt;
+  
+  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
+    
+    &lt;a href=&quot;https://trevesandhyde.com/&quot;&gt;Treves &amp;amp; Hyde&lt;/a&gt;
+    &lt;/span&gt;
+    &lt;br /&gt;London Aldgate East&lt;/li&gt;
   
   &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
     
