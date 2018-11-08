@@ -5,8 +5,8 @@
     <description>Interaction Designer. Family Man. Music Snob.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 08 Nov 2018 13:39:14 +0000</pubDate>
-    <lastBuildDate>Thu, 08 Nov 2018 13:39:14 +0000</lastBuildDate>
+    <pubDate>Thu, 08 Nov 2018 18:29:16 +0000</pubDate>
+    <lastBuildDate>Thu, 08 Nov 2018 18:29:16 +0000</lastBuildDate>
     <generator>Jekyll v3.8.4</generator>
     
       <item>
@@ -200,7 +200,7 @@
 
 &lt;p&gt;In 2018 I went on 14 work trips.&lt;/p&gt;
 
-&lt;p&gt;I travelled to 7 different locations – London, Birmingham, Titchfield, Cardiff, Edinburgh, Exeter and Manchester.&lt;/p&gt;
+&lt;p&gt;I travelled to 8 different locations – Birmingham, Cardiff, Edinburgh, Exeter, London, Manchester, Reading, Titchfield.&lt;/p&gt;
 
 &lt;p&gt;I visited London the most – 5 times. Most of my trips to London were to visit Government Digital Service (GDS).&lt;/p&gt;
 
@@ -208,9 +208,7 @@
 
 &lt;p&gt;My busiest months were February, May and September. I made 3 trips in each of these months.&lt;/p&gt;
 
-&lt;p&gt;All trips involved train travel. My favourite station for catching connections was Bristol Parkway.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://github.com/benjystanton/benjystanton.github.io/blob/master/_data/work-trips-2018.yml&quot;&gt;View the raw data – YML 3KB&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://raw.githubusercontent.com/benjystanton/benjystanton.github.io/master/_data/work-trips-2018.yml&quot;&gt;View the raw data – YML 3KB&lt;/a&gt;&lt;/p&gt;
 
 </description>
         <pubDate>Mon, 05 Nov 2018 00:00:00 +0000</pubDate>

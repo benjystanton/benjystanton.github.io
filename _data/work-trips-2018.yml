@@ -2,167 +2,98 @@
 
 - destination: One Team Gov in Wales
   city: Cardiff
-  category: Training and conferences
+  category: training and conferences
   month: January
-  outwardJourney:
-    - Swansea
-    - Cardiff Central
-  returnJourney:
-    - Cardiff Central
-    - Swansea
+  from: Swansea
+  to: Cardiff Central
 
 - destination: Birmingham city centre hotel
   city: Birmingham
-  category: User research
+  category: user research
   month: January
-  outwardJourney:
-    - Swansea
-    - Bristol Parkway
-    - Birmingham New Street
-  returnJourney:
-    - Birmingham New Street
-    - Newport (South Wales)
-    - Swansea
+  from: Swansea
+  to: Birmingham New Street
 
 - destination: BBC
   city: London
-  category: Training and conferences
+  category: training and conferences
   month: February
-  outwardJourney:
-    - Swansea
-    - London Paddington
-  returnJourney:
-    - London Paddington
-    - Swansea
+  from: Swansea
+  to: London Paddington
 
 - destination: Manchester city centre hotel
   city: Manchester
-  category: User research
+  category: user research
   month: February
-  outwardJourney:
-    - Swansea
-    - Bristol Parkway
-    - Manchester Picadilly
-  returnJourney:
-    - Manchester Picadilly
-    - Bristol Parkway
-    - Swansea
+  from: Swansea
+  to: Manchester Picadilly
 
 - destination: Office for National Statistics (ONS)
   city: Titchfield
-  category: Meeting
+  category: meetings
   month: February
-  outwardJourney:
-    - Swansea
-    - Cardiff Central
-    - Fareham
-  returnJourney:
-    - Fareham
-    - Newport (South Wales)
-    - Swansea
+  from: Swansea
+  to: Fareham
 
 - destination: Edinburgh city centre hotel
   city: Edinburgh
-  category: User research
+  category: user research
   month: March
-  outwardJourney:
-    - Swansea
-    - Bristol Parkway
-    - Edinburgh Waverley
-  returnJourney:
-    - Edinburgh Waverley
-    - Newcastle
-    - Birmingham New Street
-    - Bristol Parkway
-    - Swansea
+  from: Swansea
+  to: Edinburgh Waverley
 
 - destination: Birmingham city centre hotel
   city: Birmingham
-  category: User research
+  category: user research
   month: May
-  outwardJourney:
-    - Swansea
-    - Bristol Parkway
-    - Birmingham New Street
-  returnJourney:
-    - Birmingham New Street
-    - Newport (South Wales)
-    - Swansea
+  from: Swansea
+  to: Birmingham New Street
 
 - destination: Government Digital Service (GDS)
   city: London
-  category: Training and conferences
+  category: training and conferences
   month: May
-  outwardJourney:
-    - Newport
-    - London Paddington
-  returnJourney:
-    - London Paddington
-    - Swansea
+  from: Newport
+  to: London Paddington
 
 - destination: Government Digital Service (GDS)
   city: London
-  category: Training and conferences
+  category: training and conferences
   month: May
-  outwardJourney:
-    - Swansea
-    - London Paddington
-  returnJourney:
-    - London Paddington
-    - Swansea
+  from: Swansea
+  to: London Paddington
 
 - destination: International Design in Goverment
   city: London
-  category: Training and conferences
+  category: training and conferences
   month: July
-  outwardJourney:
-    - Swansea
-    - Cardiff Central
-    - London Paddington
-  returnJourney:
-    - London Paddington
-    - Swansea
+  from: Newport
+  to: London Paddington
 
 - destination: Office for National Statistics (ONS)
   city: Titchfield
-  category: Meeting
+  category: meetings
   month: September
-  outwardJourney:
-    - Swansea
-    - Cardiff Central
-    - Fareham
-  returnJourney:
-    - Fareham
-    - Newport (South Wales)
-    - Swansea
+  from: Swansea
+  to: Fareham
 
 - destination: Government Digital Service (GDS)
   city: London
-  category: Training and conferences
+  category: training and conferences
   month: September
-  outwardJourney:
-    - Swansea
-    - London Paddington
+  from: Swansea
+  to: London Paddington
 
 - destination: Exeter
   city: Exeter
-  category: User research
+  category: user research
   month: September
-  outwardJourney:
-    - London Paddington
-    - Exeter St Davids
-  returnJourney:
-    - Exeter St Davids
-    - Bristol Parkway
-    - Swansea
+  from: London Paddington
+  to: Exeter St David
 
 - destination: Reading
   city: Reading
-  category: User research
+  category: user research
   month: November
-  outwardJourney:
-    - Swansea
-    - Reading
-  returnJourney:
-    - Reading
-    - Swansea
+  from: Swansea
+  to: Reading
