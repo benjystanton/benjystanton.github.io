@@ -5,9 +5,91 @@
     <description>Interaction Designer. Family Man. Music Snob.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 09 Nov 2018 19:10:09 +0000</pubDate>
-    <lastBuildDate>Fri, 09 Nov 2018 19:10:09 +0000</lastBuildDate>
+    <pubDate>Fri, 09 Nov 2018 19:16:14 +0000</pubDate>
+    <lastBuildDate>Fri, 09 Nov 2018 19:16:14 +0000</lastBuildDate>
     <generator>Jekyll v3.8.4</generator>
+    
+      <item>
+        <title>Articles I’ve written that have been published somewhere else</title>
+        <description>&lt;ul class=&quot;list-pairs&quot;&gt;
+  
+  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
+    
+    &lt;a href=&quot;https://digitalblog.ons.gov.uk/2018/11/06/things-we-learnt-when-we-hired-6-designers-at-the-same-time/&quot;&gt;Things we learnt when we hired six designers at the same time&lt;/a&gt;
+    &lt;/span&gt;
+    &lt;br /&gt;ONS Digital blog&lt;/li&gt;
+  
+  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
+    
+    &lt;a href=&quot;https://digitalblog.ons.gov.uk/2018/10/18/why-ons-needs-to-hire-service-designers/&quot;&gt;Why ONS needs to hire service designers&lt;/a&gt;
+    &lt;/span&gt;
+    &lt;br /&gt;ONS Digital blog&lt;/li&gt;
+  
+  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
+    
+    &lt;a href=&quot;https://digitalblog.ons.gov.uk/2017/12/18/were-hiring-designers/&quot;&gt;We’re hiring five graphic designers (and a front end developer)&lt;/a&gt;
+    &lt;/span&gt;
+    &lt;br /&gt;ONS Digital blog&lt;/li&gt;
+  
+  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
+    
+    &lt;a href=&quot;https://digitalblog.ons.gov.uk/2017/12/15/finding-data-by-location-my-first-design-sprint/&quot;&gt;Finding data by location (my first Design Sprint)&lt;/a&gt;
+    &lt;/span&gt;
+    &lt;br /&gt;ONS Digital blog&lt;/li&gt;
+  
+  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
+    
+    &lt;a href=&quot;https://digitalblog.ons.gov.uk/2017/10/27/building-a-design-culture-some-tips-from-leading-design-conference/&quot;&gt;Building a design culture, some tips from Leading Design Conference&lt;/a&gt;
+    &lt;/span&gt;
+    &lt;br /&gt;ONS Digital blog&lt;/li&gt;
+  
+  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
+    
+    &lt;a href=&quot;https://digitalblog.ons.gov.uk/2017/08/15/picking-things-from-a-long-list/&quot;&gt;Picking things from a long list&lt;/a&gt;
+    &lt;/span&gt;
+    &lt;br /&gt;ONS Digital blog&lt;/li&gt;
+  
+  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
+    
+    &lt;a href=&quot;https://digitalblog.ons.gov.uk/2017/01/16/enabling-users-to-customise-datasets/&quot;&gt;Enabling users to customise datasets&lt;/a&gt;
+    &lt;/span&gt;
+    &lt;br /&gt;ONS Digital blog&lt;/li&gt;
+  
+  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
+    
+    &lt;a href=&quot;https://digitalblog.ons.gov.uk/2016/11/15/getting-started-with-data-discovery/&quot;&gt;Getting started with Data Discovery&lt;/a&gt;
+    &lt;/span&gt;
+    &lt;br /&gt;ONS Digital blog&lt;/li&gt;
+  
+  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
+    
+    &lt;a href=&quot;https://digitalblog.ons.gov.uk/2016/10/21/my-first-week/&quot;&gt;My first week&lt;/a&gt;
+    &lt;/span&gt;
+    &lt;br /&gt;ONS Digital blog&lt;/li&gt;
+  
+  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
+    
+    &lt;a href=&quot;https://www.everydaydesigner.net/freelancing/tips-for-healthy-freelancing&quot;&gt;Tips for healthy freelancing&lt;/a&gt;
+    &lt;/span&gt;
+    &lt;br /&gt;Everyday Designer&lt;/li&gt;
+  
+  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
+    
+    &lt;a href=&quot;http://www.jamesgood.co.uk/blog/visit-eden-project&quot;&gt;A Visit To The Eden Project&lt;/a&gt;
+    &lt;/span&gt;
+    &lt;br /&gt;James Good&lt;/li&gt;
+  
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Fri, 09 Nov 2018 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/articles-ive-written-that-have-been-published-somewhere-else/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/articles-ive-written-that-have-been-published-somewhere-else/</guid>
+        
+        
+        <category>nablopomo</category>
+        
+      </item>
     
       <item>
         <title>Sid’s words</title>
@@ -247,14 +329,14 @@
 &lt;hr /&gt;
 
 &lt;ul class=&quot;list-inline&quot;&gt;
-&lt;li class=&quot;margin-right--m list-inline__item&quot;&gt;&lt;span class=&quot;big-number&quot;&gt;8 of 30&lt;/span&gt;
+&lt;li class=&quot;margin-right--m list-inline__item&quot;&gt;&lt;span class=&quot;big-number&quot;&gt;9 of 30&lt;/span&gt;
 &lt;span&gt;posts published&lt;/span&gt;&lt;/li&gt;
-&lt;li class=&quot;list-inline__item&quot;&gt;&lt;span class=&quot;big-number&quot;&gt;26%&lt;/span&gt;
+&lt;li class=&quot;list-inline__item&quot;&gt;&lt;span class=&quot;big-number&quot;&gt;30%&lt;/span&gt;
 &lt;span&gt;complete&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;div class=&quot;progress-bar&quot;&gt;
-  &lt;span style=&quot;width: 26.666666666666664%&quot;&gt;&lt;/span&gt;
+  &lt;span style=&quot;width: 30.0%&quot;&gt;&lt;/span&gt;
 &lt;/div&gt;
 
 &lt;hr /&gt;
@@ -576,78 +658,6 @@ title: 9 miles to Glasto
         
         
         <category>links</category>
-        
-      </item>
-    
-      <item>
-        <title>How to focus in open plan offices</title>
-        <description>&lt;p class=&quot;lede&quot;&gt;Earlier this week, I asked the Twitter hive mind for tips how to get focussed work done when working in open plan offices.&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Designers who work in open plan offices — how do you make space and time for focussed work?&lt;/p&gt;&amp;mdash; Benjy Stanton (@benjystanton) &lt;a href=&quot;https://twitter.com/benjystanton/status/1044599479721218048?ref_src=twsrc%5Etfw&quot;&gt;September 25, 2018&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;I got some great responses (thanks everyone!) so I’ve captured them here for prosperity…&lt;/p&gt;
-
-&lt;h2 id=&quot;put-on-some-headphones&quot;&gt;Put on some headphones&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Get some headphones&lt;/li&gt;
-  &lt;li&gt;The bigger the better&lt;/li&gt;
-  &lt;li&gt;Noise cancelling ones are good&lt;/li&gt;
-  &lt;li&gt;Listen to white noise&lt;/li&gt;
-  &lt;li&gt;Or don’t listen to anything – just wear them to discourage people from interrupting you&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;work-from-home&quot;&gt;Work from home&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;That’s it really, just work from home more&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;manage-your-calendar&quot;&gt;Manage your calendar&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Block out slots in your calendar&lt;/li&gt;
-  &lt;li&gt;Decline non-essential meetings&lt;/li&gt;
-  &lt;li&gt;Plan to do focussed work when you’re at your most productive – for me that’s early in the morning&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;stop-using-distracting-apps&quot;&gt;Stop using distracting apps&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Put do not disturb on Slack&lt;/li&gt;
-  &lt;li&gt;Turn your emails off&lt;/li&gt;
-  &lt;li&gt;Use &lt;a href=&quot;http://heyfocus.com/&quot;&gt;Focus app&lt;/a&gt; to help&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;get-away-from-your-desk&quot;&gt;Get away from your desk&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Book yourself a meeting room&lt;/li&gt;
-  &lt;li&gt;Use Skype pods and breakout spaces&lt;/li&gt;
-  &lt;li&gt;Hide in usability labs&lt;/li&gt;
-  &lt;li&gt;Find anywhere that’s quiet or tucked away&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;be-anti-social&quot;&gt;Be anti-social&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Scowl at people&lt;/li&gt;
-  &lt;li&gt;Put a hoodie on&lt;/li&gt;
-  &lt;li&gt;Put up ‘do not disturb’ signs&lt;/li&gt;
-  &lt;li&gt;Make sure people know you’re busy&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;look-after-yourself&quot;&gt;Look after yourself&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Working in distracting environments can be stressful&lt;/li&gt;
-  &lt;li&gt;Don’t ignore the problem&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Wed, 26 Sep 2018 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/blog/how-to-focus-in-open-plan-offices/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/how-to-focus-in-open-plan-offices/</guid>
-        
-        
-        <category>design</category>
         
       </item>
     
