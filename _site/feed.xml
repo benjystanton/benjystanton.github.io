@@ -5,9 +5,36 @@
     <description>Interaction Designer. Family Man. Music Snob.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 11 Nov 2018 15:07:24 +0000</pubDate>
-    <lastBuildDate>Sun, 11 Nov 2018 15:07:24 +0000</lastBuildDate>
+    <pubDate>Mon, 12 Nov 2018 18:49:00 +0000</pubDate>
+    <lastBuildDate>Mon, 12 Nov 2018 18:49:00 +0000</lastBuildDate>
     <generator>Jekyll v3.8.4</generator>
+    
+      <item>
+        <title>100 blog posts</title>
+        <description>&lt;p class=&quot;lede&quot;&gt;This is my 100th blog post.&lt;/p&gt;
+
+&lt;p&gt;I’ve been writing on some version of this blog since at least 2007. I’ve had 2 kids, 6 jobs and 2 houses since then.&lt;/p&gt;
+
+&lt;p&gt;It started out as a Wordpress blog with the Kubrick theme. &lt;a href=&quot;/blog/goodbye-wordpress/&quot;&gt;I switched to Jekyll 3 years ago&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I showed early hipster tendencies in 2010 by adding a &lt;a href=&quot;/about/2010-colophon/&quot;&gt;colophon&lt;/a&gt;. I used “Starkers” and “320 and Up” to build on back then (remember those?).&lt;/p&gt;
+
+&lt;p&gt;Over half of the 100 posts have been this year. I blame &lt;a href=&quot;https://twitter.com/mr_dudders&quot;&gt;Andy&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/dasbarrett&quot;&gt;Dan&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/jukesie&quot;&gt;Jukesie&lt;/a&gt; for encouraging this over-sharing.&lt;/p&gt;
+
+&lt;p&gt;I’m certain that my tendency to blog and tweet openly lead me to working at ONS. And I’ve left jobs in the past when I’ve felt stifled or blocked from blogging.&lt;/p&gt;
+
+&lt;p&gt;I feel lucky to work in a place where &lt;a href=&quot;https://digitalblog.ons.gov.uk/2018/10/18/why-ons-needs-to-hire-service-designers/&quot;&gt;I can write openly and honestly about my organisation&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Here’s to 100 more.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 12 Nov 2018 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/this-is-my-100th-blog-post/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/this-is-my-100th-blog-post/</guid>
+        
+        
+        <category>nablopomo</category>
+        
+      </item>
     
       <item>
         <title>Interaction design tools</title>
@@ -492,14 +519,14 @@
 &lt;hr /&gt;
 
 &lt;ul class=&quot;list-inline&quot;&gt;
-&lt;li class=&quot;margin-right--m list-inline__item&quot;&gt;&lt;span class=&quot;big-number&quot;&gt;11 of 30&lt;/span&gt;
+&lt;li class=&quot;margin-right--m list-inline__item&quot;&gt;&lt;span class=&quot;big-number&quot;&gt;12 of 30&lt;/span&gt;
 &lt;span&gt;posts published&lt;/span&gt;&lt;/li&gt;
-&lt;li class=&quot;list-inline__item&quot;&gt;&lt;span class=&quot;big-number&quot;&gt;36%&lt;/span&gt;
+&lt;li class=&quot;list-inline__item&quot;&gt;&lt;span class=&quot;big-number&quot;&gt;40%&lt;/span&gt;
 &lt;span&gt;complete&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;div class=&quot;progress-bar&quot;&gt;
-  &lt;span style=&quot;width: 36.666666666666664%&quot;&gt;&lt;/span&gt;
+  &lt;span style=&quot;width: 40.0%&quot;&gt;&lt;/span&gt;
 &lt;/div&gt;
 
 &lt;hr /&gt;
@@ -586,21 +613,6 @@ title: 9 miles to Glasto
         <category>nablopomo</category>
         
         <category>release-notes</category>
-        
-      </item>
-    
-      <item>
-        <title>9 miles to Glasto</title>
-        <description>
-</description>
-        <pubDate>Fri, 02 Nov 2018 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/9-miles-to-glasto/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/9-miles-to-glasto/</guid>
-        
-        
-        <category>images</category>
-        
-        <category>nablopomo</category>
         
       </item>
     
