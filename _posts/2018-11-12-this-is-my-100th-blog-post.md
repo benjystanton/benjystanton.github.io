@@ -7,7 +7,7 @@ excerpt: This is my 100th blog post. Here's to 100 more.
 
 <p class="lede">This is my 100th blog post.</p>
 
-I've been writing on some version of this blog since at least 2007. I've had 2 kids, 6 jobs and 2 houses since then.
+I've been writing on some version of this blog since at least 2007. I've had 3 kids, 6 jobs and 2 houses since then.
 
 It started out as a Wordpress blog with the Kubrick theme. [I switched to Jekyll 3 years ago]({{ site.baseurl }}/blog/goodbye-wordpress/).
 
