@@ -5,9 +5,55 @@
     <description>Interaction Designer. Family Man. Music Snob.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 12 Nov 2018 18:56:18 +0000</pubDate>
-    <lastBuildDate>Mon, 12 Nov 2018 18:56:18 +0000</lastBuildDate>
+    <pubDate>Tue, 13 Nov 2018 18:10:26 +0000</pubDate>
+    <lastBuildDate>Tue, 13 Nov 2018 18:10:26 +0000</lastBuildDate>
     <generator>Jekyll v3.8.4</generator>
+    
+      <item>
+        <title>How improving typography can us help to meet user needs</title>
+        <description>&lt;h2 id=&quot;what-is-typography&quot;&gt;What is typography?&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Typography isn’t the same a “choosing a font”.&lt;/li&gt;
+  &lt;li&gt;Typography is about improving the usability and readability of content.&lt;/li&gt;
+  &lt;li&gt;Typography is concerned with the layout, spacing, size, contrast, ordering and grouping of text.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;what-problems-does-good-typography-solve&quot;&gt;What problems does good typography solve?&lt;/h2&gt;
+&lt;p&gt;Good typography can help users to;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;navigate around a page&lt;/li&gt;
+  &lt;li&gt;understand the meaning of content&lt;/li&gt;
+  &lt;li&gt;understand the relationship between different bits of content&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;how-do-we-know-poor-typography-is-a-real-problem&quot;&gt;How do we know poor typography is a real problem?&lt;/h2&gt;
+&lt;p&gt;I’ve observed the following in usability testing;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;users get overwhelmed when presented with too much content&lt;/li&gt;
+  &lt;li&gt;users find it difficult to scan a pages and pick out information&lt;/li&gt;
+  &lt;li&gt;users squint, lean closer to the screen and complain about small text&lt;/li&gt;
+  &lt;li&gt;strong headings, clear and generous spacing and larger text helps users to scan text and find specific bits&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;how-can-we-tell-if-better-typography-is-solving-the-problem&quot;&gt;How can we tell if better typography is solving the problem?&lt;/h2&gt;
+&lt;p&gt;Through usability testing and collecting feedback, it should be possible to observe that;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;users are able to find the content they are looking for more easily&lt;/li&gt;
+  &lt;li&gt;users find the content easier to understand&lt;/li&gt;
+  &lt;li&gt;users with low vision will be able to read content more easily&lt;/li&gt;
+  &lt;li&gt;users are able to spend longer reading content&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Tue, 13 Nov 2018 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/how-improving-typography-can-help-us-to-meet-user-needs/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/how-improving-typography-can-help-us-to-meet-user-needs/</guid>
+        
+        
+        <category>nablopomo</category>
+        
+        <category>design</category>
+        
+      </item>
     
       <item>
         <title>100 blog posts</title>
@@ -519,14 +565,14 @@
 &lt;hr /&gt;
 
 &lt;ul class=&quot;list-inline&quot;&gt;
-&lt;li class=&quot;margin-right--m list-inline__item&quot;&gt;&lt;span class=&quot;big-number&quot;&gt;12 of 30&lt;/span&gt;
+&lt;li class=&quot;margin-right--m list-inline__item&quot;&gt;&lt;span class=&quot;big-number&quot;&gt;13 of 30&lt;/span&gt;
 &lt;span&gt;posts published&lt;/span&gt;&lt;/li&gt;
-&lt;li class=&quot;list-inline__item&quot;&gt;&lt;span class=&quot;big-number&quot;&gt;40%&lt;/span&gt;
+&lt;li class=&quot;list-inline__item&quot;&gt;&lt;span class=&quot;big-number&quot;&gt;43%&lt;/span&gt;
 &lt;span&gt;complete&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;div class=&quot;progress-bar&quot;&gt;
-  &lt;span style=&quot;width: 40.0%&quot;&gt;&lt;/span&gt;
+  &lt;span style=&quot;width: 43.333333333333336%&quot;&gt;&lt;/span&gt;
 &lt;/div&gt;
 
 &lt;hr /&gt;
@@ -541,78 +587,6 @@
         
         
         <category>nablopomo</category>
-        
-      </item>
-    
-      <item>
-        <title>Creating the image post layout</title>
-        <description>&lt;p class=&quot;lede&quot;&gt;Yesterday I posted a &lt;a href=&quot;/blog/9-miles-to-glasto&quot;&gt;photo using a new image post layout&lt;/a&gt;. Here’s a round up of the key things in the new template.&lt;/p&gt;
-
-&lt;h2 id=&quot;content&quot;&gt;Content&lt;/h2&gt;
-
-&lt;p&gt;Each image post needs 3 bits of unique content;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;image file name&lt;/li&gt;
-  &lt;li&gt;image alt text&lt;/li&gt;
-  &lt;li&gt;title&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;They are defined at the top of the post, like this;&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;---
-image: &quot;glasto-sign.jpg&quot;
-image-alt: &quot;A rusty roadside sign in the countryside&quot;
-title: 9 miles to Glasto
----
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;The image template is very simple, and doesn’t require any more content. So &lt;a href=&quot;https://raw.githubusercontent.com/benjystanton/benjystanton.github.io/master/_posts/2018-11-02-9-miles-to-glasto.md&quot;&gt;a finished post looks like this&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;template&quot;&gt;Template&lt;/h2&gt;
-
-&lt;p&gt;The &lt;a href=&quot;https://github.com/benjystanton/benjystanton.github.io/blob/master/_layouts/image.html&quot;&gt;image layout&lt;/a&gt; takes these variables and inserts them into the template to generate the page.&lt;/p&gt;
-
-&lt;p&gt;Here’s a simplified version of the template mark-up;&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;article role=&quot;article&quot;&amp;gt;
-  &amp;lt;figure&amp;gt;
-    &amp;lt;img src=&quot;{{ site.url }}/assets/{{ page.image }}&quot; alt=&quot;{{ page.image-alt }}&quot; /&amp;gt;
-    &amp;lt;figcaption&amp;gt;
-      &amp;lt;h1&amp;gt;{{ page.title }}&amp;lt;/h1&amp;gt;
-    &amp;lt;/figcaption&amp;gt;
-  &amp;lt;/figure&amp;gt;
-&amp;lt;/article&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;The image is wrapped in a &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;figure&amp;gt;&lt;/code&gt; element.&lt;/p&gt;
-
-&lt;p&gt;The &lt;code class=&quot;highlighter-rouge&quot;&gt;image&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;image-alt&lt;/code&gt; variables are combined to fill in the gaps in the &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;img&amp;gt;&lt;/code&gt; element.&lt;/p&gt;
-
-&lt;p&gt;Since the &lt;code class=&quot;highlighter-rouge&quot;&gt;title&lt;/code&gt; variable is used to describe the image and the entire post, I’ve wrapped it inside a &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;h1&amp;gt;&lt;/code&gt; and then inside the &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;figcaption&amp;gt;&lt;/code&gt;. This is the simplest, most semantic way I could think of doing the page, and means the mark-up and design is a lean as possible.&lt;/p&gt;
-
-&lt;h2 id=&quot;twitter-summary-card&quot;&gt;Twitter summary card&lt;/h2&gt;
-
-&lt;p&gt;I’ve also reused the image variables to populate the &lt;a href=&quot;https://developer.twitter.com/en/docs/tweets/optimize-with-cards/overview/summary.html&quot;&gt;Twitter summary card&lt;/a&gt; in the &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;head&amp;gt;&lt;/code&gt;.&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;{% if page.image %}
-&amp;lt;meta name=&quot;twitter:image:src&quot; content=&quot;{{ site.url }}/assets/{{ page.image }}&quot;&amp;gt;
-&amp;lt;meta name=&quot;twitter:image:alt&quot; content=&quot;{{ page.image-alt }}&quot;&amp;gt;
-{% endif %}
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;For day 2 of &lt;a href=&quot;https://twitter.com/hashtag/NaBloPoMo?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#NaBloPoMo&lt;/a&gt; I&amp;#39;ve created a new post layout that allows me to publish microblog style image posts with a simple design &lt;a href=&quot;https://t.co/0bnbT1Fgza&quot;&gt;https://t.co/0bnbT1Fgza&lt;/a&gt;&lt;/p&gt;&amp;mdash; Benjy Stanton (@benjystanton) &lt;a href=&quot;https://twitter.com/benjystanton/status/1058257626239197184?ref_src=twsrc%5Etfw&quot;&gt;November 2, 2018&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
-
-</description>
-        <pubDate>Sat, 03 Nov 2018 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/creating-the-image-post-layout/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/creating-the-image-post-layout/</guid>
-        
-        
-        <category>nablopomo</category>
-        
-        <category>release-notes</category>
         
       </item>
     
