@@ -6,7 +6,7 @@ excerpt: What is typography? What problems does good typography solve? How do we
 ---
 
 ## What is typography?
-- Typography isn’t the same a "choosing a font".
+- Typography isn’t the same as "choosing a font".
 - Typography is about improving the usability and readability of content.
 - Typography is concerned with the layout, spacing, size, contrast, ordering and grouping of text.
 
