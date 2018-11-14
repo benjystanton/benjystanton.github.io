@@ -1,0 +1,2 @@
+- [Fill out this Google  Form](https://docs.google.com/forms/d/e/1FAIpQLSeaPCZunEzHf38Te7yIgq7h6-ubJZKyLKZlqbtm7FqpKe_plg/viewform?usp=sf_link)
+- [Submit an issue on GitHub](https://github.com/benjystanton/benjystanton.github.io/issues/new)
