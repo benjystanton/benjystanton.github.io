@@ -11,3 +11,5 @@ categories: NaBloPoMo release-notes
 - front matter
 - SSL
 - Image post
+- RSS feed
+- Feedback
