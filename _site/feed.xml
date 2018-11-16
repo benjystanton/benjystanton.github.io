@@ -5,9 +5,24 @@
     <description>Interaction Designer. Family Man. Music Snob.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 15 Nov 2018 18:36:16 +0000</pubDate>
-    <lastBuildDate>Thu, 15 Nov 2018 18:36:16 +0000</lastBuildDate>
+    <pubDate>Fri, 16 Nov 2018 23:09:39 +0000</pubDate>
+    <lastBuildDate>Fri, 16 Nov 2018 23:09:39 +0000</lastBuildDate>
     <generator>Jekyll v3.8.4</generator>
+    
+      <item>
+        <title>A single word that makes the tricky task of changing nappies so much easier</title>
+        <description>
+</description>
+        <pubDate>Fri, 16 Nov 2018 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/a-single-word/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/a-single-word/</guid>
+        
+        
+        <category>images</category>
+        
+        <category>nablopomo</category>
+        
+      </item>
     
       <item>
         <title>Introduction to interaction design in gov</title>
@@ -687,31 +702,6 @@ Repeat steps 1 to 7.&lt;/p&gt;
         <pubDate>Wed, 07 Nov 2018 00:00:00 +0000</pubDate>
         <link>http://localhost:4000/blog/good-coffee-in-places-we-go-for-meetings-and-user-research/</link>
         <guid isPermaLink="true">http://localhost:4000/blog/good-coffee-in-places-we-go-for-meetings-and-user-research/</guid>
-        
-        
-        <category>nablopomo</category>
-        
-      </item>
-    
-      <item>
-        <title>New design team retro</title>
-        <description>&lt;p class=&quot;lede&quot;&gt;Here's a snippet from an article I wrote for the ONS (Office for National Statistics) digital blog:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;This year we’ve interviewed, hired and welcomed six new interaction and graphic designers to the Digital Publishing team at ONS (Office for National Statistics). A few weeks ago I ran an anonymous retrospective to review the whole hiring process and their first few weeks and months.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://digitalblog.ons.gov.uk/2018/11/06/things-we-learnt-when-we-hired-6-designers-at-the-same-time/&quot;&gt;Read the full article on the ONS digital blog&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;I also learnt not to use the word onboarding. &lt;a href=&quot;https://twitter.com/robchamberspfc/status/1059907595991945217&quot;&gt;Joining&lt;/a&gt; or &lt;a href=&quot;https://twitter.com/avfletcher/status/1059908570660114433&quot;&gt;induction&lt;/a&gt; is better.&lt;/p&gt;
-
-&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Sorry for using the word &amp;quot;onboarding&amp;quot; – it won&amp;#39;t happen again. &lt;a href=&quot;https://t.co/K70vTLIMsB&quot;&gt;https://t.co/K70vTLIMsB&lt;/a&gt;&lt;/p&gt;&amp;mdash; Benjy Stanton (@benjystanton) &lt;a href=&quot;https://twitter.com/benjystanton/status/1059903687106158593?ref_src=twsrc%5Etfw&quot;&gt;November 6, 2018&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
-
-</description>
-        <pubDate>Tue, 06 Nov 2018 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/new-design-team-retro/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/new-design-team-retro/</guid>
         
         
         <category>nablopomo</category>
