@@ -3,7 +3,7 @@ layout: page
 title: Hi, my name is Benjy and I’m an interaction designer
 ---
 
-<p class="lede">I’m a lead interaction designer at Office for National Statistics (ONS).</p>
+<p class="lede">I’m an interaction designer at the Office for National Statistics (ONS).</p>
 
 <p class="margin-top--s"><a href="/blog">Read my blog →</a></p>
 
