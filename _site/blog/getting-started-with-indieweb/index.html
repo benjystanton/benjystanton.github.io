@@ -6,18 +6,18 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>Categories – Benjy Stanton</title>
-  <meta name="description" content="Interaction Designer. Family Man. Music Snob.">
+  <title>Getting started with indieweb – Benjy Stanton</title>
+  <meta name="description" content="I decided to add some indieweb goodness to the site. The indiewebify.me validators were really helpful to check things were working.">
 
   <!-- Twitter summary card stuff, based on http://davidensinger.com/2013/04/supporting-twitter-cards-with-jekyll/ -->
   <meta name="twitter:card" content="summary">
   <meta name="twitter:site" content="benjystanton">
-  <meta name="twitter:title" content="Categories" />
-  <meta name="twitter:description" content="Interaction Designer. Family Man. Music Snob." />
+  <meta name="twitter:title" content="Getting started with indieweb" />
+  <meta name="twitter:description" content="I decided to add some indieweb goodness to the site. The indiewebify.me validators were really helpful to check things were working." />
   
   <link rel="stylesheet" href="/css/main.css">
   <link rel="stylesheet" href="https://use.typekit.net/wcw4icc.css">
-  <link rel="canonical" href="http://localhost:4000/blog/category/">
+  <link rel="canonical" href="http://localhost:4000/blog/getting-started-with-indieweb/">
   <link rel="alternate" type="application/rss+xml" title="Benjy Stanton" href="http://localhost:4000/feed.xml" />
   <!-- Touch icons and favicons -->
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -71,101 +71,62 @@
           
 
 <header class="post-header">
-  <h1 class="post-title">Categories</h1>
+  <h1 class="post-title">Getting started with indieweb</h1>
+  <p class="text-small">17 November 2018 • 
+
+<a href="/blog/category/nablopomo">nablopomo</a>
+
+
+</p>
   
 
 </header>
 
 <article class="post-content" role="article">
-  <ul class="list-inline">
+  <p class="lede">I decided to add some <a href="https://indieweb.org/Getting_Started">indieweb</a> goodness to the site. The <a href="https://indiewebify.me/">indiewebify.me</a> validators were really helpful to check things were working.
+</p>
 
-  <li>
-    <a href="/blog/category/personal/">personal</a>
-  <span class="text-small">(11)</span></li>
+<h2 id="heres-what-ive-done-so-far">Here’s what I’ve done so far…</h2>
 
-  <li>
-    <a href="/blog/category/design/">design</a>
-  <span class="text-small">(42)</span></li>
-
-  <li>
-    <a href="/blog/category/ux/">ux</a>
-  <span class="text-small">(12)</span></li>
-
-  <li>
-    <a href="/blog/category/animation/">animation</a>
-  <span class="text-small">(5)</span></li>
-
-  <li>
-    <a href="/blog/category/speaking/">speaking</a>
-  <span class="text-small">(6)</span></li>
-
-  <li>
-    <a href="/blog/category/conferences/">conferences</a>
-  <span class="text-small">(9)</span></li>
-
-  <li>
-    <a href="/blog/category/tools/">tools</a>
-  <span class="text-small">(4)</span></li>
-
-  <li>
-    <a href="/blog/category/content/">content</a>
-  <span class="text-small">(2)</span></li>
-
-  <li>
-    <a href="/blog/category/email/">email</a>
-  <span class="text-small">(3)</span></li>
-
-  <li>
-    <a href="/blog/category/freelance/">freelance</a>
-  <span class="text-small">(2)</span></li>
-
-  <li>
-    <a href="/blog/category/meetup/">meetup</a>
-  <span class="text-small">(6)</span></li>
-
-  <li>
-    <a href="/blog/category/research/">research</a>
-  <span class="text-small">(4)</span></li>
-
-  <li>
-    <a href="/blog/category/accessibility/">accessibility</a>
-  <span class="text-small">(3)</span></li>
-
-  <li>
-    <a href="/blog/category/ons/">ons</a>
-  <span class="text-small">(7)</span></li>
-
-  <li>
-    <a href="/blog/category/links/">links</a>
-  <span class="text-small">(12)</span></li>
-
-  <li>
-    <a href="/blog/category/release-notes/">release-notes</a>
-  <span class="text-small">(7)</span></li>
-
-  <li>
-    <a href="/blog/category/weeknotes/">weeknotes</a>
-  <span class="text-small">(6)</span></li>
-
-  <li>
-    <a href="/blog/category/service-design/">service-design</a>
-  <span class="text-small">(2)</span></li>
-
-  <li>
-    <a href="/blog/category/nablopomo/">nablopomo</a>
-  <span class="text-small">(17)</span></li>
-
-  <li>
-    <a href="/blog/category/images/">images</a>
-  <span class="text-small">(2)</span></li>
-
+<ul>
+  <li>Added <a href="http://microformats.org/wiki/rel-me">rel-me</a> links from the home page to my social media profiles</li>
+  <li>Made sure links back from social media profiles are using https</li>
+  <li>Added <a href="http://microformats.org/wiki/h-card">h-card</a> markup to the home page</li>
 </ul>
 
-<p class="margin-top--m"><a href="/blog">← Back to the blog</a></p>
+<h2 id="markup">Markup</h2>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;div class="h-card"&gt;
+
+  &lt;header class="post-header"&gt;
+    &lt;h1 class="post-title"&gt;Hi, my name is &lt;span class="p-name"&gt;Benjy Stanton&lt;/span&gt; and I’m an &lt;span class="p-job-title"&gt;interaction designer&lt;/span&gt;&lt;/h1&gt;
+  &lt;/header&gt;
+
+  &lt;article class="post-content" role="article"&gt;
+
+    &lt;p class="lede p-note"&gt;I work at the &lt;span class="p-org"&gt;Office for National Statistics (ONS)&lt;/span&gt; and I live in &lt;span class="p-locality"&gt;Swansea&lt;/span&gt;.&lt;/p&gt;
+    &lt;p class="margin-top--s"&gt;&lt;a href="/blog"&gt;Read my blog →&lt;/a&gt;&lt;/p&gt;
+
+    &lt;h2&gt;Find me on the web&lt;/h2&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a class="u-url" href="https://twitter.com/benjystanton" rel="me"&gt;@benjystanton on Twitter&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a class="u-url" href="https://github.com/benjystanton/" rel="me"&gt;Github&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a class="u-url" href="https://www.instagram.com/benjystanton/" rel="me"&gt;Instagram&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a class="u-email" href="mailto:benjystanton@gmail.com" rel="me"&gt;benjystanton@gmail.com&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+
+  &lt;/article&gt;
+
+&lt;/div&gt;
+</code></pre></div></div>
+
+<h2 id="next-step">Next step</h2>
+
+<p>Next I want to add <a href="http://microformats.org/wiki/h-entry">h-entry</a> markup to my posts.</p>
 
 </article>
 
-
+<p class="margin-top--m"><a href="/blog">← Back to the blog</a></p>
 
         </div>
       </div>
