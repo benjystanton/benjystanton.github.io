@@ -10,6 +10,12 @@ img {
     }
 }
 
+.image-xs {
+  height: auto;
+  width: $spacing-unit;
+  border-radius: 50%;
+}
+
 .post-content img {
   border: 1px solid $light-grey-colour;
 }

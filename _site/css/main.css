@@ -209,6 +209,11 @@ img {
     img {
       margin: 0 0 18px 0; } }
 
+.image-xs {
+  height: auto;
+  width: 36px;
+  border-radius: 50%; }
+
 .post-content img {
   border: 1px solid #e4e7ea; }
 
@@ -643,6 +648,9 @@ html {
 
 .margin-top--m {
   margin-top: 72px; }
+
+.margin-right--xs {
+  margin-right: 9px; }
 
 .margin-right--s {
   margin-right: 36px; }
