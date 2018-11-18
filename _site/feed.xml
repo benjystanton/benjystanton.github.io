@@ -5,8 +5,8 @@
     <description>Interaction Designer. Family Man. Music Snob.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 18 Nov 2018 10:26:31 +0000</pubDate>
-    <lastBuildDate>Sun, 18 Nov 2018 10:26:31 +0000</lastBuildDate>
+    <pubDate>Sun, 18 Nov 2018 10:27:56 +0000</pubDate>
+    <lastBuildDate>Sun, 18 Nov 2018 10:27:56 +0000</lastBuildDate>
     <generator>Jekyll v3.8.4</generator>
     
       <item>
@@ -50,7 +50,7 @@
 
 &lt;h2 id=&quot;but-why&quot;&gt;But why?&lt;/h2&gt;
 
-&lt;p&gt;Doing all this will make my blog a more fully featured publishing platform (like Medium). But the benefit is, I own all the content.&lt;/p&gt;
+&lt;p&gt;Doing all this will make my blog a more fully featured publishing platform (like Medium). But the benefit is, the content is on my domain.&lt;/p&gt;
 
 &lt;p&gt;Eventually I hope to start syndicating all my content automatically to other sites like Twitter and Medium by following the Publish (on your) Own Site, Syndicate Elsewhere (POSSE) model. This and other steps are getting the site ready to start POSSEing. (Not sure if that’s a word).&lt;/p&gt;
 

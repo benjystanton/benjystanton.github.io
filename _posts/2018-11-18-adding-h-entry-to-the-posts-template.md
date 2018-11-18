@@ -42,7 +42,7 @@ categories: nablopomo release-notes
 
 ## But why?
 
-Doing all this will make my blog a more fully featured publishing platform (like Medium). But the benefit is, I own all the content.
+Doing all this will make my blog a more fully featured publishing platform (like Medium). But the benefit is, the content is on my domain.
 
 Eventually I hope to start syndicating all my content automatically to other sites like Twitter and Medium by following the Publish (on your) Own Site, Syndicate Elsewhere (POSSE) model. This and other steps are getting the site ready to start POSSEing. (Not sure if that's a word).
 
