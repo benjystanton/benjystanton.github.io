@@ -9,14 +9,11 @@ layout: default
 {% endfor %}
 {% endcapture %}
 
-<header class="post-header">
-  <h1 class="post-title">{{ page.title }}</h1>
-  {% if page.is_post %}<p class="text-small">{{ page.date | date: "%e %B %Y" }} • {{categories}}</p>
-  {% endif %}
-
-</header>
-
 <article class="post-content" role="article">
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+    {% if page.is_post %}<p class="text-small">{{ page.date | date: "%e %B %Y" }} • {{categories}}</p>{% endif %}
+  </header>
   {{ content }}
 </article>
 
