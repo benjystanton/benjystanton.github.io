@@ -1,10 +1,10 @@
 ---
-layout: page
+layout: post
 title: Getting started with indieweb
 categories: nablopomo
 ---
 
-<p class="lede">I decided to add some <a href="https://indieweb.org/Getting_Started">indieweb</a> goodness to the site. The <a href="https://indiewebify.me/">indiewebify.me</a> validators were really helpful to check things were working.
+<p class="lede p-summary">I decided to add some <a href="https://indieweb.org/Getting_Started">indieweb</a> goodness to the site. The <a href="https://indiewebify.me/">indiewebify.me</a> validators were really helpful to check things were working.
 </p>
 
 ## Here's what I've done so far…
@@ -18,11 +18,9 @@ categories: nablopomo
 ```
 <div class="h-card">
 
-  <header class="post-header">
-    <h1 class="post-title">Hi, my name is <span class="p-name">Benjy Stanton</span> and I’m an <span class="p-job-title">interaction designer</span></h1>
-  </header>
-
   <article class="post-content" role="article">
+
+    <h1 class="post-title">Hi, my name is <span class="p-name">Benjy Stanton</span> and I’m an <span class="p-job-title">interaction designer</span></h1>
 
     <p class="lede p-note">I work at the <span class="p-org">Office for National Statistics (ONS)</span> and I live in <span class="p-locality">Swansea</span>.</p>
     <p class="margin-top--s"><a href="/blog">Read my blog →</a></p>
