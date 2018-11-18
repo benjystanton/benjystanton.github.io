@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Leave me feedback
-categories: nablopomo
+categories: nablopomo release-notes
 ---
 
 <p class="lede">Inspired by <a href="http://www.ermlikeyeah.com/">Simon’s website</a>, I want to encourage people to leave me feedback.</p>
