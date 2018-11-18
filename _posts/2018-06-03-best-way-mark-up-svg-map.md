@@ -1,5 +1,5 @@
 ---
-layout: basic
+layout: page
 title: What's the best way to mark-up an SVG map?
 categories: design
 ---
