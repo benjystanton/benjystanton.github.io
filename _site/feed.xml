@@ -5,13 +5,13 @@
     <description>Interaction Designer. Family Man. Music Snob.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 18 Nov 2018 08:46:10 +0000</pubDate>
-    <lastBuildDate>Sun, 18 Nov 2018 08:46:10 +0000</lastBuildDate>
+    <pubDate>Sun, 18 Nov 2018 08:48:50 +0000</pubDate>
+    <lastBuildDate>Sun, 18 Nov 2018 08:48:50 +0000</lastBuildDate>
     <generator>Jekyll v3.8.4</generator>
     
       <item>
         <title>Getting started with indieweb</title>
-        <description>&lt;p class=&quot;lede p-summary&quot;&gt;I decided to add some &lt;a href=&quot;https://indieweb.org/Getting_Started&quot;&gt;indieweb&lt;/a&gt; goodness to the site. The &lt;a href=&quot;https://indiewebify.me/&quot;&gt;indiewebify.me&lt;/a&gt; validators were really helpful to check things were working.
+        <description>&lt;p class=&quot;lede&quot;&gt;I decided to add some &lt;a href=&quot;https://indieweb.org/Getting_Started&quot;&gt;indieweb&lt;/a&gt; goodness to the site. The &lt;a href=&quot;https://indiewebify.me/&quot;&gt;indiewebify.me&lt;/a&gt; validators were really helpful to check things were working.
 &lt;/p&gt;
 
 &lt;h2 id=&quot;heres-what-ive-done-so-far&quot;&gt;Here’s what I’ve done so far…&lt;/h2&gt;
