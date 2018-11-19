@@ -33,6 +33,6 @@ I created an all-day event called "no meetings" that repeats every week. I looke
 
 Even on "no meeting" days, I'm still going to my stand-ups. I get a lot of value from them. Plus agile ceremonies are usually structured and inclusive, so they aren't so energy-consuming for me.
 
-It's also important to say that I'm not in "do not disturb" mode. Having a clear calendar means that I'm free to chat with my team, go for lunch, do some long term planning or catch up on admin.
+It's also important to say that I'm not in "do not disturb" mode. Having a clear calendar means that I'm free to chat with my team, go for lunch, do some planning or catch up on admin.
 
 Together with my weekly "work from home" day, I feel like I've finally got a balance that will allow me to do focussed work, be available for my team, and stay on top of "all the other things".
