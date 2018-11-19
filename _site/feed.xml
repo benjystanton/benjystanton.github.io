@@ -5,9 +5,55 @@
     <description>Interaction Designer. Family Man. Music Snob.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 18 Nov 2018 13:30:15 +0000</pubDate>
-    <lastBuildDate>Sun, 18 Nov 2018 13:30:15 +0000</lastBuildDate>
+    <pubDate>Mon, 19 Nov 2018 19:50:31 +0000</pubDate>
+    <lastBuildDate>Mon, 19 Nov 2018 19:50:31 +0000</lastBuildDate>
     <generator>Jekyll v3.8.4</generator>
+    
+      <item>
+        <title>My first “no meeting” day</title>
+        <description>&lt;p class=&quot;lede&quot;&gt;If you follow me on Twitter, you'll know that &lt;a href=&quot;https://twitter.com/benjystanton/status/1044599479721218048&quot;&gt;I moan about meetings a lot&lt;/a&gt;. Lots of people have recommended that I block out time in my calendar to make sure I &lt;a href=&quot;http://localhost:4000/blog/how-to-focus-in-open-plan-offices/&quot;&gt;have space in my week for focussed work&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;This seems obvious in hindsight, but joining the Civil Service has been a big culture shock for me. 3 years ago I was freelancing, working remotely on small projects. Now I’m leading a small team in a large organisation. Even though I promised myself I wouldn’t end up stuck in meetings all day, that is what has happened.&lt;/p&gt;
+
+&lt;h2 id=&quot;too-many-meetings-are-a-drain-on-my-energy&quot;&gt;Too many meetings are a drain on my energy&lt;/h2&gt;
+
+&lt;p&gt;I’m sure that having too many meetings is a problem for different people for many different reasons. It’s a problem for me because;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;I’m an introvert&lt;/li&gt;
+  &lt;li&gt;I need time to focus on my design work&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Being introverted means that meetings take a huge amount of energy from me. I need time to mentally prepare before a meeting and I need time to unwind afterwards. Most days I have at least 6 meetings, often many more. This leaves me with no energy left to do anything else. The loss of energy is more important than the loss of time.&lt;/p&gt;
+
+&lt;p&gt;Meetings also tend to be invitations to chat with people outside of my core team. They are are usually concerned with long-term planning or things on the edge of my day-to-day work. They are important, but they distract me from my sprint work, and the context switching is hard.&lt;/p&gt;
+
+&lt;h2 id=&quot;prioritising-doesnt-work-for-me&quot;&gt;Prioritising doesn’t work for me&lt;/h2&gt;
+
+&lt;p&gt;Trying to prioritise and turn down the meetings you get invited to is an impossible task for me. I’ve tried for 2 years and failed. &lt;a href=&quot;https://twitter.com/benjystanton/status/1047190877364506625&quot;&gt;Outlook makes it too easy for people&lt;/a&gt; to send you appointments, and it places no value on having free time. Spending all your time in Outlook playing appointment whack-a-mole is as unproductive as spending all your time in meetings.&lt;/p&gt;
+
+&lt;p&gt;There’s a reason why agile teams have product managers. Objectively deciding what to do next is really difficult. Then having to switch from “prioritisation mode” to “doing mode” is even harder.&lt;/p&gt;
+
+&lt;h2 id=&quot;so-i-created-a-no-meetings-day&quot;&gt;So I created a “no meetings” day&lt;/h2&gt;
+
+&lt;p&gt;I created an all-day event called “no meetings” that repeats every week. I looked a few weeks ahead in my schedule and moved any other meetings that clashed with it. If I couldn’t do that, I moved the “no meeting” day to another day. It usually falls on either Monday or Tuesday.&lt;/p&gt;
+
+&lt;h2 id=&quot;im-not-in-do-not-disturb-mode&quot;&gt;I’m not in “do not disturb” mode&lt;/h2&gt;
+
+&lt;p&gt;Even on “no meeting” days, I’m still going to my stand-ups. I get a lot of value from them. Plus agile ceremonies are usually structured and inclusive, so they aren’t so energy-consuming for me.&lt;/p&gt;
+
+&lt;p&gt;It’s also important to say that I’m not in “do not disturb” mode. Having a clear calendar means that I’m free to chat with my team, go for lunch, do some long term planning or catch up on admin.&lt;/p&gt;
+
+&lt;p&gt;Together with my weekly “work from home” day, I feel like I’ve finally got a balance that will allow me to do focussed work, be available for my team, and stay on top of “all the other things”.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 19 Nov 2018 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/my-first-no-meeting-day/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/my-first-no-meeting-day/</guid>
+        
+        
+        <category>nablopomo</category>
+        
+      </item>
     
       <item>
         <title>Adding h-entry to the posts template</title>
@@ -546,88 +592,6 @@ Repeat steps 1 to 7.&lt;/p&gt;
         <pubDate>Sat, 10 Nov 2018 00:00:00 +0000</pubDate>
         <link>http://localhost:4000/blog/swn-2018/</link>
         <guid isPermaLink="true">http://localhost:4000/blog/swn-2018/</guid>
-        
-        
-        <category>nablopomo</category>
-        
-      </item>
-    
-      <item>
-        <title>Articles I’ve written that have been published somewhere else</title>
-        <description>&lt;ul class=&quot;list-pairs&quot;&gt;
-  
-  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
-    
-    &lt;a href=&quot;https://digitalblog.ons.gov.uk/2018/11/06/things-we-learnt-when-we-hired-6-designers-at-the-same-time/&quot;&gt;Things we learnt when we hired six designers at the same time&lt;/a&gt;
-    &lt;/span&gt;
-    &lt;br /&gt;ONS Digital blog&lt;/li&gt;
-  
-  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
-    
-    &lt;a href=&quot;https://digitalblog.ons.gov.uk/2018/10/18/why-ons-needs-to-hire-service-designers/&quot;&gt;Why ONS needs to hire service designers&lt;/a&gt;
-    &lt;/span&gt;
-    &lt;br /&gt;ONS Digital blog&lt;/li&gt;
-  
-  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
-    
-    &lt;a href=&quot;https://digitalblog.ons.gov.uk/2017/12/18/were-hiring-designers/&quot;&gt;We’re hiring five graphic designers (and a front end developer)&lt;/a&gt;
-    &lt;/span&gt;
-    &lt;br /&gt;ONS Digital blog&lt;/li&gt;
-  
-  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
-    
-    &lt;a href=&quot;https://digitalblog.ons.gov.uk/2017/12/15/finding-data-by-location-my-first-design-sprint/&quot;&gt;Finding data by location (my first Design Sprint)&lt;/a&gt;
-    &lt;/span&gt;
-    &lt;br /&gt;ONS Digital blog&lt;/li&gt;
-  
-  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
-    
-    &lt;a href=&quot;https://digitalblog.ons.gov.uk/2017/10/27/building-a-design-culture-some-tips-from-leading-design-conference/&quot;&gt;Building a design culture, some tips from Leading Design Conference&lt;/a&gt;
-    &lt;/span&gt;
-    &lt;br /&gt;ONS Digital blog&lt;/li&gt;
-  
-  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
-    
-    &lt;a href=&quot;https://digitalblog.ons.gov.uk/2017/08/15/picking-things-from-a-long-list/&quot;&gt;Picking things from a long list&lt;/a&gt;
-    &lt;/span&gt;
-    &lt;br /&gt;ONS Digital blog&lt;/li&gt;
-  
-  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
-    
-    &lt;a href=&quot;https://digitalblog.ons.gov.uk/2017/01/16/enabling-users-to-customise-datasets/&quot;&gt;Enabling users to customise datasets&lt;/a&gt;
-    &lt;/span&gt;
-    &lt;br /&gt;ONS Digital blog&lt;/li&gt;
-  
-  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
-    
-    &lt;a href=&quot;https://digitalblog.ons.gov.uk/2016/11/15/getting-started-with-data-discovery/&quot;&gt;Getting started with Data Discovery&lt;/a&gt;
-    &lt;/span&gt;
-    &lt;br /&gt;ONS Digital blog&lt;/li&gt;
-  
-  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
-    
-    &lt;a href=&quot;https://digitalblog.ons.gov.uk/2016/10/21/my-first-week/&quot;&gt;My first week&lt;/a&gt;
-    &lt;/span&gt;
-    &lt;br /&gt;ONS Digital blog&lt;/li&gt;
-  
-  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
-    
-    &lt;a href=&quot;https://www.everydaydesigner.net/freelancing/tips-for-healthy-freelancing&quot;&gt;Tips for healthy freelancing&lt;/a&gt;
-    &lt;/span&gt;
-    &lt;br /&gt;Everyday Designer&lt;/li&gt;
-  
-  &lt;li&gt;&lt;span class=&quot;list-pairs__name&quot;&gt;
-    
-    &lt;a href=&quot;http://www.jamesgood.co.uk/blog/visit-eden-project&quot;&gt;A Visit To The Eden Project&lt;/a&gt;
-    &lt;/span&gt;
-    &lt;br /&gt;James Good&lt;/li&gt;
-  
-&lt;/ul&gt;
-
-</description>
-        <pubDate>Fri, 09 Nov 2018 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/articles-ive-written-that-have-been-published-somewhere-else/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/articles-ive-written-that-have-been-published-somewhere-else/</guid>
         
         
         <category>nablopomo</category>
