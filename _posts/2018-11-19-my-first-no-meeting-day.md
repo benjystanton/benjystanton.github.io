@@ -17,7 +17,7 @@ I'm sure that having too many meetings is a problem for different people for man
 
 Being introverted means that meetings take a huge amount of energy from me. I need time to mentally prepare before a meeting and I need time to unwind afterwards. Most days I have at least 6 meetings, often many more. This leaves me with no energy left to do anything else. The loss of energy is more important than the loss of time.
 
-Meetings also tend to be invitations to chat with people outside of my core team. They are are usually concerned with long-term planning or things on the edge of my day-to-day work. They are important, but they distract me from my sprint work, and the context switching is hard.
+Meetings also tend to be invitations to chat with people outside of my core team. They are usually concerned with long-term planning or things on the edge of my day-to-day work. They are important, but they distract me from my sprint work, and the context switching is hard.
 
 ## Prioritising doesn't work for me
 
