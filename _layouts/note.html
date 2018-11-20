@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+{% capture categories %}
+{% for categories in page.categories %}
+<a href="/blog/category/{{categories}}">{{categories}}</a>
+{% unless forloop.last %},{% endunless %}
+{% endfor %}
+{% endcapture %}
+
+<article class="post-content h-entry" role="article">
+  <h1 class="heading-large p-name e-content">{{ content }}</h1>
+  <p class="text-small">
+    <img class="u-photo image-xs margin-bottom--0" src="{{ site.url }}/assets/benjy-stanton.jpg" alt="" height="50" width="50"> by
+    <a rel="author" class="p-author h-card" href="{{ site.url }}">Benjy Stanton</a> on
+    <a class="dt-published u-url" href="{{ post.url | prepend: site.baseurl }}">{{ page.date | date: "%e %B %Y" }}</a> in
+    {{categories}}
+  </p>
+</article>
