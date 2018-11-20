@@ -5,9 +5,24 @@
     <description>Interaction Designer. Family Man. Music Snob.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 20 Nov 2018 17:35:46 +0000</pubDate>
-    <lastBuildDate>Tue, 20 Nov 2018 17:35:46 +0000</lastBuildDate>
+    <pubDate>Tue, 20 Nov 2018 21:00:14 +0000</pubDate>
+    <lastBuildDate>Tue, 20 Nov 2018 21:00:14 +0000</lastBuildDate>
     <generator>Jekyll v3.8.4</generator>
+    
+      <item>
+        <title>A Note Template</title>
+        <description>&lt;p&gt;This a simple &lt;a href=&quot;https://indieweb.org/note&quot;&gt;note&lt;/a&gt; template. A note is a post that is typically short unstructured plain text, written &amp;amp; posted quickly, that has its own permalink page.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 20 Nov 2018 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/a-note-template/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/a-note-template/</guid>
+        
+        
+        <category>notes</category>
+        
+        <category>nablopomo</category>
+        
+      </item>
     
       <item>
         <title>My first “no meeting” day</title>
@@ -170,7 +185,7 @@
       </item>
     
       <item>
-        <title>A single word that makes the tricky task of changing nappies so much easier</title>
+        <title>A single word that makes the tricky task of changing nappies so much easier.</title>
         <description>
 </description>
         <pubDate>Fri, 16 Nov 2018 00:00:00 +0000</pubDate>
@@ -527,74 +542,6 @@ Repeat steps 1 to 7.&lt;/p&gt;
         <category>design</category>
         
         <category>tools</category>
-        
-      </item>
-    
-      <item>
-        <title>Swn 2018</title>
-        <description>&lt;p class=&quot;lede&quot;&gt;A quick round-up of the things we got up to at Swn.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://swnfest.com/&quot;&gt;Swn&lt;/a&gt; is an alternative music festival in Cardiff. Bands play at different small, independent venues across Cardiff. Amazingly it’s in its 12th year, but this is the first time I’ve ever been.&lt;/p&gt;
-
-&lt;h2 id=&quot;numbers&quot;&gt;Numbers&lt;/h2&gt;
-&lt;ul class=&quot;list-inline&quot;&gt;
-  &lt;li class=&quot;margin-right--m list-inline__item&quot;&gt;
-    &lt;span class=&quot;big-number&quot;&gt;2&lt;/span&gt;
-&lt;span&gt;days&lt;/span&gt;
-
-  &lt;/li&gt;
-  &lt;li class=&quot;margin-right--m list-inline__item&quot;&gt;
-    &lt;span class=&quot;big-number&quot;&gt;5&lt;/span&gt;
-&lt;span&gt;bands&lt;/span&gt;
-
-  &lt;/li&gt;
-  &lt;li class=&quot;list-inline__item&quot;&gt;
-    &lt;span class=&quot;big-number&quot;&gt;8&lt;/span&gt;
-&lt;span&gt;venues&lt;/span&gt;
-
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;days&quot;&gt;Days&lt;/h2&gt;
-
-&lt;p&gt;We got a weekend ticket, this includes entry to all the bands playing on Friday and Saturday night. The whole festival lasts 4 days – Wednesday to Saturday.&lt;/p&gt;
-
-&lt;h2 id=&quot;bands&quot;&gt;Bands&lt;/h2&gt;
-
-&lt;p&gt;We only managed to see 5 bands, this was partly down to us arriving too late and venues being full. We were also having too much fun. Our plans to see lots of bands went out the window.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.gazcoombes.com/&quot;&gt;Gaz Coombes&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.boyazooga.co.uk/&quot;&gt;Boy Azooga&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.suuns.net/&quot;&gt;SUUNS&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://accu.bandcamp.com/&quot;&gt;Accü&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/privateworld20&quot;&gt;Private World&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;venues&quot;&gt;Venues&lt;/h2&gt;
-
-&lt;p&gt;We did much better at venues. We went to 8 different venues across Cardiff. A lot of craft ale was drunk.&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.craftydevilbrewing.co.uk/&quot;&gt;Beelzebubs&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://tramshedcardiff.com/&quot;&gt;Tramshed&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://clwb.net/&quot;&gt;Clwb Ifor Bach&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.tinyrebel.co.uk/bars/cardiff/&quot;&gt;Tiny Rebel&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://buffalocardiff.co.uk/&quot;&gt;Buffalo Bar&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.fuelrockclub.com&quot;&gt;Fuel&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.kongsbars.com/&quot;&gt;Kongs&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://gourmetgorro.blogspot.com/2017/11/the-blue-honey-night-cafe-cardiff-review.html&quot;&gt;The Blue Honey Night Cafe&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;next-time&quot;&gt;Next time&lt;/h2&gt;
-
-&lt;p&gt;I’d definitely recommend Swn, and I’m hoping to go again next year – and see a few more bands. It reminded me of &lt;a href=&quot;https://www.atpfestival.com/events&quot;&gt;All Tomorrow’s Parties&lt;/a&gt;, a music festival in Butlins (that was a lot better than it sounds).&lt;/p&gt;
-</description>
-        <pubDate>Sat, 10 Nov 2018 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/swn-2018/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/swn-2018/</guid>
-        
-        
-        <category>nablopomo</category>
         
       </item>
     
