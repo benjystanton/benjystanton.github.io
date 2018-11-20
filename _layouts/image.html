@@ -16,8 +16,7 @@ layout: default
       <h1 class="heading-large margin-bottom--0">{{ page.title }}</h1>
     </figcaption>
   </figure>
-  {% if page.is_post %}<p class="text-small">{{ page.date | date: "%e %B %Y" }} • {{categories}}</p>
-  {% endif %}
+  <p class="text-small">{{ page.date | date: "%e %B %Y" }} • {{categories}}</p>
   {{ content }}
 </article>
 
