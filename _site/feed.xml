@@ -5,9 +5,45 @@
     <description>Interaction Designer. Family Man. Music Snob.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 20 Nov 2018 21:34:10 +0000</pubDate>
-    <lastBuildDate>Tue, 20 Nov 2018 21:34:10 +0000</lastBuildDate>
+    <pubDate>Thu, 22 Nov 2018 19:43:44 +0000</pubDate>
+    <lastBuildDate>Thu, 22 Nov 2018 19:43:44 +0000</lastBuildDate>
     <generator>Jekyll v3.8.4</generator>
+    
+      <item>
+        <title>A quick review of the Netflix She-Ra reboot</title>
+        <description>&lt;p class=&quot;lede&quot;&gt;Netflix’s new She-Ra is seriously cool. The female characters are strong and diverse in personality, body shape and skin tone. Some are good, some are evil. Some are funny, some are serious, some are nerdy.&lt;/p&gt;
+
+&lt;p&gt;The men are sensitive and supporting without being overtly masculine. Often they are camp and their sexuality is ambiguous.&lt;/p&gt;
+
+&lt;p&gt;It’s also funny, spooky and full of cool action sequences.&lt;/p&gt;
+
+&lt;p&gt;It’s the feminist cartoon series I’ve been waiting for.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.vox.com/culture/2018/11/21/18105176/she-ra-princesses-of-power-reboot-review&quot;&gt;Review of She-Ra on Vox&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 22 Nov 2018 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/a-quick-review-of-she-ra/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/a-quick-review-of-she-ra/</guid>
+        
+        
+        <category>nablopomo</category>
+        
+      </item>
+    
+      <item>
+        <title>This is a quick test note from my phone. I’m using Working Copy GitHub client for iOS.</title>
+        <description>
+</description>
+        <pubDate>Wed, 21 Nov 2018 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/posting-from-my-phone/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/posting-from-my-phone/</guid>
+        
+        
+        <category>notes</category>
+        
+        <category>nablopomo</category>
+        
+      </item>
     
       <item>
         <title>This is a simple note template. A note is a post that is typically short unstructured plain text, written &amp; posted quickly, that has its own permalink page.</title>
@@ -420,128 +456,6 @@ Repeat steps 1 to 7.&lt;/p&gt;
         <category>nablopomo</category>
         
         <category>design</category>
-        
-      </item>
-    
-      <item>
-        <title>100 blog posts</title>
-        <description>&lt;p class=&quot;lede&quot;&gt;This is my 100th blog post.&lt;/p&gt;
-
-&lt;p&gt;I’ve been writing on some version of this blog since at least 2007. I’ve had 3 kids, 6 jobs and 2 houses since then.&lt;/p&gt;
-
-&lt;p&gt;It started out as a Wordpress blog with the Kubrick theme. &lt;a href=&quot;/blog/goodbye-wordpress/&quot;&gt;I switched to Jekyll 3 years ago&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;I showed early hipster tendencies in 2010 by adding a &lt;a href=&quot;/about/2010-colophon/&quot;&gt;colophon&lt;/a&gt;. I used “Starkers” and “320 and Up” to build on back then (remember those?).&lt;/p&gt;
-
-&lt;p&gt;Over half of the 100 posts have been this year. I blame &lt;a href=&quot;https://twitter.com/mr_dudders&quot;&gt;Andy&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/dasbarrett&quot;&gt;Dan&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/jukesie&quot;&gt;Jukesie&lt;/a&gt; for encouraging this over-sharing.&lt;/p&gt;
-
-&lt;p&gt;I’m certain that my tendency to blog and tweet openly lead me to working at ONS. And I’ve left jobs in the past when I’ve felt stifled or blocked from blogging.&lt;/p&gt;
-
-&lt;p&gt;I feel lucky to work in a place where &lt;a href=&quot;https://digitalblog.ons.gov.uk/2018/10/18/why-ons-needs-to-hire-service-designers/&quot;&gt;I can write openly and honestly about my organisation&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Here’s to 100 more.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 12 Nov 2018 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/this-is-my-100th-blog-post/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/this-is-my-100th-blog-post/</guid>
-        
-        
-        <category>nablopomo</category>
-        
-      </item>
-    
-      <item>
-        <title>Interaction design tools</title>
-        <description>&lt;figure&gt;
-  &lt;img src=&quot;http://localhost:4000/assets/my-dock-nov-2018.png&quot; alt=&quot;The dock on my Mac, showing the app icons that I use frequently.&quot; /&gt;
-  &lt;figcaption class=&quot;text-small&quot;&gt;
-    A screenshot of the dock on my MacBook Pro
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p class=&quot;lede&quot;&gt;This blog post looks at the tools that I use every day. Interesting to note the lack of any design apps like Sketch or Adobe Creative Cloud.&lt;/p&gt;
-
-&lt;h2 id=&quot;stationery&quot;&gt;Stationery&lt;/h2&gt;
-
-&lt;p&gt;I’ve usually got a supply of the following to hand…&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Black Pentel sign pens&lt;/li&gt;
-  &lt;li&gt;Assorted Sharpies&lt;/li&gt;
-  &lt;li&gt;Grey Winsor &amp;amp; Newton marker&lt;/li&gt;
-  &lt;li&gt;Post-its&lt;/li&gt;
-  &lt;li&gt;Blu tack&lt;/li&gt;
-  &lt;li&gt;A4 and A3 paper&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;google-drive&quot;&gt;&lt;a href=&quot;https://www.google.com/drive/&quot;&gt;Google Drive&lt;/a&gt;&lt;/h2&gt;
-
-&lt;p&gt;Google Drive is an essential part of my design workflow. I store all my files in it. It lets me write, share and collaborate on written documents. And I can create slides for presenting at show and tells.&lt;/p&gt;
-
-&lt;p&gt;It’s still so far ahead of corporate alternatives (I’m looking at you Office 365 and Sharepoint) in terms of usability at least.&lt;/p&gt;
-
-&lt;h2 id=&quot;atom&quot;&gt;&lt;a href=&quot;https://atom.io/&quot;&gt;Atom&lt;/a&gt;&lt;/h2&gt;
-
-&lt;p&gt;Atom is my code editor of choice. It has all the plugins I need and its compatibility with GitHub is nice (it highlights files that have changed since my last sync).&lt;/p&gt;
-
-&lt;p&gt;I hear &lt;a href=&quot;https://code.visualstudio.com/&quot;&gt;Visual Studio Code&lt;/a&gt; is good now too, so I may switch to that one day.&lt;/p&gt;
-
-&lt;h2 id=&quot;jekyll&quot;&gt;&lt;a href=&quot;https://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt;&lt;/h2&gt;
-
-&lt;p&gt;I use Jekyll as a base for all my web projects. It’s a static site generator with built in support for Sass, Liquid templating and Markdown. Once you’ve set it up, it makes it easy spin up a new site, host it with GitHub for free, and then create a URL that I can use for testing and research.&lt;/p&gt;
-
-&lt;p&gt;Using &lt;a href=&quot;https://jekyllrb.com/docs/datafiles/&quot;&gt;data files&lt;/a&gt; has become a big part of my workflow recently too.&lt;/p&gt;
-
-&lt;h2 id=&quot;chrome-devtools&quot;&gt;&lt;a href=&quot;https://developers.google.com/web/tools/chrome-devtools/&quot;&gt;Chrome DevTools&lt;/a&gt;&lt;/h2&gt;
-
-&lt;p&gt;Chrome is an essential tool for inspecting and iterating on designs in the browser. Here are a few useful plugins too;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://chrome.google.com/webstore/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh&quot;&gt;WAVE&lt;/a&gt; for checking accessibility&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://chrome.google.com/webstore/detail/disable-html/lfhjgihpknekohffabeddfkmoiklonhm?hl=en&quot;&gt;disable-HTML&lt;/a&gt; for disabling HTML, CSS or JS&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://chrome.google.com/webstore/detail/validity/bbicmjjbohdfglopkidebfccilipgeif?hl=en-GB&quot;&gt;Validity&lt;/a&gt; for checking code is valid&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://chrome.google.com/webstore/detail/45to75/efmppndinjbljeellfdkpghgblenbcdd&quot;&gt;45to75&lt;/a&gt; for checking line length&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en&quot;&gt;WhatFont&lt;/a&gt; for checking font size and line height&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;github-desktop&quot;&gt;&lt;a href=&quot;https://desktop.github.com/&quot;&gt;GitHub Desktop&lt;/a&gt;&lt;/h2&gt;
-
-&lt;p&gt;I feel slightly guilty for using this tool (instead of using the terminal commands) but I does everything I need (commit code, push up changes, pull down changes). It also has handy links to let me open any project in Atom, in Terminal or on the GitHub website.&lt;/p&gt;
-
-&lt;h2 id=&quot;terminal&quot;&gt;&lt;a href=&quot;https://support.apple.com/en-gb/guide/terminal/welcome/mac&quot;&gt;Terminal&lt;/a&gt;&lt;/h2&gt;
-
-&lt;p&gt;Even though I don’t use Terminal for GitHub, I do use it to fire up Jekyll and run it locally. This let’s me build and test web stuff locally.&lt;/p&gt;
-
-&lt;h2 id=&quot;trello&quot;&gt;&lt;a href=&quot;https://trello.com&quot;&gt;Trello&lt;/a&gt;&lt;/h2&gt;
-
-&lt;p&gt;Trello is my tool of choice for managing sprints and kanban processes. I also use it home for planning holidays and Christmas. It’s especially handy if you learn the &lt;a href=&quot;https://trello.com/shortcuts&quot;&gt;keyboard shortcuts&lt;/a&gt; and &lt;a href=&quot;https://help.trello.com/article/821-using-markdown-in-trello&quot;&gt;Markdown formatting&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;slack&quot;&gt;&lt;a href=&quot;https://slack.com/&quot;&gt;Slack&lt;/a&gt;&lt;/h2&gt;
-
-&lt;p&gt;Slack is amazing at helping teams to stay in touch (arguably better than Email or Skype). It’s especially useful when teams don’t work in the same location or during the same hours.&lt;/p&gt;
-
-&lt;h2 id=&quot;ia-writer&quot;&gt;&lt;a href=&quot;https://ia.net/writer&quot;&gt;iA Writer&lt;/a&gt;&lt;/h2&gt;
-
-&lt;p&gt;iA Writer is a great stripped back text editor. I use it less these days, as Google Drive has become my starting point for most documents. But I still love iA Writer’s speed and simplicity.&lt;/p&gt;
-
-&lt;h2 id=&quot;google-inbox&quot;&gt;&lt;a href=&quot;https://www.google.co.uk/inbox/&quot;&gt;Google Inbox&lt;/a&gt;&lt;/h2&gt;
-
-&lt;p&gt;Google Inbox is being shutdown soon, but it’s been my go to tool for email and todo lists for the past few years, making it central to most of the work that I do. I’m trying to wean myself back onto Gmail and Google Tasks.&lt;/p&gt;
-
-&lt;p&gt;I think most of all, I’m going to miss the &lt;a href=&quot;https://support.google.com/inbox/answer/6228360?hl=en-GB&quot;&gt;Trip bundles&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Check out &lt;a href=&quot;/blog/web-design-tools&quot;&gt;my similar post from 2013&lt;/a&gt; to see how things have changed.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 11 Nov 2018 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/interaction-design-tools/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/interaction-design-tools/</guid>
-        
-        
-        <category>nablopomo</category>
-        
-        <category>design</category>
-        
-        <category>tools</category>
         
       </item>
     
