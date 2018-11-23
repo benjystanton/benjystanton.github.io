@@ -5,9 +5,39 @@
     <description>Interaction Designer. Family Man. Music Snob.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 22 Nov 2018 19:43:44 +0000</pubDate>
-    <lastBuildDate>Thu, 22 Nov 2018 19:43:44 +0000</lastBuildDate>
+    <pubDate>Fri, 23 Nov 2018 20:59:32 +0000</pubDate>
+    <lastBuildDate>Fri, 23 Nov 2018 20:59:32 +0000</lastBuildDate>
     <generator>Jekyll v3.8.4</generator>
+    
+      <item>
+        <title>Speaking at Service Design in Gov 2019</title>
+        <description>&lt;p class=&quot;lede&quot;&gt;Looks like me and &lt;a href=&quot;https://twitter.com/@kieran_forde&quot;&gt;Kieran&lt;/a&gt; will be speaking at &lt;a href=&quot;https://govservicedesign.net/2019/&quot;&gt;Service Design in Government 2019&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The conference takes place in Edinburgh in March and we’ll be doing a case study on making stats easier to understand.&lt;/p&gt;
+
+&lt;p&gt;Here’s a bit about the talk from &lt;a href=&quot;https://govservicedesign.net/2019/sessions/index.php?session=102&quot;&gt;the conference website&lt;/a&gt;;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;At this session, you will learn how we:&lt;/p&gt;
+  &lt;ul&gt;
+    &lt;li&gt;worked with a multidisciplinary team across our department and the wider organisation&lt;/li&gt;
+    &lt;li&gt;gathered evidence to convince stakeholders of the need for simpler statistical reports&lt;/li&gt;
+    &lt;li&gt;presented our work to senior stakeholders and regulatory bodies&lt;/li&gt;
+    &lt;li&gt;learnt about the needs of end users and internal users&lt;/li&gt;
+    &lt;li&gt;improved the service by co-designing and pair-writing with teams&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Hopefully see you there!&lt;/p&gt;
+</description>
+        <pubDate>Fri, 23 Nov 2018 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/speaking-at-service-design-in-gov-2019/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/speaking-at-service-design-in-gov-2019/</guid>
+        
+        
+        <category>nablopomo</category>
+        
+      </item>
     
       <item>
         <title>A quick review of the Netflix She-Ra reboot</title>
@@ -410,52 +440,6 @@ Repeat steps 1 to 7.&lt;/p&gt;
         <category>nablopomo</category>
         
         <category>release-notes</category>
-        
-      </item>
-    
-      <item>
-        <title>How improving typography can help us to meet user needs</title>
-        <description>&lt;h2 id=&quot;what-is-typography&quot;&gt;What is typography?&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Typography isn’t the same as “choosing a font”.&lt;/li&gt;
-  &lt;li&gt;Typography is about improving the usability and readability of content.&lt;/li&gt;
-  &lt;li&gt;Typography is concerned with the layout, spacing, size, contrast, ordering and grouping of text.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;what-problems-does-good-typography-solve&quot;&gt;What problems does good typography solve?&lt;/h2&gt;
-&lt;p&gt;Good typography can help users to;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;navigate around a page&lt;/li&gt;
-  &lt;li&gt;understand the meaning of content&lt;/li&gt;
-  &lt;li&gt;understand the relationship between different bits of content&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;how-do-we-know-poor-typography-is-a-real-problem&quot;&gt;How do we know poor typography is a real problem?&lt;/h2&gt;
-&lt;p&gt;I’ve observed the following in usability testing;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;users get overwhelmed when presented with too much content&lt;/li&gt;
-  &lt;li&gt;users find it difficult to scan a pages and pick out information&lt;/li&gt;
-  &lt;li&gt;users squint, lean closer to the screen and complain about small text&lt;/li&gt;
-  &lt;li&gt;strong headings, clear and generous spacing and larger text helps users to scan text and find specific bits&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;how-can-we-tell-if-better-typography-is-solving-the-problem&quot;&gt;How can we tell if better typography is solving the problem?&lt;/h2&gt;
-&lt;p&gt;Through usability testing and collecting feedback, it should be possible to observe that;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;users are able to find the content they are looking for more easily&lt;/li&gt;
-  &lt;li&gt;users find the content easier to understand&lt;/li&gt;
-  &lt;li&gt;users with low vision will be able to read content more easily&lt;/li&gt;
-  &lt;li&gt;users are able to spend longer reading content&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Tue, 13 Nov 2018 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/how-improving-typography-can-help-us-to-meet-user-needs/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/how-improving-typography-can-help-us-to-meet-user-needs/</guid>
-        
-        
-        <category>nablopomo</category>
-        
-        <category>design</category>
         
       </item>
     
