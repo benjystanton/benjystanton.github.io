@@ -1,20 +1,18 @@
 // Site footer
 
 .site-footer {
-    padding: $spacing-unit 0;
+    background-color: $light-grey-colour;
+    padding: $spacing-unit 0 $spacing-unit/2;
     @include media-query($medium) {
-      padding: 0 0 $spacing-unit;
     }
-    text-align: left;
 
     .wrapper {
-        padding-top: $spacing-unit;
-        border-top: 1px solid $light-grey-colour;
     }
 
     ul {
       list-style: none;
       margin-left: 0;
+      margin-bottom: 0;
     }
 
     li {
