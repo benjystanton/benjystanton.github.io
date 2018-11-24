@@ -5,8 +5,8 @@
     <description>Interaction Designer. Family Man. Music Snob.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 24 Nov 2018 19:48:19 +0000</pubDate>
-    <lastBuildDate>Sat, 24 Nov 2018 19:48:19 +0000</lastBuildDate>
+    <pubDate>Sat, 24 Nov 2018 21:56:42 +0000</pubDate>
+    <lastBuildDate>Sat, 24 Nov 2018 21:56:42 +0000</lastBuildDate>
     <generator>Jekyll v3.8.4</generator>
     
       <item>
@@ -35,7 +35,7 @@
 &lt;p&gt;Here’s a bit about the talk from &lt;a href=&quot;https://govservicedesign.net/2019/sessions/index.php?session=102&quot;&gt;the conference website&lt;/a&gt;;&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;At this session, you will learn how we:&lt;/p&gt;
+  &lt;h2 id=&quot;at-this-session-you-will-learn-how-we&quot;&gt;At this session, you will learn how we:&lt;/h2&gt;
   &lt;ul&gt;
     &lt;li&gt;worked with a multidisciplinary team across our department and the wider organisation&lt;/li&gt;
     &lt;li&gt;gathered evidence to convince stakeholders of the need for simpler statistical reports&lt;/li&gt;
@@ -237,7 +237,7 @@
     &amp;lt;h1 class=&quot;post-title&quot;&amp;gt;Hi, my name is &amp;lt;span class=&quot;p-name&quot;&amp;gt;Benjy Stanton&amp;lt;/span&amp;gt; and I’m an &amp;lt;span class=&quot;p-job-title&quot;&amp;gt;interaction designer&amp;lt;/span&amp;gt;&amp;lt;/h1&amp;gt;
 
     &amp;lt;p class=&quot;lede p-note&quot;&amp;gt;I work at the &amp;lt;span class=&quot;p-org&quot;&amp;gt;Office for National Statistics (ONS)&amp;lt;/span&amp;gt; and I live in &amp;lt;span class=&quot;p-locality&quot;&amp;gt;Swansea&amp;lt;/span&amp;gt;.&amp;lt;/p&amp;gt;
-    &amp;lt;p class=&quot;margin-top--s&quot;&amp;gt;&amp;lt;a href=&quot;/blog&quot;&amp;gt;Read my blog →&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+    &amp;lt;p class=&quot;margin-top--s&quot;&amp;gt;&amp;lt;a href=&quot;/blog&quot;&amp;gt;Read my blog&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
 
     &amp;lt;h2&amp;gt;Find me on the web&amp;lt;/h2&amp;gt;
     &amp;lt;ul&amp;gt;
