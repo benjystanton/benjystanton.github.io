@@ -10,7 +10,7 @@ The conference takes place in Edinburgh in March and we'll be doing a case study
 
 Here's a bit about the talk from [the conference website](https://govservicedesign.net/2019/sessions/index.php?session=102);
 
-> At this session, you will learn how we:
+> ## At this session, you will learn how we:
 - worked with a multidisciplinary team across our department and the wider organisation
 - gathered evidence to convince stakeholders of the need for simpler statistical reports
 - presented our work to senior stakeholders and regulatory bodies
