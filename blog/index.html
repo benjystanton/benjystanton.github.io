@@ -4,7 +4,7 @@ title: Blog
 permalink: /blog/
 ---
 
-  <p><a href="category">View all categories →</a></p>
+  <p><a class="link--next" href="category">View all categories</a></p>
 
   <ul class="post-list margin-top--s">
     {% for post in site.posts %}
@@ -17,5 +17,3 @@ permalink: /blog/
       </li>
     {% endfor %}
   </ul>
-
-  <p class="margin-top--m"><a href="{{ "/feed.xml" | prepend: site.baseurl }}">Subscribe via RSS</a></p>

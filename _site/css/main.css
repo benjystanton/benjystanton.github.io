@@ -1,3 +1,4 @@
+@charset "UTF-8";
 .background--text-colour {
   background-color: #2e343b;
   color: #ffffff; }
@@ -200,6 +201,12 @@ a {
   color: #ffffff;
   background-color: #007575;
   outline: 3px solid #007575; }
+
+.link--next::after {
+  content: " →"; }
+
+.link--previous::before {
+  content: "← "; }
 
 img {
   height: auto;
