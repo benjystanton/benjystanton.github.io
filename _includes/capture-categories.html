@@ -1,0 +1,6 @@
+{% capture categories %}
+{% for categories in page.categories %}
+<a class="p-category" href="/blog/category/{{categories}}">{{categories}}</a>
+{% unless forloop.last %},{% endunless %}
+{% endfor %}
+{% endcapture %}
