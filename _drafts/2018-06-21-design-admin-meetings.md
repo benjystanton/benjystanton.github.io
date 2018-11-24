@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Design, admin and meetings — carving out time for different types of work
 categories:
 excerpt:

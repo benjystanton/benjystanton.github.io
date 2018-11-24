@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Weekend in Glastonbury
 categories: personal
 excerpt:

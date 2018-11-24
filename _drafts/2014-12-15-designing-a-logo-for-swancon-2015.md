@@ -1,7 +1,7 @@
 ---
 title: Designing a logo for SwanseaCon 2015
 author: benjystanton
-layout: page 
+layout: post 
 permalink: /blog/designing-a-logo-for-swancon-2015/
 categories:
   - Design

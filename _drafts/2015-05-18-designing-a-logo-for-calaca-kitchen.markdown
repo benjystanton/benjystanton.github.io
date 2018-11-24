@@ -1,5 +1,5 @@
 ---
-layout: page 
+layout: post 
 title: "Designing a logo for Calaca Kitchen"
 date: 2015-05-18 15:16:00
 categories: design open
