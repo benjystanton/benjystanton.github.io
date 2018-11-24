@@ -1,5 +1,5 @@
 ---
-layout: page   
+layout: post   
 title: Creating a digital delivery culture
 date: 2016-10-21 20:50:00  
 categories: design

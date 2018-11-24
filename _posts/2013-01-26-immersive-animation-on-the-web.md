@@ -1,5 +1,5 @@
 ---
-layout: page 
+layout: post 
 title: Immersive animation on the&nbsp;web
 date: 2013-01-26 22:27:00
 categories: design animation

@@ -1,5 +1,5 @@
 ---
-layout: page   
+layout: post   
 title: The last ten percent  
 date: 2016-04-17 20:47:00  
 categories: design

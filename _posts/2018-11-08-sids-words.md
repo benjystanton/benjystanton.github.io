@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Sid’s words
 categories: nablopomo personal
 excerpt: A list of our 2 year old's unique words.

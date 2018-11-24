@@ -1,5 +1,5 @@
 ---
-layout: page   
+layout: post   
 title: Things my little girls have taught me about feminism
 date: 2016-08-26 11:12:00  
 categories: speaking personal

@@ -1,5 +1,5 @@
 ---
-layout: page 
+layout: post 
 title: Web design tools
 date: 2013-11-26 10:31:25
 categories: design tools

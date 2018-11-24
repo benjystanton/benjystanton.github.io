@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Weeknotes – series 01 episode 02
 categories: weeknotes
 image: sisters-beach-square.jpg

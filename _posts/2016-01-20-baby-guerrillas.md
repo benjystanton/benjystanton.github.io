@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Baby guerrillas
 categories: ux
 image: baby-playing-mario-square.jpg

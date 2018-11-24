@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Weeknotes – series 01 episode 03
 categories: weeknotes
 image: pizza-union-square.jpg

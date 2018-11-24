@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: September 2018 bookmarks
 categories: links
 excerpt: My read later list from September.

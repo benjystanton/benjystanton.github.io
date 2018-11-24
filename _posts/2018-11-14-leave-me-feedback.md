@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Leave me feedback
 categories: nablopomo release-notes
 ---

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: NaBloPoMo progress
 categories: nablopomo
 excerpt: It’s not a dashboard. Definitely not a dashboard.

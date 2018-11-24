@@ -1,5 +1,5 @@
 ---
-layout: page   
+layout: post   
 title: Training for the Welsh 3 Peaks  
 date: 2016-03-29 16:20:00  
 categories: personal

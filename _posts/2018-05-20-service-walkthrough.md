@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Service walkthrough
 categories: service-design
 excerpt: Observe a service by going through the stages of the user journey.

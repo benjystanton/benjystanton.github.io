@@ -1,5 +1,5 @@
 ---
-layout: page   
+layout: post   
 title: "Add aria-current to the site nav"
 date: 2018-01-13 21:32:00  
 categories: release-notes

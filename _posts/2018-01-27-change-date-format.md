@@ -1,5 +1,5 @@
 ---
-layout: page   
+layout: post   
 title: "Change date format"
 date: 2018-01-27 22:16:00  
 categories: release-notes

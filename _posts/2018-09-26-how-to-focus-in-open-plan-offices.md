@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: How to focus in open plan offices
 categories: design
 excerpt: Earlier this week, I asked the Twitter hive mind for tips how to get focussed work done when working in open plan offices.

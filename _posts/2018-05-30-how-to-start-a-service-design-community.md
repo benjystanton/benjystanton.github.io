@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: How to start a service design community
 categories: service-design
 excerpt: My notes from today’s cross-gov service design call.

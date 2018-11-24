@@ -1,5 +1,5 @@
 ---
-layout: page 
+layout: post 
 title: On knolling
 date: 2012-10-27 22:24:00
 categories: design

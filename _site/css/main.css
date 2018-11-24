@@ -281,17 +281,12 @@ blockquote {
   z-index: 1; }
 
 .site-footer {
-  padding: 36px 0;
-  text-align: left; }
-  @media screen and (min-width: 660px) {
-    .site-footer {
-      padding: 0 0 36px; } }
-  .site-footer .wrapper {
-    padding-top: 36px;
-    border-top: 1px solid #e4e7ea; }
+  background-color: #e4e7ea;
+  padding: 36px 0 18px; }
   .site-footer ul {
     list-style: none;
-    margin-left: 0; }
+    margin-left: 0;
+    margin-bottom: 0; }
   .site-footer li {
     margin-bottom: 18px; }
     @media screen and (min-width: 900px) {
@@ -308,8 +303,16 @@ blockquote {
   padding-right: 18px;
   padding-left: 18px; }
 
+.previous-and-next {
+  margin-top: 72px;
+  padding-top: 18px;
+  border-top: solid 3px #e4e7ea; }
+
+.previous-and-next a {
+  display: block; }
+
 .page-content {
-  padding: 36px 0 36px; }
+  padding: 36px 0 72px; }
   @media screen and (min-width: 660px) {
     .page-content {
       padding-top: 36px; }
@@ -323,6 +326,9 @@ blockquote {
   padding-right: 18px;
   margin-bottom: 36px;
   float: left; }
+
+.column:last-child {
+  padding-right: 0; }
 
 .full {
   width: 100%; }
@@ -422,9 +428,7 @@ caption {
 
 pre,
 code {
-  font-size: 15px;
-  border: 1px solid #abb3bd;
-  border-radius: 3px;
+  font-size: 90%;
   background-color: #e4e7ea; }
 
 code {
@@ -637,6 +641,12 @@ html {
 .padding--s {
   padding: 12px 18px; }
 
+.padding-right--s {
+  padding-right: 36px; }
+
+.padding-left--s {
+  padding-left: 36px; }
+
 .margin-top--0 {
   margin-top: 0; }
 
@@ -672,3 +682,6 @@ html {
 
 .border {
   border: 1px solid #e4e7ea; }
+
+.align-right {
+  text-align: right; }

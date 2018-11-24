@@ -1,5 +1,5 @@
 ---
-layout: page   
+layout: post   
 title: We’re hiring 5 graphic designers at Office for National Statistics (ONS)
 date: 2017-12-16 07:41:00  
 categories: ons design

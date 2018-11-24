@@ -1,5 +1,5 @@
 ---
-layout: page  
+layout: post  
 title: "Use fewer layouts"
 date: 2018-02-03 21:08:00  
 categories: release-notes

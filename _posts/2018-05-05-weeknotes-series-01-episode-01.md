@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Weeknotes – series 01 episode 01
 categories: weeknotes
 crosspost_to_medium: true

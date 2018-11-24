@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Good coffee in places we go for meetings and user research
 categories: nablopomo
 ---

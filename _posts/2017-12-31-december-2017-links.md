@@ -1,5 +1,5 @@
 ---
-layout: page   
+layout: post   
 title: December 2017 bookmarks
 categories: links
 ---

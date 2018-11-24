@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Hiring a user experience (UX) designer at ONS
 categories: ons
 ---

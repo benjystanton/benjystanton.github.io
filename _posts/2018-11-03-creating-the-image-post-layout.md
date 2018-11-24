@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Creating the image post layout
 categories: nablopomo release-notes
 excerpt: A round-up of the key things in my new image post template.

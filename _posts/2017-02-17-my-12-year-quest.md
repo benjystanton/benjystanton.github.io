@@ -1,5 +1,5 @@
 ---
-layout: page   
+layout: post   
 title: My 12 year quest to get a public service design job
 date: 2017-02-17 22:38:00  
 categories: ons

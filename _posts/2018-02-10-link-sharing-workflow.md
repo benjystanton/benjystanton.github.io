@@ -1,5 +1,5 @@
 ---
-layout: page  
+layout: post  
 title: "My link sharing workflow"
 date: 2018-02-10 08:01:00  
 categories: release-notes

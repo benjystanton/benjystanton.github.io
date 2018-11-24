@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Interaction design tools
 categories: nablopomo design tools
 excerpt: The tools that I use every day. Interesting to note the lack of any design apps like Sketch.

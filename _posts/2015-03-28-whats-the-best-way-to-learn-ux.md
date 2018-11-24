@@ -1,5 +1,5 @@
 ---
-layout: page 
+layout: post 
 title: What’s the best way to learn UX?
 date: 2015-03-28 20:06:06
 categories: design ux

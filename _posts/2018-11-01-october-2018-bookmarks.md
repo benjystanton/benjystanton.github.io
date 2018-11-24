@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: October 2018 bookmarks
 categories: links nablopomo
 excerpt: My read later list from October.

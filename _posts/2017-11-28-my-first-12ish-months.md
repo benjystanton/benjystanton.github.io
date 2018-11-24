@@ -1,5 +1,5 @@
 ---
-layout: page   
+layout: post   
 title: My first 12ish months
 date: 2017-11-28 09:39:00  
 categories: ons

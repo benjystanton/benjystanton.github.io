@@ -5,9 +5,26 @@
     <description>Interaction Designer. Family Man. Music Snob.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 23 Nov 2018 20:59:32 +0000</pubDate>
-    <lastBuildDate>Fri, 23 Nov 2018 20:59:32 +0000</lastBuildDate>
+    <pubDate>Sat, 24 Nov 2018 15:17:36 +0000</pubDate>
+    <lastBuildDate>Sat, 24 Nov 2018 15:17:36 +0000</lastBuildDate>
     <generator>Jekyll v3.8.4</generator>
+    
+      <item>
+        <title>I’ve added previous and next links, so users can skip to the posts published before and after this one.</title>
+        <description>
+</description>
+        <pubDate>Sat, 24 Nov 2018 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/adding-previous-and-next-links/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/adding-previous-and-next-links/</guid>
+        
+        
+        <category>notes</category>
+        
+        <category>nablopomo</category>
+        
+        <category>release-notes</category>
+        
+      </item>
     
       <item>
         <title>Speaking at Service Design in Gov 2019</title>
@@ -415,31 +432,6 @@ Repeat steps 1 to 7.&lt;/p&gt;
         
         
         <category>nablopomo</category>
-        
-      </item>
-    
-      <item>
-        <title>Leave me feedback</title>
-        <description>&lt;p class=&quot;lede&quot;&gt;Inspired by &lt;a href=&quot;http://www.ermlikeyeah.com/&quot;&gt;Simon’s website&lt;/a&gt;, I want to encourage people to leave me feedback.&lt;/p&gt;
-
-&lt;p&gt;That way, I can continue to improve this website and spot errors more quickly. Positive comments are welcome too. :)&lt;/p&gt;
-
-&lt;h2 id=&quot;ways-to-leave-feedback&quot;&gt;Ways to leave feedback&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLSeaPCZunEzHf38Te7yIgq7h6-ubJZKyLKZlqbtm7FqpKe_plg/viewform?usp=sf_link&quot;&gt;Fill out this Google  Form&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/benjystanton/benjystanton.github.io/issues/new&quot;&gt;Submit an issue on GitHub&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-</description>
-        <pubDate>Wed, 14 Nov 2018 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/leave-me-feedback/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/leave-me-feedback/</guid>
-        
-        
-        <category>nablopomo</category>
-        
-        <category>release-notes</category>
         
       </item>
     

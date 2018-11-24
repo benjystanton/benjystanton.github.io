@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Introduction to interaction design in gov
 categories: nablopomo
 ---

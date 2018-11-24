@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Weeknotes – series 01 episode 05
 categories: weeknotes
 image: bulletin-new-and-old-thumb.png

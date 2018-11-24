@@ -1,5 +1,5 @@
 ---
-layout: page   
+layout: post   
 title: User experience (UX) designer objectives
 date: 2016-11-18 22:22:00  
 categories: ux ons

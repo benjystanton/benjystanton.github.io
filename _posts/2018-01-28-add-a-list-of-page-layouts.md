@@ -1,5 +1,5 @@
 ---
-layout: page  
+layout: post  
 title: "Add a list of page layouts"
 date: 2018-01-28 08:13:00  
 categories: release-notes

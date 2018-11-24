@@ -1,5 +1,5 @@
 ---
-layout: page   
+layout: post   
 title: Research findings over the long term  
 date: 2016-04-16 17:57:00  
 categories: research conferences meetup

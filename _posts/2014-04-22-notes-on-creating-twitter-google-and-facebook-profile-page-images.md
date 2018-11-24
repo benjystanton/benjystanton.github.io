@@ -1,5 +1,5 @@
 ---
-layout: page 
+layout: post 
 title: Notes on creating Twitter, Google+ and Facebook profile page images
 date: 2014-04-22 14:09:05
 categories: design

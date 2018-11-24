@@ -1,5 +1,5 @@
 ---
-layout: page 
+layout: post 
 title: When things get tedious
 date: 2015-11-12 14:20:00
 categories: design tools

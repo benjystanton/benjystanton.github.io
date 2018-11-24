@@ -1,5 +1,5 @@
 ---
-layout: page   
+layout: post   
 title: The first UK Government accessibility meet-up
 date: 2016-07-22 18:25:00  
 categories: accessibility design meetup

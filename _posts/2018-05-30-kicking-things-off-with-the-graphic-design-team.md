@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Kicking things off with the graphic design team
 categories: design
 image: keep-britain-tidy-thumb.jpg

@@ -1,5 +1,5 @@
 ---
-layout: page 
+layout: post 
 title: Responsive email design
 date: 2014-04-03 12:26:27
 categories: design email
