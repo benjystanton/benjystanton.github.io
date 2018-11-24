@@ -2,19 +2,7 @@
 layout: default
 ---
 
-{% capture categories %}
-{% for categories in page.categories %}
-<a href="/blog/category/{{categories}}">{{categories}}</a>
-{% unless forloop.last %},{% endunless %}
-{% endfor %}
-{% endcapture %}
-
 <article class="post-content" role="article">
-  <header class="post-header">
-    <h1 class="post-title">{{ page.title }}</h1>
-    {% if page.is_post %}<p class="text-small">{{ page.date | date: "%e %B %Y" }} • {{categories}}</p>{% endif %}
-  </header>
+  <h1 class="post-title">{{ page.title }}</h1>
   {{ content }}
 </article>
-
-{% if page.is_post %}<p class="margin-top--m"><a href="/blog">← Back to the blog</a></p>{% endif %}
