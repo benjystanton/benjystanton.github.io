@@ -9,10 +9,22 @@
     @extend %clearfix;
 }
 
+// Previous and Next
+
+.previous-and-next {
+  margin-top: $spacing-unit*2;
+  padding-top: $spacing-unit/2;
+  border-top: solid 3px $light-grey-colour;
+}
+
+.previous-and-next a{
+  display: block;
+}
+
 // Page content
 
 .page-content {
-    padding: $spacing-unit 0 $spacing-unit;
+    padding: $spacing-unit 0 $spacing-unit*2;
 
     @include media-query($medium) {
       padding-top: $spacing-unit;
@@ -39,6 +51,10 @@
     padding-right: $spacing-unit/2;
     margin-bottom: $spacing-unit;
     float: left;
+}
+
+.column:last-child {
+    padding-right: 0;
 }
 
 .full {
