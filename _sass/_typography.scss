@@ -143,27 +143,6 @@ dd {
   margin-bottom: $spacing-unit/2;
 }
 
-.dl-table {
-  border-top: 1px solid $text-colour;
-}
-
-.dl-table dt {
-  float: left;
-  clear: left;
-  width: 50%;
-  font-weight: bold;
-}
-
-.dl-table dt, .dl-table dd {
-  padding-bottom: $spacing-unit/3;
-  padding-top: $spacing-unit/4;
-}
-
-.dl-table dd {
-  border-bottom: 1px solid $text-colour;
-  margin-bottom: 0;
-}
-
 // Inline list
 
 .list-inline {

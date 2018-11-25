@@ -131,23 +131,6 @@ dt {
 dd {
   margin-bottom: 18px; }
 
-.dl-table {
-  border-top: 1px solid #2e343b; }
-
-.dl-table dt {
-  float: left;
-  clear: left;
-  width: 50%;
-  font-weight: bold; }
-
-.dl-table dt, .dl-table dd {
-  padding-bottom: 12px;
-  padding-top: 9px; }
-
-.dl-table dd {
-  border-bottom: 1px solid #2e343b;
-  margin-bottom: 0; }
-
 .list-inline {
   list-style: none;
   margin-left: 0; }
