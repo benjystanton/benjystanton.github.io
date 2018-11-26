@@ -5,9 +5,65 @@
     <description>Interaction Designer. Family Man. Music Snob.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 25 Nov 2018 21:00:31 +0000</pubDate>
-    <lastBuildDate>Sun, 25 Nov 2018 21:00:31 +0000</lastBuildDate>
+    <pubDate>Mon, 26 Nov 2018 18:59:46 +0000</pubDate>
+    <lastBuildDate>Mon, 26 Nov 2018 18:59:46 +0000</lastBuildDate>
     <generator>Jekyll v3.8.4</generator>
+    
+      <item>
+        <title>Blog stats</title>
+        <description>&lt;!-- You can't pass variables straight into includes, you have to capture them first https://jekyllrb.com/docs/includes/#passing-parameter-variables-to-includes  --&gt;
+
+&lt;p class=&quot;lede&quot;&gt;A quick post of blog stats that used to be on the homepage.&lt;/p&gt;
+
+&lt;div class=&quot;flex-grid margin-top--s&quot;&gt;
+  &lt;div class=&quot;flex-grid__col flex-grid__col--third&quot;&gt;
+  &lt;span class=&quot;big-number&quot;&gt;
+114
+&lt;/span&gt;
+&lt;span&gt;&lt;a href=&quot;/blog/&quot;&gt;posts&lt;/a&gt;&lt;/span&gt;
+
+  &lt;/div&gt;
+  &lt;div class=&quot;flex-grid__col flex-grid__col--third&quot;&gt;
+  &lt;span class=&quot;big-number&quot;&gt;
+21
+&lt;/span&gt;
+&lt;span&gt;&lt;a href=&quot;/blog/category/&quot;&gt;categories&lt;/a&gt;&lt;/span&gt;
+
+  &lt;/div&gt;
+  &lt;div class=&quot;flex-grid__col flex-grid__col--third&quot;&gt;
+  &lt;span class=&quot;big-number&quot;&gt;
+35
+&lt;/span&gt;
+&lt;span&gt;pages&lt;/span&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;flex-grid&quot;&gt;
+  &lt;div class=&quot;flex-grid__col flex-grid__col--third&quot;&gt;
+  &lt;span class=&quot;big-number&quot;&gt;
+3
+&lt;/span&gt;
+&lt;span&gt;&lt;a href=&quot;/blog/category/images&quot;&gt;images&lt;/a&gt;&lt;/span&gt;
+
+  &lt;/div&gt;
+  &lt;div class=&quot;flex-grid__col flex-grid__col--third&quot;&gt;
+  &lt;span class=&quot;big-number&quot;&gt;
+3
+&lt;/span&gt;
+&lt;span&gt;&lt;a href=&quot;/blog/category/notes&quot;&gt;notes&lt;/a&gt;&lt;/span&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Mon, 26 Nov 2018 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/blog-stats/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/blog-stats/</guid>
+        
+        
+        <category>nablopomo</category>
+        
+      </item>
     
       <item>
         <title>The stickers on my laptop</title>
@@ -361,21 +417,6 @@
         <category>nablopomo</category>
         
         <category>release-notes</category>
-        
-      </item>
-    
-      <item>
-        <title>A single word that makes the tricky task of changing nappies so much easier.</title>
-        <description>
-</description>
-        <pubDate>Fri, 16 Nov 2018 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/a-single-word/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/a-single-word/</guid>
-        
-        
-        <category>images</category>
-        
-        <category>nablopomo</category>
         
       </item>
     
