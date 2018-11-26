@@ -16,6 +16,18 @@ img {
   border-radius: 50%;
 }
 
+.image-s {
+  height: auto;
+  width: $spacing-unit*2;
+  border-radius: 50%;
+}
+
+.image-m {
+  height: auto;
+  width: $spacing-unit*4;
+  border-radius: 50%;
+}
+
 .post-content img {
   border: 1px solid $light-grey-colour;
 }

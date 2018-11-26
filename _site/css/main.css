@@ -204,6 +204,16 @@ img {
   width: 36px;
   border-radius: 50%; }
 
+.image-s {
+  height: auto;
+  width: 72px;
+  border-radius: 50%; }
+
+.image-m {
+  height: auto;
+  width: 144px;
+  border-radius: 50%; }
+
 .post-content img {
   border: 1px solid #e4e7ea; }
 
