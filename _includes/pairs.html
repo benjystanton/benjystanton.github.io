@@ -1,11 +1,6 @@
-<ul class="list-pairs">
+<dl>
   {% for item in include.list %}
-  <li><span class="list-pairs__name">
-    {% if item.url %}
-    <a href="{{ item.url }}">{{ item.name }}</a>
-    {% else %}
-      {{ item.name }}
-    {% endif %}</span>
-    <br />{{ item.description }}</li>
+  <dt>{% if item.url %}<a href="{{ item.url }}">{{ item.name }}</a>{% else %}{{ item.name }}{% endif %}</dt>
+  <dd>{{ item.description }}</dd>
   {% endfor %}
-</ul>
+</dl>
