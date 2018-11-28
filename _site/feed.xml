@@ -5,9 +5,40 @@
     <description>Interaction Designer. Family Man. Music Snob.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 27 Nov 2018 20:30:19 +0000</pubDate>
-    <lastBuildDate>Tue, 27 Nov 2018 20:30:19 +0000</lastBuildDate>
+    <pubDate>Wed, 28 Nov 2018 19:37:24 +0000</pubDate>
+    <lastBuildDate>Wed, 28 Nov 2018 19:37:24 +0000</lastBuildDate>
     <generator>Jekyll v3.8.4</generator>
+    
+      <item>
+        <title>Nice people saying nice things about the ONS website</title>
+        <description>&lt;p class=&quot;lede&quot;&gt;It was great to see some smart people, that I really respect, recognising the good work that we’re doing in ONS (Office for National Statistics) digital publishing today.&lt;/p&gt;
+
+&lt;p&gt;Tom’s original screenshot focused on a weirdly specific bit of something we did recently. But, even this small component went through some rigorous usability and A/B testing. It built upon a content pattern that already did a good job of meeting a clear user need (I need to know if I’m looking at the latest stuff).&lt;/p&gt;
+
+&lt;p&gt;The good news is, there is lots more of this to come. This is just the tiniest bit of the work we’ve been doing over the past year.&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;I&amp;#39;ve congratulated &lt;a href=&quot;https://twitter.com/mr_dudders?ref_src=twsrc%5Etfw&quot;&gt;@mr_dudders&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/ONS?ref_src=twsrc%5Etfw&quot;&gt;@ONS&lt;/a&gt; for it separately -- and I will never stop. This is one of the biggest single improvements in a websites design ever. &lt;a href=&quot;https://t.co/kXB4s75G1G&quot;&gt;pic.twitter.com/kXB4s75G1G&lt;/a&gt;&lt;/p&gt;&amp;mdash; Tom Forth (@thomasforth) &lt;a href=&quot;https://twitter.com/thomasforth/status/1067360583706652672?ref_src=twsrc%5Etfw&quot;&gt;November 27, 2018&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Quietly (too quietly!) the &lt;a href=&quot;https://twitter.com/ONS?ref_src=twsrc%5Etfw&quot;&gt;@ONS&lt;/a&gt; have been doing some exceptionally good work properly publishing their stats. &lt;a href=&quot;https://t.co/Dg7QNQdW8T&quot;&gt;https://t.co/Dg7QNQdW8T&lt;/a&gt;&lt;/p&gt;&amp;mdash; Tom Loosemore (@tomskitomski) &lt;a href=&quot;https://twitter.com/tomskitomski/status/1067535685559701505?ref_src=twsrc%5Etfw&quot;&gt;November 27, 2018&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Gotta love &lt;a href=&quot;https://twitter.com/ONS?ref_src=twsrc%5Etfw&quot;&gt;@ONS&lt;/a&gt; Quietly getting the job done. 👏 👏 👏 &lt;a href=&quot;https://t.co/qAGWKbeXar&quot;&gt;https://t.co/qAGWKbeXar&lt;/a&gt;&lt;/p&gt;&amp;mdash; Steve Foreshew-Cain (@s_foreshew_cain) &lt;a href=&quot;https://twitter.com/s_foreshew_cain/status/1067737646229872640?ref_src=twsrc%5Etfw&quot;&gt;November 28, 2018&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+</description>
+        <pubDate>Wed, 28 Nov 2018 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/nice-people-saying-nice-things-about-the-ons-website/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/nice-people-saying-nice-things-about-the-ons-website/</guid>
+        
+        
+        <category>nablopomo</category>
+        
+      </item>
     
       <item>
         <title>November 2018 bookmarks</title>
@@ -111,7 +142,7 @@
 &lt;div class=&quot;flex-grid margin-top--s&quot;&gt;
   &lt;div class=&quot;flex-grid__col flex-grid__col--third&quot;&gt;
   &lt;span class=&quot;big-number&quot;&gt;
-115
+116
 &lt;/span&gt;
 &lt;span&gt;&lt;a href=&quot;/blog/&quot;&gt;posts&lt;/a&gt;&lt;/span&gt;
 
@@ -396,68 +427,6 @@
         
         
         <category>nablopomo</category>
-        
-      </item>
-    
-      <item>
-        <title>Adding h-entry to the posts template</title>
-        <description>&lt;p class=&quot;lede&quot;&gt;The next step in getting my site &lt;a href=&quot;https://indieweb.org/&quot;&gt;indieweb&lt;/a&gt; ready is to add &lt;a href=&quot;http://microformats.org/wiki/h-entry&quot;&gt;h-entry&lt;/a&gt; microformat markup to the posts.&lt;/p&gt;
-
-&lt;h2 id=&quot;heres-what-ive-done-so-far&quot;&gt;Here’s what I’ve done so far…&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Created a new layout called “post”&lt;/li&gt;
-  &lt;li&gt;This will be used for standard blog posts, and is different from “pages” and “image posts”&lt;/li&gt;
-  &lt;li&gt;Moved the &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;header&amp;gt;&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;h1&amp;gt;&lt;/code&gt; inside the &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;article&amp;gt;&lt;/code&gt;&lt;/li&gt;
-  &lt;li&gt;Added &lt;code class=&quot;highlighter-rouge&quot;&gt;.h-entry&lt;/code&gt; class to the &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;article&amp;gt;&lt;/code&gt;&lt;/li&gt;
-  &lt;li&gt;Added &lt;code class=&quot;highlighter-rouge&quot;&gt;.p-name&lt;/code&gt; class to the &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;h1&amp;gt;&lt;/code&gt;&lt;/li&gt;
-  &lt;li&gt;Added a profile image with the class &lt;code class=&quot;highlighter-rouge&quot;&gt;.u-photo&lt;/code&gt;&lt;/li&gt;
-  &lt;li&gt;Added an author (as in my name) with &lt;code class=&quot;highlighter-rouge&quot;&gt;rel=&quot;author&quot; class=&quot;p-author h-card&quot;&lt;/code&gt; markup&lt;/li&gt;
-  &lt;li&gt;Added a link back from name to my home page&lt;/li&gt;
-  &lt;li&gt;Added &lt;code class=&quot;highlighter-rouge&quot;&gt;.dt-published&lt;/code&gt; class to the published on date&lt;/li&gt;
-  &lt;li&gt;Added permalink for the post to the published on date&lt;/li&gt;
-  &lt;li&gt;Added the &lt;code class=&quot;highlighter-rouge&quot;&gt;.u-url&lt;/code&gt; class to the permalink&lt;/li&gt;
-  &lt;li&gt;Added the &lt;code class=&quot;highlighter-rouge&quot;&gt;.e-content&lt;/code&gt; class to the full content of the post&lt;/li&gt;
-  &lt;li&gt;Checked it all with the &lt;a href=&quot;https://indiewebify.me/validate-h-entry/&quot;&gt;indiewebify.me validator&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;example-markup-with-style-classes-removed&quot;&gt;Example markup (with style classes removed)&lt;/h2&gt;
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;article class=&quot;h-entry&quot; role=&quot;article&quot;&amp;gt;
-  &amp;lt;header&amp;gt;
-    &amp;lt;h1 class=&quot;p-name&quot;&amp;gt;Adding h-entry to the posts template&amp;lt;/h1&amp;gt;
-    &amp;lt;p&amp;gt;
-      &amp;lt;img class=&quot;u-photo&quot; src=&quot;http://localhost:4000/assets/benjy-stanton.jpg&quot; alt=&quot;&quot; height=&quot;50&quot; width=&quot;50&quot;&amp;gt; by
-      &amp;lt;a rel=&quot;author&quot; class=&quot;p-author h-card&quot; href=&quot;http://localhost:4000&quot;&amp;gt;Benjy Stanton&amp;lt;/a&amp;gt; on
-      &amp;lt;a class=&quot;dt-published u-url&quot; href=&quot;&quot;&amp;gt;18 November 2018&amp;lt;/a&amp;gt; in
-        &amp;lt;a class=&quot;p-category&quot; href=&quot;/blog/category/nablopomo&quot;&amp;gt;nablopomo&amp;lt;/a&amp;gt;, &amp;lt;a class=&quot;p-category&quot; href=&quot;/blog/category/release-notes&quot;&amp;gt;release-notes&amp;lt;/a&amp;gt;
-    &amp;lt;/p&amp;gt;
-  &amp;lt;/header&amp;gt;
-  &amp;lt;div class=&quot;e-content&quot;&amp;gt;
-    …
-  &amp;lt;/div&amp;gt;
-&amp;lt;/article&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;but-why&quot;&gt;But why?&lt;/h2&gt;
-
-&lt;p&gt;Doing all this will make my blog a more fully featured publishing platform (like Medium). But the benefit is, the content is on my domain.&lt;/p&gt;
-
-&lt;p&gt;Eventually I hope to start syndicating all my content automatically to other sites like Twitter and Medium by following the Publish (on your) Own Site, Syndicate Elsewhere (POSSE) model. This and other steps are getting the site ready to start POSSEing. (Not sure if that’s a word).&lt;/p&gt;
-
-&lt;h2 id=&quot;next-steps&quot;&gt;Next steps&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Switch all old posts to this template&lt;/li&gt;
-  &lt;li&gt;Add similar features to the image post&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Sun, 18 Nov 2018 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/adding-h-entry-to-the-posts-template/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/adding-h-entry-to-the-posts-template/</guid>
-        
-        
-        <category>nablopomo</category>
-        
-        <category>release-notes</category>
         
       </item>
     
