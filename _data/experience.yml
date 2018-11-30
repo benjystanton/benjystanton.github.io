@@ -1,11 +1,12 @@
 ---
-  
+
 - name: Office for National Statistics
   description: October 2016 to today
   url: https://www.ons.gov.uk/
 
-- name: Leadin
+- name: Gofore (previously Leadin)
   description: May 2015 to October 2016
+  url: https://gofore.com/en/home/
 
 - name: Freelance
   description: February 2014 to March 2016
