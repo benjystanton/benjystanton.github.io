@@ -5,9 +5,41 @@
     <description>Interaction Designer. Family Man. Music Snob.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 30 Nov 2018 14:19:31 +0000</pubDate>
-    <lastBuildDate>Fri, 30 Nov 2018 14:19:31 +0000</lastBuildDate>
+    <pubDate>Fri, 30 Nov 2018 17:09:11 +0000</pubDate>
+    <lastBuildDate>Fri, 30 Nov 2018 17:09:11 +0000</lastBuildDate>
     <generator>Jekyll v3.8.4</generator>
+    
+      <item>
+        <title>NaBloPoMo round-up</title>
+        <description>&lt;p class=&quot;lede&quot;&gt;I did it! &lt;a href=&quot;/blog/category/nablopomo/&quot;&gt;30 posts in 30 days&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;I spent more time tweaking the patterns and components on the blog, rather than writing actual articles, but I think that’s okay.&lt;/p&gt;
+
+&lt;h2 id=&quot;heres-a-quick-highlight-reel&quot;&gt;Here’s a quick highlight reel&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;I created a &lt;a href=&quot;/blog/category/images/&quot;&gt;new image post template&lt;/a&gt; and &lt;a href=&quot;/blog/creating-the-image-post-layout/&quot;&gt;blogged about it&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Added a &lt;a href=&quot;/feed.xml&quot;&gt;link to my RSS feed&lt;/a&gt; to the footer&lt;/li&gt;
+  &lt;li&gt;Made a &lt;a href=&quot;/blog/sids-words/&quot;&gt;list of words that my 2 year old says&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Made a &lt;a href=&quot;/blog/interaction-design-tools/&quot;&gt;list of interaction design tools that I use&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Started adding some indieweb features to the site in the shape of &lt;a href=&quot;/blog/getting-started-with-indieweb/&quot;&gt;microformats&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Blogged from my phone using the &lt;a href=&quot;https://workingcopyapp.com/&quot;&gt;Working Copy app&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Created a &lt;a href=&quot;/blog/nablopomo-progress/&quot;&gt;progress bar&lt;/a&gt; and &lt;a href=&quot;/blog/blog-stats/&quot;&gt;key figures dashboard&lt;/a&gt; for my blog&lt;/li&gt;
+  &lt;li&gt;Next and previous links to the bottom of articles&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Thanks to &lt;a href=&quot;https://twitter.com/jukesie&quot;&gt;Jukesie&lt;/a&gt; for encouraging me to do it. And to Michelle for putting up with me blogging every night.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 30 Nov 2018 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/nablopomo-round-up/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/nablopomo-round-up/</guid>
+        
+        
+        <category>nablopomo</category>
+        
+        <category>release-notes</category>
+        
+      </item>
     
       <item>
         <title>Learnt recently that definition lists (DLs) can have multiple definitions (DDs) for every term (DT) and I’m so here for it.</title>
@@ -157,7 +189,7 @@
 &lt;div class=&quot;flex-grid margin-top--s&quot;&gt;
   &lt;div class=&quot;flex-grid__col flex-grid__col--third&quot;&gt;
   &lt;span class=&quot;big-number&quot;&gt;
-117
+118
 &lt;/span&gt;
 &lt;span&gt;&lt;a href=&quot;/blog/&quot;&gt;posts&lt;/a&gt;&lt;/span&gt;
 
@@ -376,21 +408,6 @@
         <pubDate>Wed, 21 Nov 2018 00:00:00 +0000</pubDate>
         <link>http://localhost:4000/blog/posting-from-my-phone/</link>
         <guid isPermaLink="true">http://localhost:4000/blog/posting-from-my-phone/</guid>
-        
-        
-        <category>notes</category>
-        
-        <category>nablopomo</category>
-        
-      </item>
-    
-      <item>
-        <title>This is a simple note template. A note is a post that is typically short unstructured plain text, written &amp; posted quickly, that has its own permalink page.</title>
-        <description>
-</description>
-        <pubDate>Tue, 20 Nov 2018 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/a-note-template/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/a-note-template/</guid>
         
         
         <category>notes</category>
