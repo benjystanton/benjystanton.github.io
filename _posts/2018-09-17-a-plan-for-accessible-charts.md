@@ -17,6 +17,16 @@ The next step is to create some prototype charts and start iterating. But I want
 - Charts should be readable in black and white
 - Check design works in high contrast mode
 
+
+### Update on colour
+<span class="text-small"> By <a href="https://twitter.com/henryjameslau">Henry Lau</a> on 5 December 2018<span>.
+
+Thanks to <a href="https://twitter.com/henryjameslau">Henry</a> for adding these points about how colour is used by data visualisation producers.
+
+Colour also has semantic meaning. Be careful to check what those colours could mean for people. Meaning also varies culturally so may mean different things outside what you're used to.
+
+Be mindful that when using colour to represents your data that it shows the relationships in your data. E.g. if your data is different categories, your colours should be as distinct as possible. If your data is sequential or represents a range, colour should change in a sensible way. Lab and HCL colour spaces calculate colour based on the way the human eye works, rather than how computers calculate colours.
+
 ## Line and bar style
 
 - Consider using patterns or textures to distinguish bars and lines
