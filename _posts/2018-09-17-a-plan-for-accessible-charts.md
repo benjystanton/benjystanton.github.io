@@ -19,9 +19,9 @@ The next step is to create some prototype charts and start iterating. But I want
 
 
 ### Update on colour
-<span class="text-small"> By <a href="https://twitter.com/henryjameslau">Henry Lau</a> on 5 December 2018<span>.
+<span class="text-small"> By <a href="https://twitter.com/henryjameslau">Henry Lau</a> on 5 December 2018<span>
 
-Thanks to <a href="https://twitter.com/henryjameslau">Henry</a> for adding these points about how colour is used by data visualisation producers.
+Thanks to <a href="https://twitter.com/henryjameslau">Henry</a> for suggesting these points about how colour is used by data visualisation producers.
 
 Colour also has semantic meaning. Be careful to check what those colours could mean for people. Meaning also varies culturally so may mean different things outside what you're used to.
 
