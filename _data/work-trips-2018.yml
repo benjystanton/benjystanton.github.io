@@ -84,21 +84,21 @@
   from: Swansea
   to: London Paddington
 
-- destination: Exeter
+- destination: Exeter city centre hotel
   city: Exeter
   category: user research
   month: September
   from: London Paddington
   to: Exeter St David
 
-- destination: Reading
+- destination: Reading city centre hotel
   city: Reading
   category: user research
   month: November
   from: Swansea
   to: Reading
 
-- destination: Sheffield
+- destination: Sheffield city centre hotel
   city: Sheffield
   category: user research
   month: December
