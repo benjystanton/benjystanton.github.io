@@ -185,3 +185,12 @@ hr {
     margin: $spacing-unit*2 0;
   }
 }
+
+// Counters
+
+.counter {
+  display: inline-block;
+  width: 1.6em;
+  text-align: center;
+  border-radius: 50%;
+}

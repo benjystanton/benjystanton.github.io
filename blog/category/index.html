@@ -7,7 +7,8 @@ title: Categories
 {% for category in site.categories %}
   <li>
     <a href="/blog/category/{{category | first}}/">{{category | first }}</a>
-  <span class="text-small">({{ category | last | size }})</span></li>
+    <small class="background--light-grey-colour counter">{{ category | last | size }}</small>
+  </li>
 {% endfor %}
 </ul>
 

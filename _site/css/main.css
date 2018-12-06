@@ -162,6 +162,12 @@ hr {
     hr {
       margin: 72px 0; } }
 
+.counter {
+  display: inline-block;
+  width: 1.6em;
+  text-align: center;
+  border-radius: 50%; }
+
 /**
  * Links
  */
