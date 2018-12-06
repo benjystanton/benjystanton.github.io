@@ -61,6 +61,3 @@ Outside of work, I’m kept busy by my 3 young kids. I spend the weekends having
 ## References
 
 Available on request.
-
-
-<p class="text-small">Last updated {{ "now" | date: "%e %B %Y" }}</p>
