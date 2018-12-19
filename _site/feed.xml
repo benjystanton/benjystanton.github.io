@@ -5,9 +5,46 @@
     <description>Interaction Designer. Family Man. Music Snob.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 14 Dec 2018 08:57:06 +0000</pubDate>
-    <lastBuildDate>Fri, 14 Dec 2018 08:57:06 +0000</lastBuildDate>
+    <pubDate>Wed, 19 Dec 2018 21:29:58 +0000</pubDate>
+    <lastBuildDate>Wed, 19 Dec 2018 21:29:58 +0000</lastBuildDate>
     <generator>Jekyll v3.8.4</generator>
+    
+      <item>
+        <title>Five things Andy taught me</title>
+        <description>&lt;p class=&quot;lede&quot;&gt;This is my response to &lt;a href=&quot;https://twitter.com/mr_dudders&quot;&gt;Andy&lt;/a&gt;’s blog post &lt;a href=&quot;http://mrdudders.posthaven.com/five-things-benjy-taught-me&quot;&gt;five things Benjy taught me&lt;/a&gt;. If you’re tired by our cheesy web bromance, turn away now).&lt;/p&gt;
+
+&lt;p&gt;Andy is a great leader. Over the past 2 years, he has gone out of his way to help me do a good job. And he’s used his experience and contacts to help me become a better designer. I honestly would not have survived my first 2 years as a civil servant without his help.&lt;/p&gt;
+
+&lt;p&gt;Here are 5 things he helped me to understand…&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Love the Web&lt;/strong&gt; — Andy loves the Web more than anyone I know. He’s shown me its value as a tool for empowering democracy and debate. And that the mission to publish open data is worth fighting for (because it will save the world).&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Work in the open&lt;/strong&gt; — to live and breath the web, you have to work in the open too. Blog, tweet, week note, speak at meet-ups. It helps you to formulate your ideas and become a better practitioner. It helps other teams going through the same problem. And it invites external people to advise you on the problems you are facing.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Support the culture&lt;/strong&gt; — you have to work hard at culture. Doing digital work in big organisations that don’t always understand its value is hard. Culture and supportive teams make it possible, but it doesn’t happen by accident. And it doesn’t happen from the top down.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Trust your team&lt;/strong&gt; — Andy trusts his team completely. He hires good people and he gets out of their way. This is what I am trying to do with the designers that I work with. In fact, everything I have learnt about management and leadership I have learnt from Andy.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Be human&lt;/strong&gt; — Andy has never asked me to be anything but myself. It doesn’t matter to him that I’m introverted, or that I’m a bit scruffy, or that I need to leave early to get home for the kids. Just work hard and be nice to people.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Andy is making great things happen at ONS (Office for National Statistics) and he never takes any of the credit. If you have a chance to work with him, I recommend you take it.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 19 Dec 2018 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/5-things-andy-taught-me/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/5-things-andy-taught-me/</guid>
+        
+        
+        <category>personal</category>
+        
+      </item>
     
       <item>
         <title>A user manual for me</title>
@@ -76,6 +113,8 @@
         <link>http://localhost:4000/blog/a-user-manual-for-me/</link>
         <guid isPermaLink="true">http://localhost:4000/blog/a-user-manual-for-me/</guid>
         
+        
+        <category>personal</category>
         
       </item>
     
@@ -259,7 +298,7 @@
 &lt;div class=&quot;flex-grid margin-top--s&quot;&gt;
   &lt;div class=&quot;flex-grid__col flex-grid__col--third&quot;&gt;
   &lt;span class=&quot;big-number&quot;&gt;
-119
+120
 &lt;/span&gt;
 &lt;span&gt;&lt;a href=&quot;/blog/&quot;&gt;posts&lt;/a&gt;&lt;/span&gt;
 
@@ -444,27 +483,6 @@
         <pubDate>Fri, 23 Nov 2018 00:00:00 +0000</pubDate>
         <link>http://localhost:4000/blog/speaking-at-service-design-in-gov-2019/</link>
         <guid isPermaLink="true">http://localhost:4000/blog/speaking-at-service-design-in-gov-2019/</guid>
-        
-        
-        <category>nablopomo</category>
-        
-      </item>
-    
-      <item>
-        <title>A quick review of the Netflix She-Ra reboot</title>
-        <description>&lt;p class=&quot;lede&quot;&gt;Netflix’s new She-Ra is seriously cool. The female characters are strong and diverse in personality, body shape and skin tone. Some are good, some are evil. Some are funny, some are serious, some are nerdy.&lt;/p&gt;
-
-&lt;p&gt;The men are sensitive and supporting without being overtly masculine. Often they are camp and their sexuality is ambiguous.&lt;/p&gt;
-
-&lt;p&gt;It’s also funny, spooky and full of cool action sequences.&lt;/p&gt;
-
-&lt;p&gt;It’s the feminist cartoon series I’ve been waiting for.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.vox.com/culture/2018/11/21/18105176/she-ra-princesses-of-power-reboot-review&quot;&gt;Review of She-Ra on Vox&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Thu, 22 Nov 2018 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/a-quick-review-of-she-ra/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/a-quick-review-of-she-ra/</guid>
         
         
         <category>nablopomo</category>
