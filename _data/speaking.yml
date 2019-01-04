@@ -1,4 +1,7 @@
 ---
+- name: Service Design in Government 2019
+  description: March 2019
+  url: https://govservicedesign.net/2019/sessions/index.php?session=102
 
 - name: ConCon
   description: October 2017
@@ -30,6 +33,6 @@
 
 - name: Swansea Software Meetup
   description: September 2014
-  
+
 - name: Port80 Conference
   description: May 2013

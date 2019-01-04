@@ -37,7 +37,7 @@ I've worked on services in discovery, alpha, beta and live phases and I’m an a
 
 **Office for National Statistics (ONS)**<br>
 <span class="text-small">October 2016 to today</span><br>
-At ONS I'm the lead interaction designer in the Digital Publishing department. I lead a small team of interaction and graphic designers. I'm responsible for the user experience of the ONS website and the tools that the publishing team use to edit content. I work alongside civil servants and external contractors to help users find, understand and use our complex content and data formats. I create prototypes, observe user research and run A/B tests to help us improve the website.
+At ONS I'm the lead interaction designer in the Digital Publishing department. I lead a team of interaction and graphic designers. I'm responsible for the user experience of the ONS website and the tools that the publishing team use to edit content. I work alongside civil servants and external contractors to help users find, understand and use our complex content and data formats. I create prototypes, observe user research and run A/B tests to help us improve the website.
 
 **DVLA (with Leadin)**<br>
 <span class="text-small">May 2015 to October 2016</span><br>
