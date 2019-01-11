@@ -5,9 +5,68 @@
     <description>Interaction Designer. Family Man. Music Snob.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 04 Jan 2019 12:17:59 +0000</pubDate>
-    <lastBuildDate>Fri, 04 Jan 2019 12:17:59 +0000</lastBuildDate>
+    <pubDate>Fri, 11 Jan 2019 13:41:56 +0000</pubDate>
+    <lastBuildDate>Fri, 11 Jan 2019 13:41:56 +0000</lastBuildDate>
     <generator>Jekyll v3.8.4</generator>
+    
+      <item>
+        <title>Weeknotes – series 02 episode 01</title>
+        <description>&lt;p class=&quot;lede&quot;&gt;This was my first week back after Christmas and my first week on the Census cross-service team.&lt;/p&gt;
+
+&lt;p&gt;I was weirdly nervous because I didn’t know where I was meant to sit, but it turns out that nearly everyone was moving desk. The whole Survey Data Collection department was being reorganised as it gets ready for the Census test later this year.&lt;/p&gt;
+
+&lt;h2 id=&quot;resisting-the-move&quot;&gt;Resisting the move&lt;/h2&gt;
+
+&lt;p&gt;I’ve been resistant to moving teams, and one of the reasons is because the job feels so different (new room, new team, new products, new manager) and it didn’t really come with any of the usually exciting aspects associated with a new job. I guess I’m going to have to bake my own welcome-to-the-team cake?&lt;/p&gt;
+
+&lt;h2 id=&quot;focus-on-something&quot;&gt;Focus on something&lt;/h2&gt;
+
+&lt;p&gt;I decided to focus on trying to identify all the channels that a person might experience when using the Census. A simple user journey could include all of these, and more:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;marketing campaigns&lt;/li&gt;
+  &lt;li&gt;paper letter&lt;/li&gt;
+  &lt;li&gt;people calling at the door&lt;/li&gt;
+  &lt;li&gt;a big fat online survey&lt;/li&gt;
+  &lt;li&gt;email reminders&lt;/li&gt;
+  &lt;li&gt;call centres&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;service-design-fun&quot;&gt;Service design fun&lt;/h2&gt;
+
+&lt;p&gt;I was slowly getting over myself and realising that this is a very interesting and complicated service journey to help design. There are of course many complex behind-the-scenes things that need to happen to keep this running smoothly, not to mention the challenge of processing and using the resulting data effectively.&lt;/p&gt;
+
+&lt;p&gt;My plan over the next few days and weeks is to:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;meet the wider team&lt;/li&gt;
+  &lt;li&gt;understand the different products&lt;/li&gt;
+  &lt;li&gt;draw up a service blueprint&lt;/li&gt;
+  &lt;li&gt;map out the stakeholders&lt;/li&gt;
+  &lt;li&gt;perform a service walkthrough&lt;/li&gt;
+  &lt;li&gt;identify gaps&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I’m going to really miss my old team in Digital Publishing and the wider data publishing community, but I’m focusing on the positives of working over here*. I get to:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;help improve a service that will be used by everyone in the country&lt;/li&gt;
+  &lt;li&gt;work across several multidisciplinary product teams&lt;/li&gt;
+  &lt;li&gt;learn about another bit of statistics (how survey data is collected)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Apart from helping the Census, there is real work to be done to help improve the design community here at ONS and I think that being able to hang out with a different team should give me a more rounded view of things.&lt;/p&gt;
+
+&lt;p&gt;*in reality my new desk is about a 1 minute walk away from my old one.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/weeknotes-series-02-episode-01/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/weeknotes-series-02-episode-01/</guid>
+        
+        
+        <category>weeknotes</category>
+        
+      </item>
     
       <item>
         <title>Christmas day dinner timings 2018</title>
@@ -476,7 +535,7 @@
 &lt;div class=&quot;flex-grid margin-top--s&quot;&gt;
   &lt;div class=&quot;flex-grid__col flex-grid__col--third&quot;&gt;
   &lt;span class=&quot;big-number&quot;&gt;
-122
+123
 &lt;/span&gt;
 &lt;span&gt;&lt;a href=&quot;/blog/&quot;&gt;posts&lt;/a&gt;&lt;/span&gt;
 
@@ -518,103 +577,6 @@
         <link>http://localhost:4000/blog/blog-stats/</link>
         <guid isPermaLink="true">http://localhost:4000/blog/blog-stats/</guid>
         
-        
-        <category>nablopomo</category>
-        
-      </item>
-    
-      <item>
-        <title>The stickers on my laptop</title>
-        <description>&lt;p class=&quot;lede&quot;&gt;Here are the descriptions for each of the stickers on my laptop lid right now. Descriptions go from top-left to bottom-right.&lt;/p&gt;
-
-&lt;dl&gt;
-
-  &lt;dt&gt;Daliwch ati&lt;/dt&gt;
-  &lt;dd&gt;The welsh translation of “keep going”&lt;/dd&gt;
-
-  &lt;dt&gt;&lt;a href=&quot;http://international.gov-design.com/&quot;&gt;International design in government&lt;/a&gt;&lt;/dt&gt;
-  &lt;dd&gt;A conference and community of designers working in government around the world&lt;/dd&gt;
-
-  &lt;dt&gt;Florence&lt;/dt&gt;
-  &lt;dd&gt;The content management system behind the ONS (Office for National Statistics) website&lt;/dd&gt;
-
-  &lt;dt&gt;&lt;a href=&quot;http://govdesign.tumblr.com/post/143158136883/download-the-sticker-be-bold-read-the-blog-post&quot;&gt;Be bold&lt;/a&gt;&lt;/dt&gt;
-  &lt;dd&gt;From &lt;a href=&quot;https://medium.com/public-innovators-network/what-if-boldness-were-an-explicit-value-of-the-civil-service-3df6a3d2d008&quot;&gt;What if boldness were an explicit value of the civil service?&lt;/a&gt; by &lt;a href=&quot;https://twitter.com/JanetHughes&quot;&gt;Janet Hughes&lt;/a&gt;&lt;/dd&gt;
-
-  &lt;dt&gt;Customise my data beta&lt;/dt&gt;
-  &lt;dd&gt;A mission patch for a project at ONS (Office for National Statistics), designed by &lt;a href=&quot;https://twitter.com/tomten2two&quot;&gt;Tom&lt;/a&gt;&lt;/dd&gt;
-
-  &lt;dt&gt;Smiley face&lt;/dt&gt;
-  &lt;dd&gt;A hand drawn smiley face on a blue dot sticker&lt;/dd&gt;
-
-  &lt;dt&gt;Order&lt;/dt&gt;
-  &lt;dd&gt;From a set &lt;a href=&quot;https://twitter.com/mr_dudders&quot;&gt;Andy&lt;/a&gt; brought in&lt;/dd&gt;
-
-  &lt;dt&gt;One Team Gov&lt;/dt&gt;
-  &lt;dd&gt;The &lt;a href=&quot;https://www.oneteamgov.uk/&quot;&gt;One Team Gov&lt;/a&gt; logo&lt;/dd&gt;
-
-  &lt;dt&gt;Command&lt;/dt&gt;
-  &lt;dd&gt;A pixelated Apple keyboard command icon from &lt;a href=&quot;http://iconhandbook.co.uk/&quot;&gt;The Icon Handbook&lt;/a&gt;&lt;/dd&gt;
-
-  &lt;dt&gt;&lt;a href=&quot;http://govdesign.tumblr.com/post/147037699728/download-the-sticker-users-first&quot;&gt;Users First&lt;/a&gt;&lt;/dt&gt;
-  &lt;dd&gt;A classic GDS (Government Digital Service) motto&lt;/dd&gt;
-
-  &lt;dt&gt;Make data part of the web&lt;/dt&gt;
-  &lt;dd&gt;One that I designed, based &lt;a href=&quot;https://twitter.com/ldodds&quot;&gt;Leigh Dodds&lt;/a&gt;’ &lt;a href=&quot;https://digitalblog.ons.gov.uk/2017/01/06/some-open-data-publishing-principles/&quot;&gt;open data publishing principles&lt;/a&gt;&lt;/dd&gt;
-
-  &lt;dt&gt;Better government by design #oneteamgov&lt;/dt&gt;
-  &lt;dd&gt;A &lt;a href=&quot;https://www.oneteamgov.uk/&quot;&gt;One Team Gov&lt;/a&gt; motto&lt;/dd&gt;
-
-  &lt;dt&gt;&lt;a href=&quot;https://twitter.com/uxwales&quot;&gt;UX Wales&lt;/a&gt;&lt;/dt&gt;
-  &lt;dd&gt;A UX (user experience) meet-up in Cardiff&lt;/dd&gt;
-
-  &lt;dt&gt;Change takes time&lt;/dt&gt;
-  &lt;dd&gt;Part of the &lt;a href=&quot;https://alysonfielding.com/2016/12/28/practical-action-stickers-doing/&quot;&gt;Practical Action&lt;/a&gt; set by &lt;a href=&quot;https://twitter.com/alysonf&quot;&gt;Alyson Fielding&lt;/a&gt;&lt;/dd&gt;
-
-  &lt;dt&gt;Making data meaningful for everyone&lt;/dt&gt;
-  &lt;dd&gt;Designed by &lt;a href=&quot;https://twitter.com/Carlie_Edge&quot;&gt;Carlie&lt;/a&gt; for the ONS (Office for National Statistics) digital content team&lt;/dd&gt;
-
-  &lt;dt&gt;Data discovery alpha&lt;/dt&gt;
-  &lt;dd&gt;A mission patch for a project at ONS (Office for National Statistics), designed by me&lt;/dd&gt;
-
-  &lt;dt&gt;You are not the user&lt;/dt&gt;
-  &lt;dd&gt;By &lt;a href=&quot;https://twitter.com/marianthux/status/865180783996272640&quot;&gt;Marianthi Makra&lt;/a&gt;&lt;/dd&gt;
-
-  &lt;dt&gt;Cake driven development&lt;/dt&gt;
-  &lt;dd&gt;Part of &lt;a href=&quot;https://twitter.com/dxw/status/542714402827689984&quot;&gt;a set from DXW&lt;/a&gt;&lt;/dd&gt;
-
-  &lt;dt&gt;Build the right thing&lt;/dt&gt;
-  &lt;dd&gt;From &lt;a href=&quot;https://pilot.works/&quot;&gt;Pilot Works&lt;/a&gt;&lt;/dd&gt;
-
-  &lt;dt&gt;#OfTheGovernment&lt;/dt&gt;
-  &lt;dd&gt;A coveted shiny “hashtag of the government” – I think maybe &lt;a href=&quot;https://twitter.com/lauradee&quot;&gt;Laura&lt;/a&gt; saved this one for me?&lt;/dd&gt;
-
-  &lt;dt&gt;&lt;a href=&quot;https://www.ons.gov.uk/&quot;&gt;ONS (Office for National Statistics)&lt;/a&gt;&lt;/dt&gt;
-  &lt;dd&gt;The ONS logo mark, which I’ve just realised has been put on the wrong way round – there goes my chance of getting head of design one day&lt;/dd&gt;
-
-  &lt;dt&gt;&lt;a href=&quot;http://govdesign.tumblr.com/post/143794301833/download-the-sticker-whats-the-user-need-white&quot;&gt;What is the user need?&lt;/a&gt;&lt;/dt&gt;
-  &lt;dd&gt;Another classic GDS (Government Digital Service) sticker&lt;/dd&gt;
-
-  &lt;dt&gt;Go where the users are&lt;/dt&gt;
-  &lt;dd&gt;I designed this one whilst I was working at Leadin – a Finnish service design agency that have now been bought out by &lt;a href=&quot;https://gofore.com/&quot;&gt;Gofore&lt;/a&gt;&lt;/dd&gt;
-
-  &lt;dt&gt;Loyal to the network&lt;/dt&gt;
-  &lt;dd&gt;I found this one in the sticker tub in work – based on &lt;a href=&quot;https://productforthepeople.xyz/loyal-to-the-network-redux-9df296cc69c6&quot;&gt;a post by Jukesie&lt;/a&gt;&lt;/dd&gt;
-
-  &lt;dt&gt;ONS design team&lt;/dt&gt;
-  &lt;dd&gt;One that the ONS (Office for National Statistics) design team designed and printed in-house&lt;/dd&gt;
-
-  &lt;dt&gt;Medical notifications and renewal service alpha&lt;/dt&gt;
-  &lt;dd&gt;A mission patch from the first service I worked on at DVLA (Driver and Vehicle Licensing Agency)&lt;/dd&gt;
-
-&lt;/dl&gt;
-</description>
-        <pubDate>Sun, 25 Nov 2018 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/the-stickers-on-my-laptop/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/the-stickers-on-my-laptop/</guid>
-        
-        
-        <category>images</category>
         
         <category>nablopomo</category>
         
