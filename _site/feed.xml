@@ -5,9 +5,52 @@
     <description>Interaction Designer. Family Man. Music Snob.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 11 Jan 2019 13:41:56 +0000</pubDate>
-    <lastBuildDate>Fri, 11 Jan 2019 13:41:56 +0000</lastBuildDate>
+    <pubDate>Sat, 19 Jan 2019 08:10:02 +0000</pubDate>
+    <lastBuildDate>Sat, 19 Jan 2019 08:10:02 +0000</lastBuildDate>
     <generator>Jekyll v3.8.4</generator>
+    
+      <item>
+        <title>Weeknotes – series 02 episode 02</title>
+        <description>&lt;h2 id=&quot;chatting-to-the-design-team&quot;&gt;Chatting to the design team&lt;/h2&gt;
+&lt;p&gt;On Monday I spent some time catching up with the permanent interaction designers working in my area. Even though they’ll be &lt;a href=&quot;https://twitter.com/benjystanton/status/1083097108352303105&quot;&gt;line-managed by a non-designer&lt;/a&gt; (boo) I’ve been asked to lead them in terms of objectives, progression, training and kit.&lt;/p&gt;
+
+&lt;h2 id=&quot;cross-gov-design-train&quot;&gt;Cross-gov design train&lt;/h2&gt;
+&lt;p&gt;On Tuesday we had an away day in Swindon. I got the train up and bumped into some of my “old” design team from the Office for National Statistics publishing team. They were on the way to the cross-government design away day in London. The theme was “designing for people in crisis”. I was sad to be missing out.&lt;/p&gt;
+
+&lt;p&gt;There were a few others I knew on that train too. In total we counted 13 designers!&lt;/p&gt;
+
+&lt;h2 id=&quot;off-site-away-day&quot;&gt;Off site away-day&lt;/h2&gt;
+&lt;p&gt;When we arrived at Swindon, it was good to meet some of the team from Titchfield (Office for National Statistics other office near Portsmouth). I got on with the user researchers in particular.&lt;/p&gt;
+
+&lt;p&gt;I realised that, as I was struggling to find my feet in a new team, my new team was also struggling to find its place in an even bigger team. And that bigger team was based in Titchfield.&lt;/p&gt;
+
+&lt;p&gt;I’m a fan of remote working, but I think that a big organisation, split over 2 locations, using enterprise software really tests a teams’ ability to work flexibly.&lt;/p&gt;
+
+&lt;p&gt;The away-day could have been run in a more productive, inclusive way. But I definitely see the value of spending time together, and this was the first time we were thrown together. Next time should be easier.&lt;/p&gt;
+
+&lt;h2 id=&quot;panic-attack&quot;&gt;Panic attack?&lt;/h2&gt;
+&lt;p&gt;The following days were hard. A big fat inbox (including invites to 3 different recurring stand-ups) pushed me over the edge and I’m pretty sure I had a panic attack. I think one of the reasons I’m finding this move hard is that I’m used to sounding off on Twitter to let off steam. I don’t feel like I can share much of what’s going on right now, so all my stresses are building up.&lt;/p&gt;
+
+&lt;p&gt;My energy went into firing off passive aggressive emails, which seems to be my speciality at the moment, so apologies if you received one of those.&lt;/p&gt;
+
+&lt;h2 id=&quot;finishing-on-a-high&quot;&gt;Finishing on a high&lt;/h2&gt;
+&lt;p&gt;On Friday I spent time chatting to familiar faces who have been on the team longer than I have. They confirmed that yes there is way too much to do, that I can’t possibly help fix it all by myself, but yes I was probably right to be worried about some of the problems I was seeing.&lt;/p&gt;
+
+&lt;h2 id=&quot;things-to-focus-on-next-week&quot;&gt;Things to focus on next week&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;I’m visiting the Titchfield office on Monday to chat with the comms team about the Census brand&lt;/li&gt;
+  &lt;li&gt;I’m going to help the Census website team pull together some user needs, so we can begin validating them&lt;/li&gt;
+  &lt;li&gt;I’m going to observe some user research on Thursday&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sat, 19 Jan 2019 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/weeknotes-series-02-episode-02/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/weeknotes-series-02-episode-02/</guid>
+        
+        
+        <category>weeknotes</category>
+        
+      </item>
     
       <item>
         <title>Weeknotes – series 02 episode 01</title>
@@ -521,62 +564,6 @@
         
         
         <category>links</category>
-        
-        <category>nablopomo</category>
-        
-      </item>
-    
-      <item>
-        <title>Blog stats</title>
-        <description>&lt;!-- You can't pass variables straight into includes, you have to capture them first https://jekyllrb.com/docs/includes/#passing-parameter-variables-to-includes  --&gt;
-
-&lt;p class=&quot;lede&quot;&gt;A quick post of blog stats that used to be on the homepage.&lt;/p&gt;
-
-&lt;div class=&quot;flex-grid margin-top--s&quot;&gt;
-  &lt;div class=&quot;flex-grid__col flex-grid__col--third&quot;&gt;
-  &lt;span class=&quot;big-number&quot;&gt;
-123
-&lt;/span&gt;
-&lt;span&gt;&lt;a href=&quot;/blog/&quot;&gt;posts&lt;/a&gt;&lt;/span&gt;
-
-  &lt;/div&gt;
-  &lt;div class=&quot;flex-grid__col flex-grid__col--third&quot;&gt;
-  &lt;span class=&quot;big-number&quot;&gt;
-21
-&lt;/span&gt;
-&lt;span&gt;&lt;a href=&quot;/blog/category/&quot;&gt;categories&lt;/a&gt;&lt;/span&gt;
-
-  &lt;/div&gt;
-  &lt;div class=&quot;flex-grid__col flex-grid__col--third&quot;&gt;
-  &lt;span class=&quot;big-number&quot;&gt;
-36
-&lt;/span&gt;
-&lt;span&gt;pages&lt;/span&gt;
-
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;flex-grid&quot;&gt;
-  &lt;div class=&quot;flex-grid__col flex-grid__col--third&quot;&gt;
-  &lt;span class=&quot;big-number&quot;&gt;
-3
-&lt;/span&gt;
-&lt;span&gt;&lt;a href=&quot;/blog/category/images&quot;&gt;images&lt;/a&gt;&lt;/span&gt;
-
-  &lt;/div&gt;
-  &lt;div class=&quot;flex-grid__col flex-grid__col--third&quot;&gt;
-  &lt;span class=&quot;big-number&quot;&gt;
-4
-&lt;/span&gt;
-&lt;span&gt;&lt;a href=&quot;/blog/category/notes&quot;&gt;notes&lt;/a&gt;&lt;/span&gt;
-
-  &lt;/div&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Mon, 26 Nov 2018 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/blog-stats/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/blog-stats/</guid>
-        
         
         <category>nablopomo</category>
         
