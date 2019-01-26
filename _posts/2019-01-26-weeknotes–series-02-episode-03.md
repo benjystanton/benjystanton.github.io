@@ -2,7 +2,15 @@
 layout: post
 title: Weeknotes – series 02 episode 03
 categories: weeknotes
+image: coventry-cathedral-square.jpg
+image-alt: Colourful stained glass windows at Coventry cathedral.
 ---
+
+{% include image-with-caption.html
+  image="coventry-cathedral.jpg"
+  caption="We got a chance to walk around Coventry cathedral on Thursday lunch time"
+  alt-text="Colourful stained glass windows at Coventry cathedral."
+  %}
 
 <p class="lede">This week I travelled to Newport, Titchfield and Coventry and I realised while writing these that I'd been on 10 different trains!</p>
 
@@ -28,7 +36,7 @@ The key thing that jumped out for me is that even people who are happy to comple
 
 1. Post arrives in different ways and at different times
 2. People have different systems in place for assessing whether a particular letter is important or not
-3. A period of time will pass between receiving the letter and opening it – is this time people may seek more information about the Census or they may just forget
+3. A period of time will pass between receiving the letter and opening it – in this time people may seek more information about the Census or they may just forget
 4. Some people will take a photo of the letter so they can fill out the survey on their phone on the bus
 5. Some users will plan a time sit with their partner in the study and use a desktop PC
 
