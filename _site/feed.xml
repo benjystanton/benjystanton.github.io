@@ -5,9 +5,58 @@
     <description>Interaction Designer. Family Man. Music Snob.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 19 Jan 2019 13:45:15 +0000</pubDate>
-    <lastBuildDate>Sat, 19 Jan 2019 13:45:15 +0000</lastBuildDate>
+    <pubDate>Sat, 26 Jan 2019 07:57:50 +0000</pubDate>
+    <lastBuildDate>Sat, 26 Jan 2019 07:57:50 +0000</lastBuildDate>
     <generator>Jekyll v3.8.4</generator>
+    
+      <item>
+        <title>Weeknotes – series 02 episode 03</title>
+        <description>&lt;p class=&quot;lede&quot;&gt;This week I travelled to Newport, Titchfield and Coventry and I realised while writing these that I'd been on 10 different trains!&lt;/p&gt;
+
+&lt;h2 id=&quot;logos-letters-and-campaign-websites&quot;&gt;Logos, letters and campaign websites&lt;/h2&gt;
+
+&lt;p&gt;On Monday I got the train down to Titchfield (Office for National Statistics’ other office based near Portsmouth). Much of the communications team are based down there and I had a meeting booked in to chat about the recent updates to the Census brand identity.&lt;/p&gt;
+
+&lt;p&gt;I saw the nearly finished logo and heard about some the campaigns they are planning over the next few years. I also learnt a bit more about the letters that will be posted out to ask people to fill the Census in, and the plans for a website that will address people’s needs around getting help filling in the survey.&lt;/p&gt;
+
+&lt;p&gt;Despite the great work being done, it struck us that we (the ‘digital and technology’ and the ‘communications’ departments) need to work more closely together in order to make sure that end users encounter a seamless service when they use the Census, no matter which team are responsible for the individual bits.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-value-of-observing-user-research&quot;&gt;The value of observing user research&lt;/h2&gt;
+
+&lt;p&gt;On Wednesday I travelled up to Coventry (changing at Bristol and Birmingham if you’re wondering) to get ready for observing user research on Thursday.&lt;/p&gt;
+
+&lt;p&gt;For the whole day on Thursday I watched people complete the Census by going through a process that roughly followed this timeline…&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;User becomes aware of the Census via social media&lt;/li&gt;
+  &lt;li&gt;A letter is sent to the household&lt;/li&gt;
+  &lt;li&gt;The user goes online to complete the Census&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;The key thing that jumped out for me is that even people who are happy to complete the Census won’t just immediately open the letter and start filling things out. In reality we have to consider things like this…&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Post arrives in different ways and at different times&lt;/li&gt;
+  &lt;li&gt;People have different systems in place for assessing whether a particular letter is important or not&lt;/li&gt;
+  &lt;li&gt;A period of time will pass between receiving the letter and opening it – is this time people may seek more information about the Census or they may just forget&lt;/li&gt;
+  &lt;li&gt;Some people will take a photo of the letter so they can fill out the survey on their phone on the bus&lt;/li&gt;
+  &lt;li&gt;Some users will plan a time sit with their partner in the study and use a desktop PC&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Observing user research (and in particular usability testing) never fails to be an amazingly useful use of my time. No matter how many times I do it, I always come away with a more rounded idea of the service in my head. And it never fails to re-focus you onto the most important problems and the things real people are trying to do.&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-conversation=&quot;none&quot; data-lang=&quot;en&quot; data-theme=&quot;light&quot; data-link-color=&quot;#2B7BB9&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;1 day watching real people test out a thing has been more useful than 2 and half weeks of talking to people who are making the thing.&lt;/p&gt;&amp;mdash; Benjy Stanton (@benjystanton) &lt;a href=&quot;https://twitter.com/benjystanton/status/1088491227455152129?ref_src=twsrc%5Etfw&quot;&gt;January 24, 2019&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+</description>
+        <pubDate>Sat, 26 Jan 2019 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/weeknotes-series-02-episode-03/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/weeknotes-series-02-episode-03/</guid>
+        
+        
+        <category>weeknotes</category>
+        
+      </item>
     
       <item>
         <title>Weeknotes – series 02 episode 02</title>
@@ -471,99 +520,6 @@
         <link>http://localhost:4000/blog/nice-people-saying-nice-things-about-the-ons-website/</link>
         <guid isPermaLink="true">http://localhost:4000/blog/nice-people-saying-nice-things-about-the-ons-website/</guid>
         
-        
-        <category>nablopomo</category>
-        
-      </item>
-    
-      <item>
-        <title>November 2018 bookmarks</title>
-        <description>&lt;dl&gt;
-  
-  &lt;dt&gt;&lt;a href=&quot;https://medium.com/@msjaneaustin/oh-god-help-us-not-another-thing-on-design-tasks-60fb3552ac55&quot;&gt;The hidden cost of design tasks&lt;/a&gt;&lt;/dt&gt;
-  &lt;dd&gt;It’s a strange thing, being diagnosed with a chronic disease. At first there’s just such relief, that this collection of horribleness has a name, and that its not ‘all in your mind’, or ‘stress’.&lt;/dd&gt;
-  
-  &lt;dt&gt;&lt;a href=&quot;https://open.nytimes.com/kickoff-kit-tools-to-help-teams-work-better-together-3ca6a06b4fc2&quot;&gt;Kickoff Kit: Tools to Help Teams Work Better Together&lt;/a&gt;&lt;/dt&gt;
-  &lt;dd&gt;In order to build products successfully and quickly, your team has to work well together. But so often teams dive into projects without recognizing how each member best operates or what everyone is working towards.&lt;/dd&gt;
-  
-  &lt;dt&gt;&lt;a href=&quot;https://designnotes.blog.gov.uk/2018/11/05/how-we-document-components-and-patterns-in-the-gov-uk-design-system/&quot;&gt;How we document components and patterns in the GOV.UK Design System&lt;/a&gt;&lt;/dt&gt;
-  &lt;dd&gt;We’ve talked before about the GOV.UK Design System and how we’ve worked to make everything it contains accessible, easy to implement and of a high quality. But just as important as the design and code is the documentation that explains how to use it.&lt;/dd&gt;
-  
-  &lt;dt&gt;&lt;a href=&quot;https://bigmedium.com/ideas/design-systems-mastering-design-at-scale-video.html&quot;&gt;Design Systems: Mastering Design at Scale&lt;/a&gt;&lt;/dt&gt;
-  &lt;dd&gt;Here’s a gift for you: years and years of experience building design systems, molded into a gorgeous video series. I teamed up with Brad Frost, Dan Mall and InVision to create Design Systems: Mastering Design at Scale, a set of videos to help you plan, build, use, and maintain design systems.&lt;/dd&gt;
-  
-  &lt;dt&gt;&lt;a href=&quot;https://cushionapp.com/journal/improving-readability&quot;&gt;Improving Readability With Bigger Fonts and Higher Contrast&lt;/a&gt;&lt;/dt&gt;
-  &lt;dd&gt;The title of this post should include a “duh”, but hear me out. A few weeks ago, something hit me—our fonts are too small. By accident, I hit cmd+plus in the browser, which bumped our fonts to 110%, and everything felt better.&lt;/dd&gt;
-  
-  &lt;dt&gt;&lt;a href=&quot;https://www.w3.org/WAI/business-case/&quot;&gt;The Business Case for Digital Accessibility&lt;/a&gt;&lt;/dt&gt;
-  &lt;dd&gt;This article examines the rationale for organizations to address accessibility. It includes tangible and intangible benefits, and the risks of not addressing accessibility adequately. It explores how accessibility can:&lt;/dd&gt;
-  
-  &lt;dt&gt;&lt;a href=&quot;https://www.nngroup.com/articles/ux-debt/&quot;&gt;UX Debt: How to Identify, Prioritize, and Resolve&lt;/a&gt;&lt;/dt&gt;
-  &lt;dd&gt;Continually prioritizing fast and easy solutions may help us hit release dates in the short term, but over time, repeatedly choosing shortcuts will leave us with mounting experience issues that adversely impact our users.&lt;/dd&gt;
-  
-  &lt;dt&gt;&lt;a href=&quot;https://digitalblog.ons.gov.uk/2018/11/14/product-people-west-south-product-for-apis-whats-the-difference/&quot;&gt;Product People West &amp;amp; South: Product for APIs, what’s the difference?&lt;/a&gt;&lt;/dt&gt;
-  &lt;dd&gt;As part of CMD (Customise my data) I was given the opportunity to choose which of out two teams I wanted to lead. I chose to focus on the APIs as this was the area I felt my knowledge was weakest.&lt;/dd&gt;
-  
-  &lt;dt&gt;&lt;a href=&quot;https://medium.com/@BenHolliday/prompts-for-design-leaders-working-with-product-teams-4345c5dea8df&quot;&gt;Prompts for design leaders working with product teams&lt;/a&gt;&lt;/dt&gt;
-  &lt;dd&gt;When working with product teams, the job of a design leader is to make quick and accurate assessments about the focus and quality of the work being presented back to them. You should be able to answer the following questions.&lt;/dd&gt;
-  
-  &lt;dt&gt;&lt;a href=&quot;https://digital-land.github.io/&quot;&gt;Digital Land&lt;/a&gt;&lt;/dt&gt;
-  &lt;dd&gt;Prototype This is a prototype. Digital Land is a team at the Ministry of Housing, Communities &amp;amp; Local Government working to improve land and housing data for the emerging proptech sector.&lt;/dd&gt;
-  
-  &lt;dt&gt;&lt;a href=&quot;http://www.iterate.org.uk/11-more-things-to-hate-about-hotels/&quot;&gt;11 more things to hate about hotels – iterate&lt;/a&gt;&lt;/dt&gt;
-  &lt;dd&gt;This week, I had to spend time in more than one hotel for work-related reasons. Whilst undergoing this trial, I read Sharon’s inspired post about UX anti-patterns in hotels.&lt;/dd&gt;
-  
-  &lt;dt&gt;&lt;a href=&quot;https://nickcolley.co.uk/2018/11/16/accessibility-in-the-govuk-design-system.html&quot;&gt;Design System London: Accessibility in the GOV.UK Design System&lt;/a&gt;&lt;/dt&gt;
-  &lt;dd&gt;I’ve put together some of the tweets in a Twitter moment, if you’re into that. All the sources are linked from the speakers notes in the footnotes.&lt;/dd&gt;
-  
-  &lt;dt&gt;&lt;a href=&quot;https://open.nytimes.com/5-questions-with-giorgia-lupi-23e2ba972fd8&quot;&gt;5 Questions with Giorgia Lupi&lt;/a&gt;&lt;/dt&gt;
-  &lt;dd&gt;On October 18th, Giorgia Lupi, award-winning information designer, co-author of the book “Dear Data” and founder of Accurat, a data-driven design firm, stopped by the Times office to talk about her work and career.&lt;/dd&gt;
-  
-  &lt;dt&gt;&lt;a href=&quot;https://medium.com/@paulmsmith/white-label-wall-templates-1cdec749dae6&quot;&gt;White-label agile wall templates&lt;/a&gt;&lt;/dt&gt;
-  &lt;dd&gt;In “Agile walls what are they good for?” I wrote about the value of physical “agile walls”. However I often find a barrier to teams using them (and staying engaged with them) is the work needed to create and regularly update them.&lt;/dd&gt;
-  
-  &lt;dt&gt;&lt;a href=&quot;https://digitalhealth.blog.gov.uk/2018/11/21/a-rota-for-retrospectives/&quot;&gt;A rota for retrospectives&lt;/a&gt;&lt;/dt&gt;
-  &lt;dd&gt;In agile teams, the ‘retrospective’ is an essential – maybe the most essential - meeting we have. At the end of every two week sprint, we get together for an hour to reflect on how the work got done so that we can learn from it.&lt;/dd&gt;
-  
-  &lt;dt&gt;&lt;a href=&quot;http://www.hollidazed.co.uk/2016/07/11/learning-to-enjoy-the-size-of-the-problem/&quot;&gt;Learning to enjoy the size of the problem&lt;/a&gt;&lt;/dt&gt;
-  &lt;dd&gt;Some thoughts about having fun at work.  Last week I had a good time speaking at a Glug event in Reading.&lt;/dd&gt;
-  
-  &lt;dt&gt;&lt;a href=&quot;https://www.w3.org/WAI/standards-guidelines/atag/&quot;&gt;Authoring Tool Accessibility Guidelines (ATAG) Overview&lt;/a&gt;&lt;/dt&gt;
-  &lt;dd&gt;This page introduces the Authoring Tool Accessibility Guidelines (ATAG) web standard.  Authoring tools are software and services that “authors” (web developers, designers, writers, etc.) use to produce web content (static web pages, dynamic web applications, etc.).&lt;/dd&gt;
-  
-  &lt;dt&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=8Ik_LHmZx8Y&amp;amp;feature=youtu.be&quot;&gt;Make Technology Work for Everyone: introducing digital accessibility&lt;/a&gt;&lt;/dt&gt;
-  &lt;dd&gt;This short animated film provides• A short introduction to digital accessibility,• Some reasons why digital inclusion is important,• 15 tips to help you start making your digital technology more accessible, usable, and inclusive.For more information, references and resources - including tools&lt;/dd&gt;
-  
-  &lt;dt&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=6YupsPD2gcU&quot;&gt;Voxxed Thessaloniki 2018 - Automated Visual Testing: The Missing Part of your CI Pipeline?&lt;/a&gt;&lt;/dt&gt;
-  &lt;dd&gt;Voxxed Thessaloniki 2018 - Automated Visual Testing: The Missing Part of your CI Pipeline? by Viv Richards&lt;/dd&gt;
-  
-  &lt;dt&gt;&lt;a href=&quot;https://productforthepeople.xyz/loyal-to-the-network-redux-9df296cc69c6&quot;&gt;Loyal to the network [redux]&lt;/a&gt;&lt;/dt&gt;
-  &lt;dd&gt;A few years ago now I read something by Emer Coleman that really struck a chord with me — this idea of being ’loyal to the network’ rather than to particular employers.&lt;/dd&gt;
-  
-  &lt;dt&gt;&lt;a href=&quot;https://medium.com/public-innovators-network/what-if-boldness-were-an-explicit-value-of-the-civil-service-3df6a3d2d008&quot;&gt;What if boldness were an explicit value of the civil service?&lt;/a&gt;&lt;/dt&gt;
-  &lt;dd&gt;I’ve been thinking a lot recently about what it takes to get difficult and meaningful things done. Why it’s hard, exhausting and incredibly rewarding to make progress.&lt;/dd&gt;
-  
-  &lt;dt&gt;&lt;a href=&quot;https://commonslibrary.parliament.uk/parliament-and-elections/devolution/local-boundaries-in-england-what-is-place/&quot;&gt;Local boundaries in England: What is ‘place’?&lt;/a&gt;&lt;/dt&gt;
-  &lt;dd&gt;In the last few years, a number of think-tanks have addressed the effects of Government policy on ‘place’. Concerns have centred around spatial variations in GDP across the UK, identifying public spending within a given area, and variations in productivity.&lt;/dd&gt;
-  
-  &lt;dt&gt;&lt;a href=&quot;http://apgrimes.co.uk/2018/11/17/ux-is-negotiation/&quot;&gt;UX is negotiation&lt;/a&gt;&lt;/dt&gt;
-  &lt;dd&gt;If you were to say that someone was a good UX practitioner, you could mean a great many things. For example, you could be thinking of their ability to run a workshop, an interview or a testing session. You could be thinking of their prototyping, visual or interaction design skills.&lt;/dd&gt;
-  
-  &lt;dt&gt;&lt;a href=&quot;https://www.nngroup.com/articles/variable-fonts-wide-screen-layout/&quot;&gt;Variable Fonts and Wide-Screen Layouts: Adopting Data-Driven Progressive Enhancements&lt;/a&gt;&lt;/dt&gt;
-  &lt;dd&gt;We recently updated our website homepage, and, in addition to changing the content and visual design, we’ve incorporated two major technical changes: adding a new layout for users with wide screens, and using a variable font.&lt;/dd&gt;
-  
-  &lt;dt&gt;&lt;a href=&quot;http://blog.memespring.co.uk/2015/09/14/product-land-part-3/&quot;&gt;Product Land (Part 3)&lt;/a&gt;&lt;/dt&gt;
-  &lt;dd&gt;This is the 3rd and final part of an essay about design and possibilities.&lt;/dd&gt;
-  
-&lt;/dl&gt;
-
-</description>
-        <pubDate>Tue, 27 Nov 2018 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/november-2018-bookmarks/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/november-2018-bookmarks/</guid>
-        
-        
-        <category>links</category>
         
         <category>nablopomo</category>
         
