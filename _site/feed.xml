@@ -5,9 +5,57 @@
     <description>Interaction Designer. Family Man. Music Snob.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 31 Jan 2019 16:40:58 +0000</pubDate>
-    <lastBuildDate>Thu, 31 Jan 2019 16:40:58 +0000</lastBuildDate>
+    <pubDate>Fri, 01 Feb 2019 16:19:35 +0000</pubDate>
+    <lastBuildDate>Fri, 01 Feb 2019 16:19:35 +0000</lastBuildDate>
     <generator>Jekyll v3.8.4</generator>
+    
+      <item>
+        <title>Weeknotes – series 02 episode 04</title>
+        <description>&lt;figure&gt;
+  &lt;img src=&quot;http://localhost:4000/assets/services-week.jpg&quot; alt=&quot;A laptop showing a live stream from London. A designer stands next to a slide that says “what are the new accessibility regulations?”.&quot; /&gt;
+  &lt;figcaption class=&quot;text-small&quot;&gt;
+    Watching services week from my kitchen
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&quot;services-week&quot;&gt;Services week&lt;/h2&gt;
+
+&lt;p&gt;It was &lt;a href=&quot;https://gds.blog.gov.uk/2019/02/01/in-case-you-missed-it-what-happened-during-services-week/&quot;&gt;services week&lt;/a&gt; – a cross-government week of events lead by Government Digital Service (GDS), with many events happening across the country. I watched a couple of them on YouTube.&lt;/p&gt;
+
+&lt;p&gt;Early on in the week &lt;a href=&quot;https://twitter.com/LouiseDowne&quot;&gt;Lou Downe&lt;/a&gt; did a great talk on the &lt;a href=&quot;https://www.gov.uk/service-manual/design/introduction-designing-government-services&quot;&gt;characteristics of a good government service&lt;/a&gt;. This document has become a part of design workflow already and it’s up there with the GDS service standard and design principles for me. I recommend you spend time reading it if you haven’t already.&lt;/p&gt;
+
+&lt;h2 id=&quot;looking-after-the-design-team&quot;&gt;Looking after the design team&lt;/h2&gt;
+
+&lt;p&gt;This week I spent some time thinking about how best to lead and manage designers in Office for National Statistics (ONS). Recently ONS have switched to a model where designers are line-managed from within their teams by delivery managers.&lt;/p&gt;
+
+&lt;p&gt;There might be some benefits to working this way, but one of the risks comes from being managed by someone who might not be able to measure and recognise good work.&lt;/p&gt;
+
+&lt;p&gt;I created a document that sets out how we can best balance these responsibilities. I’ve also set up fortnightly checkins with the team and began introducing myself to the designers’ individual line-managers.&lt;/p&gt;
+
+&lt;h2 id=&quot;went-to-my-first-show-and-tell&quot;&gt;Went to my first show and tell&lt;/h2&gt;
+
+&lt;p&gt;I went to my first cross-census show and tell. I was the only designer there (that I recognised) so I hope I can encourage more of us to attend and participate in future.&lt;/p&gt;
+
+&lt;p&gt;It was encouraging to see everyone contributing towards one thing. I also enjoyed seeing some JSON metadata on the screen as it reminded me of the kind of show and tells we did in my old team (in digital publishing).&lt;/p&gt;
+
+&lt;h2 id=&quot;snow-and-remote-working&quot;&gt;Snow and remote working&lt;/h2&gt;
+
+&lt;p&gt;There was snow around South Wales on Thursday night and Friday morning so I worked from home for a couple of days. I’ve been thinking about remote work a lot recently, I wish it was more common and acceptable to work this way.&lt;/p&gt;
+
+&lt;p&gt;I know there are benefits of working face-to-face, but I still think we should take more advantage of the benefits of remote working. Especially in Wales where people are more spread out and transport networks are pretty rubbish.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/emmaboulton/status/1090587439838777345&quot;&gt;Emma Boulton has been tweeting&lt;/a&gt; recently about how it would help her to balance the demands of having young children and accepting new work.&lt;/p&gt;
+
+&lt;p&gt;It’s pretty obvious that the digital community is not as inclusive as it pretends to be if people like Emma have to turn down otherwise good contracts.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/weeknotes-series-02-episode-04/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/weeknotes-series-02-episode-04/</guid>
+        
+        
+        <category>weeknotes</category>
+        
+      </item>
     
       <item>
         <title>Weeknotes – series 02 episode 03</title>
@@ -496,37 +544,6 @@
         
         
         <category>notes</category>
-        
-        <category>nablopomo</category>
-        
-      </item>
-    
-      <item>
-        <title>Nice people saying nice things about the ONS website</title>
-        <description>&lt;p class=&quot;lede&quot;&gt;It was great to see some smart people, that I really respect, recognising the good work that we’re doing in ONS (Office for National Statistics) digital publishing today.&lt;/p&gt;
-
-&lt;p&gt;Tom’s original screenshot focused on a weirdly specific bit of something we did recently. But, even this small component went through some rigorous usability and A/B testing. It built upon a content pattern that already did a good job of meeting a clear user need (I need to know if I’m looking at the latest stuff).&lt;/p&gt;
-
-&lt;p&gt;The good news is, there is lots more of this to come. This is just the tiniest bit of the work we’ve been doing over the past year.&lt;/p&gt;
-
-&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;I&amp;#39;ve congratulated &lt;a href=&quot;https://twitter.com/mr_dudders?ref_src=twsrc%5Etfw&quot;&gt;@mr_dudders&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/ONS?ref_src=twsrc%5Etfw&quot;&gt;@ONS&lt;/a&gt; for it separately -- and I will never stop. This is one of the biggest single improvements in a websites design ever. &lt;a href=&quot;https://t.co/kXB4s75G1G&quot;&gt;pic.twitter.com/kXB4s75G1G&lt;/a&gt;&lt;/p&gt;&amp;mdash; Tom Forth (@thomasforth) &lt;a href=&quot;https://twitter.com/thomasforth/status/1067360583706652672?ref_src=twsrc%5Etfw&quot;&gt;November 27, 2018&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Quietly (too quietly!) the &lt;a href=&quot;https://twitter.com/ONS?ref_src=twsrc%5Etfw&quot;&gt;@ONS&lt;/a&gt; have been doing some exceptionally good work properly publishing their stats. &lt;a href=&quot;https://t.co/Dg7QNQdW8T&quot;&gt;https://t.co/Dg7QNQdW8T&lt;/a&gt;&lt;/p&gt;&amp;mdash; Tom Loosemore (@tomskitomski) &lt;a href=&quot;https://twitter.com/tomskitomski/status/1067535685559701505?ref_src=twsrc%5Etfw&quot;&gt;November 27, 2018&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Gotta love &lt;a href=&quot;https://twitter.com/ONS?ref_src=twsrc%5Etfw&quot;&gt;@ONS&lt;/a&gt; Quietly getting the job done. 👏 👏 👏 &lt;a href=&quot;https://t.co/qAGWKbeXar&quot;&gt;https://t.co/qAGWKbeXar&lt;/a&gt;&lt;/p&gt;&amp;mdash; Steve Foreshew-Cain (@s_foreshew_cain) &lt;a href=&quot;https://twitter.com/s_foreshew_cain/status/1067737646229872640?ref_src=twsrc%5Etfw&quot;&gt;November 28, 2018&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
-
-</description>
-        <pubDate>Wed, 28 Nov 2018 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/nice-people-saying-nice-things-about-the-ons-website/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/nice-people-saying-nice-things-about-the-ons-website/</guid>
-        
         
         <category>nablopomo</category>
         
