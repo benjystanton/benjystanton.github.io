@@ -22,7 +22,7 @@ Often in the civil service these kind of decisions can take weeks to make, so ha
 
 ## Making plans for Service Design in Government
 
-I’m [speaking at service design in government](https://govservicedesign.net/2019/sessions/index.php?session=102) next month with [Kieran](https://mobile.twitter.com/kieran_forde). We’re making headway with out talk outline and slides.
+I’m [speaking at service design in government](https://govservicedesign.net/2019/sessions/index.php?session=102) next month with [Kieran](https://mobile.twitter.com/kieran_forde). We’re making headway with our talk outline and slides.
 
 I finally sorted my flight and hotel arrangements too. Although thanks to the quirks of our self service portal I’m still not 100% sure if my conference ticket is paid for.
 
