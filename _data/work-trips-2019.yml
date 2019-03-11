@@ -20,3 +20,17 @@
   month: January
   from: Swansea
   to: Coventry
+
+- destination: Abergavenny
+  city: Abergavenny
+  category: user research
+  month: February
+  from: Swansea
+  to: Abergavenny
+
+- destination: John McIntyre Conference Centre
+  city: Edinburgh
+  category: training and conferences
+  month: March
+  from: Swansea
+  to: Edinburgh
