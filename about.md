@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-<p class="lede">My name is Benjy Stanton and I’m one of the lead interaction designers at the Office for National Statistics (ONS).</p>
+<p class="lede">My name is Benjy Stanton and I’m an interaction designer at Swirrl.</p>
 
-Previously, I was at [Leadin](http://leadin.co.uk/), a service design agency in Swansea. I care about user needs, content, accessibility and good typography.
+Previously, I worked at [Office for National Statistics](https://www.ons.gov.uk/). I care about user needs, content, accessibility, typography and the web.
 
 ## Experience
 

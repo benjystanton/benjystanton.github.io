@@ -1,7 +1,11 @@
 ---
 
+- name: Swirrl
+  description: April 2019 to today
+  url: http://www.swirrl.com/
+
 - name: Office for National Statistics
-  description: October 2016 to today
+  description: October 2016 to April 2019
   url: https://www.ons.gov.uk/
 
 - name: Gofore (previously Leadin)
