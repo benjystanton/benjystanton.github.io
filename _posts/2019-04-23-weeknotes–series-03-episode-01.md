@@ -16,7 +16,7 @@ image-alt: St Peter's Square in Manchester, you can see old buildings, people wa
 
 Last week was my first week at [Swirrl](http://www.swirrl.com/). I've joined them as an interaction designer. They're based in Manchester, but I'll be working remotely from home in Swansea (most of the time).
 
-I was convinced to join Swirrl thanks to their digital-first hiring campaign (read: two really well written blog posts about [who they were looking for](https://medium.swirrl.com/swirrl-is-hiring-ed456c08b78b) and [what it's like to work for them](https://medium.swirrl.com/whats-it-like-working-at-swirrl-b9972a703778)). I also identify with their mission of publishing open, linked data to help public sector organisations make better decisions.
+I was convinced to join Swirrl thanks to their digital-first hiring campaign (read: two really well written blog posts about [who they were looking for](https://medium.swirrl.com/swirrl-is-hiring-ed456c08b78b) and [what it's like to work for them](https://medium.swirrl.com/whats-it-like-working-at-swirrl-b9972a703778)). I also identify with their mission of publishing open, linked data to help public sector organisations provide better services and make better decisions.
 
 Last Monday I travelled up to Manchester for a few days to meet the team and start to learn about what they do and how they do it. I spent time chatting to [Bill](https://twitter.com/billroberts), [Ric](https://twitter.com/RicRoberts), [Jamie](https://twitter.com/northernjamie) and others. Their office is located in a very nice co-working space called WeWork (in St Peter's Square).
 
