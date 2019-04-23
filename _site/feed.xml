@@ -5,9 +5,47 @@
     <description>Interaction Designer. Family Man. Music Snob.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 19 Apr 2019 13:26:57 +0100</pubDate>
-    <lastBuildDate>Fri, 19 Apr 2019 13:26:57 +0100</lastBuildDate>
+    <pubDate>Tue, 23 Apr 2019 10:12:16 +0100</pubDate>
+    <lastBuildDate>Tue, 23 Apr 2019 10:12:16 +0100</lastBuildDate>
     <generator>Jekyll v3.8.4</generator>
+    
+      <item>
+        <title>Weeknotes – series 03 episode 01</title>
+        <description>&lt;figure&gt;
+  &lt;img src=&quot;http://localhost:4000/assets/view-from-the-office-square-large.jpg&quot; alt=&quot;St Peter's Square in Manchester, you can see old buildings, people walking and trams&quot; /&gt;
+  &lt;figcaption class=&quot;text-small&quot;&gt;
+    View from Swirrl's shared office in St Peter's Square
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p class=&quot;lede&quot;&gt;Some short-but-sweet weeknotes about my first ever week at Swirrl.&lt;/p&gt;
+
+&lt;p&gt;Last week was my first week at &lt;a href=&quot;http://www.swirrl.com/&quot;&gt;Swirrl&lt;/a&gt;. I’ve joined them as an interaction designer. They’re based in Manchester, but I’ll be working remotely from home in Swansea (most of the time).&lt;/p&gt;
+
+&lt;p&gt;I was convinced to join Swirrl thanks to their digital-first hiring campaign (read: two really well written blog posts about &lt;a href=&quot;https://medium.swirrl.com/swirrl-is-hiring-ed456c08b78b&quot;&gt;who they were looking for&lt;/a&gt; and &lt;a href=&quot;https://medium.swirrl.com/whats-it-like-working-at-swirrl-b9972a703778&quot;&gt;what it’s like to work for them&lt;/a&gt;). I also identify with their mission of publishing open, linked data to help public sector organisations make better decisions.&lt;/p&gt;
+
+&lt;p&gt;Last Monday I travelled up to Manchester for a few days to meet the team and start to learn about what they do and how they do it. I spent time chatting to &lt;a href=&quot;https://twitter.com/billroberts&quot;&gt;Bill&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/RicRoberts&quot;&gt;Ric&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/northernjamie&quot;&gt;Jamie&lt;/a&gt; and others. Their office is located in a very nice co-working space called WeWork (in St Peter’s Square).&lt;/p&gt;
+
+&lt;p&gt;I also enjoyed wandering around Manchester, highlights include &lt;a href=&quot;https://vrevmcr.co.uk/&quot;&gt;V-Rev&lt;/a&gt; a really good vegan junk food place in Manchester’s Northern Quarter. When I get some time I’ll head back there to check out some of the &lt;a href=&quot;http://www.manchestersfinest.com/manchester/northern-quarter/magma/&quot;&gt;stationery shops&lt;/a&gt; I spotted nearby.&lt;/p&gt;
+
+&lt;p&gt;Helpfully, Swirrl use all the same admin and communication tools that I’m used to including Google Docs, Slack, FreeAgent and Github. I think this is stuff is really important, especially if you have a distributed team that are based in different locations (and timezones). I’m looking forward to seeing what else they do to help remote teams work together&lt;/p&gt;
+
+&lt;p&gt;One thing I’ve noticed is that a lot of conversations happen in Slack, even small updates like “going for lunch” are announced there. This helps everyone to stay up to date and feel included. I’ll have to practice this habit to make sure I don’t forget.&lt;/p&gt;
+
+&lt;p&gt;As for work stuff, I got introductions to some of the core concepts of Swirrl’s work, like &lt;a href=&quot;https://www.w3.org/standards/semanticweb/data&quot;&gt;Linked Data&lt;/a&gt; and &lt;a href=&quot;https://en.wikipedia.org/wiki/Resource_Description_Framework&quot;&gt;RDF&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;They also have a pattern library that is built with &lt;a href=&quot;https://www.gatsbyjs.org/&quot;&gt;Gatbsy&lt;/a&gt; so I had a play around with that. &lt;a href=&quot;https://www.gatsbyjs.org/tutorial/part-zero/&quot;&gt;Gatsby’s tutorial&lt;/a&gt; is well written for someone like me who is not fully confident with using things like command line interfaces. I think the plan is to integrate it with &lt;a href=&quot;https://storybook.js.org/&quot;&gt;Storybook&lt;/a&gt; too, so will aim to play around with that at some point.&lt;/p&gt;
+
+&lt;p&gt;I think my role is set to include a mix of hands-on interaction design work, as well as working with clients to help them discover user needs and visualise user journeys. A familier problem I’m hearing is that the interfaces required to use data are often very complex and probably expect users to be more data and digitally literate than they really are. Looking forward to getting stuck in and sounds like my first project will be working with Defra (Department for Environment, Food &amp;amp; Rural Affairs) via the &lt;a href=&quot;https://twitter.com/EnvAgency&quot;&gt;Environment Agency&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 23 Apr 2019 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/blog/weeknotes-series-03-episode-01/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/weeknotes-series-03-episode-01/</guid>
+        
+        
+        <category>weeknotes</category>
+        
+      </item>
     
       <item>
         <title>How to be a more resilient service designer</title>
@@ -686,115 +724,6 @@
         
         
         <category>personal</category>
-        
-      </item>
-    
-      <item>
-        <title>December 2018 bookmarks</title>
-        <description>&lt;dl&gt;
-  
-  &lt;dt&gt;&lt;a href=&quot;https://public.digital/2018/11/29/adding-value-by-adding-values/&quot;&gt;Adding value, by adding values&lt;/a&gt;&lt;/dt&gt;
-  &lt;dd&gt;This week I had the great honour of being named by the RSA as the first Royal Designer for Industry for Service Design. My hope is to inspire the next generation of designers, just as the current Royal Designers for Industry have inspired me.&lt;/dd&gt;
-  
-  &lt;dt&gt;&lt;a href=&quot;https://medium.com/bymds/flowkit-1e195759a2b6&quot;&gt;Design native userflows right inside Figma and Sketch with Flowkit 2.0&lt;/a&gt;&lt;/dt&gt;
-  &lt;dd&gt;Drawing and editing lots of lines and boxes for user flows in any design tool is is a real pain. If you’ve ever done it, you know what I’m talking about. Even if you manage to get it done for your current project, there’s always the next project that needs almost the same treatment.&lt;/dd&gt;
-  
-  &lt;dt&gt;&lt;a href=&quot;https://medium.com/eightshapes-llc/releasing-design-systems-57fca91a23f6&quot;&gt;Releasing Design Systems&lt;/a&gt;&lt;/dt&gt;
-  &lt;dd&gt;Companies realize a design system’s value when adopting products use a system to make and ship experiences that their customers use. As a part of that value chain, the system releases features over time. This puts the system into the hands of its customer: designers and engineers doing their job.&lt;/dd&gt;
-  
-  &lt;dt&gt;&lt;a href=&quot;https://medium.com/@Heydon/reluctant-gatekeeping-the-problem-with-full-stack-e9ad836570f6&quot;&gt;Reluctant Gatekeeping: The Problem With Full Stack&lt;/a&gt;&lt;/dt&gt;
-  &lt;dd&gt;Much of my career as a web designer has been spent, quite happily, working alongside programmers, engineers, people with computer science degrees. In this symbiotic relationship, each party has a secure job with a well-defined role, and gets to work on the thing they are best at and enjoy the most.&lt;/dd&gt;
-  
-  &lt;dt&gt;&lt;a href=&quot;https://adactio.com/journal/14562&quot;&gt;Prototypes and production&lt;/a&gt;&lt;/dt&gt;
-  &lt;dd&gt;When we do front-end development at Clearleft, we’re usually delivering production code, often in the form of a component library. That means our priorities are performance, accessibility, robustness, and other markers of quality when it comes to web development.&lt;/dd&gt;
-  
-  &lt;dt&gt;&lt;a href=&quot;https://www.24a11y.com/2018/accessible-svg-icons-with-inline-sprites/&quot;&gt;Accessible SVG Icons with Inline Sprites&lt;/a&gt;&lt;/dt&gt;
-  &lt;dd&gt;If we were searching for reasons to use icons on a project, we don’t need to go far in order to find them.&lt;/dd&gt;
-  
-  &lt;dt&gt;&lt;a href=&quot;https://www.24a11y.com/2018/unlocking-accessibility-for-ux-ui-designers/&quot;&gt;Unlocking Accessibility for UX/UI Designers&lt;/a&gt;&lt;/dt&gt;
-  &lt;dd&gt;Tap, tap, one, two… is this thing on? Ahem … My dear designer friends, I have a confession to make, on behalf on anyone who’s ever worked in the field of digital accessibility. We, the accessibility community, have been lying to you for the better part of the last twenty years.&lt;/dd&gt;
-  
-  &lt;dt&gt;&lt;a href=&quot;https://timkadlec.com/remembers/2018-12-06-using-webpagetest-with-alfred/&quot;&gt;An Alfred Workflow for WebPageTest&lt;/a&gt;&lt;/dt&gt;
-  &lt;dd&gt;By now, I have to be on record at least a few thousand times in saying that WebPageTest.org is an absurdly valuable tool. Pat gave the performance community an incredible gift by building it and making it available to the broader community for free. I spend a lot of time in WebPageTest.&lt;/dd&gt;
-  
-  &lt;dt&gt;&lt;a href=&quot;https://github.com/smallmultiples/sketch-chippencharts&quot;&gt;Sketch plugin for charts&lt;/a&gt;&lt;/dt&gt;
-  &lt;dd&gt;This is a Sketch plugin for creating charts with random data for use in mockups. Change the size of selected rectangles. Chose between random and linear. Works for both horizontal and vertical bar charts. Made with love by Small Multiples in Chippendale.&lt;/dd&gt;
-  
-  &lt;dt&gt;&lt;a href=&quot;http://nicolasgallagher.com/about-html-semantics-front-end-architecture/&quot;&gt;About HTML semantics and front-end architecture&lt;/a&gt;&lt;/dt&gt;
-  &lt;dd&gt;A collection of thoughts, experiences, ideas that I like, and ideas that I have been experimenting with over the last year. It covers HTML semantics, components and approaches to front-end architecture, class naming patterns, and HTTP compression.&lt;/dd&gt;
-  
-  &lt;dt&gt;&lt;a href=&quot;https://24ways.org/2018/what-i-learned-in-six-years-at-gds/&quot;&gt;What I Learned in Six Years at GDS&lt;/a&gt;&lt;/dt&gt;
-  &lt;dd&gt;When I joined the Government Digital Service in April 2012, GOV.UK was just going into public beta.&lt;/dd&gt;
-  
-  &lt;dt&gt;&lt;a href=&quot;http://www.hollidazed.co.uk/2015/06/19/thinking-about-iteration/&quot;&gt;Thinking about iteration&lt;/a&gt;&lt;/dt&gt;
-  &lt;dd&gt;Making incremental changes to prototypes isn’t iterative.  When we’re designing prototypes and user journeys to meet user needs we’re not going to get this right first time. We learn more about user needs as a result of designing and testing possible solutions.&lt;/dd&gt;
-  
-  &lt;dt&gt;&lt;a href=&quot;https://css-tricks.com/the-ecological-impact-of-browser-diversity/&quot;&gt;The Ecological Impact of Browser Diversity&lt;/a&gt;&lt;/dt&gt;
-  &lt;dd&gt;Early in my career when I worked at agencies and later at Microsoft on Edge, I heard the same lament over and over: &quot;Argh, why doesn’t Edge just run on Blink? Then I would have access to ALL THE APIs I want to use and would only have to test in one browser!&quot;&lt;/dd&gt;
-  
-  &lt;dt&gt;&lt;a href=&quot;https://dev.to/ben/addy-osmanis-18-point-web-performance-checklist-2e1&quot;&gt;Addy Osmani's 18-Point Web Performance Checklist&lt;/a&gt;&lt;/dt&gt;
-  &lt;dd&gt;Web performance is critical for user experience. Prioritize it before it becomes a problem.&lt;/dd&gt;
-  
-  &lt;dt&gt;&lt;a href=&quot;https://medium.com/notbinary/an-alpha-alpha-approach-5d62fb68429a&quot;&gt;An alpha alpha approach&lt;/a&gt;&lt;/dt&gt;
-  &lt;dd&gt;Mr Downey spurred a bit of conversation on Twitter about the idea of ‘alpha’ stages in the GDS delivery cycle.&lt;/dd&gt;
-  
-  &lt;dt&gt;&lt;a href=&quot;https://medium.com/@loft27design/good-design-doesnt-just-happen-7602358096e5&quot;&gt;Good design doesn’t just happen&lt;/a&gt;&lt;/dt&gt;
-  &lt;dd&gt;A lot of factors are at play within an organisation that hinders or helps good design to happen. Investing effort into maintaining a strong design culture is important. For a good design culture to thrive certain things need to be in place.&lt;/dd&gt;
-  
-  &lt;dt&gt;&lt;a href=&quot;https://squoosh.app&quot;&gt;Squoosh&lt;/a&gt;&lt;/dt&gt;
-  &lt;dd&gt;Compress and compare images with different codecs, right in your browser.&lt;/dd&gt;
-  
-  &lt;dt&gt;&lt;a href=&quot;http://www.henrylau.co.uk/2018/12/12/accessible-colour-palettes/&quot;&gt;Accessible-as-possible colour palettes · Henry Lau&lt;/a&gt;&lt;/dt&gt;
-  &lt;dd&gt;Colours is a big part of what makes up graphics and making colours accessible is important. We’re used to thinking of colours in terms of red, green and blue. Add these colours together and you get white. We can describe colours using RGB, breaking up each colour channel into 256 parts.&lt;/dd&gt;
-  
-  &lt;dt&gt;&lt;a href=&quot;https://blog.mattedgar.com/2018/12/08/being-bolder-reflections-18-months-into-my-work-at-nhs-digital/&quot;&gt;Being bolder – reflections 18 months into my work at NHS Digital&lt;/a&gt;&lt;/dt&gt;
-  &lt;dd&gt;On 5 July 2018, the National Health Service turned 70. I was exactly 13 months into my own time with the service.&lt;/dd&gt;
-  
-  &lt;dt&gt;&lt;a href=&quot;https://www.macworld.com/article/3153944/photography/how-to-download-your-flickr-photo-library-and-transfer-it-to-google-photos-or-icloud-photo-library.html&quot;&gt;How to download your Flickr photo library and transfer it to Google Photos or iCloud Photo library&lt;/a&gt;&lt;/dt&gt;
-  &lt;dd&gt;SmugMug, the professional photography oriented company, bought Flickr in April 2018. On November 1, 2018, SmugMug announced changes to its free and paid (or “Pro”) tier. SmugMug said that the 1TB of storage that Yahoo gave free-tier users is not sustainable.&lt;/dd&gt;
-  
-  &lt;dt&gt;&lt;a href=&quot;https://www.fastcompany.com/90281425/how-to-design-the-ultimate-bullet-journal-for-2019-no-art-skills-required&quot;&gt;How to design the ultimate Bullet Journal for 2019 (no art skills required)&lt;/a&gt;&lt;/dt&gt;
-  &lt;dd&gt;If you’ve searched for “Bullet Journal” or “BuJo” online, you may have seen the elaborately illustrated interpretations people have created. They’re gorgeous–motivating to some, but intimidating to many others.&lt;/dd&gt;
-  
-  &lt;dt&gt;&lt;a href=&quot;https://medium.com/@jessitron/shared-values-are-overrated-7a194462aa33&quot;&gt;Shared Values are Overrated&lt;/a&gt;&lt;/dt&gt;
-  &lt;dd&gt;The other day, I heard a story about a leadership retreat where the goal was to agree upon shared values. They held a vote, and lo, there was an even split between all the values. The group could not agree on which ones represented the company. This makes sense. Our values are part of our identity.&lt;/dd&gt;
-  
-  &lt;dt&gt;&lt;a href=&quot;https://www.remove.bg&quot;&gt;Remove Background from Image – remove.bg&lt;/a&gt;&lt;/dt&gt;
-  &lt;dd&gt;Whether you are a graphic designer, photographer or selfie lover: Removing backgrounds has never been easier. Spending hour after hour separating foregrounds from backgrounds? There's a better way now - and it's FREE.&lt;/dd&gt;
-  
-  &lt;dt&gt;&lt;a href=&quot;https://24ways.org/2018/designing-your-future/&quot;&gt;Designing Your Future&lt;/a&gt;&lt;/dt&gt;
-  &lt;dd&gt;I’ve had the pleasure of working for a variety of clients – both large and small – over the last 25 years. In addition to my work as a design consultant, I’ve worked as an educator, leading the Interaction Design team at Belfast School of Art, for the last 15 years.&lt;/dd&gt;
-  
-  &lt;dt&gt;&lt;a href=&quot;https://medium.com/@jukesie/sloganeering-for-stickers-500d0c528b5b&quot;&gt;Sloganeering for stickers&lt;/a&gt;&lt;/dt&gt;
-  &lt;dd&gt;01. Minimal viable bureaucracy — I’m not one of those JFDI people. I believe that is the fastest way to get something done that will not stick. If we are in this to make real change then that isn’t good enough.&lt;/dd&gt;
-  
-  &lt;dt&gt;&lt;a href=&quot;https://medium.com/doteveryone/putting-users-first-is-not-the-answer-to-everything-dd05b9f11b5&quot;&gt;Putting users first is not the answer to everything&lt;/a&gt;&lt;/dt&gt;
-  &lt;dd&gt;User-centred, user need, user story, person-centred — hmm, I’m trying to think of some other variations, I’m sure there’s more!&lt;/dd&gt;
-  
-  &lt;dt&gt;&lt;a href=&quot;http://mrdudders.posthaven.com/five-things-benjy-taught-me&quot;&gt;Five things Benjy taught me.&lt;/a&gt;&lt;/dt&gt;
-  &lt;dd&gt;As part of a minor org shuffle this week I will no longer be working directly with Benjy. Benjy isnt a showy man, so wouldn't want a fuss, but he is a brilliant writer and his blog is one we should all keep an eye on.&lt;/dd&gt;
-  
-  &lt;dt&gt;&lt;a href=&quot;https://www.brucelawson.co.uk/2018/the-practical-value-of-semantic-html/&quot;&gt;The practical value of semantic HTML&lt;/a&gt;&lt;/dt&gt;
-  &lt;dd&gt;It has come to my attention that many in the web standards gang are feeling grumpy about Full Stack Developer™’s lack of deep knowledge about HTML. One well-intentioned article about 10 things to learn for becoming a solid full-stack JavaScript developer said&lt;/dd&gt;
-  
-  &lt;dt&gt;&lt;a href=&quot;https://tink.uk/understanding-semantics/&quot;&gt;Understanding semantics&lt;/a&gt;&lt;/dt&gt;
-  &lt;dd&gt;The word “semantic” is regularly used in the context of web development. We talk about “semantic code” and the “semantics” of a given element, but what do we really mean by it, and why is it important?  The word semantic comes from the French sémantique, meaning non-comparable.&lt;/dd&gt;
-  
-  &lt;dt&gt;&lt;a href=&quot;https://medium.com/@amy.l.hupe/why-every-design-system-needs-a-service-designer-19733b3b01f3&quot;&gt;Why every design system needs a service designer&lt;/a&gt;&lt;/dt&gt;
-  &lt;dd&gt;They were looking for developers, interaction designers, user researchers, product and delivery managers. There were even spots for a couple of content designers (we’re a depressingly rare breed in design system teams). But there was one glaring omission: they weren’t hiring a service designer.&lt;/dd&gt;
-  
-  &lt;dt&gt;&lt;a href=&quot;https://dfedigital.blog.gov.uk/2018/11/26/6-practices-for-user-centred-civil-servants/&quot;&gt;6 practices for user-centred civil servants&lt;/a&gt;&lt;/dt&gt;
-  &lt;dd&gt;Our boss, Permanent Secretary Jonathan Slater, posted last week over on the Civil Service Blog about how we’re working to make the Department for Education user-centred. This post sets out a bit more about what we mean by that, and what we’re doing about it.&lt;/dd&gt;
-  
-&lt;/dl&gt;
-
-</description>
-        <pubDate>Fri, 21 Dec 2018 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/december-2018-bookmarks/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/december-2018-bookmarks/</guid>
-        
-        
-        <category>links</category>
         
       </item>
     
