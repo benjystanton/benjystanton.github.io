@@ -34,3 +34,25 @@
   month: March
   from: Swansea
   to: Edinburgh
+
+- destination: Swirrl
+  city: Manchester
+  category: work
+  month: April
+  from: Swansea
+  to: Manchester Piccadilly
+
+- destination: Environment Agency
+  city: Bristol
+  category: work
+  month: April
+  from: Swansea
+  to: Bristol Temple Meads
+
+- destination: Swirrl
+  city: Manchester
+  category: meetings
+  month: April
+  from: Swansea
+  to: Bristol Temple Meads
+  
