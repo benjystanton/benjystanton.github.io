@@ -5,9 +5,142 @@
     <description>Interaction Designer. Family Man. Music Snob.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 30 Apr 2019 20:03:28 +0100</pubDate>
-    <lastBuildDate>Tue, 30 Apr 2019 20:03:28 +0100</lastBuildDate>
+    <pubDate>Wed, 15 May 2019 21:05:35 +0100</pubDate>
+    <lastBuildDate>Wed, 15 May 2019 21:05:35 +0100</lastBuildDate>
     <generator>Jekyll v3.8.4</generator>
+    
+      <item>
+        <title>Weeknotes – series 03 episode 04</title>
+        <description>&lt;p class=&quot;lede&quot;&gt;This week I have been mostly thinking about user-centred design and how to apply it when designing, measuring and improving data services (again).&lt;/p&gt;
+
+&lt;h2 id=&quot;dwps-presentation-at-data-bites&quot;&gt;DWP’s presentation at Data Bites&lt;/h2&gt;
+
+&lt;p&gt;On Monday I watched a bit of the Data Bites meet-up featuring Aleks Bobrowska from the DWP Data Science Newcastle Hub. The talk was about &lt;a href=&quot;https://youtu.be/bU7ucrqjtsg?t=491&quot;&gt;bringing skills demand data to local government via a digital service&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;It was clear from the talk that Aleks had assembled a multi-disciplinary team (interaction designer, content designer and user researcher), and they were designing to meet user needs.&lt;/p&gt;
+
+&lt;p&gt;Even though there was clever data science stuff going on in the background, the user interface of the service presented the information in a clear and simple way, using plain language. I know from experience this is really hard to do with data.&lt;/p&gt;
+
+&lt;p&gt;Looking forward to seeing what Aleks, &lt;a href=&quot;https://twitter.com/peterjobes&quot;&gt;Pete&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/drryandunn&quot;&gt;Ryan&lt;/a&gt; do next.&lt;/p&gt;
+
+&lt;h2 id=&quot;selecting-multiple-things-from-a-long-list&quot;&gt;Selecting multiple things from a long list&lt;/h2&gt;
+
+&lt;p&gt;This blog post by Andy Sellick, a frontend developer at GDS (Government Digital Service) is a nice honest write-up about the difficulties of creating &lt;a href=&quot;https://accessibility.blog.gov.uk/2019/04/08/accessibility-lessons-dealing-with-a-large-amount-of-form-inputs/&quot;&gt;accessible components for search interfaces&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;It’s relevant to this post I wrote whilst at ONS (Office for National Statistics) called &lt;a href=&quot;https://digitalblog.ons.gov.uk/2017/08/15/picking-things-from-a-long-list/&quot;&gt;picking things from a long list&lt;/a&gt; and it feels like a problem I’ll come up against again when designing data interfaces in future.&lt;/p&gt;
+
+&lt;p&gt;Challenges with searching, finding and filtering seems to crop up in every conversation I have about data.&lt;/p&gt;
+
+&lt;h2 id=&quot;common-problems-facing-users-of-data-services&quot;&gt;Common problems facing users of data services&lt;/h2&gt;
+
+&lt;p&gt;I’ve been looking over some past projects at Swirrl to see what I can learn from previous user research work. The &lt;a href=&quot;https://news.opendatacommunities.org/open-data-communities-engagement-review/&quot;&gt;MHCLG  (Ministry of Housing, Communities and Local Government) user engagement review was summarised in this blog post&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;It’s interesting for me to see the similarities and overlaps in user needs and usability problems that seem to crop up repeatedly in data catalogues.&lt;/p&gt;
+
+&lt;p&gt;I put together a list and shared them on Twitter…&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Thinking about common data service problems…&lt;br /&gt;&lt;br /&gt;– Low awareness of service&lt;br /&gt;– Finding things&lt;br /&gt;– Complex content&lt;br /&gt;– Data quality&lt;br /&gt;– Maintenance&lt;br /&gt;– Visual presentation&lt;br /&gt;– Interface usability&lt;br /&gt;– Too technical&lt;br /&gt;– Geography is hard&lt;/p&gt;&amp;mdash; Benjy Stanton (@benjystanton) &lt;a href=&quot;https://twitter.com/benjystanton/status/1126097351746162689?ref_src=twsrc%5Etfw&quot;&gt;May 8, 2019&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;I’m collecting all this thinking together into a slide deck as I go, and hopefully can share it more widely (perhaps as a blog post) when it’s more coherent.&lt;/p&gt;
+
+&lt;h2 id=&quot;govuk-registers-have-a-done-a-good-job-of-solving-common-tasks&quot;&gt;GOV.UK Registers have a done a good job of solving common tasks&lt;/h2&gt;
+
+&lt;p&gt;Obviously I’m not a true user of &lt;a href=&quot;https://www.registers.service.gov.uk/&quot;&gt;GOV.UK Registers&lt;/a&gt; but I think they’ve done a great job at creating a usable interface for exploring &lt;a href=&quot;https://www.registers.service.gov.uk/registers/internal-drainage-board&quot;&gt;datasets&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;They have done a really nice job of meeting user needs that I’ve observed, for example…&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;A simple search with filters&lt;/li&gt;
+  &lt;li&gt;Enough important metadata (description, row count, field descriptions) without being overwhelming&lt;/li&gt;
+  &lt;li&gt;Clear links to get the data (via download or API)&lt;/li&gt;
+  &lt;li&gt;A history of changes&lt;/li&gt;
+  &lt;li&gt;Subscribe to be notified of updates&lt;/li&gt;
+  &lt;li&gt;A preview of the data in tabular format&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The also have &lt;a href=&quot;https://gds.blog.gov.uk/2016/03/11/getting-from-data-to-registers/&quot;&gt;a nice poster that describes the characteristics of a register&lt;/a&gt; (I love a good poster) in this article by &lt;a href=&quot;https://twitter.com/adewunmi&quot;&gt;Ade Adewunmi&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;how-do-you-define-success-for-a-data-catalogue&quot;&gt;How do you define success for a data catalogue?&lt;/h2&gt;
+
+&lt;p&gt;I’ve been thinking a lot about &lt;a href=&quot;https://twitter.com/puntofisso/status/1124280454209839105&quot;&gt;Giuseppe Sollazzo’s tweet&lt;/a&gt; about how we can define success for a data catalogue.&lt;/p&gt;
+
+&lt;p&gt;I think it’s fair to say that my thinking around KPIs (key performance indicators), OKRs (Objectives and Key Results) and outcomes versus outputs is pretty immature. But I hope to spend some serious time digging into how I can link these kind of things back to user needs in future.&lt;/p&gt;
+
+&lt;p&gt;Luckily &lt;a href=&quot;https://twitter.com/stevenjmesser&quot;&gt;Steve Messer&lt;/a&gt; is blogging &lt;a href=&quot;https://visitmy.website/2019/02/21/how-we-use-okrs-gov-uk/&quot;&gt;good stuff about OKRs&lt;/a&gt; right now.&lt;/p&gt;
+
+&lt;h2 id=&quot;data-inclusion-scale&quot;&gt;Data inclusion scale&lt;/h2&gt;
+
+&lt;p&gt;I also had a chat with user researcher &lt;a href=&quot;https://twitter.com/loup73&quot;&gt;Louise Petre&lt;/a&gt; about her work on &lt;a href=&quot;https://data.gov.uk/&quot;&gt;data.gov.uk&lt;/a&gt; and the data inclusion scale. You can read &lt;a href=&quot;https://dataingovernment.blog.gov.uk/2017/11/09/performance-analysis-and-user-research-cross-government-meetup/&quot;&gt;a bit about the data inclusion scale in this post&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;It’s a way to plot users based on their understanding of data and their ability to manipulate it. Ranging from data indifferent to data expert. I think it will be a useful tool to try out with stakeholders and users in future.&lt;/p&gt;
+
+&lt;p&gt;It reminded me that &lt;a href=&quot;https://twitter.com/mattinwales&quot;&gt;Matt Knight&lt;/a&gt; worked on something similar whilst he was at ONS. Here’s his blog post about it: &lt;a href=&quot;https://digitalblog.ons.gov.uk/2018/04/05/a-data-literacy-scale/&quot;&gt;A data literacy scale?&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;other-things-that-im-reading&quot;&gt;Other things that I’m reading&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.dta.gov.au/help-and-advice/guides-and-tools/requirements-australian-government-websites/open-data#what-is-open-data&quot;&gt;What is open data&lt;/a&gt; from DTA (Digital Transformation Agency) Australian Government&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.wearefuturegov.com/understanding-your-services-3344d4bb1f75&quot;&gt;Understanding your services&lt;/a&gt; by &lt;a href=&quot;https://twitter.com/BenHolliday&quot;&gt;Ben Holliday&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://pds.blog.parliament.uk/2019/01/11/understanding-services-through-user-needs%E2%80%AF/&quot;&gt;Understanding services through user needs &lt;/a&gt; by &lt;a href=&quot;https://twitter.com/clementgraphics&quot;&gt;Jeanette Clement&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Wed, 15 May 2019 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/blog/weeknotes-series-03-episode-04/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/weeknotes-series-03-episode-04/</guid>
+        
+        
+        <category>weeknotes</category>
+        
+      </item>
+    
+      <item>
+        <title>Weeknotes – series 03 episode 03</title>
+        <description>&lt;h2 id=&quot;mapping-data-ecosystems&quot;&gt;Mapping data ecosystems&lt;/h2&gt;
+
+&lt;p&gt;This week, I’ve been working with Sarah on some of the data ecosystems diagrams she’s been doing. These are similar to user journey maps or service blueprints. Swirrl use them in blog posts and share them with stakeholders.&lt;/p&gt;
+
+&lt;p&gt;They’ve been helpful for me too – they show what data is collected and where it goes. It’s a reminder that in order to design a good data service, we need to consider lots of different data providers, publishing channels and end-users.&lt;/p&gt;
+
+&lt;p&gt;I’ve been using &lt;a href=&quot;https://moqups.com/&quot;&gt;Moqups&lt;/a&gt; to draw the diagrams. So far I really like it, it’s intuitive to use like Sketch, but it’s been designed specifically for diagrams and wireframes so it has lots of built in icons and interface elements that you can drag and drop.&lt;/p&gt;
+
+&lt;h2 id=&quot;data-user-personas&quot;&gt;Data user personas&lt;/h2&gt;
+
+&lt;p&gt;I was also looking over some project notes and found some personas that had been drawn up. Using these, together with the data ecosystems work, has been really useful in helping me develop my thoughts about how open data fits into users’ worlds.&lt;/p&gt;
+
+&lt;p&gt;Alongside project work, I’ve been taking a step back to look at the &lt;a href=&quot;https://twitter.com/benjystanton/status/1123258869290082306&quot;&gt;similarities in user needs&lt;/a&gt; that are visible across different data things I’ve worked on.&lt;/p&gt;
+
+&lt;h2 id=&quot;teams-and-people-talking-about-data-in-a-user-centred-way&quot;&gt;Teams and people talking about data in a user-centred way&lt;/h2&gt;
+
+&lt;p&gt;Continuing on from last week, I’m still &lt;a href=&quot;https://www.benjystanton.co.uk/blog/weeknotes-series-03-episode-02/#looking-for-data-designers&quot;&gt;on the hunt&lt;/a&gt; to discover (and remember) all the people and teams I can find that are working on systems that publish (or enable access to) data.&lt;/p&gt;
+
+&lt;p&gt;I’ve found some good things so far…&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://dataingovernment.blog.gov.uk/2019/05/02/a-discovery-into-data-publishing-formats/&quot;&gt;A discovery into data publishing formats&lt;/a&gt; – a blog post from the &lt;a href=&quot;https://www.gov.uk/government/organisations/race-disparity-unit&quot;&gt;Race Disparity Unit at GDS&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nesta.org.uk/blog/you-can-lead-person-data-you-cant-make-them-use-it/&quot;&gt;You can lead a person to data, but you can’t make them use it&lt;/a&gt; – a blog post by &lt;a href=&quot;https://twitter.com/theasnow&quot;&gt;Thea Snow&lt;/a&gt; that I spotted after &lt;a href=&quot;https://twitter.com/kitterati&quot;&gt;Kit Collingwood&lt;/a&gt; retweeted it&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://community.digital.gov.au/t/open-data-discovery-outcomes/1459&quot;&gt;Open data discovery outcomes&lt;/a&gt; – detailed research outcomes from the Digital Transformation Agency (DTA) in Australia&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;… of course &lt;a href=&quot;https://digitalblog.ons.gov.uk/&quot;&gt;ONS digital publishing&lt;/a&gt; are always doing good things in the space too.&lt;/p&gt;
+
+&lt;h2 id=&quot;more-like-service-design&quot;&gt;More like service design&lt;/h2&gt;
+
+&lt;p&gt;So far my new role feels closer to service design than I was expecting. This is definitely a good thing. I’m early on in a few projects, so not much call for hands on interaction design yet. Even so, I’m trying to resist my usual urge to jump straight in to designing the details.&lt;/p&gt;
+
+&lt;p&gt;This feels like a good opportunity to keep looking at the big picture for a while.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/blog/weeknotes-series-03-episode-03/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/weeknotes-series-03-episode-03/</guid>
+        
+        
+        <category>weeknotes</category>
+        
+      </item>
     
       <item>
         <title>Weeknotes – series 03 episode 02</title>
@@ -598,108 +731,6 @@
         <pubDate>Sat, 26 Jan 2019 00:00:00 +0000</pubDate>
         <link>http://localhost:4000/blog/weeknotes-series-02-episode-03/</link>
         <guid isPermaLink="true">http://localhost:4000/blog/weeknotes-series-02-episode-03/</guid>
-        
-        
-        <category>weeknotes</category>
-        
-      </item>
-    
-      <item>
-        <title>Weeknotes – series 02 episode 02</title>
-        <description>&lt;h2 id=&quot;chatting-to-the-design-team&quot;&gt;Chatting to the design team&lt;/h2&gt;
-&lt;p&gt;On Monday I spent some time catching up with the permanent interaction designers working in my area. Even though they’ll be &lt;a href=&quot;https://twitter.com/benjystanton/status/1083097108352303105&quot;&gt;line-managed by a non-designer&lt;/a&gt; (boo) I’ve been asked to lead them in terms of objectives, progression, training and kit.&lt;/p&gt;
-
-&lt;h2 id=&quot;cross-gov-design-train&quot;&gt;Cross-gov design train&lt;/h2&gt;
-&lt;p&gt;On Tuesday we had an away day in Swindon. I got the train up and bumped into some of my “old” design team from the Office for National Statistics publishing team. They were on the way to the cross-government design away day in London. The theme was “designing for people in crisis”. I was sad to be missing out.&lt;/p&gt;
-
-&lt;p&gt;There were a few others I knew on that train too. In total we counted 13 designers!&lt;/p&gt;
-
-&lt;h2 id=&quot;off-site-away-day&quot;&gt;Off site away-day&lt;/h2&gt;
-&lt;p&gt;When we arrived at Swindon, it was good to meet some of the team from Titchfield (Office for National Statistics other office near Portsmouth). I got on with the user researchers in particular.&lt;/p&gt;
-
-&lt;p&gt;I realised that, as I was struggling to find my feet in a new team, my new team was also struggling to find its place in an even bigger team. And that bigger team was based in Titchfield.&lt;/p&gt;
-
-&lt;p&gt;I’m a fan of remote working, but I think that a big organisation, split over 2 locations, using enterprise software really tests a teams’ ability to work flexibly.&lt;/p&gt;
-
-&lt;p&gt;The away-day could have been run in a more productive, inclusive way. But I definitely see the value of spending time together, and this was the first time we were thrown together. Next time should be easier.&lt;/p&gt;
-
-&lt;h2 id=&quot;panic-attack&quot;&gt;Panic attack?&lt;/h2&gt;
-&lt;p&gt;The following days were hard. A big fat inbox (including invites to 3 different recurring stand-ups) pushed me over the edge and I’m pretty sure I had a panic attack. I think one of the reasons I’m finding this move hard is that I’m used to sounding off on Twitter to let off steam. I don’t feel like I can share much of what’s going on right now, so all my stresses are building up.&lt;/p&gt;
-
-&lt;p&gt;My energy went into firing off passive aggressive emails, which seems to be my speciality at the moment, so apologies if you received one of those.&lt;/p&gt;
-
-&lt;h2 id=&quot;finishing-on-a-high&quot;&gt;Finishing on a high&lt;/h2&gt;
-&lt;p&gt;On Friday I spent time chatting to familiar faces who have been on the team longer than I have. They confirmed that yes there is way too much to do, that I can’t possibly help fix it all by myself, but yes I was probably right to be worried about some of the problems I was seeing.&lt;/p&gt;
-
-&lt;h2 id=&quot;things-to-focus-on-next-week&quot;&gt;Things to focus on next week&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;I’m visiting the Titchfield office on Monday to chat with the comms team about the Census brand&lt;/li&gt;
-  &lt;li&gt;I’m going to help the Census website team pull together some user needs, so we can begin validating them&lt;/li&gt;
-  &lt;li&gt;I’m going to observe some user research on Thursday&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Sat, 19 Jan 2019 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/weeknotes-series-02-episode-02/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/weeknotes-series-02-episode-02/</guid>
-        
-        
-        <category>weeknotes</category>
-        
-      </item>
-    
-      <item>
-        <title>Weeknotes – series 02 episode 01</title>
-        <description>&lt;p class=&quot;lede&quot;&gt;This was my first week back after Christmas and my first week on the Census cross-service team.&lt;/p&gt;
-
-&lt;p&gt;I was weirdly nervous because I didn’t know where I was meant to sit, but it turns out that nearly everyone was moving desk. The whole Survey Data Collection department was being reorganised as it gets ready for the Census test later this year.&lt;/p&gt;
-
-&lt;h2 id=&quot;resisting-the-move&quot;&gt;Resisting the move&lt;/h2&gt;
-
-&lt;p&gt;I’ve been resistant to moving teams, and one of the reasons is because the job feels so different (new room, new team, new products, new manager) and it didn’t really come with any of the usually exciting aspects associated with a new job. I guess I’m going to have to bake my own welcome-to-the-team cake?&lt;/p&gt;
-
-&lt;h2 id=&quot;focus-on-something&quot;&gt;Focus on something&lt;/h2&gt;
-
-&lt;p&gt;I decided to focus on trying to identify all the channels that a person might experience when using the Census. A simple user journey could include all of these, and more:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;marketing campaigns&lt;/li&gt;
-  &lt;li&gt;paper letter&lt;/li&gt;
-  &lt;li&gt;people calling at the door&lt;/li&gt;
-  &lt;li&gt;a big fat online survey&lt;/li&gt;
-  &lt;li&gt;email reminders&lt;/li&gt;
-  &lt;li&gt;call centres&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;service-design-fun&quot;&gt;Service design fun&lt;/h2&gt;
-
-&lt;p&gt;I was slowly getting over myself and realising that this is a very interesting and complicated service journey to help design. There are of course many complex behind-the-scenes things that need to happen to keep this running smoothly, not to mention the challenge of processing and using the resulting data effectively.&lt;/p&gt;
-
-&lt;p&gt;My plan over the next few days and weeks is to:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;meet the wider team&lt;/li&gt;
-  &lt;li&gt;understand the different products&lt;/li&gt;
-  &lt;li&gt;draw up a service blueprint&lt;/li&gt;
-  &lt;li&gt;map out the stakeholders&lt;/li&gt;
-  &lt;li&gt;perform a service walkthrough&lt;/li&gt;
-  &lt;li&gt;identify gaps&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;I’m going to really miss my old team in Digital Publishing and the wider data publishing community, but I’m focusing on the positives of working over here*. I get to:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;help improve a service that will be used by everyone in the country&lt;/li&gt;
-  &lt;li&gt;work across several multidisciplinary product teams&lt;/li&gt;
-  &lt;li&gt;learn about another bit of statistics (how survey data is collected)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Apart from helping the Census, there is real work to be done to help improve the design community here at ONS and I think that being able to hang out with a different team should give me a more rounded view of things.&lt;/p&gt;
-
-&lt;p&gt;*in reality my new desk is about a 1 minute walk away from my old one.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/weeknotes-series-02-episode-01/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/weeknotes-series-02-episode-01/</guid>
         
         
         <category>weeknotes</category>
