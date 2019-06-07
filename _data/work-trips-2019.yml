@@ -51,8 +51,28 @@
 
 - destination: Swirrl
   city: Manchester
+  category: work
+  month: April
+  from: Swansea
+  to: Manchester Piccadilly
+
+  - destination: London
+  city: London
   category: meetings
   month: April
   from: Swansea
   to: Bristol Temple Meads
+
+- destination: Bristol
+  city: Bristol
+  category: meetings
+  month: May
+  from: Swansea
+  to: Bristol Temple Meads
   
+- destination: Swirrl
+  city: Manchester
+  category: work
+  month: June
+  from: Swansea
+  to: Manchester Piccadilly
