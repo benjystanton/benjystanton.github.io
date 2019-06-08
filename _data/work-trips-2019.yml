@@ -56,7 +56,7 @@
   from: Swansea
   to: Manchester Piccadilly
 
-  - destination: London
+- destination: London
   city: London
   category: meetings
   month: April

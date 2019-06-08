@@ -5,9 +5,98 @@
     <description>Interaction Designer. Family Man. Music Snob.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 15 May 2019 21:05:35 +0100</pubDate>
-    <lastBuildDate>Wed, 15 May 2019 21:05:35 +0100</lastBuildDate>
+    <pubDate>Fri, 07 Jun 2019 16:51:29 +0100</pubDate>
+    <lastBuildDate>Fri, 07 Jun 2019 16:51:29 +0100</lastBuildDate>
     <generator>Jekyll v3.8.4</generator>
+    
+      <item>
+        <title>Weeknotes – series 03 episode 05</title>
+        <description>&lt;h2 id=&quot;wellcome-data-labs&quot;&gt;Wellcome data labs&lt;/h2&gt;
+
+&lt;p&gt;I was excited to learn about &lt;a href=&quot;https://medium.com/wellcome-data-labs&quot;&gt;Wellcome Data Labs&lt;/a&gt;, a part of the Wellcome Trust that’s combining data science and user research. I don’t know of many other teams that are embedding user research and UX (User Experience) practices this closely with data scientists and, even better, they are blogging openly about it.&lt;/p&gt;
+
+&lt;p&gt;Although the title nearly put me off (&lt;a href=&quot;https://medium.com/wellcome-data-labs/tableau-best-practises-put-to-the-test-f62f5380ba0b&quot;&gt;Tableau Best Practises Put to the Test&lt;/a&gt;), this is a really good blog post that looks at how the team did usability testing and challenged some bits of received wisdom around how best to design data interfaces.&lt;/p&gt;
+
+&lt;h2 id=&quot;laura-kösten&quot;&gt;Laura Kösten&lt;/h2&gt;
+
+&lt;p&gt;I had a chat with &lt;a href=&quot;https://laurakoesten.github.io/&quot;&gt;Laura Kösten&lt;/a&gt;, a PhD candidate at the ODI (Open Data Institute) and a senior research assistant at the School of Electronics and Computer Science at the University of Southampton.&lt;/p&gt;
+
+&lt;p&gt;She showed me some of the stuff she’s working on, including this &lt;a href=&quot;https://data-stories.github.io/data-summary/&quot;&gt;data summary tool&lt;/a&gt; which helps publishers to describe datasets, with the most useful information that users need.&lt;/p&gt;
+
+&lt;h2 id=&quot;if&quot;&gt;IF&lt;/h2&gt;
+
+&lt;p&gt;IF, according to their website are a “technology studio, specialising in ethical and practical uses of data”. They have a really nice &lt;a href=&quot;https://catalogue.projectsbyif.com/&quot;&gt;pattern library of data sharing components&lt;/a&gt;, which is just beautiful as well as really useful. They seem to work mainly in the space of ethical data collection and privacy, but I still think there’s some overlap with the publishing and maintenance of datasets.&lt;/p&gt;
+
+&lt;p&gt;They also have some &lt;a href=&quot;https://www.projectsbyif.com/blog/data-ethics-toolkits-9-practices-for-organisations-operating-digital-services/&quot;&gt;data ethics principles&lt;/a&gt; which are available to &lt;a href=&quot;https://s3-eu-west-1.amazonaws.com/projectsbyif.com/data-ethics-practices/9+practices+for+organisations+operating+digital+services.pdf&quot;&gt;download in poster format&lt;/a&gt; too.&lt;/p&gt;
+
+&lt;p&gt;My favourite is “understand the flow of data”. This is really hard and so important I think.&lt;/p&gt;
+
+&lt;h2 id=&quot;writing-requirements-as-user-stories&quot;&gt;Writing requirements as user stories&lt;/h2&gt;
+
+&lt;p&gt;We had a meeting with one of the teams at Defra (Department for Environment, Food and Rural Affairs). I suggested that a good way for them to share their requirements with us would be in the form of user stories.&lt;/p&gt;
+
+&lt;p&gt;I pulled together a few notes (leaning heavily on the excellent advice in the &lt;a href=&quot;https://www.gov.uk/service-manual&quot;&gt;GOV.UK Service Manual&lt;/a&gt;).&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;ul&gt;
+    &lt;li&gt;As a… [who is the user?]&lt;/li&gt;
+    &lt;li&gt;I need/want/expect to… [what does the user want to do?]&lt;/li&gt;
+    &lt;li&gt;So that… [why does the user want to do this?]&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;In my experience the middle bit is quite easy to write, the user groups are a little more difficult, and the “so that” bit is really difficult.&lt;/p&gt;
+
+&lt;p&gt;It was good to have some time to think about user stories and what they’re good at. When they’re written well they help us to focus on the users and why they are trying to do something.&lt;/p&gt;
+
+&lt;p&gt;Obviously, you need to do user research before you can write any of them well, but even with that solid understanding I think they are still a challenge to write well.&lt;/p&gt;
+
+&lt;h2 id=&quot;chat-to-jeremy-yun&quot;&gt;Chat to &lt;a href=&quot;https://twitter.com/jeremyhhy&quot;&gt;Jeremy Yun&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;I had a chat with Jeremy, an interaction designer on the GOV.UK publishing platform. He’s working on a service that visualises content performance for publishers in order for them to make better decisions about the content they publish.&lt;/p&gt;
+
+&lt;p&gt;We talked about the common problem of giving data and visualisations enough context, so that less data literate people can still make use of them.&lt;/p&gt;
+
+&lt;h2 id=&quot;things-we-could-try-measuring&quot;&gt;Things we could try measuring&lt;/h2&gt;
+
+&lt;p&gt;It lead me to think more about measuring the performance of data publishing and what the metrics could be…&lt;/p&gt;
+
+&lt;p&gt;Apart from common stuff like increases in page views and user satisfaction, what kind of metrics are important to data publishing?&lt;/p&gt;
+
+&lt;p&gt;These are some early (hopefully educated) guesses combined with a few I’ve pinched from other places…&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Increase automatic publishing workflows&lt;/li&gt;
+  &lt;li&gt;More organisations publishing&lt;/li&gt;
+  &lt;li&gt;More datasets&lt;/li&gt;
+  &lt;li&gt;Increased data quality&lt;/li&gt;
+  &lt;li&gt;Increased data standards&lt;/li&gt;
+  &lt;li&gt;Openness of formats&lt;/li&gt;
+  &lt;li&gt;Completeness of metadata&lt;/li&gt;
+  &lt;li&gt;Regular updates&lt;/li&gt;
+  &lt;li&gt;Reduce requests (increase self-serve)&lt;/li&gt;
+  &lt;li&gt;Reduce duplication (more shared code lists and reference data)&lt;/li&gt;
+  &lt;li&gt;Ability to format/filter data to low granularity&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I also wonder how we could measure inclusiveness? If open data is meant to be easy to access, how can we prove that people  with lower data literacy are able to use it? And I’m not talking about the public here, but busy people in central and local governments, who aren’t data experts, but still need to use this stuff.&lt;/p&gt;
+
+&lt;h2 id=&quot;other-things-im-reading&quot;&gt;Other things I’m reading&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gds.blog.gov.uk/2018/01/10/working-with-citizens-advice-and-its-amazing-data/&quot;&gt;Working with Citizens Advice and its amazing data&lt;/a&gt; by &lt;a href=&quot;https://twitter.com/lorna_tang&quot;&gt;Lorna Tang&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.bbc.co.uk/events/e4vgfx/live/cb54wh&quot;&gt;Access All Areas 2019 (BBC Accessibility Awareness Day)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://uxdesign.cc/how-white-space-killed-an-enterprise-app-and-why-data-density-matters-b3afad6a5f2a&quot;&gt;How white space killed an enterprise app (and why data density matters)&lt;/a&gt; by &lt;a href=&quot;https://twitter.com/CLenneville&quot;&gt;Christie Lenneville&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 20 May 2019 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/blog/weeknotes-series-03-episode-05/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/weeknotes-series-03-episode-05/</guid>
+        
+        
+        <category>weeknotes</category>
+        
+      </item>
     
       <item>
         <title>Weeknotes – series 03 episode 04</title>
@@ -675,62 +764,6 @@
         <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
         <link>http://localhost:4000/blog/weeknotes-series-02-episode-04/</link>
         <guid isPermaLink="true">http://localhost:4000/blog/weeknotes-series-02-episode-04/</guid>
-        
-        
-        <category>weeknotes</category>
-        
-      </item>
-    
-      <item>
-        <title>Weeknotes – series 02 episode 03</title>
-        <description>&lt;figure&gt;
-  &lt;img src=&quot;http://localhost:4000/assets/coventry-cathedral.jpg&quot; alt=&quot;Colourful stained glass windows at Coventry cathedral.&quot; /&gt;
-  &lt;figcaption class=&quot;text-small&quot;&gt;
-    We got a chance to walk around Coventry cathedral on Thursday lunch time
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p class=&quot;lede&quot;&gt;This week I travelled to Newport, Titchfield and Coventry and I realised while writing these that I'd been on 10 different trains!&lt;/p&gt;
-
-&lt;h2 id=&quot;logos-letters-and-campaign-websites&quot;&gt;Logos, letters and campaign websites&lt;/h2&gt;
-
-&lt;p&gt;On Monday I got the train down to Titchfield (Office for National Statistics’ other office based near Portsmouth). Much of the communications team are based down there and I had a meeting booked in to chat about the recent updates to the Census brand identity.&lt;/p&gt;
-
-&lt;p&gt;I saw the nearly finished logo and heard about some the campaigns they are planning over the next few years. I also learnt a bit more about the letters that will be posted out to ask people to fill the Census in, and the plans for a website that will address people’s needs around getting help filling in the survey.&lt;/p&gt;
-
-&lt;p&gt;Despite the great work being done, it struck us that we (the ‘digital and technology’ and the ‘communications’ departments) need to work more closely together in order to make sure that end users encounter a seamless service when they use the Census, no matter which team are responsible for the individual bits.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-value-of-observing-user-research&quot;&gt;The value of observing user research&lt;/h2&gt;
-
-&lt;p&gt;On Wednesday I travelled up to Coventry (changing at Bristol and Birmingham if you’re wondering) to get ready for observing user research on Thursday.&lt;/p&gt;
-
-&lt;p&gt;For the whole day on Thursday I watched people complete the Census by going through a process that roughly followed this timeline…&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;User becomes aware of the Census via social media&lt;/li&gt;
-  &lt;li&gt;A letter is sent to the household&lt;/li&gt;
-  &lt;li&gt;The user goes online to complete the Census&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;The key thing that jumped out for me is that even people who are happy to complete the Census won’t just immediately open the letter and start filling things out. In reality we have to consider things like this…&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Post arrives in different ways and at different times&lt;/li&gt;
-  &lt;li&gt;People have different systems in place for assessing whether a particular letter is important or not&lt;/li&gt;
-  &lt;li&gt;A period of time will pass between receiving the letter and opening it – in this time people may seek more information about the Census or they may just forget&lt;/li&gt;
-  &lt;li&gt;Some people will take a photo of the letter so they can fill out the survey on their phone on the bus&lt;/li&gt;
-  &lt;li&gt;Some users will plan a time sit with their partner in the study and use a desktop PC&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Observing user research (and in particular usability testing) never fails to be an amazingly useful use of my time. No matter how many times I do it, I always come away with a more rounded idea of the service in my head. And it never fails to re-focus you onto the most important problems and the things real people are trying to do.&lt;/p&gt;
-
-&lt;blockquote class=&quot;twitter-tweet&quot; data-conversation=&quot;none&quot; data-lang=&quot;en&quot; data-theme=&quot;light&quot; data-link-color=&quot;#2B7BB9&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;1 day watching real people test out a thing has been more useful than 2 and half weeks of talking to people who are making the thing.&lt;/p&gt;&amp;mdash; Benjy Stanton (@benjystanton) &lt;a href=&quot;https://twitter.com/benjystanton/status/1088491227455152129?ref_src=twsrc%5Etfw&quot;&gt;January 24, 2019&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
-
-</description>
-        <pubDate>Sat, 26 Jan 2019 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/weeknotes-series-02-episode-03/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/weeknotes-series-02-episode-03/</guid>
         
         
         <category>weeknotes</category>
