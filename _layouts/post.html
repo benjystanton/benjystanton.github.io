@@ -2,6 +2,34 @@
 layout: default
 ---
 
+  <script type="application/ld+json">
+    {
+      "@context":"http://schema.org",
+      "@type": "BlogPosting",
+      "image": "{% if page.image %}{{ site.url }}/assets/{{ page.image }}{% else %}{{ site.url }}/assets/benjy-stanton.jpg{% endif %}",
+      "url": "{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}",
+      "headline": "{{ page.title }}",
+      "datePublished": "{{ page.date | date: "%e %B %Y" }}",
+      "dateModified": "{{ page.date | date: "%e %B %Y" }}",
+      "author": {
+        "@type": "Person",
+        "name": "Benjy Stanton",
+        "url": "https://www.benjystanton.co.uk/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Benjy Stanton",
+        "url": "https://www.benjystanton.co.uk/",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "{{ site.url }}/apple-touch-icon.png"
+        }
+      },
+      "mainEntityOfPage": "True"
+    }
+  </script>
+  
+
 {% include capture-categories.html %}
 
 <article class="post-content h-entry" role="article">
