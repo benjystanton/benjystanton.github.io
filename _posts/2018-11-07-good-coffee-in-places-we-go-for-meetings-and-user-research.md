@@ -4,13 +4,13 @@ title: Good coffee in places we go for meetings and user research
 categories: nablopomo
 ---
 
-<p class="lede">Sometimes you want a Greggs, but sometimes you want a good, independent, artisanal coffee shop. Greggs are easy to find, but good coffee shops are more tricky.</p>
+<p class="lede">Sometimes you want a Greggs, but sometimes you want a good, independent, specialty coffee shop. Greggs are easy to find, but good coffee shops are more tricky.</p>
 
 ***
 
 ## Our (mostly [Andy's](https://twitter.com/mr_dudders)) list of coffee shops
 
-This list is curated by the folks at [ONS digital publishing](https://digitalblog.ons.gov.uk/), and other friendly digital people.
+This list is curated by the folks at [ONS digital publishing](https://digitalblog.ons.gov.uk/), and other nice digital people.
 
 {% include pairs.html list=site.data.good-coffee-in-places-we-go-for-meetings-and-user-research %}
 
