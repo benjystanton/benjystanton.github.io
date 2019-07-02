@@ -5,9 +5,49 @@
     <description>Interaction Designer. Family Man. Music Snob.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 23 Jun 2019 16:28:47 +0100</pubDate>
-    <lastBuildDate>Sun, 23 Jun 2019 16:28:47 +0100</lastBuildDate>
+    <pubDate>Tue, 02 Jul 2019 09:42:35 +0100</pubDate>
+    <lastBuildDate>Tue, 02 Jul 2019 09:42:35 +0100</lastBuildDate>
     <generator>Jekyll v3.8.4</generator>
+    
+      <item>
+        <title>Writing user stories</title>
+        <description>&lt;p&gt;I’ve been looking again at user stories recently, and had a chance to reflect on why they’re useful (and why they are difficult to get right). As I &lt;a href=&quot;/blog/weeknotes-series-03-episode-05/&quot;&gt;wrote in my weeknotes last month&lt;/a&gt;… “the middle bit is quite easy to write, the user groups are a little more difficult, and the “so that” bit is really difficult”.&lt;/p&gt;
+
+&lt;p&gt;Here are some notes that I pulled together on how to write better ones (borrowed heavily on the excellent advice in the &lt;a href=&quot;https://www.gov.uk/service-manual&quot;&gt;GOV.UK Service Manual&lt;/a&gt;).&lt;/p&gt;
+
+&lt;h2 id=&quot;format&quot;&gt;Format&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;As a… [who is the user?]&lt;/li&gt;
+  &lt;li&gt;I need to… [what does the user want to do?]&lt;/li&gt;
+  &lt;li&gt;so that… [why does the user want to do this? What is their goal?]&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;tips&quot;&gt;Tips&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;User stories are tasks that users must complete, or knowledge they must acquire to inform a decision.&lt;/li&gt;
+  &lt;li&gt;A user in this case does not have to be just one person. It can mean a broad group of people (e.g. a persona).&lt;/li&gt;
+  &lt;li&gt;User stories should be specific to a defined persona (to as low a level of granularity as is practical) and to a moment in time.&lt;/li&gt;
+  &lt;li&gt;Try to write from the user’s perspective. Use the same language that users would use themselves.&lt;/li&gt;
+  &lt;li&gt;Try to describe the problem, not the solution.&lt;/li&gt;
+  &lt;li&gt;If you need to add more detail, try writing acceptance criteria. A list of points that indicate when a user story is complete.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;further-reading&quot;&gt;Further reading&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.gov.uk/service-manual/agile-delivery/writing-user-stories&quot;&gt;Writing user stories&lt;/a&gt; on the &lt;a href=&quot;https://www.gov.uk/service-manual&quot;&gt;GOV.UK service manual&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.hollidazed.co.uk/wp-content/uploads/artwork/the-test-of-a-good-user-need.pdf&quot;&gt;The test of a good user need poster – PDF 433KB&lt;/a&gt; by Leisa Reichelt and Ben Holliday&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p class=&quot;small&quot;&gt;Contains public sector information licensed under the &lt;a href=&quot;https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/&quot;&gt;Open Government Licence v3.0&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 28 Jun 2019 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/blog/writing-user-stories/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/writing-user-stories/</guid>
+        
+        
+        <category>design</category>
+        
+      </item>
     
       <item>
         <title>Co-working spaces in Cardiff centre</title>
@@ -549,59 +589,6 @@
         <pubDate>Sun, 17 Feb 2019 00:00:00 +0000</pubDate>
         <link>http://localhost:4000/blog/weeknotes-series-02-episode-06/</link>
         <guid isPermaLink="true">http://localhost:4000/blog/weeknotes-series-02-episode-06/</guid>
-        
-        
-        <category>weeknotes</category>
-        
-      </item>
-    
-      <item>
-        <title>Weeknotes – series 02 episode 05</title>
-        <description>&lt;h2 id=&quot;lauras-leaving-do&quot;&gt;Laura’s leaving do&lt;/h2&gt;
-
-&lt;p&gt;I’m writing these notes on my phone, on the train from Swansea to Cardiff. It’s &lt;a href=&quot;https://mobile.twitter.com/LauraFHarding&quot;&gt;Laura’s&lt;/a&gt; leaving do, so a few of us are heading to &lt;a href=&quot;https://www.tinyrebel.co.uk/bars/cardiff/&quot;&gt;Tiny Rebel&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;another-check-in-with-andy&quot;&gt;Another check-in with Andy&lt;/h2&gt;
-
-&lt;p&gt;Even though I’m no longer working for him, me and &lt;a href=&quot;https://mobile.twitter.com/mr_dudders&quot;&gt;Andy&lt;/a&gt; are continuing our one-to-ones.&lt;/p&gt;
-
-&lt;p&gt;This week I needed an extra one! As always, I’m thankful for his support.&lt;/p&gt;
-
-&lt;h2 id=&quot;website&quot;&gt;Website&lt;/h2&gt;
-
-&lt;p&gt;We’re making a website for a thing in work and it’s finally making progress, thanks to &lt;a href=&quot;https://mobile.twitter.com/leahvardon&quot;&gt;Leah’s&lt;/a&gt; hard work. She has that great ability to pin people down and get them to make a decision.&lt;/p&gt;
-
-&lt;p&gt;Often in the civil service these kind of decisions can take weeks to make, so having people like Leah on your team is essential.&lt;/p&gt;
-
-&lt;h2 id=&quot;making-plans-for-service-design-in-government&quot;&gt;Making plans for Service Design in Government&lt;/h2&gt;
-
-&lt;p&gt;I’m &lt;a href=&quot;https://govservicedesign.net/2019/sessions/index.php?session=102&quot;&gt;speaking at service design in government&lt;/a&gt; next month with &lt;a href=&quot;https://mobile.twitter.com/kieran_forde&quot;&gt;Kieran&lt;/a&gt;. We’re making headway with our talk outline and slides.&lt;/p&gt;
-
-&lt;p&gt;I finally sorted my flight and hotel arrangements too. Although thanks to the quirks of our self service portal I’m still not 100% sure if my conference ticket is paid for.&lt;/p&gt;
-
-&lt;p&gt;Note to self: completing the form that’s called “pay for a conference” does not by itself mean your conference will be paid for. Even if you have all the necessary approvals.&lt;/p&gt;
-
-&lt;p&gt;Snarky-ness aside, ONS really has a generous and supportive attitude to training and conference attendance.&lt;/p&gt;
-
-&lt;h2 id=&quot;making-plans-to-shadow-a-field-officer&quot;&gt;Making plans to shadow a field officer&lt;/h2&gt;
-
-&lt;p&gt;After a recommendation from &lt;a href=&quot;https://mobile.twitter.com/drtommac&quot;&gt;Tom&lt;/a&gt;, I’m trying to organise a day when I can shadow a field officer.&lt;/p&gt;
-
-&lt;p&gt;These are the staff that &lt;a href=&quot;https://www.ons.gov.uk/&quot;&gt;ONS&lt;/a&gt; employ to go door-to-door and help people to fill in surveys.&lt;/p&gt;
-
-&lt;p&gt;I’m expecting that observing this activity will be an amazing way to do user research and learn about our end-users and the needs of ONS staff.&lt;/p&gt;
-
-&lt;h2 id=&quot;forgot-to-mention-my-stand-up-desk&quot;&gt;Forgot to mention my stand-up desk&lt;/h2&gt;
-
-&lt;p&gt;I think I forgot to mention my stand-up desk in last week’s weeknotes. I’ve been using it for about 8 days so far and I’m really enjoying it.&lt;/p&gt;
-
-&lt;p&gt;I don’t find it too tiring. And I feel more likely to walk around and chat to people rather than email or Slack them.&lt;/p&gt;
-
-&lt;p&gt;I assume it’s better for my health too, but I’m certainly not noticing any adverse effects so far.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 08 Feb 2019 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/weeknotes-series-02-episode-05/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/weeknotes-series-02-episode-05/</guid>
         
         
         <category>weeknotes</category>
