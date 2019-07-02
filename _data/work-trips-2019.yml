@@ -63,7 +63,7 @@
   from: Swansea
   to: Bristol Temple Meads
 
-- destination: Bristol
+- destination: Bristol city centre Hotel
   city: Bristol
   category: meetings
   month: May
@@ -83,3 +83,10 @@
   month: June
   from: Swansea
   to: Cardiff Central
+
+- destination: Environment Agency
+  city: Bristol
+  category: meetings
+  month: July
+  from: Swansea
+  to: Bristol Temple Meads
