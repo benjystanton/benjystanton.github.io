@@ -5,9 +5,56 @@
     <description>Interaction Designer. Family Man. Music Snob.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 02 Jul 2019 09:42:35 +0100</pubDate>
-    <lastBuildDate>Tue, 02 Jul 2019 09:42:35 +0100</lastBuildDate>
+    <pubDate>Sat, 06 Jul 2019 07:38:36 +0100</pubDate>
+    <lastBuildDate>Sat, 06 Jul 2019 07:38:36 +0100</lastBuildDate>
     <generator>Jekyll v3.8.4</generator>
+    
+      <item>
+        <title>Design workshops</title>
+        <description>&lt;p class=&quot;lede&quot;&gt;I’m a big fan of structured/facilitated design workshops. They can be incredibly useful for user research sessions, co-designing services with teams, and stakeholder meetings.&lt;/p&gt;
+
+&lt;p&gt;And yes, the language and style of these things can stray a bit into “design thinking B.S.” at times. (Young me would cringe at how often I use the word stakeholder these days).&lt;/p&gt;
+
+&lt;p&gt;But, honestly, practising how to run these workshops, and being able to pick and choose the right one for the right task is becoming more valuable to me as a designer as I gain experience.&lt;/p&gt;
+
+&lt;h2 id=&quot;design-workshop-collections&quot;&gt;Design workshop collections&lt;/h2&gt;
+
+&lt;p&gt;Here are some sites that list a range of design workshop methods in one place…&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://methods.18f.gov/&quot;&gt;18F methods&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.atlassian.com/team-playbook/plays&quot;&gt;Atlassian team playbook&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://designsprintkit.withgoogle.com/methodology/overview&quot;&gt;Google design sprint methodology&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/alphagov/govdesign/blob/master/Cards_User_Research_Activities.pdf&quot;&gt;GDS user research activity cards&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.designkit.org/methods/&quot;&gt;Design Kit methods&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;individual-design-workshops&quot;&gt;Individual design workshops&lt;/h2&gt;
+
+&lt;p&gt;Here are some links to specific design workshop methods…&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://designnotes.blog.gov.uk/2017/11/27/using-design-crits-to-improve-collaboration/&quot;&gt;Design critiques&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nngroup.com/articles/prioritization-matrices/&quot;&gt;Prioritization matrix&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nngroup.com/articles/empathy-mapping/&quot;&gt;Empathy map&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.designkit.org/methods/3&quot;&gt;How might we&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.intercom.com/blog/accidentally-invented-job-stories/&quot;&gt;Job stories&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.interaction-design.org/literature/article/service-blueprints-communicating-the-design-of-services&quot;&gt;Service blueprint&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.interaction-design.org/literature/article/map-the-stakeholders&quot;&gt;Stakeholder mapping&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/the-abcs-of-creating-a-value-proposition-canvas/the-elements-of-a-value-map-7af0d00a682e&quot;&gt;Value proposition map&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nngroup.com/articles/customer-journey-mapping/&quot;&gt;User journey map&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.designkit.org/methods/35&quot;&gt;Storyboard&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://methods.18f.gov/decide/personas/&quot;&gt;Personas&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sat, 06 Jul 2019 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/blog/design-workshops/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/design-workshops/</guid>
+        
+        
+        <category>design</category>
+        
+      </item>
     
       <item>
         <title>Writing user stories</title>
@@ -560,38 +607,6 @@
         
         
         <category>design</category>
-        
-      </item>
-    
-      <item>
-        <title>Weeknotes – series 02 episode 06</title>
-        <description>&lt;p class=&quot;lede&quot;&gt;Short weeknotes feat. prototyping, Service Design in Government, my strong tweet game and Andy Bell.&lt;/p&gt;
-
-&lt;h2 id=&quot;prototyping-in-code&quot;&gt;Prototyping in code&lt;/h2&gt;
-
-&lt;p&gt;I got stuck into my new team’s &lt;a href=&quot;https://github.com/ONSdigital/pattern-library-v2&quot;&gt;pattern library&lt;/a&gt; and &lt;a href=&quot;https://github.com/onsdigital/sdc-prototypes&quot;&gt;prototyping kit&lt;/a&gt; this week. I put my headphones on and listened to &lt;a href=&quot;https://www.bbc.co.uk/sounds/play/m0002d0g&quot;&gt;Joe Cornish’s playlist&lt;/a&gt; on 6 music. It felt good to play around with code.&lt;/p&gt;
-
-&lt;h2 id=&quot;service-design-in-government&quot;&gt;Service Design in Government&lt;/h2&gt;
-
-&lt;p&gt;I also made some good progress with my &lt;a href=&quot;https://govservicedesign.net/2019/sessions/index.php?session=102&quot;&gt;slides for Service Design in Government&lt;/a&gt;. I should have them finished up next week.&lt;/p&gt;
-
-&lt;h2 id=&quot;strong-twitter-game&quot;&gt;Strong Twitter game&lt;/h2&gt;
-
-&lt;p&gt;I did great at Twitter this week too. My twittering about &lt;a href=&quot;https://twitter.com/benjystanton/status/1096064210566561793&quot;&gt;struggling with resilience when doing service design&lt;/a&gt; and a &lt;a href=&quot;https://twitter.com/benjystanton/status/1095360463192367104&quot;&gt;new data sticker&lt;/a&gt; went down pretty well.&lt;/p&gt;
-
-&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Service designers! How do you cope with the stress of feeling out of control/your depth, when you are constantly trying to breakdown the boundaries between team, departments and organisations?&lt;/p&gt;&amp;mdash; Benjy Stanton (@benjystanton) &lt;a href=&quot;https://twitter.com/benjystanton/status/1096064210566561793?ref_src=twsrc%5Etfw&quot;&gt;February 14, 2019&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;I also became the 100th person to contribute to &lt;a href=&quot;https://twitter.com/andybelldesign&quot;&gt;Andy Bell&lt;/a&gt;’s awesome &lt;a href=&quot;https://personalsit.es/&quot;&gt;Personal sites&lt;/a&gt; project.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 17 Feb 2019 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/weeknotes-series-02-episode-06/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/weeknotes-series-02-episode-06/</guid>
-        
-        
-        <category>weeknotes</category>
         
       </item>
     
