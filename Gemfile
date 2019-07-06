@@ -8,3 +8,6 @@ git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
 
 # Added at 2018-05-06 08:24:02 +0100 by benjystanton:
 gem "jekyll", "~> 3.8"
+
+# Added 2019-07-06 by me:
+gem 'jekyll-sitemap'

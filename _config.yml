@@ -12,6 +12,10 @@ instagram_username:  benjystanton
 # Build settings
 markdown: kramdown
 
+# Plugins
+plugins:
+  - jekyll-sitemap
+
 # Outputting
 permalink: /blog/:title/ # change default permalink structure to /blog/title-of-blog.html
 post_dirs: true
