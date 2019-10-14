@@ -111,3 +111,17 @@
   month: July
   from: Swansea
   to: London
+
+- destination: Meeting Space
+  city: Bristol
+  category: user research
+  month: September
+  from: Swansea
+  to: Bristol Temple Meads
+
+- destination: Meeting Space
+  city: Reading
+  category: meetings
+  month: October
+  from: Swansea
+  to: Reading
