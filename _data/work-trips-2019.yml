@@ -56,12 +56,12 @@
   from: Swansea
   to: Manchester Piccadilly
 
-- destination: London
+- destination: Government Department
   city: London
   category: meetings
   month: April
   from: Swansea
-  to: Bristol Temple Meads
+  to: London Paddington
 
 - destination: Bristol city centre Hotel
   city: Bristol
@@ -97,3 +97,17 @@
   month: July
   from: Swansea
   to: Newport (South Wales)
+
+- destination: Government Department
+  city: London
+  category: user research
+  month: July
+  from: Swansea
+  to: London
+
+- destination: Government Department
+  city: London
+  category: user research
+  month: July
+  from: Swansea
+  to: London
