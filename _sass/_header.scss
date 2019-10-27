@@ -20,6 +20,10 @@
         }
     }
 
+    .logo {
+      display: inline-block;
+    }
+
     .logo:focus {
       background-color: $white-colour;
     }
