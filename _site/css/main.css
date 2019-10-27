@@ -254,6 +254,8 @@ blockquote {
     outline: 3px solid #007575; }
   .site-header a.logo:hover {
     background-color: #ffffff; }
+  .site-header .logo {
+    display: inline-block; }
   .site-header .logo:focus {
     background-color: #ffffff; }
   .site-header .logo svg {

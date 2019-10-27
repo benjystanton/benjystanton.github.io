@@ -5,9 +5,22 @@
     <description>Interaction Designer. Family Man. Music Snob.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 14 Oct 2019 18:14:09 +0100</pubDate>
-    <lastBuildDate>Mon, 14 Oct 2019 18:14:09 +0100</lastBuildDate>
+    <pubDate>Sun, 27 Oct 2019 17:05:28 +0000</pubDate>
+    <lastBuildDate>Sun, 27 Oct 2019 17:05:28 +0000</lastBuildDate>
     <generator>Jekyll v3.8.4</generator>
+    
+      <item>
+        <title>Tiny Rebel beer mat</title>
+        <description>
+</description>
+        <pubDate>Sat, 26 Oct 2019 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/blog/tiny-rebel-beer-mat/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/tiny-rebel-beer-mat/</guid>
+        
+        
+        <category>images</category>
+        
+      </item>
     
       <item>
         <title>Design workshops</title>
@@ -456,157 +469,6 @@
         
         
         <category>weeknotes</category>
-        
-      </item>
-    
-      <item>
-        <title>How to be a more resilient service designer</title>
-        <description>&lt;p&gt;Last week, I turned to Twitter for help. I needed some tips on how to cope with some of the stress I was facing at work. I guessed that the challenges I was facing were pretty common to those faced by service designers. I got an amazing response, and I recommend you take a &lt;a href=&quot;https://twitter.com/benjystanton/status/1096064210566561793&quot;&gt;look at the entire thread&lt;/a&gt;, but I’ve tried to condense the tips into this blog post.&lt;/p&gt;
-
-&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Service designers! How do you cope with the stress of feeling out of control/your depth, when you are constantly trying to breakdown the boundaries between team, departments and organisations?&lt;/p&gt;&amp;mdash; Benjy Stanton (@benjystanton) &lt;a href=&quot;https://twitter.com/benjystanton/status/1096064210566561793?ref_src=twsrc%5Etfw&quot;&gt;February 14, 2019&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
-
-&lt;h2 id=&quot;buddy-up&quot;&gt;Buddy up&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;It’s a team effort&lt;/li&gt;
-  &lt;li&gt;You will lose the will to live if you’re the only one driving change&lt;/li&gt;
-  &lt;li&gt;Work with someone who is able to support and advocate for what you’re doing&lt;/li&gt;
-  &lt;li&gt;It doesn’t have to be another service designer (someone with similar agile, user-centred, silo busting mindset)&lt;/li&gt;
-  &lt;li&gt;Share the load of firefighting&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;blockquote class=&quot;twitter-tweet&quot; data-conversation=&quot;none&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Find a buddy. Don’t say “yes” to the work if you don’t/won’t have one. You need someone who “gets it” (awful phrase I know), is working in the same context, who you can chew the fat and - yes - vent with&lt;/p&gt;&amp;mdash; Sophie Dennis (@sophiedennis) &lt;a href=&quot;https://twitter.com/sophiedennis/status/1096100855718256640?ref_src=twsrc%5Etfw&quot;&gt;February 14, 2019&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
-
-&lt;h2 id=&quot;talk-to-others-outside-of-work&quot;&gt;Talk to others outside of work&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Talk it over with people who aren’t involved&lt;/li&gt;
-  &lt;li&gt;Go to meet-ups like &lt;a href=&quot;https://www.oneteamgov.uk/&quot;&gt;OneTeamGov&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Network on social media&lt;/li&gt;
-  &lt;li&gt;Get a mentor&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;build-relationships&quot;&gt;Build relationships&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Go in as an explorer, rather then an expert&lt;/li&gt;
-  &lt;li&gt;Focus on building networks not breaking down silos&lt;/li&gt;
-  &lt;li&gt;Try to see things from other people’s point of view&lt;/li&gt;
-  &lt;li&gt;Find a balance between organisational goals and user needs&lt;/li&gt;
-  &lt;li&gt;Learn about the personalities and values of the other stakeholders&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;blockquote class=&quot;twitter-tweet&quot; data-conversation=&quot;none&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;I’m also big into not thinking about breaking down silos but focusing on building networks of interest. It’s more of a strength based perspective.&lt;br /&gt;&lt;br /&gt;Also remember that change needs time. I’ve learned patience over the last ten years of working in and around gov.&lt;/p&gt;&amp;mdash; rufflemuffin (@rufflemuffin) &lt;a href=&quot;https://twitter.com/rufflemuffin/status/1096321215814402048?ref_src=twsrc%5Etfw&quot;&gt;February 15, 2019&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
-
-&lt;h2 id=&quot;remember-its-a-long-game&quot;&gt;Remember it’s a long game&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Change needs time&lt;/li&gt;
-  &lt;li&gt;Be patient&lt;/li&gt;
-  &lt;li&gt;Trust the process&lt;/li&gt;
-  &lt;li&gt;Learn to spot opportunities&lt;/li&gt;
-  &lt;li&gt;Think strategically about where to plant seeds and where they might grow best&lt;/li&gt;
-  &lt;li&gt;Remember that others are trying to reach their own goals&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;visualise-your-problems&quot;&gt;Visualise your problems&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Map out your stakeholders and priorities&lt;/li&gt;
-  &lt;li&gt;Frame the big challenges by breaking them down into smaller problems and attach rough odds of success&lt;/li&gt;
-  &lt;li&gt;Knowing how hard a problem is makes it less stressful to fail&lt;/li&gt;
-  &lt;li&gt;Focus on smaller projects or task you can finish&lt;/li&gt;
-  &lt;li&gt;Make sure your maps are accessibile to everyone&lt;/li&gt;
-  &lt;li&gt;Go easy on jargon&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;blockquote class=&quot;twitter-tweet&quot; data-conversation=&quot;none&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;I like to frame these big challenges by breaking them down into smaller problems with rough odds of success in my head. Knowing how hard a problem is, relative to others, makes it less stressful to fail. Then I say, “I tried my best, but that was always going to be a long shot”&lt;/p&gt;&amp;mdash; Harry Vos (@vosageroll) &lt;a href=&quot;https://twitter.com/vosageroll/status/1096307866829549568?ref_src=twsrc%5Etfw&quot;&gt;February 15, 2019&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
-
-&lt;h2 id=&quot;switch-off&quot;&gt;Switch off&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Don’t stare at the wall/screen trying to design solution&lt;/li&gt;
-  &lt;li&gt;Go for a walk&lt;/li&gt;
-  &lt;li&gt;Change your environment&lt;/li&gt;
-  &lt;li&gt;Take a lunch or coffee break&lt;/li&gt;
-  &lt;li&gt;Listen to music&lt;/li&gt;
-  &lt;li&gt;Take up surfing or yoga&lt;/li&gt;
-  &lt;li&gt;This can give you time to arrange your thoughts without realising it&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;zoom-out&quot;&gt;Zoom out&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Remind yourself of the context and purpose of the service&lt;/li&gt;
-  &lt;li&gt;Remind yourself of the outcomes you want for the people using the service&lt;/li&gt;
-  &lt;li&gt;Try not to attach your self-worth to the immediate feedback you get&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;blockquote class=&quot;twitter-tweet&quot; data-conversation=&quot;none&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;It can be hard at times for sure. Reminding myself of the context and purpose of the service, and the outcomes we want for people as a result of the work. Going for a walk. Zooming out. Talking it over with someone not involved.&lt;/p&gt;&amp;mdash; (((Nic Price))) (@nicprice) &lt;a href=&quot;https://twitter.com/nicprice/status/1096081140929232897?ref_src=twsrc%5Etfw&quot;&gt;February 14, 2019&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
-
-&lt;h2 id=&quot;keep-going&quot;&gt;Keep going&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Trust yourself&lt;/li&gt;
-  &lt;li&gt;Celebrate all the wins, no matter how small&lt;/li&gt;
-  &lt;li&gt;Recognise that it’s hard&lt;/li&gt;
-  &lt;li&gt;Recognise that it takes emotional investment and mental strength&lt;/li&gt;
-  &lt;li&gt;Keep reminding folk of the duty of doing the right thing&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;further-reading&quot;&gt;Further reading&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.uk/Hope-Dark-Canons-Book-51-ebook/dp/B002VM7FRQ/&quot;&gt;Hope In The Dark (book)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.uk/Simpler-Way-WHEATLEY/dp/1576750507&quot;&gt;A Simpler Way (book)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.nobl.io/how-to-manage-yourself-when-youre-managing-change-e7f2a0522f1?gi=3e21fc8700ec&quot;&gt;How to manage yourself when you’re managing change (blog post)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/@firebethfox/without-a-formal-mandate-8da218b0406b&quot;&gt;Without a Formal Mandate (blog post)&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;thanks&quot;&gt;Thanks&lt;/h2&gt;
-
-&lt;p&gt;Thanks to everyone who helped (apologies if I forgot anyone).&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/Redjotter&quot;&gt;Lauren Currie OBE&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/dug&quot;&gt;Dug Falby&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/SystemsNinja&quot;&gt;Mahoo&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/JDBramall&quot;&gt;Joseph Bramall&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/CreativeDynamix&quot;&gt;Roisin Markham&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/eliotfineberg&quot;&gt;Eliot Fineberg&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/plexusdesigner&quot;&gt;Jenna Law&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/IFiniq&quot;&gt;Ioana Finichiu&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/benbrignell&quot;&gt;Ben Brignell&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/fcoveram&quot;&gt;Francisco Vera&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/lucyclmorris&quot;&gt;Lucy Morris&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/nigel_ux&quot;&gt;Nigel Gillis&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/beckybirch_&quot;&gt;ʙᴇᴄᴋʏ ʙɪʀᴄʜ&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/carlbrooks191&quot;&gt;Carl Brooks&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/genevievegau&quot;&gt;Genevieve Gaudet&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/firebethfox&quot;&gt;Beth Fox&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/mariecheungsays&quot;&gt;Marie Cheung&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/tsmz&quot;&gt;Tom Morgan&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/rufflemuffin&quot;&gt;rufflemuffin&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/solle&quot;&gt;Matthew Solle&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/nicprice&quot;&gt;(((Nic Price)))&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/janereid73&quot;&gt;Smile :)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/markdalgarno&quot;&gt;Mark Dalgarno&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/jukesie&quot;&gt;Matt Jukes&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/sophiedennis&quot;&gt;Sophie Dennis&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/AmyLouWoo&quot;&gt;Amy Harcombe&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/vosageroll&quot;&gt;Harry Vos&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/littleannalaugh&quot;&gt;Anna Henderson&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/stevanbarry&quot;&gt;Stephen&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/Naomi_Turner&quot;&gt;Naomi Turner&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/woodylittle0910&quot;&gt;Rachel A.Wood&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/marthalaldridge&quot;&gt;Martha&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/JoelStrohmeier&quot;&gt;Joel Strohmeier&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/pjmoran&quot;&gt;Paul Moran&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/jess_neely&quot;&gt;Jess Neely&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Sat, 23 Feb 2019 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/how-to-be-a-more-resilient-service-designer/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/how-to-be-a-more-resilient-service-designer/</guid>
-        
-        
-        <category>design</category>
         
       </item>
     
