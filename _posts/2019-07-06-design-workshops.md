@@ -4,6 +4,8 @@ title: Design workshops
 categories: design
 ---
 
+<p class="text-small">Updated on 1 November 2019</p>
+
 <p class="lede">I’m a big fan of structured/facilitated design workshops. They can be incredibly useful for user research sessions, co-designing services with teams, and stakeholder meetings.</p>
 
 And yes, the language and style of these things can stray a bit into "design thinking B.S." at times. (Young me would cringe at how often I use the word stakeholder these days).
@@ -19,6 +21,8 @@ Here are some sites that list a range of design workshop methods in one place…
 - [Google design sprint methodology](https://designsprintkit.withgoogle.com/methodology/overview)
 - [GDS user research activity cards](https://github.com/alphagov/govdesign/blob/master/Cards_User_Research_Activities.pdf)
 - [Design Kit methods](http://www.designkit.org/methods/)
+- [Gamestorming](https://gamestorming.com/)
+- [Liberating Structures](http://www.liberatingstructures.com/)
 
 ## Individual design workshops
 

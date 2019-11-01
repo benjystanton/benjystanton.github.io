@@ -5,8 +5,8 @@
     <description>Interaction Designer. Family Man. Music Snob.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 27 Oct 2019 17:40:31 +0000</pubDate>
-    <lastBuildDate>Sun, 27 Oct 2019 17:40:31 +0000</lastBuildDate>
+    <pubDate>Fri, 01 Nov 2019 19:14:45 +0000</pubDate>
+    <lastBuildDate>Fri, 01 Nov 2019 19:14:45 +0000</lastBuildDate>
     <generator>Jekyll v3.8.4</generator>
     
       <item>
@@ -28,7 +28,9 @@
     
       <item>
         <title>Design workshops</title>
-        <description>&lt;p class=&quot;lede&quot;&gt;I’m a big fan of structured/facilitated design workshops. They can be incredibly useful for user research sessions, co-designing services with teams, and stakeholder meetings.&lt;/p&gt;
+        <description>&lt;p class=&quot;text-small&quot;&gt;Updated on 1 November 2019&lt;/p&gt;
+
+&lt;p class=&quot;lede&quot;&gt;I’m a big fan of structured/facilitated design workshops. They can be incredibly useful for user research sessions, co-designing services with teams, and stakeholder meetings.&lt;/p&gt;
 
 &lt;p&gt;And yes, the language and style of these things can stray a bit into “design thinking B.S.” at times. (Young me would cringe at how often I use the word stakeholder these days).&lt;/p&gt;
 
@@ -44,6 +46,8 @@
   &lt;li&gt;&lt;a href=&quot;https://designsprintkit.withgoogle.com/methodology/overview&quot;&gt;Google design sprint methodology&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/alphagov/govdesign/blob/master/Cards_User_Research_Activities.pdf&quot;&gt;GDS user research activity cards&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://www.designkit.org/methods/&quot;&gt;Design Kit methods&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gamestorming.com/&quot;&gt;Gamestorming&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.liberatingstructures.com/&quot;&gt;Liberating Structures&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;individual-design-workshops&quot;&gt;Individual design workshops&lt;/h2&gt;
