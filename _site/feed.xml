@@ -5,8 +5,8 @@
     <description>Interaction Designer. Family Man. Music Snob.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 01 Nov 2019 19:15:50 +0000</pubDate>
-    <lastBuildDate>Fri, 01 Nov 2019 19:15:50 +0000</lastBuildDate>
+    <pubDate>Fri, 01 Nov 2019 19:19:15 +0000</pubDate>
+    <lastBuildDate>Fri, 01 Nov 2019 19:19:15 +0000</lastBuildDate>
     <generator>Jekyll v3.8.4</generator>
     
       <item>
@@ -123,14 +123,17 @@
     
       <item>
         <title>Co-working spaces in Cardiff centre</title>
-        <description>&lt;ul&gt;
+        <description>&lt;p class=&quot;text-small&quot;&gt;Updated on 1 November 2019&lt;/p&gt;
+
+&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.tramshedtech.co.uk/cowork/&quot;&gt;Tramshed&lt;/a&gt; – £15 for a day pass, first time is free&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.tripadvisor.co.uk/Restaurant_Review-g186460-d13395160-Reviews-The_Little_Man_Garage-Cardiff_South_Wales_Wales.html&quot;&gt;Little Man Garage&lt;/a&gt; – Unlimited coffees/teas for £7, closes at 3pm, proper coffee, not strictly co-working though&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.indycube.community/places&quot;&gt;Indycube&lt;/a&gt; – Multiple locations in Cardiff, £10 per month for 1 day per month&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://labs.uk.barclays/locations/cardiff-en&quot;&gt;Cardiff Eagle Lab&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Cardiff Central Library&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Disclaimer, I’ve not tried any of these (yet). But, thanks to people for responding to &lt;a href=&quot;https://twitter.com/benjystanton/status/1140913131969011713&quot;&gt;my tweet asking for tips&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Disclaimer, I’ve not tried all of these (yet). But, thanks to people for responding to &lt;a href=&quot;https://twitter.com/benjystanton/status/1140913131969011713&quot;&gt;my tweet asking for tips&lt;/a&gt;.&lt;/p&gt;
 
         
         </description>
