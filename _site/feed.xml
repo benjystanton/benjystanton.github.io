@@ -5,8 +5,8 @@
     <description>Interaction Designer. Family Man. Music Snob.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 02 Nov 2019 15:08:08 +0000</pubDate>
-    <lastBuildDate>Sat, 02 Nov 2019 15:08:08 +0000</lastBuildDate>
+    <pubDate>Sat, 02 Nov 2019 18:25:49 +0000</pubDate>
+    <lastBuildDate>Sat, 02 Nov 2019 18:25:49 +0000</lastBuildDate>
     <generator>Jekyll v3.8.4</generator>
     
       <item>
@@ -17,7 +17,7 @@
 &lt;p&gt;&lt;span class=&quot;big-number&quot;&gt;
 1
 &lt;/span&gt;
-&lt;span&gt;Coffees tried&lt;/span&gt;&lt;/p&gt;
+&lt;span&gt; Coffees tried&lt;/span&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -52,7 +52,12 @@
     
       <item>
         <title>Tiny Rebel beer mat</title>
-        <description>
+        <description>&lt;figure class=&quot;margin-bottom--xs&quot;&gt;
+  &lt;img src=&quot;http://localhost:4000/assets/tiny-rebel-beer-mat.jpeg&quot; alt=&quot;Round beer mat pegged on display&quot; /&gt;
+  &lt;figcaption class=&quot;margin-bottom--0 margin-top--xs&quot;&gt;
+    &lt;h1 class=&quot;heading-large margin-bottom--0&quot;&gt;Tiny Rebel beer mat&lt;/h1&gt;
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
 
         
         <figure><img src="http://localhost:4000/assets/tiny-rebel-beer-mat.jpeg" alt="Round beer mat pegged on display" /></figure>
@@ -119,6 +124,8 @@
         
         
         <category>design</category>
+        
+        <category>nablopomo</category>
         
       </item>
     

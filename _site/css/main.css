@@ -354,30 +354,29 @@ blockquote {
 .quarter {
   width: 25%; }
 
-.flex-grid {
-  display: flex;
-  flex-wrap: wrap; }
+@media screen and (min-width: 460px) {
+  .flex-grid {
+    display: flex;
+    flex-wrap: wrap; }
 
-.flex-grid__col {
-  margin-bottom: 36px;
-  width: 100%; }
+  .flex-grid__col {
+    width: 100%; }
 
-.flex-grid__col--half {
-  width: 48%; }
+  .flex-grid__col--half {
+    width: 48%; }
 
-.flex-grid__col--half:nth-child(odd) {
-  margin-right: 2%; }
+  .flex-grid__col--half:nth-child(odd) {
+    margin-right: 2%; }
 
-.flex-grid__col--half:nth-child(even) {
-  margin-left: 2%; }
+  .flex-grid__col--half:nth-child(even) {
+    margin-left: 2%; }
 
-.flex-grid__col--third {
-  width: 32%;
-  margin-right: 2%; }
+  .flex-grid__col--third {
+    width: 32%;
+    margin-right: 2%; }
 
-.flex-grid__col--third:nth-child(3) {
-  margin-right: 0; }
-
+  .flex-grid__col--third:nth-child(3) {
+    margin-right: 0; } }
 .post-list {
   margin-left: 0;
   list-style: none; }
