@@ -2,6 +2,7 @@
 layout: post
 title: Blog stats
 categories: nablopomo
+tag: NaBloPoMo2018
 ---
 
 <!-- You can't pass variables straight into includes, you have to capture them first https://jekyllrb.com/docs/includes/#passing-parameter-variables-to-includes  -->

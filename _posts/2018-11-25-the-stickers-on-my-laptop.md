@@ -1,6 +1,7 @@
 ---
 layout: image
 categories: images nablopomo
+tag: NaBloPoMo2018
 nav: false
 image: "the-stickers-on-my-laptop.jpg"
 image-alt: "A MacBook Pro lid covered in colourful, mostly circular stickers."

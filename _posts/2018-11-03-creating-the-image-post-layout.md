@@ -2,6 +2,7 @@
 layout: post
 title: Creating the image post layout
 categories: nablopomo release-notes
+tag: NaBloPoMo2018
 excerpt: A round-up of the key things in my new image post template.
 image: "image-post-example.jpg"
 image-alt: "A screenshot of a web page with my logo, a big photo and a title"

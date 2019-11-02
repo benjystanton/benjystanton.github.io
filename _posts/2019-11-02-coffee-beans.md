@@ -2,6 +2,7 @@
 layout: post
 title: Coffee beans
 categories: nablopomo
+tag: NaBloPoMo2019
 ---
 
 {% capture coffee-count %}
