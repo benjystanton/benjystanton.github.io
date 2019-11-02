@@ -1,7 +1,8 @@
 // Width of the content area
-$medium:      	  660px;
-$large:      	    900px;
-$xlarge:      	  1400px;
+$small:     460px;
+$medium:    660px;
+$large:     900px;
+$xlarge:    1400px;
 
 @mixin media-query($device) {
     @media screen and (min-width: $device) {
