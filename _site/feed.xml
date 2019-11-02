@@ -5,8 +5,8 @@
     <description>Interaction Designer. Family Man. Music Snob.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 02 Nov 2019 15:01:36 +0000</pubDate>
-    <lastBuildDate>Sat, 02 Nov 2019 15:01:36 +0000</lastBuildDate>
+    <pubDate>Sat, 02 Nov 2019 15:03:26 +0000</pubDate>
+    <lastBuildDate>Sat, 02 Nov 2019 15:03:26 +0000</lastBuildDate>
     <generator>Jekyll v3.8.4</generator>
     
       <item>
@@ -114,6 +114,8 @@
         <pubDate>Sat, 06 Jul 2019 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/blog/design-workshops/</link>
         <guid isPermaLink="true">http://localhost:4000/blog/design-workshops/</guid>
+        
+        <category>NaBloPoMo2019</category>
         
         
         <category>design</category>

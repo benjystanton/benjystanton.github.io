@@ -2,6 +2,7 @@
 layout: post
 title: Design workshops
 categories: design
+tag: NaBloPoMo2019
 ---
 
 <p class="text-small">Updated on 1 November 2019</p>
