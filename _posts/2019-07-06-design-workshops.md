@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Design workshops
-categories: design
+categories: design nablopomo
 tag: NaBloPoMo2019
 ---
 
