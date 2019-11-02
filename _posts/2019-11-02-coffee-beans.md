@@ -15,7 +15,7 @@ tag: NaBloPoMo2019
 {%
   include big-number.html
   big-number=coffee-count
-  text="Coffees tried"
+  text=" Coffees tried"
 %}
 
 <hr>
