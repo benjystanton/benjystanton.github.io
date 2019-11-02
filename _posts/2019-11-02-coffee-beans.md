@@ -9,7 +9,7 @@ categories: nablopomo
 {% endcapture %}
 
 
-<p class="lede">A list of specialty coffees that I’ve tried, so I can remember which ones I like. Thanks to the excellent <a href="https://www.squarepeg.org.uk/">Square Peg</a> for being my supplier of choice.</p>
+<p class="lede">A list of specialty coffees that I’ve tried at home, so I can remember which ones I like. Thanks to the excellent <a href="https://www.squarepeg.org.uk/">Square Peg</a> for being my supplier of choice.</p>
 
 {%
   include big-number.html
