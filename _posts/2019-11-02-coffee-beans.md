@@ -25,6 +25,8 @@ categories: nablopomo
 <dl>
   <dt>Process</dt>
   <dd>{{ item.process }}</dd>
+  <dt>Tasting notes</dt>
+  <dd>{{ item.tasting-notes | join: ", "}}</dd>
   <dt>Type</dt>
   <dd>{{ item.type }}</dd>
   <dt>Roaster</dt>
