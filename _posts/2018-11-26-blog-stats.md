@@ -2,7 +2,6 @@
 layout: post
 title: Blog stats
 categories: nablopomo
-tag: NaBloPoMo2018
 ---
 
 <!-- You can't pass variables straight into includes, you have to capture them first https://jekyllrb.com/docs/includes/#passing-parameter-variables-to-includes  -->
@@ -30,21 +29,21 @@ tag: NaBloPoMo2018
 {% endcapture %}
 
 <div class="flex-grid margin-top--s">
-  <div class="flex-grid__col flex-grid__col--third margin-bottom--s">
+  <div class="flex-grid__col flex-grid__col--third">
   {% include big-number.html
     big-number=post-count
     text="posts"
     url="/blog/"
   %}
   </div>
-  <div class="flex-grid__col flex-grid__col--third margin-bottom--s">
+  <div class="flex-grid__col flex-grid__col--third">
   {% include big-number.html
     big-number=category-count
     text="categories"
     url="/blog/category/"
   %}
   </div>
-  <div class="flex-grid__col flex-grid__col--third margin-bottom--s">
+  <div class="flex-grid__col flex-grid__col--third">
   {% include big-number.html
     big-number=pages-count
     text="pages"
@@ -53,14 +52,14 @@ tag: NaBloPoMo2018
 </div>
 
 <div class="flex-grid">
-  <div class="flex-grid__col flex-grid__col--third margin-bottom--s">
+  <div class="flex-grid__col flex-grid__col--third">
   {% include big-number.html
     big-number=images-count
     text="images"
     url="/blog/category/images"
   %}
   </div>
-  <div class="flex-grid__col flex-grid__col--third margin-bottom--s">
+  <div class="flex-grid__col flex-grid__col--third">
   {% include big-number.html
     big-number=notes-count
     text="notes"

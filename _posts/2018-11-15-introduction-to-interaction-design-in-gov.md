@@ -2,7 +2,6 @@
 layout: post
 title: Introduction to interaction design in gov
 categories: nablopomo
-tag: NaBloPoMo2018
 ---
 
 <p class="lede">I wrote this a few years ago when I was at DVLA (Driver and Vehicle Licensing Agency). It’s been hiding in GitHub, so I’ve moved it here. It’s mostly still relevant and useful. Well done past me.</p>

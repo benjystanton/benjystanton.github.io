@@ -2,7 +2,6 @@
 layout: post
 title: 100 blog posts
 categories: nablopomo
-tag: NaBloPoMo2018
 excerpt: This is my 100th blog post. Here's to 100 more.
 ---
 

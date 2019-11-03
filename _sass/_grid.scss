@@ -1,12 +1,12 @@
 // Wrapper
 
 .wrapper {
-  max-width: 1000px;
-  margin-right: auto;
-  margin-left: auto;
-  padding-right: $spacing-unit/2;
-  padding-left: $spacing-unit/2;
-  @extend %clearfix;
+    max-width: 1000px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: $spacing-unit/2;
+    padding-left: $spacing-unit/2;
+    @extend %clearfix;
 }
 
 // Previous and Next
@@ -17,98 +17,95 @@
   border-top: solid 3px $light-grey-colour;
 }
 
-.previous-and-next a {
+.previous-and-next a{
   display: block;
 }
 
 // Page content
 
 .page-content {
-  padding: $spacing-unit 0 $spacing-unit*2;
+    padding: $spacing-unit 0 $spacing-unit*2;
 
-  @include media-query($medium) {
-    padding-top: $spacing-unit;
-
-    .wrapper {
-      padding-right: 20%;
+    @include media-query($medium) {
+      padding-top: $spacing-unit;
+        .wrapper {
+            padding-right: 20%;
+        }
     }
-  }
 
-  @include media-query($xlarge) {
-    .wrapper {
-      padding-right: 10%;
+    @include media-query($xlarge) {
+        .wrapper {
+            padding-right: 10%;
+        }
     }
-  }
 
 }
 
 // Grid
 // The grid is currently only used in the style guide
-.row {
-  @extend %clearfix;
-}
+ .row {
+    @extend %clearfix;
+ }
 
 .column {
-  padding-right: $spacing-unit/2;
-  margin-bottom: $spacing-unit;
-  float: left;
+    padding-right: $spacing-unit/2;
+    margin-bottom: $spacing-unit;
+    float: left;
 }
 
 .column:last-child {
-  padding-right: 0;
+    padding-right: 0;
 }
 
 .full {
-  width: 100%;
+    width: 100%;
 }
 
 .two-thirds {
-  width: 66.666667%;
+    width: 66.666667%;
 }
 
 .half {
-  width: 50%;
+    width: 50%;
 }
 
 .third {
-  width: 33.333333%;
+    width: 33.333333%;
 }
 
 .quarter {
-  width: 25%;
+    width: 25%;
 }
 
 // Flex grid
 //https://css-tricks.com/dont-overthink-flexbox-grids/
+.flex-grid {
+  display: flex;
+  flex-wrap: wrap;
+}
 
-@include media-query($small) {
-  .flex-grid {
-    display: flex;
-    flex-wrap: wrap;
-  }
+.flex-grid__col {
+  margin-bottom: $spacing-unit;
+  width: 100%;
+}
 
-  .flex-grid__col {
-    width: 100%;
-  }
+.flex-grid__col--half {
+  width: 48%;
+}
 
-  .flex-grid__col--half {
-    width: 48%;
-  }
+.flex-grid__col--half:nth-child(odd) {
+  margin-right: 2%;
+}
 
-  .flex-grid__col--half:nth-child(odd) {
-    margin-right: 2%;
-  }
+.flex-grid__col--half:nth-child(even) {
+  margin-left: 2%;
+}
 
-  .flex-grid__col--half:nth-child(even) {
-    margin-left: 2%;
-  }
+.flex-grid__col--third {
+  width: 32%;
+  margin-right: 2%;
+}
 
-  .flex-grid__col--third {
-    width: 32%;
-    margin-right: 2%;
-  }
-
-  .flex-grid__col--third:nth-child(3) {
-    margin-right: 0;
-  }
+.flex-grid__col--third:nth-child(3) {
+  margin-right: 0;
 }

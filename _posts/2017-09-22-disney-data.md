@@ -13,25 +13,25 @@ I collected some data, mainly so that I could play around with styling up key fi
 ## Key figures
 
 <div class="flex-grid">
-  <div class="flex-grid__col flex-grid__col--half margin-bottom--s">
+  <div class="flex-grid__col flex-grid__col--half">
   {% include big-number.html
     big-number="979"
     text="miles driven"
   %}
   </div>
-  <div class="flex-grid__col flex-grid__col--half margin-bottom--s">
+  <div class="flex-grid__col flex-grid__col--half">
   {% include big-number.html
     big-number="27"
     text="miles walked"
   %}
   </div>
-  <div class="flex-grid__col flex-grid__col--half margin-bottom--s">
+  <div class="flex-grid__col flex-grid__col--half">
   {% include big-number.html
     big-number="7.8"
     text="hours spent queueing"
   %}
   </div>
-  <div class="flex-grid__col flex-grid__col--half margin-bottom--s">
+  <div class="flex-grid__col flex-grid__col--half">
   {% include big-number.html
     big-number="6"
     text="buffets"

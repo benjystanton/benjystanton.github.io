@@ -2,126 +2,126 @@
 
 - destination: Swindon city centre office
   city: Swindon
-  category: Meeting
+  category: meetings
   month: January
   from: Swansea
   to: Swindon (Wilts)
 
 - destination: Office for National Statistics (ONS)
   city: Titchfield
-  category: Meeting
+  category: meetings
   month: January
   from: Swansea
   to: Fareham
 
 - destination: Coventry city centre hotel
   city: Coventry
-  category: User research
+  category: user research
   month: January
   from: Swansea
   to: Coventry
 
 - destination: Abergavenny
   city: Abergavenny
-  category: User research
+  category: user research
   month: February
   from: Swansea
   to: Abergavenny
 
 - destination: John McIntyre Conference Centre
   city: Edinburgh
-  category: Training or conference
+  category: training and conferences
   month: March
   from: Swansea
   to: Edinburgh
 
 - destination: Swirrl
   city: Manchester
-  category: Work
+  category: work
   month: April
   from: Swansea
   to: Manchester Piccadilly
 
 - destination: Environment Agency
   city: Bristol
-  category: Work
+  category: work
   month: April
   from: Swansea
   to: Bristol Temple Meads
 
 - destination: Swirrl
   city: Manchester
-  category: Work
+  category: work
   month: April
   from: Swansea
   to: Manchester Piccadilly
 
 - destination: Government Department
   city: London
-  category: Meeting
+  category: meetings
   month: April
   from: Swansea
   to: London Paddington
 
 - destination: Bristol city centre Hotel
   city: Bristol
-  category: Meeting
+  category: meetings
   month: May
   from: Swansea
   to: Bristol Temple Meads
   
 - destination: Swirrl
   city: Manchester
-  category: Work
+  category: work
   month: June
   from: Swansea
   to: Manchester Piccadilly
 
 - destination: Tremshed Tech
   city: Cardiff
-  category: Remote work
+  category: remote work
   month: June
   from: Swansea
   to: Cardiff Central
 
 - destination: Environment Agency
   city: Bristol
-  category: Meeting
+  category: meetings
   month: July
   from: Swansea
   to: Bristol Temple Meads
 
 - destination: Office for National Statistics (ONS)
   city: Newport
-  category: Meeting
+  category: meetings
   month: July
   from: Swansea
   to: Newport (South Wales)
 
 - destination: Government Department
   city: London
-  category: User research
+  category: user research
   month: July
   from: Swansea
   to: London
 
 - destination: Government Department
   city: London
-  category: User research
+  category: user research
   month: July
   from: Swansea
   to: London
 
 - destination: Meeting Space
   city: Bristol
-  category: User research
+  category: user research
   month: September
   from: Swansea
   to: Bristol Temple Meads
 
 - destination: Meeting Space
   city: Reading
-  category: Meeting
+  category: meetings
   month: October
   from: Swansea
   to: Reading

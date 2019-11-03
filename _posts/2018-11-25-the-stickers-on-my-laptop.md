@@ -1,19 +1,11 @@
 ---
 layout: image
 categories: images nablopomo
-tag: NaBloPoMo2018
 nav: false
 image: "the-stickers-on-my-laptop.jpg"
 image-alt: "A MacBook Pro lid covered in colourful, mostly circular stickers."
 title: The stickers on my laptop
 ---
-
-<figure class="margin-bottom--xs">
-  <img src="{{ site.url }}/assets/{{ page.image }}" alt="{{ page.image-alt }}" />
-  <figcaption class="margin-bottom--0 margin-top--xs">
-    <h1 class="heading-large margin-bottom--0">{{ page.title }}</h1>
-  </figcaption>
-</figure>
 
 <p class="lede">Here are the descriptions for each of the stickers on my laptop lid right now. Descriptions go from top-left to bottom-right.</p>
 
