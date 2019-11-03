@@ -5,13 +5,40 @@
     <description>Interaction Designer. Family Man. Music Snob.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 27 Oct 2019 17:40:31 +0000</pubDate>
-    <lastBuildDate>Sun, 27 Oct 2019 17:40:31 +0000</lastBuildDate>
+    <pubDate>Sun, 03 Nov 2019 10:06:03 +0000</pubDate>
+    <lastBuildDate>Sun, 03 Nov 2019 10:06:03 +0000</lastBuildDate>
     <generator>Jekyll v3.8.4</generator>
     
       <item>
+        <title>Finally went to Ty Cwrw in Mumbles last night, tried a lovely Tenby Brewing x Tiny Rebel ale</title>
+        <description>&lt;figure class=&quot;margin-bottom--xs&quot;&gt;
+  &lt;img src=&quot;http://localhost:4000/assets/finally-went-to-ty-cwrw-in-mumbles-last-night,-tried-a-lovely-tenby-brewing-x-tiny-rebel-ale.jpeg&quot; alt=&quot;Postcard with an illustration of the front of the pub&quot; /&gt;
+  &lt;figcaption class=&quot;margin-bottom--0 margin-top--xs&quot;&gt;
+    &lt;h1 class=&quot;heading-large margin-bottom--0&quot;&gt;Finally went to Ty Cwrw in Mumbles last night, tried a lovely Tenby Brewing x Tiny Rebel ale&lt;/h1&gt;
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+        
+        <figure><img src="http://localhost:4000/assets/finally-went-to-ty-cwrw-in-mumbles-last-night,-tried-a-lovely-tenby-brewing-x-tiny-rebel-ale.jpeg" alt="Postcard with an illustration of the front of the pub" /></figure>
+        
+        </description>
+        <pubDate>Sun, 03 Nov 2019 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/finally-went-to-ty-cwrw-in-mumbles-last-night,-tried-a-lovely-tenby-brewing-x-tiny-rebel-ale/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/finally-went-to-ty-cwrw-in-mumbles-last-night,-tried-a-lovely-tenby-brewing-x-tiny-rebel-ale/</guid>
+        
+        
+        <category>images</category>
+        
+      </item>
+    
+      <item>
         <title>Tiny Rebel beer mat</title>
-        <description>
+        <description>&lt;figure class=&quot;margin-bottom--xs&quot;&gt;
+  &lt;img src=&quot;http://localhost:4000/assets/tiny-rebel-beer-mat.jpeg&quot; alt=&quot;Round beer mat pegged on display&quot; /&gt;
+  &lt;figcaption class=&quot;margin-bottom--0 margin-top--xs&quot;&gt;
+    &lt;h1 class=&quot;heading-large margin-bottom--0&quot;&gt;Tiny Rebel beer mat&lt;/h1&gt;
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
 
         
         <figure><img src="http://localhost:4000/assets/tiny-rebel-beer-mat.jpeg" alt="Round beer mat pegged on display" /></figure>
@@ -448,46 +475,6 @@
         <pubDate>Mon, 29 Apr 2019 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/blog/weeknotes-series-03-episode-02/</link>
         <guid isPermaLink="true">http://localhost:4000/blog/weeknotes-series-03-episode-02/</guid>
-        
-        
-        <category>weeknotes</category>
-        
-      </item>
-    
-      <item>
-        <title>Weeknotes – series 03 episode 01</title>
-        <description>&lt;figure&gt;
-  &lt;img src=&quot;http://localhost:4000/assets/view-from-the-office-square-large.jpg&quot; alt=&quot;St Peter's Square in Manchester, you can see old buildings, people walking and trams&quot; /&gt;
-  &lt;figcaption class=&quot;text-small&quot;&gt;
-    View from Swirrl's shared office in St Peter's Square
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p class=&quot;lede&quot;&gt;Some short-but-sweet weeknotes about my first ever week at Swirrl.&lt;/p&gt;
-
-&lt;p&gt;Last week was my first week at &lt;a href=&quot;http://www.swirrl.com/&quot;&gt;Swirrl&lt;/a&gt;. I’ve joined them as an interaction designer. They’re based in Manchester, but I’ll be working remotely from home in Swansea (most of the time).&lt;/p&gt;
-
-&lt;p&gt;I was convinced to join Swirrl thanks to their digital-first hiring campaign (read: two really well written blog posts about &lt;a href=&quot;https://medium.swirrl.com/swirrl-is-hiring-ed456c08b78b&quot;&gt;who they were looking for&lt;/a&gt; and &lt;a href=&quot;https://medium.swirrl.com/whats-it-like-working-at-swirrl-b9972a703778&quot;&gt;what it’s like to work for them&lt;/a&gt;). I also identify with their mission of publishing open, linked data to help public sector organisations provide better services and make better decisions.&lt;/p&gt;
-
-&lt;p&gt;Last Monday I travelled up to Manchester for a few days to meet the team and start to learn about what they do and how they do it. I spent time chatting to &lt;a href=&quot;https://twitter.com/billroberts&quot;&gt;Bill&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/RicRoberts&quot;&gt;Ric&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/northernjamie&quot;&gt;Jamie&lt;/a&gt; and others. Their office is located in a very nice co-working space called WeWork (in St Peter’s Square).&lt;/p&gt;
-
-&lt;p&gt;I also enjoyed wandering around Manchester, highlights include &lt;a href=&quot;https://vrevmcr.co.uk/&quot;&gt;V-Rev&lt;/a&gt; a really good vegan junk food place in Manchester’s Northern Quarter. When I get some time I’ll head back there to check out some of the &lt;a href=&quot;http://www.manchestersfinest.com/manchester/northern-quarter/magma/&quot;&gt;stationery shops&lt;/a&gt; I spotted nearby.&lt;/p&gt;
-
-&lt;p&gt;Helpfully, Swirrl use all the same admin and communication tools that I’m used to including Google Docs, Slack, FreeAgent and Github. I think this is stuff is really important, especially if you have a distributed team that are based in different locations (and timezones). I’m looking forward to seeing what else they do to help remote teams work together&lt;/p&gt;
-
-&lt;p&gt;One thing I’ve noticed is that a lot of conversations happen in Slack, even small updates like “going for lunch” are announced there. This helps everyone to stay up to date and feel included. I’ll have to practice this habit to make sure I don’t forget.&lt;/p&gt;
-
-&lt;p&gt;As for work stuff, I got introductions to some of the core concepts of Swirrl’s work, like &lt;a href=&quot;https://www.w3.org/standards/semanticweb/data&quot;&gt;Linked Data&lt;/a&gt; and &lt;a href=&quot;https://en.wikipedia.org/wiki/Resource_Description_Framework&quot;&gt;RDF&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;They also have a pattern library that is built with &lt;a href=&quot;https://www.gatsbyjs.org/&quot;&gt;Gatbsy&lt;/a&gt; so I had a play around with that. &lt;a href=&quot;https://www.gatsbyjs.org/tutorial/part-zero/&quot;&gt;Gatsby’s tutorial&lt;/a&gt; is well written for someone like me who is not fully confident with using things like command line interfaces. I think the plan is to integrate it with &lt;a href=&quot;https://storybook.js.org/&quot;&gt;Storybook&lt;/a&gt; too, so will aim to play around with that at some point.&lt;/p&gt;
-
-&lt;p&gt;I think my role is set to include a mix of hands-on interaction design work, as well as working with clients to help them discover user needs and visualise user journeys. A familier problem I’m hearing is that the interfaces required to use data are often very complex and probably expect users to be more data and digitally literate than they really are. Looking forward to getting stuck in and sounds like my first project will be working with Defra (Department for Environment, Food &amp;amp; Rural Affairs) via the &lt;a href=&quot;https://twitter.com/EnvAgency&quot;&gt;Environment Agency&lt;/a&gt;&lt;/p&gt;
-
-        
-        </description>
-        <pubDate>Tue, 23 Apr 2019 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/blog/weeknotes-series-03-episode-01/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/weeknotes-series-03-episode-01/</guid>
         
         
         <category>weeknotes</category>
