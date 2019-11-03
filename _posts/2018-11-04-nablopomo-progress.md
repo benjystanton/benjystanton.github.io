@@ -2,6 +2,7 @@
 layout: post
 title: NaBloPoMo progress
 categories: nablopomo
+tag: NaBloPoMo2018
 excerpt: It’s not a dashboard. Definitely not a dashboard.
 ---
 
@@ -12,14 +13,14 @@ For day 4, I've created this page with key figures and a progress bar (don't cal
 ***
 
 <ul class="list-inline">
-<li class="margin-right--m list-inline__item"><span class="big-number">{{ site.categories.nablopomo | size }} of 30</span>
-<span>posts published</span></li>
-<li class="list-inline__item"><span class="big-number">{{ site.categories.nablopomo | size | divided_by: 30.0 | times: 100.0 | floor }}%</span>
-<span>complete</span></li>
+  <li class="margin-right--m list-inline__item"><span class="big-number">{{ site.tags.NaBloPoMo2018 | size }} of 30</span>
+    <span>posts published</span></li>
+  <li class="list-inline__item"><span class="big-number">{{ site.tags.NaBloPoMo2018 | size | divided_by: 30.0 | times: 100.0 | floor }}%</span>
+    <span>complete</span></li>
 </ul>
 
 <div class="progress-bar">
-  <span style="width: {{ site.categories.nablopomo | size | divided_by: 30.0 | times: 100.0 }}%"></span>
+  <span style="width: {{ site.tags.NaBloPoMo2018 | size | divided_by: 30.0 | times: 100.0 }}%"></span>
 </div>
 
 ***

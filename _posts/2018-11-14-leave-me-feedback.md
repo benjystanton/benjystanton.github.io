@@ -2,6 +2,7 @@
 layout: post
 title: Leave me feedback
 categories: nablopomo release-notes
+tag: NaBloPoMo2018
 ---
 
 <p class="lede">Inspired by <a href="http://www.ermlikeyeah.com/">Simon’s website</a>, I want to encourage people to leave me feedback.</p>

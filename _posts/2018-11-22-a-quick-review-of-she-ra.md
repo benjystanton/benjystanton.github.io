@@ -2,6 +2,7 @@
 layout: post
 title: A quick review of the Netflix She-Ra reboot
 categories: nablopomo
+tag: NaBloPoMo2018
 ---
 
 <p class="lede">Netflix’s new She-Ra is seriously cool. The female characters are strong and diverse in personality, body shape and skin tone. Some are good, some are evil. Some are funny, some are serious, some are nerdy.</p>
