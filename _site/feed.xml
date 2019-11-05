@@ -5,13 +5,13 @@
     <description>Interaction Designer. Family Man. Music Snob.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 05 Nov 2019 18:20:40 +0000</pubDate>
-    <lastBuildDate>Tue, 05 Nov 2019 18:20:40 +0000</lastBuildDate>
+    <pubDate>Tue, 05 Nov 2019 18:37:41 +0000</pubDate>
+    <lastBuildDate>Tue, 05 Nov 2019 18:37:41 +0000</lastBuildDate>
     <generator>Jekyll v3.8.4</generator>
     
       <item>
         <title>Going full Monzo</title>
-        <description>&lt;p&gt;I’ve recently switched my main current account to &lt;a href=&quot;https://monzo.com/&quot;&gt;Monzo&lt;/a&gt;.&lt;/p&gt;
+        <description>&lt;p class=&quot;lede&quot;&gt;I’ve recently switched my main current account to [Monzo](https://monzo.com/).&lt;/p&gt;
 
 &lt;h2 id=&quot;beta-user&quot;&gt;Beta user&lt;/h2&gt;
 
@@ -39,11 +39,11 @@
 
 &lt;p&gt;I love that I can put money aside for bills into pot, and clearly see available spending money that’s left for the month.&lt;/p&gt;
 
-&lt;p&gt;I also like that, at a glance, I can check whether I’m spending too quickly or too slowly.&lt;/p&gt;
+&lt;p&gt;I also like that, at a glance, I can check whether I’m spending too quickly or that I’ll have money left over.&lt;/p&gt;
 
 &lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
 
-&lt;p&gt;So far I’m really happy. I was slightly nervous when I heard the bad press about people’s accounts being frozen, but ultimately, the way Monzo responded to it put my mind at ease.&lt;/p&gt;
+&lt;p&gt;So far I’m really happy. I was slightly nervous when I heard the bad press about peoples’ accounts being frozen, but ultimately, the way Monzo responded to it put my mind at ease.&lt;/p&gt;
 
 &lt;p&gt;It would be nice if all companies I dealt with had the same great service design as companies like Monzo and Bulb.&lt;/p&gt;
 </description>

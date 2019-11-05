@@ -5,7 +5,7 @@ categories: nablopomo
 tag: NaBloPoMo2019
 ---
 
-I’ve recently switched my main current account to [Monzo](https://monzo.com/). 
+<p class="lede">I’ve recently switched my main current account to [Monzo](https://monzo.com/).</p>
 
 ## Beta user
 
@@ -33,10 +33,10 @@ I’m trying to be more sensible with my spending and I think Monzo helps me do 
 
 I love that I can put money aside for bills into pot, and clearly see available spending money that’s left for the month. 
 
-I also like that, at a glance, I can check whether I’m spending too quickly or too slowly.
+I also like that, at a glance, I can check whether I’m spending too quickly or that I'll have money left over.
 
 ## Conclusion
 
-So far I’m really happy. I was slightly nervous when I heard the bad press about people’s accounts being frozen, but ultimately, the way Monzo responded to it put my mind at ease.
+So far I’m really happy. I was slightly nervous when I heard the bad press about peoples’ accounts being frozen, but ultimately, the way Monzo responded to it put my mind at ease.
 
 It would be nice if all companies I dealt with had the same great service design as companies like Monzo and Bulb.
