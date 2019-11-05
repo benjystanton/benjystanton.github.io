@@ -2,6 +2,7 @@
 layout: post
 title: Sid’s words
 categories: nablopomo personal
+tag: NaBloPoMo2018
 excerpt: A list of our 2 year old's unique words.
 image: "sid-mirror-techniquest.jpg"
 image-alt: "A toddler looks at his distorted reflection in a round mirror."

@@ -1,0 +1,13 @@
+---
+
+- name: El Salvador San Pablo
+  url: https://cliftoncoffee.co.uk/shop/coffee/el-salvador-pablo/
+  tasting-notes:
+    - Raisin
+    - Pecan
+    - Redcurrant
+  process: Washed
+  type: Single origin
+  roaster: Clifton Coffee Roaster
+  roaster-location: Bristol
+  roaster-url: https://cliftoncoffee.co.uk/

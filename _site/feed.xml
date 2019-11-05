@@ -5,9 +5,86 @@
     <description>Interaction Designer. Family Man. Music Snob.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 03 Nov 2019 10:06:03 +0000</pubDate>
-    <lastBuildDate>Sun, 03 Nov 2019 10:06:03 +0000</lastBuildDate>
+    <pubDate>Tue, 05 Nov 2019 06:05:21 +0000</pubDate>
+    <lastBuildDate>Tue, 05 Nov 2019 06:05:21 +0000</lastBuildDate>
     <generator>Jekyll v3.8.4</generator>
+    
+      <item>
+        <title>Work trips 2019</title>
+        <description>
+&lt;div class=&quot;flex-grid&quot;&gt;
+  &lt;div class=&quot;flex-grid__col flex-grid__col--third margin-bottom--s&quot;&gt;
+    &lt;span class=&quot;big-number&quot;&gt;
+18
+&lt;/span&gt;
+&lt;span&gt; Individual trips&lt;/span&gt;
+
+  &lt;/div&gt;
+  &lt;div class=&quot;flex-grid__col flex-grid__col--third margin-bottom--s&quot;&gt;
+    &lt;span class=&quot;big-number&quot;&gt;
+11
+&lt;/span&gt;
+&lt;span&gt; Unique places&lt;/span&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h2 class=&quot;margin-top--s&quot;&gt;Places&lt;/h2&gt;
+
+&lt;ul&gt;
+  
+  &lt;li&gt;Abergavenny&lt;/li&gt;
+  
+  &lt;li&gt;Bristol&lt;/li&gt;
+  
+  &lt;li&gt;Cardiff&lt;/li&gt;
+  
+  &lt;li&gt;Coventry&lt;/li&gt;
+  
+  &lt;li&gt;Edinburgh&lt;/li&gt;
+  
+  &lt;li&gt;London&lt;/li&gt;
+  
+  &lt;li&gt;Manchester&lt;/li&gt;
+  
+  &lt;li&gt;Newport&lt;/li&gt;
+  
+  &lt;li&gt;Reading&lt;/li&gt;
+  
+  &lt;li&gt;Swindon&lt;/li&gt;
+  
+  &lt;li&gt;Titchfield&lt;/li&gt;
+  
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;reasons-for-trips&quot;&gt;Reasons for trips&lt;/h2&gt;
+
+&lt;ul&gt;
+  
+  &lt;li&gt;Meeting&lt;/li&gt;
+  
+  &lt;li&gt;Remote work&lt;/li&gt;
+  
+  &lt;li&gt;Training or conference&lt;/li&gt;
+  
+  &lt;li&gt;User research&lt;/li&gt;
+  
+  &lt;li&gt;Work&lt;/li&gt;
+  
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://raw.githubusercontent.com/benjystanton/benjystanton.github.io/master/_data/work-trips-2019.yml&quot;&gt;View data – YML &lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 04 Nov 2019 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/work-trips-2019/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/work-trips-2019/</guid>
+        
+        <category>NaBloPoMo2019</category>
+        
+        
+        <category>nablopomo</category>
+        
+      </item>
     
       <item>
         <title>Finally went to Ty Cwrw in Mumbles last night, tried a lovely Tenby Brewing x Tiny Rebel ale</title>
@@ -17,17 +94,56 @@
     &lt;h1 class=&quot;heading-large margin-bottom--0&quot;&gt;Finally went to Ty Cwrw in Mumbles last night, tried a lovely Tenby Brewing x Tiny Rebel ale&lt;/h1&gt;
   &lt;/figcaption&gt;
 &lt;/figure&gt;
-
-        
-        <figure><img src="http://localhost:4000/assets/finally-went-to-ty-cwrw-in-mumbles-last-night,-tried-a-lovely-tenby-brewing-x-tiny-rebel-ale.jpeg" alt="Postcard with an illustration of the front of the pub" /></figure>
-        
-        </description>
+</description>
         <pubDate>Sun, 03 Nov 2019 00:00:00 +0000</pubDate>
         <link>http://localhost:4000/blog/finally-went-to-ty-cwrw-in-mumbles-last-night,-tried-a-lovely-tenby-brewing-x-tiny-rebel-ale/</link>
         <guid isPermaLink="true">http://localhost:4000/blog/finally-went-to-ty-cwrw-in-mumbles-last-night,-tried-a-lovely-tenby-brewing-x-tiny-rebel-ale/</guid>
         
+        <category>NaBloPoMo2019</category>
+        
         
         <category>images</category>
+        
+        <category>nablopomo</category>
+        
+      </item>
+    
+      <item>
+        <title>Coffee beans</title>
+        <description>
+&lt;p class=&quot;lede&quot;&gt;A list of specialty coffees that I’ve tried at home, so I can remember which ones I like. Thanks to the excellent &lt;a href=&quot;https://www.squarepeg.org.uk/&quot;&gt;Square Peg&lt;/a&gt; for being my supplier of choice.&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;big-number&quot;&gt;
+1
+&lt;/span&gt;
+&lt;span&gt; Coffees tried&lt;/span&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2&gt;&lt;a href=&quot;https://cliftoncoffee.co.uk/shop/coffee/el-salvador-pablo/&quot;&gt;El Salvador San Pablo&lt;/a&gt;&lt;/h2&gt;
+&lt;dl&gt;
+  &lt;dt&gt;Process&lt;/dt&gt;
+  &lt;dd&gt;Washed&lt;/dd&gt;
+  &lt;dt&gt;Tasting notes&lt;/dt&gt;
+  &lt;dd&gt;Raisin, Pecan, Redcurrant&lt;/dd&gt;
+  &lt;dt&gt;Type&lt;/dt&gt;
+  &lt;dd&gt;Single origin&lt;/dd&gt;
+  &lt;dt&gt;Roaster&lt;/dt&gt;
+  &lt;dd&gt;&lt;a href=&quot;https://cliftoncoffee.co.uk/&quot;&gt;Clifton Coffee Roaster&lt;/a&gt;, Bristol&lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/benjystanton/benjystanton.github.io/blob/master/_data/coffee-beans.yml&quot;&gt;View data – YML &lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 02 Nov 2019 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/coffee-beans/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/coffee-beans/</guid>
+        
+        <category>NaBloPoMo2019</category>
+        
+        
+        <category>nablopomo</category>
         
       </item>
     
@@ -39,11 +155,7 @@
     &lt;h1 class=&quot;heading-large margin-bottom--0&quot;&gt;Tiny Rebel beer mat&lt;/h1&gt;
   &lt;/figcaption&gt;
 &lt;/figure&gt;
-
-        
-        <figure><img src="http://localhost:4000/assets/tiny-rebel-beer-mat.jpeg" alt="Round beer mat pegged on display" /></figure>
-        
-        </description>
+</description>
         <pubDate>Sat, 26 Oct 2019 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/blog/tiny-rebel-beer-mat/</link>
         <guid isPermaLink="true">http://localhost:4000/blog/tiny-rebel-beer-mat/</guid>
@@ -55,7 +167,9 @@
     
       <item>
         <title>Design workshops</title>
-        <description>&lt;p class=&quot;lede&quot;&gt;I’m a big fan of structured/facilitated design workshops. They can be incredibly useful for user research sessions, co-designing services with teams, and stakeholder meetings.&lt;/p&gt;
+        <description>&lt;p class=&quot;text-small&quot;&gt;Updated on 1 November 2019&lt;/p&gt;
+
+&lt;p class=&quot;lede&quot;&gt;I’m a big fan of structured/facilitated design workshops. They can be incredibly useful for user research sessions, co-designing services with teams, and stakeholder meetings.&lt;/p&gt;
 
 &lt;p&gt;And yes, the language and style of these things can stray a bit into “design thinking B.S.” at times. (Young me would cringe at how often I use the word stakeholder these days).&lt;/p&gt;
 
@@ -71,6 +185,8 @@
   &lt;li&gt;&lt;a href=&quot;https://designsprintkit.withgoogle.com/methodology/overview&quot;&gt;Google design sprint methodology&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/alphagov/govdesign/blob/master/Cards_User_Research_Activities.pdf&quot;&gt;GDS user research activity cards&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://www.designkit.org/methods/&quot;&gt;Design Kit methods&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gamestorming.com/&quot;&gt;Gamestorming&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.liberatingstructures.com/&quot;&gt;Liberating Structures&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;individual-design-workshops&quot;&gt;Individual design workshops&lt;/h2&gt;
@@ -90,15 +206,17 @@
   &lt;li&gt;&lt;a href=&quot;http://www.designkit.org/methods/35&quot;&gt;Storyboard&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://methods.18f.gov/decide/personas/&quot;&gt;Personas&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
-        
-        </description>
+</description>
         <pubDate>Sat, 06 Jul 2019 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/blog/design-workshops/</link>
         <guid isPermaLink="true">http://localhost:4000/blog/design-workshops/</guid>
         
+        <category>NaBloPoMo2019</category>
+        
         
         <category>design</category>
+        
+        <category>nablopomo</category>
         
       </item>
     
@@ -132,9 +250,7 @@
 &lt;/ul&gt;
 
 &lt;p class=&quot;small&quot;&gt;Contains public sector information licensed under the &lt;a href=&quot;https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/&quot;&gt;Open Government Licence v3.0&lt;/a&gt;.&lt;/p&gt;
-
-        
-        </description>
+</description>
         <pubDate>Fri, 28 Jun 2019 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/blog/writing-user-stories/</link>
         <guid isPermaLink="true">http://localhost:4000/blog/writing-user-stories/</guid>
@@ -146,17 +262,18 @@
     
       <item>
         <title>Co-working spaces in Cardiff centre</title>
-        <description>&lt;ul&gt;
+        <description>&lt;p class=&quot;text-small&quot;&gt;Updated on 1 November 2019&lt;/p&gt;
+
+&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.tramshedtech.co.uk/cowork/&quot;&gt;Tramshed&lt;/a&gt; – £15 for a day pass, first time is free&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.tripadvisor.co.uk/Restaurant_Review-g186460-d13395160-Reviews-The_Little_Man_Garage-Cardiff_South_Wales_Wales.html&quot;&gt;Little Man Garage&lt;/a&gt; – Unlimited coffees/teas for £7, closes at 3pm, proper coffee, not strictly co-working though&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.indycube.community/places&quot;&gt;Indycube&lt;/a&gt; – Multiple locations in Cardiff, £10 per month for 1 day per month&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://labs.uk.barclays/locations/cardiff-en&quot;&gt;Cardiff Eagle Lab&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Cardiff Central Library&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Disclaimer, I’ve not tried any of these (yet). But, thanks to people for responding to &lt;a href=&quot;https://twitter.com/benjystanton/status/1140913131969011713&quot;&gt;my tweet asking for tips&lt;/a&gt;.&lt;/p&gt;
-
-        
-        </description>
+&lt;p&gt;Disclaimer, I’ve not tried all of these (yet). But, thanks to people for responding to &lt;a href=&quot;https://twitter.com/benjystanton/status/1140913131969011713&quot;&gt;my tweet asking for tips&lt;/a&gt;.&lt;/p&gt;
+</description>
         <pubDate>Wed, 19 Jun 2019 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/blog/co-working-spaces-in-cardiff-centre/</link>
         <guid isPermaLink="true">http://localhost:4000/blog/co-working-spaces-in-cardiff-centre/</guid>
@@ -191,9 +308,7 @@
 
 &lt;h3 id=&quot;sometimes-its-hard-to-focus&quot;&gt;Sometimes, it’s hard to focus&lt;/h3&gt;
 &lt;p&gt;In contrast to my earlier point. Sometimes it’s hard to focus when nobody is around. For example, if I have to read something long and boring, I’ve found that visiting a cafe helps me to concentrate.&lt;/p&gt;
-
-        
-        </description>
+</description>
         <pubDate>Mon, 17 Jun 2019 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/blog/remote-working-pros-and-cons/</link>
         <guid isPermaLink="true">http://localhost:4000/blog/remote-working-pros-and-cons/</guid>
@@ -282,9 +397,7 @@
   &lt;li&gt;&lt;a href=&quot;https://www.bbc.co.uk/events/e4vgfx/live/cb54wh&quot;&gt;Access All Areas 2019 (BBC Accessibility Awareness Day)&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://uxdesign.cc/how-white-space-killed-an-enterprise-app-and-why-data-density-matters-b3afad6a5f2a&quot;&gt;How white space killed an enterprise app (and why data density matters)&lt;/a&gt; by &lt;a href=&quot;https://twitter.com/CLenneville&quot;&gt;Christie Lenneville&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
-        
-        </description>
+</description>
         <pubDate>Mon, 20 May 2019 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/blog/weeknotes-series-03-episode-05/</link>
         <guid isPermaLink="true">http://localhost:4000/blog/weeknotes-series-03-episode-05/</guid>
@@ -372,109 +485,10 @@
   &lt;li&gt;&lt;a href=&quot;https://pds.blog.parliament.uk/2019/01/11/understanding-services-through-user-needs%E2%80%AF/&quot;&gt;Understanding services through user needs &lt;/a&gt; by &lt;a href=&quot;https://twitter.com/clementgraphics&quot;&gt;Jeanette Clement&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-
-        
-        </description>
+</description>
         <pubDate>Wed, 15 May 2019 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/blog/weeknotes-series-03-episode-04/</link>
         <guid isPermaLink="true">http://localhost:4000/blog/weeknotes-series-03-episode-04/</guid>
-        
-        
-        <category>weeknotes</category>
-        
-      </item>
-    
-      <item>
-        <title>Weeknotes – series 03 episode 03</title>
-        <description>&lt;h2 id=&quot;mapping-data-ecosystems&quot;&gt;Mapping data ecosystems&lt;/h2&gt;
-
-&lt;p&gt;This week, I’ve been working with Sarah on some of the data ecosystems diagrams she’s been doing. These are similar to user journey maps or service blueprints. Swirrl use them in blog posts and share them with stakeholders.&lt;/p&gt;
-
-&lt;p&gt;They’ve been helpful for me too – they show what data is collected and where it goes. It’s a reminder that in order to design a good data service, we need to consider lots of different data providers, publishing channels and end-users.&lt;/p&gt;
-
-&lt;p&gt;I’ve been using &lt;a href=&quot;https://moqups.com/&quot;&gt;Moqups&lt;/a&gt; to draw the diagrams. So far I really like it, it’s intuitive to use like Sketch, but it’s been designed specifically for diagrams and wireframes so it has lots of built in icons and interface elements that you can drag and drop.&lt;/p&gt;
-
-&lt;h2 id=&quot;data-user-personas&quot;&gt;Data user personas&lt;/h2&gt;
-
-&lt;p&gt;I was also looking over some project notes and found some personas that had been drawn up. Using these, together with the data ecosystems work, has been really useful in helping me develop my thoughts about how open data fits into users’ worlds.&lt;/p&gt;
-
-&lt;p&gt;Alongside project work, I’ve been taking a step back to look at the &lt;a href=&quot;https://twitter.com/benjystanton/status/1123258869290082306&quot;&gt;similarities in user needs&lt;/a&gt; that are visible across different data things I’ve worked on.&lt;/p&gt;
-
-&lt;h2 id=&quot;teams-and-people-talking-about-data-in-a-user-centred-way&quot;&gt;Teams and people talking about data in a user-centred way&lt;/h2&gt;
-
-&lt;p&gt;Continuing on from last week, I’m still &lt;a href=&quot;https://www.benjystanton.co.uk/blog/weeknotes-series-03-episode-02/#looking-for-data-designers&quot;&gt;on the hunt&lt;/a&gt; to discover (and remember) all the people and teams I can find that are working on systems that publish (or enable access to) data.&lt;/p&gt;
-
-&lt;p&gt;I’ve found some good things so far…&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://dataingovernment.blog.gov.uk/2019/05/02/a-discovery-into-data-publishing-formats/&quot;&gt;A discovery into data publishing formats&lt;/a&gt; – a blog post from the &lt;a href=&quot;https://www.gov.uk/government/organisations/race-disparity-unit&quot;&gt;Race Disparity Unit at GDS&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.nesta.org.uk/blog/you-can-lead-person-data-you-cant-make-them-use-it/&quot;&gt;You can lead a person to data, but you can’t make them use it&lt;/a&gt; – a blog post by &lt;a href=&quot;https://twitter.com/theasnow&quot;&gt;Thea Snow&lt;/a&gt; that I spotted after &lt;a href=&quot;https://twitter.com/kitterati&quot;&gt;Kit Collingwood&lt;/a&gt; retweeted it&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://community.digital.gov.au/t/open-data-discovery-outcomes/1459&quot;&gt;Open data discovery outcomes&lt;/a&gt; – detailed research outcomes from the Digital Transformation Agency (DTA) in Australia&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;… of course &lt;a href=&quot;https://digitalblog.ons.gov.uk/&quot;&gt;ONS digital publishing&lt;/a&gt; are always doing good things in the space too.&lt;/p&gt;
-
-&lt;h2 id=&quot;more-like-service-design&quot;&gt;More like service design&lt;/h2&gt;
-
-&lt;p&gt;So far my new role feels closer to service design than I was expecting. This is definitely a good thing. I’m early on in a few projects, so not much call for hands on interaction design yet. Even so, I’m trying to resist my usual urge to jump straight in to designing the details.&lt;/p&gt;
-
-&lt;p&gt;This feels like a good opportunity to keep looking at the big picture for a while.&lt;/p&gt;
-
-        
-        </description>
-        <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/blog/weeknotes-series-03-episode-03/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/weeknotes-series-03-episode-03/</guid>
-        
-        
-        <category>weeknotes</category>
-        
-      </item>
-    
-      <item>
-        <title>Weeknotes – series 03 episode 02</title>
-        <description>&lt;p class=&quot;lede&quot;&gt;Week 2 at Swirrl started on Tuesday after the Easter bank holiday weekend and the amazing UK weather.&lt;/p&gt;
-
-&lt;h2 id=&quot;looking-for-data-designers&quot;&gt;Looking for data designers&lt;/h2&gt;
-
-&lt;p&gt;I’m looking for people who are using user-centred design and research techniques to build open data publishing services and tools, so if that sounds likes you, please get in touch!&lt;/p&gt;
-
-&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Who’s out there using user-centred design techniques to help people publish and use open data? Let’s be friends?&lt;/p&gt;&amp;mdash; Benjy Stanton (@benjystanton) &lt;a href=&quot;https://twitter.com/benjystanton/status/1120656756496117760?ref_src=twsrc%5Etfw&quot;&gt;April 23, 2019&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
-
-&lt;h2 id=&quot;meeting-more-of-the-team&quot;&gt;Meeting more of the team&lt;/h2&gt;
-
-&lt;p&gt;I made it to the office in Manchester by 11am after a 6am start in Swansea. I’d arranged a few meetings with the some more of the team, including data consultant &lt;a href=&quot;https://medium.swirrl.com/@julijahansen&quot;&gt;Julija&lt;/a&gt; and fellow designer Guy.&lt;/p&gt;
-
-&lt;p&gt;I spent a long time in particular chatting with Guy. It sounds like we have a lot in common – we both like striving for simple, progressively enhanced, accessible designs.&lt;/p&gt;
-
-&lt;p&gt;Guy’s skills sound more technical than mine, closer to that of front-end developer. He’s busy improving the &lt;a href=&quot;http://www.swirrl.com/&quot;&gt;Publish My Data&lt;/a&gt; pattern library. He’s been busy adding &lt;a href=&quot;https://storybook.js.org/docs/testing/automated-visual-testing/&quot;&gt;automated visual testing with storybook&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;I also met Sarah. Sarah is responsible for communications, organising events, customer training, and blogging at Swirrl. I’m hoping I can work closely with Sarah to help out with events and blogging – and learning what she know about our users.&lt;/p&gt;
-
-&lt;p&gt;I’ve been catching up with lots of her blog posts, including this one about &lt;a href=&quot;https://gss.civilservice.gov.uk/blog/mapping-data-ecosystems-gss-alpha-project/&quot;&gt;mapping data ecosystems&lt;/a&gt;, which introduced me to this &lt;a href=&quot;https://theodi.org/article/mapping-data-ecosystems/&quot;&gt;mapping data ecosystems tool&lt;/a&gt; by the ODI (Open Data Institute).&lt;/p&gt;
-
-&lt;h2 id=&quot;more-wandering-around-manchester&quot;&gt;More wandering around Manchester&lt;/h2&gt;
-
-&lt;p&gt;I managed to visit the &lt;a href=&quot;https://magma-shop.com/&quot;&gt;Magma book shop&lt;/a&gt; one evening. I used to visit the one near Covent Garden a lot when I was in Uni in Ealing. It sells very nice design books, magazines and posters. If you ever want to buy me a present, I would like everything they sell.&lt;/p&gt;
-
-&lt;h2 id=&quot;trip-to-london&quot;&gt;Trip to London&lt;/h2&gt;
-
-&lt;p&gt;On Thursday I was in London to meet some data people at Department for International Trade with Jamie. We tried not to get too excited about the amazing views over Westminster. I also bumped into a couple of friends from ONS (Office for National Statistics).&lt;/p&gt;
-
-&lt;h2 id=&quot;working-from-home&quot;&gt;Working from home&lt;/h2&gt;
-
-&lt;p&gt;Friday was my first day working from home. The plan is, once things have settled down, I’ll be doing most of my work remotely from home in Swansea. I’d spent a few days before I started at Swirrl setting up the home office.&lt;/p&gt;
-
-&lt;blockquote class=&quot;instagram-media&quot; data-instgrm-captioned=&quot;&quot; data-instgrm-permalink=&quot;https://www.instagram.com/p/Bww4uX5FX5x/&quot; data-instgrm-version=&quot;12&quot; style=&quot; background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);&quot;&gt;&lt;div style=&quot;padding:16px;&quot;&gt; &lt;a href=&quot;https://www.instagram.com/p/Bww4uX5FX5x/&quot; style=&quot; background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;&quot; target=&quot;_blank&quot;&gt; &lt;div style=&quot; display: flex; flex-direction: row; align-items: center;&quot;&gt; &lt;div style=&quot;background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;&quot;&gt;&lt;/div&gt; &lt;div style=&quot;display: flex; flex-direction: column; flex-grow: 1; justify-content: center;&quot;&gt; &lt;div style=&quot; background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;&quot;&gt;&lt;/div&gt; &lt;div style=&quot; background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;padding: 19% 0;&quot;&gt;&lt;/div&gt; &lt;div style=&quot;display:block; height:50px; margin:0 auto 12px; width:50px;&quot;&gt;&lt;svg width=&quot;50px&quot; height=&quot;50px&quot; viewBox=&quot;0 0 60 60&quot; version=&quot;1.1&quot; xmlns=&quot;https://www.w3.org/2000/svg&quot; xmlns:xlink=&quot;https://www.w3.org/1999/xlink&quot;&gt;&lt;g stroke=&quot;none&quot; stroke-width=&quot;1&quot; fill=&quot;none&quot; fill-rule=&quot;evenodd&quot;&gt;&lt;g transform=&quot;translate(-511.000000, -20.000000)&quot; fill=&quot;#000000&quot;&gt;&lt;g&gt;&lt;path d=&quot;M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631&quot;&gt;&lt;/path&gt;&lt;/g&gt;&lt;/g&gt;&lt;/g&gt;&lt;/svg&gt;&lt;/div&gt;&lt;div style=&quot;padding-top: 8px;&quot;&gt; &lt;div style=&quot; color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;&quot;&gt; View this post on Instagram&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;padding: 12.5% 0;&quot;&gt;&lt;/div&gt; &lt;div style=&quot;display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;&quot;&gt;&lt;div&gt; &lt;div style=&quot;background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);&quot;&gt;&lt;/div&gt; &lt;div style=&quot;background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;&quot;&gt;&lt;/div&gt; &lt;div style=&quot;background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;margin-left: 8px;&quot;&gt; &lt;div style=&quot; background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;&quot;&gt;&lt;/div&gt; &lt;div style=&quot; width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;margin-left: auto;&quot;&gt; &lt;div style=&quot; width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);&quot;&gt;&lt;/div&gt; &lt;div style=&quot; background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);&quot;&gt;&lt;/div&gt; &lt;div style=&quot; width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/a&gt; &lt;p style=&quot; margin:8px 0 0 0; padding:0 4px;&quot;&gt; &lt;a href=&quot;https://www.instagram.com/p/Bww4uX5FX5x/&quot; style=&quot; color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;&quot; target=&quot;_blank&quot;&gt;Home office is coming along nicely&lt;/a&gt;&lt;/p&gt; &lt;p style=&quot; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;&quot;&gt;A post shared by &lt;a href=&quot;https://www.instagram.com/benjystanton/&quot; style=&quot; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px;&quot; target=&quot;_blank&quot;&gt; Benjy Stanton&lt;/a&gt; (@benjystanton) on &lt;time style=&quot; font-family:Arial,sans-serif; font-size:14px; line-height:17px;&quot; datetime=&quot;2019-04-27T15:22:23+00:00&quot;&gt;Apr 27, 2019 at 8:22am PDT&lt;/time&gt;&lt;/p&gt;&lt;/div&gt;&lt;/blockquote&gt;
-&lt;script async=&quot;&quot; src=&quot;//www.instagram.com/embed.js&quot;&gt;&lt;/script&gt;
-
-
-        
-        </description>
-        <pubDate>Mon, 29 Apr 2019 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/blog/weeknotes-series-03-episode-02/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/weeknotes-series-03-episode-02/</guid>
         
         
         <category>weeknotes</category>

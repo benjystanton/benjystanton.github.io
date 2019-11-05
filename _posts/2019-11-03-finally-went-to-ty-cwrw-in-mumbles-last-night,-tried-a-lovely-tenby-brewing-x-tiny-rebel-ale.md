@@ -1,6 +1,7 @@
 ---
 layout: image
-categories: images
+categories: images nablopomo
+tag: NaBloPoMo2019
 nav: false
 image: "finally-went-to-ty-cwrw-in-mumbles-last-night,-tried-a-lovely-tenby-brewing-x-tiny-rebel-ale.jpeg"
 image-alt: "Postcard with an illustration of the front of the pub"

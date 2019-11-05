@@ -2,6 +2,7 @@
 layout: post
 title: NaBloPoMo round-up
 categories: nablopomo release-notes
+tag: NaBloPoMo2018
 ---
 
 <p class="lede">I did it! <a href="{{ site.baseurl }}/blog/category/nablopomo/">30 posts in 30 days</a>!</p>

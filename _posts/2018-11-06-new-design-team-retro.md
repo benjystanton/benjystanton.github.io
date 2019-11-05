@@ -2,6 +2,7 @@
 layout: post
 title: New design team retro
 categories: nablopomo
+tag: NaBloPoMo2018
 ---
 
 <p class="lede">Here's a snippet from an article I wrote for the ONS (Office for National Statistics) digital blog:</p>

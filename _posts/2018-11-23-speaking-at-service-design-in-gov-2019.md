@@ -2,6 +2,7 @@
 layout: post
 title: Speaking at Service Design in Gov 2019
 categories: nablopomo
+tag: NaBloPoMo2018
 ---
 
 <p class="lede">Looks like me and <a href="https://twitter.com/@kieran_forde">Kieran</a> will be speaking at <a href="https://govservicedesign.net/2019/">Service Design in Government 2019</a>.</p>
