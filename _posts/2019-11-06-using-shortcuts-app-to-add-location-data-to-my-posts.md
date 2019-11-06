@@ -35,7 +35,7 @@ So I started playing with Shortcuts and came up with this workflow…
 </blockquote>
 
 <figure class="width-50" aria-describedby="workflow">
-  <img src="http://localhost:4000/assets/copy-location-shortcuts.png" alt="">
+  <img src="{{ site.url }}/assets/copy-location-shortcuts.png" alt="">
   <figcaption class="text-small">
     Screenshot of Shortcuts app
   </figcaption>
