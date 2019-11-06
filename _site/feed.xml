@@ -5,9 +5,76 @@
     <description>Interaction Designer. Family Man. Music Snob.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 06 Nov 2019 17:49:16 +0000</pubDate>
-    <lastBuildDate>Wed, 06 Nov 2019 17:49:16 +0000</lastBuildDate>
+    <pubDate>Wed, 06 Nov 2019 20:35:13 +0000</pubDate>
+    <lastBuildDate>Wed, 06 Nov 2019 20:35:13 +0000</lastBuildDate>
     <generator>Jekyll v3.8.4</generator>
+    
+      <item>
+        <title>Using Shortcuts app to add location data to my posts</title>
+        <description>&lt;p class=&quot;lede&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;I’ve been playing around with the &lt;a href=&quot;https://apps.apple.com/us/app/shortcuts/id915249334&quot;&gt;Shortcuts app&lt;/a&gt; since they added it to iOS. It allows you to string together actions to create automatic workflows.&lt;/p&gt;
+
+&lt;p&gt;I think it has a lot of potential for adding some &lt;a href=&quot;https://indieweb.org/&quot;&gt;IndieWeb&lt;/a&gt; features to my blog, which previously felt out of reach without using services like Instagram or Swarm (Boo!).&lt;/p&gt;
+
+&lt;h2 id=&quot;borrowing-an-idea-from-jeremy-keith&quot;&gt;Borrowing an idea from Jeremy Keith&lt;/h2&gt;
+
+&lt;p&gt;I spotted a while ago that Jeremy has &lt;a href=&quot;https://adactio.com/notes/16026&quot;&gt;location checkins&lt;/a&gt; attached to his image posts. I really had no idea how I might achieve this until I spotted that the Shortcuts app allows you to grab your phone’s location and do stuff with it.&lt;/p&gt;
+
+&lt;p&gt;I also realised that Jeremy passes the latitude, longitude and zoom level into an &lt;a href=&quot;https://www.openstreetmap.org/&quot;&gt;Open Street Map&lt;/a&gt; url that allows users to click through and see a map of the checkin location.&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;https://www.openstreetmap.org/#map=15/51.2211/4.3997
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;create-a-copy-my-location-workflow&quot;&gt;Create a “copy my location” workflow&lt;/h2&gt;
+
+&lt;p&gt;So I started playing with Shortcuts and came up with this workflow…&lt;/p&gt;
+
+&lt;blockquote id=&quot;workflow&quot;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;Get location (of my phone)&lt;/li&gt;
+    &lt;li&gt;Extract the latitude, longitude and city as 3 separate variables&lt;/li&gt;
+    &lt;li&gt;Insert those variables into a text template (which happens to be a short snippet of html)&lt;/li&gt;
+    &lt;li&gt;Then copy that to my phone’s clipboard&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;figure class=&quot;width-50&quot; aria-describedby=&quot;workflow&quot;&gt;
+  &lt;img src=&quot;http://localhost:4000/assets/copy-location-shortcuts.png&quot; alt=&quot;&quot; /&gt;
+  &lt;figcaption class=&quot;text-small&quot;&gt;
+    Screenshot of Shortcuts app
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Once workflows are created, you can even add them from the iOS’s “Today View”, so that they’re within easy reach. Having the text snippet in my clipboard means that I can paste into into a text editor when I’m writing posts either on my phone or my laptop.&lt;/p&gt;
+
+&lt;h3 id=&quot;example&quot;&gt;Example&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.openstreetmap.org/#map=9/51.47608788174919/-3.179009460568023&quot;&gt;Posted from Cardiff, United Kingdom&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;html&quot;&gt;HTML&lt;/h3&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;a href=&quot;https://www.openstreetmap.org/#map=9/51.47608788174919/-3.179009460568023&quot;&amp;gt;
+Posted from Cardiff, United Kingdom
+&amp;lt;/a&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;next-steps&quot;&gt;Next steps&lt;/h2&gt;
+
+&lt;p&gt;There is lots of potential for tweaking this workflow, and reusing the data to create embeddable maps, or categorising posts by location for example.&lt;/p&gt;
+
+&lt;p&gt;I’m also working on a more complex workflow that allows me to post photos (with location metadata) directly from my phone to my blog, using my &lt;a href=&quot;http://localhost:4000/blog/creating-the-image-post-layout/&quot;&gt;image post template&lt;/a&gt;. Although that one has more moving parts, so I need to iron out a few things before sharing it.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 06 Nov 2019 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/using-shortcuts-app-to-add-location-data-to-my-posts/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/using-shortcuts-app-to-add-location-data-to-my-posts/</guid>
+        
+        <category>NaBloPoMo2019</category>
+        
+        
+        <category>nablopomo</category>
+        
+      </item>
     
       <item>
         <title>Going full Monzo</title>
@@ -364,95 +431,6 @@
         
         
         <category>remote-working</category>
-        
-      </item>
-    
-      <item>
-        <title>Weeknotes – series 03 episode 05</title>
-        <description>&lt;h2 id=&quot;wellcome-data-labs&quot;&gt;Wellcome data labs&lt;/h2&gt;
-
-&lt;p&gt;I was excited to learn about &lt;a href=&quot;https://medium.com/wellcome-data-labs&quot;&gt;Wellcome Data Labs&lt;/a&gt;, a part of the Wellcome Trust that’s combining data science and user research. I don’t know of many other teams that are embedding user research and UX (User Experience) practices this closely with data scientists and, even better, they are blogging openly about it.&lt;/p&gt;
-
-&lt;p&gt;Although the title nearly put me off (&lt;a href=&quot;https://medium.com/wellcome-data-labs/tableau-best-practises-put-to-the-test-f62f5380ba0b&quot;&gt;Tableau Best Practises Put to the Test&lt;/a&gt;), this is a really good blog post that looks at how the team did usability testing and challenged some bits of received wisdom around how best to design data interfaces.&lt;/p&gt;
-
-&lt;h2 id=&quot;laura-kösten&quot;&gt;Laura Kösten&lt;/h2&gt;
-
-&lt;p&gt;I had a chat with &lt;a href=&quot;https://laurakoesten.github.io/&quot;&gt;Laura Kösten&lt;/a&gt;, a PhD candidate at the ODI (Open Data Institute) and a senior research assistant at the School of Electronics and Computer Science at the University of Southampton.&lt;/p&gt;
-
-&lt;p&gt;She showed me some of the stuff she’s working on, including this &lt;a href=&quot;https://data-stories.github.io/data-summary/&quot;&gt;data summary tool&lt;/a&gt; which helps publishers to describe datasets, with the most useful information that users need.&lt;/p&gt;
-
-&lt;h2 id=&quot;if&quot;&gt;IF&lt;/h2&gt;
-
-&lt;p&gt;IF, according to their website are a “technology studio, specialising in ethical and practical uses of data”. They have a really nice &lt;a href=&quot;https://catalogue.projectsbyif.com/&quot;&gt;pattern library of data sharing components&lt;/a&gt;, which is just beautiful as well as really useful. They seem to work mainly in the space of ethical data collection and privacy, but I still think there’s some overlap with the publishing and maintenance of datasets.&lt;/p&gt;
-
-&lt;p&gt;They also have some &lt;a href=&quot;https://www.projectsbyif.com/blog/data-ethics-toolkits-9-practices-for-organisations-operating-digital-services/&quot;&gt;data ethics principles&lt;/a&gt; which are available to &lt;a href=&quot;https://s3-eu-west-1.amazonaws.com/projectsbyif.com/data-ethics-practices/9+practices+for+organisations+operating+digital+services.pdf&quot;&gt;download in poster format&lt;/a&gt; too.&lt;/p&gt;
-
-&lt;p&gt;My favourite is “understand the flow of data”. This is really hard and so important I think.&lt;/p&gt;
-
-&lt;h2 id=&quot;writing-requirements-as-user-stories&quot;&gt;Writing requirements as user stories&lt;/h2&gt;
-
-&lt;p&gt;We had a meeting with one of the teams at Defra (Department for Environment, Food and Rural Affairs). I suggested that a good way for them to share their requirements with us would be in the form of user stories.&lt;/p&gt;
-
-&lt;p&gt;I pulled together a few notes (leaning heavily on the excellent advice in the &lt;a href=&quot;https://www.gov.uk/service-manual&quot;&gt;GOV.UK Service Manual&lt;/a&gt;).&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;ul&gt;
-    &lt;li&gt;As a… [who is the user?]&lt;/li&gt;
-    &lt;li&gt;I need/want/expect to… [what does the user want to do?]&lt;/li&gt;
-    &lt;li&gt;So that… [why does the user want to do this?]&lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;In my experience the middle bit is quite easy to write, the user groups are a little more difficult, and the “so that” bit is really difficult.&lt;/p&gt;
-
-&lt;p&gt;It was good to have some time to think about user stories and what they’re good at. When they’re written well they help us to focus on the users and why they are trying to do something.&lt;/p&gt;
-
-&lt;p&gt;Obviously, you need to do user research before you can write any of them well, but even with that solid understanding I think they are still a challenge to write well.&lt;/p&gt;
-
-&lt;h2 id=&quot;chat-to-jeremy-yun&quot;&gt;Chat to &lt;a href=&quot;https://twitter.com/jeremyhhy&quot;&gt;Jeremy Yun&lt;/a&gt;&lt;/h2&gt;
-
-&lt;p&gt;I had a chat with Jeremy, an interaction designer on the GOV.UK publishing platform. He’s working on a service that visualises content performance for publishers in order for them to make better decisions about the content they publish.&lt;/p&gt;
-
-&lt;p&gt;We talked about the common problem of giving data and visualisations enough context, so that less data literate people can still make use of them.&lt;/p&gt;
-
-&lt;h2 id=&quot;things-we-could-try-measuring&quot;&gt;Things we could try measuring&lt;/h2&gt;
-
-&lt;p&gt;It lead me to think more about measuring the performance of data publishing and what the metrics could be…&lt;/p&gt;
-
-&lt;p&gt;Apart from common stuff like increases in page views and user satisfaction, what kind of metrics are important to data publishing?&lt;/p&gt;
-
-&lt;p&gt;These are some early (hopefully educated) guesses combined with a few I’ve pinched from other places…&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Increase automatic publishing workflows&lt;/li&gt;
-  &lt;li&gt;More organisations publishing&lt;/li&gt;
-  &lt;li&gt;More datasets&lt;/li&gt;
-  &lt;li&gt;Increased data quality&lt;/li&gt;
-  &lt;li&gt;Increased data standards&lt;/li&gt;
-  &lt;li&gt;Openness of formats&lt;/li&gt;
-  &lt;li&gt;Completeness of metadata&lt;/li&gt;
-  &lt;li&gt;Regular updates&lt;/li&gt;
-  &lt;li&gt;Reduce requests (increase self-serve)&lt;/li&gt;
-  &lt;li&gt;Reduce duplication (more shared code lists and reference data)&lt;/li&gt;
-  &lt;li&gt;Ability to format/filter data to low granularity&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;I also wonder how we could measure inclusiveness? If open data is meant to be easy to access, how can we prove that people  with lower data literacy are able to use it? And I’m not talking about the public here, but busy people in central and local governments, who aren’t data experts, but still need to use this stuff.&lt;/p&gt;
-
-&lt;h2 id=&quot;other-things-im-reading&quot;&gt;Other things I’m reading&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://gds.blog.gov.uk/2018/01/10/working-with-citizens-advice-and-its-amazing-data/&quot;&gt;Working with Citizens Advice and its amazing data&lt;/a&gt; by &lt;a href=&quot;https://twitter.com/lorna_tang&quot;&gt;Lorna Tang&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.bbc.co.uk/events/e4vgfx/live/cb54wh&quot;&gt;Access All Areas 2019 (BBC Accessibility Awareness Day)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://uxdesign.cc/how-white-space-killed-an-enterprise-app-and-why-data-density-matters-b3afad6a5f2a&quot;&gt;How white space killed an enterprise app (and why data density matters)&lt;/a&gt; by &lt;a href=&quot;https://twitter.com/CLenneville&quot;&gt;Christie Lenneville&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Mon, 20 May 2019 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/blog/weeknotes-series-03-episode-05/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/weeknotes-series-03-episode-05/</guid>
-        
-        
-        <category>weeknotes</category>
         
       </item>
     

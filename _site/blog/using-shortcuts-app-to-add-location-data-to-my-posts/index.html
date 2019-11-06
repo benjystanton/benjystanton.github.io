@@ -6,18 +6,18 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>Going full Monzo – Benjy Stanton</title>
-  <meta name="description" content="I’ve recently switched my bank current account to Monzo.">
+  <title>Using Shortcuts app to add location data to my posts – Benjy Stanton</title>
+  <meta name="description" content="">
 
   <!-- Twitter summary card stuff, based on http://davidensinger.com/2013/04/supporting-twitter-cards-with-jekyll/ -->
   <meta name="twitter:card" content="summary">
   <meta name="twitter:site" content="benjystanton">
-  <meta name="twitter:title" content="Going full Monzo" />
-  <meta name="twitter:description" content="I’ve recently switched my bank current account to Monzo." />
+  <meta name="twitter:title" content="Using Shortcuts app to add location data to my posts" />
+  <meta name="twitter:description" content="" />
   
   <link rel="stylesheet" href="/css/main.css">
   <link rel="stylesheet" href="https://use.typekit.net/wcw4icc.css">
-  <link rel="canonical" href="http://localhost:4000/blog/going-full-monzo/">
+  <link rel="canonical" href="http://localhost:4000/blog/using-shortcuts-app-to-add-location-data-to-my-posts/">
   <link rel="alternate" type="application/rss+xml" title="Benjy Stanton" href="http://localhost:4000/feed.xml" />
   <!-- Touch icons and favicons -->
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -72,10 +72,10 @@
       "@context":"http://schema.org",
       "@type": "BlogPosting",
       "image": "http://localhost:4000/assets/benjy-stanton.jpg",
-      "url": "http://localhost:4000/blog/going-full-monzo/",
-      "headline": "Going full Monzo",
-      "datePublished": " 5 November 2019",
-      "dateModified": " 5 November 2019",
+      "url": "http://localhost:4000/blog/using-shortcuts-app-to-add-location-data-to-my-posts/",
+      "headline": "Using Shortcuts app to add location data to my posts",
+      "datePublished": " 6 November 2019",
+      "dateModified": " 6 November 2019",
       "author": {
         "@type": "Person",
         "name": "Benjy Stanton",
@@ -100,11 +100,11 @@
 
 <article class="post-content h-entry" role="article">
   <header class="post-header">
-    <h1 class="post-title p-name">Going full Monzo</h1>
+    <h1 class="post-title p-name">Using Shortcuts app to add location data to my posts</h1>
     <p class="text-small">
   <img class="u-photo image-xs margin-bottom--0" src="http://localhost:4000/assets/benjy-stanton.jpg" alt="" height="50" width="50"> by
   <a rel="author" class="p-author h-card" href="http://localhost:4000">Benjy Stanton</a> on
-  <a class="dt-published u-url" href="http://localhost:4000/blog/going-full-monzo/"> 5 November 2019</a> in
+  <a class="dt-published u-url" href="http://localhost:4000/blog/using-shortcuts-app-to-add-location-data-to-my-posts/"> 6 November 2019</a> in
   
 
 <a class="p-category" href="/blog/category/nablopomo">nablopomo</a>
@@ -115,51 +115,69 @@
 
   </header>
   <div class="e-content">
-    <p class="lede">I’ve recently switched my bank current account to <a href="https://monzo.com/">Monzo</a>.</p>
+    <p class="lede"></p>
 
-<h2 id="beta-user">Beta user</h2>
+<p>I’ve been playing around with the <a href="https://apps.apple.com/us/app/shortcuts/id915249334">Shortcuts app</a> since they added it to iOS. It allows you to string together actions to create automatic workflows.</p>
 
-<p>I’ve been a user since March 2016 when the bank was in beta, but even though I’ve enjoyed using the app for short periods, I never really used it for sustainable periods because it wasn’t my main account.</p>
+<p>I think it has a lot of potential for adding some <a href="https://indieweb.org/">IndieWeb</a> features to my blog, which previously felt out of reach without using services like Instagram or Swarm (Boo!).</p>
 
-<h2 id="overdraft">Overdraft</h2>
+<h2 id="borrowing-an-idea-from-jeremy-keith">Borrowing an idea from Jeremy Keith</h2>
 
-<p>One of the last blockers to me switching was the fact that my old overdraft was bigger than the one Monzo would provide. So I decided to bite the bullet and get a separate loan to pay that off (and a few other things – ahem). So I could switch to Monzo without needing an overdraft.</p>
+<p>I spotted a while ago that Jeremy has <a href="https://adactio.com/notes/16026">location checkins</a> attached to his image posts. I really had no idea how I might achieve this until I spotted that the Shortcuts app allows you to grab your phone’s location and do stuff with it.</p>
 
-<h2 id="switching">Switching</h2>
+<p>I also realised that Jeremy passes the latitude, longitude and zoom level into an <a href="https://www.openstreetmap.org/">Open Street Map</a> url that allows users to click through and see a map of the checkin location.</p>
 
-<p>Once the overdraft issue was sorted, I tried to use the automatic account switch, but that failed. I think it was because my old account was a joint account.</p>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>https://www.openstreetmap.org/#map=15/51.2211/4.3997
+</code></pre></div></div>
 
-<p>Manually switching was a pain.</p>
+<h2 id="create-a-copy-my-location-workflow">Create a “copy my location” workflow</h2>
 
-<p>It highlighted how easy it can be to update your direct debit details with user-centred companies like <a href="https://bulb.co.uk/">Bulb</a></p>
+<p>So I started playing with Shortcuts and came up with this workflow…</p>
 
-<p>And also how bad it can be. With one company I had to request a paper form to be posted out to me. Then I had to return it. Then they posted out a confirmation to me. Which was wrong, so I had to call them up to fix it.</p>
+<blockquote id="workflow">
+  <ul>
+    <li>Get location (of my phone)</li>
+    <li>Extract the latitude, longitude and city as 3 separate variables</li>
+    <li>Insert those variables into a text template (which happens to be a short snippet of html)</li>
+    <li>Then copy that to my phone’s clipboard</li>
+  </ul>
+</blockquote>
 
-<p>In the end I did manage to do it all within one month. But I did have to create a Trello Board to manage it all.</p>
+<figure class="width-50" aria-describedby="workflow">
+  <img src="http://localhost:4000/assets/copy-location-shortcuts.png" alt="" />
+  <figcaption class="text-small">
+    Screenshot of Shortcuts app
+  </figcaption>
+</figure>
 
-<h2 id="benefits-of-switching">Benefits of switching</h2>
+<p>Once workflows are created, you can even add them from the iOS’s “Today View”, so that they’re within easy reach. Having the text snippet in my clipboard means that I can paste into into a text editor when I’m writing posts either on my phone or my laptop.</p>
 
-<p>I’m trying to be more sensible with my spending and I think Monzo helps me do that.</p>
+<h3 id="example">Example</h3>
 
-<p>I love that I can put money aside for bills into pot, and clearly see available spending money that’s left for the month.</p>
+<p><a href="https://www.openstreetmap.org/#map=9/51.47608788174919/-3.179009460568023">Posted from Cardiff, United Kingdom</a></p>
 
-<p>I also like that, at a glance, I can check whether I’m spending too quickly or that I’ll have money left over.</p>
+<h3 id="html">HTML</h3>
 
-<h2 id="conclusion">Conclusion</h2>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;a href="https://www.openstreetmap.org/#map=9/51.47608788174919/-3.179009460568023"&gt;
+Posted from Cardiff, United Kingdom
+&lt;/a&gt;
+</code></pre></div></div>
 
-<p>So far I’m really happy. I was slightly nervous when I heard the bad press about peoples’ accounts being frozen, but ultimately, the way Monzo responded to it put my mind at ease.</p>
+<h2 id="next-steps">Next steps</h2>
 
-<p>It would be nice if all companies I dealt with had the same great service design as companies like Monzo and Bulb.</p>
+<p>There is lots of potential for tweaking this workflow, and reusing the data to create embeddable maps, or categorising posts by location for example.</p>
+
+<p>I’m also working on a more complex workflow that allows me to post photos (with location metadata) directly from my phone to my blog, using my <a href="http://localhost:4000/blog/creating-the-image-post-layout/">image post template</a>. Although that one has more moving parts, so I need to iron out a few things before sharing it.</p>
 
   </div>
 </article>
 
 <div class="previous-and-next row">
 	<div class="column half padding-right--s margin-bottom--0">
-    <p class="text-small margin-bottom--0"><a href="/blog/work-trips-2019/">Previous<br />Work trips 2019</a></p>
+    <p class="text-small margin-bottom--0"><a href="/blog/going-full-monzo/">Previous<br />Going full Monzo</a></p>
   </div>
 	<div class="column half padding-left--s margin-bottom--0">
-    <p class="text-small align-right margin-bottom--0"><a href="/blog/using-shortcuts-app-to-add-location-data-to-my-posts/">Next<br />Using Shortcuts app to add...</a></p>
+    
   </div>
 </div>
 
