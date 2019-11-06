@@ -5,8 +5,8 @@
     <description>Interaction Designer. Family Man. Music Snob.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 05 Nov 2019 18:38:50 +0000</pubDate>
-    <lastBuildDate>Tue, 05 Nov 2019 18:38:50 +0000</lastBuildDate>
+    <pubDate>Wed, 06 Nov 2019 17:49:16 +0000</pubDate>
+    <lastBuildDate>Wed, 06 Nov 2019 17:49:16 +0000</lastBuildDate>
     <generator>Jekyll v3.8.4</generator>
     
       <item>
@@ -61,10 +61,12 @@
       <item>
         <title>Work trips 2019</title>
         <description>
+&lt;p&gt;This is a simple presentation of the trips I’ve made for work in 2019, which I keep a record of over the year. I did &lt;a href=&quot;http://localhost:4000/blog/work-trips-2018/&quot;&gt;something similar last year&lt;/a&gt;. I was slightly surprised (and pleased) that even now that I’m working remotely, I’m still getting about a bit.&lt;/p&gt;
+
 &lt;div class=&quot;flex-grid&quot;&gt;
   &lt;div class=&quot;flex-grid__col flex-grid__col--third margin-bottom--s&quot;&gt;
     &lt;span class=&quot;big-number&quot;&gt;
-18
+19
 &lt;/span&gt;
 &lt;span&gt; Individual trips&lt;/span&gt;
 
@@ -110,15 +112,13 @@
 
 &lt;ul&gt;
   
+  &lt;li&gt;Conference, training or workshop&lt;/li&gt;
+  
   &lt;li&gt;Meeting&lt;/li&gt;
   
   &lt;li&gt;Remote work&lt;/li&gt;
   
-  &lt;li&gt;Training or conference&lt;/li&gt;
-  
   &lt;li&gt;User research&lt;/li&gt;
-  
-  &lt;li&gt;Work&lt;/li&gt;
   
 &lt;/ul&gt;
 

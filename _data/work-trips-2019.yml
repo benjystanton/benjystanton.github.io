@@ -30,28 +30,28 @@
 
 - destination: John McIntyre Conference Centre
   city: Edinburgh
-  category: Training or conference
+  category: Conference, training or workshop
   month: March
   from: Swansea
   to: Edinburgh
 
 - destination: Swirrl
   city: Manchester
-  category: Work
+  category: Remote work
   month: April
   from: Swansea
   to: Manchester Piccadilly
 
 - destination: Environment Agency
   city: Bristol
-  category: Work
+  category: Meeting
   month: April
   from: Swansea
   to: Bristol Temple Meads
 
 - destination: Swirrl
   city: Manchester
-  category: Work
+  category: Remote work
   month: April
   from: Swansea
   to: Manchester Piccadilly
@@ -72,7 +72,7 @@
   
 - destination: Swirrl
   city: Manchester
-  category: Work
+  category: Remote work
   month: June
   from: Swansea
   to: Manchester Piccadilly
@@ -125,3 +125,10 @@
   month: October
   from: Swansea
   to: Reading
+
+- destination: Meeting Space
+  city: Cardiff
+  category: Conference, training or workshop
+  month: November
+  from: Swansea
+  to: Cardiff Central
