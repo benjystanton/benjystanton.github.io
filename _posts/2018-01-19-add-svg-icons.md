@@ -2,7 +2,7 @@
 layout: post   
 title: "Add SVG icons to the footer"
 date: 2018-01-19 21:58:00  
-categories: release-notes
+categories: release-notes accessibility
 image: svg-icon.png
 image-alt: An SVG icon surrounded by website text.
 ---

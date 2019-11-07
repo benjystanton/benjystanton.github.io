@@ -2,7 +2,7 @@
 layout: post   
 title: "Add aria-current to the site nav"
 date: 2018-01-13 21:32:00  
-categories: release-notes
+categories: release-notes accessibility
 ---
 
 When browsing the main pages of this site (home, about, blog) the current page link changes style. This helps sighted users to tell which page they're on. But this feature is invisible to screen reader users. So I'm adding the `aria-current` attribute to fix this.
