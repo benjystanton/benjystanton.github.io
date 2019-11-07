@@ -5,8 +5,6 @@ categories: nablopomo
 tag: NaBloPoMo2019
 ---
 
-<p class="lede"></p>
-
 I've been playing around with the [Shortcuts app](https://apps.apple.com/us/app/shortcuts/id915249334) since they added it to iOS. It allows you to string together actions to create automatic workflows.
 
 I think it has a lot of potential for adding some [IndieWeb](https://indieweb.org/) features to my blog, which previously felt out of reach without using services like Instagram or Swarm (Boo!).
