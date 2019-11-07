@@ -6,18 +6,18 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>Blog stats – Benjy Stanton</title>
-  <meta name="description" content="">
+  <title>Accessibility checklist – Benjy Stanton</title>
+  <meta name="description" content="Typography">
 
   <!-- Twitter summary card stuff, based on http://davidensinger.com/2013/04/supporting-twitter-cards-with-jekyll/ -->
   <meta name="twitter:card" content="summary">
   <meta name="twitter:site" content="benjystanton">
-  <meta name="twitter:title" content="Blog stats" />
-  <meta name="twitter:description" content="" />
+  <meta name="twitter:title" content="Accessibility checklist" />
+  <meta name="twitter:description" content="Typography" />
   
   <link rel="stylesheet" href="/css/main.css">
   <link rel="stylesheet" href="https://use.typekit.net/wcw4icc.css">
-  <link rel="canonical" href="http://localhost:4000/blog/blog-stats/">
+  <link rel="canonical" href="http://localhost:4000/blog/accessibility-checklist/">
   <link rel="alternate" type="application/rss+xml" title="Benjy Stanton" href="http://localhost:4000/feed.xml" />
   <!-- Touch icons and favicons -->
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -72,10 +72,10 @@
       "@context":"http://schema.org",
       "@type": "BlogPosting",
       "image": "http://localhost:4000/assets/benjy-stanton.jpg",
-      "url": "http://localhost:4000/blog/blog-stats/",
-      "headline": "Blog stats",
-      "datePublished": "26 November 2018",
-      "dateModified": "26 November 2018",
+      "url": "http://localhost:4000/blog/accessibility-checklist/",
+      "headline": "Accessibility checklist",
+      "datePublished": " 7 November 2019",
+      "dateModified": " 7 November 2019",
       "author": {
         "@type": "Person",
         "name": "Benjy Stanton",
@@ -100,14 +100,17 @@
 
 <article class="post-content h-entry" role="article">
   <header class="post-header">
-    <h1 class="post-title p-name">Blog stats</h1>
+    <h1 class="post-title p-name">Accessibility checklist</h1>
     <p class="text-small">
   <img class="u-photo image-xs margin-bottom--0" src="http://localhost:4000/assets/benjy-stanton.jpg" alt="" height="50" width="50"> by
   <a rel="author" class="p-author h-card" href="http://localhost:4000">Benjy Stanton</a> on
-  <a class="dt-published u-url" href="http://localhost:4000/blog/blog-stats/">26 November 2018</a> in
+  <a class="dt-published u-url" href="http://localhost:4000/blog/accessibility-checklist/"> 7 November 2019</a> in
   
 
 <a class="p-category" href="/blog/category/nablopomo">nablopomo</a>
+,
+
+<a class="p-category" href="/blog/category/accessibility">accessibility</a>
 
 
 
@@ -115,60 +118,120 @@
 
   </header>
   <div class="e-content">
-    <!-- You can't pass variables straight into includes, you have to capture them first https://jekyllrb.com/docs/includes/#passing-parameter-variables-to-includes  -->
+    <h2 id="typography">Typography</h2>
 
-<p class="lede">A quick post of blog stats that used to be on the homepage.</p>
+<ul>
+  <li>Nest headings in order (for example, H2s only appear after H1s)</li>
+  <li>Don’t skip heading levels</li>
+  <li>Use semantic mark-up (for example, headings, lists and blockquotes)</li>
+  <li>Links should look like links (for example, blue and underlined)</li>
+  <li>Don’t use link title attribute</li>
+  <li>Lines are less than 80 characters wide</li>
+  <li>Suitable vertical spacing between lines and paragraphs</li>
+  <li>Avoid italics, block capitals or justified text</li>
+  <li>Use a san-serif font with thick letters</li>
+  <li>Make sure text can be resized</li>
+</ul>
 
-<div class="flex-grid margin-top--s">
-  <div class="flex-grid__col flex-grid__col--third margin-bottom--s">
-  <span class="big-number">
-146
-</span>
-<span><a href="/blog/">posts</a></span>
+<h2 id="content">Content</h2>
 
-  </div>
-  <div class="flex-grid__col flex-grid__col--third margin-bottom--s">
-  <span class="big-number">
-22
-</span>
-<span><a href="/blog/category/">categories</a></span>
+<ul>
+  <li>Use plain English</li>
+  <li>Explain unusual words and jargon</li>
+  <li>Put the most important information at the start</li>
+  <li>Explain what a user has to do in a clear and concise way</li>
+  <li>Use headings and lists to break the content into chunks</li>
+  <li>Download links labels include file format and size</li>
+  <li>Headings, links and button text must be unique and descriptive</li>
+  <li>Each page has unique, descriptive h1 and page title</li>
+</ul>
 
-  </div>
-  <div class="flex-grid__col flex-grid__col--third margin-bottom--s">
-  <span class="big-number">
-39
-</span>
-<span>pages</span>
+<h2 id="tables">Tables</h2>
 
-  </div>
-</div>
+<ul>
+  <li><a href="https://www.gov.uk/guidance/content-design/tables#how-to-make-tables-accessible">Tables are accessible</a></li>
+  <li>Only use tables to present data</li>
+  <li>Tables can be used as accessible alternatives to charts and infographics</li>
+  <li>Split complex tables into multiple small ones</li>
+  <li>Tables have the correct markup for headers, rows and cells, so screen reader users can understand and navigate them</li>
+</ul>
 
-<div class="flex-grid">
-  <div class="flex-grid__col flex-grid__col--third margin-bottom--s">
-  <span class="big-number">
-5
-</span>
-<span><a href="/blog/category/images">images</a></span>
+<h2 id="colour-and-contrast">Colour and contrast</h2>
 
-  </div>
-  <div class="flex-grid__col flex-grid__col--third margin-bottom--s">
-  <span class="big-number">
-4
-</span>
-<span><a href="/blog/category/notes">notes</a></span>
+<ul>
+  <li><a href="http://webaim.org/resources/contrastchecker/">Check colour contrast</a> between text and background meets standards</li>
+  <li>Check design works in black and white</li>
+  <li>Don’t communicate using colour alone</li>
+  <li>Check design works in high contrast mode</li>
+</ul>
 
-  </div>
-</div>
+<h2 id="interaction">Interaction</h2>
+
+<ul>
+  <li>Check design is functional when using a keyboard to navigate</li>
+  <li>Check it’s visually apparent which page element has the current keyboard focus</li>
+  <li>Complex interface components, like sliders, should be avoided when simple solutions, like a text input, can be used instead</li>
+  <li>If an experience cannot be made accessible, create another route for users to get that information</li>
+</ul>
+
+<h2 id="forms">Forms</h2>
+
+<ul>
+  <li>All form inputs have labels</li>
+  <li>Forms and interactive elements should have useful hints</li>
+  <li>Error messages suggest ways to fix error</li>
+  <li>Error messages should show a summary of errors above the h1 and move focus to it</li>
+  <li>Error message summary should include an h1 message that tells the screen reader user there is a problem, and gives a list of descriptive errors with links to the relevant fields</li>
+</ul>
+
+<h2 id="images">Images</h2>
+
+<ul>
+  <li>Images must have good alternative text</li>
+  <li>Avoid using images of text</li>
+</ul>
+
+<h2 id="layout-and-structure">Layout and structure</h2>
+
+<ul>
+  <li>Layout is consistent and predictable</li>
+  <li>Do not rely upon shape, size, or visual location (for example, “Click the square icon to continue” or “Instructions are in the right-hand column”)</li>
+  <li>Reading and navigation order is logical</li>
+  <li>The page is readable and functional when the text size is doubled</li>
+  <li>Frames are appropriately titled</li>
+</ul>
+
+<h2 id="iframes">iframes</h2>
+
+<ul>
+  <li>Use the iframe title attribute to give the content a descriptive title</li>
+  <li>Make sure interactive elements inside an iframe are usable with a keyboard</li>
+  <li>Make sure interactive elements have a clear focus style</li>
+  <li>Test the iframe is readable and functional with browser zoom at 200%</li>
+  <li>Test the content doesn’t overflow or become truncated when font size is increased</li>
+</ul>
+
+<h2 id="manual-tests">Manual tests</h2>
+
+<ul>
+  <li>Use the service with a keyboard only – no mouse</li>
+  <li>Check the page with CSS off</li>
+  <li>Increase font size to 200%</li>
+  <li>Test in high contrast mode</li>
+  <li>Check html mark-up is valid</li>
+  <li>Check in a range of browsers and devices</li>
+  <li>Check using <a href="https://www.ons.gov.uk/help/accessibility">assistive technologies</a></li>
+</ul>
 
   </div>
 </article>
 
 <div class="previous-and-next row">
 	<div class="column half padding-right--s margin-bottom--0">
-    <p class="text-small margin-bottom--0"><a href="/blog/the-stickers-on-my-laptop/">Previous<br />The stickers on my laptop...</a></p>
+    <p class="text-small margin-bottom--0"><a href="/blog/using-shortcuts-app-to-add-location-data-to-my-posts/">Previous<br />Using Shortcuts app to add...</a></p>
   </div>
 	<div class="column half padding-left--s margin-bottom--0">
-    <p class="text-small align-right margin-bottom--0"><a href="/blog/november-2018-bookmarks/">Next<br />November 2018 bookmarks</a></p>
+    
   </div>
 </div>
 
