@@ -88,4 +88,4 @@ tag: NaBloPoMo2019
 *   Test in high contrast mode
 *   Check html mark-up is valid
 *   Check in a range of browsers and devices
-*   Check using [assistive technologies](https://www.ons.gov.uk/help/accessibility)
+*   Check using assistive technologies

@@ -5,8 +5,8 @@
     <description>Interaction Designer. Family Man. Music Snob.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 07 Nov 2019 22:30:47 +0000</pubDate>
-    <lastBuildDate>Thu, 07 Nov 2019 22:30:47 +0000</lastBuildDate>
+    <pubDate>Fri, 08 Nov 2019 07:00:17 +0000</pubDate>
+    <lastBuildDate>Fri, 08 Nov 2019 07:00:17 +0000</lastBuildDate>
     <generator>Jekyll v3.8.4</generator>
     
       <item>
@@ -113,7 +113,7 @@
   &lt;li&gt;Test in high contrast mode&lt;/li&gt;
   &lt;li&gt;Check html mark-up is valid&lt;/li&gt;
   &lt;li&gt;Check in a range of browsers and devices&lt;/li&gt;
-  &lt;li&gt;Check using &lt;a href=&quot;https://www.ons.gov.uk/help/accessibility&quot;&gt;assistive technologies&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Check using assistive technologies&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Thu, 07 Nov 2019 00:00:00 +0000</pubDate>
