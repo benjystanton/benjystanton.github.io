@@ -59,7 +59,7 @@ Read this blog post about [making charts more accessible]({{ site.url }}/blog/a-
 
 ## Forms
 
-*   All form inputs should have labels
+*   [All form inputs should have labels and be linked with a 'for' attribute](https://www.w3.org/WAI/tutorials/forms/labels/#associating-labels-explicitly)
 *   Forms and interactive elements should have useful hints
 *   Error messages should suggest ways to fix errors
 *   Error messages should show a summary of errors above the h1 and move focus to it

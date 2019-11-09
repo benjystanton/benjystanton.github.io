@@ -5,8 +5,8 @@
     <description>Interaction Designer. Family Man. Music Snob.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 08 Nov 2019 15:12:22 +0000</pubDate>
-    <lastBuildDate>Fri, 08 Nov 2019 15:12:22 +0000</lastBuildDate>
+    <pubDate>Sat, 09 Nov 2019 14:23:15 +0000</pubDate>
+    <lastBuildDate>Sat, 09 Nov 2019 14:23:15 +0000</lastBuildDate>
     <generator>Jekyll v3.8.4</generator>
     
       <item>
@@ -76,7 +76,7 @@
 &lt;h2 id=&quot;forms&quot;&gt;Forms&lt;/h2&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;All form inputs should have labels&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.w3.org/WAI/tutorials/forms/labels/#associating-labels-explicitly&quot;&gt;All form inputs should have labels and be linked with a ‘for’ attribute&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Forms and interactive elements should have useful hints&lt;/li&gt;
   &lt;li&gt;Error messages should suggest ways to fix errors&lt;/li&gt;
   &lt;li&gt;Error messages should show a summary of errors above the h1 and move focus to it&lt;/li&gt;
