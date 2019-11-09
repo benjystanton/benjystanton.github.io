@@ -7,13 +7,13 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <title>Accessibility checklist – Benjy Stanton</title>
-  <meta name="description" content="Typography">
+  <meta name="description" content="A list of accessibility recommendations, tips and resources.">
 
   <!-- Twitter summary card stuff, based on http://davidensinger.com/2013/04/supporting-twitter-cards-with-jekyll/ -->
   <meta name="twitter:card" content="summary">
   <meta name="twitter:site" content="benjystanton">
   <meta name="twitter:title" content="Accessibility checklist" />
-  <meta name="twitter:description" content="Typography" />
+  <meta name="twitter:description" content="A list of accessibility recommendations, tips and resources." />
   
   <link rel="stylesheet" href="/css/main.css">
   <link rel="stylesheet" href="https://use.typekit.net/wcw4icc.css">
@@ -118,22 +118,24 @@
 
   </header>
   <div class="e-content">
-    <h2 id="typography">Typography</h2>
+    <p class="lede">A list of accessibility recommendations, tips and resources.</p>
+
+<h2 id="typography">Typography</h2>
 
 <ul>
-  <li>Nest headings in order (for example, H2s only appear after H1s)</li>
+  <li>Nest headings in order (for example, h1, h2, h3)</li>
   <li>Don’t skip heading levels</li>
   <li>Use semantic mark-up (for example, headings, lists and blockquotes)</li>
   <li>Links should look like links (for example, blue and underlined)</li>
-  <li>Don’t use link title attribute</li>
-  <li>Lines are less than 80 characters wide</li>
-  <li>Suitable vertical spacing between lines and paragraphs</li>
+  <li><a href="https://developer.paciellogroup.com/blog/2010/11/using-the-html-title-attribute/">Don’t rely on link title attribute</a></li>
+  <li>Lines should be less than 80 characters wide</li>
+  <li>Add suitable vertical spacing between lines and paragraphs</li>
   <li>Avoid italics, block capitals or justified text</li>
   <li>Use a san-serif font with thick letters</li>
   <li>Make sure text can be resized</li>
 </ul>
 
-<h2 id="content">Content</h2>
+<h2 id="written-content">Written content</h2>
 
 <ul>
   <li>Use plain English</li>
@@ -141,25 +143,29 @@
   <li>Put the most important information at the start</li>
   <li>Explain what a user has to do in a clear and concise way</li>
   <li>Use headings and lists to break the content into chunks</li>
-  <li>Download links labels include file format and size</li>
+  <li>Download links labels should include file format and size</li>
   <li>Headings, links and button text must be unique and descriptive</li>
-  <li>Each page has unique, descriptive h1 and page title</li>
+  <li>Each page should have a unique, descriptive h1 and page title</li>
 </ul>
 
 <h2 id="tables">Tables</h2>
 
 <ul>
-  <li><a href="https://www.gov.uk/guidance/content-design/tables#how-to-make-tables-accessible">Tables are accessible</a></li>
+  <li><a href="https://www.gov.uk/guidance/content-design/tables#how-to-make-tables-accessible">Make sure tables are accessible</a></li>
   <li>Only use tables to present data</li>
-  <li>Tables can be used as accessible alternatives to charts and infographics</li>
+  <li>Use tables as accessible alternatives to charts and infographics</li>
   <li>Split complex tables into multiple small ones</li>
-  <li>Tables have the correct markup for headers, rows and cells, so screen reader users can understand and navigate them</li>
+  <li>Use correct table markup for headers, rows and cells, so screen reader users can understand and navigate them</li>
 </ul>
+
+<h2 id="charts">Charts</h2>
+
+<p>Read this blog post about <a href="http://localhost:4000/blog/a-plan-for-accessible-charts/">making charts more accessible</a></p>
 
 <h2 id="colour-and-contrast">Colour and contrast</h2>
 
 <ul>
-  <li><a href="http://webaim.org/resources/contrastchecker/">Check colour contrast</a> between text and background meets standards</li>
+  <li><a href="http://webaim.org/resources/contrastchecker/">Check colour contrast</a> between text and background</li>
   <li>Check design works in black and white</li>
   <li>Don’t communicate using colour alone</li>
   <li>Check design works in high contrast mode</li>
@@ -169,7 +175,7 @@
 
 <ul>
   <li>Check design is functional when using a keyboard to navigate</li>
-  <li>Check it’s visually apparent which page element has the current keyboard focus</li>
+  <li>Check it’s visually apparent which page element has current keyboard focus</li>
   <li>Complex interface components, like sliders, should be avoided when simple solutions, like a text input, can be used instead</li>
   <li>If an experience cannot be made accessible, create another route for users to get that information</li>
 </ul>
@@ -177,28 +183,29 @@
 <h2 id="forms">Forms</h2>
 
 <ul>
-  <li>All form inputs have labels</li>
+  <li>All form inputs should have labels</li>
   <li>Forms and interactive elements should have useful hints</li>
-  <li>Error messages suggest ways to fix error</li>
+  <li>Error messages should suggest ways to fix errors</li>
   <li>Error messages should show a summary of errors above the h1 and move focus to it</li>
-  <li>Error message summary should include an h1 message that tells the screen reader user there is a problem, and gives a list of descriptive errors with links to the relevant fields</li>
+  <li>Error message summaries should include an h1 message that tells the screen reader user there is a problem, and give a list of descriptive errors with links to the relevant fields</li>
 </ul>
 
 <h2 id="images">Images</h2>
 
 <ul>
-  <li>Images must have good alternative text</li>
+  <li>Images should have good alternative text</li>
+  <li>If images are purely decorative, then they need an empty alt tag <code class="highlighter-rouge">alt=""</code></li>
   <li>Avoid using images of text</li>
 </ul>
 
 <h2 id="layout-and-structure">Layout and structure</h2>
 
 <ul>
-  <li>Layout is consistent and predictable</li>
+  <li>Layout should be consistent and predictable</li>
   <li>Do not rely upon shape, size, or visual location (for example, “Click the square icon to continue” or “Instructions are in the right-hand column”)</li>
-  <li>Reading and navigation order is logical</li>
-  <li>The page is readable and functional when the text size is doubled</li>
-  <li>Frames are appropriately titled</li>
+  <li>Check reading and navigation order is logical</li>
+  <li>Check page is readable and functional when text size is doubled</li>
+  <li>Don’t use duplicate id attributes</li>
 </ul>
 
 <h2 id="iframes">iframes</h2>
@@ -221,6 +228,13 @@
   <li>Check html mark-up is valid</li>
   <li>Check in a range of browsers and devices</li>
   <li>Check using assistive technologies</li>
+</ul>
+
+<h2 id="automatic-tests">Automatic tests</h2>
+
+<ul>
+  <li><a href="https://wave.webaim.org/extension/">WAVE Browser Extension</a></li>
+  <li><a href="https://developers.google.com/web/tools/lighthouse">Lighthouse</a></li>
 </ul>
 
   </div>

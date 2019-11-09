@@ -5,41 +5,47 @@ categories: nablopomo accessibility
 tag: NaBloPoMo2019
 ---
 
+<p class="lede">A list of accessibility recommendations, tips and resources.</p>
+
 ## Typography
 
-*   Nest headings in order (for example, H2s only appear after H1s)
+*   Nest headings in order (for example, h1, h2, h3)
 *   Don't skip heading levels
 *   Use semantic mark-up (for example, headings, lists and blockquotes)
 *   Links should look like links (for example, blue and underlined)
-*   Don't use link title attribute
-*   Lines are less than 80 characters wide
-*   Suitable vertical spacing between lines and paragraphs
+*   [Don't rely on link title attribute](https://developer.paciellogroup.com/blog/2010/11/using-the-html-title-attribute/)
+*   Lines should be less than 80 characters wide
+*   Add suitable vertical spacing between lines and paragraphs
 *   Avoid italics, block capitals or justified text
 *   Use a san-serif font with thick letters
 *   Make sure text can be resized
 
-## Content
+## Written content
 
 *   Use plain English
 *   Explain unusual words and jargon
 *   Put the most important information at the start
 *   Explain what a user has to do in a clear and concise way
 *   Use headings and lists to break the content into chunks
-*   Download links labels include file format and size
+*   Download links labels should include file format and size
 *   Headings, links and button text must be unique and descriptive
-*   Each page has unique, descriptive h1 and page title
+*   Each page should have a unique, descriptive h1 and page title
 
 ## Tables
 
-*   [Tables are accessible](https://www.gov.uk/guidance/content-design/tables#how-to-make-tables-accessible)
+*   [Make sure tables are accessible](https://www.gov.uk/guidance/content-design/tables#how-to-make-tables-accessible)
 *   Only use tables to present data
-*   Tables can be used as accessible alternatives to charts and infographics
+*   Use tables as accessible alternatives to charts and infographics
 *   Split complex tables into multiple small ones
-*   Tables have the correct markup for headers, rows and cells, so screen reader users can understand and navigate them
+*   Use correct table markup for headers, rows and cells, so screen reader users can understand and navigate them
+
+## Charts
+
+Read this blog post about [making charts more accessible]({{ site.url }}/blog/a-plan-for-accessible-charts/)
 
 ## Colour and contrast
 
-*   [Check colour contrast](http://webaim.org/resources/contrastchecker/) between text and background meets standards
+*   [Check colour contrast](http://webaim.org/resources/contrastchecker/) between text and background
 *   Check design works in black and white
 *   Don't communicate using colour alone
 *   Check design works in high contrast mode
@@ -47,30 +53,31 @@ tag: NaBloPoMo2019
 ## Interaction
 
 *   Check design is functional when using a keyboard to navigate
-*   Check it's visually apparent which page element has the current keyboard focus
+*   Check it's visually apparent which page element has current keyboard focus
 *   Complex interface components, like sliders, should be avoided when simple solutions, like a text input, can be used instead
 *   If an experience cannot be made accessible, create another route for users to get that information
 
 ## Forms
 
-*   All form inputs have labels
+*   All form inputs should have labels
 *   Forms and interactive elements should have useful hints
-*   Error messages suggest ways to fix error
+*   Error messages should suggest ways to fix errors
 *   Error messages should show a summary of errors above the h1 and move focus to it
-*   Error message summary should include an h1 message that tells the screen reader user there is a problem, and gives a list of descriptive errors with links to the relevant fields
+*   Error message summaries should include an h1 message that tells the screen reader user there is a problem, and give a list of descriptive errors with links to the relevant fields
 
 ## Images
 
-*   Images must have good alternative text
+*   Images should have good alternative text
+*   If images are purely decorative, then they need an empty alt tag `alt=""`
 *   Avoid using images of text
 
 ## Layout and structure
 
-*   Layout is consistent and predictable
+*   Layout should be consistent and predictable
 *   Do not rely upon shape, size, or visual location (for example, "Click the square icon to continue" or "Instructions are in the right-hand column")
-*   Reading and navigation order is logical
-*   The page is readable and functional when the text size is doubled
-*   Frames are appropriately titled
+*   Check reading and navigation order is logical
+*   Check page is readable and functional when text size is doubled
+*   Don't use duplicate id attributes
 
 ## iframes
 
@@ -89,3 +96,8 @@ tag: NaBloPoMo2019
 *   Check html mark-up is valid
 *   Check in a range of browsers and devices
 *   Check using assistive technologies
+
+## Automatic tests
+
+*   [WAVE Browser Extension](https://wave.webaim.org/extension/)
+*   [Lighthouse](https://developers.google.com/web/tools/lighthouse)

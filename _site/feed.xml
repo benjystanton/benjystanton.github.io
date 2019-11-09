@@ -5,28 +5,30 @@
     <description>Interaction Designer. Family Man. Music Snob.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 08 Nov 2019 07:00:17 +0000</pubDate>
-    <lastBuildDate>Fri, 08 Nov 2019 07:00:17 +0000</lastBuildDate>
+    <pubDate>Fri, 08 Nov 2019 15:12:22 +0000</pubDate>
+    <lastBuildDate>Fri, 08 Nov 2019 15:12:22 +0000</lastBuildDate>
     <generator>Jekyll v3.8.4</generator>
     
       <item>
         <title>Accessibility checklist</title>
-        <description>&lt;h2 id=&quot;typography&quot;&gt;Typography&lt;/h2&gt;
+        <description>&lt;p class=&quot;lede&quot;&gt;A list of accessibility recommendations, tips and resources.&lt;/p&gt;
+
+&lt;h2 id=&quot;typography&quot;&gt;Typography&lt;/h2&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Nest headings in order (for example, H2s only appear after H1s)&lt;/li&gt;
+  &lt;li&gt;Nest headings in order (for example, h1, h2, h3)&lt;/li&gt;
   &lt;li&gt;Don’t skip heading levels&lt;/li&gt;
   &lt;li&gt;Use semantic mark-up (for example, headings, lists and blockquotes)&lt;/li&gt;
   &lt;li&gt;Links should look like links (for example, blue and underlined)&lt;/li&gt;
-  &lt;li&gt;Don’t use link title attribute&lt;/li&gt;
-  &lt;li&gt;Lines are less than 80 characters wide&lt;/li&gt;
-  &lt;li&gt;Suitable vertical spacing between lines and paragraphs&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://developer.paciellogroup.com/blog/2010/11/using-the-html-title-attribute/&quot;&gt;Don’t rely on link title attribute&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Lines should be less than 80 characters wide&lt;/li&gt;
+  &lt;li&gt;Add suitable vertical spacing between lines and paragraphs&lt;/li&gt;
   &lt;li&gt;Avoid italics, block capitals or justified text&lt;/li&gt;
   &lt;li&gt;Use a san-serif font with thick letters&lt;/li&gt;
   &lt;li&gt;Make sure text can be resized&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;content&quot;&gt;Content&lt;/h2&gt;
+&lt;h2 id=&quot;written-content&quot;&gt;Written content&lt;/h2&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Use plain English&lt;/li&gt;
@@ -34,25 +36,29 @@
   &lt;li&gt;Put the most important information at the start&lt;/li&gt;
   &lt;li&gt;Explain what a user has to do in a clear and concise way&lt;/li&gt;
   &lt;li&gt;Use headings and lists to break the content into chunks&lt;/li&gt;
-  &lt;li&gt;Download links labels include file format and size&lt;/li&gt;
+  &lt;li&gt;Download links labels should include file format and size&lt;/li&gt;
   &lt;li&gt;Headings, links and button text must be unique and descriptive&lt;/li&gt;
-  &lt;li&gt;Each page has unique, descriptive h1 and page title&lt;/li&gt;
+  &lt;li&gt;Each page should have a unique, descriptive h1 and page title&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;tables&quot;&gt;Tables&lt;/h2&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.gov.uk/guidance/content-design/tables#how-to-make-tables-accessible&quot;&gt;Tables are accessible&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.gov.uk/guidance/content-design/tables#how-to-make-tables-accessible&quot;&gt;Make sure tables are accessible&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Only use tables to present data&lt;/li&gt;
-  &lt;li&gt;Tables can be used as accessible alternatives to charts and infographics&lt;/li&gt;
+  &lt;li&gt;Use tables as accessible alternatives to charts and infographics&lt;/li&gt;
   &lt;li&gt;Split complex tables into multiple small ones&lt;/li&gt;
-  &lt;li&gt;Tables have the correct markup for headers, rows and cells, so screen reader users can understand and navigate them&lt;/li&gt;
+  &lt;li&gt;Use correct table markup for headers, rows and cells, so screen reader users can understand and navigate them&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;h2 id=&quot;charts&quot;&gt;Charts&lt;/h2&gt;
+
+&lt;p&gt;Read this blog post about &lt;a href=&quot;http://localhost:4000/blog/a-plan-for-accessible-charts/&quot;&gt;making charts more accessible&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;colour-and-contrast&quot;&gt;Colour and contrast&lt;/h2&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://webaim.org/resources/contrastchecker/&quot;&gt;Check colour contrast&lt;/a&gt; between text and background meets standards&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://webaim.org/resources/contrastchecker/&quot;&gt;Check colour contrast&lt;/a&gt; between text and background&lt;/li&gt;
   &lt;li&gt;Check design works in black and white&lt;/li&gt;
   &lt;li&gt;Don’t communicate using colour alone&lt;/li&gt;
   &lt;li&gt;Check design works in high contrast mode&lt;/li&gt;
@@ -62,7 +68,7 @@
 
 &lt;ul&gt;
   &lt;li&gt;Check design is functional when using a keyboard to navigate&lt;/li&gt;
-  &lt;li&gt;Check it’s visually apparent which page element has the current keyboard focus&lt;/li&gt;
+  &lt;li&gt;Check it’s visually apparent which page element has current keyboard focus&lt;/li&gt;
   &lt;li&gt;Complex interface components, like sliders, should be avoided when simple solutions, like a text input, can be used instead&lt;/li&gt;
   &lt;li&gt;If an experience cannot be made accessible, create another route for users to get that information&lt;/li&gt;
 &lt;/ul&gt;
@@ -70,28 +76,29 @@
 &lt;h2 id=&quot;forms&quot;&gt;Forms&lt;/h2&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;All form inputs have labels&lt;/li&gt;
+  &lt;li&gt;All form inputs should have labels&lt;/li&gt;
   &lt;li&gt;Forms and interactive elements should have useful hints&lt;/li&gt;
-  &lt;li&gt;Error messages suggest ways to fix error&lt;/li&gt;
+  &lt;li&gt;Error messages should suggest ways to fix errors&lt;/li&gt;
   &lt;li&gt;Error messages should show a summary of errors above the h1 and move focus to it&lt;/li&gt;
-  &lt;li&gt;Error message summary should include an h1 message that tells the screen reader user there is a problem, and gives a list of descriptive errors with links to the relevant fields&lt;/li&gt;
+  &lt;li&gt;Error message summaries should include an h1 message that tells the screen reader user there is a problem, and give a list of descriptive errors with links to the relevant fields&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;images&quot;&gt;Images&lt;/h2&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Images must have good alternative text&lt;/li&gt;
+  &lt;li&gt;Images should have good alternative text&lt;/li&gt;
+  &lt;li&gt;If images are purely decorative, then they need an empty alt tag &lt;code class=&quot;highlighter-rouge&quot;&gt;alt=&quot;&quot;&lt;/code&gt;&lt;/li&gt;
   &lt;li&gt;Avoid using images of text&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;layout-and-structure&quot;&gt;Layout and structure&lt;/h2&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Layout is consistent and predictable&lt;/li&gt;
+  &lt;li&gt;Layout should be consistent and predictable&lt;/li&gt;
   &lt;li&gt;Do not rely upon shape, size, or visual location (for example, “Click the square icon to continue” or “Instructions are in the right-hand column”)&lt;/li&gt;
-  &lt;li&gt;Reading and navigation order is logical&lt;/li&gt;
-  &lt;li&gt;The page is readable and functional when the text size is doubled&lt;/li&gt;
-  &lt;li&gt;Frames are appropriately titled&lt;/li&gt;
+  &lt;li&gt;Check reading and navigation order is logical&lt;/li&gt;
+  &lt;li&gt;Check page is readable and functional when text size is doubled&lt;/li&gt;
+  &lt;li&gt;Don’t use duplicate id attributes&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;iframes&quot;&gt;iframes&lt;/h2&gt;
@@ -114,6 +121,13 @@
   &lt;li&gt;Check html mark-up is valid&lt;/li&gt;
   &lt;li&gt;Check in a range of browsers and devices&lt;/li&gt;
   &lt;li&gt;Check using assistive technologies&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;automatic-tests&quot;&gt;Automatic tests&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://wave.webaim.org/extension/&quot;&gt;WAVE Browser Extension&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://developers.google.com/web/tools/lighthouse&quot;&gt;Lighthouse&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Thu, 07 Nov 2019 00:00:00 +0000</pubDate>
