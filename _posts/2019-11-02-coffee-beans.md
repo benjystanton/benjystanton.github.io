@@ -22,7 +22,7 @@ tag: NaBloPoMo2019
 
 {% for item in site.data.coffee-beans %}
 
-<h2><a href="{{ item.url }}">{{ item.name }}</a></h2>
+<h2>{% if item.url %}<a href="{{ item.url }}">{{ item.name }}</a>{% else %}{{ item.name }}{% endif %}</h2>
 <dl>
   <dt>Process</dt>
   <dd>{{ item.process }}</dd>

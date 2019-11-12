@@ -5,8 +5,8 @@
     <description>Interaction Designer. Family Man. Music Snob.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 09 Nov 2019 14:23:15 +0000</pubDate>
-    <lastBuildDate>Sat, 09 Nov 2019 14:23:15 +0000</lastBuildDate>
+    <pubDate>Tue, 12 Nov 2019 21:12:04 +0000</pubDate>
+    <lastBuildDate>Tue, 12 Nov 2019 21:12:04 +0000</lastBuildDate>
     <generator>Jekyll v3.8.4</generator>
     
       <item>
@@ -362,7 +362,7 @@ Posted from Cardiff, United Kingdom
 &lt;p class=&quot;lede&quot;&gt;A list of specialty coffees that I’ve tried at home, so I can remember which ones I like. Thanks to the excellent &lt;a href=&quot;https://www.squarepeg.org.uk/&quot;&gt;Square Peg&lt;/a&gt; for being my supplier of choice.&lt;/p&gt;
 
 &lt;p&gt;&lt;span class=&quot;big-number&quot;&gt;
-1
+3
 &lt;/span&gt;
 &lt;span&gt; Coffees tried&lt;/span&gt;&lt;/p&gt;
 
@@ -378,6 +378,30 @@ Posted from Cardiff, United Kingdom
   &lt;dd&gt;Single origin&lt;/dd&gt;
   &lt;dt&gt;Roaster&lt;/dt&gt;
   &lt;dd&gt;&lt;a href=&quot;https://cliftoncoffee.co.uk/&quot;&gt;Clifton Coffee Roaster&lt;/a&gt;, Bristol&lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;h2&gt;Peru Cajamarca Regional Select&lt;/h2&gt;
+&lt;dl&gt;
+  &lt;dt&gt;Process&lt;/dt&gt;
+  &lt;dd&gt;Washed&lt;/dd&gt;
+  &lt;dt&gt;Tasting notes&lt;/dt&gt;
+  &lt;dd&gt;Tangerine, Maple Syrup, Macadamia&lt;/dd&gt;
+  &lt;dt&gt;Type&lt;/dt&gt;
+  &lt;dd&gt;Single origin&lt;/dd&gt;
+  &lt;dt&gt;Roaster&lt;/dt&gt;
+  &lt;dd&gt;&lt;a href=&quot;https://cliftoncoffee.co.uk/&quot;&gt;Clifton Coffee Roaster&lt;/a&gt;, Bristol&lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;h2&gt;Finca Chayote&lt;/h2&gt;
+&lt;dl&gt;
+  &lt;dt&gt;Process&lt;/dt&gt;
+  &lt;dd&gt;Natural&lt;/dd&gt;
+  &lt;dt&gt;Tasting notes&lt;/dt&gt;
+  &lt;dd&gt;Sweet Pineapple, Cocoa Finish&lt;/dd&gt;
+  &lt;dt&gt;Type&lt;/dt&gt;
+  &lt;dd&gt;Single origin&lt;/dd&gt;
+  &lt;dt&gt;Roaster&lt;/dt&gt;
+  &lt;dd&gt;&lt;a href=&quot;https://www.crankhousecoffee.co.uk/&quot;&gt;Crankhouse Coffee&lt;/a&gt;, Exeter&lt;/dd&gt;
 &lt;/dl&gt;
 
 &lt;hr /&gt;

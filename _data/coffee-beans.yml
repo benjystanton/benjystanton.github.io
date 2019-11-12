@@ -11,3 +11,29 @@
   roaster: Clifton Coffee Roaster
   roaster-location: Bristol
   roaster-url: https://cliftoncoffee.co.uk/
+  buy-again: maybe
+
+- name: Peru Cajamarca Regional Select
+  tasting-notes:
+    - Tangerine
+    - Maple Syrup
+    - Macadamia
+  process: Washed
+  type: Single origin
+  roaster: Clifton Coffee Roaster
+  roaster-location: Bristol
+  roaster-url: https://cliftoncoffee.co.uk/
+  buy-again: definitely
+# https://www.instagram.com/p/BzxFtZVhB_7/
+
+- name: Finca Chayote
+  tasting-notes:
+    - Sweet Pineapple
+    - Cocoa Finish
+  process: Natural
+  type: Single origin
+  roaster: Crankhouse Coffee
+  roaster-location: Exeter
+  roaster-url: https://www.crankhousecoffee.co.uk/
+  buy-again: definitely
+# https://www.instagram.com/p/BwzUUJZFcO8/
