@@ -5,9 +5,49 @@
     <description>Interaction Designer. Family Man. Music Snob.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 12 Nov 2019 21:12:04 +0000</pubDate>
-    <lastBuildDate>Tue, 12 Nov 2019 21:12:04 +0000</lastBuildDate>
+    <pubDate>Thu, 14 Nov 2019 19:55:45 +0000</pubDate>
+    <lastBuildDate>Thu, 14 Nov 2019 19:55:45 +0000</lastBuildDate>
     <generator>Jekyll v3.8.4</generator>
+    
+      <item>
+        <title>What have I accomplished this decade?</title>
+        <description>&lt;p class=&quot;lede&quot;&gt;A list of big things that I’ve done over the past 10 years. Inspired by &lt;a href=&quot;https://twitter.com/stfutony/status/1193954501620690944&quot;&gt;that tweet&lt;/a&gt;. Apologies for the self-congratulatory post.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Got married&lt;/li&gt;
+  &lt;li&gt;Had our first baby&lt;/li&gt;
+  &lt;li&gt;Had to have our dog put down (RIP Harry)&lt;/li&gt;
+  &lt;li&gt;Worked at a design agency&lt;/li&gt;
+  &lt;li&gt;Moved house&lt;/li&gt;
+  &lt;li&gt;Had our second baby&lt;/li&gt;
+  &lt;li&gt;Went freelance&lt;/li&gt;
+  &lt;li&gt;Started a design meet-up&lt;/li&gt;
+  &lt;li&gt;Became a 2 car family&lt;/li&gt;
+  &lt;li&gt;Got my first proper UX role&lt;/li&gt;
+  &lt;li&gt;Climbed the Welsh 3 peaks&lt;/li&gt;
+  &lt;li&gt;Had our third baby&lt;/li&gt;
+  &lt;li&gt;Decided to stop having babies&lt;/li&gt;
+  &lt;li&gt;Became a civil servant&lt;/li&gt;
+  &lt;li&gt;Hired a whole design team&lt;/li&gt;
+  &lt;li&gt;Started working at Swirrl&lt;/li&gt;
+  &lt;li&gt;Got my first proper remote job&lt;/li&gt;
+  &lt;li&gt;Became a 1 car family&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Joking aside… deciding to stop having kids was probably the hardest time for us. Even though we always planned to have 3, when we reached that point it was mentally very difficult.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Anyway, here’s a similar post I did &lt;a href=&quot;https://www.benjystanton.co.uk/blog/30-things-done-before-im-30/&quot;&gt;when I reached thirty&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 14 Nov 2019 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/what-have-i-accomplished-this-decade/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/what-have-i-accomplished-this-decade/</guid>
+        
+        
+        <category>personal</category>
+        
+      </item>
     
       <item>
         <title>Accessibility checklist</title>
@@ -529,29 +569,6 @@ Posted from Cardiff, United Kingdom
         
         
         <category>design</category>
-        
-      </item>
-    
-      <item>
-        <title>Co-working spaces in Cardiff centre</title>
-        <description>&lt;p class=&quot;text-small&quot;&gt;Updated on 1 November 2019&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.tramshedtech.co.uk/cowork/&quot;&gt;Tramshed&lt;/a&gt; – £15 for a day pass, first time is free&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.tripadvisor.co.uk/Restaurant_Review-g186460-d13395160-Reviews-The_Little_Man_Garage-Cardiff_South_Wales_Wales.html&quot;&gt;Little Man Garage&lt;/a&gt; – Unlimited coffees/teas for £7, closes at 3pm, proper coffee, not strictly co-working though&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.indycube.community/places&quot;&gt;Indycube&lt;/a&gt; – Multiple locations in Cardiff, £10 per month for 1 day per month&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://labs.uk.barclays/locations/cardiff-en&quot;&gt;Cardiff Eagle Lab&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Cardiff Central Library&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Disclaimer, I’ve not tried all of these (yet). But, thanks to people for responding to &lt;a href=&quot;https://twitter.com/benjystanton/status/1140913131969011713&quot;&gt;my tweet asking for tips&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 19 Jun 2019 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/blog/co-working-spaces-in-cardiff-centre/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/co-working-spaces-in-cardiff-centre/</guid>
-        
-        
-        <category>remote-working</category>
         
       </item>
     
