@@ -6,7 +6,7 @@ permalink: /about/
 
 <p class="lede">My name is Benjy Stanton and I’m an interaction designer at <a href="http://www.swirrl.com/">Swirrl</a>.</p>
 
-Previously, I worked at [Office for National Statistics](https://www.ons.gov.uk/). I care about user needs, content, accessibility, typography and the web.
+I care about user needs, accessibility, data and the open web.
 
 ## Experience
 
