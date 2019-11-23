@@ -24,6 +24,7 @@ Here are some sites that list a range of design workshop methods in one place…
 - [Design Kit methods](http://www.designkit.org/methods/)
 - [Gamestorming](https://gamestorming.com/)
 - [Liberating Structures](http://www.liberatingstructures.com/)
+- [Think Design's research methods](https://think.design/capabilities/user-design-research/) (via [Rob Whiting](https://twitter.com/whitingx))
 
 ## Individual design workshops
 
