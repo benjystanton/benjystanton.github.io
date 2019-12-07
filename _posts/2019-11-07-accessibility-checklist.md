@@ -101,3 +101,8 @@ Read this blog post about [making charts more accessible]({{ site.url }}/blog/a-
 
 *   [WAVE Browser Extension](https://wave.webaim.org/extension/)
 *   [Lighthouse](https://developers.google.com/web/tools/lighthouse)
+
+## Related links
+
+*   [Checklist to avoid the most common accessibility errors](https://www.brucelawson.co.uk/2019/checklist-to-avoid-the-most-common-accessibility-errors/)
+*   [The intersection of markup, content and context in accessibility](https://www.24a11y.com/2019/the-intersection-of-markup-content-and-context-in-accessibility/)
