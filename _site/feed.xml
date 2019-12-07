@@ -5,8 +5,8 @@
     <description>Interaction Designer. Family Man. Music Snob.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 23 Nov 2019 08:10:21 +0000</pubDate>
-    <lastBuildDate>Sat, 23 Nov 2019 08:10:21 +0000</lastBuildDate>
+    <pubDate>Sat, 07 Dec 2019 15:39:02 +0000</pubDate>
+    <lastBuildDate>Sat, 07 Dec 2019 15:39:02 +0000</lastBuildDate>
     <generator>Jekyll v3.8.4</generator>
     
       <item>
@@ -168,6 +168,13 @@
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://wave.webaim.org/extension/&quot;&gt;WAVE Browser Extension&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://developers.google.com/web/tools/lighthouse&quot;&gt;Lighthouse&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;related-links&quot;&gt;Related links&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.brucelawson.co.uk/2019/checklist-to-avoid-the-most-common-accessibility-errors/&quot;&gt;Checklist to avoid the most common accessibility errors&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.24a11y.com/2019/the-intersection-of-markup-content-and-context-in-accessibility/&quot;&gt;The intersection of markup, content and context in accessibility&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Thu, 07 Nov 2019 00:00:00 +0000</pubDate>
@@ -408,18 +415,6 @@ Posted from Cardiff, United Kingdom
 
 &lt;hr /&gt;
 
-&lt;h2&gt;&lt;a href=&quot;https://cliftoncoffee.co.uk/shop/coffee/el-salvador-pablo/&quot;&gt;El Salvador San Pablo&lt;/a&gt;&lt;/h2&gt;
-&lt;dl&gt;
-  &lt;dt&gt;Process&lt;/dt&gt;
-  &lt;dd&gt;Washed&lt;/dd&gt;
-  &lt;dt&gt;Tasting notes&lt;/dt&gt;
-  &lt;dd&gt;Raisin, Pecan, Redcurrant&lt;/dd&gt;
-  &lt;dt&gt;Type&lt;/dt&gt;
-  &lt;dd&gt;Single origin&lt;/dd&gt;
-  &lt;dt&gt;Roaster&lt;/dt&gt;
-  &lt;dd&gt;&lt;a href=&quot;https://cliftoncoffee.co.uk/&quot;&gt;Clifton Coffee Roaster&lt;/a&gt;, Bristol&lt;/dd&gt;
-&lt;/dl&gt;
-
 &lt;h2&gt;Peru Cajamarca Regional Select&lt;/h2&gt;
 &lt;dl&gt;
   &lt;dt&gt;Process&lt;/dt&gt;
@@ -442,6 +437,18 @@ Posted from Cardiff, United Kingdom
   &lt;dd&gt;Single origin&lt;/dd&gt;
   &lt;dt&gt;Roaster&lt;/dt&gt;
   &lt;dd&gt;&lt;a href=&quot;https://www.crankhousecoffee.co.uk/&quot;&gt;Crankhouse Coffee&lt;/a&gt;, Exeter&lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;h2&gt;&lt;a href=&quot;https://www.crukafe.com/products/merchants-blend&quot;&gt;Organic Merchant's Blend&lt;/a&gt;&lt;/h2&gt;
+&lt;dl&gt;
+  &lt;dt&gt;Process&lt;/dt&gt;
+  &lt;dd&gt;Not sure&lt;/dd&gt;
+  &lt;dt&gt;Tasting notes&lt;/dt&gt;
+  &lt;dd&gt;Dark Chocolate, Raisin, Nutmeg&lt;/dd&gt;
+  &lt;dt&gt;Type&lt;/dt&gt;
+  &lt;dd&gt;Multi origin&lt;/dd&gt;
+  &lt;dt&gt;Roaster&lt;/dt&gt;
+  &lt;dd&gt;&lt;a href=&quot;https://www.crukafe.com/&quot;&gt;Cru Kafe&lt;/a&gt;, London&lt;/dd&gt;
 &lt;/dl&gt;
 
 &lt;hr /&gt;
