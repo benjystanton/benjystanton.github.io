@@ -1,5 +1,29 @@
 ---
 
-- url: https://www.theguardian.com/business/2019/nov/21/businesses-criticise-labours-command-and-control-manifesto-policies
-
 - url: https://jakequits.com/
+  description: simple design, clever use of inline SVGs
+  type: Pie chart
+
+- url: https://www.theguardian.com/business/2019/nov/21/businesses-criticise-labours-command-and-control-manifesto-policies
+  description: Simple, non interactive chart that help you understand the text (part to whole)
+  type: Stacked bar chart
+
+- url: https://www.theguardian.com/politics/ng-interactive/2019/nov/22/target-seats-2019-general-election-interactive
+  description: complex interactive, but numbered labels to link map locations with supporting content
+  type: Map
+
+- url: https://mapit.mysociety.org/area/2553.html
+  description: simple display of admin geography and related-ness
+  type: Map
+
+- url: https://verify-local-patterns.herokuapp.com/service-patterns/parking-permit/example-service/parking-zone-map
+  description: good example of providing the useful content from the map in an alternative format
+  type: Map
+
+- url: https://twitter.com/pollycurtis/status/1199590442775568389
+  description: clever way to visualise the first page that climate is mentioned in the part manifestos
+  type: Information design
+
+- url: https://www.tasteatlas.com/europe/soups
+  description: nice way to find and visualise information on a map
+  type: Map
