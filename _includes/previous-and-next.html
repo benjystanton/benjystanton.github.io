@@ -1,8 +1,8 @@
 <div class="previous-and-next row">
 	<div class="column half padding-right--s margin-bottom--0">
-    {% if page.previous.url %}<p class="text-small margin-bottom--0"><a href="{{page.previous.url}}">Previous<br />{{page.previous.title | truncatewords: 5 }}</a></p>{% endif %}
+    {% if page.previous.url %}<p class="text-small margin-bottom--0"><a href="{{page.previous.url}}"><span aria-hidden="true">&larr;</span> Previous<br />{{page.previous.title | truncatewords: 5 }}</a></p>{% endif %}
   </div>
 	<div class="column half padding-left--s margin-bottom--0">
-    {% if page.next.url %}<p class="text-small align-right margin-bottom--0"><a href="{{page.next.url}}">Next<br />{{page.next.title | truncatewords: 5 }}</a></p>{% endif %}
+    {% if page.next.url %}<p class="text-small align-right margin-bottom--0"><a href="{{page.next.url}}">Next <span aria-hidden="true">&rarr;</span><br />{{page.next.title | truncatewords: 5 }}</a></p>{% endif %}
   </div>
 </div>
