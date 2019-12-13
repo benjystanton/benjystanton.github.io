@@ -2,23 +2,47 @@
 layout: default
 ---
 
-<div itemscope itemtype="http://schema.org/Person" class="h-card">
+<script type="application/json">
+[
+    {
+        "type": "h-card",
+        "properties": {
+            "name": "Benjy Stanton",
+            "job-title": "interaction designer",
+            "org": "Swirrl",
+            "locality": "Swansea",
+            "photo": "{{ site.url }}/assets/benjy-stanton.jpg",
+            "email": "mailto:benjystanton@gmail.com",
+            "url": [
+                "{{ site.url }}",
+                "https://twitter.com/benjystanton",
+                "https://github.com/benjystanton/",
+                "https://www.instagram.com/benjystanton/",
+                "https://digitalblog.ons.gov.uk/author/benjy/"
+            ]
+        }
+    }
+]
+</script>
+
+<div>
 
   <article class="post-content" role="article">
 
-    <h1 class="post-title">Hi, my name is <span itemprop="name" class="p-name">Benjy Stanton</span> and I’m an <span itemprop="jobTitle" class="p-job-title">interaction designer</span></h1>
+    <h1 class="post-title">Hi, my name is Benjy Stanton and I’m an interaction designer</h1>
 
-    <p class="lede p-note">I work at <span itemprop="worksFor" class="p-org" aria-label="Swirl">Swirrl</span> and I live in <span itemprop="homeLocation" class="p-locality">Swansea</span>.</p>
-    <img class="u-photo image-m margin-bottom--0" src="{{ site.url }}/assets/benjy-stanton.jpg" itemprop="image" alt="Benjy Stanton's profile pic." height="50" width="50">
+    <p class="lede">I work at <span aria-label="Swirl">Swirrl</span> and I live in Swansea.</p>
+    <img class="image-m margin-bottom--0" src="{{ site.url }}/assets/benjy-stanton.jpg" alt="Benjy Stanton's profile pic." height="50" width="50">
+
     <p class="margin-top--s"><a class="link--next" href="/blog">Read my blog <span aria-hidden="true">&rarr;</span></a></p>
 
     <h2>Find me on the web</h2>
     <ul>
-      <li><a class="u-url" href="https://twitter.com/benjystanton" itemprop="url" rel="me">Twitter</a></li>
-      <li><a class="u-url" href="https://github.com/benjystanton/" itemprop="url" rel="me">Github</a></li>
-      <li><a class="u-url" href="https://www.instagram.com/benjystanton/" itemprop="url" rel="me">Instagram</a></li>
-      <li><a class="u-email" href="mailto:benjystanton@gmail.com" itemprop="email" rel="me">Email</a></li>
-      <li><a class="u-url" href="https://digitalblog.ons.gov.uk/author/benjy/" itemprop="url" rel="me">ONS digital blog</a></li>
+      <li><a href="https://twitter.com/benjystanton" rel="me">Twitter</a></li>
+      <li><a href="https://github.com/benjystanton/" rel="me">Github</a></li>
+      <li><a href="https://www.instagram.com/benjystanton/" rel="me">Instagram</a></li>
+      <li><a class="u-email" href="mailto:benjystanton@gmail.com" rel="me">Email</a></li>
+      <li><a href="https://digitalblog.ons.gov.uk/author/benjy/" rel="me">ONS digital blog</a></li>
     </ul>
 
   </article>
