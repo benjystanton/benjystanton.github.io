@@ -34,6 +34,7 @@ Here are some links to specific design workshop methods…
 - [Prioritization matrix](https://www.nngroup.com/articles/prioritization-matrices/)
 - [Empathy map](https://www.nngroup.com/articles/empathy-mapping/)
 - [How might we](http://www.designkit.org/methods/3)
+- [Cards Against How Might We](https://medium.com/digital-services-nova-scotia/introducing-cards-against-how-might-we-d968a164a3ea)
 - [Job stories](https://www.intercom.com/blog/accidentally-invented-job-stories/)
 - [Service blueprint](https://www.interaction-design.org/literature/article/service-blueprints-communicating-the-design-of-services)
 - [Stakeholder mapping](https://www.interaction-design.org/literature/article/map-the-stakeholders)
