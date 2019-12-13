@@ -132,3 +132,10 @@
   month: November
   from: Swansea
   to: Cardiff Central
+
+- destination: Swirrl
+  city: Manchester
+  category: Remote work
+  month: December
+  from: Swansea
+  to: Manchester Piccadilly
