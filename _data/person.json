@@ -1,0 +1,17 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Benjy Stanton",
+    "jobTitle": "Interaction Designer",
+    "worksFor": "Swirrl",
+    "homeLocation": "Swansea",
+    "email": "mailto:benjystanton@gmail.com",
+    "image": "{{ site.url }}/assets/benjy-stanton.jpg",
+    "url": [
+        "{{ site.url }}",
+        "https://twitter.com/benjystanton",
+        "https://github.com/benjystanton/",
+        "https://www.instagram.com/benjystanton/",
+        "https://digitalblog.ons.gov.uk/author/benjy/"
+    ]
+}
