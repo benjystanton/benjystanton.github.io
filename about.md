@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<p class="lede">My name is Benjy Stanton and I’m an interaction designer at <a href="http://www.swirrl.com/">Swirrl</a>.</p>
+<p class="lede">My name is Benjy Stanton and I’m an interaction designer at <a href="http://www.swirrl.com/" aria-label="Swirl">Swirrl</a>.</p>
 
 I care about user needs, accessibility, data and the open web.
 
