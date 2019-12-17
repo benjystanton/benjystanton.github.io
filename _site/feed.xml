@@ -5,8 +5,8 @@
     <description>Interaction Designer. Family Man. Music Snob.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 13 Dec 2019 22:29:17 +0000</pubDate>
-    <lastBuildDate>Fri, 13 Dec 2019 22:29:17 +0000</lastBuildDate>
+    <pubDate>Tue, 17 Dec 2019 18:02:53 +0000</pubDate>
+    <lastBuildDate>Tue, 17 Dec 2019 18:02:53 +0000</lastBuildDate>
     <generator>Jekyll v3.8.4</generator>
     
       <item>
@@ -47,6 +47,8 @@
         <category>research</category>
         
         <category>ux</category>
+        
+        <category>data</category>
         
       </item>
     
@@ -101,7 +103,6 @@
   &lt;li&gt;Don’t skip heading levels&lt;/li&gt;
   &lt;li&gt;Use semantic mark-up (for example, headings, lists and blockquotes)&lt;/li&gt;
   &lt;li&gt;Links should look like links (for example, blue and underlined)&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://developer.paciellogroup.com/blog/2010/11/using-the-html-title-attribute/&quot;&gt;Don’t rely on link title attribute&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Lines should be less than 80 characters wide&lt;/li&gt;
   &lt;li&gt;Add suitable vertical spacing between lines and paragraphs&lt;/li&gt;
   &lt;li&gt;Avoid italics, block capitals or justified text&lt;/li&gt;
@@ -114,6 +115,8 @@
 &lt;ul&gt;
   &lt;li&gt;Use plain English&lt;/li&gt;
   &lt;li&gt;Explain unusual words and jargon&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://developer.paciellogroup.com/blog/2019/03/short-note-the-abbreviation-appreciation-society/&quot;&gt;Explain abbreviations in the first instance&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://developer.paciellogroup.com/blog/2010/11/using-the-html-title-attribute/&quot;&gt;Don’t rely on link title attribute&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Put the most important information at the start&lt;/li&gt;
   &lt;li&gt;Explain what a user has to do in a clear and concise way&lt;/li&gt;
   &lt;li&gt;Use headings and lists to break the content into chunks&lt;/li&gt;
@@ -527,7 +530,7 @@ Posted from Cardiff, United Kingdom
     
       <item>
         <title>Design workshops</title>
-        <description>&lt;p class=&quot;text-small&quot;&gt;Updated on 1 November 2019&lt;/p&gt;
+        <description>&lt;p class=&quot;text-small&quot;&gt;Updated on 17 December 2019&lt;/p&gt;
 
 &lt;p class=&quot;lede&quot;&gt;I’m a big fan of structured/facilitated design workshops. They can be incredibly useful for user research sessions, co-designing services with teams, and stakeholder meetings.&lt;/p&gt;
 
@@ -537,7 +540,7 @@ Posted from Cardiff, United Kingdom
 
 &lt;h2 id=&quot;design-workshop-collections&quot;&gt;Design workshop collections&lt;/h2&gt;
 
-&lt;p&gt;Here are some sites that list a range of design workshop methods in one place…&lt;/p&gt;
+&lt;p&gt;Here are some sites that list a range of design workshops, activities and exercises…&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://methods.18f.gov/&quot;&gt;18F methods&lt;/a&gt;&lt;/li&gt;
@@ -548,6 +551,8 @@ Posted from Cardiff, United Kingdom
   &lt;li&gt;&lt;a href=&quot;https://gamestorming.com/&quot;&gt;Gamestorming&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://www.liberatingstructures.com/&quot;&gt;Liberating Structures&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://think.design/capabilities/user-design-research/&quot;&gt;Think Design’s research methods&lt;/a&gt; (via &lt;a href=&quot;https://twitter.com/whitingx&quot;&gt;Rob Whiting&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://teamprompts.com/#/measurement&quot;&gt;Team prompts&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://dropbox.design/article/mental-models-for-designers&quot;&gt;Mental models for designers&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;individual-design-workshops&quot;&gt;Individual design workshops&lt;/h2&gt;
