@@ -2,12 +2,12 @@
   {
     "url": "https://jakequits.com/",
     "description": "simple design, clever use of inline SVGs",
-    "type": "Pie chart"
+    "type": "Chart"
   },
   {
     "url": "https://www.theguardian.com/business/2019/nov/21/businesses-criticise-labours-command-and-control-manifesto-policies",
     "description": "Simple, non interactive chart that help you understand the text (part to whole)",
-    "type": "Stacked bar chart"
+    "type": "Chart"
   },
   {
     "url": "https://www.theguardian.com/politics/ng-interactive/2019/nov/22/target-seats-2019-general-election-interactive",
@@ -33,5 +33,10 @@
     "url": "https://www.tasteatlas.com/europe/soups",
     "description": "nice way to find and visualise information on a map",
     "type": "Map"
+  },
+  {
+    "url": "https://twitter.com/acotgreave/status/1205276134621040640?s=20",
+    "description": "Nice combination tables, bar charts and time series",
+    "type": "Chart"
   }
 ]
