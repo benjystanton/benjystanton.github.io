@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Weeknotes – series 03 episode 05
-categories: weeknotes
+categories: weeknotes data
 ---
 
 ## Wellcome data labs

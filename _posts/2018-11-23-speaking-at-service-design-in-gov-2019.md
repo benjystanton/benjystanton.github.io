@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Speaking at Service Design in Gov 2019
-categories: nablopomo
+categories: nablopomo data
 tag: NaBloPoMo2018
 ---
 

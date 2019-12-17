@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Weeknotes – series 03 episode 01
-categories: weeknotes
+categories: weeknotes data
 image: view-from-the-office-square.jpg
 image-alt: St Peter's Square in Manchester, you can see old buildings, people walking and trams
 ---

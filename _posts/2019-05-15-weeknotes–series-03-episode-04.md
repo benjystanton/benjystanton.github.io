@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Weeknotes – series 03 episode 04
-categories: weeknotes
+categories: weeknotes data
 ---
 
 <p class="lede">This week I have been mostly thinking about user-centred design and how to apply it when designing, measuring and improving data services (again).</p>

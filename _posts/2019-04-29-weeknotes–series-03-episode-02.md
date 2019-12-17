@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Weeknotes – series 03 episode 02
-categories: weeknotes
+categories: weeknotes data
 image: my-home-office.jpg
 image-alt: A computer desk in a white room. There’s an iMac on the desk and posters on the walls.
 ---

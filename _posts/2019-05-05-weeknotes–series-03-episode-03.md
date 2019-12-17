@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Weeknotes – series 03 episode 03
-categories: weeknotes
+categories: weeknotes data
 ---
 
 ## Mapping data ecosystems
