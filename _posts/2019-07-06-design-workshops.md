@@ -5,7 +5,7 @@ categories: design nablopomo
 tag: NaBloPoMo2019
 ---
 
-<p class="text-small">Updated on 1 November 2019</p>
+<p class="text-small">Updated on 17 December 2019</p>
 
 <p class="lede">I’m a big fan of structured/facilitated design workshops. They can be incredibly useful for user research sessions, co-designing services with teams, and stakeholder meetings.</p>
 
@@ -15,7 +15,7 @@ But, honestly, practising how to run these workshops, and being able to pick and
 
 ## Design workshop collections
 
-Here are some sites that list a range of design workshop methods in one place…
+Here are some sites that list a range of design workshops, activities and exercises…
 
 - [18F methods](https://methods.18f.gov/)
 - [Atlassian team playbook](https://www.atlassian.com/team-playbook/plays)
@@ -25,6 +25,8 @@ Here are some sites that list a range of design workshop methods in one place…
 - [Gamestorming](https://gamestorming.com/)
 - [Liberating Structures](http://www.liberatingstructures.com/)
 - [Think Design's research methods](https://think.design/capabilities/user-design-research/) (via [Rob Whiting](https://twitter.com/whitingx))
+- [Team prompts](https://teamprompts.com/#/measurement)
+- [Mental models for designers](https://dropbox.design/article/mental-models-for-designers)
 
 ## Individual design workshops
 
