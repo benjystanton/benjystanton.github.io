@@ -27,6 +27,7 @@ Here are some sites that list a range of design workshops, activities and exerci
 - [Think Design's research methods](https://think.design/capabilities/user-design-research/) (via [Rob Whiting](https://twitter.com/whitingx))
 - [Team prompts](https://teamprompts.com/#/measurement)
 - [Mental models for designers](https://dropbox.design/article/mental-models-for-designers)
+- [Design Games](https://www.designgames.com.au/) (via [Nic Price](https://twitter.com/nicprice))
 
 ## Individual design workshops
 
@@ -44,3 +45,4 @@ Here are some links to specific design workshop methods…
 - [User journey map](https://www.nngroup.com/articles/customer-journey-mapping/)
 - [Storyboard](http://www.designkit.org/methods/35)
 - [Personas](https://methods.18f.gov/decide/personas/)
+- [Task Model](https://www.cxpartners.co.uk/our-thinking/task-model-cheat-sheet-pdf/) (via [Nic Price](https://twitter.com/nicprice))
