@@ -13,7 +13,6 @@ tag: NaBloPoMo2019
 *   Don't skip heading levels
 *   Use semantic mark-up (for example, headings, lists and blockquotes)
 *   Links should look like links (for example, blue and underlined)
-*   [Don't rely on link title attribute](https://developer.paciellogroup.com/blog/2010/11/using-the-html-title-attribute/)
 *   Lines should be less than 80 characters wide
 *   Add suitable vertical spacing between lines and paragraphs
 *   Avoid italics, block capitals or justified text
@@ -24,6 +23,8 @@ tag: NaBloPoMo2019
 
 *   Use plain English
 *   Explain unusual words and jargon
+*   [Explain abbreviations in the first instance](https://developer.paciellogroup.com/blog/2019/03/short-note-the-abbreviation-appreciation-society/)
+*   [Don't rely on link title attribute](https://developer.paciellogroup.com/blog/2010/11/using-the-html-title-attribute/)
 *   Put the most important information at the start
 *   Explain what a user has to do in a clear and concise way
 *   Use headings and lists to break the content into chunks
