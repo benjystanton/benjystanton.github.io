@@ -13,3 +13,7 @@ categories: remote-working
 - Cardiff Central Library
 
 Disclaimer, I've not tried all of these (yet). But, thanks to people for responding to [my tweet asking for tips](https://twitter.com/benjystanton/status/1140913131969011713).
+
+## Related links
+
+[The Coworking Spaces of South Wales (List & Map)](https://seono.co.uk/south-wales-coworking-spaces-map-list/)
