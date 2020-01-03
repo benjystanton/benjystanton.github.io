@@ -38,5 +38,10 @@
     "url": "https://twitter.com/acotgreave/status/1205276134621040640?s=20",
     "description": "Nice combination tables, bar charts and time series",
     "type": "Chart"
+  },
+  {
+    "url": "https://medium.economist.com/a-year-in-graphic-detail-d1825b28e06f",
+    "description": "Annual round-up of FT data viz",
+    "type": "Chart"
   }
 ]
