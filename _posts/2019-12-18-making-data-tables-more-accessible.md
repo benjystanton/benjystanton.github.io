@@ -50,3 +50,4 @@ We also worked with accessibility specialists at the [Digital Accessibility Cent
 - [Use short content style to save space by GOV.UK](https://www.gov.uk/guidance/content-design/tables#style)
 - [Creating Accessible Tables by WebAIM](https://webaim.org/techniques/tables/data)
 - [Everything that Adrian Roselli has written about tables](https://adrianroselli.com/tag/tables)
+- [Inclusive Components: Data Tables](https://inclusive-components.design/data-tables/)
