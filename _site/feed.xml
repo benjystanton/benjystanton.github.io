@@ -5,9 +5,49 @@
     <description>Interaction Designer. Family Man. Music Snob.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 03 Jan 2020 11:50:56 +0000</pubDate>
-    <lastBuildDate>Fri, 03 Jan 2020 11:50:56 +0000</lastBuildDate>
+    <pubDate>Thu, 09 Jan 2020 19:01:37 +0000</pubDate>
+    <lastBuildDate>Thu, 09 Jan 2020 19:01:37 +0000</lastBuildDate>
     <generator>Jekyll v3.8.4</generator>
+    
+      <item>
+        <title>Some personal goals for 2020</title>
+        <description>&lt;p class=&quot;lede&quot;&gt;Here are some low key, totally achievable personal things for 2020. I'm ignoring the first few days of January, as they are still part of the Christmas hols.&lt;/p&gt;
+
+&lt;aside&gt;Also, this is my 150th blog post, yay me.&lt;/aside&gt;
+
+&lt;h2 id=&quot;money&quot;&gt;Money&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Finish paying off my student loan&lt;/li&gt;
+  &lt;li&gt;Don’t take on any short term debt (like credit cards or overdrafts)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;personal&quot;&gt;Personal&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Take more steps than in 2019 (more than 7000 steps per day on average)&lt;/li&gt;
+  &lt;li&gt;Only eat meat 1 day a week (that means I have a 52 meat budget for the year!)&lt;/li&gt;
+  &lt;li&gt;Weigh less than 13 stone 7 pounds (on average)&lt;/li&gt;
+  &lt;li&gt;No flights&lt;/li&gt;
+  &lt;li&gt;Spend at least 1 hour a week playing video games with the kids&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;housegarden&quot;&gt;House/Garden&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Get the decking sorted&lt;/li&gt;
+  &lt;li&gt;Plant 5 trees&lt;/li&gt;
+  &lt;li&gt;Grow some vegetables (start with the pumpkin seeds from Halloween)&lt;/li&gt;
+  &lt;li&gt;Plant more wild flowers&lt;/li&gt;
+  &lt;li&gt;Let the lawn grow at the bottom of the garden (again)&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/some-personal-goals-for-2020/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/some-personal-goals-for-2020/</guid>
+        
+        
+        <category>personal</category>
+        
+      </item>
     
       <item>
         <title>Making data tables more accessible</title>
@@ -223,6 +263,7 @@
 &lt;ul&gt;
   &lt;li&gt;Check design is functional when using a keyboard to navigate&lt;/li&gt;
   &lt;li&gt;Check it’s visually apparent which page element has current keyboard focus&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ishadeed.com/article/clickable-area/&quot;&gt;Make clickable areas (target size) at least 44 pixels&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Complex interface components, like sliders, should be avoided when simple solutions, like a text input, can be used instead&lt;/li&gt;
   &lt;li&gt;If an experience cannot be made accessible, create another route for users to get that information&lt;/li&gt;
 &lt;/ul&gt;
@@ -578,24 +619,6 @@ Posted from Cardiff, United Kingdom
         
         
         <category>nablopomo</category>
-        
-      </item>
-    
-      <item>
-        <title>Tiny Rebel beer mat</title>
-        <description>&lt;figure class=&quot;margin-bottom--xs&quot;&gt;
-  &lt;img src=&quot;http://localhost:4000/assets/tiny-rebel-beer-mat.jpeg&quot; alt=&quot;Round beer mat pegged on display&quot; /&gt;
-  &lt;figcaption class=&quot;margin-bottom--0 margin-top--xs&quot;&gt;
-    &lt;h1 class=&quot;heading-large margin-bottom--0&quot;&gt;Tiny Rebel beer mat&lt;/h1&gt;
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-</description>
-        <pubDate>Sat, 26 Oct 2019 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/blog/tiny-rebel-beer-mat/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/tiny-rebel-beer-mat/</guid>
-        
-        
-        <category>images</category>
         
       </item>
     
