@@ -55,6 +55,7 @@ Read this blog post about [making charts more accessible]({{ site.url }}/blog/a-
 
 *   Check design is functional when using a keyboard to navigate
 *   Check it's visually apparent which page element has current keyboard focus
+*   [Make clickable areas (target size) at least 44 pixels](https://ishadeed.com/article/clickable-area/)
 *   Complex interface components, like sliders, should be avoided when simple solutions, like a text input, can be used instead
 *   If an experience cannot be made accessible, create another route for users to get that information
 

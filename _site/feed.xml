@@ -5,8 +5,8 @@
     <description>Interaction Designer. Family Man. Music Snob.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 18 Dec 2019 19:52:16 +0000</pubDate>
-    <lastBuildDate>Wed, 18 Dec 2019 19:52:16 +0000</lastBuildDate>
+    <pubDate>Fri, 03 Jan 2020 11:50:56 +0000</pubDate>
+    <lastBuildDate>Fri, 03 Jan 2020 11:50:56 +0000</lastBuildDate>
     <generator>Jekyll v3.8.4</generator>
     
       <item>
@@ -65,6 +65,7 @@
   &lt;li&gt;&lt;a href=&quot;https://www.gov.uk/guidance/content-design/tables#style&quot;&gt;Use short content style to save space by GOV.UK&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://webaim.org/techniques/tables/data&quot;&gt;Creating Accessible Tables by WebAIM&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://adrianroselli.com/tag/tables&quot;&gt;Everything that Adrian Roselli has written about tables&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://inclusive-components.design/data-tables/&quot;&gt;Inclusive Components: Data Tables&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Wed, 18 Dec 2019 00:00:00 +0000</pubDate>
@@ -288,6 +289,7 @@
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.brucelawson.co.uk/2019/checklist-to-avoid-the-most-common-accessibility-errors/&quot;&gt;Checklist to avoid the most common accessibility errors&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.24a11y.com/2019/the-intersection-of-markup-content-and-context-in-accessibility/&quot;&gt;The intersection of markup, content and context in accessibility&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://fossheim.io/writing/posts/accessible-design-tools/&quot;&gt;Tools for designing good-looking accessible interfaces&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Thu, 07 Nov 2019 00:00:00 +0000</pubDate>
