@@ -5,9 +5,47 @@
     <description>Interaction Designer. Family Man. Music Snob.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 09 Jan 2020 19:01:37 +0000</pubDate>
-    <lastBuildDate>Thu, 09 Jan 2020 19:01:37 +0000</lastBuildDate>
+    <pubDate>Fri, 10 Jan 2020 14:06:45 +0000</pubDate>
+    <lastBuildDate>Fri, 10 Jan 2020 14:06:45 +0000</lastBuildDate>
     <generator>Jekyll v3.8.4</generator>
+    
+      <item>
+        <title>Accessible search form mark-up</title>
+        <description>&lt;p class=&quot;lede&quot;&gt;A brief checklist for marking-up an accessible search form.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Add &lt;code class=&quot;highlighter-rouge&quot;&gt;role=&quot;search&quot;&lt;/code&gt; landmark to the &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;form&amp;gt;&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;Associate the &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;label&amp;gt;&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;input&amp;gt;&lt;/code&gt; using &lt;code class=&quot;highlighter-rouge&quot;&gt;for=&quot;…&quot;&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;id=&quot;…&quot;&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;Add &lt;code class=&quot;highlighter-rouge&quot;&gt;type=&quot;search&quot;&lt;/code&gt; to the &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;input&amp;gt;&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;Add &lt;code class=&quot;highlighter-rouge&quot;&gt;type=&quot;submit&quot;&lt;/code&gt; to the &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;button&amp;gt;&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;Optionally, associate the &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;input&amp;gt;&lt;/code&gt; with any help text using &lt;code class=&quot;highlighter-rouge&quot;&gt;aria-describedby=&quot;…&quot;&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;example&quot;&gt;Example&lt;/h2&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;form role=&quot;search&quot;&amp;gt;
+    &amp;lt;label for=&quot;search&quot;&amp;gt;Search&amp;lt;/label&amp;gt;
+    &amp;lt;input id=&quot;search&quot; type=&quot;search&quot; aria-describedby=&quot;search-help-text&quot;&amp;gt;
+    &amp;lt;button type=&quot;submit&quot;&amp;gt;Search&amp;lt;/button&amp;gt;
+    &amp;lt;p id=&quot;search-help-text&quot;&amp;gt;Search by town or postcode.&amp;lt;/p&amp;gt;
+&amp;lt;/form&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;more-info&quot;&gt;More info&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://design-system.service.gov.uk/components/text-input/&quot;&gt;Text input components – GOV.UK Design System&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://adrianroselli.com/2020/01/my-priority-of-methods-for-labeling-a-control.html&quot;&gt;My Priority of Methods for Labeling a Control – Adrian Roselli&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/accessible-search-form-mark-up/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/accessible-search-form-mark-up/</guid>
+        
+        
+        <category>accessibility</category>
+        
+      </item>
     
       <item>
         <title>Some personal goals for 2020</title>
@@ -554,69 +592,6 @@ Posted from Cardiff, United Kingdom
         
         
         <category>images</category>
-        
-        <category>nablopomo</category>
-        
-      </item>
-    
-      <item>
-        <title>Coffee beans</title>
-        <description>
-&lt;p class=&quot;lede&quot;&gt;A list of specialty coffees that I’ve tried at home, so I can remember which ones I like. Thanks to the excellent &lt;a href=&quot;https://www.squarepeg.org.uk/&quot;&gt;Square Peg&lt;/a&gt; for being my supplier of choice.&lt;/p&gt;
-
-&lt;p&gt;&lt;span class=&quot;big-number&quot;&gt;
-3
-&lt;/span&gt;
-&lt;span&gt; Coffees tried&lt;/span&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2&gt;Peru Cajamarca Regional Select&lt;/h2&gt;
-&lt;dl&gt;
-  &lt;dt&gt;Process&lt;/dt&gt;
-  &lt;dd&gt;Washed&lt;/dd&gt;
-  &lt;dt&gt;Tasting notes&lt;/dt&gt;
-  &lt;dd&gt;Tangerine, Maple Syrup, Macadamia&lt;/dd&gt;
-  &lt;dt&gt;Type&lt;/dt&gt;
-  &lt;dd&gt;Single origin&lt;/dd&gt;
-  &lt;dt&gt;Roaster&lt;/dt&gt;
-  &lt;dd&gt;&lt;a href=&quot;https://cliftoncoffee.co.uk/&quot;&gt;Clifton Coffee Roaster&lt;/a&gt;, Bristol&lt;/dd&gt;
-&lt;/dl&gt;
-
-&lt;h2&gt;Finca Chayote&lt;/h2&gt;
-&lt;dl&gt;
-  &lt;dt&gt;Process&lt;/dt&gt;
-  &lt;dd&gt;Natural&lt;/dd&gt;
-  &lt;dt&gt;Tasting notes&lt;/dt&gt;
-  &lt;dd&gt;Sweet Pineapple, Cocoa Finish&lt;/dd&gt;
-  &lt;dt&gt;Type&lt;/dt&gt;
-  &lt;dd&gt;Single origin&lt;/dd&gt;
-  &lt;dt&gt;Roaster&lt;/dt&gt;
-  &lt;dd&gt;&lt;a href=&quot;https://www.crankhousecoffee.co.uk/&quot;&gt;Crankhouse Coffee&lt;/a&gt;, Exeter&lt;/dd&gt;
-&lt;/dl&gt;
-
-&lt;h2&gt;&lt;a href=&quot;https://www.crukafe.com/products/merchants-blend&quot;&gt;Organic Merchant's Blend&lt;/a&gt;&lt;/h2&gt;
-&lt;dl&gt;
-  &lt;dt&gt;Process&lt;/dt&gt;
-  &lt;dd&gt;Not sure&lt;/dd&gt;
-  &lt;dt&gt;Tasting notes&lt;/dt&gt;
-  &lt;dd&gt;Dark Chocolate, Raisin, Nutmeg&lt;/dd&gt;
-  &lt;dt&gt;Type&lt;/dt&gt;
-  &lt;dd&gt;Multi origin&lt;/dd&gt;
-  &lt;dt&gt;Roaster&lt;/dt&gt;
-  &lt;dd&gt;&lt;a href=&quot;https://www.crukafe.com/&quot;&gt;Cru Kafe&lt;/a&gt;, London&lt;/dd&gt;
-&lt;/dl&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://github.com/benjystanton/benjystanton.github.io/blob/master/_data/coffee-beans.yml&quot;&gt;View data – YML &lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sat, 02 Nov 2019 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/coffee-beans/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/coffee-beans/</guid>
-        
-        <category>NaBloPoMo2019</category>
-        
         
         <category>nablopomo</category>
         
