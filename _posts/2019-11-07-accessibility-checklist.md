@@ -97,7 +97,7 @@ Read this blog post about [making charts more accessible]({{ site.url }}/blog/a-
 *   Test in high contrast mode
 *   Check html mark-up is valid
 *   Check in a range of browsers and devices
-*   Check using assistive technologies
+*   [Check using assistive technologies](https://accessibility.blog.gov.uk/2018/09/27/assistive-technology-tools-you-can-use-at-no-cost/)
 
 ## Automatic tests
 
