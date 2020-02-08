@@ -5,9 +5,39 @@
     <description>Interaction Designer. Family Man. Music Snob.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 08 Feb 2020 20:43:05 +0000</pubDate>
-    <lastBuildDate>Sat, 08 Feb 2020 20:43:05 +0000</lastBuildDate>
+    <pubDate>Sat, 08 Feb 2020 20:59:30 +0000</pubDate>
+    <lastBuildDate>Sat, 08 Feb 2020 20:59:30 +0000</lastBuildDate>
     <generator>Jekyll v3.8.4</generator>
+    
+      <item>
+        <title>Books about racism in the UK</title>
+        <description>&lt;p class=&quot;lede&quot;&gt;I’m trying to get better informed about racism in the UK, so I asked my Twitter friends for some book recommendations.&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot;&gt;
+    &lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Currently reading “Why I’m no longer talking to white people about race” by &lt;a href=&quot;https://twitter.com/renireni?ref_src=twsrc%5Etfw&quot;&gt;@renireni&lt;/a&gt;. What should I read next? I want to educate myself about racism in the UK.&lt;/p&gt;&amp;mdash; Benjy Stanton (@benjystanton) &lt;a href=&quot;https://twitter.com/benjystanton/status/1219744937790660608?ref_src=twsrc%5Etfw&quot;&gt;January 21, 2020&lt;/a&gt;
+&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Here’s my resulting reading list. I’m slowly making my way through it. Please let me know if you have any other recommendations.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Why I’m No Longer Talking to White People About Race by &lt;a href=&quot;https://twitter.com/renireni&quot;&gt;Reni Eddo-Lodge&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;The Good Immigrant by &lt;a href=&quot;https://twitter.com/nikeshshukla&quot;&gt;Nikesh Shukla&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Brit(ish): On Race, Identity and Belonging by &lt;a href=&quot;https://twitter.com/afuahirsch&quot;&gt;Afua Hirsch&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Natives: Race and Class in the Ruins of Empire by &lt;a href=&quot;https://twitter.com/akalamusic&quot;&gt;Akala&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Black and British: A Forgotten History by &lt;a href=&quot;https://twitter.com/DavidOlusoga&quot;&gt;David Olusoga&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sat, 08 Feb 2020 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/books-about-racism-in-the-uk/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/books-about-racism-in-the-uk/</guid>
+        
+        
+        <category>personal</category>
+        
+      </item>
     
       <item>
         <title>Accessible search form mark-up</title>
@@ -570,28 +600,6 @@ Posted from Cardiff, United Kingdom
         
         <category>NaBloPoMo2019</category>
         
-        
-        <category>nablopomo</category>
-        
-      </item>
-    
-      <item>
-        <title>Finally went to Ty Cwrw in Mumbles last night, tried a lovely Tenby Brewing x Tiny Rebel ale</title>
-        <description>&lt;figure class=&quot;margin-bottom--xs&quot;&gt;
-  &lt;img src=&quot;http://localhost:4000/assets/finally-went-to-ty-cwrw-in-mumbles-last-night,-tried-a-lovely-tenby-brewing-x-tiny-rebel-ale.jpeg&quot; alt=&quot;Postcard with an illustration of the front of the pub&quot; /&gt;
-  &lt;figcaption class=&quot;margin-bottom--0 margin-top--xs&quot;&gt;
-    &lt;h1 class=&quot;heading-large margin-bottom--0&quot;&gt;Finally went to Ty Cwrw in Mumbles last night, tried a lovely Tenby Brewing x Tiny Rebel ale&lt;/h1&gt;
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-</description>
-        <pubDate>Sun, 03 Nov 2019 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/finally-went-to-ty-cwrw-in-mumbles-last-night,-tried-a-lovely-tenby-brewing-x-tiny-rebel-ale/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/finally-went-to-ty-cwrw-in-mumbles-last-night,-tried-a-lovely-tenby-brewing-x-tiny-rebel-ale/</guid>
-        
-        <category>NaBloPoMo2019</category>
-        
-        
-        <category>images</category>
         
         <category>nablopomo</category>
         
