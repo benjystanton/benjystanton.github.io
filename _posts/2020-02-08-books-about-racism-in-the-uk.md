@@ -20,3 +20,5 @@ Here's my resulting reading list. I'm slowly making my way through it. Please le
 - Brit(ish): On Race, Identity and Belonging by [Afua Hirsch](https://twitter.com/afuahirsch)
 - Natives: Race and Class in the Ruins of Empire by [Akala](https://twitter.com/akalamusic)
 - Black and British: A Forgotten History by [David Olusoga](https://twitter.com/DavidOlusoga)
+- Heart Of The Race: Black Women's Lives in Britain by Beverley Bryan
+- Safe: On Black British Men Reclaiming Space by Derek Owusu
