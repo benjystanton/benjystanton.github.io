@@ -22,3 +22,4 @@ Here's my resulting reading list. I'm slowly making my way through it. Please le
 - Black and British: A Forgotten History by [David Olusoga](https://twitter.com/DavidOlusoga)
 - Heart Of The Race: Black Women's Lives in Britain by Beverley Bryan
 - Safe: On Black British Men Reclaiming Space by Derek Owusu
+- What is Islamophobia?: Racism, Social Movements and the State by [Narzanin Massoumi](https://twitter.com/narzanin)
