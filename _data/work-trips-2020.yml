@@ -2,7 +2,14 @@
 
 - destination: Preston
   city: Preston
-  category: Conference, training or workshop
+  category: Meeting
   month: January
   from: Swansea
   to: Preston (Lancs)
+
+- destination: Waterloo
+  city: London
+  category: Meeting
+  month: February
+  from: Swansea
+  to: London Paddington
