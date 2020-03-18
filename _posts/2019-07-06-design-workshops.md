@@ -5,7 +5,7 @@ categories: design nablopomo
 tag: NaBloPoMo2019
 ---
 
-<p class="text-small">Updated on 17 December 2019</p>
+<p class="text-small">Updated on 18 March 2020</p>
 
 <p class="lede">I’m a big fan of structured/facilitated design workshops. They can be incredibly useful for user research sessions, co-designing services with teams, and stakeholder meetings.</p>
 
@@ -46,3 +46,5 @@ Here are some links to specific design workshop methods…
 - [Storyboard](http://www.designkit.org/methods/35)
 - [Personas](https://methods.18f.gov/decide/personas/)
 - [Task Model](https://www.cxpartners.co.uk/our-thinking/task-model-cheat-sheet-pdf/) (via [Nic Price](https://twitter.com/nicprice))
+- [Despicable Design](https://articles.uie.com/despicable-design-when-going-evil-is-the-perfect-technique/)
+- [Making Product Decisions in Bets](https://medium.com/@wnialloconnor/the-gamblers-approach-to-running-a-research-kick-off-workshop-e5d45da4a578)
