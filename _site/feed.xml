@@ -5,9 +5,37 @@
     <description>Interaction Designer. Family Man. Music Snob.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 04 Apr 2020 14:51:55 +0100</pubDate>
-    <lastBuildDate>Sat, 04 Apr 2020 14:51:55 +0100</lastBuildDate>
+    <pubDate>Sat, 04 Apr 2020 15:36:56 +0100</pubDate>
+    <lastBuildDate>Sat, 04 Apr 2020 15:36:56 +0100</lastBuildDate>
     <generator>Jekyll v3.8.4</generator>
+    
+      <item>
+        <title>Making data part of the web sticker</title>
+        <description>&lt;p&gt;Here’s my first submission for &lt;a href=&quot;https://twitter.com/jukesie&quot;&gt;Jukesie’s&lt;/a&gt; &lt;a href=&quot;https://github.com/jukesie/sticker-stories/blob/master/README.md&quot;&gt;sticker stories&lt;/a&gt; project. I made this whilst I was working at Office for National Statistics in 2017. &lt;a href=&quot;https://twitter.com/ldodds&quot;&gt;Leigh Dodds&lt;/a&gt; was working there at the same time and wrote &lt;a href=&quot;https://digitalblog.ons.gov.uk/2017/01/06/some-open-data-publishing-principles/&quot;&gt;some open data publishing principles&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Me and &lt;a href=&quot;https://twitter.com/mr_dudders&quot;&gt;Andy Dudfield&lt;/a&gt; thought it would be good to turn the principles it a series of stickers and posters. I never quite got round to make a series, but this simple design and message, printed on some rather fetching holographic metallic material was &lt;a href=&quot;https://twitter.com/benjystanton/status/931869902641786880&quot;&gt;a hit with open data Twitter&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/make-data-part-of-the-web-sticker.jpg&quot; alt=&quot;A sheet of circular make data part of the web stickers printed on holographic metallic material&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/ONSdigital/design/blob/master/stickers/MakeDataPartOfTheWeb.pdf&quot;&gt;Get the sticker artwork PDF from GitHub&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Designer(s): &lt;a href=&quot;https://www.benjystanton.co.uk/&quot;&gt;Benjy Stanton&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/ldodds&quot;&gt;Leigh Dodds&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Organisation: &lt;a href=&quot;https://www.ons.gov.uk/&quot;&gt;Office for National Statistics&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Team: &lt;a href=&quot;https://digitalblog.ons.gov.uk/&quot;&gt;Digital Publishing&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Year: 2017&lt;/li&gt;
+  &lt;li&gt;Licence: &lt;a href=&quot;https://github.com/ONSdigital/design/blob/master/LICENSE.md&quot;&gt;MIT License&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Willingness to be contacted: Yes&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sat, 04 Apr 2020 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/blog/making-data-part-of-the-web-sticker/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/making-data-part-of-the-web-sticker/</guid>
+        
+        
+        <category>design</category>
+        
+      </item>
     
       <item>
         <title>Books about racism in the UK</title>
@@ -523,83 +551,6 @@ Posted from Cardiff, United Kingdom
         <pubDate>Tue, 05 Nov 2019 00:00:00 +0000</pubDate>
         <link>http://localhost:4000/blog/going-full-monzo/</link>
         <guid isPermaLink="true">http://localhost:4000/blog/going-full-monzo/</guid>
-        
-        <category>NaBloPoMo2019</category>
-        
-        
-        <category>nablopomo</category>
-        
-      </item>
-    
-      <item>
-        <title>Work trips 2019</title>
-        <description>
-&lt;p&gt;This is a simple presentation of the trips I’ve made for work in 2019, which I keep a record of over the year. I did &lt;a href=&quot;http://localhost:4000/blog/work-trips-2018/&quot;&gt;something similar last year&lt;/a&gt;. I was slightly surprised (and pleased) that even now that I’m working remotely, I’m still getting about a bit.&lt;/p&gt;
-
-&lt;div class=&quot;flex-grid&quot;&gt;
-  &lt;div class=&quot;flex-grid__col flex-grid__col--third margin-bottom--s&quot;&gt;
-    &lt;span class=&quot;big-number&quot;&gt;
-20
-&lt;/span&gt;
-&lt;span&gt; Individual trips&lt;/span&gt;
-
-  &lt;/div&gt;
-  &lt;div class=&quot;flex-grid__col flex-grid__col--third margin-bottom--s&quot;&gt;
-    &lt;span class=&quot;big-number&quot;&gt;
-11
-&lt;/span&gt;
-&lt;span&gt; Unique places&lt;/span&gt;
-
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;h2 class=&quot;margin-top--s&quot;&gt;Places&lt;/h2&gt;
-
-&lt;ul&gt;
-  
-  &lt;li&gt;Abergavenny&lt;/li&gt;
-  
-  &lt;li&gt;Bristol&lt;/li&gt;
-  
-  &lt;li&gt;Cardiff&lt;/li&gt;
-  
-  &lt;li&gt;Coventry&lt;/li&gt;
-  
-  &lt;li&gt;Edinburgh&lt;/li&gt;
-  
-  &lt;li&gt;London&lt;/li&gt;
-  
-  &lt;li&gt;Manchester&lt;/li&gt;
-  
-  &lt;li&gt;Newport&lt;/li&gt;
-  
-  &lt;li&gt;Reading&lt;/li&gt;
-  
-  &lt;li&gt;Swindon&lt;/li&gt;
-  
-  &lt;li&gt;Titchfield&lt;/li&gt;
-  
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;reasons-for-trips&quot;&gt;Reasons for trips&lt;/h2&gt;
-
-&lt;ul&gt;
-  
-  &lt;li&gt;Conference, training or workshop&lt;/li&gt;
-  
-  &lt;li&gt;Meeting&lt;/li&gt;
-  
-  &lt;li&gt;Remote work&lt;/li&gt;
-  
-  &lt;li&gt;User research&lt;/li&gt;
-  
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://raw.githubusercontent.com/benjystanton/benjystanton.github.io/master/_data/work-trips-2019.yml&quot;&gt;View data – YML &lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Mon, 04 Nov 2019 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/work-trips-2019/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/work-trips-2019/</guid>
         
         <category>NaBloPoMo2019</category>
         
