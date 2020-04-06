@@ -5,9 +5,43 @@
     <description>Interaction Designer. Family Man. Music Snob.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 04 Apr 2020 15:36:56 +0100</pubDate>
-    <lastBuildDate>Sat, 04 Apr 2020 15:36:56 +0100</lastBuildDate>
+    <pubDate>Mon, 06 Apr 2020 21:15:58 +0100</pubDate>
+    <lastBuildDate>Mon, 06 Apr 2020 21:15:58 +0100</lastBuildDate>
     <generator>Jekyll v3.8.4</generator>
+    
+      <item>
+        <title>User research activities for testing interface content</title>
+        <description>&lt;p&gt;Here are some tips on different user research techniques to try when you’re testing user interface content (&lt;a href=&quot;https://twitter.com/benjystanton/status/1247148638284980227&quot;&gt;crowdsourced from Twitter&lt;/a&gt; – thanks everyone!).&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Hightlighter test&lt;/strong&gt; – Ask people to highlight easy-to-understand words, and confusing words, using different colours&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Walkthrough&lt;/strong&gt; – Explain to someone how to use the thing&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Check search logs&lt;/strong&gt; – Check the search logs to see if people are looking for features that are right there in the interface&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Task based usability test&lt;/strong&gt; – Start really minimal, find out what you need to add from research, it’s much harder to find out what to remove or change&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Cloze testing&lt;/strong&gt; – Remove words from the content and ask people what the missing words should be&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Memory test&lt;/strong&gt; – Pages that fade to blank after a period of time and ask people what they remember&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Eye tracking&lt;/strong&gt; – Measure how many times people’s eyes stop on different words as they read&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;related-links&quot;&gt;Related links&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://userresearch.blog.gov.uk/2015/07/01/what-does-this-mean-tips-for-testing-your-words/&quot;&gt;What does this mean? Tips for testing your words.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://designnotes.blog.gov.uk/2014/07/14/things-we-learnt-designing-register-to-vote/&quot;&gt;Things we learnt designing ‘Register to vote’&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@jsaito/5-fun-ways-to-test-words-f132af5a8456&quot;&gt;5 fun ways to test words&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.microsoft.com/en-us/typography/develop/word-recognition&quot;&gt;The science of word recognition&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.uxmatters.com/mt/archives/2019/07/readability-formulas-7-reasons-to-avoid-them-and-what-to-do-instead.php&quot;&gt;Readability Formulas: 7 Reasons to Avoid Them and What to Do Instead&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Mon, 06 Apr 2020 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/blog/user-research-activities-for-testing-interface-content/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/user-research-activities-for-testing-interface-content/</guid>
+        
+        
+        <category>research</category>
+        
+      </item>
     
       <item>
         <title>Making data part of the web sticker</title>
@@ -502,55 +536,6 @@ Posted from Cardiff, United Kingdom
         <pubDate>Wed, 06 Nov 2019 00:00:00 +0000</pubDate>
         <link>http://localhost:4000/blog/using-shortcuts-app-to-add-location-data-to-my-posts/</link>
         <guid isPermaLink="true">http://localhost:4000/blog/using-shortcuts-app-to-add-location-data-to-my-posts/</guid>
-        
-        <category>NaBloPoMo2019</category>
-        
-        
-        <category>nablopomo</category>
-        
-      </item>
-    
-      <item>
-        <title>Going full Monzo</title>
-        <description>&lt;p class=&quot;lede&quot;&gt;I’ve recently switched my bank current account to &lt;a href=&quot;https://monzo.com/&quot;&gt;Monzo&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;beta-user&quot;&gt;Beta user&lt;/h2&gt;
-
-&lt;p&gt;I’ve been a user since March 2016 when the bank was in beta, but even though I’ve enjoyed using the app for short periods, I never really used it for sustainable periods because it wasn’t my main account.&lt;/p&gt;
-
-&lt;h2 id=&quot;overdraft&quot;&gt;Overdraft&lt;/h2&gt;
-
-&lt;p&gt;One of the last blockers to me switching was the fact that my old overdraft was bigger than the one Monzo would provide. So I decided to bite the bullet and get a separate loan to pay that off (and a few other things – ahem). So I could switch to Monzo without needing an overdraft.&lt;/p&gt;
-
-&lt;h2 id=&quot;switching&quot;&gt;Switching&lt;/h2&gt;
-
-&lt;p&gt;Once the overdraft issue was sorted, I tried to use the automatic account switch, but that failed. I think it was because my old account was a joint account.&lt;/p&gt;
-
-&lt;p&gt;Manually switching was a pain.&lt;/p&gt;
-
-&lt;p&gt;It highlighted how easy it can be to update your direct debit details with user-centred companies like &lt;a href=&quot;https://bulb.co.uk/&quot;&gt;Bulb&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;And also how bad it can be. With one company I had to request a paper form to be posted out to me. Then I had to return it. Then they posted out a confirmation to me. Which was wrong, so I had to call them up to fix it.&lt;/p&gt;
-
-&lt;p&gt;In the end I did manage to do it all within one month. But I did have to create a Trello Board to manage it all.&lt;/p&gt;
-
-&lt;h2 id=&quot;benefits-of-switching&quot;&gt;Benefits of switching&lt;/h2&gt;
-
-&lt;p&gt;I’m trying to be more sensible with my spending and I think Monzo helps me do that.&lt;/p&gt;
-
-&lt;p&gt;I love that I can put money aside for bills into pot, and clearly see available spending money that’s left for the month.&lt;/p&gt;
-
-&lt;p&gt;I also like that, at a glance, I can check whether I’m spending too quickly or that I’ll have money left over.&lt;/p&gt;
-
-&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
-
-&lt;p&gt;So far I’m really happy. I was slightly nervous when I heard the bad press about peoples’ accounts being frozen, but ultimately, the way Monzo responded to it put my mind at ease.&lt;/p&gt;
-
-&lt;p&gt;It would be nice if all companies I dealt with had the same great service design as companies like Monzo and Bulb.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 05 Nov 2019 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/going-full-monzo/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/going-full-monzo/</guid>
         
         <category>NaBloPoMo2019</category>
         
