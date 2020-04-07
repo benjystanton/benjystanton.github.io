@@ -19,9 +19,9 @@ Here are some tips on different user research techniques to try when you're test
 
 ## Related links
 
-- [What does this mean? Tips for testing your words.](https://userresearch.blog.gov.uk/2015/07/01/what-does-this-mean-tips-for-testing-your-words/)
-- [Things we learnt designing 'Register to vote'](https://designnotes.blog.gov.uk/2014/07/14/things-we-learnt-designing-register-to-vote/)
-- [5 fun ways to test words](https://medium.com/@jsaito/5-fun-ways-to-test-words-f132af5a8456)
-- [The science of word recognition](https://docs.microsoft.com/en-us/typography/develop/word-recognition)
-- [Readability Formulas: 7 Reasons to Avoid Them and What to Do Instead](https://www.uxmatters.com/mt/archives/2019/07/readability-formulas-7-reasons-to-avoid-them-and-what-to-do-instead.php)
+- [What does this mean? Tips for testing your words.](https://userresearch.blog.gov.uk/2015/07/01/what-does-this-mean-tips-for-testing-your-words/) (via [John Waterworth](https://twitter.com/jwaterworth))
+- [Things we learnt designing 'Register to vote'](https://designnotes.blog.gov.uk/2014/07/14/things-we-learnt-designing-register-to-vote/) (via [Joe Lanman](https://twitter.com/joelanman))
+- [5 fun ways to test words](https://medium.com/@jsaito/5-fun-ways-to-test-words-f132af5a8456) (via [Gretchen Willenberg](https://twitter.com/gwillenberg))
+- [The science of word recognition](https://docs.microsoft.com/en-us/typography/develop/word-recognition) (via [Rob Whiting](https://twitter.com/whitingx))
+- [Readability Formulas: 7 Reasons to Avoid Them and What to Do Instead](https://www.uxmatters.com/mt/archives/2019/07/readability-formulas-7-reasons-to-avoid-them-and-what-to-do-instead.php) (via [Caroline Jarrett](https://twitter.com/cjforms))
 
