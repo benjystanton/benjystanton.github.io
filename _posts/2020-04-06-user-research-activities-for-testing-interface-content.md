@@ -8,7 +8,7 @@ categories: research
 Here are some tips on different user research techniques to try when you're testing user interface content ([crowdsourced from Twitter](https://twitter.com/benjystanton/status/1247148638284980227
 ) – thanks everyone!).
 
-- **Hightlighter test** – Ask people to highlight easy-to-understand words, and confusing words, using different colours (via [Helen](https://twitter.com/SocialSoup) and many others)
+- **Highlighter test** – Ask people to highlight easy-to-understand words, and confusing words, using different colours (via [Helen](https://twitter.com/SocialSoup) and many others)
 - **Walkthrough** – Explain to someone how to use the thing (via [Paul Pod](https://twitter.com/paulpod))
 - **Check search logs** – Check the search logs to see if people are looking for features that are right there in the interface (via [Mark Hurrell](https://twitter.com/markhurrell))
 - **Task based usability test** – Start really minimal, find out what you need to add from research, it's much harder to find out what to remove or change (via [Joe Lanman](https://twitter.com/joelanman))
