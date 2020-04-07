@@ -13,7 +13,7 @@ Here are some tips on different user research techniques to try when you're test
 - **Check search logs** – Check the search logs to see if people are looking for features that are right there in the interface (via [Mark Hurrell](https://twitter.com/markhurrell))
 - **Task based usability test** – Start really minimal, find out what you need to add from research, it's much harder to find out what to remove or change (via [Joe Lanman](https://twitter.com/joelanman))
 - **[Cloze test](https://www.nngroup.com/articles/cloze-test-reading-comprehension/)** – Remove words from the content and ask people what the missing words should be (via [Kieran Forde](https://twitter.com/kieran_forde))
-- **Memory test** – Pages that fade to blank after a period of time and ask people what they remember (via [Grinchyface](https://twitter.com/retiredgrinch))
+- **Memory test** – Show pages that fade to blank after a period of time and ask people what they remember (via [Grinchyface](https://twitter.com/retiredgrinch))
 - **Eye tracking** – Measure how many times people's eyes stop on different words as they read (via [Fritz von Runte](https://twitter.com/vonRunte))
 
 
