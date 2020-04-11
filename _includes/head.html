@@ -22,5 +22,8 @@
   {%- if page.image %}
   <meta name="twitter:image:src" content="{{ site.url }}/assets/{{ page.image }}">
   <meta name="twitter:image:alt" content="{{ page.image-alt }}">
+  {% else %}
+  <meta name="twitter:image:src" content="{{ site.url }}/assets/benjy-stanton.jpg">
+  <meta name="twitter:image:alt" content="Benjy Stanton's profile pic.">
   {% endif %}
 </head>
