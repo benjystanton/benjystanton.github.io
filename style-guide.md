@@ -8,8 +8,9 @@ permalink: /style-guide/
 This blog is built with [Jekyll](https://jekyllrb.com/) and hosted on [GitHub](https://github.com/benjystanton/benjystanton.github.io ).
 
 ## Fonts
-- Base font family: [Source Sans](https://typekit.com/fonts/source-sans)
-- Heading font: [Quatro Slab Ultra Black](https://typekit.com/fonts/quatro-slab)
+I'm using system fonts, I borrowed this font stack from GitHub.
+
+`-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;`
 
 ## Colours
 <ul class="list-inline">

@@ -7,8 +7,8 @@ body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure, fi
 
 // Variables
 
-$base-font-family:    "source-sans-pro",sans-serif;
-$heading-font-family: "quatro-slab", sans-serif;
+$base-font-family:    -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
+$heading-font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
 $base-font-size:      18px;
 $small-font-size:     16px;
 $base-line-height:    1.4;
@@ -62,9 +62,8 @@ h1 {
 .heading-xxlarge {
   font-family: $heading-font-family;
   font-size: 56px;
-  @include media-query($medium) {
-    font-size: 74px;
-  }
+  @include media-query($medium) {font-size: 74px;}
+  font-weight: 900;
 }
 
 h1, .heading-xlarge {
@@ -72,27 +71,28 @@ h1, .heading-xlarge {
   font-size: 32px;
   @include media-query($medium) {font-size: 44px;}
   @include media-query($large) {font-size: 56px;}
+  font-weight: 900;
 }
 
 h2, .heading-large {
   font-family: $base-font-family;
   font-size: 28px;
   @include media-query($medium) {font-size: 32px;}
-  font-weight: bold;
+  font-weight: 900;
 }
 
 h3, .heading-medium {
   font-size: 22px;
   margin-bottom: 0;
   @include media-query($medium) {font-size: 26px; margin-top: $spacing-unit;}
-  font-weight: bold;
+  font-weight: 900;
 }
 
 h4, .heading-small {
   font-size: 18px;
   @include media-query($medium) {font-size: 20px;}
   @include media-query($large) {font-size: 22px;}
-  font-weight: bold;
+  font-weight: 900;
 }
 
 small {
