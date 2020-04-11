@@ -7,8 +7,8 @@
   <!-- Twitter summary card stuff, based on http://davidensinger.com/2013/04/supporting-twitter-cards-with-jekyll/ -->
   <meta name="twitter:card" content="summary">
   <meta name="twitter:site" content="{{ site.twitter_username }}">
-  <meta name="twitter:title" content="{{ page.title }}" />
-  <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}" />
+  <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.description }}{% endif %}" />
+  <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description_part_2 }}{% endif %}" />
   {% if page.image %}
   <meta name="twitter:image:src" content="{{ site.url }}/assets/{{ page.image }}">
   <meta name="twitter:image:alt" content="{{ page.image-alt }}">
