@@ -1,6 +1,6 @@
 <a href="#content" class="skiplink">Skip to main content</a>
 
-<header class="site-header" role="banner">
+<header class="site-header">
 
   <div class="wrapper">
 
@@ -10,7 +10,7 @@
     </a>
 
     {% if page.nav != false %}
-    <nav class="site-nav" role="navigation">
+    <nav class="site-nav">
       <a {% if page.url == '/' %}class="current page-link" aria-current="page"{% else %}class="page-link"{% endif %} href="/">Home</a>
       <a {% if page.url == '/about/' %}class="current page-link" aria-current="page"{% else %}class="page-link"{% endif %} href="/about/">About</a>
       <a {% if page.url == '/blog/' %}class="current page-link" aria-current="page"{% else %}class="page-link"{% endif %} href="/blog/">Blog</a>
