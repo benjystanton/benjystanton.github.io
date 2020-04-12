@@ -247,8 +247,11 @@ blockquote {
     color: #ffffff;
     background-color: #007575;
     outline: 3px solid #007575; }
-  .site-header a.logo:hover {
-    background-color: #ffffff; }
+  .site-header a.logo:hover, .site-header a.logo:focus {
+    background-color: #007575;
+    outline: 0px; }
+  .site-header a.logo:hover svg path, .site-header a.logo:focus svg path {
+    fill: #ffffff; }
   .site-header .logo {
     display: inline-block; }
   .site-header .logo:focus {

@@ -15,8 +15,14 @@
           background-color: $primary-colour;
           outline: 3px solid $primary-colour;
         }
-        &.logo:hover {
-          background-color: $white-colour;
+        &.logo:hover,
+        &.logo:focus {
+          background-color: $primary-colour;
+          outline:0px;
+        }
+        &.logo:hover svg path,
+        &.logo:focus svg path {
+          fill: $white-colour;
         }
     }
 
