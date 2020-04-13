@@ -24,6 +24,6 @@ If you're after a new pen to try, here's a list of recommendations. Seems like t
 
 
 ## Bonus content: try these Notebooks 
-- Rhodia notebook with dot grid (via [Ben Armstrong](https://twitter.com/wiredimage))
-- Muji notebook (via [Si](https://twitter.com/MyGuySi))
+- Rhodia notebook with dot grid <small>(via [Ben Armstrong](https://twitter.com/wiredimage))</small>
+- Muji notebook <small>(via [Si](https://twitter.com/MyGuySi))</small>
 

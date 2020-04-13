@@ -5,8 +5,8 @@
     <description>Hi, my name is Benjy Stanton and I’m an interaction designer.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 13 Apr 2020 13:30:08 +0100</pubDate>
-    <lastBuildDate>Mon, 13 Apr 2020 13:30:08 +0100</lastBuildDate>
+    <pubDate>Mon, 13 Apr 2020 13:33:02 +0100</pubDate>
+    <lastBuildDate>Mon, 13 Apr 2020 13:33:02 +0100</lastBuildDate>
     <generator>Jekyll v3.8.4</generator>
     
       <item>
@@ -31,8 +31,8 @@
 
 &lt;h2 id=&quot;bonus-content-try-these-notebooks&quot;&gt;Bonus content: try these Notebooks&lt;/h2&gt;
 &lt;ul&gt;
-  &lt;li&gt;Rhodia notebook with dot grid (via &lt;a href=&quot;https://twitter.com/wiredimage&quot;&gt;Ben Armstrong&lt;/a&gt;)&lt;/li&gt;
-  &lt;li&gt;Muji notebook (via &lt;a href=&quot;https://twitter.com/MyGuySi&quot;&gt;Si&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;Rhodia notebook with dot grid &lt;small&gt;(via &lt;a href=&quot;https://twitter.com/wiredimage&quot;&gt;Ben Armstrong&lt;/a&gt;)&lt;/small&gt;&lt;/li&gt;
+  &lt;li&gt;Muji notebook &lt;small&gt;(via &lt;a href=&quot;https://twitter.com/MyGuySi&quot;&gt;Si&lt;/a&gt;)&lt;/small&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 </description>
