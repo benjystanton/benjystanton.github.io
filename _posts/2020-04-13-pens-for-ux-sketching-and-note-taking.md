@@ -26,4 +26,5 @@ If you're after a new pen to try, here's a list of recommendations. Seems like t
 ## Bonus content: try these Notebooks 
 - Rhodia notebook with dot grid <small>(via [Ben Armstrong](https://twitter.com/wiredimage))</small>
 - Muji notebook <small>(via [Si](https://twitter.com/MyGuySi))</small>
+- [Leuchtturm 1917](https://www.leuchtturm1917.co.uk/notebook-medium-a5-softcover-123-numbered-pages.html) <small>(via [Rob](https://twitter.com/whitingx))</small>
 
