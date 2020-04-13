@@ -15,7 +15,7 @@ If you're after a new pen to try, here's a list of recommendations. Seems like t
 (via [Benjy](https://twitter.com/benjystanton), [Nic](https://twitter.com/chameleonic), [Nic](https://twitter.com/nicprice))</small>
 2. [Rotring Tikky Graphic Fineliner](https://www.rotring.com/uk/fineliner-pen/154-tikky-graphic-fineliner-3501170814734.html) <small>(via [Rob](https://twitter.com/whitingx))</small>
 3. [Parker Jotter](https://www.parkerpen.com/en-GB/jotter) <small>(via [Rob](https://twitter.com/whitingx))</small>
-4. [Copic Fine Liners](https://www.copic-shop.co.uk/fineliner-pens/) <small>(via [Paul](https://twitter.com/paulmsmith))</small>
+4. [Copic Multiliner](https://www.copic-shop.co.uk/copic-multiliner-sp-pens/) <small>(via [Paul](https://twitter.com/paulmsmith))</small>
 5. [Pilot V-Ball 07](https://www.pilotpen.co.uk/en/v-ball-07-medium-tip.html) <small>(via [Stevan](https://twitter.com/stevanbarry))</small>
 6. [Mitsubishi Uniball](https://uniball.co.uk/) <small>(via [Liam](https://twitter.com/liammcmurray))</small>
 7. [Muji](https://www.muji.eu/) <small>(via [Pete](https://twitter.com/peterjobes))</small>
