@@ -100,7 +100,12 @@ h4, .heading-small {
       font-size: 22px; } }
 
 small {
-  font-size: 16px; }
+  font-size: 16px;
+  color: #5b6774; }
+
+.text-small {
+  font-size: 16px;
+  color: #5b6774; }
 
 .lede {
   font-size: 22px;
@@ -109,10 +114,6 @@ small {
     .lede {
       font-size: 26px;
       line-height: 1.4; } }
-
-.text-small {
-  font-size: 16px;
-  color: #5b6774; }
 
 .post-header {
   margin-bottom: 36px; }
