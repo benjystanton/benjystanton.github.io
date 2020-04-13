@@ -5,10 +5,10 @@ description: Hi, my name is Benjy Stanton and I’m an interaction designer.
 description_part_2: I work remotely for Swirrl, from home in Swansea.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://www.benjystanton.co.uk" # the base hostname & protocol for your site
-twitter_username: benjystanton
-github_username:  benjystanton
-dribbble_username:  benjystanton
-instagram_username:  benjystanton
+twitter_username: BenjyStanton
+github_username:  BenjyStanton
+dribbble_username:  BenjyStanton
+instagram_username:  BenjyStanton
 
 # Build settings
 markdown: kramdown
