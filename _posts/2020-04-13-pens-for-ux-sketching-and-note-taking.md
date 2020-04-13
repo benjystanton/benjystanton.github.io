@@ -12,7 +12,7 @@ If you're after a new pen to try, here's a list of recommendations. Seems like t
 
 - [Paper Mate Flair](https://www.papermate.com/pens/felt-tip) <small>(via [Grace](https://twitter.com/graceellins), [Si](https://twitter.com/MyGuySi), [Sam](https://twitter.com/SamHallWales), [Jonathan](https://twitter.com/jopkins))</small>
 - [Pentel SignPen](https://www.pentel.co.uk/products.asp?group=1&type=5&pid=47) <small> 
-(via [Benjy](https://twitter.com/benjystanton), [Nic](https://twitter.com/chameleonic), [Nic](https://twitter.com/nicprice))</small>
+(via [Benjy](https://twitter.com/benjystanton), [Nic F](https://twitter.com/chameleonic), [Nic P](https://twitter.com/nicprice))</small>
 - [Rotring Tikky Graphic Fineliner](https://www.rotring.com/uk/fineliner-pen/154-tikky-graphic-fineliner-3501170814734.html) <small>(via [Rob](https://twitter.com/whitingx))</small>
 - [Parker Jotter](https://www.parkerpen.com/en-GB/jotter) <small>(via [Rob](https://twitter.com/whitingx))</small>
 - [Copic Multiliner](https://www.copic-shop.co.uk/copic-multiliner-sp-pens/) <small>(via [Paul](https://twitter.com/paulmsmith))</small>
@@ -28,7 +28,7 @@ If you're after a new pen to try, here's a list of recommendations. Seems like t
 
 
 
-## Bonus content: try these Notebooks 
+## Bonus content: try these notebooks 
 - [Rhodia notebooks](https://rhodiapads.com/) with dot grid <small>(via [Ben](https://twitter.com/wiredimage))</small>
 - [Muji notebooks](https://www.muji.eu/pages/online.asp?Sec=12) <small>(via [Si](https://twitter.com/MyGuySi))</small>
 - [Leuchtturm 1917 notebooks](https://www.leuchtturm1917.co.uk/notebook-medium-a5-softcover-123-numbered-pages.html) <small>(via [Rob](https://twitter.com/whitingx))</small>
