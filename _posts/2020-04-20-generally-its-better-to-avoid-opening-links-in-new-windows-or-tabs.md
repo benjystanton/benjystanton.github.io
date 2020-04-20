@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Generally, it’s better to avoid opening links in new windows or tabs
-categories: ux, accessibility, design
+categories: ux accessibility design
 ---
 
 - It's bad for usability, because it takes control away from users (for example, it breaks the back button functionality) and makes interactions unpredictable
