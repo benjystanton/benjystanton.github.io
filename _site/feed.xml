@@ -5,8 +5,8 @@
     <description>Hi, my name is Benjy Stanton and I’m an interaction designer.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 20 Apr 2020 18:35:00 +0100</pubDate>
-    <lastBuildDate>Mon, 20 Apr 2020 18:35:00 +0100</lastBuildDate>
+    <pubDate>Tue, 21 Apr 2020 17:05:07 +0100</pubDate>
+    <lastBuildDate>Tue, 21 Apr 2020 17:05:07 +0100</lastBuildDate>
     <generator>Jekyll v3.8.4</generator>
     
       <item>
@@ -14,18 +14,22 @@
         <description>&lt;ul&gt;
   &lt;li&gt;It’s bad for usability, because it takes control away from users (for example, it breaks the back button functionality) and makes interactions unpredictable&lt;/li&gt;
   &lt;li&gt;It’s bad for accessibility because it can be disorienting for people, especially those who have access needs associated with perceiving visual content (for example people who use screen readers or screen magnifiers)&lt;/li&gt;
+  &lt;li&gt;It can be &lt;a href=&quot;https://cheatsheetseries.owasp.org/cheatsheets/HTML5_Security_Cheat_Sheet.html#tabnabbing&quot;&gt;bad for performance and security&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;exceptions&quot;&gt;Exceptions&lt;/h2&gt;
 
+&lt;p&gt;Sometimes the experience might be improved by opening links in new windows or tabs. For example, if:&lt;/p&gt;
+
 &lt;ul&gt;
-  &lt;li&gt;the link provides help&lt;/li&gt;
-  &lt;li&gt;the link interrupts an ongoing process&lt;/li&gt;
-  &lt;li&gt;the link leads to a non-html-document like a PDF&lt;/li&gt;
-  &lt;li&gt;the link leads to a large image which takes time to load&lt;/li&gt;
+  &lt;li&gt;the link provides help from a different place&lt;/li&gt;
+  &lt;li&gt;the link interrupts the user journey&lt;/li&gt;
+  &lt;li&gt;the link leads to another type of document like a PDF&lt;/li&gt;
+  &lt;li&gt;the link leads to a large image which takes time to download&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;In these exceptions the link text should clearly state what’s going to happen, for example: &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;a&amp;gt;Link to a thing (opens in a new window or tab)&amp;lt;/a&amp;gt;&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;In these situations the link text should clearly state what’s going to happen, for example: 
+&lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;a href=&quot;#&quot; rel=&quot;noopener noreferrer&quot;&amp;gt;Link to a thing (opens in a new window or tab)&amp;lt;/a&amp;gt;&lt;/code&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;source&quot;&gt;Source&lt;/h2&gt;
 &lt;ul&gt;
@@ -37,6 +41,7 @@
   &lt;li&gt;&lt;a href=&quot;https://www.gov.uk/guidance/content-design/links&quot;&gt;Guidance on link content design from GOV.UK&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://hmrc.github.io/assets-frontend/components/open-links-in-a-new-window-or-tab/index.html&quot;&gt;Open links in a new window or tab from HMRC Assets Frontend (old)
 &lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://owasp.org/www-community/attacks/Reverse_Tabnabbing&quot;&gt;Reverse Tabnabbing on Open Web Application Security Project (OWASP)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 20 Apr 2020 00:00:00 +0100</pubDate>

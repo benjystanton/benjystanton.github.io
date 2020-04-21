@@ -6,15 +6,19 @@ categories: ux accessibility design
 
 - It's bad for usability, because it takes control away from users (for example, it breaks the back button functionality) and makes interactions unpredictable
 - It's bad for accessibility because it can be disorienting for people, especially those who have access needs associated with perceiving visual content (for example people who use screen readers or screen magnifiers)
+- It can be [bad for performance and security](https://cheatsheetseries.owasp.org/cheatsheets/HTML5_Security_Cheat_Sheet.html#tabnabbing)
 
 ## Exceptions
 
-- the link provides help
-- the link interrupts an ongoing process
-- the link leads to a non-html-document like a PDF
-- the link leads to a large image which takes time to load
+Sometimes the experience might be improved by opening links in new windows or tabs. For example, if:
 
-In these exceptions the link text should clearly state what's going to happen, for example: `<a>Link to a thing (opens in a new window or tab)</a>`
+- the link provides help from a different place
+- the link interrupts the user journey
+- the link leads to another type of document like a PDF
+- the link leads to a large image which takes time to download
+
+In these situations the link text should clearly state what's going to happen, for example: 
+`<a href="#" rel="noopener noreferrer">Link to a thing (opens in a new window or tab)</a>`
 
 ## Source
 - [Opening links in a new tab from GOV.UK Design System (preview)](https://deploy-preview-1179--govuk-design-system-preview.netlify.app/styles/typography/#opening-links-in-a-new-tab)
@@ -25,3 +29,4 @@ In these exceptions the link text should clearly state what's going to happen, f
 - [Guidance on link content design from GOV.UK](https://www.gov.uk/guidance/content-design/links)
 - [Open links in a new window or tab from HMRC Assets Frontend (old)
 ](http://hmrc.github.io/assets-frontend/components/open-links-in-a-new-window-or-tab/index.html)
+- [Reverse Tabnabbing on Open Web Application Security Project (OWASP)](https://owasp.org/www-community/attacks/Reverse_Tabnabbing)
