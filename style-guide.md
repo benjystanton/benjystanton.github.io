@@ -8,9 +8,9 @@ permalink: /style-guide/
 This blog is built with [Jekyll](https://jekyllrb.com/) and hosted on [GitHub](https://github.com/benjystanton/benjystanton.github.io ).
 
 ## Fonts
-I'm using system fonts, I borrowed this font stack from GitHub.
+I'm using system fonts, I borrowed this font stack from [Andy](https://twitter.com/hankchizljaw/status/1254800627789676548).
 
-`-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;`
+`'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;`
 
 ## Colours
 <ul class="list-inline">

@@ -2,11 +2,20 @@
 layout: post
 title: My first year at Swirrl
 categories: personal
+image: "by-the-power-of-data.jpg"
+image-alt: "A round sticker that says 'by the power of data'. He-Man stands in front, raising his sword."
 ---
 
-I've been at [Swirrl](https://www.swirrl.com/) for 12 months (happy swirrliversary to me)!
+<p class="lede">I’ve been at <a href="https://www.swirrl.com/">Swirrl</a> for 12 months (happy swirrliversary to me)!</p>
 
 I joined as an interaction designer back in April 2019. I'd spotted that they were on the lookout for a designer after [Jamie](https://twitter.com/northernjamie) shared a link on Twitter.
+
+{%
+  include image-with-caption.html
+  image="by-the-power-of-data.jpg"
+  caption="Swirrl's Power of Data laptop sticker"
+  alt-text="A round sticker that says 'by the power of data'. He-Man stands in front, raising his sword."
+%}
 
 I was a little worried that my skills weren't technical enough for a software team like Swirrl. But the job description was open and honest, and it made them seem like a very supportive and flexible team (which it turns out, they really are!). Plus, my time working with data at Office for National Statistics (ONS) meant that I had some relevant experience.
 
@@ -54,4 +63,4 @@ By helping EA to publish environmental data, and improving the way that people a
 
 ***
 
-Here's a related post about [my pros and cons of working remotely]({{site.url}}/blog/remote-working-pros-and-cons/).
+Here's a related post about [my pros and cons of working remotely]({{ site.url }}/blog/remote-working-pros-and-cons/).
