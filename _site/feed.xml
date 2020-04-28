@@ -5,8 +5,8 @@
     <description>Hi, my name is Benjy Stanton and I’m an interaction designer.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 26 Apr 2020 14:50:40 +0100</pubDate>
-    <lastBuildDate>Sun, 26 Apr 2020 14:50:40 +0100</lastBuildDate>
+    <pubDate>Tue, 28 Apr 2020 14:17:37 +0100</pubDate>
+    <lastBuildDate>Tue, 28 Apr 2020 14:17:37 +0100</lastBuildDate>
     <generator>Jekyll v3.8.4</generator>
     
       <item>
@@ -54,6 +54,73 @@
         <category>accessibility</category>
         
         <category>design</category>
+        
+      </item>
+    
+      <item>
+        <title>My first year at Swirrl</title>
+        <description>&lt;p&gt;I’ve been at &lt;a href=&quot;https://www.swirrl.com/&quot;&gt;Swirrl&lt;/a&gt; for 12 months (happy swirrliversary to me)!&lt;/p&gt;
+
+&lt;p&gt;I joined as an interaction designer back in April 2019. I’d spotted that they were on the lookout for a designer after &lt;a href=&quot;https://twitter.com/northernjamie&quot;&gt;Jamie&lt;/a&gt; shared a link on Twitter.&lt;/p&gt;
+
+&lt;p&gt;I was a little worried that my skills weren’t technical enough for a software team like Swirrl. But the job description was open and honest, and it made them seem like a very supportive and flexible team (which it turns out, they really are!). Plus, my time working with data at Office for National Statistics (ONS) meant that I had some relevant experience.&lt;/p&gt;
+
+&lt;p&gt;Moving on from ONS was a big step for me (and I still miss my ONS friends!). But, the move has been good for me. I feel like I’m able to contribute a lot of value to the things that Swirrl are working on.&lt;/p&gt;
+
+&lt;h2 id=&quot;remote-working&quot;&gt;Remote working&lt;/h2&gt;
+
+&lt;p&gt;Swirrl is based in Manchester, but usually around half the team work remotely. Of course, it’s 100% remote right now, due to the lockdown.&lt;/p&gt;
+
+&lt;p&gt;The team are based around the UK. With a handful of people around the world in Canada, Australia and Berlin. We use a mixture of tools to keep in touch and share work with each other…&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://slack.com/&quot;&gt;Slack&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.notion.so/&quot;&gt;Notion&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/&quot;&gt;GitHub&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gsuite.google.co.uk/&quot;&gt;G Suite&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://trello.com/&quot;&gt;Trello&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://moqups.com/&quot;&gt;Moqups&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I’m sure this won’t come as a surprise to anyone. Choosing the right digital tools plays a huge part in how teams work together. Forcing them to use some big enterprise thing that does everything usually ends badly in my experience. (Rant over!)&lt;/p&gt;
+
+&lt;h2 id=&quot;my-role-at-swirrl&quot;&gt;My role at Swirrl&lt;/h2&gt;
+
+&lt;p&gt;My work includes a mix of;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;user research&lt;/li&gt;
+  &lt;li&gt;stakeholder workshops&lt;/li&gt;
+  &lt;li&gt;drawing journey maps and wireframes&lt;/li&gt;
+  &lt;li&gt;coding HTML and CSS&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The way that teams and projects are organised at Swirrl means that I’m able to keep my work-in-progress to a minimum. In turn, this means that I’m able to focus on things and make sure I’m doing my best work.&lt;/p&gt;
+
+&lt;h2 id=&quot;getting-stuck-into-development&quot;&gt;Getting stuck into development&lt;/h2&gt;
+
+&lt;p&gt;One of my aims over the past few months has been to get more involved with the development phase of a project. I wanted to contribute more to day-to-day issues. Rather than only doing upfront discovery research and handing over design specs.&lt;/p&gt;
+
+&lt;p&gt;In practice, this means being more disciplined in how I use GitHub to manage and document my work. So that others on the team can make better use of my work, and be more aware of what I’m up to.&lt;/p&gt;
+
+&lt;p&gt;I’m sure there’s lots of room for me to improve. But I think that working in this way is better. It shortens the feedback loop between user research and deploying improved code.&lt;/p&gt;
+
+&lt;h2 id=&quot;projects-im-working-on&quot;&gt;Projects I’m working on&lt;/h2&gt;
+
+&lt;p&gt;My main focus has been working with Defra and the Environment Agency (EA) on some of their data services. It’s exciting for me to work with different kinds of data (e.g. water quality and shoreline management) rather than statistics. (Yes, I did just say that I get excited about data.)&lt;/p&gt;
+
+&lt;p&gt;By helping EA to publish environmental data, and improving the way that people are able to access it, I feel like (in a very small way) I’m helping to improve the environment too.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Here’s a related post about &lt;a href=&quot;http://localhost:4000/blog/remote-working-pros-and-cons/&quot;&gt;my pros and cons of working remotely&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 16 Apr 2020 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/blog/my-first-year-at-swirrl/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/my-first-year-at-swirrl/</guid>
+        
+        
+        <category>personal</category>
         
       </item>
     
@@ -402,46 +469,6 @@
         <category>ux</category>
         
         <category>data</category>
-        
-      </item>
-    
-      <item>
-        <title>What have I accomplished this decade?</title>
-        <description>&lt;p class=&quot;lede&quot;&gt;A list of big things that I’ve done over the past 10 years. Inspired by &lt;a href=&quot;https://twitter.com/stfutony/status/1193954501620690944&quot;&gt;that tweet&lt;/a&gt;. Apologies for the self-congratulatory post.&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Got married&lt;/li&gt;
-  &lt;li&gt;Had our first baby&lt;/li&gt;
-  &lt;li&gt;Had to have our dog put down (RIP Harry)&lt;/li&gt;
-  &lt;li&gt;Worked at a design agency&lt;/li&gt;
-  &lt;li&gt;Moved house&lt;/li&gt;
-  &lt;li&gt;Had our second baby&lt;/li&gt;
-  &lt;li&gt;Went freelance&lt;/li&gt;
-  &lt;li&gt;Started a design meet-up&lt;/li&gt;
-  &lt;li&gt;Became a 2 car family&lt;/li&gt;
-  &lt;li&gt;Got my first proper UX role&lt;/li&gt;
-  &lt;li&gt;Climbed the Welsh 3 peaks&lt;/li&gt;
-  &lt;li&gt;Had our third baby&lt;/li&gt;
-  &lt;li&gt;Decided to stop having babies&lt;/li&gt;
-  &lt;li&gt;Became a civil servant&lt;/li&gt;
-  &lt;li&gt;Hired a whole design team&lt;/li&gt;
-  &lt;li&gt;Started working at Swirrl&lt;/li&gt;
-  &lt;li&gt;Got my first proper remote job&lt;/li&gt;
-  &lt;li&gt;Became a 1 car family&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Joking aside… deciding to stop having kids was probably the hardest time for us. Even though we always planned to have 3, when we reached that point it was mentally very difficult.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Anyway, here’s a similar post I did &lt;a href=&quot;https://www.benjystanton.co.uk/blog/30-things-done-before-im-30/&quot;&gt;when I reached thirty&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 14 Nov 2019 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/what-have-i-accomplished-this-decade/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/what-have-i-accomplished-this-decade/</guid>
-        
-        
-        <category>personal</category>
         
       </item>
     

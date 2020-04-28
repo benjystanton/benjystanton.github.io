@@ -6,7 +6,7 @@ categories: personal
 
 I've been at [Swirrl](https://www.swirrl.com/) for 12 months (happy swirrliversary to me)!
 
-I joined as an interaction designer back in April 2019. I had spotted that they were on the lookout for a designer after [Jamie](https://twitter.com/northernjamie) shared a link on Twitter.
+I joined as an interaction designer back in April 2019. I'd spotted that they were on the lookout for a designer after [Jamie](https://twitter.com/northernjamie) shared a link on Twitter.
 
 I was a little worried that my skills weren't technical enough for a software team like Swirrl. But the job description was open and honest, and it made them seem like a very supportive and flexible team (which it turns out, they really are!). Plus, my time working with data at Office for National Statistics (ONS) meant that I had some relevant experience.
 
@@ -33,7 +33,7 @@ My work includes a mix of;
 
 - user research
 - stakeholder workshops
-- high-level design (journey maps and wireframes)
+- drawing journey maps and wireframes
 - coding HTML and CSS
 
 The way that teams and projects are organised at Swirrl means that I'm able to keep my work-in-progress to a minimum. In turn, this means that I'm able to focus on things and make sure I'm doing my best work.
@@ -52,8 +52,6 @@ My main focus has been working with Defra and the Environment Agency (EA) on som
 
 By helping EA to publish environmental data, and improving the way that people are able to access it, I feel like (in a very small way) I'm helping to improve the environment too.
 
-## Come and join us?
+***
 
-We're always on the look-out for good people to join Swirrl. Roles we're looking for right now include an interaction designer/front-end engineer. Someone to help us design and write accessible HTML, CSS and JavaScript.
-
-You can read more on [Swirrl's hiring page](https://www.swirrl.com/hiring). Or feel free to ask me, if you have any questions.
+Here's a related post about [my pros and cons of working remotely]({{site.url}}/blog/remote-working-pros-and-cons/).
