@@ -5,8 +5,8 @@
     <description>Hi, my name is Benjy Stanton and I’m an interaction designer.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 28 Apr 2020 14:20:24 +0100</pubDate>
-    <lastBuildDate>Tue, 28 Apr 2020 14:20:24 +0100</lastBuildDate>
+    <pubDate>Tue, 28 Apr 2020 14:54:28 +0100</pubDate>
+    <lastBuildDate>Tue, 28 Apr 2020 14:54:28 +0100</lastBuildDate>
     <generator>Jekyll v3.8.4</generator>
     
       <item>
@@ -59,9 +59,16 @@
     
       <item>
         <title>My first year at Swirrl</title>
-        <description>&lt;p&gt;I’ve been at &lt;a href=&quot;https://www.swirrl.com/&quot;&gt;Swirrl&lt;/a&gt; for 12 months (happy swirrliversary to me)!&lt;/p&gt;
+        <description>&lt;p class=&quot;lede&quot;&gt;I’ve been at &lt;a href=&quot;https://www.swirrl.com/&quot;&gt;Swirrl&lt;/a&gt; for 12 months (happy swirrliversary to me)!&lt;/p&gt;
 
 &lt;p&gt;I joined as an interaction designer back in April 2019. I’d spotted that they were on the lookout for a designer after &lt;a href=&quot;https://twitter.com/northernjamie&quot;&gt;Jamie&lt;/a&gt; shared a link on Twitter.&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;http://localhost:4000/assets/by-the-power-of-data.jpg&quot; alt=&quot;A round sticker that says 'by the power of data'. He-Man stands in front, raising his sword.&quot; /&gt;
+  &lt;figcaption class=&quot;text-small&quot;&gt;
+    Swirrl's Power of Data laptop sticker
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;p&gt;I was a little worried that my skills weren’t technical enough for a software team like Swirrl. But the job description was open and honest, and it made them seem like a very supportive and flexible team (which it turns out, they really are!). Plus, my time working with data at Office for National Statistics (ONS) meant that I had some relevant experience.&lt;/p&gt;
 
