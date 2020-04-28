@@ -110,3 +110,5 @@ Read this blog post about [making charts more accessible]({{ site.url }}/blog/a-
 - [The intersection of markup, content and context in accessibility](https://www.24a11y.com/2019/the-intersection-of-markup-content-and-context-in-accessibility/)
 - [Tools for designing good-looking accessible interfaces](https://fossheim.io/writing/posts/accessible-design-tools/)
 - [Accessibility resources GitHub repo from  Phil Sherry](https://github.com/hmrc/accessibility)
+- [WCAG Cheat Sheets and Checklists from WebAxe](http://www.webaxe.org/wcag-cheat-sheets/)
+- [Accessible Font Sizing, Explained from CSS-Tricks](https://css-tricks.com/accessible-font-sizing-explained/)
