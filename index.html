@@ -2,7 +2,7 @@
 layout: default
 ---
 
-  <script type="application/ld+json">
+<script type="application/ld+json">
     {
       "@context": "http://schema.org",
       "@type": "Person",
@@ -22,22 +22,24 @@ layout: default
   }
   </script>
 
-  <article class="post-content" role="article">
+<article class="post-content h-card" role="article">
 
-    <h1 class="post-title">{{ site.description }}</h1>
+  <h1 class="post-title">Hi, my name is <span class="p-name">Benjy Stanton</span> and I’m an <span class="p-job-title">interaction designer</span>.</h1>
+  <!-- If you update the h1, you might want to update the site.description too -->
 
-    <p class="lede">{{ site.description_part_2 }}</p>
+  <p class="lede">I work remotely for <span class="p-org">Swirrl</span>, from home in <span class="p-locality">Swansea</span>, <span class="p-country-name">UK</span>.</p>
+  <!-- If you update this p, you might want to update the site.description_part_2 too -->
 
-    <img class="image-m margin-bottom--0" src="{{ site.url }}/assets/benjy-stanton.jpg" alt="Benjy Stanton's profile pic." height="50" width="50">
+  <img class="image-m margin-bottom--0 u-photo" src="{{ site.url }}/assets/benjy-stanton.jpg" alt="Benjy Stanton's profile pic." height="50" width="50">
 
-    <p class="margin-top--s"><a class="link--next" href="/blog">Read my blog <span aria-hidden="true">&rarr;</span></a></p>
+  <p class="margin-top--s"><a class="link--next" href="/blog">Read my blog <span aria-hidden="true">&rarr;</span></a></p>
 
-    <h2>Find me on the web</h2>
-    <ul>
-      <li><a href="https://twitter.com/benjystanton" rel="me">Twitter</a></li>
-      <li><a href="https://github.com/benjystanton/" rel="me">Github</a></li>
-      <li><a href="https://www.instagram.com/benjystanton/" rel="me">Instagram</a></li>
-      <li><a class="u-email" href="mailto:benjystanton@gmail.com" rel="me">Email</a></li>
-    </ul>
+  <h2>Find me on the web</h2>
+  <ul>
+    <li><a href="https://twitter.com/benjystanton" rel="me">Twitter</a></li>
+    <li><a href="https://github.com/benjystanton/" rel="me">Github</a></li>
+    <li><a href="https://www.instagram.com/benjystanton/" rel="me">Instagram</a></li>
+    <li><a class="u-email" href="mailto:benjystanton@gmail.com" rel="me">Email</a></li>
+  </ul>
 
-  </article>
+</article>
