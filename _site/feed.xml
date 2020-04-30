@@ -5,9 +5,55 @@
     <description>Hi, my name is Benjy Stanton and I’m an interaction designer.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 29 Apr 2020 20:01:15 +0100</pubDate>
-    <lastBuildDate>Wed, 29 Apr 2020 20:01:15 +0100</lastBuildDate>
+    <pubDate>Thu, 30 Apr 2020 17:29:25 +0100</pubDate>
+    <lastBuildDate>Thu, 30 Apr 2020 17:29:25 +0100</lastBuildDate>
     <generator>Jekyll v3.8.4</generator>
+    
+      <item>
+        <title>Accessible close buttons</title>
+        <description>&lt;h2 id=&quot;things-to-consider&quot;&gt;Things to consider&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Mark up as a button, e.g. &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;button type=&quot;button&quot;&amp;gt;&amp;lt;/button&amp;gt;&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;Tap target should be at least 44px&lt;/li&gt;
+  &lt;li&gt;Needs an accessible text label, for example &lt;code class=&quot;highlighter-rouge&quot;&gt;aria-label=&quot;Close&quot;&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;Use an &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;svg&amp;gt;&lt;/code&gt; icon or a &lt;code class=&quot;highlighter-rouge&quot;&gt;×&lt;/code&gt; character&lt;/li&gt;
+  &lt;li&gt;Add styles for keyboard focus and mouse hover&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;example-mark-up&quot;&gt;Example mark-up&lt;/h2&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;button type=&quot;button&quot; aria-label=&quot;Close&quot;&amp;gt;
+&amp;lt;svg width=&quot;44&quot; height=&quot;44&quot; viewBox=&quot;0 0 44 44&quot; aria-hidden=&quot;true&quot;&amp;gt;
+&amp;lt;path d=&quot;M0.549989 4.44999L4.44999 0.549988L43.45 39.55L39.55 43.45L0.549989 4.44999Z&quot; /&amp;gt;
+&amp;lt;path d=&quot;M39.55 0.549988L43.45 4.44999L4.44999 43.45L0.549988 39.55L39.55 0.549988Z&quot; /&amp;gt;
+&amp;lt;/svg&amp;gt;
+&amp;lt;/button&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;further-reading&quot;&gt;Further reading&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/ARIA_Techniques/Using_the_aria-label_attribute&quot;&gt;Using the aria-label attribute from MDN web docs&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.w3.org/TR/WCAG20-TECHS/ARIA14.html&quot;&gt;ARIA14: Using aria-label to provide an invisible label where a visible label cannot be used from W3C&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://scottaohara.github.io/accessible_modal_window/&quot;&gt;Accessible Modal Dialogs from Scott O’Hara&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://adrianroselli.com/2019/06/target-size-and-2-5-5.html&quot;&gt;Target Size and 2.5.5 from Adrian Roselli&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://design.bulb.co.uk/components/modal&quot;&gt;Modals dialogues from Bulb Energy’s design system&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/alphagov/govuk-design-system-backlog/issues/30&quot;&gt;Modal dialogues from GOV.UK design system’s backlog&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Thu, 30 Apr 2020 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/blog/accessible-close-buttons/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/accessible-close-buttons/</guid>
+        
+        
+        <category>ux</category>
+        
+        <category>accessibility</category>
+        
+        <category>design</category>
+        
+      </item>
     
       <item>
         <title>Generally, it’s better to avoid opening links in new windows or tabs</title>
@@ -423,6 +469,8 @@
   &lt;li&gt;&lt;a href=&quot;https://webaim.org/techniques/tables/data&quot;&gt;Creating Accessible Tables by WebAIM&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://adrianroselli.com/tag/tables&quot;&gt;Everything that Adrian Roselli has written about tables&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://inclusive-components.design/data-tables/&quot;&gt;Inclusive Components: Data Tables&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/webaxe/status/1255864003424706560&quot;&gt;Tweet from Web Axe&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gist.github.com/benjystanton/f027bfcfa30c009276e069a3e4c74bf5&quot;&gt;Content design for data tables, spreadsheets, CSVs and APIs from Benjy Stanton (GitHub Gist)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Wed, 18 Dec 2019 00:00:00 +0000</pubDate>
@@ -433,49 +481,6 @@
         <category>data</category>
         
         <category>accessibility</category>
-        
-      </item>
-    
-      <item>
-        <title>User research questions for data users</title>
-        <description>&lt;p class=&quot;lede&quot;&gt;A list of questions to help with user research when designing data things.&lt;/p&gt;
-
-&lt;p&gt;I was inspired to write this after reading Andrew Duckworth’s excellent post &lt;a href=&quot;https://grillopress.github.io/2019/12/05/design-for-real-data.html&quot;&gt;design for real data&lt;/a&gt;. In the post, they list questions that can help you discover details about the data that you’re working with. I think the questions have lots of potential uses, and I plan on trying them out next time we do research with data providers.&lt;/p&gt;
-
-&lt;p&gt;So, inspired by that post, here’s my list of question aimed at end-users of data.&lt;/p&gt;
-
-&lt;p&gt;I’ve found that with a bit of tweaking, these questions can work for a range of users. Whether those people need their data as written information, spreadsheets or APIs.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;How do you find the data? Where do you start?&lt;/li&gt;
-  &lt;li&gt;Which specific bits of the data do you need and why?&lt;/li&gt;
-  &lt;li&gt;What decisions does the data inform?&lt;/li&gt;
-  &lt;li&gt;What is your end goal?&lt;/li&gt;
-  &lt;li&gt;What software do you use to interrogate or manipulate the data?&lt;/li&gt;
-  &lt;li&gt;What manual tasks do you need to do every time?&lt;/li&gt;
-  &lt;li&gt;Which file formats are most useful?&lt;/li&gt;
-  &lt;li&gt;How will you know if the data is updated? What will you do then?&lt;/li&gt;
-  &lt;li&gt;What will you do next with the data?&lt;/li&gt;
-  &lt;li&gt;Who will you share the data with? How?&lt;/li&gt;
-  &lt;li&gt;What other sources of data you use?&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;thanks&quot;&gt;Thanks&lt;/h2&gt;
-
-&lt;p&gt;Thanks to &lt;a href=&quot;https://twitter.com/AldaviesAlison&quot;&gt;Alison&lt;/a&gt;, &lt;a href=&quot;https://mobile.twitter.com/johnlewisons&quot;&gt;John&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/robchamberspfc&quot;&gt;Rob&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/jeremyhhy&quot;&gt;Jeremy&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/AgileTimelord&quot;&gt;Jason&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/RosalieMarshall&quot;&gt;Rosalie&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/Loup73&quot;&gt;Louise&lt;/a&gt; and the team at &lt;a href=&quot;https://www.swirrl.com/&quot;&gt;Swirrl&lt;/a&gt; who have been helping me to get better at this data stuff.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 09 Dec 2019 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/user-research-questions-for-data-users/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/user-research-questions-for-data-users/</guid>
-        
-        
-        <category>design</category>
-        
-        <category>research</category>
-        
-        <category>ux</category>
-        
-        <category>data</category>
         
       </item>
     

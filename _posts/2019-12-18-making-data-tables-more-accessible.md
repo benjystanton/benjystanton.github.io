@@ -51,3 +51,5 @@ We also worked with accessibility specialists at the [Digital Accessibility Cent
 - [Creating Accessible Tables by WebAIM](https://webaim.org/techniques/tables/data)
 - [Everything that Adrian Roselli has written about tables](https://adrianroselli.com/tag/tables)
 - [Inclusive Components: Data Tables](https://inclusive-components.design/data-tables/)
+- [Tweet from Web Axe](https://twitter.com/webaxe/status/1255864003424706560)
+- [Content design for data tables, spreadsheets, CSVs and APIs from Benjy Stanton (GitHub Gist)](https://gist.github.com/benjystanton/f027bfcfa30c009276e069a3e4c74bf5)
