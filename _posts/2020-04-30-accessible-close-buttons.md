@@ -6,8 +6,6 @@ image: "download-button-sketch.jpg"
 image-alt: "Drawing of a × symbol in a box on grid paper"
 ---
 
-## Things to consider
-
 - Mark up as a button, e.g. `<button type="button"></button>`
 - Tap target should be at least 44px
 - Needs an accessible text label, for example `aria-label="Close"`
