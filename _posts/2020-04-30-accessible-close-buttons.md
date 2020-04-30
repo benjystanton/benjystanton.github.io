@@ -12,6 +12,9 @@ image-alt: "Drawing of a × symbol in a box on grid paper"
 - Use an `<svg>` icon or a `×` character 
 - Add styles for keyboard focus and mouse hover
 
+## To do
+- Look into things to consider for voice input software, like Dragon NaturallySpeaking
+
 ## Example mark-up
 
 ```

@@ -5,8 +5,8 @@
     <description>Hi, my name is Benjy Stanton and I’m an interaction designer.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 30 Apr 2020 20:48:42 +0100</pubDate>
-    <lastBuildDate>Thu, 30 Apr 2020 20:48:42 +0100</lastBuildDate>
+    <pubDate>Thu, 30 Apr 2020 21:31:42 +0100</pubDate>
+    <lastBuildDate>Thu, 30 Apr 2020 21:31:42 +0100</lastBuildDate>
     <generator>Jekyll v3.8.4</generator>
     
       <item>
@@ -17,6 +17,11 @@
   &lt;li&gt;Needs an accessible text label, for example &lt;code class=&quot;highlighter-rouge&quot;&gt;aria-label=&quot;Close&quot;&lt;/code&gt;&lt;/li&gt;
   &lt;li&gt;Use an &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;svg&amp;gt;&lt;/code&gt; icon or a &lt;code class=&quot;highlighter-rouge&quot;&gt;×&lt;/code&gt; character&lt;/li&gt;
   &lt;li&gt;Add styles for keyboard focus and mouse hover&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;to-do&quot;&gt;To do&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Look into things to consider for voice input software, like Dragon NaturallySpeaking&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;example-mark-up&quot;&gt;Example mark-up&lt;/h2&gt;
