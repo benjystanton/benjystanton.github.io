@@ -2,6 +2,7 @@
 layout: page
 title: Style guide
 permalink: /style-guide/
+excerpt: Notes about my site's build, typography, colours and components.
 ---
 
 ## Build
