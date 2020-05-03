@@ -5,7 +5,9 @@ permalink: /style-guide/
 ---
 
 ## Build
-This blog is built with [Jekyll](https://jekyllrb.com/) and hosted on [GitHub](https://github.com/benjystanton/benjystanton.github.io ).
+This blog is built with [Jekyll](https://jekyllrb.com/) and hosted with [GitHub Pages](https://pages.github.com/). Here's a [link to the repo](https://github.com/benjystanton/benjystanton.github.io).
+
+Spotted an error or something that could be improved? Please [create an issue](https://github.com/benjystanton/benjystanton.github.io/issues).
 
 ## Fonts
 I'm using system fonts, I borrowed this font stack from [Andy](https://twitter.com/hankchizljaw/status/1254800627789676548).
@@ -88,7 +90,7 @@ Smaller, lighter text used for the "published on" date and image captions.
 <p class="text-small">%e %B %Y</p>
 ```
 
-<p class="text-small">Website last updated on {{ "now" | date: "%e %B %Y" }}</p>
+<p class="text-small">This site was last generated on {{ "now" | date: "%e %B %Y" }}</p>
 
 ## Big numbers
 
@@ -190,53 +192,26 @@ Image captions aren't supported in standard Markdown so I've made an `image-with
 %}
 ```
 
-## SVGs
+## SVG icons
 
-I've made the SVGs extra accessible by using [Léonie Watson's accessible SVGs technique](http://decks.tink.uk/2017/lws/index.html#cover).
+Here are some common attributes that I use with SVGs.
 
-- use `role="img"` so that SVGs are exposed to assistive technology like screen readers
-- use the SVG's `<title>` tag together with `aria-labelledby` to expose the name to assistive technology
+- `height="10"`
+- `width="10"`
+- `viewBox="0 0 10 10"`
+- `aria-hidden="true"`
+- `xmlns="http://www.w3.org/2000/svg"`
+- `focusable="false"`
+- `fill="currentColor"`
+
 
 ```
-<svg width="165" viewBox="0 0 320 104">
-  <g role="img" aria-labelledby="logo-title">
-    <title id="logo-title">Benjy Stanton</title>
-    ...
-  </g>
-</svg>
+{% include benjy-stanton-logo.svg %}
 ```
 
 {% include benjy-stanton-logo.svg %}
 
-## Emoji (work in progress)
-
-Use the `emoji.html` include, so that we can add some alt text. Technique inspired by <a href="https://tink.uk/accessible-emoji/">Léonie Watson</a>.
-
-{% raw %}  
-```
-{%
-  include emoji.html
-  emoji="💩"
-  alt-text="Pile of poo"
-%}
-```
-{% endraw %}
-
-<ul class="list-inline">
-<li>{% include emoji.html emoji="💩" alt-text="Pile of poo" %}</li>
-<li><span class="heading-large">{% include emoji.html emoji="👻" alt-text="Ghost" %}</span></li>
-<li><span class="heading-xxlarge">{% include emoji.html emoji="🤖" alt-text="Robot" %}</span></li>
-</ul>
-
-## Icons
-
-Use SVG icons because they look crisper and can be controlled using CSS.
-
-```
-<span class="icon">{% include icon-twitter.svg %}</span>
-```
-
-<p><span class="icon">{% include icon-twitter.svg %}</span></p>
+Logo designed by Saph at [Magenta](http://www.magentaphotography.co.uk/)
 
 ***
 
