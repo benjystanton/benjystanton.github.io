@@ -45,9 +45,6 @@ h1, h2, h3, h4, h5, h6, p, blockquote, pre, ul, ol, dl, figure, figcaption, svg,
 h1, h2, h3, h4, h5, h6 {
   line-height: 1.2;
   margin-top: 36px; }
-  @media screen and (min-width: 660px) {
-    h1, h2, h3, h4, h5, h6 {
-      margin-top: 72px; } }
 
 h1 {
   margin-bottom: 36px;
@@ -74,6 +71,7 @@ h1, .heading-xlarge {
 
 h2, .heading-large {
   font-family: "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  margin-top: 72px;
   font-size: 28px;
   font-weight: 900; }
   @media screen and (min-width: 660px) {
@@ -82,15 +80,16 @@ h2, .heading-large {
 
 h3, .heading-medium {
   font-size: 22px;
-  margin-bottom: 0;
+  margin-top: 72px;
+  margin-bottom: 9px;
   font-weight: 900; }
   @media screen and (min-width: 660px) {
     h3, .heading-medium {
-      font-size: 26px;
-      margin-top: 36px; } }
+      font-size: 26px; } }
 
 h4, .heading-small {
   font-size: 18px;
+  margin-bottom: 9px;
   font-weight: 900; }
   @media screen and (min-width: 660px) {
     h4, .heading-small {
@@ -259,12 +258,6 @@ blockquote {
     background-color: #ffffff; }
   .site-header .logo svg {
     margin-bottom: 0; }
-    @media screen and (min-width: 660px) {
-      .site-header .logo svg {
-        width: 180px; } }
-    @media screen and (min-width: 900px) {
-      .site-header .logo svg {
-        width: 200px; } }
     .site-header .logo svg path {
       fill: #007575; }
 
@@ -442,6 +435,7 @@ code {
   padding: 1px 5px; }
 
 pre {
+  margin-top: 9px;
   padding: 8px 12px;
   overflow-x: scroll; }
   pre > code {

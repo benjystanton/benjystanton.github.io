@@ -5,8 +5,8 @@
     <description>Hi, my name is Benjy Stanton and I’m an interaction designer.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 30 Apr 2020 21:31:42 +0100</pubDate>
-    <lastBuildDate>Thu, 30 Apr 2020 21:31:42 +0100</lastBuildDate>
+    <pubDate>Sun, 03 May 2020 12:19:57 +0100</pubDate>
+    <lastBuildDate>Sun, 03 May 2020 12:19:57 +0100</lastBuildDate>
     <generator>Jekyll v3.8.4</generator>
     
       <item>
@@ -27,7 +27,7 @@
 &lt;h2 id=&quot;example-mark-up&quot;&gt;Example mark-up&lt;/h2&gt;
 
 &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;button type=&quot;button&quot; aria-label=&quot;Close&quot;&amp;gt;
-&amp;lt;svg width=&quot;44&quot; height=&quot;44&quot; viewBox=&quot;0 0 44 44&quot; aria-hidden=&quot;true&quot;&amp;gt;
+&amp;lt;svg width=&quot;44&quot; height=&quot;44&quot; viewBox=&quot;0 0 44 44&quot; aria-hidden=&quot;true&quot; focusable=&quot;false&quot;&amp;gt;
 &amp;lt;path d=&quot;M0.549989 4.44999L4.44999 0.549988L43.45 39.55L39.55 43.45L0.549989 4.44999Z&quot; /&amp;gt;
 &amp;lt;path d=&quot;M39.55 0.549988L43.45 4.44999L4.44999 43.45L0.549988 39.55L39.55 0.549988Z&quot; /&amp;gt;
 &amp;lt;/svg&amp;gt;
