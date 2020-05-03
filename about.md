@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+excerpt: About me, my work experience and speaking experience.
 ---
 
 <p class="lede">My name is Benjy Stanton and I’m an interaction designer at <a href="http://www.swirrl.com/" aria-label="Swirl">Swirrl</a>.</p>

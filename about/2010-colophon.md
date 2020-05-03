@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Colophon (2010)
+excerpt: An old page that preceded my Style Guide
 ---
 <p class="lede">This is an archived colophon from 2010, it’s no longer accurate.</p>
 

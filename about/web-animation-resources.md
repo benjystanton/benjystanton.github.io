@@ -2,6 +2,7 @@
 layout: page
 title: Web Animation Resources
 permalink: /about/web-animation-resources/
+excerpt: A list of Web Animation Resources  
 ---
 
 A growing collection of resources to help you get started with animation on the web. Last updated on Friday 20th June 2014.
