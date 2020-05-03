@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Style Guide
+title: Style guide
 permalink: /style-guide/
 ---
 
