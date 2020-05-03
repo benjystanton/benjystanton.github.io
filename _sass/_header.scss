@@ -37,12 +37,6 @@
     .logo svg {
       // Base size for small and css-free layouts is set inside the SVG
       margin-bottom: 0;
-      @include media-query($medium) {
-        width: 180px;
-      }
-      @include media-query($large) {
-        width: 200px;
-      }
       path {
         fill: $primary-colour;
       }
