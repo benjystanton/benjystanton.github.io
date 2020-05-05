@@ -1,43 +1,83 @@
 // Reset
 
-body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure, figcaption {
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+hr,
+dl,
+dd,
+ol,
+ul,
+figure,
+figcaption {
   margin: 0;
   padding: 0;
 }
 
 // Variables
 
-$base-font-family:    'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
-$heading-font-family: 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+$base-font-family: 'Segoe UI',
+Roboto,
+'Helvetica Neue',
+Arial,
+sans-serif;
+$heading-font-family: 'Segoe UI',
+Roboto,
+'Helvetica Neue',
+Arial,
+sans-serif;
 // Switching to Andy's recommended font stack until Chrome fix that bug https://twitter.com/hankchizljaw/status/1254800627789676548
-$base-font-size:      18px;
-$small-font-size:     16px;
-$base-line-height:    1.4;
-$spacing-unit:        36px;
+$base-font-size: 18px;
+$small-font-size: 16px;
+$base-line-height: 1.4;
+$spacing-unit: 36px;
 
 // Basic styling
 
 body {
-  font-family:      $base-font-family;
-  font-size:        $base-font-size;
-  line-height:      $base-line-height;
-  color:            $text-colour;
+  font-family: $base-font-family;
+  font-size: $base-font-size;
+  line-height: $base-line-height;
+  color: $text-colour;
   // -webkit-text-size-adjust: 100%;
 
   @include media-query($medium) {
-      font-size: 20px;
-      line-height: $base-line-height*1.2;
+    font-size: 20px;
+    line-height: $base-line-height*1.2;
   }
 
   @include media-query($large) {
-      font-size: 22px;
+    font-size: 22px;
   }
 }
 
 // Vertical rhythm
 
-h1, h2, h3, h4, h5, h6, p, blockquote, pre, ul, ol, dl, figure, figcaption, svg, %vertical-rhythm {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+ul,
+ol,
+dl,
+figure,
+figcaption,
+svg,
+%vertical-rhythm {
   margin-bottom: $spacing-unit/2;
+
   @include media-query($medium) {
     margin-bottom: $spacing-unit;
   }
@@ -45,7 +85,12 @@ h1, h2, h3, h4, h5, h6, p, blockquote, pre, ul, ol, dl, figure, figcaption, svg,
 
 // Heading spacing
 
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   line-height: 1.2;
   margin-top: $spacing-unit;
 }
@@ -60,39 +105,73 @@ h1 {
 .heading-xxlarge {
   font-family: $heading-font-family;
   font-size: 56px;
-  @include media-query($medium) {font-size: 74px;}
+
+  @include media-query($medium) {
+    font-size: 72px;
+  }
+
+  @include media-query($large) {
+    font-size: 96px;
+  }
+
   font-weight: 900;
 }
 
-h1, .heading-xlarge {
+h1,
+.heading-xlarge {
   font-family: $heading-font-family;
   font-size: 32px;
-  @include media-query($medium) {font-size: 44px;}
-  @include media-query($large) {font-size: 56px;}
+
+  @include media-query($medium) {
+    font-size: 44px;
+  }
+
+  @include media-query($large) {
+    font-size: 72px;
+  }
+
   font-weight: 900;
 }
 
-h2, .heading-large {
+h2,
+.heading-large {
   font-family: $base-font-family;
   margin-top: $spacing-unit*2;
   font-size: 28px;
-  @include media-query($medium) {font-size: 32px;}
+
+  @include media-query($medium) {
+    font-size: 32px;
+  }
+
   font-weight: 900;
 }
 
-h3, .heading-medium {
+h3,
+.heading-medium {
   font-size: 22px;
   margin-top: $spacing-unit*2;
   margin-bottom: $spacing-unit/4;
-  @include media-query($medium) {font-size: 26px;}
+
+  @include media-query($medium) {
+    font-size: 26px;
+  }
+
   font-weight: 900;
 }
 
-h4, .heading-small {
+h4,
+.heading-small {
   font-size: 18px;
   margin-bottom: $spacing-unit/4;
-  @include media-query($medium) {font-size: 20px;}
-  @include media-query($large) {font-size: 22px;}
+
+  @include media-query($medium) {
+    font-size: 20px;
+  }
+
+  @include media-query($large) {
+    font-size: 22px;
+  }
+
   font-weight: 900;
 }
 
@@ -109,6 +188,7 @@ small {
 .lede {
   font-size: 22px;
   line-height: 1.3;
+
   @include media-query($medium) {
     font-size: 26px;
     line-height: 1.4;
@@ -125,14 +205,16 @@ small {
 
 // Lists
 
-ul, ol {
+ul,
+ol {
   margin-left: $spacing-unit;
 }
 
 li {
-  > ul,
-  > ol {
-       margin-bottom: 0;
+
+  >ul,
+  >ol {
+    margin-bottom: 0;
   }
 }
 
@@ -168,6 +250,7 @@ dd {
 
 .list-pairs li {
   margin-bottom: $spacing-unit/2;
+
   @include media-query($medium) {
     margin-bottom: $spacing-unit/2;
   }
@@ -183,6 +266,7 @@ hr {
   border: 0;
   border-bottom: $spacing-unit/4 solid $text-colour;
   margin: $spacing-unit 0;
+
   @include media-query($medium) {
     margin: $spacing-unit*2 0;
   }

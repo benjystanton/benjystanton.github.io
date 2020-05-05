@@ -19,7 +19,23 @@
   background-color: #007575;
   color: #ffffff; }
 
-body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure, figcaption {
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+hr,
+dl,
+dd,
+ol,
+ul,
+figure,
+figcaption {
   margin: 0;
   padding: 0; }
 
@@ -36,13 +52,48 @@ body {
     body {
       font-size: 22px; } }
 
-h1, h2, h3, h4, h5, h6, p, blockquote, pre, ul, ol, dl, figure, figcaption, svg, .highlight {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+ul,
+ol,
+dl,
+figure,
+figcaption,
+svg,
+.highlight {
   margin-bottom: 18px; }
   @media screen and (min-width: 660px) {
-    h1, h2, h3, h4, h5, h6, p, blockquote, pre, ul, ol, dl, figure, figcaption, svg, .highlight {
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6,
+    p,
+    blockquote,
+    pre,
+    ul,
+    ol,
+    dl,
+    figure,
+    figcaption,
+    svg,
+    .highlight {
       margin-bottom: 36px; } }
 
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   line-height: 1.2;
   margin-top: 36px; }
 
@@ -56,46 +107,59 @@ h1 {
   font-weight: 900; }
   @media screen and (min-width: 660px) {
     .heading-xxlarge, .big-number {
-      font-size: 74px; } }
+      font-size: 72px; } }
+  @media screen and (min-width: 900px) {
+    .heading-xxlarge, .big-number {
+      font-size: 96px; } }
 
-h1, .heading-xlarge {
+h1,
+.heading-xlarge {
   font-family: "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
   font-size: 32px;
   font-weight: 900; }
   @media screen and (min-width: 660px) {
-    h1, .heading-xlarge {
+    h1,
+    .heading-xlarge {
       font-size: 44px; } }
   @media screen and (min-width: 900px) {
-    h1, .heading-xlarge {
-      font-size: 56px; } }
+    h1,
+    .heading-xlarge {
+      font-size: 72px; } }
 
-h2, .heading-large {
+h2,
+.heading-large {
   font-family: "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
   margin-top: 72px;
   font-size: 28px;
   font-weight: 900; }
   @media screen and (min-width: 660px) {
-    h2, .heading-large {
+    h2,
+    .heading-large {
       font-size: 32px; } }
 
-h3, .heading-medium {
+h3,
+.heading-medium {
   font-size: 22px;
   margin-top: 72px;
   margin-bottom: 9px;
   font-weight: 900; }
   @media screen and (min-width: 660px) {
-    h3, .heading-medium {
+    h3,
+    .heading-medium {
       font-size: 26px; } }
 
-h4, .heading-small {
+h4,
+.heading-small {
   font-size: 18px;
   margin-bottom: 9px;
   font-weight: 900; }
   @media screen and (min-width: 660px) {
-    h4, .heading-small {
+    h4,
+    .heading-small {
       font-size: 20px; } }
   @media screen and (min-width: 900px) {
-    h4, .heading-small {
+    h4,
+    .heading-small {
       font-size: 22px; } }
 
 small {
@@ -120,7 +184,8 @@ small {
 .post-header h1 {
   margin-bottom: 18px; }
 
-ul, ol {
+ul,
+ol {
   margin-left: 36px; }
 
 li > ul,
