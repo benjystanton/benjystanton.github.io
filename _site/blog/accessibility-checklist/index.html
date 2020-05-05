@@ -5,7 +5,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Accessibility checklist – Benjy Stanton</title>
-  <meta name="description" content="A list of accessibility recommendations, tips and resources.">
+  <meta name="description" content="A list of accessibility recommendations, tips and resources. Last updated on 5 May 2020.">
   <link rel="stylesheet" href="/css/main.css">
   <link rel="canonical" href="http://localhost:4000/blog/accessibility-checklist/">
   <link rel="alternate" type="application/rss+xml" title="Benjy Stanton" href="http://localhost:4000/feed.xml" />
@@ -20,7 +20,7 @@
   <meta name="twitter:card" content="summary">
   <meta name="twitter:site" content="BenjyStanton">
   <meta name="twitter:title" content="Accessibility checklist" />
-  <meta name="twitter:description" content="A list of accessibility recommendations, tips and resources." />
+  <meta name="twitter:description" content="A list of accessibility recommendations, tips and resources. Last updated on 5 May 2020." />
   <meta name="twitter:image:src" content="http://localhost:4000/assets/benjy-stanton.jpg">
   <meta name="twitter:image:alt" content="Benjy Stanton's profile pic.">
   
@@ -108,7 +108,7 @@
 
   </header>
   <div class="e-content">
-    <p class="lede">A list of accessibility recommendations, tips and resources.</p>
+    <p class="lede">A list of accessibility recommendations, tips and resources. Last updated on 5 May 2020.</p>
 
 <h2 id="typography">Typography</h2>
 
@@ -121,7 +121,7 @@
   <li>Add suitable vertical spacing between lines and paragraphs</li>
   <li>Avoid italics, block capitals or justified text</li>
   <li>Use a san-serif font with thick letters</li>
-  <li>Make sure text can be resized</li>
+  <li><a href="https://css-tricks.com/accessible-font-sizing-explained/">Make sure text can be resized</a></li>
 </ul>
 
 <h2 id="written-content">Written content</h2>
@@ -176,10 +176,12 @@
 
 <ul>
   <li><a href="https://www.w3.org/WAI/tutorials/forms/labels/#associating-labels-explicitly">All form inputs should have labels and be linked with a ‘for’ attribute</a></li>
-  <li>Forms and interactive elements should have useful hints</li>
+  <li>Forms and interactive elements should have useful hints if needed</li>
   <li>Error messages should suggest ways to fix errors</li>
   <li>Error messages should show a summary of errors above the h1 and move focus to it</li>
   <li>Error message summaries should include an h1 message that tells the screen reader user there is a problem, and give a list of descriptive errors with links to the relevant fields</li>
+  <li><a href="/blog/accessible-search-form-mark-up/">Example search form mark-up</a></li>
+  <li><a href="/blog/accessible-close-buttons/">Close buttons</a></li>
 </ul>
 
 <h2 id="images">Images</h2>
@@ -193,6 +195,8 @@
 <h2 id="layout-and-structure">Layout and structure</h2>
 
 <ul>
+  <li>Use HTML sectioning elements like <code class="highlighter-rouge">&lt;header&gt;</code>, <code class="highlighter-rouge">&lt;main&gt;</code> and <code class="highlighter-rouge">&lt;nav&gt;</code></li>
+  <li>Add a <a href="https://design-system.service.gov.uk/components/skip-link/">skip to main content link</a></li>
   <li>Layout should be consistent and predictable</li>
   <li>Do not rely upon shape, size, or visual location (for example, “Click the square icon to continue” or “Instructions are in the right-hand column”)</li>
   <li>Check reading and navigation order is logical</li>
@@ -237,7 +241,6 @@
   <li><a href="https://fossheim.io/writing/posts/accessible-design-tools/">Tools for designing good-looking accessible interfaces</a></li>
   <li><a href="https://github.com/hmrc/accessibility">Accessibility resources GitHub repo from  Phil Sherry</a></li>
   <li><a href="http://www.webaxe.org/wcag-cheat-sheets/">WCAG Cheat Sheets and Checklists from WebAxe</a></li>
-  <li><a href="https://css-tricks.com/accessible-font-sizing-explained/">Accessible Font Sizing, Explained from CSS-Tricks</a></li>
 </ul>
 
   </div>

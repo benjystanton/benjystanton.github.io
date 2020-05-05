@@ -5,7 +5,7 @@ categories: nablopomo accessibility
 tag: NaBloPoMo2019
 ---
 
-<p class="lede">A list of accessibility recommendations, tips and resources.</p>
+<p class="lede">A list of accessibility recommendations, tips and resources. Last updated on 5 May 2020.</p>
 
 ## Typography
 
@@ -17,7 +17,7 @@ tag: NaBloPoMo2019
 - Add suitable vertical spacing between lines and paragraphs
 - Avoid italics, block capitals or justified text
 - Use a san-serif font with thick letters
-- Make sure text can be resized
+- [Make sure text can be resized](https://css-tricks.com/accessible-font-sizing-explained/)
 
 ## Written content
 
@@ -62,10 +62,12 @@ Read this blog post about [making charts more accessible]({{ site.url }}/blog/a-
 ## Forms
 
 - [All form inputs should have labels and be linked with a 'for' attribute](https://www.w3.org/WAI/tutorials/forms/labels/#associating-labels-explicitly)
-- Forms and interactive elements should have useful hints
+- Forms and interactive elements should have useful hints if needed
 - Error messages should suggest ways to fix errors
 - Error messages should show a summary of errors above the h1 and move focus to it
 - Error message summaries should include an h1 message that tells the screen reader user there is a problem, and give a list of descriptive errors with links to the relevant fields
+- [Example search form mark-up]({{ site.baseurl}}/blog/accessible-search-form-mark-up/)
+- [Close buttons]({{ site.baseurl}}/blog/accessible-close-buttons/)
 
 ## Images
 
@@ -75,6 +77,8 @@ Read this blog post about [making charts more accessible]({{ site.url }}/blog/a-
 
 ## Layout and structure
 
+- Use HTML sectioning elements like `<header>`, `<main>` and `<nav>`
+- Add a [skip to main content link](https://design-system.service.gov.uk/components/skip-link/)
 - Layout should be consistent and predictable
 - Do not rely upon shape, size, or visual location (for example, "Click the square icon to continue" or "Instructions are in the right-hand column")
 - Check reading and navigation order is logical
@@ -111,4 +115,3 @@ Read this blog post about [making charts more accessible]({{ site.url }}/blog/a-
 - [Tools for designing good-looking accessible interfaces](https://fossheim.io/writing/posts/accessible-design-tools/)
 - [Accessibility resources GitHub repo from  Phil Sherry](https://github.com/hmrc/accessibility)
 - [WCAG Cheat Sheets and Checklists from WebAxe](http://www.webaxe.org/wcag-cheat-sheets/)
-- [Accessible Font Sizing, Explained from CSS-Tricks](https://css-tricks.com/accessible-font-sizing-explained/)
