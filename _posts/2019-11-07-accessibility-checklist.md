@@ -39,6 +39,7 @@ tag: NaBloPoMo2019
 - Use tables as accessible alternatives to charts and infographics
 - Split complex tables into multiple small ones
 - Use correct table markup for headers, rows and cells, so screen reader users can understand and navigate them
+- [Making data tables more accessible]({{ site.baseurl}}/blog/making-data-tables-more-accessible/)
 
 ## Charts
 
