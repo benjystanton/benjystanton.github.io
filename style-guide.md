@@ -136,7 +136,7 @@ Use the `file-link.html` include when you need to link a file and specify the fi
   text="View the raw data"
   url="https://github.com/benjystanton/benjystanton.github.io/blob/master/_data/work-trips-2018.yml"
   format="YML"
-  size="3KB"
+  file-size="3KB"
 %}
 
 ## Symbols
