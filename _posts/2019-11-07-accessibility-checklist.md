@@ -113,8 +113,8 @@ Read this blog post about [making charts more accessible]({{ site.url }}/blog/a-
 
 ## Related links
 
-- [Checklist to avoid the most common accessibility errors](https://www.brucelawson.co.uk/2019/checklist-to-avoid-the-most-common-accessibility-errors/)
-- [The intersection of markup, content and context in accessibility](https://www.24a11y.com/2019/the-intersection-of-markup-content-and-context-in-accessibility/)
-- [Tools for designing good-looking accessible interfaces](https://fossheim.io/writing/posts/accessible-design-tools/)
-- [Accessibility resources GitHub repo from  Phil Sherry](https://github.com/hmrc/accessibility)
+- [Checklist to avoid the most common accessibility errors from Bruce Lawson](https://www.brucelawson.co.uk/2019/checklist-to-avoid-the-most-common-accessibility-errors/)
+- [Tools for designing good-looking accessible interfaces from Sarah L. Fossheim](https://fossheim.io/writing/posts/accessible-design-tools/)
+- [Accessibility resources GitHub repo from Phil Sherry](https://github.com/hmrc/accessibility)
 - [WCAG Cheat Sheets and Checklists from WebAxe](http://www.webaxe.org/wcag-cheat-sheets/)
+- [Doing a basic accessibility check if you cannot do a detailed one guidance from GOV.UK](https://www.gov.uk/government/publications/doing-a-basic-accessibility-check-if-you-cant-do-a-detailed-one/doing-a-basic-accessibility-check-if-you-cant-do-a-detailed-one)
