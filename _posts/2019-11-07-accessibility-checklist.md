@@ -5,7 +5,7 @@ categories: nablopomo accessibility
 tag: NaBloPoMo2019
 ---
 
-<p class="lede">A list of accessibility recommendations, tips and resources. Last updated on 6 May 2020.</p>
+<p class="lede">A list of accessibility recommendations, tips and resources. Last updated on 7 May 2020.</p>
 
 ## Typography
 
@@ -64,6 +64,7 @@ Read this blog post about [making charts more accessible]({{ site.url }}/blog/a-
 ## Forms
 
 - [All form inputs should have labels and be linked with a 'for' attribute](https://www.w3.org/WAI/tutorials/forms/labels/#associating-labels-explicitly)
+- [Group radios together](https://design-system.service.gov.uk/components/radios/) with a `<fieldset>` and a `<legend>`
 - Forms and interactive elements should have useful hints if needed
 - Error messages should suggest ways to fix errors
 - Error messages should show a summary of errors above the h1 and move focus to it
