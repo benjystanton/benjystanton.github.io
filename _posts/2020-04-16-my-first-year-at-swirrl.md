@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My first year at Swirrl
-categories: personal
+categories: personal swirrl
 image: "by-the-power-of-data.jpg"
 image-alt: "A round sticker that says 'by the power of data'. He-Man stands in front, raising his sword."
 ---
