@@ -4,6 +4,8 @@ title: A plan for accessible charts
 categories: accessibility data
 excerpt: A list of user research findings, accessibility report findings, best practice, resources and good ideas that I’ve collected over the past 2 years.
 last_modified_at: 10 May 2020
+image: "a11y-chart.jpg"
+image-alt: "Sketch of the word A11y on grid paper boxed in by x and y axis lines"
 ---
 
 <p class="lede">A list of user research findings, accessibility report findings, best practice, resources and good ideas that I’ve collected. Last updated on {{ page.last_modified_at }}.</p>
