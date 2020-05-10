@@ -3,9 +3,10 @@ layout: post
 title: Accessibility checklist
 categories: nablopomo accessibility
 tag: NaBloPoMo2019
+last_modified_at: 7 May 2020
 ---
 
-<p class="lede">A list of accessibility recommendations, tips and resources. Last updated on 7 May 2020.</p>
+<p class="lede">A list of accessibility recommendations, tips and resources. Last updated on {{ page.last_modified_at }}.</p>
 
 ## Typography
 

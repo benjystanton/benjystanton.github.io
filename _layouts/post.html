@@ -10,7 +10,7 @@ layout: default
       "url": "{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}",
       "headline": "{{ page.title }}",
       "datePublished": "{{ page.date | date: "%e %B %Y" }}",
-      "dateModified": "{{ page.date | date: "%e %B %Y" }}",
+      "dateModified": "{% if page.last_modified_at %}{{ page.last_modified_at }}{% else %}{{ page.date | date: "%e %B %Y" }}{% endif %}",
       "author": {
         "@type": "Person",
         "name": "Benjy Stanton",

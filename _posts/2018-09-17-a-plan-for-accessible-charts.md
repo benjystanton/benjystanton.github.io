@@ -3,11 +3,25 @@ layout: post
 title: A plan for accessible charts
 categories: accessibility data
 excerpt: A list of user research findings, accessibility report findings, best practice, resources and good ideas that I’ve collected over the past 2 years.
+last_modified_at: 10 May 2020
 ---
 
-<p class="lede">A list of user research findings, accessibility report findings, best practice, resources and good ideas that I’ve collected over the past 2 years.</p>
+<p class="lede">A list of user research findings, accessibility report findings, best practice, resources and good ideas that I’ve collected. Last updated on {{ page.last_modified_at }}.</p>
 
-The next step is to create some prototype charts and start iterating. But I wanted to write-up and share the work so far, in case it’s useful to others.
+## How to make charts more accessible
+
+- Keep the layout simple and mobile friendly
+- Present the information in more than one way
+- Use clear, readable typography
+- Check the chart is understandable in black and white
+- Label the data directly
+- Don't use light shades and colours
+- Use valid, semantic mark-up
+- Interactive elements should be controllable with a keyboard
+- Use vector formats that can be zoomed-in (like SVG)
+- Consider using patterns or textures to distinguish bars and lines
+
+Read on for more detail.
 
 ## Colour
 
@@ -16,7 +30,6 @@ The next step is to create some prototype charts and start iterating. But I want
 - Consider colour blind users (use colour blind simulators to check)
 - Charts should be readable in black and white
 - Check design works in high contrast mode
-
 
 ### Update on colour
 <span class="text-small"> By <a href="https://twitter.com/henryjameslau">Henry Lau</a> on 5 December 2018<span>
@@ -86,7 +99,6 @@ Be mindful that when using colour to represents your data that it shows the rela
 - Use `figure` element to wrap the chart
 - Use `figcaption` for the chart title
 - Use `footer` inside the `figure` element to contain any notes or citation information
-
 
 ## Other resources
 
