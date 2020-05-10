@@ -10,7 +10,7 @@ image-alt: "Sketch of the word A11y on grid paper boxed in by x and y axis lines
 
 <p class="lede">A list of user research findings, accessibility report findings, best practice, resources and good ideas that I’ve collected. Last updated on {{ page.last_modified_at }}.</p>
 
-## How to make charts more accessible
+## How to make accessible charts
 
 - Keep the layout simple and mobile friendly
 - Present the information in more than one way
