@@ -4,16 +4,14 @@ title: Accessible close buttons
 categories: ux accessibility design
 image: "download-button-sketch.jpg"
 image-alt: "Drawing of a × symbol in a box on grid paper"
+last_modified_at: 11 May 2020
 ---
 
-- Mark up as a button, e.g. `<button type="button"></button>`
+- Mark up as a button, e.g. `<button type="button">…</button>`
 - Tap target should be at least 44px
 - Needs an accessible text label, for example `aria-label="Close"`
 - Use an `<svg>` icon or a `×` character 
 - Add styles for keyboard focus and mouse hover
-
-## To do
-- Look into things to consider for voice input software, like Dragon NaturallySpeaking
 
 ## Example mark-up
 
@@ -26,6 +24,10 @@ image-alt: "Drawing of a × symbol in a box on grid paper"
 </button>
 ```
 
+## Update 11 May 2020
+
+[Adam](https://twitter.com/adambsilver/status/1256142121142300674) suggested that using a text label with the icon (or even just text, with no icon) would improve accessibility for voice dictation software.
+
 ## Further reading
 
 - [Using the aria-label attribute from MDN web docs](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/ARIA_Techniques/Using_the_aria-label_attribute)
@@ -34,3 +36,5 @@ image-alt: "Drawing of a × symbol in a box on grid paper"
 - [Target Size and 2.5.5 from Adrian Roselli](https://adrianroselli.com/2019/06/target-size-and-2-5-5.html)
 - [Modals dialogues from Bulb Energy's design system](https://design.bulb.co.uk/components/modal)
 - [Modal dialogues from GOV.UK design system's backlog](https://github.com/alphagov/govuk-design-system-backlog/issues/30)
+- [Accessible Icon Buttons from Sara Soueidan](https://www.sarasoueidan.com/blog/accessible-icon-buttons/)
+- [aria-label Does Not Translate from Adrian Roselli](https://adrianroselli.com/2019/11/aria-label-does-not-translate.html)
