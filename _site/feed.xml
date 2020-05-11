@@ -5,8 +5,8 @@
     <description>Hi, my name is Benjy Stanton and I’m an interaction designer.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 11 May 2020 22:07:07 +0100</pubDate>
-    <lastBuildDate>Mon, 11 May 2020 22:07:07 +0100</lastBuildDate>
+    <pubDate>Mon, 11 May 2020 22:18:25 +0100</pubDate>
+    <lastBuildDate>Mon, 11 May 2020 22:18:25 +0100</lastBuildDate>
     <generator>Jekyll v3.8.7</generator>
     
       <item>
@@ -79,6 +79,10 @@
 
 &lt;p&gt;In these situations the link text should clearly state what’s going to happen, for example: 
 &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;a href=&quot;#&quot; rel=&quot;noopener noreferrer&quot;&amp;gt;Link to a thing (opens in a new window or tab)&amp;lt;/a&amp;gt;&lt;/code&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;update-11-may-2020&quot;&gt;Update 11 May 2020&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/adambsilver&quot;&gt;Adam&lt;/a&gt; suggests that PDF links can be downloaded to the device, instead of opened in a new tab, by using the &lt;code class=&quot;highlighter-rouge&quot;&gt;download&lt;/code&gt; attribute.&lt;/p&gt;
 
 &lt;h2 id=&quot;source&quot;&gt;Source&lt;/h2&gt;
 &lt;ul&gt;
