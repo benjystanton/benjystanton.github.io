@@ -197,16 +197,7 @@ Image captions aren't supported in standard Markdown so I've made an `image-with
 
 ## SVG icons
 
-Here are some common attributes that I use with SVGs.
-
-- `height="10"`
-- `width="10"`
-- `viewBox="0 0 10 10"`
-- `aria-hidden="true"`
-- `xmlns="http://www.w3.org/2000/svg"`
-- `focusable="false"`
-- `fill="currentColor"`
-
+[Read more about SVGs in this blog post]({{ site.url}}/blog/add-svg-icons/)
 
 ```
 {% include benjy-stanton-logo.svg %}

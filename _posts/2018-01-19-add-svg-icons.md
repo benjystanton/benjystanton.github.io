@@ -1,43 +1,72 @@
 ---
 layout: post   
-title: "Add SVG icons to the footer"
-date: 2018-01-19 21:58:00  
-categories: release-notes accessibility
+title: Add SVG icons
+categories: release-notes accessibility svg
 image: svg-icon.png
-image-alt: An SVG icon surrounded by website text.
+image-alt: Screenshot of the Twitter bird being edited in a vector drawing application
+last_modified_at: 12 May 2020
 ---
 
-I've been meaning to switch out the old PNG icons on the site for a while. Inline SVG icons are better because they look crisper, can be controlled using CSS and have some performance gains.
+<p class="lede">Switching from PNGs (Portable Network Graphics) or Icon Fonts, to SVG (Scalable Vector Graphics) icons. Updated on {{ page.last_modified_at }}.</p>
 
+{%
+  include image-with-caption.html
+  image="svg-icon.png"
+  caption="The Twitter icon being edited in Figma"
+  alt-text="Screenshot of the Twitter bird being edited in a vector drawing application"
+%}
 
-## User story
+## SVGs are best for icons
 
-As a user, I need icons to help me recognise social links, so that I can spot links easily and be confident in where they'll take me.
+- SVGs are vector images
+- They can be zoomed without pixelating
+- Inline SVGs can be styled with CSS
+- Inline SVGs are good for performance
+- SVGs have accessibility advantages
+- They are better than icon fonts
+- [Browser support is good](https://caniuse.com/#feat=svg-html5)
+- Editable using code or vector drawing applications
 
-## Acceptance criteria
+## SVG attributes
 
-- PNG icons are switched to SVG Icons
-- SVG colour is controlled via CSS
-- [SVG is optimised](https://jakearchibald.github.io/svgomg/)
-- [SVG is accessible](http://decks.tink.uk/2017/lws/index.html)
-- Stop using the `<i>` tag
+- `height=""`
+- `width=""`
+- `viewBox=""`
+- `aria-hidden="true"`
+- `xmlns="http://www.w3.org/2000/svg"`
+- `focusable="false"`
+- `fill="currentColor"`
 
-## What's changed
+## Add `focusable="false"` to SVGs
+
+[Scott O'Hara explains why and when to use focusable=&quot;false&quot;](https://www.scottohara.me/blog/2019/05/22/contextual-images-svgs-and-a11y.html#svgs-that-are-decorative)
+
+> focusable=&quot;false&quot; is also used to ensure Internet Explorer won’t allow the Tab key to navigate into the SVG.
+
+## Inline SVG performance benefits
+- There is one less http request because we don't need to load an external image file
+- File size is often smaller (unless the icon very complex)
+- Only load what you need (instead of a whole icon font)
+
+## Related links
+
+- [Making SVG accessible from Léonie Watson](http://decks.tink.uk/2017/lws/index.html)
+- [Seriously, Don’t Use Icon Fonts from Tyler Sticka](https://cloudfour.com/thinks/seriously-dont-use-icon-fonts/)
+- [Tips for Creating Accessible SVG from SitePoint](https://www.sitepoint.com/tips-accessible-svg/)
+- [SVGOMG from Jake Archibald](https://jakearchibald.github.io/svgomg/)
+
+## What I changed on the blog
 
 ### Old HTML
-{% highlight html %}
+```
 <i class="icon icon-social icon-instagram">
 <span class="visuallyhidden">Instagram</span>
 </i>
-{% endhighlight %}
+```
 
 ### New HTML
-{% highlight html %}
+```
 <span class="icon">
-{% include icon-twitter.svg %}
+{% include icon-twitter.svg -%}
 </span>
-{% endhighlight %}
-
-### Performance
-- File size is reduced from 1.05 KB to 500 bytes
-- There is one less http request because we don't need to load an external image
+```

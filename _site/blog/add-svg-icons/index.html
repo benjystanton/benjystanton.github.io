@@ -4,8 +4,8 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Add SVG icons to the footer – Benjy Stanton</title>
-  <meta name="description" content="I’ve been meaning to switch out the old PNG icons on the site for a while. Inline SVG icons are better because they look crisper, can be controlled using CSS...">
+  <title>Add SVG icons – Benjy Stanton</title>
+  <meta name="description" content="Switching from PNGs (Portable Network Graphics) or Icon Fonts, to SVG (Scalable Vector Graphics) icons. Updated on 12 May 2020.">
   <link rel="stylesheet" href="/css/main.css">
   <link rel="canonical" href="http://localhost:4000/blog/add-svg-icons/">
   <link rel="alternate" type="application/rss+xml" title="Benjy Stanton" href="http://localhost:4000/feed.xml" />
@@ -19,10 +19,10 @@
   <!-- Twitter summary card stuff, based on http://davidensinger.com/2013/04/supporting-twitter-cards-with-jekyll/ -->
   <meta name="twitter:card" content="summary">
   <meta name="twitter:site" content="BenjyStanton">
-  <meta name="twitter:title" content="Add SVG icons to the footer" />
-  <meta name="twitter:description" content="I’ve been meaning to switch out the old PNG icons on the site for a while. Inline SVG icons are better because they look crisper, can be controlled using CSS..." />
+  <meta name="twitter:title" content="Add SVG icons" />
+  <meta name="twitter:description" content="Switching from PNGs (Portable Network Graphics) or Icon Fonts, to SVG (Scalable Vector Graphics) icons. Updated on 12 May 2020." />
   <meta name="twitter:image:src" content="http://localhost:4000/assets/svg-icon.png">
-  <meta name="twitter:image:alt" content="An SVG icon surrounded by website text.">
+  <meta name="twitter:image:alt" content="Screenshot of the Twitter bird being edited in a vector drawing application">
   
 </head>
 
@@ -65,9 +65,9 @@
       "@type": "BlogPosting",
       "image": "http://localhost:4000/assets/svg-icon.png",
       "url": "http://localhost:4000/blog/add-svg-icons/",
-      "headline": "Add SVG icons to the footer",
+      "headline": "Add SVG icons",
       "datePublished": "19 January 2018",
-      "dateModified": "19 January 2018",
+      "dateModified": "12 May 2020",
       "author": {
         "@type": "Person",
         "name": "Benjy Stanton",
@@ -92,7 +92,7 @@
 
 <article class="post-content h-entry">
   <header class="post-header">
-    <h1 class="post-title p-name">Add SVG icons to the footer</h1>
+    <h1 class="post-title p-name">Add SVG icons</h1>
     <p class="text-small">
   <img class="u-photo image-xs margin-bottom--0" src="http://localhost:4000/assets/benjy-stanton.jpg" alt="" height="50" width="50"> by
   <a rel="author" class="p-author h-card" href="http://localhost:4000">Benjy Stanton</a> on
@@ -101,52 +101,89 @@
 
 <a class="p-category" href="/blog/category/release-notes">release-notes</a>,
 
-<a class="p-category" href="/blog/category/accessibility">accessibility</a>
+<a class="p-category" href="/blog/category/accessibility">accessibility</a>,
+
+<a class="p-category" href="/blog/category/svg">svg</a>
 
 
 </p>
 
   </header>
   <div class="e-content">
-    <p>I’ve been meaning to switch out the old PNG icons on the site for a while. Inline SVG icons are better because they look crisper, can be controlled using CSS and have some performance gains.</p>
+    <p class="lede">Switching from PNGs (Portable Network Graphics) or Icon Fonts, to SVG (Scalable Vector Graphics) icons. Updated on 12 May 2020.</p>
 
-<h2 id="user-story">User story</h2>
+<figure>
+  <img src="http://localhost:4000/assets/svg-icon.png" alt="Screenshot of the Twitter bird being edited in a vector drawing application" />
+  <figcaption class="text-small">
+    The Twitter icon being edited in Figma
+  </figcaption>
+</figure>
 
-<p>As a user, I need icons to help me recognise social links, so that I can spot links easily and be confident in where they’ll take me.</p>
-
-<h2 id="acceptance-criteria">Acceptance criteria</h2>
+<h2 id="svgs-are-best-for-icons">SVGs are best for icons</h2>
 
 <ul>
-  <li>PNG icons are switched to SVG Icons</li>
-  <li>SVG colour is controlled via CSS</li>
-  <li><a href="https://jakearchibald.github.io/svgomg/">SVG is optimised</a></li>
-  <li><a href="http://decks.tink.uk/2017/lws/index.html">SVG is accessible</a></li>
-  <li>Stop using the <code class="highlighter-rouge">&lt;i&gt;</code> tag</li>
+  <li>SVGs are vector images</li>
+  <li>They can be zoomed without pixelating</li>
+  <li>Inline SVGs can be styled with CSS</li>
+  <li>Inline SVGs are good for performance</li>
+  <li>SVGs have accessibility advantages</li>
+  <li>They are better than icon fonts</li>
+  <li><a href="https://caniuse.com/#feat=svg-html5">Browser support is good</a></li>
+  <li>Editable using code or vector drawing applications</li>
 </ul>
 
-<h2 id="whats-changed">What’s changed</h2>
+<h2 id="svg-attributes">SVG attributes</h2>
+
+<ul>
+  <li><code class="highlighter-rouge">height=""</code></li>
+  <li><code class="highlighter-rouge">width=""</code></li>
+  <li><code class="highlighter-rouge">viewBox=""</code></li>
+  <li><code class="highlighter-rouge">aria-hidden="true"</code></li>
+  <li><code class="highlighter-rouge">xmlns="http://www.w3.org/2000/svg"</code></li>
+  <li><code class="highlighter-rouge">focusable="false"</code></li>
+  <li><code class="highlighter-rouge">fill="currentColor"</code></li>
+</ul>
+
+<h2 id="add-focusablefalse-to-svgs">Add <code class="highlighter-rouge">focusable="false"</code> to SVGs</h2>
+
+<p><a href="https://www.scottohara.me/blog/2019/05/22/contextual-images-svgs-and-a11y.html#svgs-that-are-decorative">Scott O’Hara explains why and when to use focusable="false"</a></p>
+
+<blockquote>
+  <p>focusable="false" is also used to ensure Internet Explorer won’t allow the Tab key to navigate into the SVG.</p>
+</blockquote>
+
+<h2 id="inline-svg-performance-benefits">Inline SVG performance benefits</h2>
+<ul>
+  <li>There is one less http request because we don’t need to load an external image file</li>
+  <li>File size is often smaller (unless the icon very complex)</li>
+  <li>Only load what you need (instead of a whole icon font)</li>
+</ul>
+
+<h2 id="related-links">Related links</h2>
+
+<ul>
+  <li><a href="http://decks.tink.uk/2017/lws/index.html">Making SVG accessible from Léonie Watson</a></li>
+  <li><a href="https://cloudfour.com/thinks/seriously-dont-use-icon-fonts/">Seriously, Don’t Use Icon Fonts from Tyler Sticka</a></li>
+  <li><a href="https://www.sitepoint.com/tips-accessible-svg/">Tips for Creating Accessible SVG from SitePoint</a></li>
+  <li><a href="https://jakearchibald.github.io/svgomg/">SVGOMG from Jake Archibald</a></li>
+</ul>
+
+<h2 id="what-i-changed-on-the-blog">What I changed on the blog</h2>
 
 <h3 id="old-html">Old HTML</h3>
-
-<figure class="highlight"><pre><code class="language-html" data-lang="html"><span class="nt">&lt;i</span> <span class="na">class=</span><span class="s">"icon icon-social icon-instagram"</span><span class="nt">&gt;</span>
-<span class="nt">&lt;span</span> <span class="na">class=</span><span class="s">"visuallyhidden"</span><span class="nt">&gt;</span>Instagram<span class="nt">&lt;/span&gt;</span>
-<span class="nt">&lt;/i&gt;</span></code></pre></figure>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;i class="icon icon-social icon-instagram"&gt;
+&lt;span class="visuallyhidden"&gt;Instagram&lt;/span&gt;
+&lt;/i&gt;
+</code></pre></div></div>
 
 <h3 id="new-html">New HTML</h3>
-
-<figure class="highlight"><pre><code class="language-html" data-lang="html"><span class="nt">&lt;span</span> <span class="na">class=</span><span class="s">"icon"</span><span class="nt">&gt;</span>
-<span class="nt">&lt;svg</span> <span class="na">height=</span><span class="s">"25"</span> <span class="na">width=</span><span class="s">"25"</span> <span class="na">viewBox=</span><span class="s">"0 0 25 25"</span> <span class="na">aria-hidden=</span><span class="s">"true"</span> <span class="na">xmlns=</span><span class="s">"http://www.w3.org/2000/svg"</span> <span class="na">focusable=</span><span class="s">"false"</span><span class="nt">&gt;</span>
-<span class="nt">&lt;title&gt;</span>Twitter icon<span class="nt">&lt;/title&gt;</span>
-<span class="nt">&lt;path</span> <span class="na">d=</span><span class="s">"M7.8 22.6c8 .1 14.6-6.3 14.6-14.3v-.9c1-.7 1.8-1.6 2.5-2.7-.9.4-1.9.7-3 .8a4.7 4.7 0 0 0 2.2-2.8c-1 .6-2.1 1.1-3.2 1.3a5.1 5.1 0 0 0-7.3-.2c-1 1-1.6 2.3-1.6 3.7l.1 1.1C8.2 8.4 4.4 6.5 1.7 3.3a5 5 0 0 0 1.5 6.8c-.7 0-1.5-.2-2.2-.6v.1c0 2.4 1.7 4.6 4.1 5.1-.7.2-1.5.2-2.3.1a5 5 0 0 0 4.8 3.5 10.5 10.5 0 0 1-6.4 2.2H0c2.3 1.4 5.1 2.1 7.8 2.1"</span><span class="nt">/&gt;</span>
-<span class="nt">&lt;/svg&gt;</span>
-
-<span class="nt">&lt;/span&gt;</span></code></pre></figure>
-
-<h3 id="performance">Performance</h3>
-<ul>
-  <li>File size is reduced from 1.05 KB to 500 bytes</li>
-  <li>There is one less http request because we don’t need to load an external image</li>
-</ul>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;span class="icon"&gt;
+&lt;svg height="25" width="25" viewBox="0 0 25 25" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" focusable="false"&gt;
+&lt;title&gt;Twitter icon&lt;/title&gt;
+&lt;path d="M7.8 22.6c8 .1 14.6-6.3 14.6-14.3v-.9c1-.7 1.8-1.6 2.5-2.7-.9.4-1.9.7-3 .8a4.7 4.7 0 0 0 2.2-2.8c-1 .6-2.1 1.1-3.2 1.3a5.1 5.1 0 0 0-7.3-.2c-1 1-1.6 2.3-1.6 3.7l.1 1.1C8.2 8.4 4.4 6.5 1.7 3.3a5 5 0 0 0 1.5 6.8c-.7 0-1.5-.2-2.2-.6v.1c0 2.4 1.7 4.6 4.1 5.1-.7.2-1.5.2-2.3.1a5 5 0 0 0 4.8 3.5 10.5 10.5 0 0 1-6.4 2.2H0c2.3 1.4 5.1 2.1 7.8 2.1"/&gt;
+&lt;/svg&gt;
+&lt;/span&gt;
+</code></pre></div></div>
 
   </div>
 </article>

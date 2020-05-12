@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Accessible close buttons
-categories: ux accessibility design
+categories: ux accessibility design svg
 image: "download-button-sketch.jpg"
 image-alt: "Drawing of a × symbol in a box on grid paper"
 last_modified_at: 11 May 2020

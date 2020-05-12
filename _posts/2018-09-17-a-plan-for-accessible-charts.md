@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A plan for accessible charts
-categories: accessibility data
+categories: accessibility data svg
 excerpt: A list of user research findings, accessibility report findings, best practice, resources and good ideas that I’ve collected over the past 2 years.
 last_modified_at: 10 May 2020
 image: "a11y-chart.jpg"
@@ -95,6 +95,8 @@ Be mindful that when using colour to represents your data that it shows the rela
 - [Making SVG accessible](http://decks.tink.uk/2017/lws/index.html#cover)
 - [Accessible SVG line graphs](https://tink.uk/accessible-svg-line-graphs/)
 - [How to Make Charts with SVG](https://css-tricks.com/how-to-make-charts-with-svg/)
+
+[Read more about SVGs in this blog post]({{ site.url}}/blog/add-svg-icons/)
 
 ## HTML mark-up
 

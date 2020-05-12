@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What's the best way to mark-up an SVG map?
-categories: design accessibility data
+categories: design accessibility data svg
 ---
 
 I'm looking for a good solution for marking up semantic, accessible and responsive SVGs (Scalable Vector Graphics). The SVG is a complex diagram, like a chart or a map, that needs to have a title, a subtitle and a source link.
