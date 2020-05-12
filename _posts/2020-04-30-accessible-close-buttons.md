@@ -26,7 +26,7 @@ last_modified_at: 11 May 2020
 
 ## Update 11 May 2020
 
-[Adam](https://twitter.com/adambsilver/status/1256142121142300674) suggested that using a text label with the icon (or even just text, with no icon) would improve accessibility for voice dictation software.
+[Adam](https://twitter.com/adambsilver/status/1256142121142300674) suggested that using a visible text label with the icon (or even just visible text, with no icon) would improve accessibility for voice dictation software users.
 
 ## Further reading
 

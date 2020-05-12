@@ -5,8 +5,8 @@
     <description>Hi, my name is Benjy Stanton and I’m an interaction designer.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 11 May 2020 22:26:06 +0100</pubDate>
-    <lastBuildDate>Mon, 11 May 2020 22:26:06 +0100</lastBuildDate>
+    <pubDate>Tue, 12 May 2020 06:47:21 +0100</pubDate>
+    <lastBuildDate>Tue, 12 May 2020 06:47:21 +0100</lastBuildDate>
     <generator>Jekyll v3.8.7</generator>
     
       <item>
@@ -31,7 +31,7 @@
 
 &lt;h2 id=&quot;update-11-may-2020&quot;&gt;Update 11 May 2020&lt;/h2&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/adambsilver/status/1256142121142300674&quot;&gt;Adam&lt;/a&gt; suggested that using a text label with the icon (or even just text, with no icon) would improve accessibility for voice dictation software.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/adambsilver/status/1256142121142300674&quot;&gt;Adam&lt;/a&gt; suggested that using a visible text label with the icon (or even just visible text, with no icon) would improve accessibility for voice dictation software users.&lt;/p&gt;
 
 &lt;h2 id=&quot;further-reading&quot;&gt;Further reading&lt;/h2&gt;
 
