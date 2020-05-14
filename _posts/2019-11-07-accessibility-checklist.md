@@ -3,7 +3,7 @@ layout: post
 title: Accessibility checklist
 categories: nablopomo accessibility
 tag: NaBloPoMo2019
-last_modified_at: 7 May 2020
+last_modified_at: 14 May 2020
 ---
 
 <p class="lede">A list of accessibility recommendations, tips and resources. Last updated on {{ page.last_modified_at }}.</p>
@@ -19,6 +19,8 @@ last_modified_at: 7 May 2020
 - Avoid italics, block capitals or justified text
 - Use a san-serif font with thick letters
 - [Make sure text can be resized](https://css-tricks.com/accessible-font-sizing-explained/)
+
+Read my post about [how improving typography can help us to meet user needs]({{ site.baseurl}}/blog/how-improving-typography-can-help-us-to-meet-user-needs/).
 
 ## Written content
 
@@ -40,11 +42,12 @@ last_modified_at: 7 May 2020
 - Use tables as accessible alternatives to charts and infographics
 - Split complex tables into multiple small ones
 - Use correct table markup for headers, rows and cells, so screen reader users can understand and navigate them
-- [Making data tables more accessible]({{ site.baseurl}}/blog/making-data-tables-more-accessible/)
+
+Read my post about [making data tables more accessible]({{ site.baseurl}}/blog/making-data-tables-more-accessible/).
 
 ## Charts
 
-Read this blog post about [making charts more accessible]({{ site.url }}/blog/a-plan-for-accessible-charts/)
+Read my post about [accessible charts]({{ site.baseurl }}/blog/a-plan-for-accessible-charts/).
 
 ## Colour and contrast
 
@@ -79,6 +82,8 @@ Read this blog post about [making charts more accessible]({{ site.url }}/blog/a-
 - If images are purely decorative, then they need an empty alt tag `alt=""`
 - Avoid using images of text
 
+Read my post about [SVGs icons]({{ site.baseurl}}/blog/add-svg-icons/).
+
 ## Layout and structure
 
 - Use HTML sectioning elements like `<header>`, `<main>` and `<nav>`
@@ -101,18 +106,28 @@ Read this blog post about [making charts more accessible]({{ site.url }}/blog/a-
 
 - Use the service with a keyboard only – no mouse
 - Check the page with CSS off
-- Increase font size to 200%
+- Zoom in to 300% with the browser
+- Increase default browser font size
 - Test in high contrast mode
 - Check html mark-up is valid
-- Check in a range of browsers and devices
+- [Check in a range of browsers and devices](https://www.gov.uk/service-manual/technology/designing-for-different-browsers-and-devices#browsers-to-test-in)
 - [Check using assistive technologies](https://accessibility.blog.gov.uk/2018/09/27/assistive-technology-tools-you-can-use-at-no-cost/)
 
 ## Automatic tests
 
-- [WAVE Browser Extension](https://wave.webaim.org/extension/)
-- [Lighthouse](https://developers.google.com/web/tools/lighthouse)
+- [WAVE by WebAIM](https://wave.webaim.org/extension/)
+- [Axe by Deque](https://www.deque.com/axe/)
+- [Lighthouse by Google](https://developers.google.com/web/tools/lighthouse)
 
-## Related links
+Remember that automatic tests aren't perfect.
+
+> It’s important to note, however, that automated accessibility testing tools can only catch 30-50% of your accessibility defects.
+> — [Deque](https://www.deque.com/blog/how-to-get-development-on-board-with-accessibility-testing/)
+
+Read [building the most inaccessible site possible with a perfect Lighthouse score from Manuel Matuzović](https://www.matuzo.at/blog/building-the-most-inaccessible-site-possible-with-a-perfect-lighthouse-score/).
+
+
+## Other accessibility checklists
 
 - [Checklist to avoid the most common accessibility errors from Bruce Lawson](https://www.brucelawson.co.uk/2019/checklist-to-avoid-the-most-common-accessibility-errors/)
 - [Tools for designing good-looking accessible interfaces from Sarah L. Fossheim](https://fossheim.io/writing/posts/accessible-design-tools/)
