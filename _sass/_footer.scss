@@ -1,29 +1,24 @@
 // Site footer
 
 .site-footer {
-    background-color: $light-grey-colour;
-    padding: $spacing-unit 0 $spacing-unit/2;
-    @include media-query($medium) {
+  background-color: $light-grey-colour;
+  padding: $spacing-unit 0 $spacing-unit/2;
+  
+  ul {
+    list-style: none;
+    margin-left: 0;
+    margin-bottom: 0;
+  }
+  
+  li {
+    margin-bottom: $spacing-unit/2;
+    @include media-query($large) {
+      display: inline-block;
+      margin-right: $spacing-unit;
     }
-
-    .wrapper {
-    }
-
-    ul {
-      list-style: none;
-      margin-left: 0;
-      margin-bottom: 0;
-    }
-
-    li {
-      margin-bottom: $spacing-unit/2;
-      @include media-query($large) {
-        display: inline-block;
-        margin-right: $spacing-unit;
-      }
-    }
-
-    a {
-        color: $text-colour;
-    }
+  }
+  
+  a {
+    color: $text-colour;
+  }
 }
