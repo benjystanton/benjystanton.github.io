@@ -28,7 +28,7 @@ The `if` statement looks something like this…
 {% highlight html %}
 {% raw %}
 {% if page.is_post %}
-<p class="text-small">{{ page.date | date: "%e %B %Y" }}</p>
+<small>{{ page.date | date: "%e %B %Y" }}</small>
 {% endif %}
 {% endraw %}
 {% endhighlight %}

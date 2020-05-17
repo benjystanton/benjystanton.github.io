@@ -90,10 +90,10 @@ Smaller, lighter text used for the "published on" date and image captions.
 [How to set date formats with Liquid](https://shopify.github.io/liquid/filters/date/).
 
 ```
-<p class="text-small">%e %B %Y</p>
+<small>%e %B %Y</small>
 ```
 
-<p class="text-small">This site was last generated on {{ "now" | date: "%e %B %Y" }}</p>
+<small>This site was last generated on {{ "now" | date: "%e %B %Y" }}</small>
 
 ## Big numbers
 

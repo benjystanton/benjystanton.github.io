@@ -3,7 +3,7 @@ layout: post
 title: A plan for accessible charts
 categories: accessibility data svg
 excerpt: A list of user research findings, accessibility report findings, best practice, resources and good ideas that I’ve collected over the past 2 years.
-last_modified_at: 10 May 2020
+last_modified_at: 17 May 2020
 image: "a11y-chart.jpg"
 image-alt: "Sketch of the word A11y on grid paper boxed in by x and y axis lines"
 ---
@@ -33,14 +33,11 @@ Read on for more detail.
 - Charts should be readable in black and white
 - Check design works in high contrast mode
 
-### Update on colour
-<span class="text-small"> By <a href="https://twitter.com/henryjameslau">Henry Lau</a> on 5 December 2018<span>
+### Update on 5 December 2018<small>
 
-Thanks to <a href="https://twitter.com/henryjameslau">Henry</a> for suggesting these points about how colour is used by data visualisation producers.
+Thanks to <a href="https://twitter.com/henryjameslau">Henry</a> for suggesting these points about how colour is used by data visualisation producers…
 
-Colour also has semantic meaning. Be careful to check what those colours could mean for people. Meaning also varies culturally so may mean different things outside what you're used to.
-
-Be mindful that when using colour to represents your data that it shows the relationships in your data. E.g. if your data is different categories, your colours should be as distinct as possible. If your data is sequential or represents a range, colour should change in a sensible way. Lab and HCL colour spaces calculate colour based on the way the human eye works, rather than how computers calculate colours.
+> Colour also has semantic meaning. Be careful to check what those colours could mean for people. Meaning also varies culturally so may mean different things outside what you're used to.<br><br>Be mindful that when using colour to represents your data that it shows the relationships in your data. E.g. if your data is different categories, your colours should be as distinct as possible. If your data is sequential or represents a range, colour should change in a sensible way. Lab and HCL colour spaces calculate colour based on the way the human eye works, rather than how computers calculate colours.
 
 ## Line and bar style
 

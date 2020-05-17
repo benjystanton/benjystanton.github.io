@@ -3,9 +3,10 @@ layout: post
 title: Design workshops
 categories: design nablopomo
 tag: NaBloPoMo2019
+last_modified_at: 18 March 2020
 ---
 
-<p class="text-small">Updated on 18 March 2020</p>
+<p>Updated on 18 March 2020</p>
 
 <p class="lede">I’m a big fan of structured/facilitated design workshops. They can be incredibly useful for user research sessions, co-designing services with teams, and stakeholder meetings.</p>
 
@@ -29,7 +30,7 @@ Here are some sites that list a range of design workshops, activities and exerci
 - [Mental models for designers](https://dropbox.design/article/mental-models-for-designers)
 - [Design Games](https://www.designgames.com.au/) (via [Nic Price](https://twitter.com/nicprice))
 
-## Individual design workshops
+## A list of design workshop methods
 
 Here are some links to specific design workshop methods…
 

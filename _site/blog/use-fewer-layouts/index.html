@@ -93,7 +93,7 @@
 <article class="post-content h-entry">
   <header class="post-header">
     <h1 class="post-title p-name">Use fewer layouts</h1>
-    <p class="text-small">
+    <small>
   <img class="u-photo image-xs margin-bottom--0" src="http://localhost:4000/assets/benjy-stanton.jpg" alt="" height="50" width="50"> by
   <a rel="author" class="p-author h-card" href="http://localhost:4000">Benjy Stanton</a> on
   <a class="dt-published u-url" href="http://localhost:4000/blog/use-fewer-layouts/"> 3 February 2018</a> in
@@ -102,7 +102,7 @@
 <a class="p-category" href="/blog/category/release-notes">release-notes</a>
 
 
-</p>
+</small>
 
   </header>
   <div class="e-content">
@@ -129,7 +129,7 @@
 <p>The <code class="highlighter-rouge">if</code> statement looks something like this…</p>
 
 <figure class="highlight"><pre><code class="language-html" data-lang="html">{% if page.is_post %}
-<span class="nt">&lt;p</span> <span class="na">class=</span><span class="s">"text-small"</span><span class="nt">&gt;</span>{{ page.date | date: "%e %B %Y" }}<span class="nt">&lt;/p&gt;</span>
+<span class="nt">&lt;small&gt;</span>{{ page.date | date: "%e %B %Y" }}<span class="nt">&lt;/small&gt;</span>
 {% endif %}</code></pre></figure>
 
 <p>So that posts know they are posts, I had to add the following snippet to the <code class="highlighter-rouge">_config.yml</code> file.</p>
@@ -148,10 +148,10 @@
 
 <div class="previous-and-next row">
 	<div class="column half padding-right--s margin-bottom--0">
-    <p class="text-small margin-bottom--0"><a href="/blog/add-a-list-of-page-layouts/"><span aria-hidden="true">&larr;</span> Previous<br />Add a list of page...</a></p>
+    <small class="margin-bottom--0"><a href="/blog/add-a-list-of-page-layouts/"><span aria-hidden="true">&larr;</span> Previous<br />Add a list of page...</a></small>
   </div>
 	<div class="column half padding-left--s margin-bottom--0">
-    <p class="text-small align-right margin-bottom--0"><a href="/blog/link-sharing-workflow/">Next <span aria-hidden="true">&rarr;</span><br />My link sharing workflow</a></p>
+    <small class="align-right margin-bottom--0"><a href="/blog/link-sharing-workflow/">Next <span aria-hidden="true">&rarr;</span><br />My link sharing workflow</a></small>
   </div>
 </div>
 
