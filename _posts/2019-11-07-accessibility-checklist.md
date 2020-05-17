@@ -3,7 +3,7 @@ layout: post
 title: Accessibility checklist
 categories: nablopomo accessibility
 tag: NaBloPoMo2019
-last_modified_at: 14 May 2020
+last_modified_at: 17 May 2020
 ---
 
 <p class="lede">A list of accessibility recommendations, tips and resources. Last updated on {{ page.last_modified_at }}.</p>
@@ -59,9 +59,10 @@ Read my post about [accessible charts]({{ site.baseurl }}/blog/a-plan-for-access
 ## Interaction
 
 - Check design is functional when using a keyboard to navigate
-- Check it's visually apparent which page element has current keyboard focus
+- Check it's visually apparent which page element has current keyboard focus (if it's interactive, it needs focus styles)[https://gomakethings.com/if-its-interactive-it-needs-focus-styles/])
 - [Make sure scrollable regions are focusable](https://developer.paciellogroup.com/blog/2016/02/short-note-on-improving-usability-of-scrollable-regions/)
 - [Make clickable areas (target size) at least 44 pixels](https://ishadeed.com/article/clickable-area/)
+- [Use aria-current if you're styling active page links](https://gomakethings.com/better-more-accessible-active-link-styling/)
 - Complex interface components, like sliders, should be avoided when simple solutions, like a text input, can be used instead
 - If an experience cannot be made accessible, create another route for users to get that information
 
