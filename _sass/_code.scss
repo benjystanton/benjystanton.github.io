@@ -2,17 +2,16 @@
 
 pre,
 code {
-    font-size: 90%;
     background-color: $light-grey-colour;
 }
 
 code {
-    padding: 1px 5px;
+    padding: 0.1em 0.5em;
 }
 
 pre {
     margin-top: $spacing-unit/4;
-    padding: 8px 12px;
+    padding: 1em;
     overflow-x: scroll;
 
     > code {
