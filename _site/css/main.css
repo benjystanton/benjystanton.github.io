@@ -46,7 +46,8 @@ body {
   color: #2e343b; }
   @media screen and (min-width: 660px) {
     body {
-      font-size: 1.4rem; } }
+      font-size: 1.4rem;
+      line-height: 1.65; } }
 
 h1,
 h2,
@@ -121,8 +122,7 @@ h1,
   @media screen and (min-width: 660px) {
     h1,
     .heading-xlarge {
-      font-size: 3rem;
-      margin-top: 1rem; } }
+      font-size: 3rem; } }
   @media screen and (min-width: 900px) {
     h1,
     .heading-xlarge {
@@ -135,7 +135,8 @@ h2,
   @media screen and (min-width: 660px) {
     h2,
     .heading-large {
-      font-size: 2rem; } }
+      font-size: 2rem;
+      margin-top: 4rem; } }
 
 h3,
 .heading-medium {
@@ -368,18 +369,18 @@ blockquote {
   padding-left: 0.5rem; }
 
 .previous-and-next {
-  margin-top: 2rem;
-  padding-top: 0.5rem;
+  margin-top: 4rem;
+  padding-top: 1rem;
   border-top: solid 3px #e4e7ea; }
 
 .previous-and-next a {
   display: block; }
 
 .page-content {
-  padding: 1rem 0 2rem; }
+  padding: 1rem 0 4rem; }
   @media screen and (min-width: 660px) {
     .page-content {
-      padding-top: 1rem; }
+      padding-top: 2rem; }
       .page-content .wrapper {
         padding-right: 20%; } }
   @media screen and (min-width: 1400px) {

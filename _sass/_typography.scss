@@ -35,11 +35,12 @@ $spacing-unit: 1rem;
 body {
   font-family: $base-font-family;
   font-size: $base-font-size;
-  @include media-query($medium) {
-    font-size: $base-font-size * 1.4;
-  }
   line-height: $base-line-height;
   color: $text-colour;
+  @include media-query($medium) {
+    font-size: $base-font-size * 1.4;
+    line-height: $base-line-height * 1.1;
+  }
 }
 
 // Vertical rhythm
@@ -101,7 +102,6 @@ h1,
   margin-top: $spacing-unit;
   @include media-query($medium) {
     font-size: 3rem;
-    margin-top: $spacing-unit;
   }
   @include media-query($large) {
     font-size: 4.5rem;
@@ -114,6 +114,7 @@ h2,
   font-size: 1.5rem;
   @include media-query($medium) {
     font-size: 2rem;
+    margin-top: $spacing-unit * 4;
   }
   font-weight: 900;
 }
