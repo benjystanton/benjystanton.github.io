@@ -3,7 +3,7 @@ layout: post
 title: Accessibility checklist
 categories: nablopomo accessibility
 tag: NaBloPoMo2019
-last_modified_at: 17 May 2020
+last_modified_at: 18 May 2020
 ---
 
 <p class="lede">A list of accessibility recommendations, tips and resources. Last updated on {{ page.last_modified_at }}.</p>
@@ -18,7 +18,7 @@ last_modified_at: 17 May 2020
 - Add suitable vertical spacing between lines and paragraphs
 - Avoid italics, block capitals or justified text
 - Use a san-serif font with thick letters
-- [Make sure text can be resized](https://css-tricks.com/accessible-font-sizing-explained/)
+- [Make sure text can be resized](https://www.24a11y.com/2019/pixels-vs-relative-units-in-css-why-its-still-a-big-deal/)
 
 Read my post about [how improving typography can help us to meet user needs]({{ site.baseurl}}/blog/how-improving-typography-can-help-us-to-meet-user-needs/).
 

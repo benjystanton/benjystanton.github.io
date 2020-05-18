@@ -2,7 +2,7 @@
 
 .site-footer {
   background-color: $light-grey-colour;
-  padding: $spacing-unit 0 $spacing-unit/2;
+  padding: $spacing-unit*2 0 $spacing-unit;
   
   ul {
     list-style: none;
@@ -11,10 +11,10 @@
   }
   
   li {
-    margin-bottom: $spacing-unit/2;
+    margin-bottom: $spacing-unit;
     @include media-query($large) {
       display: inline-block;
-      margin-right: $spacing-unit;
+      margin-right: $spacing-unit*2;
     }
   }
   

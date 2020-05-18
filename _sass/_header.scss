@@ -46,19 +46,14 @@
 
 .site-nav {
 
-    margin-top: $spacing-unit/3;
-
-    // @include media-query($medium) {
-    //     float: right;
-    //     margin-top: $spacing-unit/2;
-    // }
+    margin-top: $spacing-unit;
 
     .page-link {
         line-height: $base-line-height;
 
         // Gaps between nav items, but not on the first one
         &:not(:first-child) {
-            margin-left: $spacing-unit/2;
+            margin-left: $spacing-unit;
         }
 
     }

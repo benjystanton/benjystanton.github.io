@@ -1,9 +1,9 @@
 // Blockquotes
 
 blockquote {
-    border-left: $spacing-unit/4 solid $text-colour;
-    padding-left: $spacing-unit/2;
-    margin: $spacing-unit 0;
+    border-left: $spacing-unit/2 solid $text-colour;
+    padding-left: $spacing-unit;
+    margin: $spacing-unit*2 0;
 
     > :last-child {
         margin-bottom: 0;
