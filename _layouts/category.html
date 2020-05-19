@@ -2,7 +2,7 @@
 layout: page
 ---
 
-  {{ content }}
+  <p class="lede">{{ page.excerpt }}</p>
 
   <ul class="post-list margin-top--s">
     {% for post in site.categories[page.category] %}

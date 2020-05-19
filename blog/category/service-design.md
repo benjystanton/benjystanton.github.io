@@ -2,5 +2,5 @@
 layout: category
 title: Service design
 category: service-design
-excerpt: A list of blog posts about service design
+excerpt: A list of blog posts about service design.
 ---

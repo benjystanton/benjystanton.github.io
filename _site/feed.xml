@@ -5,9 +5,43 @@
     <description>Hi, my name is Benjy Stanton and I’m an interaction designer.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 18 May 2020 21:29:47 +0100</pubDate>
-    <lastBuildDate>Mon, 18 May 2020 21:29:47 +0100</lastBuildDate>
+    <pubDate>Tue, 19 May 2020 19:28:07 +0100</pubDate>
+    <lastBuildDate>Tue, 19 May 2020 19:28:07 +0100</lastBuildDate>
     <generator>Jekyll v3.8.7</generator>
+    
+      <item>
+        <title>Teams who share their accessibility processes in the open</title>
+        <description>&lt;p class=&quot;lede&quot;&gt;A list of teams who share their accessibility audit plans, backlogs and roadmaps in the open.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://trello.com/b/QruYduyo/accessibility-roadmap&quot;&gt;Buffer’s accessibility roadmap on Trello&lt;/a&gt;
+&lt;br /&gt;&lt;small&gt;via &lt;a href=&quot;https://twitter.com/whitingx&quot;&gt;Rob Whiting&lt;/a&gt;&lt;/small&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://digital.canada.ca/a11y/&quot;&gt;CDS accessibility handbook&lt;/a&gt;
+&lt;br /&gt;&lt;small&gt;via &lt;a href=&quot;https://twitter.com/JuliannaRowsell&quot;&gt;Julianna Rowsell&lt;/a&gt;&lt;/small&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://designnotes.blog.gov.uk/2019/07/29/weve-made-the-gov-uk-design-system-more-accessible/&quot;&gt;GOV.UK Design System&lt;/a&gt;
+&lt;br /&gt;&lt;small&gt;via &lt;a href=&quot;https://twitter.com/NickColley&quot;&gt;Nick Colley&lt;/a&gt;&lt;/small&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://wiki.mozilla.org/Accessibility/Roadmap&quot;&gt;Mozilla’s accessibility roadmap&lt;/a&gt; and &lt;a href=&quot;https://wiki.mozilla.org/Accessibility/Strategy&quot;&gt;Mozilla’s accessibility strategy&lt;/a&gt;
+&lt;br /&gt;&lt;small&gt;via &lt;a href=&quot;https://twitter.com/whitingx&quot;&gt;Rob Whiting&lt;/a&gt;&lt;/small&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.sciencemuseumgroup.org.uk/web-accessibility/&quot;&gt;Science Museum’s accessibility statement&lt;/a&gt;
+&lt;br /&gt;&lt;small&gt;via &lt;a href=&quot;https://twitter.com/jackcraig&quot;&gt;Jack Craig&lt;/a&gt;&lt;/small&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.scope.org.uk/accessibility/&quot;&gt;Scope’s website accessibility statement&lt;/a&gt;
+&lt;br /&gt;&lt;small&gt;via &lt;a href=&quot;https://twitter.com/CuriousScutter&quot;&gt;CuriousScutter&lt;/a&gt;&lt;/small&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.kent.ac.uk/accessibility&quot;&gt;University of Kent’s accessibility pages&lt;/a&gt;
+&lt;br /&gt;&lt;small&gt;via &lt;a href=&quot;https://twitter.com/mearso&quot;&gt;Kevin Mears&lt;/a&gt;&lt;/small&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Thanks to everyone who suggested stuff. Here’s a &lt;a href=&quot;https://twitter.com/benjystanton/status/1260125826395394048&quot;&gt;link to my original tweet&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/NickColley&quot;&gt;Nick Colley&lt;/a&gt; in particular shared some excellent details in this &lt;a href=&quot;https://twitter.com/NickColley/status/1260482262661029891&quot;&gt;Twitter thread about how the GOV.UK Design System team worked to meet WCAG 2.1&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 19 May 2020 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/blog/teams-who-share-their-accessibility-processes-in-the-open/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/teams-who-share-their-accessibility-processes-in-the-open/</guid>
+        
+        
+        <category>accessibility</category>
+        
+      </item>
     
       <item>
         <title>Accessible close buttons</title>
@@ -421,78 +455,6 @@
         
         
         <category>personal</category>
-        
-      </item>
-    
-      <item>
-        <title>Making data tables more accessible</title>
-        <description>&lt;p class=&quot;lede&quot;&gt;For data tables to be accessible, I like to take care of the graphic design, content design and mark-up. These three things work together to improve the way users able to find, use and understand the data.&lt;/p&gt;
-
-&lt;p&gt;Whilst working at Office for National Statistics (ONS) I worked with my content design colleagues &lt;a href=&quot;https://twitter.com/Lozza119&quot;&gt;Laura&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/itspaulmcgroovy&quot;&gt;Paul&lt;/a&gt; to improve our tables.&lt;/p&gt;
-
-&lt;p&gt;We also worked with accessibility specialists at the &lt;a href=&quot;https://digitalaccessibilitycentre.org/&quot;&gt;Digital Accessibility Centre&lt;/a&gt; and the &lt;a href=&quot;https://www.gov.uk/service-manual/communities/accessibility-community&quot;&gt;UK government accessibility community&lt;/a&gt;. I’m sharing these notes now before they’re lost in a Google Drive forever.&lt;/p&gt;
-
-&lt;h2 id=&quot;use-semantic-mark-up&quot;&gt;Use semantic mark-up&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Use &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;th&amp;gt;&lt;/code&gt; tags to define the header cells.&lt;/li&gt;
-  &lt;li&gt;Use &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;caption&amp;gt;&lt;/code&gt; tags. Captions are like headings for tables, and they help screen reader users understand whether they should listen to, or skip the tables.&lt;/li&gt;
-  &lt;li&gt;Don’t cram sentences or meta data that describe the table (like geographic coverage) into table cells.&lt;/li&gt;
-  &lt;li&gt;If you need to add extra content like footnotes, wrap the whole table in a &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;figure&amp;gt;&lt;/code&gt; tag and insert a &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;footer&amp;gt;&lt;/code&gt; tag to hold the footnotes.&lt;/li&gt;
-  &lt;li&gt;If you’re using &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;figure&amp;gt;&lt;/code&gt;, it’s probably best to use &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;figcaption&amp;gt;&lt;/code&gt; instead of &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;caption&amp;gt;&lt;/code&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;avoid-complex-markup&quot;&gt;Avoid complex markup&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;If you’re using &lt;code class=&quot;highlighter-rouge&quot;&gt;colspan&lt;/code&gt; everywhere to merge cells it’s probably a sign your table is too complex.&lt;/li&gt;
-  &lt;li&gt;Split complex tables into a few small ones.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;think-about-structure&quot;&gt;Think about structure&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/table-structure.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Think about structure, not just the visual layout.&lt;/li&gt;
-  &lt;li&gt;Don’t split text and headings across cells.&lt;/li&gt;
-  &lt;li&gt;Remember that tables give structure to data.&lt;/li&gt;
-  &lt;li&gt;Avoid using cells simply to control the layout.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;borders-can-help&quot;&gt;Borders can help&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Borders (horizontal and/or vertical) can help users to read complex tables.&lt;/li&gt;
-  &lt;li&gt;It’s sometimes frowned upon to include vertical borders, as it can add extra noise to the design and detract from the meaning, but in some cases they can be useful.&lt;/li&gt;
-  &lt;li&gt;We met an accessibility expert who had Nystagmus. This is an eye condition which can lead to involuntary eye movement. Vertical borders helped this person to read complex tables.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;avoid-blank-cells&quot;&gt;Avoid blank cells&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Don’t leave cells blank.&lt;/li&gt;
-  &lt;li&gt;Explain why there isn’t a value.&lt;/li&gt;
-  &lt;li&gt;If space is limited, use “N/A” (to mean “not applicable”).&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;further-reading-on-tables&quot;&gt;Further reading on tables&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.gov.uk/guidance/content-design/tables#style&quot;&gt;Use short content style to save space by GOV.UK&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://webaim.org/techniques/tables/data&quot;&gt;Creating Accessible Tables by WebAIM&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://adrianroselli.com/tag/tables&quot;&gt;Everything that Adrian Roselli has written about tables&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://inclusive-components.design/data-tables/&quot;&gt;Inclusive Components: Data Tables&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/webaxe/status/1255864003424706560&quot;&gt;Tweet from Web Axe&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://gist.github.com/benjystanton/f027bfcfa30c009276e069a3e4c74bf5&quot;&gt;Content design for data tables, spreadsheets, CSVs and APIs from Benjy Stanton (GitHub Gist)&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Wed, 18 Dec 2019 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/making-data-tables-more-accessible/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/making-data-tables-more-accessible/</guid>
-        
-        
-        <category>data</category>
-        
-        <category>accessibility</category>
         
       </item>
     
