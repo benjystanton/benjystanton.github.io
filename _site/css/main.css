@@ -172,7 +172,9 @@ small {
       font-size: 0.96rem; } }
 
 .lede {
-  font-size: 1.2rem; }
+  font-size: 1.2rem;
+  line-height: 1.4;
+  margin: 2rem 0 3rem; }
   @media screen and (min-width: 660px) {
     .lede {
       font-size: 1.5rem; } }
@@ -303,7 +305,7 @@ blockquote {
     margin-bottom: 0; }
 
 .site-header {
-  padding-top: 1rem;
+  padding-top: 2rem;
   text-align: left; }
   .site-header a:visited {
     color: #007575; }
@@ -365,8 +367,8 @@ blockquote {
   max-width: 1000px;
   margin-right: auto;
   margin-left: auto;
-  padding-right: 0.5rem;
-  padding-left: 0.5rem; }
+  padding-right: 1rem;
+  padding-left: 1rem; }
 
 .previous-and-next {
   margin-top: 4rem;
