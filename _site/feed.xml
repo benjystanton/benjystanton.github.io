@@ -5,9 +5,33 @@
     <description>Hi, my name is Benjy Stanton and I’m an interaction designer.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 19 May 2020 19:28:07 +0100</pubDate>
-    <lastBuildDate>Tue, 19 May 2020 19:28:07 +0100</lastBuildDate>
+    <pubDate>Wed, 20 May 2020 14:44:46 +0100</pubDate>
+    <lastBuildDate>Wed, 20 May 2020 14:44:46 +0100</lastBuildDate>
     <generator>Jekyll v3.8.7</generator>
+    
+      <item>
+        <title>11ty resources</title>
+        <description>&lt;p class=&quot;lede&quot;&gt;A list of my 11ty bookmarks. &lt;a href=&quot;https://www.11ty.dev/&quot;&gt;11ty&lt;/a&gt; (or Eleventy) is a static site generator.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tatianamac.com/posts/beginner-eleventy-tutorial-parti/&quot;&gt;Beginner’s Guide to Eleventy [Part I] from Tatiana Mac&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://heydonworks.com/article/design-tokens-in-eleventy/&quot;&gt;Easily Use Design Tokens In Eleventy from Heydon Pickering&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://eleventyone.netlify.app/&quot;&gt;EleventyOne – a starter kit for Eleventy from Phil Hawksworth&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hylia.website/&quot;&gt;Hylia – a starter kit for Eleventy from from Andy Bell&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.netlify.com/blog/2020/04/09/lets-learn-eleventy-boost-your-jamstack-skills-with-11ty/&quot;&gt;Let’s Learn Eleventy! Boost your Jamstack skills with 11ty from Netlify&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://css-tricks.com/static-first-pre-generated-jamstack-sites-with-serverless-rendering-as-a-fallback/&quot;&gt;Static First: Pre-Generated JAMstack Sites with Serverless Rendering as a Fallback from CSS-Tricks&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 20 May 2020 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/blog/11ty-resources/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/11ty-resources/</guid>
+        
+        
+        <category>design</category>
+        
+        <category>tools</category>
+        
+      </item>
     
       <item>
         <title>Teams who share their accessibility processes in the open</title>
@@ -394,67 +418,6 @@
         
         
         <category>accessibility</category>
-        
-      </item>
-    
-      <item>
-        <title>Some personal goals for 2020</title>
-        <description>&lt;p class=&quot;lede&quot;&gt;Here are some low key, totally achievable personal things for 2020. I'm ignoring the first few days of January, as they are still part of the Christmas hols.&lt;/p&gt;
-
-&lt;aside&gt;Also, this is my 150th blog post, yay me.&lt;/aside&gt;
-
-&lt;h2 id=&quot;money&quot;&gt;Money&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Finish paying off my student loan&lt;/li&gt;
-  &lt;li&gt;Don’t take on any short term debt (like credit cards or overdrafts)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;update-on-13-april-2020&quot;&gt;Update on 13 April 2020&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;My student loan direct debit payments stopped until April because I switched banks, so I’ve been saving the money instead. Might put the money saved up towards another loan instead.&lt;/li&gt;
-  &lt;li&gt;No credit cards or overdrafts so far&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;personal&quot;&gt;Personal&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Take more steps than in 2019 (more than 7000 steps per day on average)&lt;/li&gt;
-  &lt;li&gt;Only eat meat 1 day a week (that means I have a 52 meat budget for the year!)&lt;/li&gt;
-  &lt;li&gt;Weigh less than 13 stone 7 pounds (on average)&lt;/li&gt;
-  &lt;li&gt;No flights&lt;/li&gt;
-  &lt;li&gt;Spend at least 1 hour a week playing video games with the kids&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;update-on-13-april-2020-1&quot;&gt;Update on 13 April 2020&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;My step count was going well until the Coronavirus lockdown, might just scrap this goal!&lt;/li&gt;
-  &lt;li&gt;We’re eating a lot less meet as a family. Probably close to once a week on average, but I’ve given up counting.&lt;/li&gt;
-  &lt;li&gt;Got my weight down to 12 stone 7 pounds, need to lose a little bit more before my BMI is in the ideal zone.&lt;/li&gt;
-  &lt;li&gt;No flights so far!&lt;/li&gt;
-  &lt;li&gt;Hard to track this, but put some good time into Luigi’s Mansion and Kingdom Hearts.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;housegarden&quot;&gt;House/Garden&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;del&gt;Get the decking sorted&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;Plant 5 trees&lt;/li&gt;
-  &lt;li&gt;&lt;del&gt;Grow some vegetables&lt;/del&gt; (start with the pumpkin seeds from Halloween)&lt;/li&gt;
-  &lt;li&gt;&lt;del&gt;Plant more wild flowers&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;del&gt;Let the lawn grow at the bottom of the garden (again)&lt;/del&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;update-on-13-april-2020-2&quot;&gt;Update on 13 April 2020&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;Decking is done&lt;/li&gt;
-  &lt;li&gt;Planted some vegetables and wild flowers&lt;/li&gt;
-  &lt;li&gt;No-mow patch going well, noticing more wild flowers growing naturally, especially in front garden&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/some-personal-goals-for-2020/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/some-personal-goals-for-2020/</guid>
-        
-        
-        <category>personal</category>
         
       </item>
     
