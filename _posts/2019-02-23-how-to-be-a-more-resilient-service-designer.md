@@ -11,7 +11,7 @@ last_modified_at: 20 May 2020
 
 I got an amazing response, and I recommend you take a [look at the entire thread](https://twitter.com/benjystanton/status/1096064210566561793), but I've tried to condense the tips into this blog post.
 
-## Tips for being resilient service designer
+## Tips for being a resilient service designer
 
 - Buddy up
 - Talk to others outside of work
