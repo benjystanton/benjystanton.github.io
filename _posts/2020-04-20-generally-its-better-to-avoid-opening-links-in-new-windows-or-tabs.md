@@ -2,7 +2,7 @@
 layout: post
 title: Generally, it’s better to avoid opening links in new windows or tabs
 categories: ux accessibility design
-last_modified_at: 11 May 2020
+last_modified_at: 20 May 2020
 ---
 
 - It's bad for usability, because it takes control away from users (for example, it breaks the back button functionality) and makes interactions unpredictable
@@ -21,12 +21,12 @@ Sometimes the experience might be improved by opening links in new windows or ta
 In these situations the link text should clearly state what's going to happen, for example: 
 `<a href="#" rel="noopener noreferrer">Link to a thing (opens in a new window or tab)</a>`
 
-## Update 11 May 2020
+## Download attribute – update 11 May 2020
 
 [Adam](https://twitter.com/adambsilver) suggests that PDF links can be downloaded to the device, instead of opened in a new tab, by using the `download` attribute.
 
-## Source
-- [Opening links in a new tab from GOV.UK Design System (preview)](https://deploy-preview-1179--govuk-design-system-preview.netlify.app/styles/typography/#opening-links-in-a-new-tab)
+## Further reading
+- [Opening links in a new tab from GOV.UK Design System](https://design-system.service.gov.uk/styles/typography/#opening-links-in-a-new-tab)
 - [Should Links Open In New Windows? from Smashing Magazine](https://www.smashingmagazine.com/2008/07/should-links-open-in-new-windows/)
 - [G200: Opening new windows and tabs from a link only when necessary from W3C](https://www.w3.org/TR/WCAG20-TECHS/G200.html)
 - [Link Targets and 3.2.5 from Adrian Roselli](https://adrianroselli.com/2020/02/link-targets-and-3-2-5.html)
