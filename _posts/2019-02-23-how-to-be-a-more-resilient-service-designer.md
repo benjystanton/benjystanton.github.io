@@ -7,7 +7,7 @@ last_modified_at: 20 May 2020
 
 Last week, I turned to Twitter for help. I needed some tips on how to cope with some of the stress I was facing at work. I guessed that the challenges I was facing were pretty common to those faced by service designers. I got an amazing response, and I recommend you take a [look at the entire thread](https://twitter.com/benjystanton/status/1096064210566561793), but I've tried to condense the tips into this blog post.
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Service designers! How do you cope with the stress of feeling out of control/your depth, when you are constantly trying to breakdown the boundaries between team, departments and organisations?</p>&mdash; Benjy Stanton (@benjystanton) <a href="https://twitter.com/benjystanton/status/1096064210566561793?ref_src=twsrc%5Etfw">February 14, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote><p>Service designers! How do you cope with the stress of feeling out of control/your depth, when you are constantly trying to breakdown the boundaries between team, departments and organisations?</p>&mdash; Benjy Stanton (@benjystanton) <a href="https://twitter.com/benjystanton/status/1096064210566561793?ref_src=twsrc%5Etfw">February 14, 2019</a></blockquote>
 
 ## Tips for being resilient service designer
 
@@ -30,7 +30,7 @@ Read on for more detail…
 - It doesn’t have to be another service designer (someone with similar agile, user-centred, silo busting mindset)
 - Share the load of firefighting
 
-<blockquote class="twitter-tweet" data-conversation="none"><p lang="en" dir="ltr">Find a buddy. Don’t say “yes” to the work if you don’t/won’t have one. You need someone who “gets it” (awful phrase I know), is working in the same context, who you can chew the fat and - yes - vent with</p>&mdash; Sophie Dennis (@sophiedennis) <a href="https://twitter.com/sophiedennis/status/1096100855718256640?ref_src=twsrc%5Etfw">February 14, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote><p>Find a buddy. Don’t say “yes” to the work if you don’t/won’t have one. You need someone who “gets it” (awful phrase I know), is working in the same context, who you can chew the fat and - yes - vent with</p>&mdash; Sophie Dennis (@sophiedennis) <a href="https://twitter.com/sophiedennis/status/1096100855718256640?ref_src=twsrc%5Etfw">February 14, 2019</a></blockquote>
 
 ## Talk to others outside of work
 - Talk it over with people who aren't involved
@@ -45,7 +45,7 @@ Read on for more detail…
 - Find a balance between organisational goals and user needs
 - Learn about the personalities and values of the other stakeholders
 
-<blockquote class="twitter-tweet" data-conversation="none"><p lang="en" dir="ltr">I’m also big into not thinking about breaking down silos but focusing on building networks of interest. It’s more of a strength based perspective.<br><br>Also remember that change needs time. I’ve learned patience over the last ten years of working in and around gov.</p>&mdash; rufflemuffin (@rufflemuffin) <a href="https://twitter.com/rufflemuffin/status/1096321215814402048?ref_src=twsrc%5Etfw">February 15, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote><p>I’m also big into not thinking about breaking down silos but focusing on building networks of interest. It’s more of a strength based perspective.<br><br>Also remember that change needs time. I’ve learned patience over the last ten years of working in and around gov.</p>&mdash; rufflemuffin (@rufflemuffin) <a href="https://twitter.com/rufflemuffin/status/1096321215814402048?ref_src=twsrc%5Etfw">February 15, 2019</a></blockquote>
 
 ## Remember it's a long game
 - Change needs time
@@ -63,7 +63,7 @@ Read on for more detail…
 - Make sure your maps are accessibile to everyone
 - Go easy on jargon
 
-<blockquote class="twitter-tweet" data-conversation="none"><p lang="en" dir="ltr">I like to frame these big challenges by breaking them down into smaller problems with rough odds of success in my head. Knowing how hard a problem is, relative to others, makes it less stressful to fail. Then I say, “I tried my best, but that was always going to be a long shot”</p>&mdash; Harry Vos (@vosageroll) <a href="https://twitter.com/vosageroll/status/1096307866829549568?ref_src=twsrc%5Etfw">February 15, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote><p>I like to frame these big challenges by breaking them down into smaller problems with rough odds of success in my head. Knowing how hard a problem is, relative to others, makes it less stressful to fail. Then I say, “I tried my best, but that was always going to be a long shot”</p>&mdash; Harry Vos (@vosageroll) <a href="https://twitter.com/vosageroll/status/1096307866829549568?ref_src=twsrc%5Etfw">February 15, 2019</a></blockquote>
 
 ## Switch off
 - Don't stare at the wall/screen trying to design solution
@@ -79,7 +79,7 @@ Read on for more detail…
 - Remind yourself of the outcomes you want for the people using the service
 - Try not to attach your self-worth to the immediate feedback you get
 
-<blockquote class="twitter-tweet" data-conversation="none"><p lang="en" dir="ltr">It can be hard at times for sure. Reminding myself of the context and purpose of the service, and the outcomes we want for people as a result of the work. Going for a walk. Zooming out. Talking it over with someone not involved.</p>&mdash; (((Nic Price))) (@nicprice) <a href="https://twitter.com/nicprice/status/1096081140929232897?ref_src=twsrc%5Etfw">February 14, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote><p>It can be hard at times for sure. Reminding myself of the context and purpose of the service, and the outcomes we want for people as a result of the work. Going for a walk. Zooming out. Talking it over with someone not involved.</p>&mdash; (((Nic Price))) (@nicprice) <a href="https://twitter.com/nicprice/status/1096081140929232897?ref_src=twsrc%5Etfw">February 14, 2019</a></blockquote>
 
 ## Keep going
 - Trust yourself
