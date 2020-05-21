@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to be a more resilient service designer
-categories: design
+categories: design service-design
 last_modified_at: 20 May 2020
 ---
 

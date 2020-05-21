@@ -2,7 +2,7 @@
 layout: post   
 title: Great service (design) at Premier Inn  
 date: 2016-03-26 20:50:00  
-categories: personal design
+categories: personal design service-design
 ---
 
 I’m always impressed by the good service that me and my family get at Premier Inn.
