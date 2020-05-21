@@ -5,8 +5,8 @@
     <description>Hi, my name is Benjy Stanton and I’m an interaction designer.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 21 May 2020 10:51:51 +0100</pubDate>
-    <lastBuildDate>Thu, 21 May 2020 10:51:51 +0100</lastBuildDate>
+    <pubDate>Thu, 21 May 2020 12:32:58 +0100</pubDate>
+    <lastBuildDate>Thu, 21 May 2020 12:32:58 +0100</lastBuildDate>
     <generator>Jekyll v3.8.7</generator>
     
       <item>
@@ -385,12 +385,12 @@
     
       <item>
         <title>Accessible search form mark-up</title>
-        <description>&lt;p class=&quot;lede&quot;&gt;A brief checklist for marking-up an accessible search form.&lt;/p&gt;
+        <description>&lt;p class=&quot;lede&quot;&gt;A brief checklist for marking-up an accessible search form. Last updated on 21 May 2020.&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Add &lt;code class=&quot;highlighter-rouge&quot;&gt;role=&quot;search&quot;&lt;/code&gt; landmark to the &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;form&amp;gt;&lt;/code&gt;&lt;/li&gt;
   &lt;li&gt;Associate the &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;label&amp;gt;&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;input&amp;gt;&lt;/code&gt; using &lt;code class=&quot;highlighter-rouge&quot;&gt;for=&quot;…&quot;&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;id=&quot;…&quot;&lt;/code&gt;&lt;/li&gt;
-  &lt;li&gt;Add &lt;code class=&quot;highlighter-rouge&quot;&gt;type=&quot;search&quot;&lt;/code&gt; to the &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;input&amp;gt;&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;Add &lt;code class=&quot;highlighter-rouge&quot;&gt;type=&quot;search&quot;&lt;/code&gt; or &lt;code class=&quot;highlighter-rouge&quot;&gt;type=&quot;text&quot;&lt;/code&gt; to the &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;input&amp;gt;&lt;/code&gt;&lt;/li&gt;
   &lt;li&gt;Add &lt;code class=&quot;highlighter-rouge&quot;&gt;type=&quot;submit&quot;&lt;/code&gt; to the &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;button&amp;gt;&lt;/code&gt;&lt;/li&gt;
   &lt;li&gt;Optionally, associate the &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;input&amp;gt;&lt;/code&gt; with any help text using &lt;code class=&quot;highlighter-rouge&quot;&gt;aria-describedby=&quot;…&quot;&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -407,8 +407,11 @@
 
 &lt;h2 id=&quot;more-info&quot;&gt;More info&lt;/h2&gt;
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://design-system.service.gov.uk/components/text-input/&quot;&gt;Text input components – GOV.UK Design System&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://adrianroselli.com/2020/01/my-priority-of-methods-for-labeling-a-control.html&quot;&gt;My Priority of Methods for Labeling a Control – Adrian Roselli&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://design-system.service.gov.uk/components/text-input/&quot;&gt;Text input components from GOV.UK Design System&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://adrianroselli.com/2019/07/ignore-typesearch.html&quot;&gt;Maybe Ignore type=search from Adrian Roselli&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://adrianroselli.com/2015/08/where-to-put-your-search-role.html&quot;&gt;Where to Put Your Search Role from Adrian Roselli&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/Search_role&quot;&gt;ARIA: search role from MDN&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://adrianroselli.com/2020/01/my-priority-of-methods-for-labeling-a-control.html&quot;&gt;My Priority of Methods for Labeling a Control from Adrian Roselli&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 </description>
