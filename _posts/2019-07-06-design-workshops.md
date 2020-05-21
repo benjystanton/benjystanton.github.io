@@ -1,18 +1,14 @@
 ---
 layout: post
 title: Design workshops
-categories: design nablopomo
+categories: design nablopomo service-design
 tag: NaBloPoMo2019
-last_modified_at: 18 March 2020
+last_modified_at: 21 May 2020
 ---
 
-<p>Updated on 18 March 2020</p>
+<p class="lede">I’m a big fan of structured/facilitated design workshops. They can be incredibly useful for user research sessions, co-designing services with teams, and stakeholder meetings. Updated on {{ page.last_modified_at }}.</p>
 
-<p class="lede">I’m a big fan of structured/facilitated design workshops. They can be incredibly useful for user research sessions, co-designing services with teams, and stakeholder meetings.</p>
-
-And yes, the language and style of these things can stray a bit into "design thinking B.S." at times. (Young me would cringe at how often I use the word stakeholder these days).
-
-But, honestly, practising how to run these workshops, and being able to pick and choose the right one for the right task is becoming more valuable to me as a designer as I gain experience.
+Practising how to run these workshops, and being able to pick and choose the right one for the right task is becoming more valuable to me as a designer as I gain experience.
 
 ## Design workshop collections
 
@@ -29,6 +25,7 @@ Here are some sites that list a range of design workshops, activities and exerci
 - [Team prompts](https://teamprompts.com/#/measurement)
 - [Mental models for designers](https://dropbox.design/article/mental-models-for-designers)
 - [Design Games](https://www.designgames.com.au/) (via [Nic Price](https://twitter.com/nicprice))
+- [Service Design Tools](https://servicedesigntools.org/tools) (via [Kate Towsey](https://twitter.com/katetowsey))
 
 ## A list of design workshop methods
 
@@ -49,3 +46,4 @@ Here are some links to specific design workshop methods…
 - [Task Model](https://www.cxpartners.co.uk/our-thinking/task-model-cheat-sheet-pdf/) (via [Nic Price](https://twitter.com/nicprice))
 - [Despicable Design](https://articles.uie.com/despicable-design-when-going-evil-is-the-perfect-technique/)
 - [Making Product Decisions in Bets](https://medium.com/@wnialloconnor/the-gamblers-approach-to-running-a-research-kick-off-workshop-e5d45da4a578)
+- [Synthesis Wall](https://servicedesigntools.org/tools/synthesis-wall) (via [Kate Towsey](https://twitter.com/katetowsey))
