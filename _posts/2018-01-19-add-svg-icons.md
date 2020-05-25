@@ -4,7 +4,7 @@ title: Add SVG icons
 categories: release-notes accessibility svg
 image: svg-icon.png
 image-alt: Screenshot of the Twitter bird being edited in a vector drawing application
-last_modified_at: 12 May 2020
+last_modified_at: 25 May 2020
 ---
 
 <p class="lede">Switching from PNGs (Portable Network Graphics) or Icon Fonts, to SVG (Scalable Vector Graphics) icons. Updated on {{ page.last_modified_at }}.</p>
@@ -27,7 +27,7 @@ last_modified_at: 12 May 2020
 - [Browser support is good](https://caniuse.com/#feat=svg-html5)
 - Editable using code or vector drawing applications
 
-## SVG attributes
+## Useful SVG attributes
 
 - `height=""`
 - `width=""`
@@ -35,6 +35,7 @@ last_modified_at: 12 May 2020
 - `aria-hidden="true"`
 - `xmlns="http://www.w3.org/2000/svg"`
 - `focusable="false"`
+- `aria-labelledby=""`
 - `fill="currentColor"`
 
 ## Add `focusable="false"` to SVGs
@@ -48,9 +49,12 @@ last_modified_at: 12 May 2020
 - File size is often smaller (unless the icon very complex)
 - Only load what you need (instead of a whole icon font)
 
+
+
 ## Related links
 
 - [Making SVG accessible from Léonie Watson](http://decks.tink.uk/2017/lws/index.html)
+- [Using ARIA to enhance SVG accessibility from The Paciello Group](https://developer.paciellogroup.com/blog/2013/12/using-aria-enhance-svg-accessibility/)
 - [Seriously, Don’t Use Icon Fonts from Tyler Sticka](https://cloudfour.com/thinks/seriously-dont-use-icon-fonts/)
 - [Tips for Creating Accessible SVG from SitePoint](https://www.sitepoint.com/tips-accessible-svg/)
 - [SVGOMG from Jake Archibald](https://jakearchibald.github.io/svgomg/)
