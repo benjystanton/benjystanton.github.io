@@ -7,12 +7,12 @@ table {
 }
 
 thead {
-  border-top: $spacing-unit/4 solid $black-colour;
+  border-top: $spacing-unit/2 solid $black-colour;
 }
 
 @media (prefers-color-scheme: dark) {
   thead {
-    border-top-color: $dark-grey-colour;
+    border-top-color: $dark-black-colour;
   }
 }
 
@@ -29,7 +29,7 @@ th[scope=row], td {
 }
 
 td, th {
-  border-bottom: 1px solid $black-colour;
+  border-bottom: $spacing-unit/4 solid $black-colour;
   text-align: left;
   padding: $spacing-unit/4 $spacing-unit $spacing-unit 0;
   line-height: $base-line-height;
@@ -37,7 +37,7 @@ td, th {
 
 @media (prefers-color-scheme: dark) {
   td, th {
-    border-bottom-color: $dark-grey-colour;
+    border-bottom-color: $dark-black-colour;
   }
 }
 

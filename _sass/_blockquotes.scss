@@ -9,3 +9,9 @@ blockquote {
         margin-bottom: 0;
     }
 }
+
+@media (prefers-color-scheme: dark) {
+  blockquote {
+      border-left-color: $medium-grey-colour;
+  }
+}

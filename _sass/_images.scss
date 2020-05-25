@@ -39,7 +39,7 @@ img {
 
 figure {
   @include media-query($medium) {
-    margin-bottom: $spacing-unit*2;
+    margin-bottom: $spacing-unit * 2;
   }
 }
 
@@ -49,6 +49,10 @@ figure img {
 
 figure figcaption span {
   display: block;
+}
+
+svg {
+  fill: currentColor;
 }
 
 .map {

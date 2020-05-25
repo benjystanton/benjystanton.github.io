@@ -9,21 +9,40 @@
 // Progress bar
 
 .progress-bar {
-	height: $spacing-unit*3;
-	background: repeating-linear-gradient(
-  to right,
-  $black-colour,
-  $black-colour 1px,
-  #fff 1px,
-  #fff 3.3333333333%
+  height: $spacing-unit * 3;
+  background: repeating-linear-gradient(
+    to right,
+    $black-colour,
+    $black-colour 1px,
+    $white-colour 1px,
+    $white-colour 3.3333333333%
   );
   padding: $spacing-unit/2 0;
   margin-bottom: $spacing-unit;
   box-shadow: 3px 0 0 $black-colour; // Use box shadow to create a border right that doesn't affect the width of the box
 }
 
+@media (prefers-color-scheme: dark) {
+  .progress-bar {
+    background: repeating-linear-gradient(
+      to right,
+      $white-colour,
+      $white-colour 1px,
+      $black-colour 1px,
+      $black-colour 3.3333333333%
+    );
+    box-shadow: 3px 0 0 $white-colour; // Use box shadow to create a border right that doesn't affect the width of the box
+  }
+}
+
 .progress-bar > span {
   display: block;
   height: 100%;
   background-color: $black-colour;
+}
+
+@media (prefers-color-scheme: dark) {
+  .progress-bar > span {
+    background-color: $white-colour;
+  }
 }

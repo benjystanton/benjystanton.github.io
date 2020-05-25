@@ -6,6 +6,7 @@ excerpt: Notes about my site's build, typography, colours and components.
 ---
 
 ## Build
+
 This blog is built with [Jekyll](https://jekyllrb.com/) and hosted with [GitHub Pages](https://pages.github.com/). Jekyll uses the [Liquid templating language](https://shopify.github.io/liquid/).
 
 Here's a [link to the repo](https://github.com/benjystanton/benjystanton.github.io).
@@ -13,21 +14,26 @@ Here's a [link to the repo](https://github.com/benjystanton/benjystanton.github.
 Spotted an error or something that could be improved? Please [create an issue](https://github.com/benjystanton/benjystanton.github.io/issues).
 
 ## Fonts
+
 I'm using system fonts, I borrowed this font stack from [Andy](https://twitter.com/hankchizljaw/status/1254800627789676548).
 
-`'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;`
+`'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;` 
 
 ## Colours
+
 <ul class="list-inline">
-  <li class="background--text-colour padding--s">Text #2e343b</li>
+  <li class="background--dark-black-colour padding--s">Dark black #181b1e</li>
+  <li class="background--black-colour padding--s">Black #2e343b</li>
   <li class="background--dark-grey-colour padding--s">Dark grey #5b6774</li>
   <li class="background--medium-grey-colour padding--s">Medium grey #abb3bd</li>
   <li class="background--light-grey-colour padding--s">Light grey #e4e7ea</li>
-  <li class="background--white-colour padding--s border">White #ffffff</li>
+  <li class="background--white-colour padding--s">White #ecf0f3</li>
   <li class="background--primary-colour padding--s">Primary #007575</li>
+  <li class="background--primary-colour-dark-mode padding--s">Primary dark mode #0eb9b9</li>
 </ul>
 
 ## Layout templates
+
 A list of different layouts in use on the site.
 <ul>
   <li>Page – <a href="{{ site.baseurl }}/about/">About</a>, <a href="{{ site.baseurl }}/blog/accessibility-for-designers/">Accessibility for designers</a></li>
@@ -57,9 +63,9 @@ Lorem ipsum dolor sit amet, consectetur adip*isicing elit, sed do eiusmod * temp
 
 [An example link](#)
 
-- This is a list item in an unordered list
-- An unordered list is a list in which the sequence of items is not important. Sometimes, an unordered list is a bulleted list. And this is a long list item in an unordered list that can wrap onto a new line.
-- This is the last list item
+* This is a list item in an unordered list
+* An unordered list is a list in which the sequence of items is not important. Sometimes, an unordered list is a bulleted list. And this is a long list item in an unordered list that can wrap onto a new line.
+* This is the last list item
 
 1. This is a list item in an ordered list
 2. An ordered list is a list in which the sequence of items is important. An ordered list does not necessarily contain sequence characters.
@@ -67,7 +73,7 @@ Lorem ipsum dolor sit amet, consectetur adip*isicing elit, sed do eiusmod * temp
 
 ### Lede
 
-```
+``` 
 <p class="lede">A large intro paragraph or summary.</p>
 ```
 
@@ -75,7 +81,7 @@ Lorem ipsum dolor sit amet, consectetur adip*isicing elit, sed do eiusmod * temp
 
 ### Blockquote
 
-```
+``` 
 > A blockquote is a quotation in a written document, that is set off from the main text as a paragraph, or block of text, and typically distinguished visually using indentation.
 <br>— Homer Simpson
 ```
@@ -89,7 +95,7 @@ Smaller, lighter text used for the "published on" date and image captions.
 
 [How to set date formats with Liquid](https://shopify.github.io/liquid/filters/date/).
 
-```
+``` 
 <small>%e %B %Y</small>
 ```
 
@@ -100,13 +106,15 @@ Smaller, lighter text used for the "published on" date and image captions.
 Use the `big-number.html` include.
 
 {% raw %}  
-```
+
+``` 
 {%
   include big-number.html
   big-number="979"
   text="miles driven"
 %}
 ```
+
 {% endraw %}
 
 {%
@@ -120,7 +128,8 @@ Use the `big-number.html` include.
 Use the `file-link.html` include when you need to link a file and specify the file format and size at the same time.
 
 {% raw %}  
-```
+
+``` 
 {%
   include file-link.html
   text="View the raw data"
@@ -129,6 +138,7 @@ Use the `file-link.html` include when you need to link a file and specify the fi
   size="3KB"
 %}
 ```
+
 {% endraw %}
 
 {%
@@ -140,12 +150,13 @@ Use the `file-link.html` include when you need to link a file and specify the fi
 %}
 
 ## Symbols
-- non-breaking space `&nbsp;` &nbsp;
-- en dash `&ndash;` &ndash;
-- em dash `&mdash;` &mdash;
-- horizontal ellipsis `&hellip;` …
-- times (multiply) symbol `&times;` ×
-- minus symbol `&minus;` &minus;
+
+* non-breaking space `&nbsp;` &nbsp; 
+* en dash `&ndash;` &ndash; 
+* em dash `&mdash;` &mdash; 
+* horizontal ellipsis `&hellip;` …
+* times (multiply) symbol `&times;` ×
+* minus symbol `&minus;` &minus; 
 
 ***
 
@@ -153,13 +164,15 @@ Use the `file-link.html` include when you need to link a file and specify the fi
 
 Images are full width by default. Don't forget alt text.
 
-- Standard blog image: 1024 × 512
-- Thumbnail (for Twitter summary card): 500 × 500
+* Standard blog image: 1024 × 512
+* Thumbnail (for Twitter summary card): 500 × 500
 
 {% raw %}  
-```
+
+``` 
 ![Alt text goes here]({{ site.url }}/assets/image.png)
 ```
+
 {% endraw %}  
 
 ![Alt text goes here]({{ site.url }}/assets/make-data-part-of-the-web-landscape.png)
@@ -174,9 +187,9 @@ Image captions aren't supported in standard Markdown so I've made an `image-with
   alt-text="A yellow sticker with black text on a laptop"
   %}
 
-
 {% raw %}  
-```
+
+``` 
 {%
   include image-with-caption.html
   image="coop-sticker.jpg"
@@ -184,22 +197,23 @@ Image captions aren't supported in standard Markdown so I've made an `image-with
   alt-text="A yellow sticker with black text on a laptop"
 %}
 ```
+
 {% endraw %}
 
-```
+``` 
 {%
   include image-with-caption.html
   image="coop-sticker.jpg"
   caption="Co-op digital design principle sticker – We design for everyone"
   alt-text="A yellow sticker with black text on a laptop"
-%}
+-%}
 ```
 
 ## SVG icons
 
 [Read more about SVGs in this blog post]({{ site.url}}/blog/add-svg-icons/)
 
-```
+``` 
 {% include benjy-stanton-logo.svg %}
 ```
 
@@ -213,7 +227,7 @@ Logo designed by Saph at [Magenta](http://www.magentaphotography.co.uk/)
 
 ### HTML tables
 
-```
+``` 
 <table>
   <caption><h4>This is a table caption</h4></caption>
   <thead>
@@ -241,13 +255,16 @@ Logo designed by Saph at [Magenta](http://www.magentaphotography.co.uk/)
 <table>
   <caption><h4>This is a table caption</h4></caption>
   <thead>
+
     <tr>
       <th>Table Heading</th>
       <th>Table Heading</th>
       <th class="cell--right">Numbers</th>
     </tr>
+
   </thead>
   <tbody>
+
     <tr>
       <td>Table Cell</td>
       <td>Table Cell</td>
@@ -258,12 +275,13 @@ Logo designed by Saph at [Magenta](http://www.magentaphotography.co.uk/)
       <td>Table Cell</td>
       <td class="cell--right">12</td>
     </tr>
+
   </tbody>
 </table>
 
 ### Markdown tables
 
-```
+``` 
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
@@ -274,65 +292,3 @@ Logo designed by Saph at [Magenta](http://www.magentaphotography.co.uk/)
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
-
-<!-- ***
-
-<fieldset>
-
-    <div class="field-container">
-        <label for="text">Text Input</label>
-        <input id="text" type="text" placeholder="Text Input">
-    </div>
-
-    <div class="field-container">
-        <label for="textarea">Textarea</label>
-        <textarea id="textarea" rows="8" cols="48" placeholder="Enter your message here"></textarea>
-    </div>
-
-    <div class="field-container">
-        <label for="select">Select</label>
-        <select id="select">
-        	<option>Option One</option>
-        	<option>Option Two</option>
-        	<option>Option Three</option>
-        </select>
-    </div>
-
-    <fieldset class="options">
-        <legend>Checkbox</legend>
-        <label for="checkbox1"><input id="checkbox1" name="checkbox" type="checkbox" checked="checked"> Choice A</label>
-        <label for="checkbox2"><input id="checkbox2" name="checkbox" type="checkbox"> Choice B</label>
-        <label for="checkbox3"><input id="checkbox3" name="checkbox" type="checkbox"> Choice C</label>
-    </fieldset>
-
-    <fieldset class="options">
-        <legend>Radio</legend>
-        <label for="radio1"><input id="radio1" name="radio" type="radio" class="radio" checked="checked"> Option 1</label>
-        <label for="radio2"><input id="radio2" name="radio" type="radio" class="radio"> Option 2</label>
-        <label for="radio3"><input id="radio3" name="radio" type="radio" class="radio"> Option 3</label>
-    </fieldset>
-
-    <button type="submit" value="Submit">Submit</button>
-
-</fieldset> -->
-
-<!-- ***
-
-<div class="row">
-	<div class="column full">.column .full</div>
-</div>
-<div class="row">
-	<div class="column half">.column .half</div>
-	<div class="column half">.column .half</div>
-</div>
-<div class="row">
-	<div class="column third">.column .third</div>
-	<div class="column third">.column .third</div>
-	<div class="column third">.column .third</div>
-</div>
-<div class="row">
-	<div class="column quarter">.column .quarter</div>
-	<div class="column quarter">.column .quarter</div>
-	<div class="column quarter">.column .quarter</div>
-	<div class="column quarter">.column .quarter</div>
-</div> -->

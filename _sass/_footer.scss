@@ -5,6 +5,12 @@
   padding: $spacing-unit * 2 0 $spacing-unit;
 }
 
+@media (prefers-color-scheme: dark) {
+  .site-footer {
+    background-color: $dark-black-colour;
+  }
+}
+
 .site-footer ul {
   list-style: none;
   margin-left: 0;
@@ -24,7 +30,7 @@
 }
 
 @media (prefers-color-scheme: dark) {
-  .site-footer {
-    background-color: $dark-black-colour;
+  .site-footer a {
+    color: $light-grey-colour;
   }
 }

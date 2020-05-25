@@ -94,6 +94,12 @@ html {
   border: 1px solid $light-grey-colour;
 }
 
+@media (prefers-color-scheme: dark) {
+  .border {
+    border-color:$dark-grey-colour;
+  }
+}
+
 // align
 .align-right {
   text-align: right;

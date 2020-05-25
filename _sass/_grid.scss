@@ -14,7 +14,13 @@
 .previous-and-next {
   margin-top: $spacing-unit * 4;
   padding-top: $spacing-unit;
-  border-top: solid 3px $light-grey-colour;
+  border-top: solid $spacing-unit/2 $light-grey-colour;
+}
+
+@media (prefers-color-scheme: dark) {
+  .previous-and-next {
+    border-top-color: $dark-black-colour;
+  }
 }
 
 .previous-and-next a {
@@ -27,7 +33,7 @@
   padding: $spacing-unit 0 $spacing-unit * 4;
 
   @include media-query($medium) {
-    padding-top: $spacing-unit*2;
+    padding-top: $spacing-unit * 2;
 
     .wrapper {
       padding-right: 20%;

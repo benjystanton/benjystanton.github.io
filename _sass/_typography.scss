@@ -41,6 +41,7 @@ body {
     font-size: $base-font-size * 1.4;
     line-height: $base-line-height * 1.1;
   }
+  background-color: $white-colour;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -245,7 +246,7 @@ dd {
 
 hr {
   border: 0;
-  border-bottom: $spacing-unit/4 solid $black-colour;
+  border-bottom: $spacing-unit/2 solid $black-colour;
   margin: $spacing-unit * 2 0;
 
   @include media-query($medium) {
