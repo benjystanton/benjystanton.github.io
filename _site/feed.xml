@@ -69,12 +69,17 @@
     
       <item>
         <title>Accessible close buttons</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;Mark up as a button, e.g. &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;button type=&quot;button&quot;&amp;gt;…&amp;lt;/button&amp;gt;&lt;/code&gt;&lt;/li&gt;
-  &lt;li&gt;Tap target should be at least 44px&lt;/li&gt;
-  &lt;li&gt;Needs an accessible text label, for example &lt;code class=&quot;highlighter-rouge&quot;&gt;aria-label=&quot;Close&quot;&lt;/code&gt;&lt;/li&gt;
-  &lt;li&gt;Use an &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;svg&amp;gt;&lt;/code&gt; icon or a &lt;code class=&quot;highlighter-rouge&quot;&gt;×&lt;/code&gt; character&lt;/li&gt;
+        <description>&lt;p&gt;Last updated on 25 May 2020.&lt;/p&gt;
+
+&lt;h2 id=&quot;how-to-design-accessible-close-buttons&quot;&gt;How to design accessible close buttons&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Mark it up as a button, e.g. &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;button type=&quot;button&quot;&amp;gt;…&amp;lt;/button&amp;gt;&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;Include accessible text, for example&lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;button&amp;gt;Close&amp;lt;/button&amp;gt;&lt;/code&gt; or &lt;code class=&quot;highlighter-rouge&quot;&gt;aria-label=&quot;Close&quot;&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;The overall size should be at least 44px&lt;/li&gt;
   &lt;li&gt;Add styles for keyboard focus and mouse hover&lt;/li&gt;
+  &lt;li&gt;Consider adding an &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;svg&amp;gt;&lt;/code&gt; icon&lt;/li&gt;
+  &lt;li&gt;If you use the multiplication/times character (&lt;code class=&quot;highlighter-rouge&quot;&gt;×&lt;/code&gt;), be sure to hide it from screen readers with &lt;code class=&quot;highlighter-rouge&quot;&gt;aria-hidden=&quot;true&quot;&lt;/code&gt; (so it’s not read out as “times”)&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;example-mark-up&quot;&gt;Example mark-up&lt;/h2&gt;
@@ -89,11 +94,15 @@
 
 &lt;h2 id=&quot;update-11-may-2020&quot;&gt;Update 11 May 2020&lt;/h2&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/adambsilver/status/1256142121142300674&quot;&gt;Adam&lt;/a&gt; suggested that using a visible text label with the icon (or even just visible text, with no icon) would improve accessibility for voice dictation software users.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/adambsilver/status/1256142121142300674&quot;&gt;Adam Silver&lt;/a&gt; suggested that using a visible text label with the icon (or even just visible text, with no icon) would improve accessibility for voice dictation software users.&lt;/p&gt;
+
+&lt;h2 id=&quot;update-25-may-2020&quot;&gt;Update 25 May 2020&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/mmatuzo&quot;&gt;Manuel Matuzović&lt;/a&gt; has written &lt;a href=&quot;https://www.htmhell.dev/20-close-buttons/&quot;&gt;a great round up of close button bad practices&lt;/a&gt; and a range of solutions on HTMHell.&lt;/p&gt;
 
 &lt;h2 id=&quot;further-reading&quot;&gt;Further reading&lt;/h2&gt;
-
 &lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.htmhell.dev/20-close-buttons/&quot;&gt;#20 HTMHell special: close buttons from HTMHell&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/ARIA_Techniques/Using_the_aria-label_attribute&quot;&gt;Using the aria-label attribute from MDN web docs&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.w3.org/TR/WCAG20-TECHS/ARIA14.html&quot;&gt;ARIA14: Using aria-label to provide an invisible label where a visible label cannot be used from W3C&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://scottaohara.github.io/accessible_modal_window/&quot;&gt;Accessible Modal Dialogs from Scott O’Hara&lt;/a&gt;&lt;/li&gt;
