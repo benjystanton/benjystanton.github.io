@@ -5,6 +5,13 @@ code {
     background-color: $light-grey-colour;
 }
 
+@media (prefers-color-scheme: dark) {
+    pre,
+    code {
+        background-color: $dark-black-colour;
+    }
+}
+
 code {
     padding: 0.1em 0.5em;
 }
@@ -13,10 +20,10 @@ pre {
     margin-top: $spacing-unit/4;
     padding: 1em;
     overflow-x: scroll;
+}
 
-    > code {
-        border: 0;
-        padding-right: 0;
-        padding-left: 0;
-    }
+pre > code {
+    border: 0;
+    padding-right: 0;
+    padding-left: 0;
 }

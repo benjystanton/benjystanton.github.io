@@ -1,26 +1,35 @@
 // Colours
 
-$text-colour:         #2e343b;
-$light-grey-colour:   lighten($text-colour, 70%);
-$medium-grey-colour:  lighten($text-colour, 50%);
-$dark-grey-colour:    lighten($text-colour, 20%);
-$white-colour:        #ffffff;
-$primary-colour:      #007575;
-$visited-colour:      $text-colour;
+$black-colour: #2e343b;
+$dark-black-colour: darken($black-colour, 10%);
+$dark-grey-colour: lighten($black-colour, 20%);
+$medium-grey-colour: lighten($black-colour, 50%);
+$light-grey-colour: lighten($black-colour, 70%);
+$white-colour: #ecf0f3;
+$primary-colour: #007575;
+$primary-colour-dark-mode: #0eb9b9;
+$visited-colour: $black-colour;
 
 // Background Colours
 
-.background--text-colour {
-  background-color: $text-colour;
+.background--black-colour {
+  background-color: $black-colour;
+  color: $white-colour;
+}
+
+.background--dark-black-colour {
+  background-color: $dark-black-colour;
   color: $white-colour;
 }
 
 .background--light-grey-colour {
   background-color: $light-grey-colour;
+  color: $black-colour;
 }
 
 .background--medium-grey-colour {
   background-color: $medium-grey-colour;
+  color: $black-colour;
 }
 
 .background--dark-grey-colour {
@@ -30,9 +39,15 @@ $visited-colour:      $text-colour;
 
 .background--white-colour {
   background-color: $white-colour;
+  color: $black-colour;
 }
 
 .background--primary-colour {
   background-color: $primary-colour;
   color: $white-colour;
+}
+
+.background--primary-colour-dark-mode {
+  background-color: $primary-colour-dark-mode;
+  color: $black-colour;
 }

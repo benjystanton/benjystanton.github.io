@@ -2,23 +2,35 @@
 
 .site-footer {
   background-color: $light-grey-colour;
-  padding: $spacing-unit*2 0 $spacing-unit;
-  
-  ul {
-    list-style: none;
-    margin-left: 0;
-    margin-bottom: 0;
+  padding: $spacing-unit * 2 0 $spacing-unit;
+}
+
+@media (prefers-color-scheme: dark) {
+  .site-footer {
+    background-color: $dark-black-colour;
   }
-  
-  li {
-    margin-bottom: $spacing-unit;
-    @include media-query($large) {
-      display: inline-block;
-      margin-right: $spacing-unit*2;
-    }
+}
+
+.site-footer ul {
+  list-style: none;
+  margin-left: 0;
+  margin-bottom: 0;
+}
+
+.site-footer li {
+  margin-bottom: $spacing-unit;
+  @include media-query($large) {
+    display: inline-block;
+    margin-right: $spacing-unit * 2;
   }
-  
-  a {
-    color: $text-colour;
+}
+
+.site-footer a {
+  color: $black-colour;
+}
+
+@media (prefers-color-scheme: dark) {
+  .site-footer a {
+    color: $light-grey-colour;
   }
 }

@@ -1,71 +1,70 @@
 // Site header
 
 .site-header {
-    padding-top: $spacing-unit*2;
-    text-align: left;
+  padding-top: $spacing-unit * 2;
+}
 
-    a {
+.site-header a {
+  color: $primary-colour;
+}
 
-        &:visited {
-          color:$primary-colour;
-        }
-        &:hover,
-        &:focus {
-          color:$white-colour;
-          background-color: $primary-colour;
-          outline: 3px solid $primary-colour;
-        }
-        &.logo:hover,
-        &.logo:focus {
-          background-color: $primary-colour;
-          outline:0px;
-        }
-        &.logo:hover svg path,
-        &.logo:focus svg path {
-          fill: $white-colour;
-        }
-    }
+@media (prefers-color-scheme: dark) {
+  .site-header a {
+    color: $primary-colour-dark-mode;
+  }
+}
 
-    .logo {
-      display: inline-block;
-    }
+.site-header a:hover,
+.site-header a:focus {
+  color: $white-colour;
+  background-color: $primary-colour;
+  outline: 3px solid $primary-colour;
+}
 
-    .logo:focus {
-      background-color: $white-colour;
-    }
+@media (prefers-color-scheme: dark) {
+  .site-header a:hover,
+  .site-header a:focus {
+    color: $black-colour;
+    background-color: $primary-colour-dark-mode;
+    outline-color: $primary-colour-dark-mode;
+  }
+}
 
-    .logo svg {
-      // Base size for small and css-free layouts is set inside the SVG
-      margin-bottom: 0;
-      path {
-        fill: $primary-colour;
-      }
+.site-header a.logo:hover,
+.site-header a.logo:focus {
+  outline: 0px;
+}
 
-    }
+.site-header .logo {
+  display: inline-block;
+}
+
+.site-header .logo svg {
+  margin-bottom: 0;
 }
 
 .site-nav {
+  margin-top: $spacing-unit;
+}
 
-    margin-top: $spacing-unit;
+.site-nav .page-link {
+  line-height: $base-line-height;
+}
 
-    .page-link {
-        line-height: $base-line-height;
+// Gaps between nav items, but not on the first one
+.site-nav .page-link:not(:first-child) {
+  margin-left: $spacing-unit;
+}
 
-        // Gaps between nav items, but not on the first one
-        &:not(:first-child) {
-            margin-left: $spacing-unit;
-        }
+.site-nav .current {
+  color: $black-colour;
+  text-decoration: none;
+}
 
-    }
-
-    a.current {
-      color: $text-colour;
-      text-decoration: none;
-
-        &:hover,&:focus {
-          color: $white-colour;
-        }
-    }
+@media (prefers-color-scheme: dark) {
+  .site-nav .current {
+    color: $white-colour;
+  }
 }
 
 // Make skiplinks visible when they are tabbed to

@@ -7,7 +7,13 @@ table {
 }
 
 thead {
-  border-top: $spacing-unit/4 solid $text-colour;
+  border-top: $spacing-unit/2 solid $black-colour;
+}
+
+@media (prefers-color-scheme: dark) {
+  thead {
+    border-top-color: $dark-black-colour;
+  }
 }
 
 thead th {
@@ -23,10 +29,16 @@ th[scope=row], td {
 }
 
 td, th {
-  border-bottom: 1px solid $text-colour;
+  border-bottom: $spacing-unit/4 solid $black-colour;
   text-align: left;
   padding: $spacing-unit/4 $spacing-unit $spacing-unit 0;
   line-height: $base-line-height;
+}
+
+@media (prefers-color-scheme: dark) {
+  td, th {
+    border-bottom-color: $dark-black-colour;
+  }
 }
 
 td:last-child, th:last-child {
