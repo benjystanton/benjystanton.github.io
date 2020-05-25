@@ -31,6 +31,12 @@ img {
   border: 1px solid $light-grey-colour;
 }
 
+@media (prefers-color-scheme: dark) {
+  .post-content img {
+    border-color: $dark-grey-colour;
+  }
+}
+
 figure {
   @include media-query($medium) {
     margin-bottom: $spacing-unit*2;

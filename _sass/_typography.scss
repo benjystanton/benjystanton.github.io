@@ -36,10 +36,17 @@ body {
   font-family: $base-font-family;
   font-size: $base-font-size;
   line-height: $base-line-height;
-  color: $text-colour;
+  color: $black-colour;
   @include media-query($medium) {
     font-size: $base-font-size * 1.4;
     line-height: $base-line-height * 1.1;
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+    color: $white-colour;
+    background-color: $black-colour;
   }
 }
 
@@ -146,11 +153,23 @@ small {
   display: inline-block;
 }
 
+@media (prefers-color-scheme: dark) {
+  small {
+    color: $medium-grey-colour;
+  }
+}
+
 .text-small {
   font-size: $small-font-size;
   color: $dark-grey-colour;
   @include media-query($medium) {
     font-size: $small-font-size * 1.2;
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  .text-small {
+    color: $medium-grey-colour;
   }
 }
 
@@ -226,11 +245,17 @@ dd {
 
 hr {
   border: 0;
-  border-bottom: $spacing-unit/4 solid $text-colour;
+  border-bottom: $spacing-unit/4 solid $black-colour;
   margin: $spacing-unit * 2 0;
 
   @include media-query($medium) {
     margin: $spacing-unit * 4 0;
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  hr {
+    border-bottom-color: $dark-black-colour;
   }
 }
 

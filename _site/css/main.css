@@ -49,6 +49,10 @@ body {
       font-size: 1.4rem;
       line-height: 1.65; } }
 
+@media (prefers-color-scheme: dark) {
+  body {
+    color: #ffffff;
+    background-color: #2e343b; } }
 h1,
 h2,
 h3,
@@ -164,6 +168,9 @@ small {
     small {
       font-size: 0.96rem; } }
 
+@media (prefers-color-scheme: dark) {
+  small {
+    color: #abb3bd; } }
 .text-small {
   font-size: 0.8rem;
   color: #5b6774; }
@@ -171,6 +178,9 @@ small {
     .text-small {
       font-size: 0.96rem; } }
 
+@media (prefers-color-scheme: dark) {
+  .text-small {
+    color: #abb3bd; } }
 .lede {
   font-size: 1.2rem;
   line-height: 1.4;
@@ -226,6 +236,9 @@ hr {
     hr {
       margin: 4rem 0; } }
 
+@media (prefers-color-scheme: dark) {
+  hr {
+    border-bottom-color: #181b1e; } }
 .counter {
   display: inline-block;
   width: 1.6em;
@@ -237,21 +250,46 @@ hr {
  */
 a {
   color: #007575; }
-  a:hover, a:focus {
-    background-color: #007575;
-    color: #ffffff;
-    outline: 3px solid #007575;
-    text-decoration: none; }
-  a:visited:hover, a:visited:focus {
-    background-color: #2e343b;
-    color: #ffffff;
-    outline: 3px solid #2e343b; }
-  a:visited {
-    color: #2e343b; }
-  a:visited:focus:hover {
-    color: #ffffff; }
 
-.site-footer a:hover, .site-footer a:focus {
+@media (prefers-color-scheme: dark) {
+  a {
+    color: #0eb9b9; } }
+a:hover,
+a:focus {
+  background-color: #007575;
+  color: #ffffff;
+  outline: 3px solid #007575;
+  text-decoration: none; }
+
+@media (prefers-color-scheme: dark) {
+  a:hover,
+  a:focus {
+    background-color: #0eb9b9;
+    outline-color: #0eb9b9;
+    color: #2e343b; } }
+a:visited:hover,
+a:visited:focus {
+  background-color: #2e343b;
+  color: #ffffff;
+  outline: 3px solid #2e343b; }
+
+@media (prefers-color-scheme: dark) {
+  a:visited:hover,
+  a:visited:focus {
+    background-color: #ffffff;
+    outline-color: #ffffff;
+    color: #2e343b; } }
+a:visited {
+  color: #2e343b; }
+
+@media (prefers-color-scheme: dark) {
+  a:visited {
+    color: #ffffff; } }
+a:visited:focus:hover {
+  color: #ffffff; }
+
+.site-footer a:hover,
+.site-footer a:focus {
   color: #ffffff;
   background-color: #007575;
   outline: 3px solid #007575; }
@@ -282,6 +320,9 @@ img {
 .post-content img {
   border: 1px solid #e4e7ea; }
 
+@media (prefers-color-scheme: dark) {
+  .post-content img {
+    border-color: #5b6774; } }
 @media screen and (min-width: 660px) {
   figure {
     margin-bottom: 2rem; } }
@@ -350,19 +391,25 @@ blockquote {
 .site-footer {
   background-color: #e4e7ea;
   padding: 2rem 0 1rem; }
-  .site-footer ul {
-    list-style: none;
-    margin-left: 0;
-    margin-bottom: 0; }
-  .site-footer li {
-    margin-bottom: 1rem; }
-    @media screen and (min-width: 900px) {
-      .site-footer li {
-        display: inline-block;
-        margin-right: 2rem; } }
-  .site-footer a {
-    color: #2e343b; }
 
+.site-footer ul {
+  list-style: none;
+  margin-left: 0;
+  margin-bottom: 0; }
+
+.site-footer li {
+  margin-bottom: 1rem; }
+  @media screen and (min-width: 900px) {
+    .site-footer li {
+      display: inline-block;
+      margin-right: 2rem; } }
+
+.site-footer a {
+  color: #2e343b; }
+
+@media (prefers-color-scheme: dark) {
+  .site-footer {
+    background-color: #181b1e; } }
 .wrapper {
   max-width: 1000px;
   margin-right: auto;
@@ -455,6 +502,9 @@ table {
 thead {
   border-top: 0.25rem solid #2e343b; }
 
+@media (prefers-color-scheme: dark) {
+  thead {
+    border-top-color: #5b6774; } }
 thead th {
   font-weight: bold; }
 
@@ -470,6 +520,9 @@ td, th {
   padding: 0.25rem 1rem 1rem 0;
   line-height: 1.5; }
 
+@media (prefers-color-scheme: dark) {
+  td, th {
+    border-bottom-color: #5b6774; } }
 td:last-child, th:last-child {
   padding-right: 0; }
 
@@ -499,6 +552,10 @@ pre,
 code {
   background-color: #e4e7ea; }
 
+@media (prefers-color-scheme: dark) {
+  pre,
+  code {
+    background-color: #181b1e; } }
 code {
   padding: 0.1em 0.5em; }
 
@@ -506,10 +563,11 @@ pre {
   margin-top: 0.25rem;
   padding: 1em;
   overflow-x: scroll; }
-  pre > code {
-    border: 0;
-    padding-right: 0;
-    padding-left: 0; }
+
+pre > code {
+  border: 0;
+  padding-right: 0;
+  padding-left: 0; }
 
 .icon svg {
   margin-bottom: 0;

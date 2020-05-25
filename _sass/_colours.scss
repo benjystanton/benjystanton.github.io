@@ -1,17 +1,19 @@
 // Colours
 
-$text-colour:         #2e343b;
-$light-grey-colour:   lighten($text-colour, 70%);
-$medium-grey-colour:  lighten($text-colour, 50%);
-$dark-grey-colour:    lighten($text-colour, 20%);
-$white-colour:        #ffffff;
-$primary-colour:      #007575;
-$visited-colour:      $text-colour;
+$black-colour: #2e343b;
+$dark-black-colour: darken($black-colour, 10%);
+$dark-grey-colour: lighten($black-colour, 20%);
+$medium-grey-colour: lighten($black-colour, 50%);
+$light-grey-colour: lighten($black-colour, 70%);
+$white-colour: #ffffff;
+$primary-colour: #007575;
+$primary-colour-dark-mode: #0eb9b9;
+$visited-colour: $black-colour;
 
 // Background Colours
 
 .background--text-colour {
-  background-color: $text-colour;
+  background-color: $black-colour;
   color: $white-colour;
 }
 
