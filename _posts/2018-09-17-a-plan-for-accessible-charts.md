@@ -3,7 +3,7 @@ layout: post
 title: A plan for accessible charts
 categories: accessibility data svg
 excerpt: A list of user research findings, accessibility report findings, best practice, resources and good ideas that I’ve collected over the past 2 years.
-last_modified_at: 25 May 2020
+last_modified_at: 26 May 2020
 image: "a11y-chart.jpg"
 image-alt: "Sketch of the word A11y on grid paper boxed in by x and y axis lines"
 ---
@@ -44,6 +44,8 @@ Thanks to <a href="https://twitter.com/henryjameslau">Henry</a> for suggesting t
 - Consider using patterns or textures to distinguish bars and lines
 - [Increase minimum size of elements in chart](https://www.w3.org/WAI/GL/low-vision-a11y-tf/wiki/Informational_Graphic_Contrast_(Minimum))
 - Label the data directly (instead of a separate keys or legend)
+
+This [game on the Apple app store uses some nice patterns](https://apps.apple.com/gb/story/id1510045637) to help make the game usable for people with colour vision deficiency. 
 
 ## Present data in alternative ways
 
