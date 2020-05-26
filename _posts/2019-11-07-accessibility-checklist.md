@@ -5,10 +5,17 @@ categories: nablopomo accessibility
 tag: NaBloPoMo2019
 image: "checkbox.jpg"
 image-alt: "Sharpie drawing of a box with a tick or check in it, on grid paper"
-last_modified_at: 18 May 2020
+last_modified_at: 26 May 2020
 ---
 
 <p class="lede">A list of accessibility recommendations, tips and resources. Last updated on {{ page.last_modified_at }}.</p>
+
+## Accessibility is not just a checkbox exercise
+
+Although I find checklists useful, it's worth remembering that accessibility shouldn't be reduced to a checkbox exercise. [Craig Abbott explains it nicely in this post](https://dwpdigital.blog.gov.uk/2020/05/19/understanding-accessibility-what-it-means-for-dwp-digital/).
+
+> Accessibility is not just a checkbox exercise. It’s about inclusion. It’s providing the same level of service and human rights to everybody and culturally we need to embrace it in everything that we do.
+<br>— Craig Abbott
 
 ## Typography
 
@@ -78,6 +85,7 @@ Read my post about [accessible charts]({{ site.baseurl }}/blog/a-plan-for-access
 - Error message summaries should include an h1 message that tells the screen reader user there is a problem, and give a list of descriptive errors with links to the relevant fields
 - [Example search form mark-up]({{ site.baseurl}}/blog/accessible-search-form-mark-up/)
 - [Close buttons]({{ site.baseurl}}/blog/accessible-close-buttons/)
+- [Be careful with input type=&#34;number&#34;](https://technology.blog.gov.uk/2020/02/24/why-the-gov-uk-design-system-team-changed-the-input-type-for-numbers/)
 
 ## Images
 
@@ -115,6 +123,8 @@ Read my post about [SVGs icons]({{ site.baseurl}}/blog/add-svg-icons/).
 - Check html mark-up is valid
 - [Check in a range of browsers and devices](https://www.gov.uk/service-manual/technology/designing-for-different-browsers-and-devices#browsers-to-test-in)
 - [Check using assistive technologies](https://accessibility.blog.gov.uk/2018/09/27/assistive-technology-tools-you-can-use-at-no-cost/)
+
+Read [Quick Tips for Windows High Contrast Mode from Sarah Higley](https://sarahmhigley.com/writing/whcm-quick-tips/).
 
 ## Automatic tests
 
