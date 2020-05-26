@@ -4,7 +4,7 @@ title: Add SVG icons
 categories: release-notes accessibility svg
 image: svg-icon.png
 image-alt: Screenshot of the Twitter bird being edited in a vector drawing application
-last_modified_at: 25 May 2020
+last_modified_at: 26 May 2020
 ---
 
 <p class="lede">Switching from PNGs (Portable Network Graphics) or Icon Fonts, to SVG (Scalable Vector Graphics) icons. Updated on {{ page.last_modified_at }}.</p>
@@ -49,8 +49,6 @@ last_modified_at: 25 May 2020
 - File size is often smaller (unless the icon very complex)
 - Only load what you need (instead of a whole icon font)
 
-
-
 ## Related links
 
 - [Making SVG accessible from Léonie Watson](http://decks.tink.uk/2017/lws/index.html)
@@ -58,6 +56,7 @@ last_modified_at: 25 May 2020
 - [Seriously, Don’t Use Icon Fonts from Tyler Sticka](https://cloudfour.com/thinks/seriously-dont-use-icon-fonts/)
 - [Tips for Creating Accessible SVG from SitePoint](https://www.sitepoint.com/tips-accessible-svg/)
 - [SVGOMG from Jake Archibald](https://jakearchibald.github.io/svgomg/)
+- [SVG Path Visualizer from Mathieu Dutour](https://svg-path-visualizer.netlify.app/)
 
 ## What I changed on the blog
 
