@@ -158,6 +158,8 @@ Use the `file-link.html` include when you need to link a file and specify the fi
 * times (multiply) symbol `&times;` ×
 * minus symbol `&minus;` &minus; 
 
+[HTML Entities – A List of HTML Space and other HTML Symbols and Special Character Codes from Quincy Larson](https://www.freecodecamp.org/news/html-entities-symbols-special-character-codes-list/)
+
 ***
 
 ## Images
