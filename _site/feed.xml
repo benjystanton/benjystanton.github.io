@@ -5,8 +5,8 @@
     <description>Hi, my name is Benjy Stanton and I’m an interaction designer.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 30 May 2020 21:09:08 +0100</pubDate>
-    <lastBuildDate>Sat, 30 May 2020 21:09:08 +0100</lastBuildDate>
+    <pubDate>Sat, 30 May 2020 22:39:28 +0100</pubDate>
+    <lastBuildDate>Sat, 30 May 2020 22:39:28 +0100</lastBuildDate>
     <generator>Jekyll v3.8.7</generator>
     
       <item>
@@ -361,14 +361,11 @@
     
       <item>
         <title>Books about racism in the UK</title>
-        <description>&lt;p class=&quot;lede&quot;&gt;I’m trying to get better informed about racism in the UK, so I asked my Twitter friends for some book recommendations.&lt;/p&gt;
+        <description>&lt;p class=&quot;lede&quot;&gt;I’m trying to get better informed about racism in the UK, so I asked my Twitter friends for some book recommendations. Updated on 30 May 2020.&lt;/p&gt;
 
-&lt;blockquote class=&quot;twitter-tweet&quot;&gt;
-    &lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Currently reading “Why I’m no longer talking to white people about race” by &lt;a href=&quot;https://twitter.com/renireni?ref_src=twsrc%5Etfw&quot;&gt;@renireni&lt;/a&gt;. What should I read next? I want to educate myself about racism in the UK.&lt;/p&gt;&amp;mdash; Benjy Stanton (@benjystanton) &lt;a href=&quot;https://twitter.com/benjystanton/status/1219744937790660608?ref_src=twsrc%5Etfw&quot;&gt;January 21, 2020&lt;/a&gt;
-&lt;/blockquote&gt;
-&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+&lt;blockquote&gt;Currently reading “Why I’m no longer talking to white people about race” by &lt;a href=&quot;https://twitter.com/renireni?ref_src=twsrc%5Etfw&quot;&gt;@renireni&lt;/a&gt;. What should I read next? I want to educate myself about racism in the UK.&lt;br /&gt;&amp;mdash; Benjy Stanton (@benjystanton) &lt;a href=&quot;https://twitter.com/benjystanton/status/1219744937790660608?ref_src=twsrc%5Etfw&quot;&gt;January 21, 2020&lt;/a&gt;&lt;/blockquote&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;list-of-books-about-racism-in-the-uk&quot;&gt;List of books about racism in the UK&lt;/h2&gt;
 
 &lt;p&gt;Here’s my resulting reading list. I’m slowly making my way through it. Please let me know if you have any other recommendations.&lt;/p&gt;
 
@@ -382,6 +379,23 @@
   &lt;li&gt;Safe: On Black British Men Reclaiming Space by Derek Owusu&lt;/li&gt;
   &lt;li&gt;What is Islamophobia?: Racism, Social Movements and the State by &lt;a href=&quot;https://twitter.com/narzanin&quot;&gt;Narzanin Massoumi&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;h2 id=&quot;more-resources-on-racism-and-anti-racism&quot;&gt;More resources on racism and anti-racism&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tatianamac.com/posts/white-guyde/&quot;&gt;White Guyde To The Galaxy from Tatiana Mac&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/privilegecafe_&quot;&gt;The Privilege Cafe on Twitter (@privilegecafe_)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;http://localhost:4000/assets/anti-racism-books.jpg&quot; alt=&quot;Brit(ish), The Good Immigrant and Why I’m No Longer Talking to White People About Race&quot; /&gt;
+  &lt;figcaption class=&quot;text-small&quot;&gt;
+    Books about racism in the UK
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
 </description>
         <pubDate>Sat, 08 Feb 2020 00:00:00 +0000</pubDate>
         <link>http://localhost:4000/blog/books-about-racism-in-the-uk/</link>
