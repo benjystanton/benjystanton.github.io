@@ -29,6 +29,12 @@ Here's my resulting reading list. I'm slowly making my way through it. Please le
 * [White Guyde To The Galaxy from Tatiana Mac](https://tatianamac.com/posts/white-guyde/)
 * [The Privilege Cafe on Twitter (@privilegecafe_)](https://twitter.com/privilegecafe_)
 * [These books and resources will help you understand anti-racism from Natasha Mwansa](https://www.standard.co.uk/lifestyle/books/book-resources-racism-a4457241.html)
+* [Anti-racism: What you can do from Beth Brown](https://medium.com/@bbrownie.bb/anti-racism-what-you-can-do-922b22d480bc)
+
+## Some Twitter threads that link to more resources
+* [Children's books that discuss race and racism from Brittany](https://twitter.com/wanderingbritt_/status/1267617830872154113)
+* [Positive action tips with a UK focus from Ougoala](https://twitter.com/ObiomaUgoala/status/1266330305985732609)
+* [Resources that focus on racism in Wales from Esyllt Sears](https://twitter.com/EsylltMair/status/1268522259733524480)
 
 <br>
 
