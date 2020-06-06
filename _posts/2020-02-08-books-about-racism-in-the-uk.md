@@ -4,7 +4,7 @@ title: Books about racism in the UK
 categories: personal
 image: "anti-racism-books.jpg"
 image-alt: "Brit(ish), The Good Immigrant and Why I’m No Longer Talking to White People About Race"
-last_modified_at: 30 May 2020
+last_modified_at: 6 June 2020
 ---
 
 <p class="lede">I’m trying to get better informed about racism in the UK, so I asked my Twitter friends for some book recommendations. Updated on {{ page.last_modified_at }}.</p>
@@ -28,6 +28,7 @@ Here's my resulting reading list. I'm slowly making my way through it. Please le
 
 * [White Guyde To The Galaxy from Tatiana Mac](https://tatianamac.com/posts/white-guyde/)
 * [The Privilege Cafe on Twitter (@privilegecafe_)](https://twitter.com/privilegecafe_)
+* [These books and resources will help you understand anti-racism from Natasha Mwansa](https://www.standard.co.uk/lifestyle/books/book-resources-racism-a4457241.html)
 
 <br>
 
