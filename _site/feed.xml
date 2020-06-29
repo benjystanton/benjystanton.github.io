@@ -5,8 +5,8 @@
     <description>Hi, my name is Benjy Stanton and I’m an interaction designer.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 13 Jun 2020 10:31:59 +0100</pubDate>
-    <lastBuildDate>Sat, 13 Jun 2020 10:31:59 +0100</lastBuildDate>
+    <pubDate>Mon, 29 Jun 2020 11:25:19 +0100</pubDate>
+    <lastBuildDate>Mon, 29 Jun 2020 11:25:19 +0100</lastBuildDate>
     <generator>Jekyll v3.8.7</generator>
     
       <item>
@@ -35,11 +35,12 @@
     
       <item>
         <title>Teams who share their accessibility processes in the open</title>
-        <description>&lt;p class=&quot;lede&quot;&gt;A list of teams who share their accessibility audit plans, backlogs and roadmaps in the open.&lt;/p&gt;
+        <description>&lt;p class=&quot;lede&quot;&gt;A list of teams who share their accessibility audit plans, backlogs and roadmaps in the open. Last updated on 29 June 2020.&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://trello.com/b/QruYduyo/accessibility-roadmap&quot;&gt;Buffer’s accessibility roadmap on Trello&lt;/a&gt;
-&lt;br /&gt;&lt;small&gt;via &lt;a href=&quot;https://twitter.com/whitingx&quot;&gt;Rob Whiting&lt;/a&gt;&lt;/small&gt;&lt;/li&gt;
+&lt;br /&gt;&lt;small&gt;via &lt;a href=&quot;https://twitter.com/heydonworks&quot;&gt;Rob Whiting&lt;/a&gt;&lt;/small&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/BulbEnergy/bulb-audit&quot;&gt;Bulb Inclusive Design Audit&lt;/a&gt;&lt;br /&gt;&lt;small&gt;via &lt;a href=&quot;https://twitter.com/whitingx&quot;&gt;Heydon&lt;/a&gt;&lt;/small&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://digital.canada.ca/a11y/&quot;&gt;CDS accessibility handbook&lt;/a&gt;
 &lt;br /&gt;&lt;small&gt;via &lt;a href=&quot;https://twitter.com/JuliannaRowsell&quot;&gt;Julianna Rowsell&lt;/a&gt;&lt;/small&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://designnotes.blog.gov.uk/2019/07/29/weve-made-the-gov-uk-design-system-more-accessible/&quot;&gt;GOV.UK Design System&lt;/a&gt;

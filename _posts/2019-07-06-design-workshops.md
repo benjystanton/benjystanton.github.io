@@ -3,7 +3,7 @@ layout: post
 title: Design workshops
 categories: design nablopomo service-design tools
 tag: NaBloPoMo2019
-last_modified_at: 21 May 2020
+last_modified_at: 29 June 2020
 ---
 
 <p class="lede">I’m a big fan of structured/facilitated design workshops. They can be incredibly useful for user research sessions, co-designing services with teams, and stakeholder meetings. Updated on {{ page.last_modified_at }}.</p>
@@ -47,3 +47,4 @@ Here are some links to specific design workshop methods…
 - [Despicable Design](https://articles.uie.com/despicable-design-when-going-evil-is-the-perfect-technique/)
 - [Making Product Decisions in Bets](https://medium.com/@wnialloconnor/the-gamblers-approach-to-running-a-research-kick-off-workshop-e5d45da4a578)
 - [Synthesis Wall](https://servicedesigntools.org/tools/synthesis-wall) (via [Kate Towsey](https://twitter.com/katetowsey))
+- [The good services scale from Lou Downe](https://blog.louisedowne.com/2020/06/24/introducing-the-good-services-scale/)

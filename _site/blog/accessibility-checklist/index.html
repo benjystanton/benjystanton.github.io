@@ -5,7 +5,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Accessibility checklist – Benjy Stanton</title>
-  <meta name="description" content="A list of accessibility recommendations, tips and resources. Last updated on 26 May 2020.">
+  <meta name="description" content="A list of accessibility recommendations, tips and resources. Last updated on 13 June 2020.">
   <link rel="stylesheet" href="/css/main.css">
   <link rel="canonical" href="http://localhost:4000/blog/accessibility-checklist/">
   <link rel="alternate" type="application/rss+xml" title="Benjy Stanton" href="http://localhost:4000/feed.xml" />
@@ -20,14 +20,14 @@
   <meta property="og:type" content="website" />
   <meta property="og:site_name" content="Benjy Stanton" />
   <meta property="og:title" content="Accessibility checklist" />
-  <meta property="og:description" content="A list of accessibility recommendations, tips and resources. Last updated on 26 May 2020." />
+  <meta property="og:description" content="A list of accessibility recommendations, tips and resources. Last updated on 13 June 2020." />
   <meta property="og:url" content="http://localhost:4000/blog/accessibility-checklist/" />
   <meta property="og:image" content="http://localhost:4000/assets/checkbox.jpg" />
   <!-- Twitter summary cards stuff, based on http://davidensinger.com/2013/04/supporting-twitter-cards-with-jekyll/ -->
   <meta name="twitter:card" content="summary">
   <meta name="twitter:site" content="BenjyStanton">
   <meta name="twitter:title" content="Accessibility checklist" />
-  <meta name="twitter:description" content="A list of accessibility recommendations, tips and resources. Last updated on 26 May 2020." />
+  <meta name="twitter:description" content="A list of accessibility recommendations, tips and resources. Last updated on 13 June 2020." />
   <meta name="twitter:image:src" content="http://localhost:4000/assets/checkbox.jpg">
   <meta name="twitter:image:alt" content="Sharpie drawing of a box with a tick or check in it, on grid paper">
   
@@ -74,7 +74,7 @@
       "url": "http://localhost:4000/blog/accessibility-checklist/",
       "headline": "Accessibility checklist",
       "datePublished": " 7 November 2019",
-      "dateModified": "26 May 2020",
+      "dateModified": "13 June 2020",
       "author": {
         "@type": "Person",
         "name": "Benjy Stanton",
@@ -114,7 +114,7 @@
 </small>
   </header>
   <div class="e-content">
-    <p class="lede">A list of accessibility recommendations, tips and resources. Last updated on 26 May 2020.</p>
+    <p class="lede">A list of accessibility recommendations, tips and resources. Last updated on 13 June 2020.</p>
 
 <h2 id="accessibility-is-not-just-a-checkbox-exercise">Accessibility is not just a checkbox exercise</h2>
 
@@ -205,6 +205,7 @@
   <li><a href="/blog/accessible-search-form-mark-up/">Example search form mark-up</a></li>
   <li><a href="/blog/accessible-close-buttons/">Close buttons</a></li>
   <li><a href="https://technology.blog.gov.uk/2020/02/24/why-the-gov-uk-design-system-team-changed-the-input-type-for-numbers/">Be careful with input type="number"</a></li>
+  <li><a href="https://www.hassellinclusion.com/blog/input-type-date-ready-for-use/">Is input type="date" ready for use in accessible websites?</a></li>
 </ul>
 
 <h2 id="images">Images</h2>
@@ -241,18 +242,28 @@
 
 <h2 id="manual-tests">Manual tests</h2>
 
+<p>Check the service can be operated with…</p>
+
 <ul>
-  <li>Use the service with a keyboard only – no mouse</li>
-  <li>Check the page with CSS off</li>
-  <li>Zoom in to 300% with the browser</li>
-  <li>Increase default browser font size</li>
-  <li>Test in high contrast mode</li>
-  <li>Check html mark-up is valid</li>
-  <li><a href="https://www.gov.uk/service-manual/technology/designing-for-different-browsers-and-devices#browsers-to-test-in">Check in a range of browsers and devices</a></li>
-  <li><a href="https://accessibility.blog.gov.uk/2018/09/27/assistive-technology-tools-you-can-use-at-no-cost/">Check using assistive technologies</a></li>
+  <li>a mouse</li>
+  <li>a keyboard</li>
+  <li>a touch device</li>
+  <li>CSS off</li>
+  <li>increased browser zoom</li>
+  <li>increased browser font size</li>
+  <li>high contrast mode</li>
+  <li>speech recognition software, like Dragon NaturallySpeaking</li>
+  <li>screen magnification tools</li>
+  <li>screen readers</li>
+  <li>a range of browsers and devices</li>
 </ul>
 
-<p>Read <a href="https://sarahmhigley.com/writing/whcm-quick-tips/">Quick Tips for Windows High Contrast Mode from Sarah Higley</a>.</p>
+<h3 id="further-reading-on-manual-testing">Further reading on manual testing</h3>
+<ul>
+  <li><a href="https://www.gov.uk/service-manual/technology/designing-for-different-browsers-and-devices#browsers-to-test-in">Designing for different browsers and devices from GOV.UK</a></li>
+  <li><a href="https://accessibility.blog.gov.uk/2018/09/27/assistive-technology-tools-you-can-use-at-no-cost/">Assistive technology tools you can test with at no cost from Anika Henke</a></li>
+  <li><a href="https://sarahmhigley.com/writing/whcm-quick-tips/">Quick Tips for Windows High Contrast Mode from Sarah Higley</a>.</li>
+</ul>
 
 <h2 id="automatic-tests">Automatic tests</h2>
 
@@ -260,6 +271,7 @@
   <li><a href="https://wave.webaim.org/extension/">WAVE by WebAIM</a></li>
   <li><a href="https://www.deque.com/axe/">Axe by Deque</a></li>
   <li><a href="https://developers.google.com/web/tools/lighthouse">Lighthouse by Google</a></li>
+  <li>Check html mark-up is valid</li>
 </ul>
 
 <p>Remember that automatic tests aren’t perfect.</p>

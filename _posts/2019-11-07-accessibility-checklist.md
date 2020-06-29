@@ -5,7 +5,7 @@ categories: nablopomo accessibility
 tag: NaBloPoMo2019
 image: "checkbox.jpg"
 image-alt: "Sharpie drawing of a box with a tick or check in it, on grid paper"
-last_modified_at: 26 May 2020
+last_modified_at: 13 June 2020
 ---
 
 <p class="lede">A list of accessibility recommendations, tips and resources. Last updated on {{ page.last_modified_at }}.</p>
@@ -86,6 +86,7 @@ Read my post about [accessible charts]({{ site.baseurl }}/blog/a-plan-for-access
 - [Example search form mark-up]({{ site.baseurl}}/blog/accessible-search-form-mark-up/)
 - [Close buttons]({{ site.baseurl}}/blog/accessible-close-buttons/)
 - [Be careful with input type=&#34;number&#34;](https://technology.blog.gov.uk/2020/02/24/why-the-gov-uk-design-system-team-changed-the-input-type-for-numbers/)
+- [Is input type=&#34;date&#34; ready for use in accessible websites?](https://www.hassellinclusion.com/blog/input-type-date-ready-for-use/)
 
 ## Images
 
@@ -115,22 +116,31 @@ Read my post about [SVGs icons]({{ site.baseurl}}/blog/add-svg-icons/).
 
 ## Manual tests
 
-- Use the service with a keyboard only – no mouse
-- Check the page with CSS off
-- Zoom in to 300% with the browser
-- Increase default browser font size
-- Test in high contrast mode
-- Check html mark-up is valid
-- [Check in a range of browsers and devices](https://www.gov.uk/service-manual/technology/designing-for-different-browsers-and-devices#browsers-to-test-in)
-- [Check using assistive technologies](https://accessibility.blog.gov.uk/2018/09/27/assistive-technology-tools-you-can-use-at-no-cost/)
+Check the service can be operated with…
 
-Read [Quick Tips for Windows High Contrast Mode from Sarah Higley](https://sarahmhigley.com/writing/whcm-quick-tips/).
+- a mouse
+- a keyboard
+- a touch device
+- CSS off
+- increased browser zoom
+- increased browser font size 
+- high contrast mode
+- speech recognition software, like Dragon NaturallySpeaking
+- screen magnification tools
+- screen readers
+- a range of browsers and devices
+
+### Further reading on manual testing
+- [Designing for different browsers and devices from GOV.UK](https://www.gov.uk/service-manual/technology/designing-for-different-browsers-and-devices#browsers-to-test-in)
+- [Assistive technology tools you can test with at no cost from Anika Henke](https://accessibility.blog.gov.uk/2018/09/27/assistive-technology-tools-you-can-use-at-no-cost/)
+- [Quick Tips for Windows High Contrast Mode from Sarah Higley](https://sarahmhigley.com/writing/whcm-quick-tips/).
 
 ## Automatic tests
 
 - [WAVE by WebAIM](https://wave.webaim.org/extension/)
 - [Axe by Deque](https://www.deque.com/axe/)
 - [Lighthouse by Google](https://developers.google.com/web/tools/lighthouse)
+- Check html mark-up is valid
 
 Remember that automatic tests aren't perfect.
 
