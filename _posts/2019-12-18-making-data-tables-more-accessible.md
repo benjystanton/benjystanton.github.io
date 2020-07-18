@@ -4,9 +4,10 @@ title: Making data tables more accessible
 categories: data accessibility
 image: "table-structure-square.png"
 image-alt: "Think about structure, not just the visual layout. Don't split text and headings across cells."
+last_modified_at: 18 July 2020
 ---
 
-<p class="lede">For data tables to be accessible, I like to take care of the graphic design, content design and mark-up. These three things work together to improve the way users able to find, use and understand the data.</p>
+<p class="lede">For data tables to be accessible, I like to take care of the graphic design, content design and mark-up. These three things work together to improve the way users able to find, use and understand the data. Last updated on {{ page.last_modified_at }}.</p>
 
 Whilst working at Office for National Statistics (ONS) I worked with my content design colleagues [Laura](https://twitter.com/Lozza119) and [Paul](https://twitter.com/itspaulmcgroovy) to improve our tables.
 
@@ -53,3 +54,4 @@ We also worked with accessibility specialists at the [Digital Accessibility Cent
 - [Inclusive Components: Data Tables](https://inclusive-components.design/data-tables/)
 - [Tweet from Web Axe](https://twitter.com/webaxe/status/1255864003424706560)
 - [Content design for data tables, spreadsheets, CSVs and APIs from Benjy Stanton (GitHub Gist)](https://gist.github.com/benjystanton/f027bfcfa30c009276e069a3e4c74bf5)
+- [Accessible data tables from Bruce Lawson](https://www.brucelawson.co.uk/2020/accessible-data-tables/)

@@ -3,7 +3,7 @@ layout: post
 title: A plan for accessible charts
 categories: accessibility data svg
 excerpt: A list of user research findings, accessibility report findings, best practice, resources and good ideas that I’ve collected over the past 2 years.
-last_modified_at: 29 June 2020
+last_modified_at: 18 July 2020
 image: "a11y-chart.jpg"
 image-alt: "Sketch of the word A11y on grid paper boxed in by x and y axis lines"
 ---
@@ -121,6 +121,7 @@ This [game on the Apple app store uses some nice patterns](https://apps.apple.co
 - [Trello - Color Blind Friendly Mode](http://littlebigdetails.com/post/35775193711/trello-color-blind-friendly-mode-makes)
 - [Colour Accessibility](https://24ways.org/2012/colour-accessibility)
 - [Designing for Colour Blindness](https://medium.com/@sidgtl/designing-for-colour-blindness-b74a9d012ef2)
+- [Data Visualization and Accessibility: Three Recommended Reads and Top Tips from Susan Currie Sivek](https://towardsdatascience.com/data-visualization-and-accessibility-three-recommended-reads-and-top-tips-9c5e862b464e)
 
 ## Examples of charts across UK government services
 

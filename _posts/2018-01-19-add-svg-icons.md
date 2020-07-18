@@ -4,7 +4,7 @@ title: Add SVG icons
 categories: release-notes accessibility svg
 image: svg-icon.png
 image-alt: Screenshot of the Twitter bird being edited in a vector drawing application
-last_modified_at: 30 May 2020
+last_modified_at: 18 July 2020
 ---
 
 <p class="lede">Switching from PNGs (Portable Network Graphics) or Icon Fonts, to SVG (Scalable Vector Graphics) icons. Updated on {{ page.last_modified_at }}.</p>
@@ -58,6 +58,7 @@ last_modified_at: 30 May 2020
 - [SVGOMG from Jake Archibald](https://jakearchibald.github.io/svgomg/)
 - [SVG Path Visualizer from Mathieu Dutour](https://svg-path-visualizer.netlify.app/)
 - [SVG Export: Download SVGs from any site with ease](https://svgexport.io/)
+- [Icon accessibility and aria label from Go Make Things](https://gomakethings.com/icon-accessibility-and-aria-label/)
 
 ## What I changed on the blog
 
