@@ -5,8 +5,8 @@
     <description>Hi, my name is Benjy Stanton and I’m an interaction designer.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 18 Jul 2020 13:51:56 +0100</pubDate>
-    <lastBuildDate>Sat, 18 Jul 2020 13:51:56 +0100</lastBuildDate>
+    <pubDate>Mon, 03 Aug 2020 13:59:36 +0100</pubDate>
+    <lastBuildDate>Mon, 03 Aug 2020 13:59:36 +0100</lastBuildDate>
     <generator>Jekyll v3.8.7</generator>
     
       <item>
@@ -35,7 +35,7 @@
     
       <item>
         <title>Teams who share their accessibility processes in the open</title>
-        <description>&lt;p class=&quot;lede&quot;&gt;A list of teams who share their accessibility audit plans, backlogs and roadmaps in the open. Last updated on 29 June 2020.&lt;/p&gt;
+        <description>&lt;p class=&quot;lede&quot;&gt;A list of teams who share their accessibility audit plans, backlogs and roadmaps in the open. Last updated on 3 August 2020.&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://trello.com/b/QruYduyo/accessibility-roadmap&quot;&gt;Buffer’s accessibility roadmap on Trello&lt;/a&gt;
@@ -53,6 +53,8 @@
 &lt;br /&gt;&lt;small&gt;via &lt;a href=&quot;https://twitter.com/CuriousScutter&quot;&gt;CuriousScutter&lt;/a&gt;&lt;/small&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.kent.ac.uk/accessibility&quot;&gt;University of Kent’s accessibility pages&lt;/a&gt;
 &lt;br /&gt;&lt;small&gt;via &lt;a href=&quot;https://twitter.com/mearso&quot;&gt;Kevin Mears&lt;/a&gt;&lt;/small&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.coop.co.uk/accessibility&quot;&gt;Co-op digital accessibility policy&lt;/a&gt;
+&lt;br /&gt;&lt;small&gt;via &lt;a href=&quot;https://twitter.com/beckytopps&quot;&gt;Rebecca Topps&lt;/a&gt;&lt;/small&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;Thanks to everyone who suggested stuff. Here’s a &lt;a href=&quot;https://twitter.com/benjystanton/status/1260125826395394048&quot;&gt;link to my original tweet&lt;/a&gt;.&lt;/p&gt;

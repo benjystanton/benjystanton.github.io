@@ -2,7 +2,7 @@
 layout: post
 title: Teams who share their accessibility processes in the open
 categories: accessibility
-last_modified_at: 29 June 2020
+last_modified_at: 3 August 2020
 ---
 
 <p class="lede">A list of teams who share their accessibility audit plans, backlogs and roadmaps in the open. Last updated on {{ page.last_modified_at }}.</p>
@@ -23,6 +23,8 @@ last_modified_at: 29 June 2020
 <br><small>via [CuriousScutter](https://twitter.com/CuriousScutter)</small>
 - [University of Kent's accessibility pages](https://www.kent.ac.uk/accessibility)
 <br><small>via [Kevin Mears](https://twitter.com/mearso)</small>
+- [Co-op digital accessibility policy](https://www.coop.co.uk/accessibility)
+<br><small>via [Rebecca Topps](https://twitter.com/beckytopps)</small>
 
 Thanks to everyone who suggested stuff. Here's a [link to my original tweet](https://twitter.com/benjystanton/status/1260125826395394048).
 
