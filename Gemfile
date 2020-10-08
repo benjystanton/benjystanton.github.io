@@ -11,3 +11,5 @@ gem "jekyll", "~> 3.8"
 
 # Added 2019-07-06 by me:
 gem 'jekyll-sitemap'
+
+gem "kramdown-parser-gfm"
