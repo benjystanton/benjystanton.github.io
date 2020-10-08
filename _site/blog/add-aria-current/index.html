@@ -114,7 +114,7 @@
 </small>
   </header>
   <div class="e-content">
-    <p>When browsing the main pages of this site (home, about, blog) the current page link changes style. This helps sighted users to tell which page they’re on. But this feature is invisible to screen reader users. So I’m adding the <code class="highlighter-rouge">aria-current</code> attribute to fix this.</p>
+    <p>When browsing the main pages of this site (home, about, blog) the current page link changes style. This helps sighted users to tell which page they’re on. But this feature is invisible to screen reader users. So I’m adding the <code class="language-plaintext highlighter-rouge">aria-current</code> attribute to fix this.</p>
 
 <h2 id="user-story">User story</h2>
 
@@ -126,9 +126,9 @@
 
 <h2 id="whats-changed">What’s changed</h2>
 
-<p>I’ve added the <code class="highlighter-rouge">aria-current="page"</code> attribute to the current page link in the site nav.</p>
+<p>I’ve added the <code class="language-plaintext highlighter-rouge">aria-current="page"</code> attribute to the current page link in the site nav.</p>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;nav class="site-nav" role="navigation"&gt;
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;nav class="site-nav" role="navigation"&gt;
   &lt;a class="current page-link" aria-current="page" href="/"&gt;Home&lt;/a&gt;
   &lt;a class="page-link" href="/about/"&gt;About&lt;/a&gt;
   &lt;a class="page-link" href="/blog/"&gt;Blog&lt;/a&gt;

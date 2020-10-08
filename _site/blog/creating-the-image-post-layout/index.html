@@ -128,7 +128,7 @@
 
 <p>They are defined at the top of the post, like this;</p>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>---
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>---
 image: "glasto-sign.jpg"
 image-alt: "A rusty roadside sign in the countryside"
 title: 9 miles to Glasto
@@ -143,7 +143,7 @@ title: 9 miles to Glasto
 
 <p>Here’s a simplified version of the template mark-up;</p>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;article role="article"&gt;
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;article role="article"&gt;
   &lt;figure&gt;
     &lt;img src="{{ site.url }}/assets/{{ page.image }}" alt="{{ page.image-alt }}" /&gt;
     &lt;figcaption&gt;
@@ -153,17 +153,17 @@ title: 9 miles to Glasto
 &lt;/article&gt;
 </code></pre></div></div>
 
-<p>The image is wrapped in a <code class="highlighter-rouge">&lt;figure&gt;</code> element.</p>
+<p>The image is wrapped in a <code class="language-plaintext highlighter-rouge">&lt;figure&gt;</code> element.</p>
 
-<p>The <code class="highlighter-rouge">image</code> and <code class="highlighter-rouge">image-alt</code> variables are combined to fill in the gaps in the <code class="highlighter-rouge">&lt;img&gt;</code> element.</p>
+<p>The <code class="language-plaintext highlighter-rouge">image</code> and <code class="language-plaintext highlighter-rouge">image-alt</code> variables are combined to fill in the gaps in the <code class="language-plaintext highlighter-rouge">&lt;img&gt;</code> element.</p>
 
-<p>Since the <code class="highlighter-rouge">title</code> variable is used to describe the image and the entire post, I’ve wrapped it inside a <code class="highlighter-rouge">&lt;h1&gt;</code> and then inside the <code class="highlighter-rouge">&lt;figcaption&gt;</code>. This is the simplest, most semantic way I could think of doing the page, and means the mark-up and design is a lean as possible.</p>
+<p>Since the <code class="language-plaintext highlighter-rouge">title</code> variable is used to describe the image and the entire post, I’ve wrapped it inside a <code class="language-plaintext highlighter-rouge">&lt;h1&gt;</code> and then inside the <code class="language-plaintext highlighter-rouge">&lt;figcaption&gt;</code>. This is the simplest, most semantic way I could think of doing the page, and means the mark-up and design is a lean as possible.</p>
 
 <h2 id="twitter-summary-card">Twitter summary card</h2>
 
-<p>I’ve also reused the image variables to populate the <a href="https://developer.twitter.com/en/docs/tweets/optimize-with-cards/overview/summary.html">Twitter summary card</a> in the <code class="highlighter-rouge">&lt;head&gt;</code>.</p>
+<p>I’ve also reused the image variables to populate the <a href="https://developer.twitter.com/en/docs/tweets/optimize-with-cards/overview/summary.html">Twitter summary card</a> in the <code class="language-plaintext highlighter-rouge">&lt;head&gt;</code>.</p>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>{% if page.image %}
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>{% if page.image %}
 &lt;meta name="twitter:image:src" content="{{ site.url }}/assets/{{ page.image }}"&gt;
 &lt;meta name="twitter:image:alt" content="{{ page.image-alt }}"&gt;
 {% endif %}

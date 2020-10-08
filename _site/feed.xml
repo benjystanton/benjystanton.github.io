@@ -5,9 +5,9 @@
     <description>Hi, my name is Benjy Stanton and I’m an interaction designer.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 29 Aug 2020 22:48:36 +0100</pubDate>
-    <lastBuildDate>Sat, 29 Aug 2020 22:48:36 +0100</lastBuildDate>
-    <generator>Jekyll v3.8.7</generator>
+    <pubDate>Sun, 27 Sep 2020 11:36:43 +0100</pubDate>
+    <lastBuildDate>Sun, 27 Sep 2020 11:36:43 +0100</lastBuildDate>
+    <generator>Jekyll v3.9.0</generator>
     
       <item>
         <title>11ty resources</title>
@@ -77,17 +77,17 @@
 &lt;h2 id=&quot;how-to-design-accessible-close-buttons&quot;&gt;How to design accessible close buttons&lt;/h2&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Mark it up as a button, e.g. &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;button type=&quot;button&quot;&amp;gt;…&amp;lt;/button&amp;gt;&lt;/code&gt;&lt;/li&gt;
-  &lt;li&gt;Include accessible text, for example&lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;button&amp;gt;Close&amp;lt;/button&amp;gt;&lt;/code&gt; or &lt;code class=&quot;highlighter-rouge&quot;&gt;aria-label=&quot;Close&quot;&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;Mark it up as a button, e.g. &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;button type=&quot;button&quot;&amp;gt;…&amp;lt;/button&amp;gt;&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;Include accessible text, for example&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;button&amp;gt;Close&amp;lt;/button&amp;gt;&lt;/code&gt; or &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;aria-label=&quot;Close&quot;&lt;/code&gt;&lt;/li&gt;
   &lt;li&gt;The overall size should be at least 44px&lt;/li&gt;
   &lt;li&gt;Add styles for keyboard focus and mouse hover&lt;/li&gt;
-  &lt;li&gt;Consider adding an &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;svg&amp;gt;&lt;/code&gt; icon&lt;/li&gt;
-  &lt;li&gt;If you use the multiplication/times character (&lt;code class=&quot;highlighter-rouge&quot;&gt;×&lt;/code&gt;), be sure to hide it from screen readers with &lt;code class=&quot;highlighter-rouge&quot;&gt;aria-hidden=&quot;true&quot;&lt;/code&gt; (so it’s not read out as “times”)&lt;/li&gt;
+  &lt;li&gt;Consider adding an &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;svg&amp;gt;&lt;/code&gt; icon&lt;/li&gt;
+  &lt;li&gt;If you use the multiplication/times character (&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;×&lt;/code&gt;), be sure to hide it from screen readers with &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;aria-hidden=&quot;true&quot;&lt;/code&gt; (so it’s not read out as “times”)&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;example-mark-up&quot;&gt;Example mark-up&lt;/h2&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;button type=&quot;button&quot; aria-label=&quot;Close&quot;&amp;gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;button type=&quot;button&quot; aria-label=&quot;Close&quot;&amp;gt;
 &amp;lt;svg width=&quot;44&quot; height=&quot;44&quot; viewBox=&quot;0 0 44 44&quot; aria-hidden=&quot;true&quot; focusable=&quot;false&quot;&amp;gt;
 &amp;lt;path d=&quot;M0.549989 4.44999L4.44999 0.549988L43.45 39.55L39.55 43.45L0.549989 4.44999Z&quot; /&amp;gt;
 &amp;lt;path d=&quot;M39.55 0.549988L43.45 4.44999L4.44999 43.45L0.549988 39.55L39.55 0.549988Z&quot; /&amp;gt;
@@ -151,11 +151,11 @@
 &lt;/ul&gt;
 
 &lt;p&gt;In these situations the link text should clearly state what’s going to happen, for example: 
-&lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;a href=&quot;#&quot; rel=&quot;noopener noreferrer&quot;&amp;gt;Link to a thing (opens in a new window or tab)&amp;lt;/a&amp;gt;&lt;/code&gt;&lt;/p&gt;
+&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;a href=&quot;#&quot; rel=&quot;noopener noreferrer&quot;&amp;gt;Link to a thing (opens in a new window or tab)&amp;lt;/a&amp;gt;&lt;/code&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;download-attribute--update-11-may-2020&quot;&gt;Download attribute – update 11 May 2020&lt;/h2&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/adambsilver&quot;&gt;Adam&lt;/a&gt; suggests that PDF links can be downloaded to the device, instead of opened in a new tab, by using the &lt;code class=&quot;highlighter-rouge&quot;&gt;download&lt;/code&gt; attribute.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/adambsilver&quot;&gt;Adam&lt;/a&gt; suggests that PDF links can be downloaded to the device, instead of opened in a new tab, by using the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;download&lt;/code&gt; attribute.&lt;/p&gt;
 
 &lt;h2 id=&quot;further-reading&quot;&gt;Further reading&lt;/h2&gt;
 &lt;ul&gt;
@@ -424,16 +424,16 @@
         <description>&lt;p class=&quot;lede&quot;&gt;A brief checklist for marking-up an accessible search form. Last updated on 21 May 2020.&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Add &lt;code class=&quot;highlighter-rouge&quot;&gt;role=&quot;search&quot;&lt;/code&gt; landmark to the &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;form&amp;gt;&lt;/code&gt;&lt;/li&gt;
-  &lt;li&gt;Associate the &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;label&amp;gt;&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;input&amp;gt;&lt;/code&gt; using &lt;code class=&quot;highlighter-rouge&quot;&gt;for=&quot;…&quot;&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;id=&quot;…&quot;&lt;/code&gt;&lt;/li&gt;
-  &lt;li&gt;Add &lt;code class=&quot;highlighter-rouge&quot;&gt;type=&quot;search&quot;&lt;/code&gt; or &lt;code class=&quot;highlighter-rouge&quot;&gt;type=&quot;text&quot;&lt;/code&gt; to the &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;input&amp;gt;&lt;/code&gt;&lt;/li&gt;
-  &lt;li&gt;Add &lt;code class=&quot;highlighter-rouge&quot;&gt;type=&quot;submit&quot;&lt;/code&gt; to the &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;button&amp;gt;&lt;/code&gt;&lt;/li&gt;
-  &lt;li&gt;Optionally, associate the &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;input&amp;gt;&lt;/code&gt; with any help text using &lt;code class=&quot;highlighter-rouge&quot;&gt;aria-describedby=&quot;…&quot;&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;Add &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;role=&quot;search&quot;&lt;/code&gt; landmark to the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;form&amp;gt;&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;Associate the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;label&amp;gt;&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;input&amp;gt;&lt;/code&gt; using &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;for=&quot;…&quot;&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;id=&quot;…&quot;&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;Add &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;type=&quot;search&quot;&lt;/code&gt; or &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;type=&quot;text&quot;&lt;/code&gt; to the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;input&amp;gt;&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;Add &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;type=&quot;submit&quot;&lt;/code&gt; to the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;button&amp;gt;&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;Optionally, associate the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;input&amp;gt;&lt;/code&gt; with any help text using &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;aria-describedby=&quot;…&quot;&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;example&quot;&gt;Example&lt;/h2&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;form role=&quot;search&quot;&amp;gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;form role=&quot;search&quot;&amp;gt;
     &amp;lt;label for=&quot;search&quot;&amp;gt;Search&amp;lt;/label&amp;gt;
     &amp;lt;input id=&quot;search&quot; type=&quot;search&quot; aria-describedby=&quot;search-help-text&quot;&amp;gt;
     &amp;lt;button type=&quot;submit&quot;&amp;gt;Search&amp;lt;/button&amp;gt;

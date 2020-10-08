@@ -112,7 +112,7 @@
 </small>
   </header>
   <div class="e-content">
-    <p>Jekyll uses templates stored in the <code class="highlighter-rouge">_layouts</code> folder to apply reusable designs to its pages. In a previous release, I created a list of <a href="../add-a-list-of-page-layouts">page layouts in use on this site</a> to help me spot inconsistencies.</p>
+    <p>Jekyll uses templates stored in the <code class="language-plaintext highlighter-rouge">_layouts</code> folder to apply reusable designs to its pages. In a previous release, I created a list of <a href="../add-a-list-of-page-layouts">page layouts in use on this site</a> to help me spot inconsistencies.</p>
 
 <p>For this release I’ve started to reduce the inconsistencies and duplicate code. The user story is the same though…</p>
 
@@ -123,22 +123,22 @@
 <h2 id="acceptance-criteria">Acceptance criteria</h2>
 
 <ul>
-  <li>Combine the <code class="highlighter-rouge">page</code> and <code class="highlighter-rouge">post</code> layout into one</li>
-  <li>Update the <code class="highlighter-rouge">index.md</code> to use the page layout</li>
+  <li>Combine the <code class="language-plaintext highlighter-rouge">page</code> and <code class="language-plaintext highlighter-rouge">post</code> layout into one</li>
+  <li>Update the <code class="language-plaintext highlighter-rouge">index.md</code> to use the page layout</li>
   <li>Update the <a href="http://www.benjystanton.co.uk/style-guide/#layout-templates">style guide</a> to reflect the changes</li>
 </ul>
 
 <h2 id="whats-changed">What’s changed</h2>
 
-<p>The biggest change was combining the <code class="highlighter-rouge">page</code> and <code class="highlighter-rouge">post</code> layouts. They are very similar, so it makes sense to merge them. But I do need to check if a page is a blog post, so that I can show the post date.</p>
+<p>The biggest change was combining the <code class="language-plaintext highlighter-rouge">page</code> and <code class="language-plaintext highlighter-rouge">post</code> layouts. They are very similar, so it makes sense to merge them. But I do need to check if a page is a blog post, so that I can show the post date.</p>
 
-<p>The <code class="highlighter-rouge">if</code> statement looks something like this…</p>
+<p>The <code class="language-plaintext highlighter-rouge">if</code> statement looks something like this…</p>
 
 <figure class="highlight"><pre><code class="language-html" data-lang="html">{% if page.is_post %}
 <span class="nt">&lt;small&gt;</span>{{ page.date | date: "%e %B %Y" }}<span class="nt">&lt;/small&gt;</span>
 {% endif %}</code></pre></figure>
 
-<p>So that posts know they are posts, I had to add the following snippet to the <code class="highlighter-rouge">_config.yml</code> file.</p>
+<p>So that posts know they are posts, I had to add the following snippet to the <code class="language-plaintext highlighter-rouge">_config.yml</code> file.</p>
 
 <figure class="highlight"><pre><code class="language-yml" data-lang="yml"><span class="na">defaults</span><span class="pi">:</span>
   <span class="pi">-</span>
