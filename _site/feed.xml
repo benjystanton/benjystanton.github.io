@@ -5,9 +5,38 @@
     <description>Hi, my name is Benjy Stanton and I’m an interaction designer.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 27 Sep 2020 11:36:43 +0100</pubDate>
-    <lastBuildDate>Sun, 27 Sep 2020 11:36:43 +0100</lastBuildDate>
+    <pubDate>Thu, 15 Oct 2020 19:17:40 +0100</pubDate>
+    <lastBuildDate>Thu, 15 Oct 2020 19:17:40 +0100</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>A user-centred design and data community</title>
+        <description>&lt;p class=&quot;lede&quot;&gt;Back when I worked at ONS (Office for National Statistics), I remember looking around, trying to find other interaction designers and user researchers across government who were working on data publishing services.&lt;/p&gt;
+
+&lt;p&gt;Since then, I’ve met (well, via Twitter) a few people working on these kinds of services. &lt;a href=&quot;https://twitter.com/jeremyhhy&quot;&gt;Jeremy&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/peterjobes&quot;&gt;Pete&lt;/a&gt; in particular have been doing great work, and whenever I chatted to them it felt like we were facing similar challenges. For example, presenting data in user-friendly ways or working with data professionals who aren’t used to working with interaction designers.&lt;/p&gt;
+
+&lt;p&gt;Luckily for me, Jeremy, Pete and &lt;a href=&quot;https://twitter.com/Rodgermegan&quot;&gt;Megan&lt;/a&gt; have been working hard on creating a community of user-centred designers, so that people working on these kinds of data services can share design patterns and user research, and organise meet-ups.&lt;/p&gt;
+
+&lt;p&gt;If you’re interested in learning more about the community, or you’d like to get involved, check out this introductory blog post over on GOV.UK… &lt;a href=&quot;https://designnotes.blog.gov.uk/2020/10/05/introducing-the-user-centred-design-and-data-community/&quot;&gt;introducing the user-centred design and data community&lt;/a&gt;.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The community is for anyone working on services that collect, analyse, visualise and publish data and applying a user-centred lens to them.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I helped a bit, and the team were kind enough to give me co-author credit on the blog post, but I hope that I can contribute a lot more to this community in future.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 15 Oct 2020 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/blog/a-user-centred-design-and-data-community/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/a-user-centred-design-and-data-community/</guid>
+        
+        
+        <category>data</category>
+        
+        <category>design</category>
+        
+        <category>ux</category>
+        
+      </item>
     
       <item>
         <title>11ty resources</title>
@@ -416,47 +445,6 @@
         
         
         <category>personal</category>
-        
-      </item>
-    
-      <item>
-        <title>Accessible search form mark-up</title>
-        <description>&lt;p class=&quot;lede&quot;&gt;A brief checklist for marking-up an accessible search form. Last updated on 21 May 2020.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Add &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;role=&quot;search&quot;&lt;/code&gt; landmark to the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;form&amp;gt;&lt;/code&gt;&lt;/li&gt;
-  &lt;li&gt;Associate the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;label&amp;gt;&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;input&amp;gt;&lt;/code&gt; using &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;for=&quot;…&quot;&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;id=&quot;…&quot;&lt;/code&gt;&lt;/li&gt;
-  &lt;li&gt;Add &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;type=&quot;search&quot;&lt;/code&gt; or &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;type=&quot;text&quot;&lt;/code&gt; to the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;input&amp;gt;&lt;/code&gt;&lt;/li&gt;
-  &lt;li&gt;Add &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;type=&quot;submit&quot;&lt;/code&gt; to the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;button&amp;gt;&lt;/code&gt;&lt;/li&gt;
-  &lt;li&gt;Optionally, associate the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;input&amp;gt;&lt;/code&gt; with any help text using &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;aria-describedby=&quot;…&quot;&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;example&quot;&gt;Example&lt;/h2&gt;
-
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;form role=&quot;search&quot;&amp;gt;
-    &amp;lt;label for=&quot;search&quot;&amp;gt;Search&amp;lt;/label&amp;gt;
-    &amp;lt;input id=&quot;search&quot; type=&quot;search&quot; aria-describedby=&quot;search-help-text&quot;&amp;gt;
-    &amp;lt;button type=&quot;submit&quot;&amp;gt;Search&amp;lt;/button&amp;gt;
-    &amp;lt;p id=&quot;search-help-text&quot;&amp;gt;Search by town or postcode.&amp;lt;/p&amp;gt;
-&amp;lt;/form&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;more-info&quot;&gt;More info&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://design-system.service.gov.uk/components/text-input/&quot;&gt;Text input components from GOV.UK Design System&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://adrianroselli.com/2019/07/ignore-typesearch.html&quot;&gt;Maybe Ignore type=search from Adrian Roselli&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://adrianroselli.com/2015/08/where-to-put-your-search-role.html&quot;&gt;Where to Put Your Search Role from Adrian Roselli&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/Search_role&quot;&gt;ARIA: search role from MDN&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://adrianroselli.com/2020/01/my-priority-of-methods-for-labeling-a-control.html&quot;&gt;My Priority of Methods for Labeling a Control from Adrian Roselli&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-</description>
-        <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/accessible-search-form-mark-up/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/accessible-search-form-mark-up/</guid>
-        
-        
-        <category>accessibility</category>
         
       </item>
     
