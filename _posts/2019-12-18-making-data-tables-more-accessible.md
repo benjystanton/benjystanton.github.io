@@ -56,3 +56,4 @@ We also worked with accessibility specialists at the [Digital Accessibility Cent
 - [Content design for data tables, spreadsheets, CSVs and APIs from Benjy Stanton (GitHub Gist)](https://gist.github.com/benjystanton/f027bfcfa30c009276e069a3e4c74bf5)
 - [Accessible data tables from Bruce Lawson](https://www.brucelawson.co.uk/2020/accessible-data-tables/)
 - [How screen readers navigate data tables from Léonie Watson](https://tink.uk/how-screen-readers-navigate-data-tables/)
+- [Create accessible data tables from he A11Y Project](https://www.a11yproject.com/posts/2016-03-05-accessible-data-tables/)
