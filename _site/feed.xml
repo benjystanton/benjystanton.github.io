@@ -5,9 +5,46 @@
     <description>Hi, my name is Benjy Stanton and I’m an interaction designer.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 16 Oct 2020 18:57:52 +0100</pubDate>
-    <lastBuildDate>Fri, 16 Oct 2020 18:57:52 +0100</lastBuildDate>
+    <pubDate>Sat, 24 Oct 2020 13:12:44 +0100</pubDate>
+    <lastBuildDate>Sat, 24 Oct 2020 13:12:44 +0100</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>Weeknotes – series 04 episode 01</title>
+        <description>&lt;p class=&quot;lede&quot;&gt;It's been a while since &lt;a href=&quot;/blog/weeknotes-series-03-episode-05/&quot;&gt;my last weeknote&lt;/a&gt;, (almost a year and a half!) but I'm trying to get back into a blogging rhythm again, plus I've got time to spare as Wales has just gone into lockdown 2.&lt;/p&gt;
+
+&lt;h2 id=&quot;coronavirus&quot;&gt;Coronavirus&lt;/h2&gt;
+
+&lt;p&gt;This week we’ve been in isolation for various reasons. I had a test last weekend, but luckily after a few days, it turned out to be negative. More worryingly, there was a positive case in our youngest’s nursery class. So they’re in isolation until the middle of next week. It meant we couldn’t really do much during out last week before Wales’s firebreak lockdown thing.&lt;/p&gt;
+
+&lt;h2 id=&quot;accessibility-testing-tools-and-techniques&quot;&gt;Accessibility testing tools and techniques&lt;/h2&gt;
+
+&lt;p&gt;I’ve been focussing a lot on accessibility testing over the summer. Next I’m thinking how I can integrate these testing techniques into my day-to-day workflow. So this &lt;a href=&quot;https://blog.sapegin.me/all/accessibility-testing/&quot;&gt;round-up of accessibility testing tools and techniques&lt;/a&gt; from Artem Sapegin is timely. It starts off quite technical, but quickly gets into useful browser plugins and manual things you can do without technical knowledge, like using the humble ‘tab key’ to navigate.&lt;/p&gt;
+
+&lt;h2 id=&quot;switching-back-into-design-mode&quot;&gt;Switching back into design mode&lt;/h2&gt;
+
+&lt;p&gt;After a few weeks when I’ve been mostly focusing on user research it’s been nice to switch back to interaction design mode for a couple of projects. Although I love variation in my work, I think tinkering around in HTML and CSS is my happy place. Which always makes me think of &lt;a href=&quot;https://www.jessicahische.shop/product/procrastiworking-poster&quot;&gt;Procrastiworking by Jessica Hische&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I use &lt;a href=&quot;https://www.11ty.dev/&quot;&gt;11ty (static site generator)&lt;/a&gt; for my most of my prototyping. It’s compatible with the same templating language (&lt;a href=&quot;https://shopify.github.io/liquid/&quot;&gt;Liquid&lt;/a&gt;) that I use on this blog, so it was easy enough for me to pick up. Although I’d really like to push myself and switch over to something a bit more powerful like &lt;a href=&quot;https://mozilla.github.io/nunjucks/&quot;&gt;Nunjucks&lt;/a&gt; at some point.&lt;/p&gt;
+
+&lt;h2 id=&quot;swirrl-are-hiring-again-and-weve-started-a-podcast&quot;&gt;Swirrl are hiring again (and we’ve started a podcast)&lt;/h2&gt;
+
+&lt;p&gt;There’s been lots of Swirrl news recently. We’re &lt;a href=&quot;https://www.swirrl.com/hiring&quot;&gt;hiring junior and senior software engineers&lt;/a&gt;. I can’t tell you much about the specifics of that role, but if you have any questions about what it’s like to work at Swirrl, feel free to get in touch!&lt;/p&gt;
+
+&lt;p&gt;Sarah has also started a podcast. You can &lt;a href=&quot;https://audioboom.com/posts/7705341-jamie-whyte-why-i-care-about-telling-stories-with-data&quot;&gt;listen to the first episode&lt;/a&gt; where she chats to &lt;a href=&quot;https://twitter.com/northernjamie&quot;&gt;Jamie&lt;/a&gt; about telling stories with data.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 24 Oct 2020 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/blog/weeknotes-series-04-episode-01/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/weeknotes-series-04-episode-01/</guid>
+        
+        
+        <category>weeknotes</category>
+        
+        <category>swirrl</category>
+        
+        <category>accessibility</category>
+        
+      </item>
     
       <item>
         <title>A user-centred design and data community</title>
@@ -388,63 +425,6 @@
         
         
         <category>design</category>
-        
-      </item>
-    
-      <item>
-        <title>Books about racism in the UK</title>
-        <description>&lt;p class=&quot;lede&quot;&gt;I’m trying to get better informed about racism in the UK, so I asked my Twitter friends for some book recommendations. Updated on 13 June 2020.&lt;/p&gt;
-
-&lt;blockquote&gt;Currently reading “Why I’m no longer talking to white people about race” by &lt;a href=&quot;https://twitter.com/renireni?ref_src=twsrc%5Etfw&quot;&gt;@renireni&lt;/a&gt;. What should I read next? I want to educate myself about racism in the UK.&lt;br /&gt;&amp;mdash; Benjy Stanton (@benjystanton) &lt;a href=&quot;https://twitter.com/benjystanton/status/1219744937790660608?ref_src=twsrc%5Etfw&quot;&gt;January 21, 2020&lt;/a&gt;&lt;/blockquote&gt;
-
-&lt;h2 id=&quot;list-of-books-about-racism-in-the-uk&quot;&gt;List of books about racism in the UK&lt;/h2&gt;
-
-&lt;p&gt;Here’s my resulting reading list. I’m slowly making my way through it. Please let me know if you have any other recommendations.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Why I’m No Longer Talking to White People About Race by &lt;a href=&quot;https://twitter.com/renireni&quot;&gt;Reni Eddo-Lodge&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;The Good Immigrant by &lt;a href=&quot;https://twitter.com/nikeshshukla&quot;&gt;Nikesh Shukla&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Brit(ish): On Race, Identity and Belonging by &lt;a href=&quot;https://twitter.com/afuahirsch&quot;&gt;Afua Hirsch&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Natives: Race and Class in the Ruins of Empire by &lt;a href=&quot;https://twitter.com/akalamusic&quot;&gt;Akala&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Black and British: A Forgotten History by &lt;a href=&quot;https://twitter.com/DavidOlusoga&quot;&gt;David Olusoga&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Heart Of The Race: Black Women’s Lives in Britain by Beverley Bryan&lt;/li&gt;
-  &lt;li&gt;Safe: On Black British Men Reclaiming Space by Derek Owusu&lt;/li&gt;
-  &lt;li&gt;What is Islamophobia?: Racism, Social Movements and the State by &lt;a href=&quot;https://twitter.com/narzanin&quot;&gt;Narzanin Massoumi&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;more-resources-on-racism-and-anti-racism&quot;&gt;More resources on racism and anti-racism&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://tatianamac.com/posts/white-guyde/&quot;&gt;White Guyde To The Galaxy from Tatiana Mac&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/privilegecafe_&quot;&gt;The Privilege Cafe on Twitter (@privilegecafe_)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.standard.co.uk/lifestyle/books/book-resources-racism-a4457241.html&quot;&gt;These books and resources will help you understand anti-racism from Natasha Mwansa&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/@bbrownie.bb/anti-racism-what-you-can-do-922b22d480bc&quot;&gt;Anti-racism: What you can do from Beth Brown&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/@Diversenett/icantbreathe-704081cc0d8f&quot;&gt;#ICantBreathe from Annette Joseph&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;some-twitter-threads-that-link-to-more-resources&quot;&gt;Some Twitter threads that link to more resources&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/wanderingbritt_/status/1267617830872154113&quot;&gt;Children’s books that discuss race and racism from Brittany&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/ObiomaUgoala/status/1266330305985732609&quot;&gt;Positive action tips with a UK focus from Ougoala&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/EsylltMair/status/1268522259733524480&quot;&gt;Resources that focus on racism in Wales from Esyllt Sears&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;figure&gt;
-  &lt;img src=&quot;http://localhost:4000/assets/anti-racism-books.jpg&quot; alt=&quot;Brit(ish), The Good Immigrant and Why I’m No Longer Talking to White People About Race&quot; /&gt;
-  &lt;figcaption class=&quot;text-small&quot;&gt;
-    Books about racism in the UK
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-</description>
-        <pubDate>Sat, 08 Feb 2020 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/books-about-racism-in-the-uk/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/books-about-racism-in-the-uk/</guid>
-        
-        
-        <category>personal</category>
         
       </item>
     
