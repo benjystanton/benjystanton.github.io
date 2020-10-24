@@ -8,7 +8,7 @@ categories: weeknotes swirrl accessibility
 
 ## Coronavirus
 
-This week we've been in isolation for various reasons. I had a test last weekend, but luckily after a few days, it turned out to be negative. More worryingly, there was a positive case in our youngest's nursery class. So they're in isolation until the middle of next week. It meant we couldn't really do much during out last week before Wales's firebreak lockdown thing.
+This week we've been in isolation for various reasons. I had a test last weekend, but luckily after a few days, it turned out to be negative. More worryingly, there was a positive case in our youngest's nursery class. So they're in isolation until the middle of next week. It meant we couldn't really do much during our last week before Wales's firebreak lockdown thing.
 
 ## Accessibility testing tools and techniques
 

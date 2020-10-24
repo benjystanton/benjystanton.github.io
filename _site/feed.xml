@@ -5,8 +5,8 @@
     <description>Hi, my name is Benjy Stanton and I’m an interaction designer.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 24 Oct 2020 13:12:44 +0100</pubDate>
-    <lastBuildDate>Sat, 24 Oct 2020 13:12:44 +0100</lastBuildDate>
+    <pubDate>Sat, 24 Oct 2020 15:12:13 +0100</pubDate>
+    <lastBuildDate>Sat, 24 Oct 2020 15:12:13 +0100</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
     
       <item>
@@ -15,7 +15,7 @@
 
 &lt;h2 id=&quot;coronavirus&quot;&gt;Coronavirus&lt;/h2&gt;
 
-&lt;p&gt;This week we’ve been in isolation for various reasons. I had a test last weekend, but luckily after a few days, it turned out to be negative. More worryingly, there was a positive case in our youngest’s nursery class. So they’re in isolation until the middle of next week. It meant we couldn’t really do much during out last week before Wales’s firebreak lockdown thing.&lt;/p&gt;
+&lt;p&gt;This week we’ve been in isolation for various reasons. I had a test last weekend, but luckily after a few days, it turned out to be negative. More worryingly, there was a positive case in our youngest’s nursery class. So they’re in isolation until the middle of next week. It meant we couldn’t really do much during our last week before Wales’s firebreak lockdown thing.&lt;/p&gt;
 
 &lt;h2 id=&quot;accessibility-testing-tools-and-techniques&quot;&gt;Accessibility testing tools and techniques&lt;/h2&gt;
 
