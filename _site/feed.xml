@@ -5,9 +5,70 @@
     <description>Hi, my name is Benjy Stanton and I’m an interaction designer.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 24 Oct 2020 15:15:58 +0100</pubDate>
-    <lastBuildDate>Sat, 24 Oct 2020 15:15:58 +0100</lastBuildDate>
+    <pubDate>Sun, 01 Nov 2020 14:57:32 +0000</pubDate>
+    <lastBuildDate>Sun, 01 Nov 2020 14:57:32 +0000</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>Weeknotes – series 04 episode 02</title>
+        <description>&lt;p class=&quot;lede&quot;&gt;Notes about wireframing, checking accessibility with CSS off, the user-centred design and data community, and designing in the open.&lt;/p&gt;
+
+&lt;h2 id=&quot;wireframing-design-workflow&quot;&gt;Wireframing design workflow&lt;/h2&gt;
+
+&lt;p&gt;Back when I worked at a design agency, we spent hours (sometimes days and weeks) on high fidelity mock-ups. These designs looked great, but often failed when they came into contact with real code, content, devices and users. Around the same time, the whole practice of designing mock-ups started to get a bad rep on #DesignTwitter.&lt;/p&gt;
+
+&lt;p&gt;Later, when I worked at DVLA (Driver and Vehicle Licensing Agency) I discovered GDS’s (Government Digital Service’s) &lt;a href=&quot;https://designnotes.blog.gov.uk/2014/10/13/how-designers-prototype-at-gds/&quot;&gt;‘sketch first, then prototype’ design workflow&lt;/a&gt;. Sketching with pen and paper is great when all or most of your team are sitting in the same room. But, if the team are distributed across different locations and time zones, then sketches don’t work as well.&lt;/p&gt;
+
+&lt;p&gt;But I still let those old bad experiences with mock-ups put me off using any digital design tools for a while. So I’m trying to be less precious.&lt;/p&gt;
+
+&lt;p&gt;At Swirrl we use &lt;a href=&quot;https://moqups.com/&quot;&gt;Moqups&lt;/a&gt;. It’s certainly not “flavour of the month” for web based design tools, but I really like it. I can quickly create and annotate my designs, share links to the live design and export PDFs. And it has some nice diagram features for drawing user journey maps too.&lt;/p&gt;
+
+&lt;p&gt;I still think wireframes and mock-ups are sub-optimal for user research, communicating final design quality and documenting detailed design specs. But they definitely have an important part to play in helping me discuss designs with developers, product managers and service owners.&lt;/p&gt;
+
+&lt;p&gt;For me it works well where I can pick up a small design change, create a wireframe, critique it with the project team, then prototype it code, all within a single sprint. This workflow helps to spot issues sooner, but also makes sure the wireframe itself doesn’t become a “design asset” that needs to be kept up to date.&lt;/p&gt;
+
+&lt;h2 id=&quot;checking-accessibility-with-css-off&quot;&gt;Checking accessibility with CSS off&lt;/h2&gt;
+
+&lt;p&gt;Whilst working on something this week, I was reminded how useful testing prototypes with CSS off can be. There’s a useful guide on GOV.UK called &lt;a href=&quot;https://www.gov.uk/government/publications/doing-a-basic-accessibility-check-if-you-cant-do-a-detailed-one/doing-a-basic-accessibility-check-if-you-cant-do-a-detailed-one#check-pages-are-usable-when-stylesheets-are-disabled&quot;&gt;doing a basic accessibility check if you cannot do a detailed one&lt;/a&gt; that recommends checking designs in this way.&lt;/p&gt;
+
+&lt;p&gt;I was able to spot that a group of related links wasn’t marked up as a list (&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;ul&amp;gt;&lt;/code&gt;) in the underlying HTML. The links were also repeated multiple times on the page, and with CSS off it helped me to spot that the same link text was used multiples times.&lt;/p&gt;
+
+&lt;p&gt;As a sighted person, I often take for granted how the visual layout of a page can affect the way I understand the content. But with CSS off, it helps me to think about the source order and the underlying content, and how assistive technology might interpret the code in a different way.&lt;/p&gt;
+
+&lt;p&gt;I tweeted about this same thing earlier in the year, and there are some useful replies to this tweet if you want to learn more about checking accessibility with CSS off…&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;#A11y folks, why is “check the page with CSS off” a useful manual check to do? Is it because some users browse the web this way, or because it helps identify issues with the underlying HTML?&lt;br /&gt;— &lt;a href=&quot;https://twitter.com/benjystanton/status/1306521869017919488&quot;&gt;My tweet on 17 September 2020&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;user-centred-design-and-data-community&quot;&gt;User-centred design and data community&lt;/h2&gt;
+
+&lt;p&gt;This week, I also had a chat with the team who organise the &lt;a href=&quot;https://designnotes.blog.gov.uk/2020/10/05/introducing-the-user-centred-design-and-data-community/&quot;&gt;user-centred design and data community&lt;/a&gt;. We’re planning the next workshop, where we’ll look to develop some principles for designing with data with the rest of the community. There’s a &lt;a href=&quot;https://trello.com/b/C48j9WTM/user-centred-design-ucd-data-in-government-community-public-board&quot;&gt;public Trello board where you can keep up to date with our plans&lt;/a&gt;. More on this soon.&lt;/p&gt;
+
+&lt;h2 id=&quot;designing-in-the-open&quot;&gt;Designing in the open&lt;/h2&gt;
+
+&lt;p&gt;UX (User experience) designer &lt;a href=&quot;https://twitter.com/westleyknight&quot;&gt;Westley Knight&lt;/a&gt; got in touch with me &lt;a href=&quot;https://twitter.com/westleyknight/status/1322131922026377216&quot;&gt;on Twitter to ask about an old blog post&lt;/a&gt; of mine that &lt;a href=&quot;https://digitalblog.ons.gov.uk/2017/08/15/picking-things-from-a-long-list/&quot;&gt;I’d posted on the ONS digital blog&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The post was about creating a design pattern that allowed users to pick lots of items from a long list (for example, a list of places from across the UK). It’s a tricky pattern that often comes up in the work that I do (especially when it comes to filtering datasets by geographical areas).&lt;/p&gt;
+
+&lt;p&gt;Anyway, it was nice to know that people are still finding this post useful. I remember that it sparked some useful conversations at the time, and it’s a useful reminder to me to keep blogging, working in the open, and sharing my work as I go.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/weeknotes-series-04-episode-02/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/weeknotes-series-04-episode-02/</guid>
+        
+        
+        <category>weeknotes</category>
+        
+        <category>swirrl</category>
+        
+        <category>design</category>
+        
+        <category>ux</category>
+        
+        <category>data</category>
+        
+      </item>
     
       <item>
         <title>Weeknotes – series 04 episode 01</title>
@@ -397,34 +458,6 @@
         
         
         <category>research</category>
-        
-      </item>
-    
-      <item>
-        <title>Making data part of the web sticker</title>
-        <description>&lt;p&gt;Here’s my first submission for &lt;a href=&quot;https://twitter.com/jukesie&quot;&gt;Jukesie’s&lt;/a&gt; &lt;a href=&quot;https://github.com/jukesie/sticker-stories/blob/master/README.md&quot;&gt;sticker stories&lt;/a&gt; project. I made this whilst I was working at Office for National Statistics in 2017. &lt;a href=&quot;https://twitter.com/ldodds&quot;&gt;Leigh Dodds&lt;/a&gt; was working there at the same time and wrote &lt;a href=&quot;https://digitalblog.ons.gov.uk/2017/01/06/some-open-data-publishing-principles/&quot;&gt;some open data publishing principles&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Me and &lt;a href=&quot;https://twitter.com/mr_dudders&quot;&gt;Andy Dudfield&lt;/a&gt; thought it would be good to turn the principles it a series of stickers and posters. I never quite got round to make a series, but this simple design and message, printed on some rather fetching holographic metallic material was &lt;a href=&quot;https://twitter.com/benjystanton/status/931869902641786880&quot;&gt;a hit with open data Twitter&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/make-data-part-of-the-web-sticker.jpg&quot; alt=&quot;A sheet of circular make data part of the web stickers printed on holographic metallic material&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://github.com/ONSdigital/design/blob/master/stickers/MakeDataPartOfTheWeb.pdf&quot;&gt;Get the sticker artwork PDF from GitHub&lt;/a&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Designer(s): &lt;a href=&quot;https://www.benjystanton.co.uk/&quot;&gt;Benjy Stanton&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/ldodds&quot;&gt;Leigh Dodds&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Organisation: &lt;a href=&quot;https://www.ons.gov.uk/&quot;&gt;Office for National Statistics&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Team: &lt;a href=&quot;https://digitalblog.ons.gov.uk/&quot;&gt;Digital Publishing&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Year: 2017&lt;/li&gt;
-  &lt;li&gt;Licence: &lt;a href=&quot;https://github.com/ONSdigital/design/blob/master/LICENSE.md&quot;&gt;MIT License&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Willingness to be contacted: Yes&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Sat, 04 Apr 2020 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/blog/making-data-part-of-the-web-sticker/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/making-data-part-of-the-web-sticker/</guid>
-        
-        
-        <category>design</category>
         
       </item>
     
