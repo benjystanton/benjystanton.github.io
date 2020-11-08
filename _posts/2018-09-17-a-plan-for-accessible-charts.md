@@ -3,7 +3,7 @@ layout: post
 title: A plan for accessible charts
 categories: accessibility data svg
 excerpt: A list of user research findings, accessibility report findings, best practice, resources and good ideas that I’ve collected over the past 2 years.
-last_modified_at: 18 July 2020
+last_modified_at: 8 November 2020
 image: "a11y-chart.jpg"
 image-alt: "Sketch of the word A11y on grid paper boxed in by x and y axis lines"
 ---
@@ -96,6 +96,7 @@ This [game on the Apple app store uses some nice patterns](https://apps.apple.co
 - [Making SVG accessible](http://decks.tink.uk/2017/lws/index.html#cover)
 - [Accessible SVG line graphs](https://tink.uk/accessible-svg-line-graphs/)
 - [How to Make Charts with SVG](https://css-tricks.com/how-to-make-charts-with-svg/)
+- [Reliable and Valid SVG Accessibility](https://fizz.studio/blog/reliable-valid-svg-accessibility/)
 
 [Read more about SVGs in this blog post]({{ site.url}}/blog/add-svg-icons/)
 

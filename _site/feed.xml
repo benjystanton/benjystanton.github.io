@@ -5,8 +5,8 @@
     <description>Hi, my name is Benjy Stanton and I’m an interaction designer.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 08 Nov 2020 12:00:35 +0000</pubDate>
-    <lastBuildDate>Sun, 08 Nov 2020 12:00:35 +0000</lastBuildDate>
+    <pubDate>Sun, 08 Nov 2020 14:56:40 +0000</pubDate>
+    <lastBuildDate>Sun, 08 Nov 2020 14:56:40 +0000</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
     
       <item>
@@ -47,6 +47,8 @@
         <category>swirrl</category>
         
         <category>data</category>
+        
+        <category>ux</category>
         
       </item>
     
@@ -108,6 +110,8 @@
         <category>ux</category>
         
         <category>data</category>
+        
+        <category>accessibility</category>
         
       </item>
     

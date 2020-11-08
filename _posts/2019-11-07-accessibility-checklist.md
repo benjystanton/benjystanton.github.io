@@ -5,7 +5,7 @@ categories: nablopomo accessibility
 tag: NaBloPoMo2019
 image: "checkbox.jpg"
 image-alt: "Sharpie drawing of a box with a tick or check in it, on grid paper"
-last_modified_at: 4 November 2020
+last_modified_at: 8 November 2020
 ---
 
 <p class="lede">A list of accessibility recommendations, tips and resources. Last updated on {{ page.last_modified_at }}.</p>
@@ -28,6 +28,7 @@ Although I find checklists useful, it's worth remembering that accessibility sho
 - Avoid italics, block capitals or justified text
 - Use a san-serif font with thick letters
 - [Make sure text can be resized](https://www.24a11y.com/2019/pixels-vs-relative-units-in-css-why-its-still-a-big-deal/)
+- [Responsive Type and Zoom by Adrian Roselli](https://adrianroselli.com/2019/12/responsive-type-and-zoom.html)
 
 Read my post about [how improving typography can help us to meet user needs]({{ site.baseurl}}/blog/how-improving-typography-can-help-us-to-meet-user-needs/).
 
@@ -132,9 +133,11 @@ Check the service can be operated with…
 - a range of browsers and devices
 
 ### Further reading on manual testing
+
 - [Designing for different browsers and devices from GOV.UK](https://www.gov.uk/service-manual/technology/designing-for-different-browsers-and-devices#browsers-to-test-in)
 - [Assistive technology tools you can test with at no cost from Anika Henke](https://accessibility.blog.gov.uk/2018/09/27/assistive-technology-tools-you-can-use-at-no-cost/)
 - [Quick Tips for Windows High Contrast Mode from Sarah Higley](https://sarahmhigley.com/writing/whcm-quick-tips/).
+- [The most useful accessibility testing tools and techniques from Artem Sapegin](https://blog.sapegin.me/all/accessibility-testing/)
 
 ## Automatic tests
 
