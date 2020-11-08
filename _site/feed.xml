@@ -5,9 +5,46 @@
     <description>Hi, my name is Benjy Stanton and I’m an interaction designer.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 01 Nov 2020 14:57:32 +0000</pubDate>
-    <lastBuildDate>Sun, 01 Nov 2020 14:57:32 +0000</lastBuildDate>
+    <pubDate>Sun, 08 Nov 2020 11:58:00 +0000</pubDate>
+    <lastBuildDate>Sun, 08 Nov 2020 11:58:00 +0000</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>Weeknotes – series 04 episode 03</title>
+        <description>&lt;p class=&quot;lede&quot;&gt;Notes about API user research, recording remote user research sessions, and onboarding remote team members during lockdown.&lt;/p&gt;
+
+&lt;h2 id=&quot;api-user-research&quot;&gt;API user research&lt;/h2&gt;
+
+&lt;p&gt;This week I’ve been getting ready for a round of API user research. I’ve done bits of this before, but it’s always challenging as my knowledge of APIs is often less than that of the participants I’m speaking too.&lt;/p&gt;
+
+&lt;p&gt;Last time I put together a list of resources, so I decided to share these &lt;a href=&quot;https://gist.github.com/benjystanton/295d6a84f58e62ab02e36f59491cbcad&quot;&gt;API user research resources on GitHub&lt;/a&gt;. I’d also blogged about some &lt;a href=&quot;/blog/user-research-questions-for-data-users/&quot;&gt;user research questions for data users&lt;/a&gt;. These were a really good start for planning my research this time round.&lt;/p&gt;
+
+&lt;p&gt;It’s also tricky for me because there is no visual interface to design, so it feels like extra pressure on me to make sure the research findings can speak for themselves. &lt;a href=&quot;https://twitter.com/AgileTimelord&quot;&gt;Jason Bell&lt;/a&gt; from DWP has written a good blog post about this: &lt;a href=&quot;https://dwpdigital.blog.gov.uk/2018/04/20/how-we-designed-for-users-without-having-a-user-interface-to-test/&quot;&gt;How we designed for users without having a user interface to test&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;In preparation, I’ve been speaking to the team at Swirrl and the API service owners to help me setup some good research objectives and activities. &lt;a href=&quot;https://twitter.com/robchamberspfc&quot;&gt;Rob&lt;/a&gt; suggested that I should give participants a heads up that I’d like to see them use an API, some API documentation and/or whatever software they usually use to work with the data once they have it. Already this has worked really well, as participants have taken the time to email me in advance with links to relevant websites and taken the time to write notes about their workflow.&lt;/p&gt;
+
+&lt;h2 id=&quot;recording-remote-user-research-sessions&quot;&gt;Recording remote user research sessions&lt;/h2&gt;
+
+&lt;p&gt;Earlier in the summer I bought myself an &lt;a href=&quot;http://buildtoconnect.com/en/products/recordit&quot;&gt;app to record my mac screen called Record It&lt;/a&gt;. It’s a nice lightweight app and it allows me to record my screen, my microphone and the participant’s audio at the same time. There seems to be lots of ways to get around this problem, including &lt;a href=&quot;https://obsproject.com/&quot;&gt;Open Broadcaster Software&lt;/a&gt;, but Record It “just worked” for me, so I’m happy.&lt;/p&gt;
+
+&lt;p&gt;At the time I asked people on Twitter for tips on &lt;a href=&quot;https://twitter.com/benjystanton/status/1288075299444449281&quot;&gt;Mac apps that lets you record the screen, the system audio and the mic audio at the same time&lt;/a&gt; – take a look at that thread if you want to see some other options.&lt;/p&gt;
+
+&lt;h2 id=&quot;onboarding-remote-team-members-during-lockdown&quot;&gt;Onboarding remote team members during lockdown&lt;/h2&gt;
+
+&lt;p&gt;On a different note… at Swirrl we’re thinking about how we can improve our onboarding system now that we’re fully remote (during the corona virus lockdowns). So I’ve been gathering links to resources to help with that. The general consensus seems to be that a well thought out Trello board or slidedeck is the way to go. So I’ve added some great examples of those to this GitHub gist: &lt;a href=&quot;https://gist.github.com/benjystanton/c745b0c400eb7d73e2766686dff6de78&quot;&gt;list of articles and resources about remote onboarding&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 06 Nov 2020 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/weeknotes-series-04-episode-03/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/weeknotes-series-04-episode-03/</guid>
+        
+        
+        <category>weeknotes</category>
+        
+        <category>swirrl</category>
+        
+        <category>data</category>
+        
+      </item>
     
       <item>
         <title>Weeknotes – series 04 episode 02</title>
@@ -424,40 +461,6 @@
         
         
         <category>ux</category>
-        
-      </item>
-    
-      <item>
-        <title>User research activities for testing interface content</title>
-        <description>&lt;p&gt;Here are some tips on different user research techniques to try when you’re testing user interface content (&lt;a href=&quot;https://twitter.com/benjystanton/status/1247148638284980227&quot;&gt;crowdsourced from Twitter&lt;/a&gt; – thanks everyone!).&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://userresearch.blog.gov.uk/2014/09/02/a-simple-technique-for-evaluating-content/&quot;&gt;Highlighter test&lt;/a&gt;&lt;/strong&gt; – Ask people to highlight easy-to-understand words, and confusing words, using different colours (via &lt;a href=&quot;https://twitter.com/SocialSoup&quot;&gt;Helen&lt;/a&gt; and many others)&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Walkthrough&lt;/strong&gt; – Explain to someone how to use the thing (via &lt;a href=&quot;https://twitter.com/paulpod&quot;&gt;Paul Pod&lt;/a&gt;)&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Check search logs&lt;/strong&gt; – Check the search logs to see if people are looking for features that are right there in the interface (via &lt;a href=&quot;https://twitter.com/markhurrell&quot;&gt;Mark Hurrell&lt;/a&gt;)&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Task based usability test&lt;/strong&gt; – Start really minimal, find out what you need to add from research, it’s much harder to find out what to remove or change (via &lt;a href=&quot;https://twitter.com/joelanman&quot;&gt;Joe Lanman&lt;/a&gt;)&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nngroup.com/articles/cloze-test-reading-comprehension/&quot;&gt;Cloze test&lt;/a&gt;&lt;/strong&gt; – Remove words from the content and ask people what the missing words should be (via &lt;a href=&quot;https://twitter.com/kieran_forde&quot;&gt;Kieran Forde&lt;/a&gt;)&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Memory test&lt;/strong&gt; – Show pages that fade to blank after a period of time and ask people what they remember (via &lt;a href=&quot;https://twitter.com/retiredgrinch&quot;&gt;Grinchyface&lt;/a&gt;)&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Eye tracking&lt;/strong&gt; – Measure how many times people’s eyes stop on different words as they read (via &lt;a href=&quot;https://twitter.com/vonRunte&quot;&gt;Fritz von Runte&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;related-links&quot;&gt;Related links&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://userresearch.blog.gov.uk/2015/07/01/what-does-this-mean-tips-for-testing-your-words/&quot;&gt;What does this mean? Tips for testing your words.&lt;/a&gt; (via &lt;a href=&quot;https://twitter.com/jwaterworth&quot;&gt;John Waterworth&lt;/a&gt;)&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://designnotes.blog.gov.uk/2014/07/14/things-we-learnt-designing-register-to-vote/&quot;&gt;Things we learnt designing ‘Register to vote’&lt;/a&gt; (via &lt;a href=&quot;https://twitter.com/joelanman&quot;&gt;Joe Lanman&lt;/a&gt;)&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/@jsaito/5-fun-ways-to-test-words-f132af5a8456&quot;&gt;5 fun ways to test words&lt;/a&gt; (via &lt;a href=&quot;https://twitter.com/gwillenberg&quot;&gt;Gretchen Willenberg&lt;/a&gt;)&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://docs.microsoft.com/en-us/typography/develop/word-recognition&quot;&gt;The science of word recognition&lt;/a&gt; (via &lt;a href=&quot;https://twitter.com/whitingx&quot;&gt;Rob Whiting&lt;/a&gt;)&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.uxmatters.com/mt/archives/2019/07/readability-formulas-7-reasons-to-avoid-them-and-what-to-do-instead.php&quot;&gt;Readability Formulas: 7 Reasons to Avoid Them and What to Do Instead&lt;/a&gt; (via &lt;a href=&quot;https://twitter.com/cjforms&quot;&gt;Caroline Jarrett&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-
-</description>
-        <pubDate>Mon, 06 Apr 2020 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/blog/user-research-activities-for-testing-interface-content/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/user-research-activities-for-testing-interface-content/</guid>
-        
-        
-        <category>research</category>
         
       </item>
     
