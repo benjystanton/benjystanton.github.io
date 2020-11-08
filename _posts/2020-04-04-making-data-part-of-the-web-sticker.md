@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Making data part of the web sticker
-categories: design
+categories: design data
 image: "make-data-part-of-the-web-sticker.jpg"
 image-alt: "A sheet of circular make data part of the web stickers printed on holographic metallic material"
 ---

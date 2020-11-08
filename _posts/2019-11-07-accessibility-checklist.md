@@ -5,7 +5,7 @@ categories: nablopomo accessibility
 tag: NaBloPoMo2019
 image: "checkbox.jpg"
 image-alt: "Sharpie drawing of a box with a tick or check in it, on grid paper"
-last_modified_at: 13 June 2020
+last_modified_at: 4 November 2020
 ---
 
 <p class="lede">A list of accessibility recommendations, tips and resources. Last updated on {{ page.last_modified_at }}.</p>
@@ -80,6 +80,7 @@ Read my post about [accessible charts]({{ site.baseurl }}/blog/a-plan-for-access
 - [All form inputs should have labels and be linked with a 'for' attribute](https://www.w3.org/WAI/tutorials/forms/labels/#associating-labels-explicitly)
 - [Group radios together](https://design-system.service.gov.uk/components/radios/) with a `<fieldset>` and a `<legend>`
 - Forms and interactive elements should have useful hints if needed
+- Avoid using placeholder text, because it disappears when users start typing 
 - Error messages should suggest ways to fix errors
 - Error messages should show a summary of errors above the h1 and move focus to it
 - Error message summaries should include an h1 message that tells the screen reader user there is a problem, and give a list of descriptive errors with links to the relevant fields
