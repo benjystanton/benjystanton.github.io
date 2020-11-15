@@ -5,8 +5,8 @@
     <description>Hi, my name is Benjy Stanton and I’m an interaction designer.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 15 Nov 2020 19:18:46 +0000</pubDate>
-    <lastBuildDate>Sun, 15 Nov 2020 19:18:46 +0000</lastBuildDate>
+    <pubDate>Sun, 15 Nov 2020 20:39:56 +0000</pubDate>
+    <lastBuildDate>Sun, 15 Nov 2020 20:39:56 +0000</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
     
       <item>
@@ -42,13 +42,13 @@
 
 &lt;p&gt;For these kind of content issues I also like to check &lt;a href=&quot;https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style&quot;&gt;GOV.UK’s content style guide&lt;/a&gt; and &lt;a href=&quot;https://style.ons.gov.uk/&quot;&gt;ONS’s style guide&lt;/a&gt; for best practice.&lt;/p&gt;
 
-&lt;p&gt;I think there’s an interesting cross-section here between readability, data literacy and numeracy here which often leads me down the path deciding to write things out in full, to make sure the widest possible range of people can perceive and understand the content.&lt;/p&gt;
+&lt;p&gt;I think there’s an interesting cross-section here between readability, data literacy and numeracy which often leads me down the path deciding to write things out in full, to make sure the widest possible range of people can perceive and understand the content.&lt;/p&gt;
 
 &lt;h2 id=&quot;one-day-ill-write-a-big-post-about-tables&quot;&gt;One day I’ll write a big post about tables&lt;/h2&gt;
 
 &lt;p&gt;I’d really like to write a big blog post to round-up everything I’ve learnt about tables. I’ve been working on services that publish tables for about 4 years, so I feel like I can add some good practical tips.&lt;/p&gt;
 
-&lt;p&gt;But for now, for my fellow table nerds, there’s this &lt;a href=&quot;/blog/making-data-tables-more-accessible/&quot;&gt;short post I wrote about tables from 2019&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;But for now, for my fellow table nerds, there’s this &lt;a href=&quot;/blog/making-data-tables-more-accessible/&quot;&gt;short post I wrote about tables from 2019&lt;/a&gt;. There’s also some bits about &lt;a href=&quot;/blog/accessibility-checklist/#tables&quot;&gt;tables in my accessibility checklist&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Sun, 15 Nov 2020 00:00:00 +0000</pubDate>
         <link>http://localhost:4000/blog/weeknotes-series-04-episode-04/</link>

@@ -34,10 +34,10 @@ In other table news, I needed to move some data from a spreadsheet to a html tab
 
 For these kind of content issues I also like to check [GOV.UK's content style guide](https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style) and [ONS's style guide](https://style.ons.gov.uk/) for best practice.
 
-I think there's an interesting cross-section here between readability, data literacy and numeracy here which often leads me down the path deciding to write things out in full, to make sure the widest possible range of people can perceive and understand the content.
+I think there's an interesting cross-section here between readability, data literacy and numeracy which often leads me down the path deciding to write things out in full, to make sure the widest possible range of people can perceive and understand the content.
 
 ## One day I'll write a big post about tables
 
 I'd really like to write a big blog post to round-up everything I've learnt about tables. I've been working on services that publish tables for about 4 years, so I feel like I can add some good practical tips.
 
-But for now, for my fellow table nerds, there's this [short post I wrote about tables from 2019](/blog/making-data-tables-more-accessible/).
+But for now, for my fellow table nerds, there's this [short post I wrote about tables from 2019](/blog/making-data-tables-more-accessible/). There's also some bits about [tables in my accessibility checklist](/blog/accessibility-checklist/#tables).
