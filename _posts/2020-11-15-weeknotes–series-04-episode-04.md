@@ -11,7 +11,7 @@ categories: weeknotes swirrl data accessibility
 [Adrian's twitter thread about tables](https://twitter.com/aardrian/status/1326150127959105538) really caught my eye this week. The technique shows how you can achieve a simple, responsive, accessible table with just a few lines of HTML…
 
 ```
-<div>
+<div
   role="region"
   aria-labelledby="Caption01"
   tabindex="0">
