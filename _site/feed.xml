@@ -5,9 +5,65 @@
     <description>Hi, my name is Benjy Stanton and I’m an interaction designer.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 08 Nov 2020 14:58:43 +0000</pubDate>
-    <lastBuildDate>Sun, 08 Nov 2020 14:58:43 +0000</lastBuildDate>
+    <pubDate>Sun, 15 Nov 2020 19:15:03 +0000</pubDate>
+    <lastBuildDate>Sun, 15 Nov 2020 19:15:03 +0000</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>Weeknotes – series 04 episode 04</title>
+        <description>&lt;p class=&quot;lede&quot;&gt;This week I have been mostly thinking about accessible mark-up and content design for HTML tables (again).&lt;/p&gt;
+
+&lt;h2 id=&quot;adrians-simple-responsive-accessible-table&quot;&gt;Adrian’s simple, responsive, accessible table&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/aardrian/status/1326150127959105538&quot;&gt;Adrian’s twitter thread about tables&lt;/a&gt; really caught my eye this week. The technique shows how you can achieve a simple, responsive, accessible table with just a few lines of HTML…&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;div&amp;gt;
+  role=&quot;region&quot;
+  aria-labelledby=&quot;Caption01&quot;
+  tabindex=&quot;0&quot;&amp;gt;
+  &amp;lt;table&amp;gt;[…]&amp;lt;/table&amp;gt;
+&amp;lt;/div&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;The thread goes into more detail, but a couple of things stood out for me…&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;An overflowing table is interactive, so you need to add &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;tabindex=&quot;0&quot;&lt;/code&gt; to the container so that keyboard users can scroll the content too&lt;/li&gt;
+  &lt;li&gt;Anything that receives focus needs an accessible name and role&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;I’ve been working with HTML tables for a few years, but I always learn stuff from Adrian. Here’s a link to all of &lt;a href=&quot;https://adrianroselli.com/tag/tables&quot;&gt;Adrian’s blog posts about tables&lt;/a&gt;. Worth a read if you want to make sure your tables are semantic and accessible.&lt;/p&gt;
+
+&lt;h2 id=&quot;accessible-characters-in-tables&quot;&gt;Accessible characters in tables&lt;/h2&gt;
+
+&lt;p&gt;In other table news, I needed to move some data from a spreadsheet to a html table for a project. The table contained mathematical symbols (like “greater than” &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;gt;&lt;/code&gt;), but I wasn’t sure if screen readers can be relied upon to read out these kind of symbols correctly.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/tweetingFrog&quot;&gt;Annemarie Parsons&lt;/a&gt; shared a good blog post with me that goes into detail about what you can expect when specific screen readers encounter symbols and characters: &lt;a href=&quot;https://www.deque.com/blog/dont-screen-readers-read-whats-screen-part-1-punctuation-typographic-symbols/&quot;&gt;Why Don’t Screen Readers Always Read What’s on the Screen from Deque&lt;/a&gt;. It’s worth noting that the blog post is quite old (2014) so I assume some of the details will have changed, but it’s still worth a read to help understand what kind of things can affect how screenreaders announce things.&lt;/p&gt;
+
+&lt;p&gt;For these kind of content issues I also like to check &lt;a href=&quot;https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style&quot;&gt;GOV.UK’s content style guide&lt;/a&gt; and &lt;a href=&quot;https://style.ons.gov.uk/&quot;&gt;ONS’s style guide&lt;/a&gt; for best practice.&lt;/p&gt;
+
+&lt;p&gt;I think there’s an interesting cross-section here between readability, data literacy and numeracy here which often leads me down the path deciding to write things out in full, to make sure the widest possible range of people can perceive and understand the content.&lt;/p&gt;
+
+&lt;h2 id=&quot;one-day-ill-write-a-big-post-about-tables&quot;&gt;One day I’ll write a big post about tables&lt;/h2&gt;
+
+&lt;p&gt;I’d really like to write a big blog post to round-up everything I’ve learnt about tables. I’ve been working on services that publish tables for about 4 years, so I feel like I can add some good practical tips.&lt;/p&gt;
+
+&lt;p&gt;But for now, for my fellow table nerds, there’s this &lt;a href=&quot;/blog/making-data-tables-more-accessible/&quot;&gt;short post I wrote about tables from 2019&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 15 Nov 2020 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/weeknotes-series-04-episode-04/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/weeknotes-series-04-episode-04/</guid>
+        
+        
+        <category>weeknotes</category>
+        
+        <category>swirrl</category>
+        
+        <category>data</category>
+        
+        <category>accessibility</category>
+        
+      </item>
     
       <item>
         <title>Weeknotes – series 04 episode 03</title>
@@ -428,47 +484,6 @@
         <category>personal</category>
         
         <category>swirrl</category>
-        
-      </item>
-    
-      <item>
-        <title>Pens for UX sketching and note taking</title>
-        <description>&lt;p&gt;Not surprisingly, a lot of &lt;a href=&quot;https://twitter.com/benjystanton/status/1220305829213151235&quot;&gt;my twitter friends are stationery nerds&lt;/a&gt; like me.&lt;/p&gt;
-
-&lt;p&gt;If you’re after a new pen to try, here’s a list of recommendations. Seems like there’s a lot of love for the Paper Mate Flair?&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.papermate.com/pens/felt-tip&quot;&gt;Paper Mate Flair&lt;/a&gt; &lt;small&gt;(via &lt;a href=&quot;https://twitter.com/graceellins&quot;&gt;Grace&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/MyGuySi&quot;&gt;Si&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/SamHallWales&quot;&gt;Sam&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/jopkins&quot;&gt;Jonathan&lt;/a&gt;)&lt;/small&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.pentel.co.uk/products.asp?group=1&amp;amp;type=5&amp;amp;pid=47&quot;&gt;Pentel SignPen&lt;/a&gt; &lt;small&gt; 
-(via &lt;a href=&quot;https://twitter.com/benjystanton&quot;&gt;Benjy&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/chameleonic&quot;&gt;Nic F&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/nicprice&quot;&gt;Nic P&lt;/a&gt;)&lt;/small&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.rotring.com/uk/fineliner-pen/154-tikky-graphic-fineliner-3501170814734.html&quot;&gt;Rotring Tikky Graphic Fineliner&lt;/a&gt; &lt;small&gt;(via &lt;a href=&quot;https://twitter.com/whitingx&quot;&gt;Rob&lt;/a&gt;)&lt;/small&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.parkerpen.com/en-GB/jotter&quot;&gt;Parker Jotter&lt;/a&gt; &lt;small&gt;(via &lt;a href=&quot;https://twitter.com/whitingx&quot;&gt;Rob&lt;/a&gt;)&lt;/small&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.copic-shop.co.uk/copic-multiliner-sp-pens/&quot;&gt;Copic Multiliner&lt;/a&gt; &lt;small&gt;(via &lt;a href=&quot;https://twitter.com/paulmsmith&quot;&gt;Paul&lt;/a&gt;)&lt;/small&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.pilotpen.co.uk/en/v-ball-07-medium-tip.html&quot;&gt;Pilot V-Ball 07&lt;/a&gt; &lt;small&gt;(via &lt;a href=&quot;https://twitter.com/stevanbarry&quot;&gt;Stevan&lt;/a&gt;)&lt;/small&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://uniball.co.uk/&quot;&gt;Mitsubishi Uniball&lt;/a&gt; &lt;small&gt;(via &lt;a href=&quot;https://twitter.com/liammcmurray&quot;&gt;Liam&lt;/a&gt;)&lt;/small&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.muji.eu/&quot;&gt;Muji&lt;/a&gt; &lt;small&gt;(via &lt;a href=&quot;https://twitter.com/peterjobes&quot;&gt;Pete&lt;/a&gt;)&lt;/small&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.matador.com.bd/product/matador-i-teen-gel&quot;&gt;Matador I-Teen&lt;/a&gt; &lt;small&gt;(via &lt;a href=&quot;https://twitter.com/FozluSays&quot;&gt;Fozlusays&lt;/a&gt;)&lt;/small&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.pilotpen.co.uk/en/v-pen-erasable-medium-nib.html&quot;&gt;Pilot V-Pen Erasable Fountain pen&lt;/a&gt; &lt;small&gt;(via &lt;a href=&quot;https://twitter.com/agriculios&quot;&gt;Agricool&lt;/a&gt;)&lt;/small&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.winsornewton.com/uk/shop/graphic-markers/fineliners&quot;&gt;Winsor and Newton Fineliners&lt;/a&gt; &lt;small&gt;(via &lt;a href=&quot;https://twitter.com/aw_jones&quot;&gt;Andy&lt;/a&gt;)&lt;/small&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.pentel.co.uk/products.asp?group=3&amp;amp;type=13&amp;amp;pid=124&quot;&gt;Pentel GraphGear&lt;/a&gt; &lt;small&gt;(via &lt;a href=&quot;https://twitter.com/aw_jones&quot;&gt;Andy&lt;/a&gt;)&lt;/small&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.winsornewton.com/uk/shop/graphic-markers/promarker&quot;&gt;Winsor and Newton Promarker&lt;/a&gt; &lt;small&gt;(via &lt;a href=&quot;https://twitter.com/aw_jones&quot;&gt;Andy&lt;/a&gt;)&lt;/small&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.pilotpen.co.uk/en/hi-tecpoint-v5-fine-tip.html&quot;&gt;Pilot Hi-Tecpoint V5&lt;/a&gt; &lt;small&gt;(via &lt;a href=&quot;https://twitter.com/gramatter&quot;&gt;Graham&lt;/a&gt;)&lt;/small&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;bonus-content-try-these-notebooks&quot;&gt;Bonus content: try these notebooks&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://rhodiapads.com/&quot;&gt;Rhodia notebooks&lt;/a&gt; with dot grid &lt;small&gt;(via &lt;a href=&quot;https://twitter.com/wiredimage&quot;&gt;Ben&lt;/a&gt;)&lt;/small&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.muji.eu/pages/online.asp?Sec=12&quot;&gt;Muji notebooks&lt;/a&gt; &lt;small&gt;(via &lt;a href=&quot;https://twitter.com/MyGuySi&quot;&gt;Si&lt;/a&gt;)&lt;/small&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.leuchtturm1917.co.uk/notebook-medium-a5-softcover-123-numbered-pages.html&quot;&gt;Leuchtturm 1917 notebooks&lt;/a&gt; &lt;small&gt;(via &lt;a href=&quot;https://twitter.com/whitingx&quot;&gt;Rob&lt;/a&gt;)&lt;/small&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-</description>
-        <pubDate>Mon, 13 Apr 2020 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/blog/pens-for-ux-sketching-and-note-taking/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/pens-for-ux-sketching-and-note-taking/</guid>
-        
-        
-        <category>ux</category>
         
       </item>
     
