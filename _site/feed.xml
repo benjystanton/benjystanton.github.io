@@ -5,9 +5,221 @@
     <description>Hi, my name is Benjy Stanton and I’m an interaction designer.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 15 Nov 2020 20:39:56 +0000</pubDate>
-    <lastBuildDate>Sun, 15 Nov 2020 20:39:56 +0000</lastBuildDate>
+    <pubDate>Sat, 28 Nov 2020 14:02:28 +0000</pubDate>
+    <lastBuildDate>Sat, 28 Nov 2020 14:02:28 +0000</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>A plan for accessible maps</title>
+        <description>&lt;p class=&quot;lede&quot;&gt;Designing accessible interactive maps is hard. I don’t think I could point to any single thing that I’ve worked on that covers all of the things mentioned here. But, if I was going to start a brand new project, with plenty of time to get things right, this is where I’d start.&lt;/p&gt;
+
+&lt;p&gt;The following isn’t perfect, I’m really just sharing my workings so far. I hope that if you can see something is wrong or missing, you’ll point it out. I’ll definitely iterate and add to this post in future.&lt;/p&gt;
+
+&lt;h2 id=&quot;accessible-map-overview&quot;&gt;Accessible map overview&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;First, decide if you really need a map&lt;/li&gt;
+  &lt;li&gt;Make sure information in the map is available elsewhere&lt;/li&gt;
+  &lt;li&gt;Keep the map simple&lt;/li&gt;
+  &lt;li&gt;Design the map in black and white first&lt;/li&gt;
+  &lt;li&gt;Follow web best practice (semantic HTML, progressive enhancement)&lt;/li&gt;
+  &lt;li&gt;Break the map down into layers (features, dialogues, controls, backgrounds, supporting information)&lt;/li&gt;
+  &lt;li&gt;Test the map with different browsers and devices including mobiles and keyboards&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;first-decide-if-you-really-need-a-map&quot;&gt;First, decide if you really need a map&lt;/h2&gt;
+
+&lt;p&gt;Maps are complicated, both for the people using them, and the teams building them. Do user research to make sure you really need a map.&lt;/p&gt;
+
+&lt;h2 id=&quot;make-sure-information-in-the-map-is-available-elsewhere&quot;&gt;Make sure information in the map is available elsewhere&lt;/h2&gt;
+
+&lt;p&gt;It’s useful to remember that maps, no matter how well done, are an exclusive tool. They require digital literacy, geographic literacy and they rely on visual communication methods to present information. So they shouldn’t be relied upon solely to communicate information to your users.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Think of maps as an enhancement to the service your building, the core content and functionality should be available without the map&lt;/li&gt;
+  &lt;li&gt;Make sure that any information available via the map is also available via another accessible route (for example, in a nearby bit of text or data table, or in a downloadable spreadsheet)&lt;/li&gt;
+  &lt;li&gt;Interactive maps require JavaScript, so making sure information is available outside of the map is compatible with a progressive enhancement approach too&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;keep-the-map-simple&quot;&gt;Keep the map simple&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Break content down into multiple pages or sections that meet specific needs, rather than having a single map that contains all of the things&lt;/li&gt;
+  &lt;li&gt;Avoid complex interactive maps if you don’t need them, for example a static inline SVG might be enough in some cases&lt;/li&gt;
+  &lt;li&gt;Don’t add panning and zooming and multiple layers if you just need to display a single area and its boundary&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;design-maps-in-black-in-white-first&quot;&gt;Design maps in black in white first&lt;/h2&gt;
+
+&lt;p&gt;Don’t use colour alone to convey meaning. Using red and green to convey “good and bad” without labels is a classic bad example of this. I find that designing in black and white first helps me to do this, then I add colour later, as an enhancement.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Directly label things where possible, or use a separate legend or key, if direct labelling is not possible&lt;/li&gt;
+  &lt;li&gt;Consider using shading or cross-hatch patterns instead of colour fills&lt;/li&gt;
+  &lt;li&gt;Consider using unique line styles, for example dotted or dashed lines&lt;/li&gt;
+  &lt;li&gt;Use high contrast colours clear enough to read (avoid light greys)&lt;/li&gt;
+  &lt;li&gt;If legends/keys are used, make sure they work in black and white too&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;break-the-map-down-into-layers&quot;&gt;Break the map down into layers&lt;/h2&gt;
+
+&lt;p&gt;Interactive maps are made up of multiple layers:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;features (points or areas of interest)&lt;/li&gt;
+  &lt;li&gt;dialogues (for detailed information)&lt;/li&gt;
+  &lt;li&gt;controls (for example zoom buttons)&lt;/li&gt;
+  &lt;li&gt;background maps&lt;/li&gt;
+  &lt;li&gt;supporting information (for example small print)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I like to break down the map, then think about how to make each layer more accessible.&lt;/p&gt;
+
+&lt;p&gt;It may be very hard to make maps 100% accessible for everyone, but by considering each component part I think there is plenty of room for improvement and reasonable adjustment.&lt;/p&gt;
+
+&lt;h3 id=&quot;features-points-or-areas-of-interest&quot;&gt;Features (points or areas of interest)&lt;/h3&gt;
+
+&lt;p&gt;Features are the points of interest on the map. The individual data points that users are most interested in. They could be points that mark the location of a town, a line that follows the path of a river or a polygon that maps the outline of a local authority. Often they’ll have short text labels that are always visible.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Interactive lines (for example rivers or roads) should be thick enough and high contrast enough to see&lt;/li&gt;
+  &lt;li&gt;Interactive elements should be large enough to click on&lt;/li&gt;
+  &lt;li&gt;You can add clickable labels to lines if the lines themselves are so thin they are hard to tap or click on&lt;/li&gt;
+  &lt;li&gt;Allow users to zoom in, so that selecting the area they need becomes easier&lt;/li&gt;
+  &lt;li&gt;Make sure interactive elements have clear affordance or example, if a label is a link to new page, style it to look like a link (blue and underlined) and use semantic HTML (&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;a&amp;gt;&lt;/code&gt; instead of a &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;div&amp;gt;&lt;/code&gt;)&lt;/li&gt;
+  &lt;li&gt;Add clear hover style for interactive elements, for example change the line thickness, tint and mouse cursor&lt;/li&gt;
+  &lt;li&gt;Any interactive elements of the map should have a clear focus style&lt;/li&gt;
+  &lt;li&gt;If elements are not interactive, they should have a different visual treatment (for example black and white text without an underline)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;dialogues-for-detailed-information&quot;&gt;Dialogues (for detailed information)&lt;/h3&gt;
+
+&lt;p&gt;A benefit of interactive maps is that you can progressively disclose details when the user needs, so they don’t get bombarded with everything all at once.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Avoid using tool tips that only appear on mouse hover&lt;/li&gt;
+  &lt;li&gt;Dialogues need to be keyboard accessible too&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;map-controls&quot;&gt;Map controls&lt;/h3&gt;
+
+&lt;p&gt;Map controls are the buttons, form elements and gestures that the allow users to manipulate how they view the map.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Common controls include the ability to zoom and pan the map&lt;/li&gt;
+  &lt;li&gt;Test to make sure these controls are available to all input types, for example mouse, touch, keyboard and voice&lt;/li&gt;
+  &lt;li&gt;Use visible text labels, not just icons, for less common controls like toggling full screen mode&lt;/li&gt;
+  &lt;li&gt;Make sure to follow best practice for web forms when adding custom controls (like adding a select menu to change the background map layer)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;background-maps&quot;&gt;Background maps&lt;/h3&gt;
+
+&lt;p&gt;The background map contains extra context. They typically depict large water bodies, land masses and can include labels for important landmarks like cities.&lt;/p&gt;
+
+&lt;p&gt;The images might be generated from satellite photos or they can by stylised illustrations that are common in things like Google Maps.&lt;/p&gt;
+
+&lt;p&gt;If you have control of the background layer it’s worth simplifying things down to exactly what you need.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Turn off any background layers you don’t need, for example hide roads if your users don’t need to see them&lt;/li&gt;
+  &lt;li&gt;Make the text legible, for example increase size and contrast of labels for towns and cities&lt;/li&gt;
+  &lt;li&gt;Choose background tiles that don’t contrast too much with the foreground layers&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;supporting-information-map-metadata-and-descriptive-labels&quot;&gt;Supporting information, map metadata and descriptive labels&lt;/h3&gt;
+
+&lt;p&gt;Supporting text such copyright, source and license information is often overlooked in maps.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Make sure the text has sufficient size and contrast&lt;/li&gt;
+  &lt;li&gt;Make sure links are styled to look like links&lt;/li&gt;
+  &lt;li&gt;Icons, elements and sections need to have accessible text labels&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;test-the-map-with-a-mobile&quot;&gt;Test the map with a mobile&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Don’t rely on complex motions or gestures&lt;/li&gt;
+  &lt;li&gt;The &lt;a href=&quot;https://www.gov.uk/government/publications/doing-a-basic-accessibility-check-if-you-cant-do-a-detailed-one/doing-a-basic-accessibility-check-if-you-cant-do-a-detailed-one#technology&quot;&gt;doing a basic accessibility check if you cannot do a detailed one from GOV.UK&lt;/a&gt; explains this in more detail&lt;/li&gt;
+  &lt;li&gt;Make sure users don’t accidentally zoom into the map, when they meant to scroll down the page&lt;/li&gt;
+  &lt;li&gt;Test maps still work at small sizes&lt;/li&gt;
+  &lt;li&gt;Test map works with touch interfaces&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;test-the-map-with-a-keyboard&quot;&gt;Test the map with a keyboard&lt;/h2&gt;
+
+&lt;p&gt;Consider adding a skip link, allowing keyboard users to skip the map completely. Skip link are more commonly used to skip the main navigation, but could be adapted for this purpose too. Read about &lt;a href=&quot;https://design-system.service.gov.uk/components/skip-link/&quot;&gt;skip links in the GOV.UK design system&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Make sure to check all interactive elements are available to keyboard users. For example users will need to interact with the map controls (like zoom buttons and full screen toggles) as well as any interactive features like points and polygons.&lt;/p&gt;
+
+&lt;h2 id=&quot;do-a-range-of-testing&quot;&gt;Do a range of testing&lt;/h2&gt;
+
+&lt;p&gt;This blog post isn’t an exhaustive list of ways to meet all access needs or create something that works with all kind of assistive technology.&lt;/p&gt;
+
+&lt;p&gt;It’s definetely worth doing your own manual and automatic testing. I’ve written &lt;a href=&quot;https://www.benjystanton.co.uk/blog/accessibility-checklist/#manual-tests&quot;&gt;a bit about manual and automatic accessibility  testing&lt;/a&gt; before so I won’t go into more detail here.&lt;/p&gt;
+
+&lt;p&gt;It’s also important to do user research (including with people with access needs) and to get some accessibility experts to audit the finished thing.&lt;/p&gt;
+
+&lt;h2 id=&quot;further-reading&quot;&gt;Further reading&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://fossheim.io/writing/posts/accessible-dataviz-us-elections/&quot;&gt;How (not) to make accessible data visualizations, illustrated by the US presidential election by Sarah L. Fossheim&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/alphagov/govuk-design-system-backlog/issues/75&quot;&gt;Maps issue from the GOV.UK design system backlog&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://phase.com/magazine/design-accessible-maps/&quot;&gt;Design Accessible Maps from Phase&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ordnancesurvey.co.uk/blog/2019/12/try-our-new-os-open-zoomstack-styles-for-colour-blind-users/?utm_source=twitter&amp;amp;utm_medium=social&amp;amp;utm_term=&amp;amp;utm_content=&amp;amp;utm_campaign=80b1c9ea-de5b-4e1b-9d13-474ef3a40243&quot;&gt;OS Open Zoomstack styles for colour blind users from Ordnance Survey&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://developer.paciellogroup.com/blog/2020/04/accessible-digital-map-experiences/&quot;&gt;Accessible digital map experiences: a mountain climb or a walk in the park? from David Sloan&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.benjystanton.co.uk/blog/best-way-mark-up-svg-map/&quot;&gt;What’s the best way to mark-up an SVG map? by Benjy Stanton&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;services-with-maps&quot;&gt;Services with maps&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://mapit.mysociety.org/area/2553.html&quot;&gt;MapItUK from My Society&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.compare-school-performance.service.gov.uk/&quot;&gt;Search for schools and colleges to compare on GOV.UK&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://flood-map-for-planning.service.gov.uk/&quot;&gt;Flood map for planning on GOV.UK&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://flood-warning-information.service.gov.uk/warnings&quot;&gt;Flood warnings for England on GOV.UK&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://verify-local-patterns.herokuapp.com/service-patterns/parking-permit/check/design&quot;&gt;Alpha local gov service pattern: Apply for a resident’s parking permit&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://digital-land.github.io/organisation/local-authority-eng/BAR/&quot;&gt;Prototype organisation page from Digital Land&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.theguardian.com/world/2020/oct/13/senior-tory-calls-for-short-sharp-shock-to-curb-covid-surge-bernard-jenkin&quot;&gt;UK: New COVID cases in the last week from The Guardian&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://visual.parliament.uk/msoanames&quot;&gt;MSOA Names from House of Commons Library&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://visual.parliament.uk/research/visualisations/coronavirus-restrictions-map/&quot;&gt;Coronavirus restrictions from House of Commons Library&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;map-prototyping-tools&quot;&gt;Map prototyping tools&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.google.co.uk/maps/about/mymaps/&quot;&gt;My Maps from Google Maps – create basic maps&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.mapbox.com/playground/static/&quot;&gt;Mapbox static map image playground – create realistic static maps for your prototypes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://leafletjs.com/&quot;&gt;Leaflet – an open-source JavaScript library
+for maps&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://mapstarter.com/&quot;&gt;Mapstarter – convert Shapefiles and GeoJSON to SVGs&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://geojson.io/&quot;&gt;GeoJSON.io – edit GeoJSON in the browser&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;thanks&quot;&gt;Thanks&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/cathy_dutton&quot;&gt;Cathy Dutton&lt;/a&gt; and the interaction design team at Defra, &lt;a href=&quot;https://twitter.com/AngharadStone&quot;&gt;Angharad Stone&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/joelanman&quot;&gt;Joe Lanman&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/simoneverest&quot;&gt;Simon Everest&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/jwaterworth&quot;&gt;John Waterworth&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/robchamberspfc&quot;&gt;Rob Chambers&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/olihawkins&quot;&gt;Oli Hawkins&lt;/a&gt;, ONS digital and &lt;a href=&quot;https://www.swirrl.com/&quot;&gt;Swirrl&lt;/a&gt;.&lt;/p&gt;
+
+&lt;!-- ## To do
+- see my list of Defra issues
+- Add some sketches or screenshots
+- [Interactive maps doc from Defra's design wiki](https://github.com/DEFRA/design/wiki/Interactive-maps) --&gt;
+
+</description>
+        <pubDate>Sat, 28 Nov 2020 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/a-plan-for-accessible-maps/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/a-plan-for-accessible-maps/</guid>
+        
+        
+        <category>data</category>
+        
+        <category>accessibility</category>
+        
+        <category>design</category>
+        
+      </item>
     
       <item>
         <title>Weeknotes – series 04 episode 04</title>
@@ -408,82 +620,6 @@
         <category>accessibility</category>
         
         <category>design</category>
-        
-      </item>
-    
-      <item>
-        <title>My first year at Swirrl</title>
-        <description>&lt;p class=&quot;lede&quot;&gt;I’ve been at &lt;a href=&quot;https://www.swirrl.com/&quot;&gt;Swirrl&lt;/a&gt; for 12 months (happy swirrliversary to me)!&lt;/p&gt;
-
-&lt;p&gt;I joined as an interaction designer back in April 2019. I’d spotted that they were on the lookout for a designer after &lt;a href=&quot;https://twitter.com/northernjamie&quot;&gt;Jamie&lt;/a&gt; shared a link on Twitter.&lt;/p&gt;
-
-&lt;figure&gt;
-  &lt;img src=&quot;http://localhost:4000/assets/by-the-power-of-data.jpg&quot; alt=&quot;A round sticker that says 'by the power of data'. He-Man stands in front, raising his sword.&quot; /&gt;
-  &lt;figcaption class=&quot;text-small&quot;&gt;
-    Swirrl's Power of Data laptop sticker
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;I was a little worried that my skills weren’t technical enough for a software team like Swirrl. But the job description was open and honest, and it made them seem like a very supportive and flexible team (which it turns out, they really are!). Plus, my time working with data at Office for National Statistics (ONS) meant that I had some relevant experience.&lt;/p&gt;
-
-&lt;p&gt;Moving on from ONS was a big step for me (and I still miss my ONS friends!). But, the move has been good for me. I feel like I’m able to contribute a lot of value to the things that Swirrl are working on.&lt;/p&gt;
-
-&lt;h2 id=&quot;remote-working&quot;&gt;Remote working&lt;/h2&gt;
-
-&lt;p&gt;Swirrl is based in Manchester, but usually around half the team work remotely. Of course, it’s 100% remote right now, due to the lockdown.&lt;/p&gt;
-
-&lt;p&gt;The team are based around the UK. With a handful of people around the world in Canada, Australia and Berlin. We use a mixture of tools to keep in touch and share work with each other…&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://slack.com/&quot;&gt;Slack&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.notion.so/&quot;&gt;Notion&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/&quot;&gt;GitHub&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://gsuite.google.co.uk/&quot;&gt;G Suite&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://trello.com/&quot;&gt;Trello&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://moqups.com/&quot;&gt;Moqups&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;I’m sure this won’t come as a surprise to anyone. Choosing the right digital tools plays a huge part in how teams work together. Forcing them to use some big enterprise thing that does everything usually ends badly in my experience. (Rant over!)&lt;/p&gt;
-
-&lt;h2 id=&quot;my-role-at-swirrl&quot;&gt;My role at Swirrl&lt;/h2&gt;
-
-&lt;p&gt;My work includes a mix of;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;user research&lt;/li&gt;
-  &lt;li&gt;stakeholder workshops&lt;/li&gt;
-  &lt;li&gt;drawing journey maps and wireframes&lt;/li&gt;
-  &lt;li&gt;coding HTML and CSS&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The way that teams and projects are organised at Swirrl means that I’m able to keep my work-in-progress to a minimum. In turn, this means that I’m able to focus on things and make sure I’m doing my best work.&lt;/p&gt;
-
-&lt;h2 id=&quot;getting-stuck-into-development&quot;&gt;Getting stuck into development&lt;/h2&gt;
-
-&lt;p&gt;One of my aims over the past few months has been to get more involved with the development phase of a project. I wanted to contribute more to day-to-day issues. Rather than only doing upfront discovery research and handing over design specs.&lt;/p&gt;
-
-&lt;p&gt;In practice, this means being more disciplined in how I use GitHub to manage and document my work. So that others on the team can make better use of my work, and be more aware of what I’m up to.&lt;/p&gt;
-
-&lt;p&gt;I’m sure there’s lots of room for me to improve. But I think that working in this way is better. It shortens the feedback loop between user research and deploying improved code.&lt;/p&gt;
-
-&lt;h2 id=&quot;projects-im-working-on&quot;&gt;Projects I’m working on&lt;/h2&gt;
-
-&lt;p&gt;My main focus has been working with Defra and the Environment Agency (EA) on some of their data services. It’s exciting for me to work with different kinds of data (e.g. water quality and shoreline management) rather than statistics. (Yes, I did just say that I get excited about data.)&lt;/p&gt;
-
-&lt;p&gt;By helping EA to publish environmental data, and improving the way that people are able to access it, I feel like (in a very small way) I’m helping to improve the environment too.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Here’s a related post about &lt;a href=&quot;http://localhost:4000/blog/remote-working-pros-and-cons/&quot;&gt;my pros and cons of working remotely&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 16 Apr 2020 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/blog/my-first-year-at-swirrl/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/my-first-year-at-swirrl/</guid>
-        
-        
-        <category>personal</category>
-        
-        <category>swirrl</category>
         
       </item>
     
