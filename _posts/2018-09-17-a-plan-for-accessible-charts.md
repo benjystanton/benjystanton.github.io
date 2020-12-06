@@ -3,7 +3,7 @@ layout: post
 title: A plan for accessible charts
 categories: accessibility data svg
 excerpt: A list of user research findings, accessibility report findings, best practice, resources and good ideas that I’ve collected over the past 2 years.
-last_modified_at: 8 November 2020
+last_modified_at: 6 December 2020
 image: "a11y-chart.jpg"
 image-alt: "Sketch of the word A11y on grid paper boxed in by x and y axis lines"
 ---
@@ -110,7 +110,8 @@ This [game on the Apple app store uses some nice patterns](https://apps.apple.co
 
 - [An introduction to accessible data visualizations with D3.js from Sarah L. Fossheim](https://fossheim.io/writing/posts/accessible-dataviz-d3-intro/)
 - [An intro to designing accessible data visualizations from Sarah L. Fossheim](https://fossheim.io/writing/posts/accessible-dataviz-design/)
-- [Why Accessibility Is at the Heart of Data Visualization from Doug Schepers](https://medium.com/nightingale/ac[cessibility-is-at-the-heart-of-data-visualization-64a38d6c505b)
+- [Why Accessibility Is at the Heart of Data Visualization from Doug Schepers](https://medium.com/nightingale/accessibility-is-at-the-heart-of-data-visualization-64a38d6c505b)]
+- [Making analytical publications accessible](https://gss.civilservice.gov.uk/policy-store/making-analytical-publications-accessible/)
 - [What to consider when visualizing data for colorblind readers from Lisa Charlotte Rost](https://blog.datawrapper.de/colorblindness-part2/)
 - [Charts & Accessibility](http://accessibility.psu.edu/images/charts/)
 - [Charts, graphs and infographics](https://www.ontario.ca/document/ontario-design-guide/charts)
