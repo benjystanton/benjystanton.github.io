@@ -110,7 +110,7 @@ This [game on the Apple app store uses some nice patterns](https://apps.apple.co
 
 - [An introduction to accessible data visualizations with D3.js from Sarah L. Fossheim](https://fossheim.io/writing/posts/accessible-dataviz-d3-intro/)
 - [An intro to designing accessible data visualizations from Sarah L. Fossheim](https://fossheim.io/writing/posts/accessible-dataviz-design/)
-- [Why Accessibility Is at the Heart of Data Visualization from Doug Schepers](https://medium.com/nightingale/accessibility-is-at-the-heart-of-data-visualization-64a38d6c505b)]
+- [Why Accessibility Is at the Heart of Data Visualization from Doug Schepers](https://medium.com/nightingale/accessibility-is-at-the-heart-of-data-visualization-64a38d6c505b)
 - [Making analytical publications accessible](https://gss.civilservice.gov.uk/policy-store/making-analytical-publications-accessible/)
 - [What to consider when visualizing data for colorblind readers from Lisa Charlotte Rost](https://blog.datawrapper.de/colorblindness-part2/)
 - [Charts & Accessibility](http://accessibility.psu.edu/images/charts/)
