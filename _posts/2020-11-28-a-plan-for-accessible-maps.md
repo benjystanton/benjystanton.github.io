@@ -2,6 +2,9 @@
 layout: post
 title: "A plan for accessible maps"
 categories: data accessibility design
+last_modified_at: 7 December 2020
+image: "map-sketch.jpg"
+image-alt: "Black and white drawing of map, made up of a polygon, a map pin and a dotted line"
 ---
 
 <p class="lede">Designing accessible interactive maps is hard. I don’t think I could point to any single thing that I’ve worked on that covers all of the things mentioned here. But, if I was going to start a brand new project, with plenty of time to get things right, this is where I’d start.</p>
@@ -28,7 +31,9 @@ It's useful to remember that maps, no matter how well done, are an exclusive too
 
 - Think of maps as an enhancement to the service your building, the core content and functionality should be available without the map
 - Make sure that any information available via the map is also available via another accessible route (for example, in a nearby bit of text or data table, or in a downloadable spreadsheet)
-- Interactive maps require JavaScript, so making sure information is available outside of the map is compatible with a progressive enhancement approach too
+- Users of geospatial data might need to download the data in GeoJSON or Shapefile format so they can analyse it with GIS (geographic information system) software
+- Interactive maps often require JavaScript, so making sure information is available outside of the map is compatible with a progressive enhancement approach too
+- Aside: [FixMyStreet](https://www.fixmystreet.com/) uses HTML image maps to work even if the JavaScript doesn’t work, thanks to [Matthew Somerville](https://twitter.com/dracos) for pointing this out
 
 ## Keep the map simple
 
@@ -134,12 +139,15 @@ It's also important to do user research (including with people with access needs
 
 ## Further reading
 
+- [Defra map design standards](https://github.com/DEFRA/design-standards/blob/master/Maps.md)
 - [How (not) to make accessible data visualizations, illustrated by the US presidential election by Sarah L. Fossheim](https://fossheim.io/writing/posts/accessible-dataviz-us-elections/)
 - [Maps issue from the GOV.UK design system backlog](https://github.com/alphagov/govuk-design-system-backlog/issues/75)
 - [Design Accessible Maps from Phase](https://phase.com/magazine/design-accessible-maps/)
 - [OS Open Zoomstack styles for colour blind users from Ordnance Survey](https://www.ordnancesurvey.co.uk/blog/2019/12/try-our-new-os-open-zoomstack-styles-for-colour-blind-users/?utm_source=twitter&utm_medium=social&utm_term=&utm_content=&utm_campaign=80b1c9ea-de5b-4e1b-9d13-474ef3a40243)
 - [Accessible digital map experiences: a mountain climb or a walk in the park? from David Sloan](https://developer.paciellogroup.com/blog/2020/04/accessible-digital-map-experiences/)
 - [What's the best way to mark-up an SVG map? by Benjy Stanton](https://www.benjystanton.co.uk/blog/best-way-mark-up-svg-map/)
+- [A plan for accessible charts by Benjy Stanton](https://www.benjystanton.co.uk/blog/a-plan-for-accessible-charts/)
+- [Map Accessibility from Minnesota IT Services](https://mn.gov/mnit/about-mnit/accessibility/maps/)
 
 ## Services with maps
 
@@ -152,6 +160,7 @@ It's also important to do user research (including with people with access needs
 - [UK: New COVID cases in the last week from The Guardian](https://www.theguardian.com/world/2020/oct/13/senior-tory-calls-for-short-sharp-shock-to-curb-covid-surge-bernard-jenkin)
 - [MSOA Names from House of Commons Library](https://visual.parliament.uk/msoanames)
 - [Coronavirus restrictions from House of Commons Library](https://visual.parliament.uk/research/visualisations/coronavirus-restrictions-map/)
+- [FixMyStreet from My Society](https://www.fixmystreet.com/)
 
 ## Map prototyping tools
 
@@ -169,10 +178,13 @@ for maps](https://leafletjs.com/)
 [Cathy Dutton](https://twitter.com/cathy_dutton) and the interaction design team at Defra, [Angharad Stone](https://twitter.com/AngharadStone), [Joe Lanman](https://twitter.com/joelanman), [Simon Everest](https://twitter.com/simoneverest), [John Waterworth](https://twitter.com/jwaterworth), [Rob Chambers](https://twitter.com/robchamberspfc), [Oli Hawkins](https://twitter.com/olihawkins), ONS digital and [Swirrl](https://www.swirrl.com/).
 
 
-<!-- ## To do
-- see my list of Defra issues
-- Add some sketches or screenshots
-- [Interactive maps doc from Defra's design wiki](https://github.com/DEFRA/design/wiki/Interactive-maps) -->
+## Updates on 7 December 2020
+
+1. Added a link to [Map Accessibility from Minnesota IT Services](https://mn.gov/mnit/about-mnit/accessibility/maps/) via [Philip Kiff](https://twitter.com/pkiff)
+2. Added a note about Shapefiles via [Mike Gifford](https://twitter.com/mgifford)
+3. Added a link to [FixMyStreet from My Society](https://www.fixmystreet.com/) and clarification that interactive maps don't always require Javascript via [Matthew Somerville](https://twitter.com/dracos)
+4. Added a link to [Defra map design standards](https://github.com/DEFRA/design-standards/blob/master/Maps.md) via [Cathy Dutton](https://twitter.com/cathy_dutton)
+
 
 
 

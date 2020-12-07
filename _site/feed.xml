@@ -5,8 +5,8 @@
     <description>Hi, my name is Benjy Stanton and I’m an interaction designer.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 06 Dec 2020 10:17:32 +0000</pubDate>
-    <lastBuildDate>Sun, 06 Dec 2020 10:17:32 +0000</lastBuildDate>
+    <pubDate>Mon, 07 Dec 2020 22:30:27 +0000</pubDate>
+    <lastBuildDate>Mon, 07 Dec 2020 22:30:27 +0000</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
     
       <item>
@@ -38,7 +38,9 @@
 &lt;ul&gt;
   &lt;li&gt;Think of maps as an enhancement to the service your building, the core content and functionality should be available without the map&lt;/li&gt;
   &lt;li&gt;Make sure that any information available via the map is also available via another accessible route (for example, in a nearby bit of text or data table, or in a downloadable spreadsheet)&lt;/li&gt;
-  &lt;li&gt;Interactive maps require JavaScript, so making sure information is available outside of the map is compatible with a progressive enhancement approach too&lt;/li&gt;
+  &lt;li&gt;Users of geospatial data might need to download the data in GeoJSON or Shapefile format so they can analyse it with GIS (geographic information system) software&lt;/li&gt;
+  &lt;li&gt;Interactive maps often require JavaScript, so making sure information is available outside of the map is compatible with a progressive enhancement approach too&lt;/li&gt;
+  &lt;li&gt;Aside: &lt;a href=&quot;https://www.fixmystreet.com/&quot;&gt;FixMyStreet&lt;/a&gt; uses HTML image maps to work even if the JavaScript doesn’t work, thanks to &lt;a href=&quot;https://twitter.com/dracos&quot;&gt;Matthew Somerville&lt;/a&gt; for pointing this out&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;keep-the-map-simple&quot;&gt;Keep the map simple&lt;/h2&gt;
@@ -163,12 +165,15 @@
 &lt;h2 id=&quot;further-reading&quot;&gt;Further reading&lt;/h2&gt;
 
 &lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/DEFRA/design-standards/blob/master/Maps.md&quot;&gt;Defra map design standards&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://fossheim.io/writing/posts/accessible-dataviz-us-elections/&quot;&gt;How (not) to make accessible data visualizations, illustrated by the US presidential election by Sarah L. Fossheim&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/alphagov/govuk-design-system-backlog/issues/75&quot;&gt;Maps issue from the GOV.UK design system backlog&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://phase.com/magazine/design-accessible-maps/&quot;&gt;Design Accessible Maps from Phase&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.ordnancesurvey.co.uk/blog/2019/12/try-our-new-os-open-zoomstack-styles-for-colour-blind-users/?utm_source=twitter&amp;amp;utm_medium=social&amp;amp;utm_term=&amp;amp;utm_content=&amp;amp;utm_campaign=80b1c9ea-de5b-4e1b-9d13-474ef3a40243&quot;&gt;OS Open Zoomstack styles for colour blind users from Ordnance Survey&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://developer.paciellogroup.com/blog/2020/04/accessible-digital-map-experiences/&quot;&gt;Accessible digital map experiences: a mountain climb or a walk in the park? from David Sloan&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.benjystanton.co.uk/blog/best-way-mark-up-svg-map/&quot;&gt;What’s the best way to mark-up an SVG map? by Benjy Stanton&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.benjystanton.co.uk/blog/a-plan-for-accessible-charts/&quot;&gt;A plan for accessible charts by Benjy Stanton&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://mn.gov/mnit/about-mnit/accessibility/maps/&quot;&gt;Map Accessibility from Minnesota IT Services&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;services-with-maps&quot;&gt;Services with maps&lt;/h2&gt;
@@ -183,6 +188,7 @@
   &lt;li&gt;&lt;a href=&quot;https://www.theguardian.com/world/2020/oct/13/senior-tory-calls-for-short-sharp-shock-to-curb-covid-surge-bernard-jenkin&quot;&gt;UK: New COVID cases in the last week from The Guardian&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://visual.parliament.uk/msoanames&quot;&gt;MSOA Names from House of Commons Library&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://visual.parliament.uk/research/visualisations/coronavirus-restrictions-map/&quot;&gt;Coronavirus restrictions from House of Commons Library&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.fixmystreet.com/&quot;&gt;FixMyStreet from My Society&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;map-prototyping-tools&quot;&gt;Map prototyping tools&lt;/h2&gt;
@@ -202,10 +208,14 @@ for maps&lt;/a&gt;&lt;/li&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/cathy_dutton&quot;&gt;Cathy Dutton&lt;/a&gt; and the interaction design team at Defra, &lt;a href=&quot;https://twitter.com/AngharadStone&quot;&gt;Angharad Stone&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/joelanman&quot;&gt;Joe Lanman&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/simoneverest&quot;&gt;Simon Everest&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/jwaterworth&quot;&gt;John Waterworth&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/robchamberspfc&quot;&gt;Rob Chambers&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/olihawkins&quot;&gt;Oli Hawkins&lt;/a&gt;, ONS digital and &lt;a href=&quot;https://www.swirrl.com/&quot;&gt;Swirrl&lt;/a&gt;.&lt;/p&gt;
 
-&lt;!-- ## To do
-- see my list of Defra issues
-- Add some sketches or screenshots
-- [Interactive maps doc from Defra's design wiki](https://github.com/DEFRA/design/wiki/Interactive-maps) --&gt;
+&lt;h2 id=&quot;updates-on-7-december-2020&quot;&gt;Updates on 7 December 2020&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Added a link to &lt;a href=&quot;https://mn.gov/mnit/about-mnit/accessibility/maps/&quot;&gt;Map Accessibility from Minnesota IT Services&lt;/a&gt; via &lt;a href=&quot;https://twitter.com/pkiff&quot;&gt;Philip Kiff&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Added a note about Shapefiles via &lt;a href=&quot;https://twitter.com/mgifford&quot;&gt;Mike Gifford&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Added a link to &lt;a href=&quot;https://www.fixmystreet.com/&quot;&gt;FixMyStreet from My Society&lt;/a&gt; and clarification that interactive maps don’t always require Javascript via &lt;a href=&quot;https://twitter.com/dracos&quot;&gt;Matthew Somerville&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Added a link to &lt;a href=&quot;https://github.com/DEFRA/design-standards/blob/master/Maps.md&quot;&gt;Defra map design standards&lt;/a&gt; via &lt;a href=&quot;https://twitter.com/cathy_dutton&quot;&gt;Cathy Dutton&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
 
 </description>
         <pubDate>Sat, 28 Nov 2020 00:00:00 +0000</pubDate>
