@@ -3,7 +3,7 @@ layout: post
 title: A plan for accessible charts
 categories: accessibility data svg
 excerpt: A list of user research findings, accessibility report findings, best practice, resources and good ideas that I’ve collected over the past 2 years.
-last_modified_at: 6 December 2020
+last_modified_at: 12 December 2020
 image: "a11y-chart.jpg"
 image-alt: "Sketch of the word A11y on grid paper boxed in by x and y axis lines"
 ---
@@ -105,6 +105,7 @@ This [game on the Apple app store uses some nice patterns](https://apps.apple.co
 - Use `figure` element to wrap the chart
 - Use `figcaption` for the chart title
 - Use `footer` inside the `figure` element to contain any notes or citation information
+- Read [Alt vs Figcaption by Elaina Natario](https://thoughtbot.com/blog/alt-vs-figcaption)
 
 ## Other resources
 
