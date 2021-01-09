@@ -26,7 +26,7 @@ After a little while digging around the [BackstopJS README](https://github.com/g
 	- 900px
 	- 1400px
 - Populate the [list of pages to test](https://www.benjystanton.co.uk/blog/create-a-list-of-sample-pages-for-testing/), each page needs the new preview URL and the current/old reference URL to test against
-- Create the reference images against `$ backstop reference` (this bit took a while to find as it's buried in the README, but it's an important first step before you can go any further
+- Create the reference images against `$ backstop reference` (this bit took a while to find as it's buried in the README, but it's an important first step before you can go any further)
 - Run the test `$ backstop test`
 - This command will generate a test report in HTML which you can open in a browser to compare the images
 
