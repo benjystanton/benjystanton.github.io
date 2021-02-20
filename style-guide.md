@@ -7,7 +7,7 @@ excerpt: Notes about my site's build, typography, colours and components.
 
 ## Build
 
-This blog is built with [Jekyll](https://jekyllrb.com/) and hosted with [GitHub Pages](https://pages.github.com/). Jekyll uses the [Liquid templating language](https://shopify.github.io/liquid/).
+This blog is built with [Jekyll](https://jekyllrb.com/) and hosted with Netlify. Jekyll uses the [Liquid templating language](https://shopify.github.io/liquid/).
 
 Here's a [link to the repo](https://github.com/benjystanton/benjystanton.github.io).
 
