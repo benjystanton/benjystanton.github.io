@@ -2,7 +2,7 @@
 
 My personal site.
 
-Built with Jekyll and hosted with GitHub pages.
+Built with Jekyll and hosted with Netlify.
 
 [Check out the style guide for details](https://www.benjystanton.co.uk/style-guide/).
 
