@@ -1,0 +1,20 @@
+---
+layout: layouts/page
+title: Blog
+permalink: /blog/
+excerpt: A list of my blog posts about design, user experience and accessibility.
+---
+
+  <p class="margin-bottom--m margin-top--m"><a href="category">View all categories</a></p>
+
+  <ul class="post-list margin-top--s">
+    {% for post in site.posts %}
+      <li>
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+        <small>{{ post.date | date: "%e %B %Y" }}</small>
+
+      </li>
+    {% endfor %}
+  </ul>

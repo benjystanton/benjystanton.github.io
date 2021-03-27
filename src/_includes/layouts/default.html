@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+{% include partials/head.html %}
+
+<body>
+  {% include partials/header.html %}
+  <main>
+    <div class="page-content" id="content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </div>
+  </main>
+
+  {%- if page.footer != false %}
+  {% include partials/footer.html %}
+  {% endif %}
+
+</body>
+
+</html>
