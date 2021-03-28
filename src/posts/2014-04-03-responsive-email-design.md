@@ -1,6 +1,6 @@
 ---
 layout: layouts/post 
-permalink: "blog/{{ title | slug }}/"
+permalink: "blog/{{ title | slug | url_encode }}/"
 title: Responsive email design
 date: 2014-04-03 12:26:27
 categories: design email

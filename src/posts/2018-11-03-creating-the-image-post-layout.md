@@ -40,7 +40,7 @@ Here's a simplified version of the template mark-up;
 ```
 <article role="article">
   <figure>
-    <img src="{{ site.url }}/assets/{{ page.image }}" alt="{{ page.image-alt }}" />
+    <img src="/images/{{ page.image }}" alt="{{ page.image-alt }}" />
     <figcaption>
       <h1>{{ page.title }}</h1>
     </figcaption>
@@ -63,7 +63,7 @@ I've also reused the image variables to populate the [Twitter summary card](http
 {% raw %}
 ```
 {% if page.image %}
-<meta name="twitter:image:src" content="{{ site.url }}/assets/{{ page.image }}">
+<meta name="twitter:image:src" content="/images/{{ page.image }}">
 <meta name="twitter:image:alt" content="{{ page.image-alt }}">
 {% endif %}
 ```

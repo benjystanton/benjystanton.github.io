@@ -1,6 +1,6 @@
 ---
 layout: layouts/post 
-permalink: "blog/{{ title | slug }}/"
+permalink: "blog/bbc-newsnight-talks-graphic-design-info-graphics/"
 title: BBC Newsnight talks graphic design and infographics
 date: 2010-08-10 12:46:00
 categories: design

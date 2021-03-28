@@ -17,7 +17,7 @@ Monday was a bank holiday. I needed a day to recover because I went to The Bigge
 
 ### Challenge meeting!
 
-![The very long bulletin page on the right and the new very short page on the left]({{ site.url }}/assets/bulletin-new-and-old.png)
+![The very long bulletin page on the right and the new very short page on the left](/images/bulletin-new-and-old.png)
 
 On Tuesday I had a meeting with [Andy](https://twitter.com/mr_dudders), [Laura](https://twitter.com/lauradee) and [Ian](https://twitter.com/iankent) to review progress on the [bulletin page redesign](http://www.benjystanton.co.uk/dp-prototype-kit/sprint/25/crime-overview/). Andy wrote in his [weeknotes](http://mrdudders.posthaven.com/week-notes-spring-special) that I seemed nervous. I was nervous. It was called a "challenge" meeting. With my boss and my boss's boss. Who wouldn't be nervous? Anyway, it went well I think and the feedback was basically "keep going but make you sure consider a few things". I made lots of notes.
 
@@ -45,7 +45,7 @@ I had zero meetings on Friday (apart from stand-ups). This is rare so I managed 
 
 ### Pattern audit
 
-![Annotated print outs of the ONS website]({{ site.url }}/assets/audit.jpg)
+![Annotated print outs of the ONS website](/images/audit.jpg)
 
 I spent a good hour reviewing a pattern audit that our contract UX (user experience) designer had done. We're looking at all the new pages and components that I've been designing for the ONS website and making sure they are heading in the same direction.
 
@@ -53,7 +53,7 @@ I'm trying to introduce visually simpler components and larger typography, as we
 
 ### 'Find data by location' prototype 2
 
-![A prototype website page showing Bristol city and a map]({{ site.url }}/assets/location-prototype.jpg)
+![A prototype website page showing Bristol city and a map](/images/location-prototype.jpg)
 
 I also spent a few hours working on the 'Find data by location' prototype that I started on the train earlier in the week. After demoing it to the team, we decided that we should add in a map, a link to download some mapping data and flesh out the journey to include multiple areas (for example Manchester) and area types (for example regions or local authorities).
 

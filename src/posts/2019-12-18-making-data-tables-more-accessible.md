@@ -28,7 +28,7 @@ We also worked with accessibility specialists at the [Digital Accessibility Cent
 
 ## Think about structure
 
-![]({{ site.url }}/assets/table-structure.png)
+![](/images/table-structure.png)
 
 - Think about structure, not just the visual layout.
 - Don't split text and headings across cells.

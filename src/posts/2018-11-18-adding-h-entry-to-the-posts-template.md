@@ -29,7 +29,7 @@ tag: NaBloPoMo2018
   <header>
     <h1 class="p-name">{{ page.title }}</h1>
     <p>
-      <img class="u-photo" src="{{ site.url }}/assets/benjy-stanton.jpg" alt="" height="50" width="50"> by
+      <img class="u-photo" src="/images/benjy-stanton.jpg" alt="" height="50" width="50"> by
       <a rel="author" class="p-author h-card" href="{{ site.url }}">Benjy Stanton</a> on
       <a class="dt-published u-url" href="{{ post.url | prepend: site.baseurl }}">{{ page.date | date: "%e %B %Y" }}</a> in
         <a class="p-category" href="/blog/category/nablopomo">nablopomo</a>, <a class="p-category" href="/blog/category/release-notes">release-notes</a>

@@ -172,12 +172,12 @@ Images are full width by default. Don't forget alt text.
 {% raw %}  
 
 ``` 
-![Alt text goes here]({{ site.url }}/assets/image.png)
+![Alt text goes here](/images/image.png)
 ```
 
 {% endraw %}  
 
-![Alt text goes here]({{ site.url }}/assets/make-data-part-of-the-web-landscape.png)
+![Alt text goes here](/images/make-data-part-of-the-web-landscape.png)
 
 ### Images with captions
 

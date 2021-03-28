@@ -8,7 +8,7 @@ image-alt: Stickers that read - make data part of the web
 excerpt: You'll never guess what happened after I joined Office for National Statistics (ONS).
 ---
 
-![Stickers that read - make data part of the web]({{ site.url }}/assets/make-data-part-of-the-web-landscape.png)
+![Stickers that read - make data part of the web](/images/make-data-part-of-the-web-landscape.png)
 
 It's been just over one year since I started at the Office for National Statistics (ONS). It's my first time being a civil servant. First time working for a big organisation. First time being a line-manager.
 

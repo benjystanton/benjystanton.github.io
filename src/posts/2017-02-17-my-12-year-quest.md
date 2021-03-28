@@ -8,7 +8,7 @@ image-alt: Walter and Kermit from The Muppets
 excerpt: There have been a lot of 'I'm leaving government posts' recently. It feels a bit weird because I've been trying for years to get in.
 ---
 
-![Walter and The Muppets]({{ site.url }}/assets/walter-and-muppets.png)
+![Walter and The Muppets](/images/walter-and-muppets.png)
 
 There have been a lot of "I'm leaving government posts" recently.
 

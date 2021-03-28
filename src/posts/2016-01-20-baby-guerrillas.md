@@ -1,12 +1,13 @@
 ---
 layout: layouts/post
+permalink: "blog/{{ title | slug | url_encode }}/"
 title: Baby guerrillas
 categories: ux
 image: baby-playing-mario-square.jpg
 image-alt: A baby pointing to Super Mario on a screen
 ---
 
-![A baby pointing to Super Mario on a screen]({{ site.url }}/assets/baby-playing-mario-wide.jpg)
+![A baby pointing to Super Mario on a screen](/images/baby-playing-mario-wide.jpg)
 
 I love watching my kids playing with technology. Sometimes they struggle, but more often than not, they know exactly what to do. They are only two and four years old, but I’m sure that in a few years they’ll be showing me what to do.
 

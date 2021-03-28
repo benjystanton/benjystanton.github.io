@@ -1,15 +1,14 @@
 ---
-layout: layouts/post 
-title: Reasons&#58; London
+layout: layouts/post
+permalink: "blog/reasonslondon/"
+title: Reasons London
 date: 2015-02-22 21:26:01
 categories: conferences design ux
 ---
 
 This a quick write up of my experience at [Reasons:London][1] this weekend (Friday 20th February).
 
-<!--more-->
-
-The [venue was beautiful][2] and at lunch time we went to [Whitecross Market][3] for some great street food (it’s worth a trip in itself).
+The venue was beautiful and at lunch time we went to [Whitecross Market][3] for some great street food (it’s worth a trip in itself).
 
 We drove from Swansea, so we parked in [Hounslow West NCP][4]. It’s really cheap and easy to drive to, but beware… some of the car park becomes a market on Saturday morning. We found this out the hard way.
 
@@ -45,7 +44,7 @@ James Hall had a rather sobering (but really entertaining) round-up of security 
 
 ## Anna Dahlström
 
-Anna had a really good round-up of thoughts regarding designing for new devices, especially when looking ahead to wearable tech and internet of things things (AKA [STTTTI][13]) like the Apple Watch. She introduced me to the idea of [data rash][14] — a kind of eruption of notifications that is becoming more visible and distracting, the more devices we have.
+Anna had a really good round-up of thoughts regarding designing for new devices, especially when looking ahead to wearable tech and internet of things things like the Apple Watch. She introduced me to the idea of [data rash][14] — a kind of eruption of notifications that is becoming more visible and distracting, the more devices we have.
 
   * [@annadahlstrom][15]
   * [annadahlstrom.com][16]
@@ -72,7 +71,7 @@ Elliot’s talk was a bit of a retrospective of his work, mixed with tips on des
  [5]: https://twitter.com/csswizardry
  [6]: http://csswizardry.com/
  [7]: https://speakerdeck.com/csswizardry/4half-methods-for-theming-in-s-css " 4½ Methods for Theming in (S)CSS"
- [8]: {{ site.url }}/blog/bbc-newsnight-talks-graphic-design-info-graphics/
+ [8]: /blog/bbc-newsnight-talks-graphic-design-info-graphics/
  [9]: https://twitter.com/stefpos
  [10]: http://www.stefanieposavec.co.uk/
  [11]: https://twitter.com/mrrio

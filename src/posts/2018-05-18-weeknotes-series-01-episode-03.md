@@ -21,7 +21,7 @@ The lead user-centred design people met with [Sam](https://twitter.com/SamHallWa
 
 ### Stickers!
 
-![sticker that reads: we design for everyone]({{ site.url }}/assets/coop-sticker.jpg)
+![sticker that reads: we design for everyone](/images/coop-sticker.jpg)
 
 [Andy](https://twitter.com/mr_dudders) brought back [co-op design principle](http://coop-design-manual.herokuapp.com/principles.html) stickers from his conference in Manchester.
 
@@ -85,7 +85,7 @@ This is in addition to the regular demo slots we have after morning stand-up and
 
 ### Card sorting with the publishing team
 
-![index cards randomly arranged on a table, ready to be sorted]({{ site.url }}/assets/card-sorting.jpg)
+![index cards randomly arranged on a table, ready to be sorted](/images/card-sorting.jpg)
 
 We did a card-sorting exercise to help us figure out how to:
 
@@ -95,7 +95,7 @@ We did a card-sorting exercise to help us figure out how to:
 
 ### London
 
-![a pizza with an egg and spinach topping]({{ site.url }}/assets/pizza-union.jpg)
+![a pizza with an egg and spinach topping](/images/pizza-union.jpg)
 
 After work I went straight to Newport station and caught the train to London ready for my training on Friday. Went for a lovely dinner in Pizza Union thanks to [Tom](https://twitter.com/tomten2two)'s recommendation.
 
@@ -103,7 +103,7 @@ After work I went straight to Newport station and caught the train to London rea
 
 ### Service design training
 
-![service design is end-to-end, front-to-back and cross-channel]({{ site.url }}/assets/service-design.jpg)
+![service design is end-to-end, front-to-back and cross-channel](/images/service-design.jpg)
 
 I was in London for my 'intro to [service design](https://gds.blog.gov.uk/2016/04/18/what-we-mean-by-service-design/) training' at GDS with [Clara](https://twitter.com/claragt) and [Martin](https://twitter.com/Martin_Jordan). It was really, really good.
 

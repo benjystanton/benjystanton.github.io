@@ -1,25 +1,24 @@
 ---
-layout: layouts/post 
+layout: layouts/post
+permalink: "blog/{{ title | slug | url_encode }}/"
 title: Swansea design meet-up
 date: 2014-11-25 9:16:32
 categories: design meetup
 ---
 
-I’m planning a [design meet-up in Swansea][1]. This is a timeline of my notes (expect them to change a lot).
-
-<!--more-->
+I’m planning a design meet-up in Swansea. This is a timeline of my notes (expect them to change a lot).
 
 ## 10th February 2015
 
   * Booked 2 speakers for the first event (Tim Morgan and Paul Pod)
   * Got TechHub Swansea onboard as the second sponsors
   * Using Get Invited for ticketing
-  * Working on v2 of [designswansea.org.uk][1] (Check there for updates from now on)
+  * Working on v2 of the website
   * Created information for potential sponsors
 
 ## 26th January 2015
 
-  * Launched a basic holding page [designswansea.org.uk][1]
+  * Launched a basic holding page
   * Create a [subscribe form for our email newsletter][2]
 
 ## 21st January 2015
@@ -38,7 +37,7 @@ I’m planning a [design meet-up in Swansea][1]. This is a timeline of my note
 
 ## 11th December 2014
 
-  * Went to [Design Stuff Cardiff][6] to check it out and have a chat with the organisers.
+  * Went to Design Stuff Cardiff to check it out and have a chat with the organisers.
 
 ## 5th December 2014
 
@@ -47,7 +46,7 @@ I’m planning a [design meet-up in Swansea][1]. This is a timeline of my note
 
 ## 1st December 2014
 
-  * Published the survey [surveymonkey.com/s/33YMVFK][7]
+  * Published a survey
 
 ## 26th November 2014
 
@@ -60,7 +59,7 @@ I’m planning a [design meet-up in Swansea][1]. This is a timeline of my note
 ## 24th November 2014
 
   * Announced the [idea on Twitter][8] (I have to do it now)
-  * Went to the [Swansea Software Development Meet-up][9] to chat about it with Viv, Paul and Nic
+  * Went to the Swansea Software Development Meet-up to chat about it with Viv, Paul and Nic
 
  [1]: http://designswansea.org.uk/ "Design Swansea website"
  [2]: https://confirmsubscription.com/h/t/CF92D10C90D42536 "Email newsletter subscribe form"

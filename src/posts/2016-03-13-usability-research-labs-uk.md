@@ -1,5 +1,6 @@
 ---
-layout: layouts/post   
+layout: layouts/post
+permalink: "blog/usability-research-labs-uk/"
 title: Usability research labs in the UK  
 date: 2016-03-13 20:34:00  
 categories: ux research
@@ -7,8 +8,6 @@ categories: ux research
 ---
 
 I’ve started a list of research labs in the UK. These locations are great for running usability tests. Perfect if you’re a UX designer or researcher.
-
-<!--more-->
 
 This list is hosted on GitHub, so please get stuck in and make some improvements if you can…
 

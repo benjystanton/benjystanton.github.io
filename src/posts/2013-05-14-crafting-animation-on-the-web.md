@@ -1,6 +1,6 @@
 ---
 layout: layouts/post
-permalink: "blog/{{ title | slug }}/"
+permalink: "blog/{{ title | slug | url_encode }}/"
 title: Crafting animation on the web
 date: 2013-05-14 00:53:00
 categories: design animation conferences speaking

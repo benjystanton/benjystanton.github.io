@@ -9,7 +9,7 @@ crosspost_to_medium: true
 
 ---
 
-![2 girls standing together, looking down at the beach on a sunny day]({{ site.url }}/assets/sisters-beach.jpg)
+![2 girls standing together, looking down at the beach on a sunny day](/images/sisters-beach.jpg)
 
 <p class="lede">It was the super hot bank holiday weekend – so I was down the beach with the family, along with most of the country. Related: <a href="https://twitter.com/awen_j/status/994220526171312128">Awen</a> noticed that Saturday 5th May had the lowest number of sessions on the ONS website since Boxing Day 2017.</p>
 

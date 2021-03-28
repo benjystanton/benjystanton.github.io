@@ -1,6 +1,6 @@
 ---
 layout: layouts/post
-permalink: "blog/{{ title | slug }}/"
+permalink: "blog/{{ title | slug | url_encode }}/"
 title: Who inspired me
 date: 2014-10-08 13:09:08
 categories: personal

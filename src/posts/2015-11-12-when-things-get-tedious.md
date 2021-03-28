@@ -1,5 +1,6 @@
 ---
-layout: layouts/post 
+layout: layouts/post
+permalink: "blog/{{ title | slug | url_encode }}/"
 title: When things get tedious
 date: 2015-11-12 14:20:00
 categories: design tools
@@ -8,8 +9,6 @@ categories: design tools
 There is an on-going debate around whether or not designers should know how to code.
 
 My feeling is that we should know enough to be able to tweak things in DevTools and create simple prototypes in HTML, but that we shouldn’t worry about writing production ready stuff.
-
-<!--more-->
 
 ## Design tools are for sketching
 

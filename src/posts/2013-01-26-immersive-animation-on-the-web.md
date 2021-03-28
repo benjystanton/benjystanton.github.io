@@ -1,6 +1,6 @@
 ---
 layout: layouts/post 
-permalink: "blog/{{ title | slug }}/"
+permalink: "blog/{{ title | slug | url_encode }}/"
 title: Immersive animation on the web
 date: 2013-01-26 22:27:00
 categories: design animation

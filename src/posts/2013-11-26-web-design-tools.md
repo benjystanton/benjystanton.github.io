@@ -1,6 +1,6 @@
 ---
 layout: layouts/post
-permalink: "blog/{{ title | slug }}/"
+permalink: "blog/{{ title | slug | url_encode }}/"
 title: Web design tools
 date: 2013-11-26 10:31:25
 categories: design tools

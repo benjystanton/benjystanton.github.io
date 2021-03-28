@@ -1,23 +1,20 @@
 ---
-layout: layouts/post 
+layout: layouts/post
+permalink: "blog/whats-the-best-way-to-learn-ux/"
 title: What’s the best way to learn UX?
 date: 2015-03-28 20:06:06
 categories: design ux
 ---
 
-A friend of mine asked for ideas on learning&nbsp;UX , so [I turned to Twitter][1] and got a couple of really great responses.
-
-<!--more-->
+A friend of mine asked for ideas on learning UX, so [I turned to Twitter][1] and got a couple of really great responses.
 
 As Leisa Reichelt hinted at on Twitter; UX is a broad term and it can mean slightly different things to different people (usability, wireframes, user research, interaction design, HCI etc). Nevertheless, these resources should help you if you are just starting out (or even if you’re not)…
 
 ## Leisa Reichelt
 
-[Leisa][2] <s>is</s> was the Head of User Research at [GOV.UK][3] at the time, and she gave me a huge list of resources to look at…
+[Leisa][2] <s>is</s> was the Head of User Research at [GOV.UK][3] at the time, and she gave me a list of resources to look at…
 
   * [So, you’re going to be a user researcher: top tips to get you going][4]
-  * [Books that we recommend][5]
-  * [Training and education for User Research][6]
 
 ## Andy Budd
 

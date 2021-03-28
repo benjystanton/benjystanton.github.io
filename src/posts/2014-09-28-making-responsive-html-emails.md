@@ -1,6 +1,6 @@
 ---
 layout: layouts/post
-permalink: "blog/{{ title | slug }}/"
+permalink: "blog/{{ title | slug | url_encode }}/"
 title: Making responsive HTML emails
 date: 2014-09-28 20:04:40
 categories: design email

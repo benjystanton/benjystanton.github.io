@@ -9,7 +9,7 @@ title: A single word that makes the tricky task of changing nappies so much easi
 ---
 
 <figure class="margin-bottom--xs">
-  <img src="{{ site.url }}/assets/{{ page.image }}" alt="{{ page.image-alt }}" />
+  <img src="/images/{{ page.image }}" alt="{{ page.image-alt }}" />
   <figcaption class="margin-bottom--0 margin-top--xs">
     <h1 class="heading-large margin-bottom--0">{{ page.title }}</h1>
   </figcaption>

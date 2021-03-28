@@ -10,7 +10,7 @@ Here's my first submission for [Jukesie's](https://twitter.com/jukesie) [sticker
 
 Me and [Andy Dudfield](https://twitter.com/mr_dudders) thought it would be good to turn the principles it a series of stickers and posters. I never quite got round to make a series, but this simple design and message, printed on some rather fetching holographic metallic material was [a hit with open data Twitter](https://twitter.com/benjystanton/status/931869902641786880).
 
-![A sheet of circular make data part of the web stickers printed on holographic metallic material]({{ site.url }}/assets/make-data-part-of-the-web-sticker.jpg)
+![A sheet of circular make data part of the web stickers printed on holographic metallic material](/images/make-data-part-of-the-web-sticker.jpg)
 
 [Get the sticker artwork PDF from GitHub](https://github.com/ONSdigital/design/blob/master/stickers/MakeDataPartOfTheWeb.pdf)
 

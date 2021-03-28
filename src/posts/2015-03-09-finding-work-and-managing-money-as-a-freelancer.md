@@ -1,13 +1,12 @@
 ---
-layout: layouts/post 
+layout: layouts/post
+permalink: "blog/{{ title | slug | url_encode }}/"
 title: Finding work and managing money as a freelancer
 date: 2015-03-09 22:05:22
 categories: conferences design freelance
 ---
 
 I’ve been freelancing this time around for just over a year, but in total, I’ve been self employed for over 4. I think that having been self employed on 2 separate occasions has given me an interesting perspective on what works and what doesn’t. This is a round-up of how I find new work and how I manage the money side of things.
-
-<!--more-->
 
 ## Finding work
 
@@ -63,11 +62,9 @@ Most business accounts tend to have a ‘free banking’ period (around 12 month
 
 FreeAgent is a simple accounting tool that helps you to track your time, send invoices, log expenses and fill out your tax return. I can’t recommend it enough.
 
-Sign up with [my FreeAgent referral link][4] and we’ll both get 10% off.
-
 ### What to charge
 
-I used the handy [UK Freelance Rates Calculator][5] by [Cole Henley][6].
+I used the handy UK Freelance Rates Calculator by [Cole Henley][6].
 
 ### Get business insurance
 

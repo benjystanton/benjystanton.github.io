@@ -1,6 +1,7 @@
 ---
-layout: layouts/post   
-title: Great service (design) at Premier Inn  
+layout: layouts/post
+permalink: "blog/great-service-design-premier-inn/"
+title: Great service design at Premier Inn  
 date: 2016-03-26 20:50:00  
 categories: personal design service-design
 ---

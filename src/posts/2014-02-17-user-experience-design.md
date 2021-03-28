@@ -1,6 +1,6 @@
 ---
 layout: layouts/post
-permalink: "blog/{{ title | slug }}/"
+permalink: "blog/{{ title | slug | url_encode }}/"
 title: User experience design
 date: 2014-02-17 12:08:30
 categories: design ux

@@ -37,13 +37,13 @@ My main focus has been working on the '[publish a dataset](http://www.benjystant
 
 ### Ryan Dunn pops in
 
-![Post its with that say things like GDS, data design principles and user needs]({{ site.url }}/assets/data-design-community-idea.jpg)
+![Post its with that say things like GDS, data design principles and user needs](/images/data-design-community-idea.jpg)
 
 [Ryan from DWP](https://twitter.com/drryandunn) visited on Thursday. At lunch time, he demo'd some of the things he's been working on, like [Churchill](https://dwpdigital.blog.gov.uk/2017/02/24/data-for-people-who-dont-like-data/). And afterwards we had a chat about starting a cross-gov data design community. [Let me know if you're up for joining that](https://twitter.com/benjystanton).
 
 ### Bulletin design workshop
 
-![Our plan for the bulletin workshop]({{ site.url }}/assets/bulletin-workshop-plan.jpg)
+![Our plan for the bulletin workshop](/images/bulletin-workshop-plan.jpg)
 
 We also had an all-day workshop to continue the [bulletin](https://digitalblog.ons.gov.uk/2018/05/17/making-better-bulletins-lets-start-with-what-we-know/) work we'd started in the design sprint a few weeks ago. We wanted to get together and [iterate on the prototype](http://www.benjystanton.co.uk/dp-prototype-kit/sprint/25/crime-overview/), following the first round of user research.
 

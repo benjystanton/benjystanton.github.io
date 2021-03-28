@@ -9,7 +9,7 @@ title: Finally went to Ty Cwrw in Mumbles last night, tried a lovely Tenby Brewi
 ---
 
 <figure class="margin-bottom--xs">
-  <img src="{{ site.url }}/assets/{{ page.image }}" alt="{{ page.image-alt }}" />
+  <img src="/images/{{ page.image }}" alt="{{ page.image-alt }}" />
   <figcaption class="margin-bottom--0 margin-top--xs">
     <h1 class="heading-large margin-bottom--0">{{ page.title }}</h1>
   </figcaption>

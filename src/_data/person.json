@@ -6,7 +6,7 @@
     "worksFor": "Swirrl",
     "homeLocation": "Swansea",
     "email": "mailto:benjystanton@gmail.com",
-    "image": "{{ site.url }}/assets/benjy-stanton.jpg",
+    "image": "/images/benjy-stanton.jpg",
     "url": [
         "{{ site.url }}",
         "https://twitter.com/benjystanton",

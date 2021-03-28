@@ -1,6 +1,6 @@
 ---
 layout: layouts/post 
-permalink: "blog/{{ title | slug }}/"
+permalink: "blog/{{ title | slug | url_encode }}/"
 title: Designing user experience in casinos
 date: 2010-10-18 21:34:00
 categories: design ux

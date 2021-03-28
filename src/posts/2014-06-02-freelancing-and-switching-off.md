@@ -1,6 +1,6 @@
 ---
 layout: layouts/post
-permalink: "blog/{{ title | slug }}/"
+permalink: "blog/{{ title | slug | url_encode }}/"
 title: Freelancing and switching off
 date: 2014-06-02 23:48:20
 categories: freelance remote-working

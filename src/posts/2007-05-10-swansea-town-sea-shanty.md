@@ -1,6 +1,6 @@
 ---
 layout: layouts/post
-permalink: "blog/{{ title | slug }}/"
+permalink: "blog/{{ title | slug | url_encode }}/"
 title: Swansea town sea shanty  
 date: 2007-05-10 18:08:00  
 categories: personal
