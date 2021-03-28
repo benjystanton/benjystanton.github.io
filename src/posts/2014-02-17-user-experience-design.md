@@ -1,13 +1,12 @@
 ---
-layout: layouts/post 
+layout: layouts/post
+permalink: "blog/{{ title | slug }}/"
 title: User experience design
 date: 2014-02-17 12:08:30
 categories: design ux
 ---
 
 For me, good user experience design is fundamental to good web design. You can cram in all the features and functionality you want, but unless the experience has been designed well, the user will look elsewhere.
-
-<!--more-->
 
 Likewise, good aesthetics can only take you so far and if they’ve been used to paint over the cracks it will become obvious pretty quickly.
 

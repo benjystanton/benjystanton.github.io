@@ -1,13 +1,12 @@
 ---
-layout: layouts/post 
+layout: layouts/post
+permalink: "blog/{{ title | slug }}/"
 title: Web design tools
 date: 2013-11-26 10:31:25
 categories: design tools
 ---
 
 Here is a run down of the tools that make up my web design process. Hopefully it goes without saying that scribbling on paper happens a lot too. I use an iMac, iPad and iPhone, so some of the following will be iOS/OSX only.
-
-<!--more-->
 
 ## [iA Writer][1]
 
@@ -40,10 +39,10 @@ At [James Good][8] we use Adobe Illustrator to mock-up our website designs and c
 
 ### Alternatives
 
-  * [Photoshop][9], despite coming under some criticism recently (see [The Post-PSD Era][10] and [Photoshop you are a liar][11]) is receiving some nice updates, such as better text rendering and an asset generation tool.
+  * [Photoshop][9], despite coming under some criticism recently, Photoshop is receiving some nice updates, such as better text rendering and an asset generation tool.
   * [Sketch][12] is fast gaining a reputation as a lightweight and affordable alternative to Adobe’s big fatties, although I haven’t had a chance to really play with it yet.
 
-## [LiveView][13]
+## LiveView
 
 LiveView is a free app that you run on OSX and iOS simultaneously. It mirrors a portion of you Mac’s screen in realtime to your iPhone screen, so you can quickly preview how your design will look. In my experience, seeing a design on your phone feels *completely different* to seeing it mocked up on a desktop computer.
 
@@ -59,9 +58,9 @@ ImageAlpha allows you to create 8bit PNGs with 24bit alpha transparencies. 24bit
 
 I use developer tools to try out HTML and CSS changes on the fly, before feeding back to the developers. It’s perfect for adjusting things like typography and animation, as well as trying out new content in place.
 
-I learnt recently that you should [dock your inspector to the right][17], so you can adjust the width of the viewport quickly when testing responsive designs. (Remember kids: nothing beats testing on real devices.)
+I learnt recently that you should dock your inspector to the right, so you can adjust the width of the viewport quickly when testing responsive designs. (Remember kids: nothing beats testing on real devices.)
 
-It’s also possible to use [Developer Tools on Safari on your iOS device][18] (via a Mac), and it’s pretty simple to setup.
+It’s also possible to use developer Tools on Safari on your iOS device (via a Mac).
 
 ### Alternatives / Extras
 
@@ -80,11 +79,11 @@ I’ve found Trello is a great tool for design checking and bug tracking, and we
 
 Although not strictly part of my web design workflow, these apps help me stay organised and/or up to date with what’s going on in the world.
 
-  * [Mailbox][23]
+  * Mailbox
   * [Fantastical][24]
-  * [Readmill][25]
+  * Readmill
   * [Pocket][26]
-  * [Tweetdeck][27]
+  * Tweetdeck
 
  [1]: http://www.iawriter.com/
  [2]: http://daringfireball.net/projects/markdown/

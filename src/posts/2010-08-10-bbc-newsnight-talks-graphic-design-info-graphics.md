@@ -1,15 +1,14 @@
 ---
 layout: layouts/post 
+permalink: "blog/{{ title | slug }}/"
 title: BBC Newsnight talks graphic design and infographics
-date:   2010-08-10 12:46:00
+date: 2010-08-10 12:46:00
 categories: design
 ---
 
 It was great to watch graphic design being discussed on the telly last night.
 
 The BBC’s Newsnight program hosted a discussion on how politics might adopt better graphic design to help people understand complex or perhaps even boring ideas.
-
-<!--more-->
 
 The case studies in question were David McCandless’s beautiful information graphics and he chatted to host Kirsty Wark alongside veteran graphic designer Neville Brody.
 

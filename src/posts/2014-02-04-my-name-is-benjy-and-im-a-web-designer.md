@@ -1,13 +1,12 @@
 ---
 layout: layouts/post 
+permalink: "blog/my-name-is-benjy-and-im-a-web-designer/"
 title: My name is Benjy and I’m a web designer
 date: 2014-02-04 10:03:02
 categories: design
 ---
 
-These words have been sitting in my ‘finish up and publish’ pile for almost two years and *finally* I’ve been inspired to do just that this week, after listening to [Unfinished Business][1] and then [The Freelance Web][2]. The idea of reclaiming the role of web design has been spoken about on both shows recently and I think they were inspired by [Dan Rubin][3]’s talk at the recent [MK Geek Night All Dayer][4] (although I didn’t attend).
-
-<!--more-->
+These words have been sitting in my ‘finish up and publish’ pile for almost two years and *finally* I’ve been inspired to do just that this week, after listening to [Unfinished Business][1] and then The Freelance Web. The idea of reclaiming the role of web design has been spoken about on both shows recently and I think they were inspired by [Dan Rubin][3]’s talk at the recent MK Geek Night All Dayer (although I didn’t attend).
 
 ## Living A Lie
 
@@ -25,7 +24,7 @@ After a few years at Web Media Works, I fell into freelancing. I felt that offer
 
 Fast forward a few years and I had joined [James Good][7], based in Swansea. 
 
-Late during 2011, James won two tickets to [New Adventures][8] in Nottingham. Knowing my passion for web design, he offered me first dibs on the other ticket. I gratefully accepted, even though the previous year’s conference had completely passed me by. We made our way up to Nottingham (driving part of the way along the tram lines) without knowing what to expect.
+Late during 2011, James won two tickets to New Adventures in Nottingham. Knowing my passion for web design, he offered me first dibs on the other ticket. I gratefully accepted, even though the previous year’s conference had completely passed me by. We made our way up to Nottingham (driving part of the way along the tram lines) without knowing what to expect.
 
 When we arrived, I remember saying to James (only half-jokingly) <q>“these are my people”</q>. They were *designers*, the shaggy haircuts, scruffy trainers and button badges confirmed that much, but they were *web* too. Web designers. People who cared about good typography *and* good semantic HTML *and* good content. Web designers. I felt like I belonged.
 
@@ -37,7 +36,7 @@ This experience refreshed my passion for all things web. And here we are today. 
  [2]: http://www.thefreelanceweb.com/ "The Freelance Web podcast"
  [3]: http://danrubin.is/ "Dan Rubin’s website"
  [4]: http://alldayer.mkgeeknight.co.uk/ "MK Geek Night All Dayer 2014"
- [5]: http://www.zeldman.com/ "Jeffrey Zeldman’s website"
+ [5]: https://www.zeldman.com/ "Jeffrey Zeldman’s website"
  [6]: http://stuffandnonsense.co.uk/ "Andy Clarke’s Stuff & Nonsense"
  [7]: http://www.jamesgood.co.uk/ "James Good"
  [8]: http://2012.newadventuresconf.com/ "New Adventures Conference 2012"

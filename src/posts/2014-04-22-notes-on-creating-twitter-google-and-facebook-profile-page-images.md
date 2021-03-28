@@ -1,15 +1,12 @@
 ---
-layout: layouts/post 
+layout: layouts/post
+permalink: "blog/notes-on-creating-twitter-google-and-facebook-profile-page-images/"
 title: Notes on creating Twitter, Google+ and Facebook profile page images
 date: 2014-04-22 14:09:05
 categories: design
 ---
 
 I&#8217;ve been creating a lot of images for Twitter, Google+ and Facebook profile pages recently. Here are my notes on how to create and upload those images for good results. (Pssst, these things change all the time, so this may be out of date already.)
-
-<!--more-->
-
-Update: this is a great article on the Rackspace blog about creating [one post image that works across social media][1].
 
 ## Twitter
 

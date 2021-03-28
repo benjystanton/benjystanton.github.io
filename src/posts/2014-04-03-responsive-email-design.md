@@ -1,13 +1,12 @@
 ---
 layout: layouts/post 
+permalink: "blog/{{ title | slug }}/"
 title: Responsive email design
 date: 2014-04-03 12:26:27
 categories: design email
 ---
 
 Email design a tricky beast. Patchy support for web standards means that we still need to use tables for layout, and strange bugs in mobile, desktop and web email clients means that we can’t rely on having the same support for CSS that we have come to expect from web browsers.
-
-<!--more-->
 
 Making sure that your email looks good in Outlook is still a huge part of the task at hand. The good news is [mobile email has taken the lead][1], so it is certainly time to start playing with responsive layouts.
 
@@ -47,7 +46,6 @@ It’s important to use a colour palette with enough contrast to make reading ea
 
 ## Further reading
 
-  * [Ink][3]
   * [Campaign Monitor][4]
   * [Litmus][5]
   * [MailChimp][6]

@@ -1,13 +1,12 @@
 ---
-layout: layouts/post 
+layout: layouts/post
+permalink: "blog/{{ title | slug }}/"
 title: Who inspired me
 date: 2014-10-08 13:09:08
 categories: personal
 ---
 
 There are plenty of well known people out there that inspire me, but I thought I’d take this opportunity to thank the two guys who gave me my first break.
-
-<!--more-->
 
 I’d just finished uni and my sister’s boyfriend Tariq was completing his computer science degree. He’d met Anthony on his course and they had decided to form a web design agency. They’d lined up some clients and even worked on a few projects together, but they needed a designer, so after giving me some freelance work (where I was asked to illustrate an astrology board game) they offered me a job.
 

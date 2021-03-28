@@ -1,10 +1,10 @@
 ---
-layout: layouts/post   
+layout: layouts/post
+permalink: "blog/{{ title | slug }}/"
 title: Swansea town sea shanty  
 date: 2007-05-10 18:08:00  
 categories: personal
 ---
-
 
 I have what you might call a passing interest in sea shanties. I’m pretty sure this stems back to spending a lot of holidays in Typhoon Lagoon, a ship-wreck themed water park, part of Disney World in Florida.
 

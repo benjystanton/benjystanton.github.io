@@ -1,13 +1,12 @@
 ---
-layout: layouts/post 
+layout: layouts/post
+permalink: "blog/{{ title | slug }}/"
 title: Freelancing and switching off
 date: 2014-06-02 23:48:20
 categories: freelance remote-working
 ---
 
 Since going freelance last February I’ve found it incredibly difficult to switch off when I’m not “in work” (hence writing this blog post at 11:30 on a Monday night). I work from home now, and even though I have freelanced before, I’m finding it harder this time to a draw a line between work life and family life.
-
-<!--more-->
 
 Hanging out on Twitter and reading blog posts used to be my hobby, and I’d quite happily spend an evening glued to my iPad chatting with friends or catching up with new techniques and tools. But now that I am working for myself that all feels too much like work. I’ve tried ignoring my iDevices *and* I’ve tried letting myself use them as much as I want. Both methods seem to me leave me stressed, and I don’t feel like I’m achieving anything useful in return.
 
@@ -57,7 +56,7 @@ Watching more telly and having a drink are easy solutions, but they probably don
 
 Time to dust off the surfboard I think.
 
-![My lonely surfboard]({{ site.url }}/assets/surfboard.jpg)
+![My lonely surfboard](/images/surfboard.jpg)
 
  [1]: https://twitter.com/benjystanton/status/472389216782262272
  [2]: https://twitter.com/StuRobson
@@ -72,4 +71,3 @@ Time to dust off the surfboard I think.
  [11]: https://twitter.com/Keiron
  [12]: https://twitter.com/aoimedia
  [13]: https://twitter.com/sanjaypoyzer
- [14]: {{ site.url }}/wp-content/uploads/2014/06/8bb1095acda411e1b9a5123138140995_7.jpg

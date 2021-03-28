@@ -1,13 +1,12 @@
 ---
 layout: layouts/post 
-title: Designing user experience in&nbsp;casinos
-date:   2010-10-18 21:34:00
+permalink: "blog/{{ title | slug }}/"
+title: Designing user experience in casinos
+date: 2010-10-18 21:34:00
 categories: design ux
 ---
 
 What can I learn from Las Vegas? Apart from the fact that I’m addicted to cheese burgers and penny slots, I tried to think about how Las Vegas was designed. After all, it's 100% artificial, everything there is man-made.
-
-<!--more-->
 
 ## Getting there
 

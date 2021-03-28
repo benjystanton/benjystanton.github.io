@@ -1,5 +1,6 @@
 ---
-layout: layouts/post   
+layout: layouts/post
+permalink: "blog/{{ title | slug }}/"
 title: Readable, guessable and hackable urls
 date: 2013-11-29 11:41:00  
 categories: design content conferences
@@ -13,13 +14,13 @@ In some cases the url may be the first point of contact between you and the user
 
 ## Examples from HuffDuffer
 
-- ``/new``
-- ``/username``
-- ``/tags/tag``
-- ``/username/tags/tag``
-- ``/username/collective``
-- ``/username/collective/tags/tag``
-- ``/search?q=query``
+- `/new`
+- `/username`
+- `/tags/tag`
+- `/username/tags/tag`
+- `/username/collective`
+- `/username/collective/tags/tag`
+- `/search?q=query`
 
 ## Urls work anywhere
 

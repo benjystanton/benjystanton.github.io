@@ -1,17 +1,14 @@
 ---
-layout: layouts/post 
-title: Crafting animation on the&nbsp;web
+layout: layouts/post
+permalink: "blog/{{ title | slug }}/"
+title: Crafting animation on the web
 date: 2013-05-14 00:53:00
 categories: design animation conferences speaking
 ---
 
 Notes from my talk at Port80 2013, covering animation principles, CSS and workflow plus a link to my infamous Mario Part animation.
 
-<!--more-->
-
   * [My slides on Slideshare][1]
-  * [Sketch notes by @Mearso][2]
-  * [Round up on the Port80 blog][3]
 
 ## About Me
 
@@ -33,21 +30,21 @@ These days I work at James Good. James Good is a Corporate Branding & Communicat
 
 Things are going well, we have 2 offices (one in Swansea and one in London), 10 members of staff and a dog called Bailey (who is our HR and finance manager, so be sure to pay your invoices on time).
 
-My main role as a designer is producing mock-ups for the websites that we create. I like to get involved early on to help plan content, structure and the overall user experience, I&#8217;ll then work closely with the developers to get our sites built. Even though I&#8217;m not a front-end developer, I like to think that I know my way around CSS and I use this skill mainly to annoy the developers at James Good.
+My main role as a designer is producing mock-ups for the websites that we create. I like to get involved early on to help plan content, structure and the overall user experience, I'll then work closely with the developers to get our sites built. Even though I'm not a front-end developer, I like to think that I know my way around CSS and I use this skill mainly to annoy the developers at James Good.
 
 ## Crafting Animation on the Web
 
-So I&#8217;m hear today to talk about &#8216;Crafting Animation on the Web&#8217; and just in case your worried, I&#8217;m not going to be talking about making cartoons or even rotating home page banners. I&#8217;m interested in how animation can support and enhance our designs – how we can use it to improve navigation, registration processes and contact forms, animating between breakpoints and for progressively loading content.
+So I'm hear today to talk about 'Crafting Animation on the Web' and just in case your worried, I'm not going to be talking about making cartoons or even rotating home page banners. I'm interested in how animation can support and enhance our designs – how we can use it to improve navigation, registration processes and contact forms, animating between breakpoints and for progressively loading content.
 
 ### F\***h
 
-So, firstly a little disclaimer&#8230; when I first contacted Joel to propose this talk I promised him that I wouldn&#8217;t mention the F-word. But I&#8217;m afraid, that was a bit of a white lie, I am probably going to mention it a couple times. Flash *was* a big part of animation on the web, but, luckily we all know that it’s days are numbered.
+So, firstly a little disclaimer: when I first contacted Joel to propose this talk I promised him that I wouldn't mention the F-word. But I'm afraid, that was a bit of a white lie, I am probably going to mention it a couple times. Flash *was* a big part of animation on the web, but, luckily we all know that it’s days are numbered.
 
 ### Animation is Immature
 
-Partly due to Flash, animation on the web still feels like a bit of a dirty phrase. It&#8217;s associated with annoying and down-right evil design patterns, like take-over adverts. Saying that, there are plenty of great examples of site&#8217;s out there that use animation really well, but as a community I don&#8217;t think we talk about it enough.
+Partly due to Flash, animation on the web still feels like a bit of a dirty phrase. It's associated with annoying and down-right evil design patterns, like take-over adverts. Saying that, there are plenty of great examples of site's out there that use animation really well, but as a community I don't think we talk about it enough.
 
-As a sub-discipline of web design, animation still quite immature. Even though there are plenty of great articles explaining the technical specs or examples that show off experimental ideas, I don&#8217;t feel there are enough resources out there to help people like us understand why, how and when we should be using animation.
+As a sub-discipline of web design, animation still quite immature. Even though there are plenty of great articles explaining the technical specs or examples that show off experimental ideas, I don't feel there are enough resources out there to help people like us understand why, how and when we should be using animation.
 
 ### Animation as a Design Material
 
@@ -57,23 +54,23 @@ I love this idea, that animation is a design material (like typography or colour
 
 ### Clean *and* Simple
 
-Movement can help keep our interfaces looking clean and simple. We can reveal things with animation, so we don&#8217;t need to show everything all at once. We can also communicate and feedback to users, without having to add extra elements. (e.g. the way that the OSX Lion sign-in form shakes from side to side when the password is wrong. This is just like somebody shaking their head from side-to-side to say no. It&#8217;s less cluttered and probably more universally understood than a bright red &#8216;error&#8217; message box.
+Movement can help keep our interfaces looking clean and simple. We can reveal things with animation, so we don't need to show everything all at once. We can also communicate and feedback to users, without having to add extra elements. (e.g. the way that the OSX Lion sign-in form shakes from side to side when the password is wrong. This is just like somebody shaking their head from side-to-side to say no. It's less cluttered and probably more universally understood than a bright red 'error' message box.
 
 ### The Time is Right
 
-There are a few factors which make me think that the time is right to take animation more seriously. With relatively recent advances in web design like responsive design, mobile first design and touch interfaces, there are new patterns emerging on the web and many of them include movement. We&#8217;ve also got native apps which are raising the bar on what user&#8217;s expect from their devices. And lastly we have CSS animation, which is gaining support and allowing us to do more without javascript. A major benefit of CSS animation is that it can take advantage of hardware acceleration.
+There are a few factors which make me think that the time is right to take animation more seriously. With relatively recent advances in web design like responsive design, mobile first design and touch interfaces, there are new patterns emerging on the web and many of them include movement. We've also got native apps which are raising the bar on what user's expect from their devices. And lastly we have CSS animation, which is gaining support and allowing us to do more without javascript. A major benefit of CSS animation is that it can take advantage of hardware acceleration.
 
 ## Animation Principles
 
-I&#8217;m going to run through some important animation principles and also a brief history of the medium.
+I'm going to run through some important animation principles and also a brief history of the medium.
 
-According to Wikipedia, the definition of animation is&#8230;
+According to Wikipedia, the definition of animation is:
 
-> &#8220;Animation is the rapid display of a sequence of images to create an illusion of movement.&#8221;
+> 'Animation is the rapid display of a sequence of images to create an illusion of movement.'
 
-The origin of the word has a deeper meaning though, and it means to bestow life. And that&#8217;s what animation is all about really: bringing inanimate things to life. I think anything that we can do to make our stuff seem more alive, more human is definitely worth our effort.
+The origin of the word has a deeper meaning though, and it means to bestow life. And that's what animation is all about really: bringing inanimate things to life. I think anything that we can do to make our stuff seem more alive, more human is definitely worth our effort.
 
-> &#8220;&#8230;a bestowing of life.&#8221;
+> ':a bestowing of life.'
 
 Human beings have been have long been trying to convey motion in their artwork. To bring them to life and to tell a story. Some cave paintings are known to depict animals with  multiple legs, giving them the feeling of movement. Ancient Egyptians and Greeks decorated pots and temples with figures in various states of movement.
 
@@ -89,7 +86,7 @@ Timing and spacing in animation is incredibly important. Movement should have a 
 
 ### Easing
 
-In &#8216;real life&#8217; spacing is rarely is uniform, so in order to express believable movement we need to speed things up and slow them down.
+In 'real life' spacing is rarely is uniform, so in order to express believable movement we need to speed things up and slow them down.
 
 ### Ease Out
 
@@ -103,11 +100,11 @@ Even though these ideas are just the basics, it’s worth getting your head arou
 
 ### Anticipation and Reaction
 
-Anticipation is another important part of animation. If the movement is going to the right, then we can start off by moving to the left slightly. For example if Bugs Bunny is about to do a runner, his body will ‘coil up’ (in the opposite direction to his imminent escape). It gives the audience an idea of what&#8217;s coming next. It it also creates contrast between the stages of the movement for greater impact.
+Anticipation is another important part of animation. If the movement is going to the right, then we can start off by moving to the left slightly. For example if Bugs Bunny is about to do a runner, his body will ‘coil up’ (in the opposite direction to his imminent escape). It gives the audience an idea of what's coming next. It it also creates contrast between the stages of the movement for greater impact.
 
 Reactions are the like the follow through from anticipation. When Bugs Bunny runs away, perhaps he leaves a puff of smoke or some dust. This kind of visual gag is used in cartoons all the time for comedic effect, but it’s basically a natural form of movement. If I jump up, I need to bend my knees first and crouch down. I move down before moving up.
 
-There&#8217;s a great little quote in one of my animation books and apparently it&#8217;s from Charlie Chaplin…
+There's a great little quote in one of my animation books and apparently it's from Charlie Chaplin…
 
   1. Tell them what you’re going to do.
   2. Do it.
@@ -115,7 +112,7 @@ There&#8217;s a great little quote in one of my animation books and apparently i
 
 ### Testing
 
-Test, preview, iterate. It&#8217;s a familiar mantra for web designers and it&#8217;s the same for animators. I find when I&#8217;m animating that I&#8217;ll keep watching the same half-second clip over and over again tweaking and refining until it just feels right. It&#8217;s pretty difficult to get an animation right first time.
+Test, preview, iterate. It's a familiar mantra for web designers and it's the same for animators. I find when I'm animating that I'll keep watching the same half-second clip over and over again tweaking and refining until it just feels right. It's pretty difficult to get an animation right first time.
 
 ### Animade Lernz
 
@@ -133,13 +130,15 @@ CSS Animations are made up of 2 main parts; the @Keyframe Rule and the Animation
 
 ### @Keyframes Rule
 
-The @Keyframe Rule is basically a list a frames that show what properties that you want to animate and in what order. I don&#8217;t recommend that you try the following example out by the way, it will not look pretty.
+The @Keyframe Rule is basically a list a frames that show what properties that you want to animate and in what order. I don't recommend that you try the following example out by the way, it will not look pretty.
 
+```
 0%   {color: crimson;}  
 25%  {color: sandybrown;}  
 50%  {color: gold;}  
 75%  {color: lawngreen;}  
 100% {color: steelblue;}
+```
 
 ### Animation Property
 
@@ -154,9 +153,9 @@ direction:
 
 ### timing-function:
 
-I think timing-function is the really important one here. This feature is more commonly referred to as easing, and it&#8217;s a really important property that can have a massive effect the feel of your animation, so I urge you to take some time here. Although you can use some pre-defined types of easing, I prefer to create my own using the mysterious cubic-bézier function.
+I think timing-function is the really important one here. This feature is more commonly referred to as easing, and it's a really important property that can have a massive effect the feel of your animation, so I urge you to take some time here. Although you can use some pre-defined types of easing, I prefer to create my own using the mysterious cubic-bézier function.
 
-Luckily, there are some really great tools on the web that we can use to draw cubic-bézier curves and then preview how they move. You don&#8217;t need to be good at drawing, maths or French to have a go either. Just have a play, then when you are happy, grab the values it gives you and stick them into your CSS.
+Luckily, there are some really great tools on the web that we can use to draw cubic-bézier curves and then preview how they move. You don't need to be good at drawing, maths or French to have a go either. Just have a play, then when you are happy, grab the values it gives you and stick them into your CSS.
 
   * [matthewlein.com/ceaser/][9]
   * [cubic-bezier.com][10]
@@ -182,13 +181,13 @@ Minimal Monkey is one of my favourite sites at the moment. It’s a personal blo
 
 ## Workflow
 
-If you&#8217;re anything like me, animation is probably something that gets left until the last moments of project. Perhaps by then it’s too late to add anything but light touches and small improvements. But to use animation in a really meaningful way, I think it needs to be thought about and planned early on in the design process.
+If you're anything like me, animation is probably something that gets left until the last moments of project. Perhaps by then it’s too late to add anything but light touches and small improvements. But to use animation in a really meaningful way, I think it needs to be thought about and planned early on in the design process.
 
 ### Animation Identity
 
 When you are planning out a project, give it an animation identity. Write down a list of words that reflect the brand or personality of your project, e.g. quick, happy, vintage, gamey, professional. Perhaps you could even gather a ‘mood board’ of clips that have right feel to their animation. These words and clips will help to inform the way in which your site moves. You may be doing something similar for other areas of the identity, such as copy, look & feel, photography etc so why not do it to describe animation too?
 
-In Dan Cederholm&#8217;s book CSS3 For Web Designers, he describes transitions (and animations) as &#8216;butter&#8217; that can be used to smooth out the interactions in our site. This is a great idea, but I&#8217;d like to add to this by saying that we don&#8217;t always want things to move like butter, sometimes we want movement to be fluid like water, sticky like marmite, lumpy like porridge, or poppy like Rice Krispies. The breakfast-themed comparisons are potentially endless, but you get the idea: too many buttery animations have the same effect as too many rounded corners.
+In Dan Cederholm's book CSS3 For Web Designers, he describes transitions (and animations) as 'butter' that can be used to smooth out the interactions in our site. This is a great idea, but I'd like to add to this by saying that we don't always want things to move like butter, sometimes we want movement to be fluid like water, sticky like marmite, lumpy like porridge, or poppy like Rice Krispies. The breakfast-themed comparisons are potentially endless, but you get the idea: too many buttery animations have the same effect as too many rounded corners.
 
 ### Notes
 
@@ -200,7 +199,7 @@ Annotation of your designs to describe desired movement is always a good idea. I
   * Should there be a delay before it starts?
   * How many times should it repeat?
 
-Don&#8217;t worry, you won&#8217;t think of everything, and it will almost certainly need to be tweaked in the browser.
+Don't worry, you won't think of everything, and it will almost certainly need to be tweaked in the browser.
 
 ### Show and Tell
 
@@ -230,11 +229,11 @@ I guess the jury is still out on Edge Animate. It’s kind of Flash reborn isn�
 
 ### After Effects
 
-Dan Mall has said that he uses Adobe After Effects to &#8216;mock-up&#8217; his animations. So that he can can get the timing and feeling right, before handing them over to a developer.
+Dan Mall has said that he uses Adobe After Effects to 'mock-up' his animations. So that he can can get the timing and feeling right, before handing them over to a developer.
 
-Although After Effects is a pretty expensive bit of kit by itself, these days Adobe&#8217;s pricing structure is so that if you need 2 or 3 of their programs for 12 months, you may as well buy them all.
+Although After Effects is a pretty expensive bit of kit by itself, these days Adobe's pricing structure is so that if you need 2 or 3 of their programs for 12 months, you may as well buy them all.
 
-So if any of you have access to After Effects, I recommend you give it a try. It&#8217;s kind of like Illustrator with a time line, and if you&#8217;re at all familiar with Flash you&#8217;ll probably feel right at home.
+So if any of you have access to After Effects, I recommend you give it a try. It's kind of like Illustrator with a time line, and if you're at all familiar with Flash you'll probably feel right at home.
 
 ### The Dream App
 
@@ -245,7 +244,7 @@ So what would the The Dream app be like? When working on the web, we’re used t
   * Think of animation as a design material, not a piece of content.
   * Use it to communicate more, without adding clutter to your designs.
   * Use animation to give each project a unique personality.
-  * Animation is distracting, be mindful of people&#8217;s attention.
+  * Animation is distracting, be mindful of people's attention.
 
 <div id="further-reading">
   <h2>
@@ -253,40 +252,28 @@ So what would the The Dream app be like? When working on the web, we’re used t
   </h2>
 
   <p>
-    If you&#8217;d like to learn a bit more from some designers who know a lot more than me, I recommend the following articles (and book).
+    If you'd like to learn a bit more from some designers who know a lot more than me, I recommend the following articles (and book).
   </p>
-
-  <p>
-    <a title="CSS: Animations with Val Head" href="http://www.lynda.com/CSS-tutorials/CSS-Animations/115434-2.html">Lynda Tutorial on CSS Animations by Val Head</a>
-  </p>
-
-  <p>
-    <a title="Five Simple Steps" href="http://www.fivesimplesteps.com/products/css-animations">A Pocket Guide to CSS Animations by Val Head</a>
-  </p>
-
-  <p>
+<ul>
+  <li>
     <a title="Transitional Interfaces (on Medium)" href="https://medium.com/design-ux/926eb80d64e3">Transitional Interfaces by Pasquale D’Silva</a>
-  </p>
+  </li>
 
-  <p>
-    <a title="A New Mobile UX Design Material (on Smashing Magazine)" href="http://uxdesign.smashingmagazine.com/2012/10/30/motion-animation-new-mobile-ux-design-material/">A New Mobile UX Design Material by Rachel Hinman</a>
-  </p>
-
-  <p>
+  <li>
     <a title="Flashless Animation (on 24 Ways)" href="http://24ways.org/2012/flashless-animation/">Flashless Animation by Rachel Nabors</a>
-  </p>
+  </li>
 
-  <p>
+  <li>
     <a title="Better Navigation Through Proprioception (on A List Apart)" href="http://alistapart.com/column/better-navigation-through-proprioception">Better Navigation Through Proprioception by Cennydd Bowles</a>
-  </p>
+  </li>
 
-  <p>
-    <a title="The Animator's Survival Kit (on Wikipedia)" href="http://en.wikipedia.org/wiki/The_Animator's_Survival_Kit">The Animator&#8217;s Survival Kit by Richard Williams</a>
-  </p>
+  <li>
+    <a title="The Animator's Survival Kit (on Wikipedia)" href="http://en.wikipedia.org/wiki/The_Animator's_Survival_Kit">The Animator's Survival Kit by Richard Williams</a>
+  </li>
+  </ul>
 </div>
 
  [1]: http://www.slideshare.net/benjystanton/crafting-animation-on-the-web "My slides on Slideshare"
- [2]: http://mearso.com/2013/05/port80-sketchnotes-benjy-stanton/ "Sketch notes by @Mearso"
  [3]: http://port80events.co.uk/port80-2013-round-up/ "Links to all the speaker's slides and the official photos"
  [4]: https://vimeo.com/66002457 "The Nativity (on Vimeo)"
  [5]: {{ site.url }}/blog/animation-as-a-design-material/ "Animation as a Design Material"
