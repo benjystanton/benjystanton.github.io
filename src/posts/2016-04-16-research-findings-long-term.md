@@ -1,5 +1,6 @@
 ---
-layout: layouts/post   
+layout: layouts/post
+permalink: "blog/research-findings-long-term/"
 title: Research findings over the long term  
 date: 2016-04-16 17:57:00  
 categories: research conferences meetup
@@ -18,11 +19,11 @@ My rough and patchy notes from the Cross Government Research meet-up that happen
 - product owners can really relate to the star rating
 - if design fixes don’t meet the user need, this method helps to push issues back to the top of the agenda
 
-<!-- ### Example user story spreadsheet
+### Example user story spreadsheet
 
 | ID | Story | Status | Source | Star Rating |
-|:-|:-|:-|:-|:-|
-| Story number | User story | Fixed or not? | Date & time | ***** | -->
+| -- | -- | -- | -- | -- |
+| Story number | User story | Fixed or not? | Date & time | ***** |
 
 ## [John Waterworth](https://twitter.com/jwaterworth)
 
@@ -69,7 +70,7 @@ My rough and patchy notes from the Cross Government Research meet-up that happen
 - it’s a hub, it doesn’t have to include everything
 - **everything must be shareable**
 
-## [Tara Land](https://www.linkedin.com/in/naintara)
+## Tara Land
 
 ### User needs
 

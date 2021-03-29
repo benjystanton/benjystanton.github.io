@@ -1,5 +1,6 @@
 ---
-layout: layouts/post   
+layout: layouts/post
+permalink: "blog/{{ title | slug | url_encode }}/"
 title: The last ten percent  
 date: 2016-04-17 20:47:00  
 categories: design
