@@ -1,5 +1,6 @@
 ---
-layout: layouts/post   
+layout: layouts/post
+permalink: "blog/my-first-12ish-months/"
 title: My first 12ish months
 date: 2017-11-28 09:39:00  
 categories: ons
@@ -69,7 +70,7 @@ But, I've discovered a grass-roots community of geeks. People who are passionate
 
 Joining Digital Publishing has been the stand-out highlight of my first year. Digital Publishing handles the ONS website and things like social media.
 
-I didn't know when I applied for the job that I would end up here. Luckily it was [Jukesie's](://twitter.com/jukesie) old department. Without realising it, I'd been drawn to ONS because of the way he described the culture when he spoke at meet-ups and conferences.
+I didn't know when I applied for the job that I would end up here. Luckily it was [Jukesie's](https://twitter.com/jukesie) old department. Without realising it, I'd been drawn to ONS because of the way he described the culture when he spoke at meet-ups and conferences.
 
 I count myself lucky to be assigned to this team. They're obsessed with users, telling the truth and working in the open. They are focussed on doing work that matters.
 

@@ -7,7 +7,7 @@ categories: accessibility
 last_modified_at: 21 May 2020
 ---
 
-<p class="lede">A brief checklist for marking-up an accessible search form. Last updated on {{ page.last_modified_at }}.</p>
+<p class="lede">A brief checklist for marking-up an accessible search form. Last updated on {{ last_modified_at }}.</p>
 
 - Add `role="search"` landmark to the `<form>`
 - Associate the `<label>` and `<input>` using `for="…"` and `id="…"`

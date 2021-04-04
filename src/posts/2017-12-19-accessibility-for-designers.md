@@ -1,5 +1,6 @@
 ---
-layout: layouts/post   
+layout: layouts/post
+permalink: "blog/accessibility-for-designers/"
 title: Accessibility for designers
 date: 2017-12-19 23:20:00  
 categories: accessibility design
@@ -14,8 +15,6 @@ A guide to web accessibility best practices for graphic, visual and UI (user int
 Avoid having images of text, especially when it makes up part of the interface. Recreate simple graphical elements (like buttons) using HTML and CSS. Diagrams and charts should be created using SVG.
 
 In some cases, images that contain text are appropriate. For example a photo of a building or a screenshot of an app might contain some text. If the text is important to the meaning of the image, be sure to include it as alt text somewhere.
-
-[The big problem with sharing text in images](https://blog.ghost.org/text-images/)
 
 ### Images should have alternative text
 Alt text is one of those web jobs that falls through the cracks. Whose responsibility is it? Designers? Developers? Content editors? I suggest that you do everyone a favour and write alt text for any image that you create or supply.

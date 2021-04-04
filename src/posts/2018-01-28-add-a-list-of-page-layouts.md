@@ -1,5 +1,6 @@
 ---
-layout: layouts/post  
+layout: layouts/post
+permalink: "blog/add-a-list-of-page-layouts/"
 title: "Add a list of page layouts"
 date: 2018-01-28 08:13:00  
 categories: release-notes
@@ -15,5 +16,5 @@ As a user, I need the website pages to be consistent, so that I can read and bro
 
 ## Acceptance criteria
 
-- Add a [list of different page types](http://www.benjystanton.co.uk/style-guide/#layout-templates) to the style guide
+- Add a list of different page types to the style guide
 - Include a link to an example for each

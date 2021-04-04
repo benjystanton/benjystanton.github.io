@@ -1,19 +1,20 @@
 ---
-layout: layouts/post   
+layout: layouts/post
+permalink: "blog/add-svg-icons/"
 title: Add SVG icons
 categories: release-notes accessibility svg
 image: svg-icon.png
 image-alt: Screenshot of the Twitter bird being edited in a vector drawing application
-last_modified_at: 18 July 2020
+last_modified_at: 4 April 2021
 ---
 
-<p class="lede">Switching from PNGs (Portable Network Graphics) or Icon Fonts, to SVG (Scalable Vector Graphics) icons. Updated on {{ page.last_modified_at }}.</p>
+<p class="lede">Switching from PNGs (Portable Network Graphics) or Icon Fonts, to SVG (Scalable Vector Graphics) icons. Updated on {{ last_modified_at }}.</p>
 
 {%
   include partials/image-with-caption.html
-  image="svg-icon.png"
-  caption="The Twitter icon being edited in Figma"
-  alt-text="Screenshot of the Twitter bird being edited in a vector drawing application"
+  image:"svg-icon.png"
+  caption:"The Twitter icon being edited in Figma"
+  alt-text:"Screenshot of the Twitter bird being edited in a vector drawing application"
 %}
 
 ## SVGs are best for icons
@@ -40,9 +41,9 @@ last_modified_at: 18 July 2020
 
 ## Add `focusable="false"` to SVGs
 
-[Scott O'Hara explains why and when to use focusable=&quot;false&quot;](https://www.scottohara.me/blog/2019/05/22/contextual-images-svgs-and-a11y.html#svgs-that-are-decorative)
+[Scott O'Hara explains why and when to use `focusable="false"`](https://www.scottohara.me/blog/2019/05/22/contextual-images-svgs-and-a11y.html#svgs-that-are-decorative)
 
-> focusable=&quot;false&quot; is also used to ensure Internet Explorer won’t allow the Tab key to navigate into the SVG.
+> `focusable="false"` is also used to ensure Internet Explorer won’t allow the Tab key to navigate into the SVG.
 
 ## Inline SVG performance benefits
 - There is one less http request because we don't need to load an external image file
@@ -51,7 +52,6 @@ last_modified_at: 18 July 2020
 
 ## Related links
 
-- [Making SVG accessible from Léonie Watson](http://decks.tink.uk/2017/lws/index.html)
 - [Using ARIA to enhance SVG accessibility from The Paciello Group](https://developer.paciellogroup.com/blog/2013/12/using-aria-enhance-svg-accessibility/)
 - [Seriously, Don’t Use Icon Fonts from Tyler Sticka](https://cloudfour.com/thinks/seriously-dont-use-icon-fonts/)
 - [Tips for Creating Accessible SVG from SitePoint](https://www.sitepoint.com/tips-accessible-svg/)
@@ -59,6 +59,7 @@ last_modified_at: 18 July 2020
 - [SVG Path Visualizer from Mathieu Dutour](https://svg-path-visualizer.netlify.app/)
 - [SVG Export: Download SVGs from any site with ease](https://svgexport.io/)
 - [Icon accessibility and aria label from Go Make Things](https://gomakethings.com/icon-accessibility-and-aria-label/)
+- [Smashing Newsletter: SVG generators and tools](https://mailchi.mp/smashingmagazine/smashing-newsletter-294-svg-generators-and-tools)
 
 ## What I changed on the blog
 

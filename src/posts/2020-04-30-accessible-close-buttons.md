@@ -7,7 +7,7 @@ image-alt: "Drawing of a × symbol in a box on grid paper"
 last_modified_at: 25 May 2020
 ---
 
-Last updated on {{ page.last_modified_at }}.
+Last updated on {{ last_modified_at }}.
 
 ## How to design accessible close buttons
 

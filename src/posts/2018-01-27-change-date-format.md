@@ -1,5 +1,6 @@
 ---
-layout: layouts/post   
+layout: layouts/post
+permalink: "blog/change-date-format/"
 title: "Change date format"
 date: 2018-01-27 22:16:00  
 categories: release-notes
