@@ -1,5 +1,6 @@
 ---
-layout: layouts/post   
+layout: layouts/post
+permalink: "blog/things-my-little-girls-have-taught-me-about-feminism/"
 title: Things my little girls have taught me about feminism
 date: 2016-08-26 11:12:00  
 categories: speaking personal

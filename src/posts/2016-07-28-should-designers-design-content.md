@@ -1,5 +1,6 @@
 ---
-layout: layouts/post   
+layout: layouts/post
+permalink: "blog/should-designers-design-content/"
 title: Should designers design content?
 date: 2016-07-28 15:07:00  
 categories: content design

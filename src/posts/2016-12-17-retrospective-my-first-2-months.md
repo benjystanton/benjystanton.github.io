@@ -1,5 +1,6 @@
 ---
-layout: layouts/post   
+layout: layouts/post
+permalink: "blog/retrospective-my-first-2-months/"
 title: Retrospective (my first 2 months)
 date: 2016-12-17 13:16:00  
 categories: ux ons

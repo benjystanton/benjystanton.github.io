@@ -1,5 +1,6 @@
 ---
-layout: layouts/post   
+layout: layouts/post
+permalink: "blog/work-with-me-at-office-for-national-statistics-ons/"
 title: Work with me at Office for National Statistics (ONS)
 date: 2016-10-29 01:14:00  
 categories: ons
@@ -7,14 +8,14 @@ image: ons-logomark.png
 image-alt: Office for National Statistics logomark
 ---
 
-I’ve just finished my second week at ONS. You can [read about my first week on the ONS Digital blog](https://blog.ons.digital/2016/10/21/my-first-week/). My second week was spent kicking off a big new project, more about that soon.
+I’ve just finished my second week at ONS. You can [read about my first week on the ONS Digital blog](https://digitalblog.ons.gov.uk/2016/10/21/my-first-week/). My second week was spent kicking off a big new project, more about that soon.
 
 ## We’re hiring designers and researchers
 
-ONS are currently on the look out for [2 user experience (UX) designers](https://www.civilservicejobs.service.gov.uk/csr/jobs.cgi?jcode=1512692) and a few [user researchers](https://www.civilservicejobs.service.gov.uk/csr/jobs.cgi?jcode=1512654). The roles are based in either Newport or Titchfield.
+ONS are currently on the look out for 2 user experience (UX) designers and a few user researchers. The roles are based in either Newport or Titchfield.
 
 ## What do UX designers do?
-The role has different meanings to different people. I really like this [list of UX designer skills]({{ site.url }}/blog/user-experience-ux-designer-skills/).
+The role has different meanings to different people. I really like this [list of UX designer skills](/blog/user-experience-ux-designer-skills/).
 
 I don’t think you need to be an expert in all of those things. But, if you are good at a few (and have an appreciation for why the rest are important) then I think you’ll make a good UX designer.
 
@@ -46,8 +47,3 @@ I have 3 young kids and I commute from Swansea to Newport each day (50 miles eac
 
 ## Apply
 The closing date for applications is Tuesday 15 November 2016. If you have any questions, feel free to [direct message (DM) me on Twitter](https://twitter.com/benjystanton). My DMs are open.
-
-### Links to full job descriptions
-
-- [User experience (UX) designer](https://www.civilservicejobs.service.gov.uk/csr/jobs.cgi?jcode=1512692)
-- [User researcher](https://www.civilservicejobs.service.gov.uk/csr/jobs.cgi?jcode=1512654)

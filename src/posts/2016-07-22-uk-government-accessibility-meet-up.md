@@ -1,5 +1,6 @@
 ---
-layout: layouts/post   
+layout: layouts/post
+permalink: "blog/uk-government-accessibility-meet-up/"
 title: The first UK Government accessibility meet-up
 date: 2016-07-22 18:25:00  
 categories: accessibility design meetup
@@ -64,8 +65,6 @@ Leena Haque works at the BCC and has autism. Her talk was full of brilliant insi
 For Leena, everything is amplified and sometimes she can feel allergic to her environment. Her autism can cause her brain to overload with anxiety. She compared herself to Godzilla. Godzilla was a misunderstood creature not a monster. He just struggled as the environment (downtown Tokyo) didn’t cater to his needs.
 
 Leena finds it easier to communicate with visual metaphors (her slides were full of illustrations and gifs). But, she stressed how important it is to remember that no two autistic people are the same.
-
-Watch [A day in the life…](http://www.bbc.co.uk/diversity/disability/neurodiversityatthebbc#heading-a-day-in-the-life) a film by Leena about coping with autism at work.
 
 ## Further reading
 

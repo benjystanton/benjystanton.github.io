@@ -1,5 +1,6 @@
 ---
-layout: layouts/post   
+layout: layouts/post
+permalink: "blog/my-12-year-quest/"
 title: My 12 year quest to get a public service design job
 date: 2017-02-17 22:38:00  
 categories: ons service-design
@@ -58,7 +59,7 @@ I think often, the easiest way to get into these types of roles is to be contrac
 
 ## Leadin and DVLA
 
-As luck would have it, [Leadin](http://leadin.fi/) (a Finnish service design company) were establishing themselves in the UK with Swansea as their base. They'd won a contract with DVLA and hired me to work with their other UX designers.
+As luck would have it, Leadin (a Finnish service design company) were establishing themselves in the UK with Swansea as their base. They'd won a contract with DVLA and hired me to work with their other UX designers.
 
 For about a year I worked at DVLA as a Leadin employee. With the support of Leadin and Paul Pod, I got to grips with working in government on digital service design.
 

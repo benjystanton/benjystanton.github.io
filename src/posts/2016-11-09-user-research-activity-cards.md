@@ -1,5 +1,6 @@
 ---
-layout: layouts/post   
+layout: layouts/post
+permalink: "blog/user-research-activity-cards/"
 title: User research activity cards
 date: 2016-11-09 19:15:00  
 categories: research

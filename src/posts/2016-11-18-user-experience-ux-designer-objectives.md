@@ -1,5 +1,6 @@
 ---
-layout: layouts/post   
+layout: layouts/post
+permalink: "blog/user-experience-ux-designer-objectives/"
 title: User experience (UX) designer objectives
 date: 2016-11-18 22:22:00  
 categories: ux ons
@@ -23,4 +24,4 @@ Does this look like a UX designer to you?
 
 ### Further reading
 
-You might be interested in this [post about UX designer skills]({{ site.url }}/blog/user-experience-ux-designer-skills/).
+You might be interested in this [post about UX designer skills](/blog/user-experience-ux-designer-skills/).

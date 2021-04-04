@@ -1,5 +1,6 @@
 ---
-layout: layouts/post   
+layout: layouts/post
+permalink: "blog/visual-note-taking-workshop-with-eleanor-beer/"
 title: Visual note-taking  with Eleanor Beer
 date: 2016-08-30 13:23:00  
 categories: meetup
@@ -35,16 +36,13 @@ My notes from the Visual Notetaking Made Easy event on Thursday 11th August at I
 ## Shopping list
 
 ### Pens
-- [Tiger Pens](http://www.tigerpens.co.uk/)
 - [Pen & Paper, Cardiff](https://www.penandpaper.co.uk/)
 
 ### Books
 - [The Sketchnote Handbook](http://rohdesign.com/handbook)
-- [The Back of the Napkin](http://www.danroam.com/the-back-of-the-napkin/)
 - [Sketchnotes](http://www.sketchnotesbook.com/)
 - [A Pocket Guide to Sketchnoting](https://payhip.com/b/uvS3)
 
 ## Follow Eleanor Beer
-- [www.eleanorbeer.com](http://www.eleanorbeer.com/)
 - [Eleanor on Twitter](https://twitter.com/eleanorbeer)
 - [Eleanor on Instagram](https://www.instagram.com/eleanorbeer/)

@@ -1,5 +1,6 @@
 ---
-layout: layouts/post   
+layout: layouts/post
+permalink: "blog/user-experience-ux-designer-skills/"
 title: User experience (UX) designer skills
 date: 2016-08-18 16:06:00  
 categories: ux

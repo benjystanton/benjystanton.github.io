@@ -1,5 +1,6 @@
 ---
-layout: layouts/post   
+layout: layouts/post
+permalink: "blog/creating-a-digital-delivery-culture/"
 title: Creating a digital delivery culture
 date: 2016-10-21 20:50:00  
 categories: design
@@ -9,10 +10,7 @@ image-alt: Creating a digital delivery culture. Work in the open. Share, not sen
 
 I’m a big fan of this [digital delivery culture poster](https://twitter.com/BenHolliday/status/657085783250227200), from [Ben Holliday](https://twitter.com/BenHolliday) and his team at [DWP Digital](https://twitter.com/DWPDigital) (Department for Work and Pensions).
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Digital delivery culture &gt; How we need to work to make this happen. Starting the conversation… / <a href="https://twitter.com/DigitalDWP">@DigitalDWP</a> <a href="https://t.co/SJpxh0RiFj">pic.twitter.com/SJpxh0RiFj</a></p>&mdash; Ben Holliday (@BenHolliday) <a href="https://twitter.com/BenHolliday/status/657085783250227200">October 22, 2015</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-In case you can’t access the tweet, here are the points from the poster:
+Here are the points from the poster:
 
 1. Work in the open
 2. Share, not send
