@@ -8,9 +8,9 @@ image-alt: "Postcard with an illustration of the front of the pub"
 title: Finally went to Ty Cwrw in Mumbles last night, tried a lovely Tenby Brewing x Tiny Rebel ale
 ---
 
-<figure class="margin-bottom--xs">
+<figure>
   <img src="/images/{{ image }}" alt="{{ image-alt }}" />
-  <figcaption class="margin-bottom--0 margin-top--xs">
-    <h1 class="heading-large margin-bottom--0">{{ title }}</h1>
+  <figcaption>
+    <h1>{{ title }}</h1>
   </figcaption>
 </figure>
