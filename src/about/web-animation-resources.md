@@ -1,11 +1,9 @@
 ---
 layout: layouts/page
 title: Web Animation Resources
-permalink: /about/web-animation-resources/
-excerpt: A list of Web Animation Resources  
 ---
 
-A growing collection of resources to help you get started with animation on the web. Last updated on Friday 20th June 2014.
+An old collection of resources about animation on the web. Last reviewed on Monday 5th April 2021.
 
 ## Articles
 
@@ -32,14 +30,6 @@ A perfect primer on animation theory and the various different tools (CSS, SVG, 
 </small>
 
 An introduction to some basic animation principles plus examples on how to improve UX  by using transitions and animations (written in Pasquale’s unique style).
-
-### [A New Mobile UX Design Material][4]
-
-<small>
-  by <a href="https://twitter.com/Hinman">Rachel Hinman</a>
-</small>
-
-A look at the 12 basic principles of animation (as laid out in The Illusion of Life: Disney Animation, by Frank Thomas and Ollie Johnston) and how they can be applied to mobile design.
 
 ### [Make Your Browser Dance][5]
 
@@ -75,14 +65,6 @@ An article from CSS-Tricks about animating SVG lines (y’know, like the ones Vo
 
 ## Books
 
-### [A Pocket Guide to CSS Animations][9]
-
-<small>
-  by <a href="https://twitter.com/vlh">Val Head</a>
-</small>
-
-Part of the Five Simple Steps Pocket Guide series, this little book introduces you to CSS Animations with examples that help explain some of the less obvious concepts that make up the CSS Animation markup.
-
 ### [The Animator’s Survival Kit][10]
 
 <small>
@@ -92,14 +74,6 @@ Part of the Five Simple Steps Pocket Guide series, this little book introduces y
 This ‘manual’, written by the animation director of Who Framed Roger Rabbit, was the best book I ever bought when studying animation at University, and it still comes in handy today. Buy it.
 
 ## Courses
-
-### [CSS: Animations][11]
-
-<small>
-  by <a href="https://twitter.com/vlh">Val Head</a>
-</small>
-
-A introduction to CSS animations from Lynda.com. Goes together perfectly with Val’s Pocket Guide to CSS Animations.
 
 ### [Animation Story Telling with HTML5 and CSS3][12]
 
@@ -169,22 +143,6 @@ A (touch device friendly) tool for creating and previewing custom easing (cubic-
 
 Another tool for creating custom cubic-beziers. This one lets you play your transition side-by-side with a default one, for comparison.
 
-### [CSSynth][21]
-
-<small>
-  by <a title="Bennet Feely on Twitter" href="https://twitter.com/bennettfeely">Bennett Feely</a>
-</small>
-
-Play around with particle-like effects and transitions, using a grid of shapes. Useful for generating lots of nth-child markup.
-
-### [Bounce.js][22]
-
-<small>
-  by <a title="Joel Besada on Twitter" href="https://twitter.com/joelbesada">Joel Besada</a>
-</small>
-
-Create some lovely, squashy CSS animations then export the markup. Has a really nice UI too. (via [@Port80Events][17]).
-
 ### [Framer][23]
 
 <small>
@@ -218,20 +176,6 @@ A beautifully created film, inspired by the 12 basic principles of animation de
 </small>
 
 A high quality collection of interesting animation and interaction design examples, complete with screen casts and an email newsletter.
-
-### [Use Your Interface][29]
-
-<small>
-  by <a title="Josh Davey’s Twitter page" href="https://twitter.com/Jshdvy">Josh Davey</a>
-</small>
-
-A useful library (withs tags) of interface patterns that use transitions and animations. (via [@TomALloyd][30])
-
-### [SIX UX][31]
-
-<small>
-  by <a title="SIX UX on twitter" href="https://twitter.com/thisissixux">SIX UX</a>
-</small>
 
 A collection of 6 second Vine clips that show off some nice animated interactions.
 
