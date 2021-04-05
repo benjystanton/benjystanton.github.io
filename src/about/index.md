@@ -1,11 +1,9 @@
 ---
 layout: layouts/page
 title: About
-permalink: /about/
-excerpt: About me, my work experience and speaking experience.
 ---
 
-<p class="lede">My name is Benjy Stanton and I’m an interaction designer at <a href="http://www.swirrl.com/" aria-label="Swirl">Swirrl</a>. I’m based in Swansea, Wales. I care about user needs, accessibility, data and the open web. Husband. Dad of three. Pronouns: he/him.</p>
+My name is Benjy Stanton and I’m an interaction designer at Swirrl. I’m based in Swansea, Wales. I care about user needs, accessibility, data and the open web. Husband. Dad of three. Pronouns: he/him.
 
 ## Summary
 
@@ -28,4 +26,4 @@ I’m an advocate for accessibility, helping teams to do user research with peop
 
 ## Experience
 
-{% include partials/pairs.html list="experience" %}
+{% include partials/pairs.html list:experience %}
