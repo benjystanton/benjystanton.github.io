@@ -1,8 +1,6 @@
 ---
 layout: layouts/page
 title: Testimonials
-permalink: /about/testimonials/
-excerpt: Very old testimonials from Blue Chip Holidays and Ballyhoo
 ---
 
 ## Blue Chip Holidays
