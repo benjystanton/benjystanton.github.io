@@ -6,7 +6,7 @@ tag: NaBloPoMo2019
 last_modified_at: 29 June 2020
 ---
 
-<p class="lede">I’m a big fan of structured/facilitated design workshops. They can be incredibly useful for user research sessions, co-designing services with teams, and stakeholder meetings. Updated on {{ last_modified_at }}.</p>
+I’m a big fan of structured/facilitated design workshops. They can be incredibly useful for user research sessions, co-designing services with teams, and stakeholder meetings. Updated on {{ last_modified_at }}.
 
 Practising how to run these workshops, and being able to pick and choose the right one for the right task is becoming more valuable to me as a designer as I gain experience.
 

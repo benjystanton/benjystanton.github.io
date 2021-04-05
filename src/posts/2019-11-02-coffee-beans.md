@@ -7,8 +7,6 @@ tag: NaBloPoMo2019
 
 A list of specialty coffees that I’ve tried at home, so I can remember which ones I like. Thanks to the excellent Square Peg for being my supplier of choice.
 
-<hr />
-
 <h2>Peru Cajamarca Regional Select</h2>
 <dl>
   <dt>Process</dt>

@@ -4,7 +4,7 @@ title: Writing user stories
 categories: design
 ---
 
-I've been looking again at user stories recently, and had a chance to reflect on why they're useful (and why they are difficult to get right). As I [wrote in my weeknotes last month]({{ site.baseurl }}/blog/weeknotes-series-03-episode-05/)… "the middle bit is quite easy to write, the user groups are a little more difficult, and the “so that” bit is really difficult".
+I've been looking again at user stories recently, and had a chance to reflect on why they're useful (and why they are difficult to get right). As I [wrote in my weeknotes last month](/blog/weeknotes-series-03-episode-05/)… "the middle bit is quite easy to write, the user groups are a little more difficult, and the “so that” bit is really difficult".
 
 Here are some notes that I pulled together on how to write better ones (borrowed heavily on the excellent advice in the [GOV.UK Service Manual](https://www.gov.uk/service-manual)).
 
