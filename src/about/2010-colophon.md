@@ -1,9 +1,9 @@
 ---
 layout: layouts/page
 title: Colophon (2010)
-excerpt: An old page that preceded my Style Guide
 ---
-<p class="lede">This is an archived colophon from 2010, it’s no longer accurate.</p>
+
+Warning, this is an old page, it’s no longer accurate.
 
 This theme is based on [Starkers 3.0](http://www.elliotjaystocks.com/blog/starkers-3/) (phwoar!) from Viewport Industries, with a bit of [Andy Clarke's](https://stuffandnonsense.co.uk) 320 and Up boilerplate sprinkled in for good measure.
 
