@@ -1,5 +1,6 @@
 ---
 layout: layouts/post
+permalink: "blog/hiring-ux-designer-ons/"
 title: Hiring a user experience (UX) designer at ONS
 categories: ons
 ---

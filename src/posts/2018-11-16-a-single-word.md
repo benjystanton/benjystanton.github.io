@@ -1,5 +1,6 @@
 ---
 layout: layouts/image
+permalink: "blog/a-single-word/"
 categories: images nablopomo
 tag: NaBloPoMo2018
 nav: false

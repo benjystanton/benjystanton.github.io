@@ -1,5 +1,6 @@
 ---
 layout: layouts/post
+permalink: "blog/my-first-no-meeting-day/"
 title: My first “no meeting” day
 categories: nablopomo
 tag: NaBloPoMo2018

@@ -1,5 +1,6 @@
 ---
-layout: layouts/post  
+layout: layouts/post
+permalink: "blog/link-sharing-workflow/"
 title: "My link sharing workflow"
 date: 2018-02-10 08:01:00  
 categories: release-notes

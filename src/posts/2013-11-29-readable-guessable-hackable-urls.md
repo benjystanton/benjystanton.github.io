@@ -1,6 +1,6 @@
 ---
 layout: layouts/post
-permalink: "blog/{{ title | slug | url_encode }}/"
+permalink: "blog/readable-guessable-hackable-urls/"
 title: Readable, guessable and hackable urls
 date: 2013-11-29 11:41:00  
 categories: design content conferences

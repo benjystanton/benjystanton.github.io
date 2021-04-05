@@ -1,5 +1,6 @@
 ---
 layout: layouts/post
+permalink: "blog/this-is-my-100th-blog-post/"
 title: 100 blog posts
 categories: nablopomo
 tag: NaBloPoMo2018

@@ -1,5 +1,6 @@
 ---
 layout: layouts/post
+permalink: "blog/best-way-mark-up-svg-map/"
 title: What's the best way to mark-up an SVG map?
 categories: design accessibility data svg
 ---

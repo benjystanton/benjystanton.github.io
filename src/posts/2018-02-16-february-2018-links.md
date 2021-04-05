@@ -1,5 +1,6 @@
 ---
 layout: layouts/post
+permalink: "blog/february-2018-links/"
 title: February 2018 bookmarks
 categories: links
 ---

@@ -1,5 +1,6 @@
 ---
 layout: layouts/post
+permalink: "blog/5-things-andy-taught-me/"
 title: Five things Andy taught me
 categories: personal
 ---

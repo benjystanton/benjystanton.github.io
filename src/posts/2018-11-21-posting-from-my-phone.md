@@ -1,5 +1,6 @@
 ---
 layout: layouts/note
+permalink: "blog/posting-from-my-phone/"
 title: This is a quick test note from my phone. I’m using Working Copy GitHub client for iOS.
 categories: notes nablopomo
 tag: NaBloPoMo2018

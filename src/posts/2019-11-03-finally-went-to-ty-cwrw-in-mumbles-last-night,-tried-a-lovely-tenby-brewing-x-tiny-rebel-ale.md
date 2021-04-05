@@ -1,5 +1,6 @@
 ---
 layout: layouts/image
+permalink: "blog/finally-went-to-ty-cwrw-in-mumbles-last-night,-tried-a-lovely-tenby-brewing-x-tiny-rebel-ale/"
 categories: images nablopomo
 tag: NaBloPoMo2019
 nav: false

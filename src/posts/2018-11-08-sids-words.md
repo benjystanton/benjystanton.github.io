@@ -1,5 +1,6 @@
 ---
 layout: layouts/post
+permalink: "blog/sids-words/"
 title: Sid’s words
 categories: nablopomo personal
 tag: NaBloPoMo2018

@@ -1,5 +1,6 @@
 ---
 layout: layouts/post
+permalink: "blog/articles-ive-written-that-have-been-published-somewhere-else/"
 title: Articles I’ve written that have been published somewhere else
 categories: nablopomo
 tag: NaBloPoMo2018

@@ -1,5 +1,6 @@
 ---
 layout: layouts/post
+permalink: "blog/a-quick-review-of-she-ra/"
 title: A quick review of the Netflix She-Ra reboot
 categories: nablopomo
 tag: NaBloPoMo2018
