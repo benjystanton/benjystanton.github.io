@@ -57,4 +57,4 @@ Posted from Cardiff, United Kingdom
 
 There is lots of potential for tweaking this workflow, and reusing the data to create embeddable maps, or categorising posts by location for example.
 
-I'm also working on a more complex workflow that allows me to post photos (with location metadata) directly from my phone to my blog, using my [image post template]({{ site.url }}/blog/creating-the-image-post-layout/). Although that one has more moving parts, so I need to iron out a few things before sharing it.
+I'm also working on a more complex workflow that allows me to post photos (with location metadata) directly from my phone to my blog, using my [image post template](/blog/creating-the-image-post-layout/). Although that one has more moving parts, so I need to iron out a few things before sharing it.

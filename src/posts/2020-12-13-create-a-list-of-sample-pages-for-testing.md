@@ -11,7 +11,7 @@ I can…
 1. check pages are building building correctly as I move to Eleventy and Netlify
 2. check CSS styling when I setup visual regression testing
 3. check for accessibility issues when I do some manual and automatic accessibility testing
-4. have a list of different kinds of pages in my [style guide](https://www.benjystanton.co.uk/style-guide/) for future reference
+4. have a list of different kinds of pages in my [style guide](/style-guide/) for future reference
 
 ## How I've picked my list of sample pages
 

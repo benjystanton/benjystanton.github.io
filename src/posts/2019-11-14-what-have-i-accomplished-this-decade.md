@@ -4,7 +4,7 @@ title: What have I accomplished this decade?
 categories: personal
 ---
 
-<p class="lede">A list of big things that I’ve done over the past 10 years. Inspired by <a href="https://twitter.com/stfutony/status/1193954501620690944">that tweet</a>. Apologies for the self-congratulatory post.</p>
+A list of big things that I’ve done over the past 10 years.
 
 1. Got married
 2. Had our first baby
@@ -29,4 +29,4 @@ Joking aside… deciding to stop having kids was probably the hardest time for u
 
 ***
 
-Anyway, here's a similar post I did [when I reached thirty](https://www.benjystanton.co.uk/blog/30-things-done-before-im-30/).
+Anyway, here's a similar post I did [when I reached thirty](/blog/30-things-done-before-im-30/).

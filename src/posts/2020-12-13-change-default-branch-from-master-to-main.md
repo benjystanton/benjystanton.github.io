@@ -11,6 +11,6 @@ There's going to be a few behind the scenes steps to get ready for the changes, 
 Step one is to change the name of my default branch from `master` to `main`. The Black Lives Matter movement of summer 2020 helped to point out the countless microaggressions that exist to perpetuate racism. Renaming branches won't solve racism but as Una said back in the summer…
 
 > If it prevents even a single black person from feeling more isolated in the tech community, feels like a no brainer to me!
-> — [Una Kravets](https://twitter.com/Una/status/1271181775130279936)
+<br>— [Una Kravets](https://twitter.com/Una/status/1271181775130279936)
 
 The change is fairly simple to do, and I [followed these steps by Steven Mortimer](https://stevenmortimer.com/5-steps-to-change-github-default-branch-from-master-to-main/). But before deleting `master` (Step 5), I made sure that GitHub Pages was building from the newly created `main` branch. You can do this by going to your repo's Settings in GitHub, selecting Options and scrolling down to the GitHub Pages section.

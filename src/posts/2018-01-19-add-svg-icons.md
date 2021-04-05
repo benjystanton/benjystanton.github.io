@@ -5,7 +5,7 @@ title: Add SVG icons
 categories: release-notes accessibility svg
 image: svg-icon.png
 image-alt: Screenshot of the Twitter bird being edited in a vector drawing application
-last_modified_at: 4 April 2021
+last_modified_at: 5 April 2021
 ---
 
 <p class="lede">Switching from PNGs (Portable Network Graphics) or Icon Fonts, to SVG (Scalable Vector Graphics) icons. Updated on {{ last_modified_at }}.</p>
@@ -60,6 +60,7 @@ last_modified_at: 4 April 2021
 - [SVG Export: Download SVGs from any site with ease](https://svgexport.io/)
 - [Icon accessibility and aria label from Go Make Things](https://gomakethings.com/icon-accessibility-and-aria-label/)
 - [Smashing Newsletter: SVG generators and tools](https://mailchi.mp/smashingmagazine/smashing-newsletter-294-svg-generators-and-tools)
+- [Swipey image grids](https://www.cassie.codes/posts/swipey-image-grids/)
 
 ## What I changed on the blog
 

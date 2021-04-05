@@ -63,4 +63,4 @@ By helping EA to publish environmental data, and improving the way that people a
 
 ***
 
-Here's a related post about [my pros and cons of working remotely]({{ site.url }}/blog/remote-working-pros-and-cons/).
+Here's a related post about [my pros and cons of working remotely](/blog/remote-working-pros-and-cons/).

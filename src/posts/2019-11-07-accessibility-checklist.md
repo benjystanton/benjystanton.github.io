@@ -30,7 +30,7 @@ Although I find checklists useful, it's worth remembering that accessibility sho
 - [Make sure text can be resized](https://www.24a11y.com/2019/pixels-vs-relative-units-in-css-why-its-still-a-big-deal/)
 - [Responsive Type and Zoom by Adrian Roselli](https://adrianroselli.com/2019/12/responsive-type-and-zoom.html)
 
-Read my post about [how improving typography can help us to meet user needs]({{ site.baseurl}}/blog/how-improving-typography-can-help-us-to-meet-user-needs/).
+Read my post about [how improving typography can help us to meet user needs](/blog/how-improving-typography-can-help-us-to-meet-user-needs/).
 
 ## Written content
 
@@ -53,11 +53,11 @@ Read my post about [how improving typography can help us to meet user needs]({{ 
 - Split complex tables into multiple small ones
 - Use correct table markup for headers, rows and cells, so screen reader users can understand and navigate them
 
-Read my post about [making data tables more accessible]({{ site.baseurl}}/blog/making-data-tables-more-accessible/).
+Read my post about [making data tables more accessible](/blog/making-data-tables-more-accessible/).
 
 ## Charts
 
-Read my post about [accessible charts]({{ site.baseurl }}/blog/a-plan-for-accessible-charts/).
+Read my post about [accessible charts](/blog/a-plan-for-accessible-charts/).
 
 ## Colour and contrast
 
@@ -78,15 +78,15 @@ Read my post about [accessible charts]({{ site.baseurl }}/blog/a-plan-for-access
 
 ## Forms
 
-- [All form inputs should have labels and be linked with a 'for' attribute](https://www.w3.org/WAI/tutorials/forms/labels/#associating-labels-explicitly)
+- All form inputs should have labels and be linked with a 'for' attribute
 - [Group radios together](https://design-system.service.gov.uk/components/radios/) with a `<fieldset>` and a `<legend>`
 - Forms and interactive elements should have useful hints if needed
 - Avoid using placeholder text, because it disappears when users start typing 
 - Error messages should suggest ways to fix errors
 - Error messages should show a summary of errors above the h1 and move focus to it
 - Error message summaries should include an h1 message that tells the screen reader user there is a problem, and give a list of descriptive errors with links to the relevant fields
-- [Example search form mark-up]({{ site.baseurl}}/blog/accessible-search-form-mark-up/)
-- [Close buttons]({{ site.baseurl}}/blog/accessible-close-buttons/)
+- [Example search form mark-up](/blog/accessible-search-form-mark-up/)
+- [Close buttons](/blog/accessible-close-buttons/)
 - [Be careful with input type=&#34;number&#34;](https://technology.blog.gov.uk/2020/02/24/why-the-gov-uk-design-system-team-changed-the-input-type-for-numbers/)
 - [Is input type=&#34;date&#34; ready for use in accessible websites?](https://www.hassellinclusion.com/blog/input-type-date-ready-for-use/)
 
@@ -96,7 +96,7 @@ Read my post about [accessible charts]({{ site.baseurl }}/blog/a-plan-for-access
 - If images are purely decorative, then they need an empty alt tag `alt=""`
 - Avoid using images of text
 
-Read my post about [SVGs icons]({{ site.baseurl}}/blog/add-svg-icons/).
+Read my post about [SVGs icons](/blog/add-svg-icons/).
 
 ## Layout and structure
 

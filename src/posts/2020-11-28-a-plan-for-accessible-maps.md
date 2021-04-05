@@ -133,7 +133,7 @@ Make sure to check all interactive elements are available to keyboard users. For
 
 This blog post isn't an exhaustive list of ways to meet all access needs or create something that works with all kind of assistive technology.
 
-It's definetely worth doing your own manual and automatic testing. I've written [a bit about manual and automatic accessibility  testing](https://www.benjystanton.co.uk/blog/accessibility-checklist/#manual-tests) before so I won’t go into more detail here. 
+It's definetely worth doing your own manual and automatic testing. I've written [a bit about manual and automatic accessibility  testing](/blog/accessibility-checklist/#manual-tests) before so I won’t go into more detail here. 
 
 It's also important to do user research (including with people with access needs) and to get some accessibility experts to audit the finished thing.
 
@@ -145,8 +145,8 @@ It's also important to do user research (including with people with access needs
 - [Design Accessible Maps from Phase](https://phase.com/magazine/design-accessible-maps/)
 - [OS Open Zoomstack styles for colour blind users from Ordnance Survey](https://www.ordnancesurvey.co.uk/blog/2019/12/try-our-new-os-open-zoomstack-styles-for-colour-blind-users/?utm_source=twitter&utm_medium=social&utm_term=&utm_content=&utm_campaign=80b1c9ea-de5b-4e1b-9d13-474ef3a40243)
 - [Accessible digital map experiences: a mountain climb or a walk in the park? from David Sloan](https://developer.paciellogroup.com/blog/2020/04/accessible-digital-map-experiences/)
-- [What's the best way to mark-up an SVG map? by Benjy Stanton](https://www.benjystanton.co.uk/blog/best-way-mark-up-svg-map/)
-- [A plan for accessible charts by Benjy Stanton](https://www.benjystanton.co.uk/blog/a-plan-for-accessible-charts/)
+- [What's the best way to mark-up an SVG map? by Benjy Stanton](/blog/best-way-mark-up-svg-map/)
+- [A plan for accessible charts by Benjy Stanton](/blog/a-plan-for-accessible-charts/)
 - [Map Accessibility from Minnesota IT Services](https://mn.gov/mnit/about-mnit/accessibility/maps/)
 
 ## Services with maps
