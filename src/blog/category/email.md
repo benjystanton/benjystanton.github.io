@@ -1,6 +1,4 @@
 ---
-layout: layouts/category
 title: Email
-category: email
 excerpt: A list of blog posts about HTML email design.
 ---

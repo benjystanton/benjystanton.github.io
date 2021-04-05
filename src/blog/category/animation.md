@@ -1,6 +1,4 @@
 ---
-layout: layouts/category
 title: Animation
-category: animation
 excerpt: A list of web animation blog posts.
 ---

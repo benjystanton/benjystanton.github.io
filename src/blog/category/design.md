@@ -1,6 +1,4 @@
 ---
-layout: layouts/category
 title: Design
-category: design
 excerpt: A list of blog posts about design.
 ---

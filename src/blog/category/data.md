@@ -1,6 +1,4 @@
 ---
-layout: layouts/category
 title: Data
-category: data
 excerpt: A list of blog posts about designing with data.
 ---

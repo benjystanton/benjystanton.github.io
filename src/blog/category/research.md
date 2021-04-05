@@ -1,6 +1,4 @@
 ---
-layout: layouts/category
 title: Research
-category: research
 excerpt: A list of blog posts about user research.
 ---

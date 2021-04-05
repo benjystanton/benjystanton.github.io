@@ -1,6 +1,4 @@
 ---
-layout: layouts/category
 title: Accessibility
-category: accessibility
 excerpt: A list of accessibility blog posts.
 ---

@@ -1,6 +1,4 @@
 ---
-layout: layouts/category
 title: SVG
-category: svg
 excerpt: A list of blog posts about SVG (Scalable Vector Graphics).
 ---

@@ -1,6 +1,4 @@
 ---
-layout: layouts/category
 title: Weeknotes
-category: weeknotes
 excerpt: A list of weeknotes.
 ---

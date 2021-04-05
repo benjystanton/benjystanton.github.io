@@ -1,6 +1,4 @@
 ---
-layout: layouts/category
 title: Personal
-category: personal
 excerpt: A list of personal blog posts.
 ---

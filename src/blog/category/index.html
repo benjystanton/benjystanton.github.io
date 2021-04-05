@@ -1,5 +1,13 @@
 ---
 layout: layouts/page
 title: Categories
-excerpt: A list of all my blog post categories
+excerpt: A list of all my blog post categories.
 ---
+
+<p>{{ excerpt }}</p>
+
+<ul>
+    {% for category in collections.category %}
+    <li><a href="{{ category.url }}">{{ category.data.title }}</a></li>
+    {% endfor %}
+</ul>

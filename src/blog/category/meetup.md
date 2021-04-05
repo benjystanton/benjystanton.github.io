@@ -1,6 +1,4 @@
 ---
-layout: layouts/category
 title: Meetup
-category: meetup
 excerpt: A list of blog posts about meetups that I've been to.
 ---

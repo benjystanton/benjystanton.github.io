@@ -1,6 +1,4 @@
 ---
-layout: layouts/category
 title: UX (user experience) design
-category: ux
 excerpt: A list of blog posts about user experience design.
 ---

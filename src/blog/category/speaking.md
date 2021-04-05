@@ -1,6 +1,4 @@
 ---
-layout: layouts/category
 title: Speaking
-category: speaking
 excerpt: A list of blog posts about speaking.
 ---

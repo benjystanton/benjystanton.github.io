@@ -1,6 +1,4 @@
 ---
-layout: layouts/category
 title: Content
-category: content
 excerpt: A list of content design blog posts.
 ---

@@ -1,6 +1,4 @@
 ---
-layout: layouts/category
 title: NaBloPoMo
-category: nablopomo
 excerpt: NaBloPoMo stands for “National Blog Posting Month”. A new blog post everyday during November.
 ---

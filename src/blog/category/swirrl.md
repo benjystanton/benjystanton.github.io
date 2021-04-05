@@ -1,6 +1,4 @@
 ---
-layout: layouts/category
 title: Swirrl
-category: swirrl
 excerpt: A list of blog posts about working at Swirrl.
 ---

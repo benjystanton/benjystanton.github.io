@@ -1,6 +1,4 @@
 ---
-layout: layouts/category
 title: Conferences
-category: conferences
 excerpt: A list of blog posts about conferences I’ve been to (and a few I’ve spoken at).
 ---
