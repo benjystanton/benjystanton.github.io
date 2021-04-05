@@ -15,8 +15,8 @@ I’m an advocate for accessibility, helping teams to do user research with peop
 
 ## Related blog posts
 
-- [A user manual for me]({{ site.url}}/blog/a-user-manual-for-me/)
-- [Interaction design tools]({{ site.url}}/blog/interaction-design-tools//)
+- [A user manual for me](/blog/a-user-manual-for-me/)
+- [Interaction design tools](/blog/interaction-design-tools//)
 
 ## Skills
 
@@ -28,8 +28,4 @@ I’m an advocate for accessibility, helping teams to do user research with peop
 
 ## Experience
 
-{% include partials/pairs.html list=site.data.experience %}
-
-<!-- ## Speaking
-
-{% include partials/pairs.html list=site.data.speaking %} -->
+{% include partials/pairs.html list="experience" %}
