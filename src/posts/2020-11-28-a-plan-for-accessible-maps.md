@@ -1,7 +1,11 @@
 ---
 layout: layouts/post
 title: "A plan for accessible maps"
-categories: data accessibility design
+tags:
+- data
+- Accessibility
+- design
+- post
 last_modified_at: 7 December 2020
 image: "map-sketch.jpg"
 image-alt: "Black and white drawing of map, made up of a polygon, a map pin and a dotted line"
