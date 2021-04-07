@@ -7,7 +7,7 @@ image-alt: a pizza with an egg and spinach topping
 excerpt: Featuring service design, accessible maths symbols and pizza.
 ---
 
-<p class="lede">Featuring service design, accessible maths symbols and pizza. If you only read one bit, read the bit on <a href="#service-design-training">service design training</a>.</p>
+<p>Featuring service design, accessible maths symbols and pizza. If you only read one bit, read the bit on <a href="#service-design-training">service design training</a>.</p>
 
 ## Monday
 

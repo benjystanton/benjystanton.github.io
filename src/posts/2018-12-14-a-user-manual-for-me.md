@@ -4,7 +4,7 @@ title: A user manual for me
 categories: personal
 ---
 
-<p class="lede">I’m joining a new team in Office for National Statistics (ONS), so it seemed like a good time to finally create <a href="https://medium.com/@cassierobinson/a-user-manual-for-me-d3a851fbc694">a user manual for me</a>.</p>
+<p>I’m joining a new team in Office for National Statistics (ONS), so it seemed like a good time to finally create <a href="https://medium.com/@cassierobinson/a-user-manual-for-me-d3a851fbc694">a user manual for me</a>.</p>
 
 ## Conditions I like to work in
 - I like to work in open, inclusive environments

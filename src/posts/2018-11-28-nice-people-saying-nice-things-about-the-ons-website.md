@@ -6,7 +6,7 @@ tag: NaBloPoMo2018
 ---
 
 
-<p class="lede">It was great to see some smart people, that I really respect, recognising the good work that we’re doing in ONS (Office for National Statistics) digital publishing today.</p>
+<p>It was great to see some smart people, that I really respect, recognising the good work that we’re doing in ONS (Office for National Statistics) digital publishing today.</p>
 
 Tom's original screenshot focused on a weirdly specific bit of something we did recently. But, even this small component went through some rigorous usability and A/B testing. It built upon a content pattern that already did a good job of meeting a clear user need (I need to know if I'm looking at the latest stuff).
 

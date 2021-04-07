@@ -5,7 +5,7 @@ categories: nablopomo
 tag: NaBloPoMo2018
 ---
 
-<p class="lede">Here's a snippet from an article I wrote for the ONS (Office for National Statistics) digital blog:</p>
+<p>Here's a snippet from an article I wrote for the ONS (Office for National Statistics) digital blog:</p>
 
 > This year we’ve interviewed, hired and welcomed six new interaction and graphic designers to the Digital Publishing team at ONS (Office for National Statistics). A few weeks ago I ran an anonymous retrospective to review the whole hiring process and their first few weeks and months.
 

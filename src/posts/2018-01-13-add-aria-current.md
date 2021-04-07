@@ -21,10 +21,10 @@ The screen reader will announce "current page" when it reads out the label of th
 I've added the `aria-current="page"` attribute to the current page link in the site nav.
 
 ```
-<nav class="site-nav" role="navigation">
-  <a class="current page-link" aria-current="page" href="/">Home</a>
-  <a class="page-link" href="/about/">About</a>
-  <a class="page-link" href="/blog/">Blog</a>
+<nav role="navigation">
+  <a aria-current="page" href="/">Home</a>
+  <a href="/about/">About</a>
+  <a href="/blog/">Blog</a>
 </nav>
 ```
 

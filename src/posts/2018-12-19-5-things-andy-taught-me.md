@@ -5,7 +5,7 @@ title: Five things Andy taught me
 categories: personal
 ---
 
-<p class="lede">This is my response to <a href="https://twitter.com/mr_dudders">Andy</a>’s blog post <a href="http://mrdudders.posthaven.com/five-things-benjy-taught-me">five things Benjy taught me</a>. If you’re tired by our cheesy web bromance, turn away now.</p>
+<p>This is my response to <a href="https://twitter.com/mr_dudders">Andy</a>’s blog post <a href="http://mrdudders.posthaven.com/five-things-benjy-taught-me">five things Benjy taught me</a>. If you’re tired by our cheesy web bromance, turn away now.</p>
 
 Andy is a great leader. Over the past 2 years, he has gone out of his way to help me do a good job. And he's used his experience and contacts to help me become a better designer. I honestly would not have survived my first 2 years as a civil servant without his help.
 

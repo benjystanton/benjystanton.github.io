@@ -7,7 +7,7 @@ image-alt: "Think about structure, not just the visual layout. Don't split text 
 last_modified_at: 16 October 2020
 ---
 
-<p class="lede">For data tables to be accessible, I like to take care of the graphic design, content design and mark-up. These three things work together to improve the way users able to find, use and understand the data. Last updated on {{ last_modified_at }}.</p>
+<p>For data tables to be accessible, I like to take care of the graphic design, content design and mark-up. These three things work together to improve the way users able to find, use and understand the data. Last updated on {{ last_modified_at }}.</p>
 
 Whilst working at Office for National Statistics (ONS) I worked with my content design colleagues [Laura](https://twitter.com/Lozza119) and [Paul](https://twitter.com/itspaulmcgroovy) to improve our tables.
 

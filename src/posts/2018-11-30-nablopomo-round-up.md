@@ -5,7 +5,7 @@ categories: nablopomo release-notes
 tag: NaBloPoMo2018
 ---
 
-<p class="lede">I did it! <a href="{{ site.baseurl }}/blog/category/nablopomo/">30 posts in 30 days</a>!</p>
+<p>I did it! <a href="{{ site.baseurl }}/blog/category/nablopomo/">30 posts in 30 days</a>!</p>
 
 I spent more time tweaking the patterns and components on the blog, rather than writing actual articles, but I think that's okay.
 

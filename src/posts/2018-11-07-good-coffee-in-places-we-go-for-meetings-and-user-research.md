@@ -5,7 +5,7 @@ categories: nablopomo
 tag: NaBloPoMo2018
 ---
 
-<p class="lede">Sometimes you want a Greggs, but sometimes you want a good, independent, specialty coffee shop. Greggs are easy to find, but good coffee shops are more tricky.</p>
+<p>Sometimes you want a Greggs, but sometimes you want a good, independent, specialty coffee shop. Greggs are easy to find, but good coffee shops are more tricky.</p>
 
 ***
 

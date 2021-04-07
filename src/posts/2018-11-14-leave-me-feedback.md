@@ -5,7 +5,7 @@ categories: nablopomo release-notes
 tag: NaBloPoMo2018
 ---
 
-<p class="lede">Inspired by <a href="http://www.ermlikeyeah.com/">Simon’s website</a>, I want to encourage people to leave me feedback.</p>
+<p>Inspired by <a href="http://www.ermlikeyeah.com/">Simon’s website</a>, I want to encourage people to leave me feedback.</p>
 
 That way, I can continue to improve this website and spot errors more quickly. Positive comments are welcome too. :)
 

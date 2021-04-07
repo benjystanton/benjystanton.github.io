@@ -4,7 +4,7 @@ title: User research questions for data users
 categories: design research ux data
 ---
 
-<p class="lede">A list of questions to help with user research when designing data things.</p>
+<p>A list of questions to help with user research when designing data things.</p>
 
 I was inspired to write this after reading Andrew Duckworth's excellent post [design for real data](https://grillopress.github.io/2019/12/05/design-for-real-data.html). In the post, they list questions that can help you discover details about the data that you're working with. I think the questions have lots of potential uses, and I plan on trying them out next time we do research with data providers.
 

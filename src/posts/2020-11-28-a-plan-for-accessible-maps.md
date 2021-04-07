@@ -11,7 +11,7 @@ image: "map-sketch.jpg"
 image-alt: "Black and white drawing of map, made up of a polygon, a map pin and a dotted line"
 ---
 
-<p class="lede">Designing accessible interactive maps is hard. I don’t think I could point to any single thing that I’ve worked on that covers all of the things mentioned here. But, if I was going to start a brand new project, with plenty of time to get things right, this is where I’d start.</p>
+<p>Designing accessible interactive maps is hard. I don’t think I could point to any single thing that I’ve worked on that covers all of the things mentioned here. But, if I was going to start a brand new project, with plenty of time to get things right, this is where I’d start.</p>
 
 The following isn't perfect, I'm really just sharing my workings so far. I hope that if you can see something is wrong or missing, you'll point it out. I’ll definitely iterate and add to this post in future. 
 

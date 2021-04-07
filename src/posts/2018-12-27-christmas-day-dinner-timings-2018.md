@@ -4,7 +4,7 @@ title: Christmas day dinner timings 2018
 categories: personal
 ---
 
-<p class="lede">We cooked Christmas dinner this year, for the first time in at least 6 years. On Christmas Eve we planned our timings in great detail.</p>
+<p>We cooked Christmas dinner this year, for the first time in at least 6 years. On Christmas Eve we planned our timings in great detail.</p>
 
 The Turkey was about 7 kilograms (about 15 pounds) which was too big for 7 people, even allowing for Boxing Day leftovers (10 pound next year?). We used recipes from Nigella and Jamie for the turkey and it turned out well. It had been soaking in a brine bath for almost 2 days. We cooked it for about 4 hours in the end (which was probably a smidge too long).
 

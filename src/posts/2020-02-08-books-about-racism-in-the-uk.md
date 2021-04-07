@@ -7,7 +7,7 @@ image-alt: "Brit(ish), The Good Immigrant and Why I’m No Longer Talking to Whi
 last_modified_at: 13 June 2020
 ---
 
-<p class="lede">I’m trying to get better informed about racism in the UK, so I asked my Twitter friends for some book recommendations. Updated on {{ last_modified_at }}.</p>
+<p>I’m trying to get better informed about racism in the UK, so I asked my Twitter friends for some book recommendations. Updated on {{ last_modified_at }}.</p>
 
 <blockquote>Currently reading “Why I’m no longer talking to white people about race” by <a href="https://twitter.com/renireni?ref_src=twsrc%5Etfw">@renireni</a>. What should I read next? I want to educate myself about racism in the UK.<br>&mdash; Benjy Stanton (@benjystanton) <a href="https://twitter.com/benjystanton/status/1219744937790660608?ref_src=twsrc%5Etfw">January 21, 2020</a></blockquote>
 

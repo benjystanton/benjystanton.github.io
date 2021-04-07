@@ -5,7 +5,7 @@ categories: service-design
 excerpt: Observe a service by going through the stages of the user journey.
 ---
 
-<p class="lede">Service walkthroughs are a service design tool. Observe a service by going through the stages of the user journey.</p>
+Service walkthroughs are a service design tool. Observe a service by going through the stages of the user journey.
 
 ## How to use service walkthroughs…
 

@@ -8,7 +8,7 @@ image: "image-post-example.jpg"
 image-alt: "A screenshot of a web page with my logo, a big photo and a title"
 ---
 
-<p class="lede">Yesterday I posted a <a href="{{ site.baseurl }}/blog/9-miles-to-glasto">photo using a new image post layout</a>. Here’s a round up of the key things in the new template.</p>
+<p>Yesterday I posted a <a href="/blog/9-miles-to-glasto">photo using a new image post layout</a>. Here’s a round up of the key things in the new template.</p>
 
 ## Content
 

@@ -7,7 +7,7 @@ tag: NaBloPoMo2018
 
 <!-- You can't pass variables straight into includes, you have to capture them first https://jekyllrb.com/docs/includes/#passing-parameter-variables-to-includes  -->
 
-<p class="lede">A quick post of blog stats that used to be on the homepage.</p>
+<p>A quick post of blog stats that used to be on the homepage.</p>
 
 <!-- This needs to be fixed after moving away from Jekyll to Netlify -->
 
@@ -35,22 +35,22 @@ tag: NaBloPoMo2018
 
 {% endraw %}
 
-<div class="flex-grid margin-top--s">
-  <div class="flex-grid__col flex-grid__col--third margin-bottom--s">
+<div>
+  <div>
   {% include partials/big-number.html
     big-number=post-count
     text="posts"
     url="/blog/"
   %}
   </div>
-  <div class="flex-grid__col flex-grid__col--third margin-bottom--s">
+  <div>
   {% include partials/big-number.html
     big-number=category-count
     text="categories"
     url="/blog/category/"
   %}
   </div>
-  <div class="flex-grid__col flex-grid__col--third margin-bottom--s">
+  <div>
   {% include partials/big-number.html
     big-number=pages-count
     text="pages"
@@ -58,15 +58,15 @@ tag: NaBloPoMo2018
   </div>
 </div>
 
-<div class="flex-grid">
-  <div class="flex-grid__col flex-grid__col--third margin-bottom--s">
+<div>
+  <div>
   {% include partials/big-number.html
     big-number=images-count
     text="images"
     url="/blog/category/images"
   %}
   </div>
-  <div class="flex-grid__col flex-grid__col--third margin-bottom--s">
+  <div>
   {% include partials/big-number.html
     big-number=notes-count
     text="notes"

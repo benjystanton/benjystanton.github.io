@@ -6,7 +6,7 @@ image: my-home-office.jpg
 image-alt: A computer desk in a white room. There’s an iMac on the desk and posters on the walls.
 ---
 
-<p class="lede">Week 2 at Swirrl started on Tuesday after the Easter bank holiday weekend and the amazing UK weather.</p>
+<p>Week 2 at Swirrl started on Tuesday after the Easter bank holiday weekend and the amazing UK weather.</p>
 
 ## Looking for data designers 
 

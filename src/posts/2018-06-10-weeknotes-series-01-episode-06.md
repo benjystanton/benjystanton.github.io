@@ -5,7 +5,7 @@ categories: weeknotes
 excerpt: Inflatable bowels, Twitter charts and busy, busy days.
 ---
 
-<p class="lede">Inflatable bowels, Twitter charts and busy, busy days.</p>
+Inflatable bowels, Twitter charts and busy, busy days.
 
 ## Monday
 

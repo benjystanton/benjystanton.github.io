@@ -4,7 +4,7 @@ title: "Weeknotes – series 04 episode 04"
 categories: weeknotes swirrl data accessibility
 ---
 
-<p class="lede">This week I have been mostly thinking about accessible mark-up and content design for HTML tables (again).</p>
+<p>This week I have been mostly thinking about accessible mark-up and content design for HTML tables (again).</p>
 
 ## Adrian's simple, responsive, accessible table
 

@@ -8,7 +8,7 @@ image-alt: "Sharpie drawing of a box with a tick or check in it, on grid paper"
 last_modified_at: 8 November 2020
 ---
 
-<p class="lede">A list of accessibility recommendations, tips and resources. Last updated on {{ last_modified_at }}.</p>
+<p>A list of accessibility recommendations, tips and resources. Last updated on {{ last_modified_at }}.</p>
 
 ## Accessibility is not just a checkbox exercise
 

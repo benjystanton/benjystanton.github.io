@@ -6,7 +6,7 @@ tag: NaBloPoMo2018
 excerpt: It’s not a dashboard. Definitely not a dashboard.
 ---
 
-<p class="lede">NaBloPoMo stands for National Blog Posting Month. I’ve decided to join in this November and post something new every day.</p>
+<p>NaBloPoMo stands for National Blog Posting Month. I’ve decided to join in this November and post something new every day.</p>
 
 For day 4, I've created this page with key figures and a progress bar (don't call it a dashboard). It will update automatically, each time something is posted.
 

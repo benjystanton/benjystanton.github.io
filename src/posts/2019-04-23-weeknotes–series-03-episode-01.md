@@ -12,7 +12,7 @@ image-alt: St Peter's Square in Manchester, you can see old buildings, people wa
   alt-text="St Peter's Square in Manchester, you can see old buildings, people walking and trams"
   %}
 
-<p class="lede">Some short-but-sweet weeknotes about my first ever week at Swirrl.</p>
+<p>Some short-but-sweet weeknotes about my first ever week at Swirrl.</p>
 
 Last week was my first week at [Swirrl](http://www.swirrl.com/). I've joined them as an interaction designer. They're based in Manchester, but I'll be working remotely from home in Swansea (most of the time).
 

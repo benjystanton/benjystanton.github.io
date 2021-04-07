@@ -7,7 +7,7 @@ image-alt: A blue man leans down to pick up litter. Large red text says "keep Br
 excerpt: Make your work visible, zoom out, and create some great British public service design.
 ---
 
-<p class="lede">I went up to GDS to talk to <a href="https://twitter.com/markhurrell">Mark</a> about how graphic design works on his team. And we chatted about what first steps I should take with the new graphic design team in ONS Digital Publishing.</p>
+<p>I went up to GDS to talk to <a href="https://twitter.com/markhurrell">Mark</a> about how graphic design works on his team. And we chatted about what first steps I should take with the new graphic design team in ONS Digital Publishing.</p>
 
 {% include partials/image-with-caption.html
   image="keep-britain-tidy.jpg"

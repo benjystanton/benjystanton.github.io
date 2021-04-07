@@ -5,7 +5,7 @@ categories: nablopomo release-notes
 tag: NaBloPoMo2018
 ---
 
-<p class="lede">The next step in getting my site <a href="https://indieweb.org/">indieweb</a> ready is to add <a href="http://microformats.org/wiki/h-entry">h-entry</a> microformat markup to the posts.</p>
+<p>The next step in getting my site <a href="https://indieweb.org/">indieweb</a> ready is to add <a href="http://microformats.org/wiki/h-entry">h-entry</a> microformat markup to the posts.</p>
 
 ## Here's what I've done so far…
 

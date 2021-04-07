@@ -5,7 +5,7 @@ categories: personal
 last_modified_at: 8 July 2020
 ---
 
-<p class="lede">Here are some low-key, achievable personal things for 2020. I'm ignoring the first few days of January, as they are still part of the Christmas hols.</p>
+<p>Here are some low-key, achievable personal things for 2020. I'm ignoring the first few days of January, as they are still part of the Christmas hols.</p>
 
 Also, this is my 150th blog post!
 

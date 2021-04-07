@@ -4,7 +4,7 @@ title: "Weeknotes – series 04 episode 01"
 categories: weeknotes swirrl accessibility
 ---
 
-<p class="lede">It's been a while since <a href="/blog/weeknotes-series-03-episode-05/">my last weeknote</a>, (almost a year and a half!) but I'm trying to get back into a blogging rhythm again, plus I've got time to spare as Wales has just gone into lockdown 2.</p>
+<p>It's been a while since <a href="/blog/weeknotes-series-03-episode-05/">my last weeknote</a>, (almost a year and a half!) but I'm trying to get back into a blogging rhythm again, plus I've got time to spare as Wales has just gone into lockdown 2.</p>
 
 ## Coronavirus
 

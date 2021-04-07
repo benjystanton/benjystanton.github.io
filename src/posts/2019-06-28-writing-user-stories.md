@@ -25,4 +25,4 @@ Here are some notes that I pulled together on how to write better ones (borrowed
 - [Writing user stories](https://www.gov.uk/service-manual/agile-delivery/writing-user-stories) on the [GOV.UK service manual](https://www.gov.uk/service-manual)
 - [The test of a good user need poster – PDF 433KB](http://www.hollidazed.co.uk/wp-content/uploads/artwork/the-test-of-a-good-user-need.pdf) by Leisa Reichelt and Ben Holliday
 
-<p class="small">Contains public sector information licensed under the <a href="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/">Open Government Licence v3.0</a>.</p>
+<small>Contains public sector information licensed under the <a href="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/">Open Government Licence v3.0</a>.</small>

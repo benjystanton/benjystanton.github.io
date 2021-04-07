@@ -5,7 +5,7 @@ categories: service-design
 excerpt: My notes from today’s cross-gov service design call.
 ---
 
-<p class="lede">Here are my notes from today’s cross-gov service design call. Thanks to <a href="https://twitter.com/martin_jordan">Martin</a> for inviting me along and letting me ask lots of questions.</p>
+<p>Here are my notes from today’s cross-gov service design call. Thanks to <a href="https://twitter.com/martin_jordan">Martin</a> for inviting me along and letting me ask lots of questions.</p>
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Today, we ran the first cross-gov service design peer support call – with folks from DWP, HMCTS, Home Office, NHS, and ONS. Great questions and discussions! <br><br>We’ll do another one in a month from now. <a href="https://t.co/EaaLPEfDX2">pic.twitter.com/EaaLPEfDX2</a></p>&mdash; Martin Jordan 🌈 (@Martin_Jordan) <a href="https://twitter.com/Martin_Jordan/status/1001824939496869888?ref_src=twsrc%5Etfw">May 30, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

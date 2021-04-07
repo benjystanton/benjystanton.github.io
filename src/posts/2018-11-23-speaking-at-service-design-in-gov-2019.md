@@ -5,7 +5,7 @@ categories: nablopomo data service-design
 tag: NaBloPoMo2018
 ---
 
-<p class="lede">Looks like me and <a href="https://twitter.com/@kieran_forde">Kieran</a> will be speaking at <a href="https://govservicedesign.net/2019/">Service Design in Government 2019</a>.</p>
+<p>Looks like me and <a href="https://twitter.com/@kieran_forde">Kieran</a> will be speaking at <a href="https://govservicedesign.net/2019/">Service Design in Government 2019</a>.</p>
 
 The conference takes place in Edinburgh in March and we'll be doing a case study on making stats easier to understand.
 

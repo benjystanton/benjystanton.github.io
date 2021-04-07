@@ -5,7 +5,7 @@ categories: nablopomo
 tag: NaBloPoMo2019
 ---
 
-<p class="lede">I’ve recently switched my bank current account to <a href="https://monzo.com/">Monzo</a>.</p>
+<p>I’ve recently switched my bank current account to <a href="https://monzo.com/">Monzo</a>.</p>
 
 ## Beta user
 

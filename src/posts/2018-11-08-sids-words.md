@@ -9,7 +9,7 @@ image: "sid-mirror-techniquest.jpg"
 image-alt: "A toddler looks at his distorted reflection in a round mirror."
 ---
 
-<p class="lede">Our 2 year old has a unique language. I’ve made a note of the most common words he uses, so we can remember them after he stops.</p>
+<p>Our 2 year old has a unique language. I’ve made a note of the most common words he uses, so we can remember them after he stops.</p>
 
 <dl>
 {% for sids-words in site.data.sids-words %}

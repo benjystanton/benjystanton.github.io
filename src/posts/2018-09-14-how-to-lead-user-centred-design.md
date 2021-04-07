@@ -5,7 +5,7 @@ categories: ux
 excerpt: My brief notes from the Government Digital Service (GDS) essentials of leadership training, run by Rebecca Kemp and Ade Adewunmi.
 ---
 
-<p class="lede">My brief notes from the Government Digital Service (GDS) essentials of leadership training, run by <a href="https://twitter.com/rebeccakemp">Rebecca Kemp</a> and <a href="https://twitter.com/Adewunmi">Ade Adewunmi</a>.</p>
+<p>My brief notes from the Government Digital Service (GDS) essentials of leadership training, run by <a href="https://twitter.com/rebeccakemp">Rebecca Kemp</a> and <a href="https://twitter.com/Adewunmi">Ade Adewunmi</a>.</p>
 
 ## Tell a good story
 

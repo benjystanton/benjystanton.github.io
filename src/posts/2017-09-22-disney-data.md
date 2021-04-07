@@ -13,19 +13,19 @@ excerpt: Data from our family trip to Disneyland Paris.
 
 <h2 id="key-figures">Key figures</h2>
 
-<span class="big-number">979</span>
+<span>979</span>
 <span>miles driven</span>
 
-<span class="big-number">27</span>
+<span>27</span>
 <span>miles walked</span>
 
-<span class="big-number">7.8</span>
+<span>7.8</span>
 <span>hours spent queueing</span>
 
-<span class="big-number">6</span>
+<span>6</span>
 <span>buffets</span>
 
-<span class="big-number">50,720</span>
+<span>50,720</span>
 <span>steps</span>
 
 <h2 id="walking">Walking</h2>

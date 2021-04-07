@@ -32,9 +32,9 @@ So I started playing with Shortcuts and came up with this workflow…
   </ul>
 </blockquote>
 
-<figure class="width-50" aria-describedby="workflow">
+<figure aria-describedby="workflow">
   <img src="/images/copy-location-shortcuts.png" alt="">
-  <figcaption class="text-small">
+  <figcaption>
     Screenshot of Shortcuts app
   </figcaption>
 </figure>

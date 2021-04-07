@@ -7,7 +7,7 @@ image-alt: The very long bulletin page on the right and the new very short page 
 excerpt: A trip to GDS to discuss service and graphic design. Plus prototypes, pattern audits and moaning.
 ---
 
-<p class="lede">This week included a trip to GDS to discuss service design and graphic design. Plus location page prototypes, pattern audits and moaning.</p>
+This week included a trip to GDS to discuss service design and graphic design. Plus location page prototypes, pattern audits and moaning.
 
 ## Monday
 

@@ -6,7 +6,7 @@ image: "by-the-power-of-data.jpg"
 image-alt: "A round sticker that says 'by the power of data'. He-Man stands in front, raising his sword."
 ---
 
-<p class="lede">I’ve been at <a href="https://www.swirrl.com/">Swirrl</a> for 12 months (happy swirrliversary to me)!</p>
+<p>I’ve been at <a href="https://www.swirrl.com/">Swirrl</a> for 12 months (happy swirrliversary to me)!</p>
 
 I joined as an interaction designer back in April 2019. I'd spotted that they were on the lookout for a designer after [Jamie](https://twitter.com/northernjamie) shared a link on Twitter.
 

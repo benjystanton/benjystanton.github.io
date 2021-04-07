@@ -12,7 +12,7 @@ image-alt: Colourful stained glass windows at Coventry cathedral.
   alt-text="Colourful stained glass windows at Coventry cathedral."
   %}
 
-<p class="lede">This week I travelled to Newport, Titchfield and Coventry and I realised while writing these that I'd been on 10 different trains!</p>
+<p>This week I travelled to Newport, Titchfield and Coventry and I realised while writing these that I'd been on 10 different trains!</p>
 
 ## Logos, letters and campaign websites
 

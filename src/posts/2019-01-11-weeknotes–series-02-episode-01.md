@@ -4,7 +4,7 @@ title: Weeknotes – series 02 episode 01
 categories: weeknotes
 ---
 
-<p class="lede">This was my first week back after Christmas and my first week on the Census cross-service team.</p>
+<p>This was my first week back after Christmas and my first week on the Census cross-service team.</p>
 
 I was weirdly nervous because I didn’t know where I was meant to sit, but it turns out that nearly everyone was moving desk. The whole Survey Data Collection department was being reorganised as it gets ready for the Census test later this year.
 

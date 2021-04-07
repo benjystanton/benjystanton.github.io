@@ -4,7 +4,7 @@ title: "Weeknotes – series 03 episode 04"
 categories: weeknotes data swirrl
 ---
 
-<p class="lede">This week I have been mostly thinking about user-centred design and how to apply it when designing, measuring and improving data services (again).</p>
+<p>This week I have been mostly thinking about user-centred design and how to apply it when designing, measuring and improving data services (again).</p>
 
 ## DWP's presentation at Data Bites
 

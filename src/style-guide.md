@@ -74,10 +74,10 @@ Lorem ipsum dolor sit amet, consectetur adip*isicing elit, sed do eiusmod * temp
 ### Lede
 
 ``` 
-<p class="lede">A large intro paragraph or summary.</p>
+<p>A large intro paragraph or summary.</p>
 ```
 
-<p class="lede">A large intro paragraph or summary.</p>
+<p>A large intro paragraph or summary.</p>
 
 ### Blockquote
 

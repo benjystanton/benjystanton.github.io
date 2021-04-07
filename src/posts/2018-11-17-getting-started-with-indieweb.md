@@ -5,7 +5,7 @@ categories: nablopomo release-notes
 tag: NaBloPoMo2018
 ---
 
-<p class="lede">I decided to add some <a href="https://indieweb.org/Getting_Started">indieweb</a> goodness to the site. The <a href="https://indiewebify.me/">indiewebify.me</a> validators were really helpful to check things were working.
+<p>I decided to add some <a href="https://indieweb.org/Getting_Started">indieweb</a> goodness to the site. The <a href="https://indiewebify.me/">indiewebify.me</a> validators were really helpful to check things were working.
 </p>
 
 ## Here's what I've done so far…

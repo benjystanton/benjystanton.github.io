@@ -5,7 +5,7 @@ categories: accessibility
 last_modified_at: 5 April 2021
 ---
 
-<p class="lede">A list of teams who share their accessibility audit plans, backlogs and roadmaps in the open. Last updated on {{ last_modified_at }}.</p>
+<p>A list of teams who share their accessibility audit plans, backlogs and roadmaps in the open. Last updated on {{ last_modified_at }}.</p>
 
 
 - [Buffer's accessibility roadmap on Trello](https://trello.com/b/QruYduyo/accessibility-roadmap)

@@ -7,7 +7,7 @@ image-alt: A cluster of post-its that focus on the new modular approach we're pr
 excerpt: We got a new graphic designer and a new UX designer. Ryan Dunn popped in too.
 ---
 
-<p class="lede">This week, we got a new graphic designer and a new user experience designer. Ryan Dunn popped in too.</p>
+<p>This week, we got a new graphic designer and a new user experience designer. Ryan Dunn popped in too.</p>
 
 ## Monday
 

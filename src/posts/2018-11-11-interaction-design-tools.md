@@ -14,7 +14,7 @@ image-alt: "Icons in my Mac's dock, including Github, Atom and Terminal"
   alt-text="The dock on my Mac, showing the app icons that I use frequently."
 %}
 
-<p class="lede">This blog post looks at the tools that I use every day. Interesting to note the lack of any design apps like Sketch or Adobe Creative Cloud.</p>
+<p>This blog post looks at the tools that I use every day. Interesting to note the lack of any design apps like Sketch or Adobe Creative Cloud.</p>
 
 ## Stationery
 

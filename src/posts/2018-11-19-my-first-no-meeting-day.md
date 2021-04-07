@@ -6,7 +6,7 @@ categories: nablopomo
 tag: NaBloPoMo2018
 ---
 
-<p class="lede">If you follow me on Twitter, you’ll know that <a href="https://twitter.com/benjystanton/status/1044599479721218048">I moan about meetings a lot</a>. Lots of people have recommended that I block out time in my calendar to make sure I <a href="{{ site.url }}/blog/how-to-focus-in-open-plan-offices/">have space in my week for focussed work</a>.</p>
+<p>If you follow me on Twitter, you’ll know that <a href="https://twitter.com/benjystanton/status/1044599479721218048">I moan about meetings a lot</a>. Lots of people have recommended that I block out time in my calendar to make sure I <a href="/blog/how-to-focus-in-open-plan-offices/">have space in my week for focussed work</a>.</p>
 
 This seems obvious in hindsight, but joining the Civil Service has been a big culture shock for me. 3 years ago I was freelancing, working remotely on small projects. Now I'm leading a small team in a large organisation. Even though I promised myself I wouldn't end up stuck in meetings all day, that is what has happened.
 

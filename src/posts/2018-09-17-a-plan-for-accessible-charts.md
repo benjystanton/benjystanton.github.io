@@ -8,7 +8,7 @@ image: "a11y-chart.jpg"
 image-alt: "Sketch of the word A11y on grid paper boxed in by x and y axis lines"
 ---
 
-<p class="lede">A list of user research findings, accessibility report findings, best practice, resources and good ideas that I’ve collected. Last updated on {{ last_modified_at }}.</p>
+A list of user research findings, accessibility report findings, best practice, resources and good ideas that I’ve collected. Last updated on {{ last_modified_at }}.
 
 ## How to make accessible charts
 
@@ -98,7 +98,7 @@ This [game on the Apple app store uses some nice patterns](https://apps.apple.co
 - [How to Make Charts with SVG](https://css-tricks.com/how-to-make-charts-with-svg/)
 - [Reliable and Valid SVG Accessibility](https://fizz.studio/blog/reliable-valid-svg-accessibility/)
 
-[Read more about SVGs in this blog post]({{ site.url}}/blog/add-svg-icons/)
+[Read more about SVGs in this blog post](/blog/add-svg-icons/)
 
 ## HTML mark-up
 

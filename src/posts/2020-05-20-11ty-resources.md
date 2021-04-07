@@ -4,7 +4,7 @@ title: 11ty resources
 categories: design tools
 ---
 
-<p class="lede">A list of my 11ty bookmarks. <a href="https://www.11ty.dev/">11ty</a> (or Eleventy) is a static site generator.</p>
+<p>A list of my 11ty bookmarks. <a href="https://www.11ty.dev/">11ty</a> (or Eleventy) is a static site generator.</p>
 
 - [Beginner's Guide to Eleventy [Part I] from Tatiana Mac](https://tatianamac.com/posts/beginner-eleventy-tutorial-parti/)
 - [Easily Use Design Tokens In Eleventy from Heydon Pickering](https://heydonworks.com/article/design-tokens-in-eleventy/)

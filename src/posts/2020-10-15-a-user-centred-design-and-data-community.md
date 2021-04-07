@@ -4,7 +4,7 @@ title: A user-centred design and data community
 categories: data design ux
 ---
 
-<p class="lede">Back when I worked at ONS (Office for National Statistics), I remember looking around, trying to find other interaction designers and user researchers across government who were working on data publishing services.</p>
+<p>Back when I worked at ONS (Office for National Statistics), I remember looking around, trying to find other interaction designers and user researchers across government who were working on data publishing services.</p>
 
 Since then, I've met (well, via Twitter) a few people working on these kinds of services. [Jeremy](https://twitter.com/jeremyhhy) and [Pete](https://twitter.com/peterjobes) in particular have been doing great work, and whenever I chatted to them it felt like we were facing similar challenges. For example, presenting data in user-friendly ways or working with data professionals who aren't used to working with interaction designers.
 

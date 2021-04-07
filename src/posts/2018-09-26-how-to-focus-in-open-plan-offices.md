@@ -5,7 +5,7 @@ categories: design
 excerpt: Earlier this week, I asked the Twitter hive mind for tips how to get focussed work done when working in open plan offices.
 ---
 
-<p class="lede">Earlier this week, I asked the Twitter hive mind for tips how to get focussed work done when working in open plan offices.</p>
+Earlier this week, I asked the Twitter hive mind for tips how to get focussed work done when working in open plan offices.
 
 <br>
 

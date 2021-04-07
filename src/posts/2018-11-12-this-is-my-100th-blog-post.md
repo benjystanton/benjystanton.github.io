@@ -7,7 +7,7 @@ tag: NaBloPoMo2018
 excerpt: This is my 100th blog post. Here's to 100 more.
 ---
 
-<p class="lede">This is my 100th blog post.</p>
+<p>This is my 100th blog post.</p>
 
 I've been writing on some version of this blog since at least 2007. I've had 3 kids, 6 jobs and 2 houses since then.
 
