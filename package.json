@@ -19,5 +19,8 @@
   "homepage": "https://github.com/benjystanton/benjystanton.github.io#readme",
   "dependencies": {
     "@11ty/eleventy": "^0.12.1"
+  },
+  "devDependencies": {
+    "@11ty/eleventy-plugin-rss": "^1.1.1"
   }
 }
