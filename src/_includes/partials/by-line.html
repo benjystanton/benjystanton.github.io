@@ -2,3 +2,12 @@
   <a rel="author" href="{{ site.url }}">Benjy Stanton</a> on
   <a href="{{ page.url }}">{{ page.date | date: "%e %B %Y" }}</a>
 </small>
+<ul>
+  {% for tag in tags %}
+  {% if tag == "post" %}
+  {% continue %}
+  {% else %}
+  <li><a href="/blog/category/{{ tag | slug }}">{{ tag | skip: "post" }}</a></li>
+  {% endif %}
+  {% endfor %}
+</ul>
