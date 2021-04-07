@@ -6,8 +6,6 @@ categories: weeknotes
 
 ![alt text](/images/file-name.ext)
 
-<p class="lede"></p>
-
 ## Monday
 
 ## Tuesday
