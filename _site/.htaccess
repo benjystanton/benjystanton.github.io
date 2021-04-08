@@ -1,3 +1,0 @@
-ErrorDocument 404 {{ site.url }}/404
-
-Redirect 301 /projects/web-animation-resources/ https://www.benjystanton.co.uk/about/web-animation-resources/

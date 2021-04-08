@@ -1,12 +1,12 @@
 ---
-layout: post
+layout: layouts/post
 title: Weeknotes – series 01 episode 02
-categories: weeknotes
+tags:
+- post
+- Weeknotes
 ---
 
-![alt text]({{ site.url }}/assets/file-name.ext)
-
-<p class="lede"></p>
+![alt text](/images/file-name.ext)
 
 ## Monday
 

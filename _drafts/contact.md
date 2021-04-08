@@ -1,7 +1,7 @@
 ---
 title: Contact
 author: benjystanton
-layout: page
+layout: layouts/page
 ---
 ## [benjy@benjystanton.co.uk][1]
 

@@ -1,0 +1,5 @@
+{
+    "layout": "layouts/post",
+    "permalink": "blog/{{ title | replace: '’', '' | slug | url_encode }}/",
+    "tags": "post"
+}

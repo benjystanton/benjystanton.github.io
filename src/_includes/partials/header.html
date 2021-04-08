@@ -1,0 +1,21 @@
+<a href="#main-content">Skip to main content</a>
+<header>
+  <p>Excuse the mess, I'm currently redesigning this blog. <a href="/blog/switching-to-eleventy-but-still-naked/">Read more about the redesign</a>.</p>
+  <p><a href="{{ site.baseurl }}/">Benjy Stanton</a></p>
+  <nav>
+    <ul>
+      <li>
+        <a{% if page.url=='/' %} aria-current="page" {% endif %} href="/">Home</a>
+      </li>
+      <li>
+        <a{% if page.url=='/about/' %} aria-current="page" {% endif %} href="/about/">About</a>
+      </li>
+      <li>
+        <a{% if page.url=='/blog/' %} aria-current="page" {% endif %} href="/blog/">Blog</a>
+      </li>
+      <li>
+        <a{% if page.url=='/style-guide/' %} aria-current="page" {% endif %} href="/style-guide/">Style guide</a>
+      </li>
+    </ul>
+  </nav>
+</header>

@@ -1,7 +1,9 @@
 ---
-layout: post
+layout: layouts/post
 title: Holiday notes
-categories: personal
+tags:
+- post
+- Personal
 ---
 
 ## April – 16 months to go

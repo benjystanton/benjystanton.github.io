@@ -1,7 +1,7 @@
 ---
 title: My name is Benjy and I’m a UX/UI designer
 author: benjystanton
-layout: page
+layout: layouts/page
 ---
 I have over 10 years experience designing digital things. I work at [Leadin][1], run my own freelance business and I organise a [design meet-up][2].
 

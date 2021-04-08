@@ -1,11 +1,9 @@
 ---
-layout: post
+layout: layouts/post
 title: Design, admin and meetings — carving out time for different types of work
 categories:
 excerpt:
 ---
-
-<p class="lede"></p>
 
 I've blogged before about [how ONS is my first job in a large organisation](/blog/my-first-12ish-months/). Previously I had only worked for small design agencies or as a freelancer.
 

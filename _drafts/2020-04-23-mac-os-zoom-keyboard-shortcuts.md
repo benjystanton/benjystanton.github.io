@@ -1,7 +1,9 @@
 ---
-layout: post
+layout: layouts/post
 title: macOS Zoom keyboard shortcuts
-categories: accessibility 
+tags:
+- post
+- Accessibility 
 ---
 
 

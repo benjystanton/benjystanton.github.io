@@ -1,0 +1,26 @@
+{
+  "name": "benjystanton",
+  "version": "1.0.0",
+  "description": "My personal site.",
+  "main": ".eleventy.js",
+  "scripts": {
+    "start": "npx eleventy --serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benjystanton/benjystanton.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benjystanton/benjystanton.github.io/issues"
+  },
+  "homepage": "https://github.com/benjystanton/benjystanton.github.io#readme",
+  "dependencies": {
+    "@11ty/eleventy": "^0.12.1"
+  },
+  "devDependencies": {
+    "@11ty/eleventy-plugin-rss": "^1.1.1"
+  }
+}

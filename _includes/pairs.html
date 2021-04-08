@@ -1,6 +1,0 @@
-<dl>
-  {% for item in include.list %}
-  <dt>{% if item.url %}<a {% if item.aria-label %}aria-label="{{ item.aria-label }}"{% endif %} href="{{ item.url }}">{{ item.name }}</a>{% else %}{{ item.name }}{% endif %}</dt>
-  <dd>{{ item.description }}</dd>
-  {% endfor %}
-</dl>
