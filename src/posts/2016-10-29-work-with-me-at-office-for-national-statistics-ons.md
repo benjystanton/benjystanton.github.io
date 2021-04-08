@@ -3,7 +3,9 @@ layout: layouts/post
 permalink: "blog/work-with-me-at-office-for-national-statistics-ons/"
 title: Work with me at Office for National Statistics (ONS)
 date: 2016-10-29 01:14:00  
-categories: ons
+tags:
+- post
+- ONS
 image: ons-logomark.png
 image-alt: Office for National Statistics logomark
 ---

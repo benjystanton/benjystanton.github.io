@@ -3,7 +3,10 @@ layout: layouts/post
 permalink: "blog/things-my-little-girls-have-taught-me-about-feminism/"
 title: Things my little girls have taught me about feminism
 date: 2016-08-26 11:12:00  
-categories: speaking personal
+tags:
+- post
+- Speaking
+- Personal
 image: my-little-girls.png
 image-alt: My 2 little girls, smiling in a phone box.
 ---

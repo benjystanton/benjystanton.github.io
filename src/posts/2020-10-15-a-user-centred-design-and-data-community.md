@@ -1,7 +1,11 @@
 ---
 layout: layouts/post
 title: A user-centred design and data community
-categories: data design ux
+tags:
+- post
+- Data
+- Design
+- UX
 ---
 
 <p>Back when I worked at ONS (Office for National Statistics), I remember looking around, trying to find other interaction designers and user researchers across government who were working on data publishing services.</p>

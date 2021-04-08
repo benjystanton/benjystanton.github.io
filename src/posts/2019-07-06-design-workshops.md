@@ -1,8 +1,13 @@
 ---
 layout: layouts/post
 title: Design workshops
-categories: design nablopomo service-design tools
-tag: NaBloPoMo2019
+tags:
+- post
+- NaBloPoMo
+- NaBloPoMo 2019
+- Design
+- Service design
+- Tools
 last_modified_at: 29 June 2020
 ---
 

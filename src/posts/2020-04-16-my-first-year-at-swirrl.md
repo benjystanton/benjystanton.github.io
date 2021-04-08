@@ -1,7 +1,10 @@
 ---
 layout: layouts/post
 title: My first year at Swirrl
-categories: personal swirrl
+tags:
+- post
+- Personal
+- Swirrl
 image: "by-the-power-of-data.jpg"
 image-alt: "A round sticker that says 'by the power of data'. He-Man stands in front, raising his sword."
 ---
@@ -12,9 +15,9 @@ I joined as an interaction designer back in April 2019. I'd spotted that they we
 
 {%
   include partials/image-with-caption.html
-  image="by-the-power-of-data.jpg"
-  caption="Swirrl's Power of Data laptop sticker"
-  alt-text="A round sticker that says 'by the power of data'. He-Man stands in front, raising his sword."
+  image:"by-the-power-of-data.jpg"
+  caption:"Swirrl's Power of Data laptop sticker"
+  alt-text:"A round sticker that says 'by the power of data'. He-Man stands in front, raising his sword."
 %}
 
 I was a little worried that my skills weren't technical enough for a software team like Swirrl. But the job description was open and honest, and it made them seem like a very supportive and flexible team (which it turns out, they really are!). Plus, my time working with data at Office for National Statistics (ONS) meant that I had some relevant experience.

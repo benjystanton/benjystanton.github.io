@@ -1,7 +1,10 @@
 ---
 layout: layouts/post
 title: Making data tables more accessible
-categories: data accessibility
+tags:
+- post
+- Data
+- Accessibility
 image: "table-structure-square.png"
 image-alt: "Think about structure, not just the visual layout. Don't split text and headings across cells."
 last_modified_at: 16 October 2020

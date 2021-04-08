@@ -3,7 +3,11 @@ layout: layouts/post
 permalink: "blog/uk-government-accessibility-meet-up/"
 title: The first UK Government accessibility meet-up
 date: 2016-07-22 18:25:00  
-categories: accessibility design meetup
+tags:
+- post
+- Accessibility
+- Design
+- Meetup
 ---
 
 Earlier this year, I attended a government meet-up at the Mozilla offices in London. There were speakers from UK Government, the National Health Service (NHS) and the British Broadcasting Corporation (BBC), all brought together to talk about how they design accessible services. Here is my quick round-up of the talks and topics covered.

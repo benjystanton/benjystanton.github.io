@@ -1,7 +1,9 @@
 ---
 layout: layouts/post
 title: "Some personal goals for 2021"
-categories: personal
+tags:
+- post
+- Personal
 ---
 
 - Average daily steps: 6500

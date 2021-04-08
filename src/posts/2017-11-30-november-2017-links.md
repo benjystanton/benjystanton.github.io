@@ -2,7 +2,9 @@
 layout: layouts/post
 permalink: "blog/november-2017-links/"
 title: November 2017 bookmarks
-categories: links
+tags:
+- post
+- Links
 ---
 
 <dl>

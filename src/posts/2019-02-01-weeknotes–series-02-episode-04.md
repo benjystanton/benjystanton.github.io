@@ -1,15 +1,18 @@
 ---
 layout: layouts/post
 title: Weeknotes – series 02 episode 04
-categories: weeknotes
+tags:
+- post
+- Weeknotes
+
 image: services-week-square.jpg
 image-alt: A laptop showing a live stream from London. A designer stands next to a slide that says “what are the new accessibility regulations?”.
 ---
 
 {% include partials/image-with-caption.html
-  image="services-week.jpg"
-  caption="Watching services week from my kitchen"
-  alt-text="A laptop showing a live stream from London. A designer stands next to a slide that says “what are the new accessibility regulations?”."
+  image:"services-week.jpg"
+  caption:"Watching services week from my kitchen"
+  alt-text:"A laptop showing a live stream from London. A designer stands next to a slide that says “what are the new accessibility regulations?”."
   %}
 
 ## Services week

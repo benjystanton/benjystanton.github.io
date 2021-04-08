@@ -2,7 +2,9 @@
 layout: layouts/post
 permalink: "blog/5-things-andy-taught-me/"
 title: Five things Andy taught me
-categories: personal
+tags:
+- post
+- Personal
 ---
 
 <p>This is my response to <a href="https://twitter.com/mr_dudders">Andy</a>’s blog post <a href="http://mrdudders.posthaven.com/five-things-benjy-taught-me">five things Benjy taught me</a>. If you’re tired by our cheesy web bromance, turn away now.</p>

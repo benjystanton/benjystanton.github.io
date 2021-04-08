@@ -3,7 +3,10 @@ layout: layouts/post
 permalink: "blog/my-12-year-quest/"
 title: My 12 year quest to get a public service design job
 date: 2017-02-17 22:38:00  
-categories: ons service-design
+tags:
+- post
+- ONS
+- Service design
 image: walter-and-kermit.png
 image-alt: Walter and Kermit from The Muppets
 excerpt: There have been a lot of 'I'm leaving government posts' recently. It feels a bit weird because I've been trying for years to get in.

@@ -1,7 +1,11 @@
 ---
 layout: layouts/post
 title: "Weeknotes – series 03 episode 05"
-categories: weeknotes data swirrl
+tags:
+- Weeknotes
+- Data
+- Swirrl
+- post
 ---
 
 ## Wellcome data labs

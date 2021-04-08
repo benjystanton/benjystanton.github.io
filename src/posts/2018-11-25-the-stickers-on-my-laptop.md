@@ -1,7 +1,10 @@
 ---
 layout: layouts/image
-categories: images nablopomo
-tag: NaBloPoMo2018
+tags:
+- Images
+- NaBloPoMo
+- post
+- NaBloPoMo 2018
 image: "the-stickers-on-my-laptop.jpg"
 image-alt: "A MacBook Pro lid covered in colourful, mostly circular stickers."
 title: The stickers on my laptop

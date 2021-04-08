@@ -1,15 +1,19 @@
 ---
 layout: layouts/post
 title: "Weeknotes – series 03 episode 01"
-categories: weeknotes data swirrl
+tags:
+- Weeknotes
+- Data
+- Swirrl
+- post
 image: view-from-the-office-square.jpg
 image-alt: St Peter's Square in Manchester, you can see old buildings, people walking and trams
 ---
 
 {% include partials/image-with-caption.html
-  image="view-from-the-office-square-large.jpg"
-  caption="View from Swirrl's shared office in St Peter's Square"
-  alt-text="St Peter's Square in Manchester, you can see old buildings, people walking and trams"
+  image:"view-from-the-office-square-large.jpg"
+  caption:"View from Swirrl's shared office in St Peter's Square"
+  alt-text:"St Peter's Square in Manchester, you can see old buildings, people walking and trams"
   %}
 
 <p>Some short-but-sweet weeknotes about my first ever week at Swirrl.</p>

@@ -1,7 +1,9 @@
 ---
 layout: layouts/post
 title: Pens for UX sketching and note taking
-categories: ux
+tags:
+- post
+- UX
 image: "pens-for-ux.jpg"
 image-alt: "a messy drawing of cat with lots coloured felt tip pens nearby"
 ---

@@ -3,7 +3,9 @@ layout: layouts/post
 permalink: "blog/{{ title | slug | url_encode }}/"
 title: Design is an actual job
 date: 2012-10-07 05:13:00
-categories: design
+tags:
+- post
+- Design
 ---
 I'm currently reading 'Design Is a Job' by Mike Monteiro. It's a great book, and I'd recommend it to anyone working in design. Mike's a web designer, but I'm sure his thoughts and stories could relate to any design sector.
 

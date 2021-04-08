@@ -3,7 +3,10 @@ layout: layouts/post
 permalink: "blog/{{ title | slug | url_encode }}/"
 title: Freelancing and switching off
 date: 2014-06-02 23:48:20
-categories: freelance remote-working
+tags:
+- post
+- Freelance
+- Remote working
 ---
 
 Since going freelance last February I’ve found it incredibly difficult to switch off when I’m not “in work” (hence writing this blog post at 11:30 on a Monday night). I work from home now, and even though I have freelanced before, I’m finding it harder this time to a draw a line between work life and family life.

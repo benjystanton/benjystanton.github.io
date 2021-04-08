@@ -3,7 +3,11 @@ layout: layouts/post
 permalink: "blog/the-new-abcs-of-research/"
 title: The New ABCs of Research by Ben Schneiderman
 date: 2016-06-21 16:30:00  
-categories: conferences research design
+tags:
+- post
+- Conferences
+- Research
+- Design
 ---
 
 Working at Swansea University has its benefits. I was invited along to a lecture by [Ben Schneiderman](https://twitter.com/benbendc) recently, one of the authors of [Designing the User Interface](https://www.amazon.co.uk/Designing-User-Interface-Human-Computer-Interaction/dp/0321537351). Here are my rough notes from his talk.

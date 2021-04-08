@@ -1,8 +1,11 @@
 ---
 layout: layouts/post
 title: Accessibility checklist
-categories: nablopomo accessibility
-tag: NaBloPoMo2019
+tags:
+- post
+- NaBloPoMo
+- Accessibility
+- NaBloPoMo 2019
 image: "checkbox.jpg"
 image-alt: "Sharpie drawing of a box with a tick or check in it, on grid paper"
 last_modified_at: 8 November 2020

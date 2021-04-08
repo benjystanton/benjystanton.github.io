@@ -1,7 +1,9 @@
 ---
 layout: layouts/post
 title: Service walkthrough
-categories: service-design
+tags:
+- post
+- Service design
 excerpt: Observe a service by going through the stages of the user journey.
 ---
 

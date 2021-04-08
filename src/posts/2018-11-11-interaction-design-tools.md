@@ -1,17 +1,21 @@
 ---
 layout: layouts/post
 title: Interaction design tools
-categories: nablopomo design tools
-tag: NaBloPoMo2018
+tags: 
+- NaBloPoMo
+- post
+- NaBloPoMo 2018
+- Design
+- Tools
 excerpt: The tools that I use every day. Interesting to note the lack of any design apps like Sketch.
 image: "my-dock-nov-2018-thumb.png"
 image-alt: "Icons in my Mac's dock, including Github, Atom and Terminal"
 ---
 
 {% include partials/image-with-caption.html
-  image="my-dock-nov-2018.png"
-  caption="A screenshot of the dock on my MacBook Pro"
-  alt-text="The dock on my Mac, showing the app icons that I use frequently."
+  image:"my-dock-nov-2018.png"
+  caption:"A screenshot of the dock on my MacBook Pro"
+  alt-text:"The dock on my Mac, showing the app icons that I use frequently."
 %}
 
 <p>This blog post looks at the tools that I use every day. Interesting to note the lack of any design apps like Sketch or Adobe Creative Cloud.</p>

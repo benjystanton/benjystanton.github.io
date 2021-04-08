@@ -3,7 +3,9 @@ layout: layouts/post
 permalink: "blog/user-research-activity-cards/"
 title: User research activity cards
 date: 2016-11-09 19:15:00  
-categories: research
+tags:
+- post
+- Research
 image: user-research-activity-cards.png
 image-alt: colourful activity cards stuck up on the wall
 ---

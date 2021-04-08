@@ -3,7 +3,9 @@ layout: layouts/post
 permalink: "blog/bbc-newsnight-talks-graphic-design-info-graphics/"
 title: BBC Newsnight talks graphic design and infographics
 date: 2010-08-10 12:46:00
-categories: design
+tags:
+- post
+- Design
 ---
 
 It was great to watch graphic design being discussed on the telly last night.

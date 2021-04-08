@@ -1,7 +1,9 @@
 ---
 layout: layouts/post
 title: Weeknotes – series 02 episode 02
-categories: weeknotes
+tags:
+- post
+- Weeknotes
 ---
 
 ## Chatting to the design team

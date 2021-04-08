@@ -3,7 +3,9 @@ layout: layouts/post
 permalink: "blog/{{ title | slug | url_encode }}/"
 title: Goodbye WordPress
 date: 2015-11-05 15:53:00
-categories: design
+tags:
+- post
+- Design
 ---
 
 Today marks the day that I’ve finally switched my blog over from WordPress to [Jekyll][1].

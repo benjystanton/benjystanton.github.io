@@ -1,7 +1,9 @@
 ---
 layout: layouts/post
 title: Weeknotes – series 02 episode 05
-categories: weeknotes
+tags:
+- Weeknotes
+- post
 ---
 
 ## Laura’s leaving do

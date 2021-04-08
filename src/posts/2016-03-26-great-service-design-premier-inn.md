@@ -3,7 +3,11 @@ layout: layouts/post
 permalink: "blog/great-service-design-premier-inn/"
 title: Great service design at Premier Inn  
 date: 2016-03-26 20:50:00  
-categories: personal design service-design
+tags:
+- post
+- Personal
+- Design
+- Service design
 ---
 
 I’m always impressed by the good service that me and my family get at Premier Inn.

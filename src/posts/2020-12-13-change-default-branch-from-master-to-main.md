@@ -1,7 +1,9 @@
 ---
 layout: layouts/post
 title: "Change default branch from master to main"
-categories: release-notes
+tags:
+- post
+- Release notes
 ---
 
 Yesterday [I tweeted that I want to switch this blog](https://twitter.com/benjystanton/status/1337685688259645441) from [Jekyll](https://jekyllrb.com/) to [Eleventy](https://www.11ty.dev/), then blog in the open as I rebuild the site with modern CSS techniques.

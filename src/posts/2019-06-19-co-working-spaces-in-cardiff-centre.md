@@ -1,7 +1,9 @@
 ---
 layout: layouts/post
 title: Co-working spaces in Cardiff centre
-categories: remote-working
+tags:
+- post
+- Remote working
 last_modified_at: 1 November 2019
 
 ---

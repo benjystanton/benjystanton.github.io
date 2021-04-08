@@ -3,7 +3,11 @@ layout: layouts/post
 permalink: "blog/{{ title | slug | url_encode }}/"
 title: Finding work and managing money as a freelancer
 date: 2015-03-09 22:05:22
-categories: conferences design freelance
+tags:
+- post
+- Conferences
+- Design
+- Freelance
 ---
 
 I’ve been freelancing this time around for just over a year, but in total, I’ve been self employed for over 4. I think that having been self employed on 2 separate occasions has given me an interesting perspective on what works and what doesn’t. This is a round-up of how I find new work and how I manage the money side of things.

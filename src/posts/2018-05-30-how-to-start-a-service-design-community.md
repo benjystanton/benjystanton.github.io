@@ -1,7 +1,9 @@
 ---
 layout: layouts/post
 title: How to start a service design community
-categories: service-design
+tags:
+- post
+- Service design
 excerpt: My notes from today’s cross-gov service design call.
 ---
 

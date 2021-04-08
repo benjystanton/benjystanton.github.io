@@ -1,10 +1,12 @@
 ---
 layout: layouts/post
 title: Weeknotes – series 02 episode 06
-categories: weeknotes
+tags:
+- Weeknotes
+- post
 ---
 
-<p>Short weeknotes feat. prototyping, Service Design in Government, my strong tweet game and Andy Bell.</p>
+Short weeknotes feat. prototyping, Service Design in Government, my strong tweet game and Andy Bell.
 
 ## Prototyping in code
 

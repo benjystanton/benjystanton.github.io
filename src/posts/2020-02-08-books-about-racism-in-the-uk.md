@@ -1,7 +1,9 @@
 ---
 layout: layouts/post
 title: Books about racism in the UK
-categories: personal
+tags:
+- post
+- Personal
 image: "anti-racism-books.jpg"
 image-alt: "Brit(ish), The Good Immigrant and Why I’m No Longer Talking to White People About Race"
 last_modified_at: 13 June 2020

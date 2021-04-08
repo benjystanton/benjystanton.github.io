@@ -1,7 +1,10 @@
 ---
 layout: layouts/post
 title: Remote working pros and cons
-categories: remote-working swirrl
+tags:
+- Remote working
+- Swirrl
+- post
 ---
 
 After almost 10 weeks of working at [Swirrl](http://www.swirrl.com/), here's a quick post that lists some of my pros and cons of working from home.

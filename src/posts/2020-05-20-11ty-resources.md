@@ -1,7 +1,10 @@
 ---
 layout: layouts/post
 title: 11ty resources
-categories: design tools
+tags:
+- post
+- Design
+- Tools
 ---
 
 <p>A list of my 11ty bookmarks. <a href="https://www.11ty.dev/">11ty</a> (or Eleventy) is a static site generator.</p>

@@ -3,7 +3,10 @@ layout: layouts/post
 permalink: "blog/{{ title | slug | url_encode }}/"
 title: When things get tedious
 date: 2015-11-12 14:20:00
-categories: design tools
+tags:
+- post
+- Design
+- Tools
 ---
 
 There is an on-going debate around whether or not designers should know how to code.

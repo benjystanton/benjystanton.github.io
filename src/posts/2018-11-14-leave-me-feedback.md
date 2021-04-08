@@ -1,8 +1,11 @@
 ---
 layout: layouts/post
 title: Leave me feedback
-categories: nablopomo release-notes
-tag: NaBloPoMo2018
+tags: 
+- NaBloPoMo
+- post
+- NaBloPoMo 2018
+- Release notes
 ---
 
 <p>Inspired by <a href="http://www.ermlikeyeah.com/">Simon’s website</a>, I want to encourage people to leave me feedback.</p>

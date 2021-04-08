@@ -1,8 +1,12 @@
 ---
 layout: layouts/post
 title: How improving typography can help us to meet user needs
-categories: nablopomo design accessibility
-tag: NaBloPoMo2018
+tags: 
+- NaBloPoMo
+- post
+- NaBloPoMo 2018
+- Design
+- Accessibility
 excerpt: What is typography? What problems does good typography solve? How do we know poor typography is a real problem?
 ---
 

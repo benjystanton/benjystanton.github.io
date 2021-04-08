@@ -2,10 +2,10 @@
 layout: layouts/post
 title: Accessible close buttons
 tags:
-- ux
+- UX
 - Accessibility
-- design
-- svg
+- Design
+- SVG
 - post
 image: "download-button-sketch.jpg"
 image-alt: "Drawing of a × symbol in a box on grid paper"

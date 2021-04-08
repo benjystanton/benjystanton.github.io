@@ -1,10 +1,14 @@
 ---
 layout: layouts/post
 title: "Weeknotes – series 03 episode 04"
-categories: weeknotes data swirrl
+tags:
+- Weeknotes
+- Data
+- Swirrl
+- post
 ---
 
-<p>This week I have been mostly thinking about user-centred design and how to apply it when designing, measuring and improving data services (again).</p>
+This week I have been mostly thinking about user-centred design and how to apply it when designing, measuring and improving data services (again).
 
 ## DWP's presentation at Data Bites
 
@@ -73,5 +77,5 @@ It reminded me that [Matt Knight](https://twitter.com/mattinwales) worked on som
 
 - [What is open data](https://www.dta.gov.au/help-and-advice/guides-and-tools/requirements-australian-government-websites/open-data#what-is-open-data) from DTA (Digital Transformation Agency) Australian Government
 - [Understanding your services](https://blog.wearefuturegov.com/understanding-your-services-3344d4bb1f75) by [Ben Holliday](https://twitter.com/BenHolliday)
-- [Understanding services through user needs ](https://pds.blog.parliament.uk/2019/01/11/understanding-services-through-user-needs%E2%80%AF/) by [Jeanette Clement](https://twitter.com/clementgraphics)
+- [Understanding services through user needs ](https://pds.blog.parliament.uk/2019/01/11/understanding-services-through-user-needs%E2%80%AF/) by [Jeanette Clement](https://twitter.com/clementcreate)
 

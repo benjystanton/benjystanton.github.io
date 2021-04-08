@@ -2,9 +2,9 @@
 layout: layouts/post
 title: "A plan for accessible maps"
 tags:
-- data
+- Data
 - Accessibility
-- design
+- Design
 - post
 last_modified_at: 7 December 2020
 image: "map-sketch.jpg"

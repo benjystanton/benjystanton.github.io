@@ -1,8 +1,11 @@
 ---
 layout: layouts/post
 title: Going full Monzo
-categories: nablopomo
-tag: NaBloPoMo2019
+tags:
+- post
+- NaBloPoMo
+- Personal
+- NaBloPoMo 2019
 ---
 
 <p>I’ve recently switched my bank current account to <a href="https://monzo.com/">Monzo</a>.</p>

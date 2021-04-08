@@ -3,7 +3,10 @@ layout: layouts/post
 permalink: "blog/retrospective-my-first-2-months/"
 title: Retrospective (my first 2 months)
 date: 2016-12-17 13:16:00  
-categories: ux ons
+tags:
+- post
+- UX
+- ONS
 ---
 
 It's been 2 months since I started at ONS (Office for National Statistics). Generally speaking, I'm pleased with how I'm doing. I'm excited by the work and the team are great.

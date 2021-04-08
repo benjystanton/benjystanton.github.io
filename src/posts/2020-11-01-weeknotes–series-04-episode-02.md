@@ -1,7 +1,14 @@
 ---
 layout: layouts/post
 title: "Weeknotes – series 04 episode 02"
-categories: weeknotes swirrl design ux data accessibility
+tags:
+- post
+- Weeknotes
+- Swirrl
+- Design
+- UX
+- Data
+- Accessibility
 ---
 
 <p>Notes about wireframing, checking accessibility with CSS off, the user-centred design and data community, and designing in the open.</p>

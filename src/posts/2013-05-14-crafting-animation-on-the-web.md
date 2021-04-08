@@ -3,7 +3,12 @@ layout: layouts/post
 permalink: "blog/{{ title | slug | url_encode }}/"
 title: Crafting animation on the web
 date: 2013-05-14 00:53:00
-categories: design animation conferences speaking
+tags:
+- post
+- Design
+- Animation
+- Conferences
+- Speaking
 ---
 
 Notes from my talk at Port80 2013, covering animation principles, CSS and workflow plus a link to my infamous Mario Part animation.

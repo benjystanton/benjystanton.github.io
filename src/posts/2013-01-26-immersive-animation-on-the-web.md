@@ -3,7 +3,10 @@ layout: layouts/post
 permalink: "blog/{{ title | slug | url_encode }}/"
 title: Immersive animation on the web
 date: 2013-01-26 22:27:00
-categories: design animation
+tags:
+- post
+- Design
+- Animation
 ---
 
 I just got back from the New Adventures conference in Nottingham, and one of the stand out talks for me was from Jon Tan. The talk, titled Billboards and Novels, was all about typography on the web, but it got me thinking about animation too.

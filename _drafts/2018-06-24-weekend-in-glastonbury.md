@@ -1,8 +1,9 @@
 ---
 layout: layouts/post
 title: Weekend in Glastonbury
-categories: personal
-excerpt:
+tags:
+- post
+- Personal
 ---
 
 ## Saturday

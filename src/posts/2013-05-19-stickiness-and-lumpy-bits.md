@@ -3,7 +3,11 @@ layout: layouts/post
 permalink: "blog/{{ title | slug | url_encode }}/"
 title: Stickiness and lumpy bits
 date: 2013-05-19 05:50:14
-categories: design animation conferences
+tags:
+- post
+- Design
+- Animation
+- Conferences
 ---
 
 I really enjoyed Andy Davies' talk on mobile site performance at Port80 2013, but one fact in particular stood out for me…

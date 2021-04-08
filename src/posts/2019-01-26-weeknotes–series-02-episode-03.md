@@ -1,15 +1,17 @@
 ---
 layout: layouts/post
 title: Weeknotes – series 02 episode 03
-categories: weeknotes
+tags:
+- post
+- Weeknotes
 image: coventry-cathedral-square.jpg
 image-alt: Colourful stained glass windows at Coventry cathedral.
 ---
 
 {% include partials/image-with-caption.html
-  image="coventry-cathedral.jpg"
-  caption="We got a chance to walk around Coventry cathedral on Thursday lunch time"
-  alt-text="Colourful stained glass windows at Coventry cathedral."
+  image:"coventry-cathedral.jpg"
+  caption:"We got a chance to walk around Coventry cathedral on Thursday lunch time"
+  alt-text:"Colourful stained glass windows at Coventry cathedral."
   %}
 
 <p>This week I travelled to Newport, Titchfield and Coventry and I realised while writing these that I'd been on 10 different trains!</p>

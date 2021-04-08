@@ -3,7 +3,9 @@ layout: layouts/post
 permalink: "blog/my-first-12ish-months/"
 title: My first 12ish months
 date: 2017-11-28 09:39:00  
-categories: ons
+tags:
+- post
+- ONS
 image: make-data-part-of-the-web-square.png
 image-alt: Stickers that read - make data part of the web
 excerpt: You'll never guess what happened after I joined Office for National Statistics (ONS).

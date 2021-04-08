@@ -1,7 +1,9 @@
 ---
 layout: layouts/post
 title: Weeknotes – series 01 episode 06
-categories: weeknotes
+tags:
+- post
+- Weeknotes
 excerpt: Inflatable bowels, Twitter charts and busy, busy days.
 ---
 

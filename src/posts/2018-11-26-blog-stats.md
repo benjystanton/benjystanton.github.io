@@ -1,76 +1,18 @@
 ---
 layout: layouts/post
 title: Blog stats
-categories: nablopomo
-tag: NaBloPoMo2018
+tags: 
+- NaBloPoMo
+- post
+- NaBloPoMo 2018
 ---
 
-<!-- You can't pass variables straight into includes, you have to capture them first https://jekyllrb.com/docs/includes/#passing-parameter-variables-to-includes  -->
+A quick post of blog stats that used to be on the homepage.
 
-<p>A quick post of blog stats that used to be on the homepage.</p>
+Note, this content used to be dynamic, but now it's static.
 
-<!-- This needs to be fixed after moving away from Jekyll to Netlify -->
-
-{% raw %}
-
-{% capture post-count %}
-{{ site.posts | size }}
-{% endcapture %}
-
-{% capture category-count %}
-{{ site.categories | size }}
-{% endcapture %}
-
-{% capture pages-count %}
-{{ site.pages| size }}
-{% endcapture %}
-
-{% capture images-count %}
-{{ site.categories.images | size }}
-{% endcapture %}
-
-{% capture notes-count %}
-{{ site.categories.notes | size }}
-{% endcapture %}
-
-{% endraw %}
-
-<div>
-  <div>
-  {% include partials/big-number.html
-    big-number=post-count
-    text="posts"
-    url="/blog/"
-  %}
-  </div>
-  <div>
-  {% include partials/big-number.html
-    big-number=category-count
-    text="categories"
-    url="/blog/category/"
-  %}
-  </div>
-  <div>
-  {% include partials/big-number.html
-    big-number=pages-count
-    text="pages"
-  %}
-  </div>
-</div>
-
-<div>
-  <div>
-  {% include partials/big-number.html
-    big-number=images-count
-    text="images"
-    url="/blog/category/images"
-  %}
-  </div>
-  <div>
-  {% include partials/big-number.html
-    big-number=notes-count
-    text="notes"
-    url="/blog/category/notes"
-  %}
-  </div>
-</div>
+- 173 posts
+- 25 categories
+- 42 pages
+- 5 images
+- 4 notes

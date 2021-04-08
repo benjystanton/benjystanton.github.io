@@ -1,7 +1,11 @@
 ---
 layout: layouts/post
 title: "Weeknotes – series 03 episode 03"
-categories: weeknotes data swirrl
+tags:
+- Weeknotes
+- Data
+- Swirrl
+- post
 ---
 
 ## Mapping data ecosystems

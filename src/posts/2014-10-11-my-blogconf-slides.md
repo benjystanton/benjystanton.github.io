@@ -3,7 +3,11 @@ layout: layouts/post
 permalink: "blog/{{ title | slug | url_encode }}/"
 title: My BlogConf slides
 date: 2014-10-11 21:01:51
-categories: design conferences speaking
+tags:
+- post
+- Design
+- Conferences
+- Speaking
 ---
 
 Last Saturday (4th October) I spoke at BlogConf, an event aimed at bloggers of all levels. The speakers were a mix of bloggers, journalists, photographers and even poets.

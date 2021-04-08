@@ -1,7 +1,9 @@
 ---
 layout: layouts/post
 title: Weeknotes – series 01 episode 03
-categories: weeknotes
+tags:
+- post
+- Weeknotes
 image: pizza-union-square.jpg
 image-alt: a pizza with an egg and spinach topping
 excerpt: Featuring service design, accessible maths symbols and pizza.

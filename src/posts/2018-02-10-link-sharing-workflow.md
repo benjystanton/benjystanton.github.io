@@ -3,7 +3,9 @@ layout: layouts/post
 permalink: "blog/link-sharing-workflow/"
 title: "My link sharing workflow"
 date: 2018-02-10 08:01:00  
-categories: release-notes
+tags:
+- post
+- Release notes
 image: me-share.png
 image-alt: Sketch of a smily face and the RSS sharing icon
 ---

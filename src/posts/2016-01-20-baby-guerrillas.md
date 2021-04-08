@@ -2,7 +2,9 @@
 layout: layouts/post
 permalink: "blog/{{ title | slug | url_encode }}/"
 title: Baby guerrillas
-categories: ux
+tags:
+- post
+- UX
 image: baby-playing-mario-square.jpg
 image-alt: A baby pointing to Super Mario on a screen
 ---

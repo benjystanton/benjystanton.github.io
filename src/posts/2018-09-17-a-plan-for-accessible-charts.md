@@ -1,7 +1,11 @@
 ---
 layout: layouts/post
 title: A plan for accessible charts
-categories: accessibility data svg
+tags:
+- post
+- Accessibility
+- Data
+- SVG
 excerpt: A list of user research findings, accessibility report findings, best practice, resources and good ideas that I’ve collected over the past 2 years.
 last_modified_at: 12 December 2020
 image: "a11y-chart.jpg"
@@ -33,9 +37,7 @@ Read on for more detail.
 - Charts should be readable in black and white
 - Check design works in high contrast mode
 
-
-
-### Update on 5 December 2018<small>
+### Update on 5 December 2018
 
 Thanks to <a href="https://twitter.com/henryjameslau">Henry</a> for suggesting these points about how colour is used by data visualisation producers…
 

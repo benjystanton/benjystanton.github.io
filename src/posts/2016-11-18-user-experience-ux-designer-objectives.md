@@ -3,7 +3,10 @@ layout: layouts/post
 permalink: "blog/user-experience-ux-designer-objectives/"
 title: User experience (UX) designer objectives
 date: 2016-11-18 22:22:00  
-categories: ux ons
+tags:
+- post
+- UX
+- ONS
 ---
 
 We're working on some objectives for the UX design role at Office for National Statistics (ONS). These are pretty high level, and soon they'll have specific tasks under each. The tasks will help guide me and the other UX designers, and will be used as a way to monitor performance.

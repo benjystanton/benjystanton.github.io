@@ -1,7 +1,9 @@
 ---
 layout: layouts/post
 title: What have I accomplished this decade?
-categories: personal
+tags:
+- post
+- Personal
 ---
 
 A list of big things that I’ve done over the past 10 years.

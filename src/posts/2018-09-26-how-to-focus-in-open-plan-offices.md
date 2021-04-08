@@ -1,18 +1,16 @@
 ---
 layout: layouts/post
 title: How to focus in open plan offices
-categories: design
+tags:
+- Design
+- post
 excerpt: Earlier this week, I asked the Twitter hive mind for tips how to get focussed work done when working in open plan offices.
 ---
 
 Earlier this week, I asked the Twitter hive mind for tips how to get focussed work done when working in open plan offices.
 
-<br>
-
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Designers who work in open plan offices — how do you make space and time for focussed work?</p>&mdash; Benjy Stanton (@benjystanton) <a href="https://twitter.com/benjystanton/status/1044599479721218048?ref_src=twsrc%5Etfw">September 25, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<br>
 
 I got some great responses (thanks everyone!) so I've captured them here for prosperity…
 

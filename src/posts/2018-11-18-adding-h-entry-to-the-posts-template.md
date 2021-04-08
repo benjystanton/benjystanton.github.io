@@ -1,8 +1,11 @@
 ---
 layout: layouts/post
 title: Adding h-entry to the posts template
-categories: nablopomo release-notes
-tag: NaBloPoMo2018
+tags: 
+- NaBloPoMo
+- post
+- NaBloPoMo 2018
+- Release notes
 ---
 
 <p>The next step in getting my site <a href="https://indieweb.org/">indieweb</a> ready is to add <a href="http://microformats.org/wiki/h-entry">h-entry</a> microformat markup to the posts.</p>

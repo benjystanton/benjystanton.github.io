@@ -1,8 +1,11 @@
 ---
 layout: layouts/post
 title: Getting started with indieweb
-categories: nablopomo release-notes
-tag: NaBloPoMo2018
+tags: 
+- NaBloPoMo
+- post
+- NaBloPoMo 2018
+- Release notes
 ---
 
 <p>I decided to add some <a href="https://indieweb.org/Getting_Started">indieweb</a> goodness to the site. The <a href="https://indiewebify.me/">indiewebify.me</a> validators were really helpful to check things were working.

@@ -3,7 +3,9 @@ layout: layouts/post
 permalink: "blog/visual-note-taking-workshop-with-eleanor-beer/"
 title: Visual note-taking  with Eleanor Beer
 date: 2016-08-30 13:23:00  
-categories: meetup
+tags:
+- post
+- Meetup
 image: sketchnote-star.png
 image-alt: A sketch of a star.
 ---

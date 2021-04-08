@@ -2,13 +2,14 @@
 layout: layouts/post
 permalink: "blog/hiring-ux-designer-ons/"
 title: Hiring a user experience (UX) designer at ONS
-categories: ons
+tags:
+- post
+- ONS
 ---
 
 - Closing date: 11 Jun 2018
 - Salary: £28,450 to £33,249
 - Location: Newport
-- [Read the full job advert](https://www.civilservicejobs.service.gov.uk/csr/jobs.cgi?jcode=1581727)
 
 <!-- ## Applying for the post
 

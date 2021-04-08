@@ -3,7 +3,9 @@ layout: layouts/post
 permalink: "blog/training-welsh-three-peaks/"
 title: Training for the Welsh 3 Peaks  
 date: 2016-03-29 16:20:00  
-categories: personal
+tags:
+- post
+- Personal
 ---
 
 I’m currently in training for the Welsh 3 Peaks Challenge. Together with Hapo, Liam and Sami from Leadin, I’m going to be walking up the three tallest peaks in Wales (Snowdon, Cadair Idris and Pen y Fan) in 15 hours.

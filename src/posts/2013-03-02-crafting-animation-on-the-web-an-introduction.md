@@ -3,7 +3,11 @@ layout: layouts/post
 permalink: "blog/{{ title | slug | url_encode }}/"
 title: Crafting animation on the web an introduction
 date: 2013-03-02 20:51:00
-categories: design animation speaking
+tags:
+- post
+- Design
+- Animation
+- Speaking
 ---
 
 I'm going to be speaking about animation on the web at Port80 in May. In short, I'm hoping to answer the following questions…

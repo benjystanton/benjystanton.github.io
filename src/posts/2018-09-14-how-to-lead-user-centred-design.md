@@ -1,7 +1,9 @@
 ---
 layout: layouts/post
 title: How to lead user-centred design
-categories: ux
+tags:
+- post
+- UX
 excerpt: My brief notes from the Government Digital Service (GDS) essentials of leadership training, run by Rebecca Kemp and Ade Adewunmi.
 ---
 

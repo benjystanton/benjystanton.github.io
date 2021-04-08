@@ -3,7 +3,11 @@ layout: layouts/post
 permalink: "blog/reasonslondon/"
 title: Reasons London
 date: 2015-02-22 21:26:01
-categories: conferences design ux
+tags:
+- post
+- Conferences
+- Design
+- UX
 ---
 
 This a quick write up of my experience at [Reasons:London][1] this weekend (Friday 20th February).

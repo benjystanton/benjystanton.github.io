@@ -3,7 +3,11 @@ layout: layouts/post
 permalink: "blog/research-findings-long-term/"
 title: Research findings over the long term  
 date: 2016-04-16 17:57:00  
-categories: research conferences meetup
+tags:
+- post
+- Research
+- Conferences
+- Meetup
 ---
 
 My rough and patchy notes from the Cross Government Research meet-up that happened on Tuesday 12 April 2016 at DVLA in Swansea.

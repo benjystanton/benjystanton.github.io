@@ -1,8 +1,10 @@
 ---
 layout: layouts/post
 title: Coffee beans
-categories: nablopomo
-tag: NaBloPoMo2019
+tags:
+- post
+- NaBloPoMo
+- NaBloPoMo 2019
 ---
 
 A list of specialty coffees that I’ve tried at home, so I can remember which ones I like. Thanks to the excellent Square Peg for being my supplier of choice.

@@ -1,7 +1,12 @@
 ---
 layout: layouts/post
 title: "Weeknotes – series 04 episode 03"
-categories: weeknotes swirrl data ux
+tags:
+- post
+- Weeknotes
+- Swirrl
+- Data
+- UX
 ---
 
 <p>Notes about API user research, recording remote user research sessions, and onboarding remote team members during lockdown.</p>

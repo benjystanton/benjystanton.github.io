@@ -1,7 +1,11 @@
 ---
 layout: layouts/post
 title: Generally, it’s better to avoid opening links in new windows or tabs
-categories: ux accessibility design
+tags:
+- post
+- UX
+- Accessibility
+- Design
 last_modified_at: 20 May 2020
 ---
 

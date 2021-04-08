@@ -1,8 +1,10 @@
 ---
 layout: layouts/post
 title: Using Shortcuts app to add location data to my posts
-categories: nablopomo
-tag: NaBloPoMo2019
+tags:
+- post
+- NaBloPoMo
+- NaBloPoMo 2019
 ---
 
 I've been playing around with the [Shortcuts app](https://apps.apple.com/us/app/shortcuts/id915249334) since they added it to iOS. It allows you to string together actions to create automatic workflows.

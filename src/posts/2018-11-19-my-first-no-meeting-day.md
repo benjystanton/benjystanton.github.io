@@ -2,8 +2,10 @@
 layout: layouts/post
 permalink: "blog/my-first-no-meeting-day/"
 title: My first “no meeting” day
-categories: nablopomo
-tag: NaBloPoMo2018
+tags: 
+- NaBloPoMo
+- post
+- NaBloPoMo 2018
 ---
 
 <p>If you follow me on Twitter, you’ll know that <a href="https://twitter.com/benjystanton/status/1044599479721218048">I moan about meetings a lot</a>. Lots of people have recommended that I block out time in my calendar to make sure I <a href="/blog/how-to-focus-in-open-plan-offices/">have space in my week for focussed work</a>.</p>

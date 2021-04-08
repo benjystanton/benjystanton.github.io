@@ -1,7 +1,9 @@
 ---
 layout: layouts/post
 title: "Checking for visual changes with BackstopJS"
-categories: release-notes
+tags:
+- post
+- Release notes
 --- 
 
 With my site deployed to Netlify, but still living on a preview URL, I wanted to do a quick visual regression test against the old GitHub Pages build, to make sure nothing had broken.

@@ -1,7 +1,9 @@
 ---
 layout: layouts/post
 title: "Family friendly TV shows with LGBT characters"
-categories: personal
+tags:
+- post
+- Personal
 --- 
 
 | Name | Current streaming service (UK) |

@@ -3,7 +3,9 @@ layout: layouts/post
 permalink: "blog/disney-data/"
 title: Disney data
 date: 2017-09-22 11:51:00  
-categories: personal
+tags:
+- post
+- Personal
 excerpt: Data from our family trip to Disneyland Paris.
 ---
 

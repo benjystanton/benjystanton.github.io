@@ -3,7 +3,9 @@ layout: layouts/post
 permalink: "blog/creating-a-digital-delivery-culture/"
 title: Creating a digital delivery culture
 date: 2016-10-21 20:50:00  
-categories: design
+tags:
+- post
+- Design
 image: creating-a-digital-delivery-culture.png
 image-alt: Creating a digital delivery culture. Work in the open. Share, not send. Right people, same room. Less process, more progress. Don’t wait for permission. Show the thing.
 ---

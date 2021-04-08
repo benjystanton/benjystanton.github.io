@@ -3,7 +3,10 @@ layout: layouts/post
 permalink: "blog/should-designers-design-content/"
 title: Should designers design content?
 date: 2016-07-28 15:07:00  
-categories: content design
+tags:
+- post
+- Content
+- Design
 ---
 
 In my experience, interaction and visual designers are often relied upon to write the words used in an interface (also known as microcopy).

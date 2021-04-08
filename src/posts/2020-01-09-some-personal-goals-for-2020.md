@@ -1,7 +1,9 @@
 ---
 layout: layouts/post
 title: Some personal goals for 2020
-categories: personal
+tags:
+- post
+- Personal
 last_modified_at: 8 July 2020
 ---
 

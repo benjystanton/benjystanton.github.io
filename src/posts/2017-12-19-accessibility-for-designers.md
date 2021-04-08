@@ -3,7 +3,10 @@ layout: layouts/post
 permalink: "blog/accessibility-for-designers/"
 title: Accessibility for designers
 date: 2017-12-19 23:20:00  
-categories: accessibility design
+tags:
+- post
+- Accessibility
+- Design
 excerpt: A guide to web accessibility for graphic, visual and UI (user interface) designers.
 ---
 

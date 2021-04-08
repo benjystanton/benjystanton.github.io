@@ -3,7 +3,11 @@ layout: layouts/post
 permalink: "blog/readable-guessable-hackable-urls/"
 title: Readable, guessable and hackable urls
 date: 2013-11-29 11:41:00  
-categories: design content conferences
+tags:
+- post
+- Design
+- Content
+- Conferences
 ---
 
 The stand-out talk at Handheld 2013 was from Jeremy Keith, Founder & Web Stuff Do-er(?) at Clearleft in Brighton. Among other things, he talked about the importance of designing urls.

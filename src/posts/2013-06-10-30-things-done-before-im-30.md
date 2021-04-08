@@ -3,7 +3,9 @@ layout: layouts/post
 permalink: "blog/30-things-done-before-im-30/"
 title: 30 things done before I'm 30
 date: 2013-06-10 11:05:56
-categories: personal
+tags:
+- post
+- Personal
 ---
 
 Bucket lists are fine, but with my 30th birthday just around the corner, I thought I'd make a list of things that I've already achieved.

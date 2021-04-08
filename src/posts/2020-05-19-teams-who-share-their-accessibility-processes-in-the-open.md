@@ -1,7 +1,9 @@
 ---
 layout: layouts/post
 title: Teams who share their accessibility processes in the open
-categories: accessibility
+tags:
+- post
+- Accessibility
 last_modified_at: 5 April 2021
 ---
 

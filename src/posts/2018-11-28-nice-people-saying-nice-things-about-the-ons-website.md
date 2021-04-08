@@ -1,10 +1,11 @@
 ---
 layout: layouts/post
 title: Nice people saying nice things about the ONS website
-categories: nablopomo
-tag: NaBloPoMo2018
+tags: 
+- NaBloPoMo
+- post
+- NaBloPoMo 2018
 ---
-
 
 <p>It was great to see some smart people, that I really respect, recognising the good work that we’re doing in ONS (Office for National Statistics) digital publishing today.</p>
 

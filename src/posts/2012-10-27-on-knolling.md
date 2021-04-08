@@ -3,7 +3,9 @@ layout: layouts/post
 permalink: "blog/{{ title | slug | url_encode }}/"
 title: On knolling
 date: 2012-10-27 22:24:00
-categories: design
+tags:
+- post
+- Design
 ---
 
 Darren taught me new word this week – knolling – it's the act of arranging objects in an orderly fashion. An example might be grouping all the things on your desk and placing them parallel to the edge in a grid-like fashion.

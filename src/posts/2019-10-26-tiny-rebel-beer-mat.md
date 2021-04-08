@@ -1,6 +1,8 @@
 ---
 layout: layouts/image
-categories: images
+tags:
+- post
+- Images
 image: "tiny-rebel-beer-mat.jpeg"
 image-alt: "Round beer mat pegged on display"
 title: Tiny Rebel beer mat

@@ -3,7 +3,9 @@ layout: layouts/post
 permalink: "blog/use-fewer-layouts/"
 title: "Use fewer layouts"
 date: 2018-02-03 21:08:00  
-categories: release-notes
+tags:
+- post
+- Release notes
 ---
 
 Jekyll uses templates stored in the `_layouts` folder to apply reusable designs to its pages. In a previous release, I created a list of [page layouts in use on this site](/blog/add-a-list-of-page-layouts) to help me spot inconsistencies.

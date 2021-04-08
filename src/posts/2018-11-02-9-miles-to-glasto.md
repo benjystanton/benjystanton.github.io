@@ -1,7 +1,10 @@
 ---
 layout: layouts/image
-categories: images nablopomo
-tag: NaBloPoMo2018
+tags: 
+- NaBloPoMo
+- post
+- NaBloPoMo 2018
+- Images
 image: "glasto-sign.jpg"
 image-alt: "A rusty roadside sign in the countryside"
 title: 9 miles to Glasto

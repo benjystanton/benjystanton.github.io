@@ -3,7 +3,9 @@ layout: layouts/post
 permalink: "blog/my-name-is-benjy-and-im-a-web-designer/"
 title: My name is Benjy and I’m a web designer
 date: 2014-02-04 10:03:02
-categories: design
+tags:
+- post
+- Design
 ---
 
 These words have been sitting in my ‘finish up and publish’ pile for almost two years and *finally* I’ve been inspired to do just that this week, after listening to [Unfinished Business][1] and then The Freelance Web. The idea of reclaiming the role of web design has been spoken about on both shows recently and I think they were inspired by [Dan Rubin][3]’s talk at the recent MK Geek Night All Dayer (although I didn’t attend).

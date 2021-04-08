@@ -3,7 +3,10 @@ layout: layouts/post
 permalink: "blog/{{ title | slug | url_encode }}/"
 title: Swansea design meet-up
 date: 2014-11-25 9:16:32
-categories: design meetup
+tags:
+- post
+- Design
+- Meetup
 ---
 
 I’m planning a design meet-up in Swansea. This is a timeline of my notes (expect them to change a lot).

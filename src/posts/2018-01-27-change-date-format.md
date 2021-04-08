@@ -3,7 +3,9 @@ layout: layouts/post
 permalink: "blog/change-date-format/"
 title: "Change date format"
 date: 2018-01-27 22:16:00  
-categories: release-notes
+tags:
+- post
+- Release notes
 ---
 
 The "published on" date sometimes appeared below the post-title and sometimes it appeared above it. I wanted to fix this small inconsistency. I also wanted to take this opportunity to make the date format a bit more natural by removing the leading zero from the date and writing out months in full.

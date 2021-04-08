@@ -1,7 +1,9 @@
 ---
 layout: layouts/post
 title: "Deploy my Jekyll site to Netlify"
-categories: release-notes
+tags:
+- post
+- Release notes
 ---
 
 Before I switch to building the site with Eleventy, I want to move my current Jekyll site over to Netlify. This will help me to take advantage of [some of the things that Netlify does versus GitHub Pages](https://www.netlify.com/github-pages-vs-netlify/).

@@ -1,7 +1,12 @@
 ---
 layout: layouts/post
 title: User research questions for data users
-categories: design research ux data
+tags:
+- post
+- Design
+- Research
+- UX
+- Data
 ---
 
 <p>A list of questions to help with user research when designing data things.</p>

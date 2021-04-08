@@ -3,7 +3,10 @@ layout: layouts/post
 permalink: "blog/{{ title | slug | url_encode }}/"
 title: Making responsive HTML emails
 date: 2014-09-28 20:04:40
-categories: design email
+tags:
+- post
+- Design
+- Email
 ---
 
 This is a run down of my process for designing, building and testing responsive HTML emails. I’ve also included lots of links to articles and resources for further reading.

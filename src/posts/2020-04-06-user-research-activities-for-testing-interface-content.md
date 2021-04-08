@@ -1,7 +1,9 @@
 ---
 layout: layouts/post
 title: User research activities for testing interface content
-categories: research
+tags:
+- post
+- Research
 ---
 
 

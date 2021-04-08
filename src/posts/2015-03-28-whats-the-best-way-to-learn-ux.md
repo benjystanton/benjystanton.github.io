@@ -3,7 +3,10 @@ layout: layouts/post
 permalink: "blog/whats-the-best-way-to-learn-ux/"
 title: What’s the best way to learn UX?
 date: 2015-03-28 20:06:06
-categories: design ux
+tags:
+- post
+- Design
+- UX
 ---
 
 A friend of mine asked for ideas on learning UX, so [I turned to Twitter][1] and got a couple of really great responses.

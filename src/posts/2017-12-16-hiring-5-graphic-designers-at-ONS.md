@@ -3,7 +3,10 @@ layout: layouts/post
 permalink: "blog/hiring-5-graphic-designers-at-ONS/"
 title: We’re hiring 5 graphic designers at Office for National Statistics (ONS)
 date: 2017-12-16 07:41:00  
-categories: ons design
+tags:
+- post
+- ONS
+- Design
 image: porg-on-designers-cutting-mat.jpg
 image-alt: A cute Star Wars Porg model on a designer's cutting mat.
 excerpt: 3 digital designers and 2 brand and print designers in Newport. Closing 22 Jan 2018.

@@ -1,11 +1,14 @@
 ---
 layout: layouts/post
 title: How to be a more resilient service designer
-categories: design service-design
+tags:
+- Design
+- Service design
+- post
 last_modified_at: 20 May 2020
 ---
 
-<p>Last week, I turned to Twitter for help. I needed some tips on how to cope with some of the stress I was facing at work. I guessed that the challenges I was facing were pretty common to those faced by service designers.</p>
+Last week, I turned to Twitter for help. I needed some tips on how to cope with some of the stress I was facing at work. I guessed that the challenges I was facing were pretty common to those faced by service designers.
 
 <blockquote><p>Service designers! How do you cope with the stress of feeling out of control/your depth, when you are constantly trying to breakdown the boundaries between team, departments and organisations?</p>&mdash; Benjy Stanton (@benjystanton) <a href="https://twitter.com/benjystanton/status/1096064210566561793?ref_src=twsrc%5Etfw">February 14, 2019</a></blockquote>
 

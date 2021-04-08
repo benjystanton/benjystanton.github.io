@@ -2,7 +2,11 @@
 layout: layouts/post
 permalink: "blog/add-svg-icons/"
 title: Add SVG icons
-categories: release-notes accessibility svg
+tags:
+- post
+- Release notes
+- Accessibility
+- SVG
 image: svg-icon.png
 image-alt: Screenshot of the Twitter bird being edited in a vector drawing application
 last_modified_at: 5 April 2021

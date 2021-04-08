@@ -3,7 +3,9 @@ layout: layouts/post
 title: Accessible search form mark-up
 image: "search-icon.jpg"
 image-alt: "Drawing of a magnifying glass icon on grid paper"
-categories: accessibility
+tags:
+- post
+- Accessibility
 last_modified_at: 21 May 2020
 ---
 

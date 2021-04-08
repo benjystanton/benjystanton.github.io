@@ -1,11 +1,13 @@
 ---
 layout: layouts/post
 title: Introduction to interaction design in gov
-categories: nablopomo
-tag: NaBloPoMo2018
+tags: 
+- NaBloPoMo
+- post
+- NaBloPoMo 2018
 ---
 
-<p>I wrote this a few years ago when I was at DVLA (Driver and Vehicle Licensing Agency). It’s been hiding in GitHub, so I’ve moved it here. It’s mostly still relevant and useful. Well done past me.</p>
+I wrote this a few years ago when I was at DVLA (Driver and Vehicle Licensing Agency). It’s been hiding in GitHub, so I’ve moved it here. It’s mostly still relevant and useful. Well done past me.
 
 Interaction designers (sometimes called user experience designers) are an essential part of software teams that want to meet user needs.
 

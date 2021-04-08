@@ -1,7 +1,9 @@
 ---
 layout: layouts/post
 title: "Redirect custom domain name from GitHub pages to Netlify"
-categories: release-notes
+tags:
+- post
+- Release notes
 --- 
 
 This was the worst part of moving my site so far. Fiddling with DNS settings reminded me of when I used to be a freelance web designer, and I would offer hosting services to clients. 

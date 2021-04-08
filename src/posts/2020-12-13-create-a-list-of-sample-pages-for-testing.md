@@ -1,7 +1,9 @@
 ---
 layout: layouts/post
 title: "Create a list of sample pages for testing"
-categories: release-notes
+tags:
+- post
+- Release notes
 ---
 
 Having a representative sample of pages to check as I make changes to the blog will be useful for a few reasons.

@@ -3,7 +3,11 @@ layout: layouts/post
 permalink: "blog/{{ title | slug | url_encode }}/"
 title: Tools for recording usability tests
 date: 2016-01-22 20:53:00
-categories: ux design tools
+tags:
+- post
+- UX
+- Design
+- Tools
 ---
 
 Good old Twitter… I asked my friends to [recommend screen recording software](https://twitter.com/benjystanton/status/690206840827834368) (specifically for recording usability tests), and I got a list of great looking apps to try. Silverback was the clear favourite, although the latest version appears to be in private beta.

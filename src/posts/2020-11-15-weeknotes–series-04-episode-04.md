@@ -1,10 +1,15 @@
 ---
 layout: layouts/post
 title: "Weeknotes – series 04 episode 04"
-categories: weeknotes swirrl data accessibility
+tags:
+- post
+- Weeknotes
+- Swirrl
+- Data
+- Accessibility
 ---
 
-<p>This week I have been mostly thinking about accessible mark-up and content design for HTML tables (again).</p>
+This week I have been mostly thinking about accessible mark-up and content design for HTML tables (again).
 
 ## Adrian's simple, responsive, accessible table
 

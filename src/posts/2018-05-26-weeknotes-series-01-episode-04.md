@@ -1,7 +1,9 @@
 ---
 layout: layouts/post
 title: Weeknotes – series 01 episode 04
-categories: weeknotes
+tags:
+- post
+- Weeknotes
 image: modules.jpg
 image-alt: A cluster of post-its that focus on the new modular approach we're proposing for the ONS website
 excerpt: We got a new graphic designer and a new UX designer. Ryan Dunn popped in too.

@@ -1,7 +1,9 @@
 ---
 layout: layouts/post
 title: Weeknotes – series 01 episode 05
-categories: weeknotes
+tags:
+- post
+- Weeknotes
 image: bulletin-new-and-old-thumb.png
 image-alt: The very long bulletin page on the right and the new very short page on the left
 excerpt: A trip to GDS to discuss service and graphic design. Plus prototypes, pattern audits and moaning.

@@ -3,7 +3,10 @@ layout: layouts/post
 permalink: "blog/usability-research-labs-uk/"
 title: Usability research labs in the UK  
 date: 2016-03-13 20:34:00  
-categories: ux research
+tags:
+- post
+- UX
+- Research
   
 ---
 

@@ -1,7 +1,9 @@
 ---
 layout: layouts/post
 title: Writing user stories
-categories: design
+tags:
+- post
+- Design
 ---
 
 I've been looking again at user stories recently, and had a chance to reflect on why they're useful (and why they are difficult to get right). As I [wrote in my weeknotes last month](/blog/weeknotes-series-03-episode-05/)… "the middle bit is quite easy to write, the user groups are a little more difficult, and the “so that” bit is really difficult".

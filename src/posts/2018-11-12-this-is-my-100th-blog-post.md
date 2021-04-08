@@ -2,8 +2,10 @@
 layout: layouts/post
 permalink: "blog/this-is-my-100th-blog-post/"
 title: 100 blog posts
-categories: nablopomo
-tag: NaBloPoMo2018
+tags: 
+- NaBloPoMo
+- post
+- NaBloPoMo 2018
 excerpt: This is my 100th blog post. Here's to 100 more.
 ---
 

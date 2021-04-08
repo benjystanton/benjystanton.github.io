@@ -1,12 +1,12 @@
 ---
 layout: layouts/post
 title: Weeknotes – series 01 episode 02
-categories: weeknotes
+tags:
+- post
+- Weeknotes
 image: sisters-beach-square.jpg
 image-alt: 2 girls standing together, looking down at the beach on a sunny day
 excerpt: Heatwave edition.
-crosspost_to_medium: true
-
 ---
 
 ![2 girls standing together, looking down at the beach on a sunny day](/images/sisters-beach.jpg)
