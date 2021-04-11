@@ -64,7 +64,6 @@ I’m planning a design meet-up in Swansea. This is a timeline of my notes (ex
   * Announced the [idea on Twitter][8] (I have to do it now)
   * Went to the Swansea Software Development Meet-up to chat about it with Viv, Paul and Nic
 
- [1]: http://designswansea.org.uk/ "Design Swansea website"
  [2]: https://confirmsubscription.com/h/t/CF92D10C90D42536 "Email newsletter subscribe form"
  [3]: https://dribbble.com/shots/1899347-Early-logo-for-Design-Swansea "Early Design Swansea logo"
  [4]: https://twitter.com/DesignSwansea "Design Swansea on Twitter"

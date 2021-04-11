@@ -143,7 +143,7 @@ Once my email has been designed, built and processed with Ink’s inliner (to br
   * Double check phone numbers and email addresses (in the markup too)
   * Check you’ve included alt text and titles attributes where appropriate
   * Remove any unused CSS (frameworks are notorious for adding bloat)
-  * [Optimize images][20]
+  * Optimize images
   * Check your email with images turned-off
   * Update images to have absolute paths
 

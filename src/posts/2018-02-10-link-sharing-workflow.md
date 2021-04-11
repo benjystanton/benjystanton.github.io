@@ -47,22 +47,26 @@ Insert the component into the blog post and point it to the right month, for exa
 The list component automatically creates an unordered list of links.
 
 {% raw %}
+```
 <ul>
   {% for item in include.list %}
   <li><a href="{{ item.url }}">{{ item.label }}</a></li>
   {% endfor %}
 </ul>
+```
 {% endraw %}
 
 
 ### Example of the generated html
 
 {% raw %}
+```
 <ul>
 <li><a href="https://lawsofux.com/">Laws of UX</a></li>
 <li><a href="https://www.mearso.co.uk/blog/todo-system.html">Todo list system</a></li>
 <li><a href="https://www.sarasoueidan.com/blog/svg-coordinate-systems/">Understanding SVG Coordinate Systems and Transformations</a></li>
 </ul>
+```
 {% endraw %}
 
 ## 5. Steps each month

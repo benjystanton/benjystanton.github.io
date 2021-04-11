@@ -8,8 +8,7 @@ tags:
 - Release notes
 ---
 
-<p>I decided to add some <a href="https://indieweb.org/Getting_Started">indieweb</a> goodness to the site. The <a href="https://indiewebify.me/">indiewebify.me</a> validators were really helpful to check things were working.
-</p>
+I decided to add some indieweb goodness to the site. The indiewebify.me validators were really helpful to check things were working.
 
 ## Here's what I've done so far…
 
@@ -33,7 +32,6 @@ tags:
     <ul>
       <li><a class="u-url" href="https://twitter.com/benjystanton" rel="me">@benjystanton on Twitter</a></li>
       <li><a class="u-url" href="https://github.com/benjystanton/" rel="me">Github</a></li>
-      <li><a class="u-url" href="https://www.instagram.com/benjystanton/" rel="me">Instagram</a></li>
       <li><a class="u-email" href="mailto:benjystanton@gmail.com" rel="me">benjystanton@gmail.com</a></li>
     </ul>
 

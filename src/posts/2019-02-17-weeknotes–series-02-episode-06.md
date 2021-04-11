@@ -10,7 +10,7 @@ Short weeknotes feat. prototyping, Service Design in Government, my strong tweet
 
 ## Prototyping in code
 
-I got stuck into my new team's [pattern library](https://github.com/ONSdigital/pattern-library-v2) and [prototyping kit](https://github.com/onsdigital/sdc-prototypes) this week. I put my headphones on and listened to [Joe Cornish's playlist](https://www.bbc.co.uk/sounds/play/m0002d0g) on 6 music. It felt good to play around with code.
+I got stuck into my new team's [pattern library](https://github.com/ONSdigital/pattern-library-v2) and [prototyping kit](https://github.com/onsdigital/sdc-prototypes) this week. I put my headphones on and listened to Joe Cornish on 6 music. It felt good to play around with code.
 
 ## Service Design in Government
 
