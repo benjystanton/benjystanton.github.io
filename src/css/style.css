@@ -2,9 +2,11 @@ body {
     font-family: "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
     font-size: 1em;
     line-height: 1.5;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
 }
 code {
-    font-size: 1em;
+    font-size: 1.2em;
     white-space : pre-wrap;
 }
 @media screen and (min-width: 660px) {
