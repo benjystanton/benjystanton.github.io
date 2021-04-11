@@ -1,0 +1,15 @@
+body {
+    font-family: "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-size: 1.1rem;
+    line-height: 1.5;
+}
+@media screen and (min-width: 660px) {
+    body {
+        font-size: 1.4rem;
+        line-height: 1.65;
+    }
+}
+img {
+    height: auto;
+    width: 100%;
+}
