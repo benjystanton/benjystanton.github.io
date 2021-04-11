@@ -75,9 +75,6 @@ excerpt: My read later list from January.
   <dt><a href="https://dataingovernment.blog.gov.uk/2019/01/15/help-us-start-a-data-revolution-for-government/">Help us start a data revolution for government</a></dt>
   <dd>We're both passionate about how data can improve how government works, and we want to start a data revolution focusing on service delivery and improving human experience. We believe government is hugely underestimating the need to shift how we create, use and share data.</dd>
   
-  <dt><a href="https://mybrowser.fyi/report/5c3f2fbc8d118e0014b1a7bb">Information about your browser</a></dt>
-  <dd>Here's some information about your browser which should hopefully help resolve your tech support issue or bug. To get this report to the right person, you've got a couple of options. You can either share the url to this report, or send them to a structured, JSON version of the data here.</dd>
-  
   <dt><a href="https://medium.com/@davehouse_80809/the-amen-break-is-the-ultimate-design-pattern-53701e79e461">The Amen break is the ultimate design pattern</a></dt>
   <dd>Back in the late 60s Gregory Sylvester G. C. Coleman, the drummer of Washington DC funk and soul band The Winstons recorded a drum interlude that changed the world.</dd>
   

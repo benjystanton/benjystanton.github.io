@@ -93,7 +93,6 @@ I got an amazing response, and I recommend you take a [look at the entire thread
 ## Further reading
 - [Hope In The Dark (book)](https://www.amazon.co.uk/Hope-Dark-Canons-Book-51-ebook/dp/B002VM7FRQ/)
 - [A Simpler Way (book)](https://www.amazon.co.uk/Simpler-Way-WHEATLEY/dp/1576750507)
-- [How to manage yourself when you’re managing change (blog post)](https://medium.nobl.io/how-to-manage-yourself-when-youre-managing-change-e7f2a0522f1?gi=3e21fc8700ec)
 - [Without a Formal Mandate (blog post)](https://medium.com/@firebethfox/without-a-formal-mandate-8da218b0406b)
 
 ## Thanks
