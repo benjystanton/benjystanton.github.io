@@ -49,4 +49,4 @@ tags:
 ## Other things to know about me
 - I have 3 young kids
 - Before ONS I worked at the Driver and Vehicle Licensing Agency (DVLA) on the “Tell DVLA about a medical condition or disability” service as a user experience (UX) designer
-- I value [boring design](http://blog.capwatkins.com/the-boring-designer) over creating shiny things
+- I value [boring design](https://capwatkins.com/blog/the-boring-designer) over creating shiny things

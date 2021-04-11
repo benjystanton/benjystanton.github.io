@@ -12,11 +12,11 @@ Not surprisingly, a lot of [my twitter friends are stationery nerds](https://twi
 
 If you're after a new pen to try, here's a list of recommendations. Seems like there's a lot of love for the Paper Mate Flair?
 
-- [Paper Mate Flair](https://www.papermate.com/pens/felt-tip) <small>(via [Grace](https://twitter.com/graceellins), [Si](https://twitter.com/MyGuySi), [Sam](https://twitter.com/SamHallWales), [Jonathan](https://twitter.com/jopkins))</small>
+- Paper Mate Flair <small>(via [Grace](https://twitter.com/graceellins), [Si](https://twitter.com/MyGuySi), [Sam](https://twitter.com/SamHallWales), [Jonathan](https://twitter.com/jopkins))</small>
 - Pentel SignPen <small> 
 (via [Benjy](https://twitter.com/benjystanton), [Nic F](https://twitter.com/chameleonic), [Nic P](https://twitter.com/nicprice))</small>
 - [Rotring Tikky Graphic Fineliner](https://www.rotring.com/uk/fineliner-pen/154-tikky-graphic-fineliner-3501170814734.html) <small>(via [Rob](https://twitter.com/whitingx))</small>
-- [Parker Jotter](https://www.parkerpen.com/en-GB/jotter) <small>(via [Rob](https://twitter.com/whitingx))</small>
+- Parker Jotter <small>(via [Rob](https://twitter.com/whitingx))</small>
 - [Copic Multiliner](https://www.copic-shop.co.uk/copic-multiliner-sp-pens/) <small>(via [Paul](https://twitter.com/paulmsmith))</small>
 - [Pilot V-Ball 07](https://www.pilotpen.co.uk/en/v-ball-07-medium-tip.html) <small>(via [Stevan](https://twitter.com/stevanbarry))</small>
 - [Mitsubishi Uniball](https://uniball.co.uk/) <small>(via [Liam](https://twitter.com/liammcmurray))</small>

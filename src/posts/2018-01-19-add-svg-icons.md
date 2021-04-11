@@ -2,6 +2,7 @@
 layout: layouts/post
 permalink: "blog/add-svg-icons/"
 title: Add SVG icons
+excerpt: Why SVG is best for icons, and which attributes to use.
 tags:
 - post
 - Release notes
