@@ -12,15 +12,6 @@ excerpt: A list of my blog posts about design, user experience and accessibility
   <li>
     <h2><a href="{{ post.url }}">{{ post.data.title }}</a></h2>
     <p>{{ post.date | date: "%e %B %Y" }}</p>
-    <ul>
-      {% for tag in post.data.tags %}
-      {% if tag == "post" %}
-      {% continue %}
-      {% else %}
-      <li><a href="/blog/category/{{ tag | slug }}">{{ tag | skip: "post" }}</a></li>
-      {% endif %}
-      {% endfor %}
-    </ul>
   </li>
   {% endfor %}
 </ul>
