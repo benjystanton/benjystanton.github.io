@@ -32,7 +32,7 @@ excerpt: My read later list from October.
   <dt><a href="https://uxdesign.cc/building-a-service-design-team-from-scratch-152d9c0701c">Building a service design team from&nbsp;scratch</a></dt>
   <dd>I was recently asked by a client what they should consider when they were thinking about building a service design team from scratch. It made me think about how we went about building out our service design team from scratch.</dd>
   
-  <dt><a href="http://www.sarawb.com/2015/09/10/everybody-hurts-content-for-kindness/">Everybody Hurts: Content for Kindness</a></dt>
+  <dt><a href="https://content.design/2015/09/everybody-hurts-content-for-kindness">Everybody Hurts: Content for Kindness</a></dt>
   <dd>Last month, I gave the most difficult&nbsp;talk I’ve ever given. It’s about something I’ve been thinking a lot about recently: making our content and design work&nbsp;for people who don’t fit our narrow perception of “normal.” Here’s the description:</dd>
   
   <dt><a href="https://medium.com/@jessica.neely/digital-accessibility-course-week-one-a266e29e258b">Digital Accessibility course — week&nbsp;one</a></dt>

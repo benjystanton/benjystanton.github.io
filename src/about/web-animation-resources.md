@@ -65,7 +65,7 @@ An article from CSS-Tricks about animating SVG lines (y’know, like the ones Vo
 
 ## Books
 
-### [The Animator’s Survival Kit][10]
+### The Animator’s Survival Kit
 
 <small>
   by Richard Williams

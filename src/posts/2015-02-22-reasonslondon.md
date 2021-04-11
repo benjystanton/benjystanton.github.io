@@ -70,7 +70,7 @@ Elliot’s talk was a bit of a retrospective of his work, mixed with tips on des
 
  [1]: http://reasons.to/
  [2]: http://lso.co.uk/lso-st-luke-s
- [3]: http://www.yelp.co.uk/biz/whitecross-market-london
+ [3]: https://www.yelp.co.uk/biz/whitecross-market-london
  [4]: http://www.ncp.co.uk/find-a-car-park/car-parks/hounslow-west-stn-lul/
  [5]: https://twitter.com/csswizardry
  [6]: http://csswizardry.com/
@@ -87,6 +87,6 @@ Elliot’s talk was a bit of a retrospective of his work, mixed with tips on des
  [17]: http://www.slideshare.net/annadahlstrom/reasons-london-beyondthehamburgermenu20feb2015 "Beyond the hamburger menu"
  [18]: https://twitter.com/Malarkey
  [19]: http://stuffandnonsense.co.uk/
- [20]: http://www.elliotjaystocks.com/blog/pay-your-contributors/
+ [20]: https://elliotjaystocks.com/blog/pay-your-contributors/
  [21]: https://twitter.com/elliotjaystocks
- [22]: http://www.elliotjaystocks.com/
+ [22]: https://www.elliotjaystocks.com/

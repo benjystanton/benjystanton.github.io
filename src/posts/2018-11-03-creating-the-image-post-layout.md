@@ -31,11 +31,11 @@ title: 9 miles to Glasto
 ---
 ```
 
-The image template is very simple, and doesn't require any more content. So [a finished post looks like this](https://raw.githubusercontent.com/benjystanton/benjystanton.github.io/master/_posts/2018-11-02-9-miles-to-glasto.md).
+The image template is very simple, and doesn't require any more content.
 
 ## Template
 
-The [image layout](https://github.com/benjystanton/benjystanton.github.io/blob/master/_layouts/image.html) takes these variables and inserts them into the template to generate the page.
+The image layout takes these variables and inserts them into the template to generate the page.
 
 Here's a simplified version of the template mark-up;
 

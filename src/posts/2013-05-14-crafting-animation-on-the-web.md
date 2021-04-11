@@ -273,7 +273,7 @@ So what would the The Dream app be like? When working on the web, we’re used t
   </li>
 
   <li>
-    <a title="The Animator's Survival Kit (on Wikipedia)" href="http://en.wikipedia.org/wiki/The_Animator's_Survival_Kit">The Animator's Survival Kit by Richard Williams</a>
+  The Animator's Survival Kit by Richard Williams
   </li>
   </ul>
 </div>

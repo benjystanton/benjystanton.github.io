@@ -35,7 +35,7 @@ This list is curated by the folks at [ONS digital publishing](https://digitalblo
   <dt><a href="https://www.tripadvisor.co.uk/Restaurant_Review-g186220-d4405183-Reviews-Baristas_Coffee_Collective-Bristol_England.html">Baristas</a></dt>
   <dd>Bristol</dd>
   
-  <dt><a href="http://www.playgroundcoffee.co.uk/">Playground</a></dt>
+  <dt>Playground</dt>
   <dd>Bristol</dd>
   
   <dt><a href="http://www.hartsbakery.co.uk/">Harts Bakery</a></dt>
@@ -53,7 +53,7 @@ This list is curated by the folks at [ONS digital publishing](https://digitalblo
   <dt><a href="https://www.thescandinaviancoffeepod.com">The Scandinavian Coffee Pod</a></dt>
   <dd>Cheltenham </dd>
   
-  <dt><a href="https://www.bemorebear.co/derby">Bear</a></dt>
+  <dt>Bear</dt>
   <dd>Derby</dd>
   
   <dt><a href="https://www.cairngormcoffee.com">Cairngorm Coffee</a></dt>
@@ -89,13 +89,13 @@ This list is curated by the folks at [ONS digital publishing](https://digitalblo
   <dt><a href="https://dolcezzagelato.com/coffee/">Dolcezza</a></dt>
   <dd>London</dd>
   
-  <dt><a href="https://trevesandhyde.com/">Treves &amp; Hyde</a></dt>
+  <dt>Treves &amp; Hyde</dt>
   <dd>London Aldgate East</dd>
   
   <dt><a href="http://kioskafe.com">Kioskafe</a></dt>
   <dd>London Paddington</dd>
   
-  <dt><a href="http://readycoffeeshop.lu/wordpress/">Ready!?</a></dt>
+  <dt>Ready!?</dt>
   <dd>Luxembourg </dd>
   
   <dt><a href="http://www.idlehandscoffee.com/">Idle Hands</a></dt>
@@ -131,16 +131,16 @@ This list is curated by the folks at [ONS digital publishing](https://digitalblo
   <dt><a href="http://weareambulo.com/">Ambrulo </a></dt>
   <dd>Sheffield</dd>
   
-  <dt><a href="https://upshotsheffield.co.uk/">Upshot Espresso</a></dt>
+  <dt>Upshot Espresso</dt>
   <dd>Sheffield</dd>
   
-  <dt><a href="https://m.facebook.com/foundrycoffeeroasterscoffeeshop/">Foundry</a></dt>
+  <dt>Foundry</dt>
   <dd>Sheffield </dd>
   
   <dt><a href="https://tampercoffee.co.uk/">Temper</a></dt>
   <dd>Sheffield </dd>
   
-  <dt><a href="https://www.bemorebear.co/stone">Bear</a></dt>
+  <dt>Bear</dt>
   <dd>Stone</dd>
   
   <dt><a href="https://www.squarepeg.org.uk/">Square Peg</a></dt>
@@ -149,10 +149,10 @@ This list is curated by the folks at [ONS digital publishing](https://digitalblo
   <dt><a href="https://twitter.com/BasekampSwansea">BaseKamp</a></dt>
   <dd>Swansea</dd>
   
-  <dt><a href="https://www.bemorebear.co/uttoxeter">Bear</a></dt>
+  <dt>Bear</dt>
   <dd>Uttoxeter</dd>
   
-  <dt><a href="https://www.createcafewakefield.co.uk/">Create Cafe</a></dt>
+  <dt>Create Cafe</dt>
   <dd>Wakefield</dd>
   
   <dt><a href="https://uecoffeeroasters.com/">Ue Coffee Roasters</a></dt>

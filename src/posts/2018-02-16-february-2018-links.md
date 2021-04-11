@@ -75,7 +75,7 @@ tags:
   <dt><a href="https://www.fastcompany.com/40524955/i-accidentally-built-a-brogrammer-culture-now-were-undoing-it">I Accidentally Built A Brogrammer Culture. Now We’re Undoing It</a></dt>
   <dd></dd>
   
-  <dt><a href="https://www.frankchimero.com/writing/everything-easy-is-hard-again/">Everything Easy is Hard Again</a></dt>
+  <dt>Everything Easy is Hard Again</dt>
   <dd></dd>
   
   <dt><a href="https://www.youtube.com/channel/UC7TizprGknbDalbHplROtag">Layout Land</a></dt>
@@ -103,9 +103,6 @@ tags:
   <dd></dd>
   
   <dt><a href="https://medium.com/sketch-app-sources/sketch-plugins-i-cant-live-without-1ed2b09dcc5c">Sketch Plugins I Can’t Live&nbsp;Without</a></dt>
-  <dd></dd>
-  
-  <dt><a href="http://apievangelist.com/2016/09/20/d3js-visualizations-using-yaml-and-jekyll/">D3.js Visualizations Using YAML and Jekyll</a></dt>
   <dd></dd>
   
   <dt><a href="https://medium.com/@monteiro/designs-lost-generation-ac7289549017">Design’s Lost Generation</a></dt>

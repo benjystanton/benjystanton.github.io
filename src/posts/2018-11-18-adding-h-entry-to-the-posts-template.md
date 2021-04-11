@@ -24,7 +24,7 @@ tags:
 - Added permalink for the post to the published on date
 - Added the `.u-url` class to the permalink
 - Added the `.e-content` class to the full content of the post
-- Checked it all with the [indiewebify.me validator](https://indiewebify.me/validate-h-entry/)
+- Checked it all with the indiewebify.me validator
 
 ## Example markup (with style classes removed)
 ```

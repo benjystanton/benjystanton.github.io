@@ -13,7 +13,7 @@ This week included a trip to GDS to discuss service design and graphic design. P
 
 ## Monday
 
-Monday was a bank holiday. I needed a day to recover because I went to The Biggest Weekend in Swansea on Sunday. Here's [child 2 getting into the festival spirit](https://www.instagram.com/p/BjT41n4BVTY/?taken-by=benjystanton).
+Monday was a bank holiday. I needed a day to recover because I went to The Biggest Weekend in Swansea on Sunday.
 
 ## Tuesday
 

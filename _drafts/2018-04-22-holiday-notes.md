@@ -8,7 +8,7 @@ tags:
 
 ## April – 16 months to go
 - decided we wanted to go Florida in 2019
-- we were spending the day in [Mumbles](https://www.instagram.com/p/Bh4DV-whygQ/)
+- we were spending the day in Mumbles
 - did lots of research and chatting with family
 - started to price it all up
 

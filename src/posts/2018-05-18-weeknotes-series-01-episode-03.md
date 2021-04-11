@@ -57,7 +57,7 @@ I had a quick meeting with the website publishing team to check if we can add mi
 
 It's more likely than a hyphen to be read out as "minus" by screen readers. It's wider so it might be easier to read (hypothesis). The drawback is it's more difficult to type and will require manual checking. Seems like a lot of effort, but if anyone should be getting maths symbols right it should be us.
 
-Related: we noticed that our equations are inserted as outlined SVG shapes, so they are effectively invisible to assistive technology. I put together a [quick demo](https://codepen.io/benjystanton/pen/KRrWNN) to show how could add accessible text.
+Related: we noticed that our equations are inserted as outlined SVG shapes, so they are effectively invisible to assistive technology.
 
 ```
 <g role="img" aria-labelledby="title">
