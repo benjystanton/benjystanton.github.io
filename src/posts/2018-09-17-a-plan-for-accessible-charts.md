@@ -7,7 +7,7 @@ tags:
 - Data
 - SVG
 excerpt: A list of user research findings, accessibility report findings, best practice, resources and good ideas that I’ve collected over the past 2 years.
-last_modified_at: 12 December 2020
+last_modified_at: 16 April 2021
 image: "a11y-chart.jpg"
 image-alt: "Sketch of the word A11y on grid paper boxed in by x and y axis lines"
 ---
@@ -110,7 +110,11 @@ This [game on the Apple app store uses some nice patterns](https://apps.apple.co
 - Read [Alt vs Figcaption by Elaina Natario](https://thoughtbot.com/blog/alt-vs-figcaption)
 
 ## Other resources
-
+- [Chartability from Frank Elavsky](https://chartability.fizz.studio/)
+- [Dataviz Accessibility Resources from DataViz Accessibility](https://github.com/dataviza11y/resources)
+- [What we can learn from Apple's dataviz accessibility from Sarah L. Fossheim](https://fossheim.io/writing/posts/apple-health-dataviz-a11y/)
+- [Charts.css](https://chartscss.org/)
+- [Accessible data viz is better data viz from Storytelling with data](https://www.storytellingwithdata.com/blog/2018/6/26/accessible-data-viz-is-better-data-viz)
 - [An introduction to accessible data visualizations with D3.js from Sarah L. Fossheim](https://fossheim.io/writing/posts/accessible-dataviz-d3-intro/)
 - [An intro to designing accessible data visualizations from Sarah L. Fossheim](https://fossheim.io/writing/posts/accessible-dataviz-design/)
 - [Why Accessibility Is at the Heart of Data Visualization from Doug Schepers](https://medium.com/nightingale/accessibility-is-at-the-heart-of-data-visualization-64a38d6c505b)
