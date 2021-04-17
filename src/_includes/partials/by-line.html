@@ -1,5 +1,5 @@
-<a rel="author" href="{{ site.url }}">Benjy Stanton</a> on
-<a href="{{ page.url }}">{{ page.date | date: "%e %B %Y" }}</a>
+<p><a rel="author" href="{{ site.url }}">Benjy Stanton</a></p>
+<p><a href="{{ page.url }}"><time datetime="{{ page.date | date: "%Y-%m-%e" }}">{{ page.date | date: "%e %B %Y" }}</time></a></p>
 <ul>
   {% for tag in tags %}
   {% if tag == "post" %}
