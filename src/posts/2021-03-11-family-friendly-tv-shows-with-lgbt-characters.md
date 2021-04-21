@@ -4,11 +4,13 @@ title: "Family friendly TV shows with LGBT characters"
 tags:
 - post
 - Personal
+last_modified_at: 21 April 2021
 --- 
 
 | Name | Current streaming service (UK) |
 | ---- | ---- |
 | Adventure Time | Prime (not included in subscription) |
+| Arlo the Alligator Boy | Netflix | 
 | Clarence | Netflix |
 | Danger & Eggs | Prime |
 | Gravity Falls | Disney+ |
