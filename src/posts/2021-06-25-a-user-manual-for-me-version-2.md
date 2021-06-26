@@ -6,7 +6,7 @@ tags:
 - Personal
 ---
 
-It's been over 2 years since I last updated [my old user manual for me](/blog/a-user-manual-for-me/). If you're unfamilier with the concept, check out this [post on user manual's by Cassie Robinson](https://cassierobinson.medium.com/a-user-manual-for-me-d3a851fbc694).
+It's been over 2 years since I last updated [my old user manual for me](/blog/a-user-manual-for-me/). If you're unfamilier with the concept, check out this [blog post on user manuals by Cassie Robinson](https://cassierobinson.medium.com/a-user-manual-for-me-d3a851fbc694).
 
 ## Conditions I like to work in
 - Remote work helps me to drop my kids off at school at a sensible time, it also helps me to recharge between meetings
