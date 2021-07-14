@@ -9,7 +9,7 @@ My name is Benjy Stanton and I’m an interaction designer. I’m based in Swans
 
 I’m a user experience and interaction designer with experience working in the public and private sector. I enjoy working in multidisciplinary teams of different sizes and setups. I design products and services in agile working environments, driven by evidence-based user needs.
 
-I’m an advocate for accessibility, helping teams to do user research with people with access needs, performing accessibility audits and designing accessible components. I’m passionate about making data more accessible, including charts, tables and maps.
+I’m an advocate for accessibility, helping teams to do user research with people with access needs, performing accessibility audits and designing accessible components.
 
 ## Related blog posts
 
