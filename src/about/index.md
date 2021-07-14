@@ -3,7 +3,7 @@ layout: layouts/page
 title: About
 ---
 
-My name is Benjy Stanton and I’m an interaction designer at Swirrl. I’m based in Swansea, Wales. I care about user needs, accessibility, data and the open web. Husband. Dad of three. Pronouns: he/him.
+My name is Benjy Stanton and I’m an interaction designer. I’m based in Swansea, Wales. I care about user needs, accessibility and the open web. Husband. Dad of three. Pronouns: he/him.
 
 ## Summary
 
