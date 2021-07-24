@@ -35,7 +35,7 @@ Being spread out has its challenges, but it also means that there are some great
 
 ## A step up 
 
-I feel honoured to be able to work on somethinf like this, alongside some user-centred people that I really look up to. 
+I feel honoured to be able to work on something like this, alongside some user-centred people that I really look up to. 
 
 I’m hoping some of their experience rubs off, as this role definitely feels like a step up for me.
 
