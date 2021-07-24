@@ -25,7 +25,7 @@ We’re a multi-disciplinary team that are responsible for a range of things inc
 I also work closely with the other "heads of" roles, including…
 
 - the heads of profession – the people who lead the design, design-ops, user research and content design functions
-- The heads of UX (user experience) – the people who lead the user-centred teams on specific services 
+- the heads of UX (user experience) – the people who lead the user-centred teams on specific services 
 
 ## Working across different orgs
 
