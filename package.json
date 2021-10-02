@@ -17,10 +17,9 @@
     "url": "https://github.com/benjystanton/benjystanton.github.io/issues"
   },
   "homepage": "https://github.com/benjystanton/benjystanton.github.io#readme",
-  "dependencies": {
-    "@11ty/eleventy": "^0.12.1"
-  },
+  "dependencies": {},
   "devDependencies": {
+    "@11ty/eleventy": "^0.12.1",
     "@11ty/eleventy-plugin-rss": "^1.1.1"
   }
 }
