@@ -31,6 +31,8 @@ I’m an advocate for accessibility and inclusive design, helping teams to do us
 ### Head of Inclusive Design in NHS Test and Trace at UK Health Security Agency (UKHSA)
 Started July 2021
 
+At UKHSA I head up a team of user-centred designers and product people. We work to improve the inclusivity and accessibility of NHS Test and Trace services. Our team works across different services, user journeys and organisations. We help teams to do user research with diverse participants and embed inclusive design best practice.
+
 ### Interaction Designer at Swirrl
 April 2019 to June 2021
 
