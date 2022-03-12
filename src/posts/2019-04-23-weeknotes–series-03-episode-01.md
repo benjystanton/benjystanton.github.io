@@ -10,7 +10,7 @@ image: view-from-the-office-square.jpg
 image-alt: St Peter's Square in Manchester, you can see old buildings, people walking and trams
 ---
 
-{% include partials/image-with-caption.html
+{% include 'partials/image-with-caption.html'
   image:"view-from-the-office-square-large.jpg"
   caption:"View from Swirrl's shared office in St Peter's Square"
   alt-text:"St Peter's Square in Manchester, you can see old buildings, people walking and trams"

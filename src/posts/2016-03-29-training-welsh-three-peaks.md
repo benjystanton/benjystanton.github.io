@@ -20,12 +20,12 @@ In effort to get fit and make sure we can complete the challenge on the day, weâ
 
 ![One of the many waterfalls we saw](/images/brecon-waterfalls.jpg)
 
-{% include partials/big-number.html
+{% include 'partials/big-number.html'
   big-number:"7.7"
   text:"miles"
 %}
 
-{% include partials/big-number.html
+{% include 'partials/big-number.html'
   big-number:"2:38"
   text:"hours"
 %}
@@ -34,12 +34,12 @@ In effort to get fit and make sure we can complete the challenge on the day, weâ
 
 ![Panorama of Rhossili Bay](/images/rhossili-bay.jpg)
 
-{% include partials/big-number.html
+{% include 'partials/big-number.html'
   big-number:"13.5"
   text:"miles"
 %}
 
-{% include partials/big-number.html
+{% include 'partials/big-number.html'
   big-number:"4:08"
   text:"hours"
 %}
@@ -48,12 +48,12 @@ In effort to get fit and make sure we can complete the challenge on the day, weâ
 
 ![Panorama of the ridges on the way to Pen y Fan](/images/brecon-beacons.jpg)
 
-{% include partials/big-number.html
+{% include 'partials/big-number.html'
   big-number:"12.6"
   text:"miles"
 %}
 
-{% include partials/big-number.html
+{% include 'partials/big-number.html'
   big-number:"4:39"
   text:"hours"
 %}

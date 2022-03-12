@@ -42,7 +42,7 @@ Here's my resulting reading list. I'm slowly making my way through it. Please le
 <br>
 
 {%
-  include partials/image-with-caption.html
+  include 'partials/image-with-caption.html'
   image="anti-racism-books.jpg"
   caption="Books about racism in the UK"
   alt-text="Brit(ish), The Good Immigrant and Why I’m No Longer Talking to White People About Race"

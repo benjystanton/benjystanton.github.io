@@ -14,10 +14,10 @@ I'm looking for a good solution for marking up semantic, accessible and responsi
 
 ## Example
 
-{% include partials/figure.html %}
+{% include 'partials/figure.html' %}
 
 ```
-{% include partials/figure.html %}
+{% include 'partials/figure.html' %}
 ```
 
 ## Further reading

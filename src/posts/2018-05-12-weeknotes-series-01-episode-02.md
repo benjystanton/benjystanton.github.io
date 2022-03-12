@@ -15,7 +15,7 @@ excerpt: Heatwave edition.
 
 ## Monday & Tuesday
 
-Days off. {% include partials/emoji.html emoji="😎" alt-text="Smiling face With sunglasses" %}
+Days off. {% include 'partials/emoji.html' emoji="😎" alt-text="Smiling face With sunglasses" %}
 
 ## Wednesday
 

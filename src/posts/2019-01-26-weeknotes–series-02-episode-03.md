@@ -8,7 +8,7 @@ image: coventry-cathedral-square.jpg
 image-alt: Colourful stained glass windows at Coventry cathedral.
 ---
 
-{% include partials/image-with-caption.html
+{% include 'partials/image-with-caption.html'
   image:"coventry-cathedral.jpg"
   caption:"We got a chance to walk around Coventry cathedral on Thursday lunch time"
   alt-text:"Colourful stained glass windows at Coventry cathedral."

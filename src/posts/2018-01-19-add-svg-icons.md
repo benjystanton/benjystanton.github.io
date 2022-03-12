@@ -16,7 +16,7 @@ last_modified_at: 5 April 2021
 Switching from PNGs (Portable Network Graphics) or Icon Fonts, to SVG (Scalable Vector Graphics) icons. Updated on {{ last_modified_at }}.
 
 {%
-  include partials/image-with-caption.html
+  include 'partials/image-with-caption.html'
   image:"svg-icon.png"
   caption:"The Twitter icon being edited in Figma"
   alt-text:"Screenshot of the Twitter bird being edited in a vector drawing application"
@@ -79,6 +79,6 @@ Switching from PNGs (Portable Network Graphics) or Icon Fonts, to SVG (Scalable 
 ### New HTML
 ```
 <span class="icon">
-{% include partials/icon-twitter.svg -%}
+{% include 'partials/icon-twitter.svg' -%}
 </span>
 ```

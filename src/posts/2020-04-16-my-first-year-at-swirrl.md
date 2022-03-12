@@ -14,7 +14,7 @@ image-alt: "A round sticker that says 'by the power of data'. He-Man stands in f
 I joined as an interaction designer back in April 2019. I'd spotted that they were on the lookout for a designer after [Jamie](https://twitter.com/northernjamie) shared a link on Twitter.
 
 {%
-  include partials/image-with-caption.html
+  include 'partials/image-with-caption.html'
   image:"by-the-power-of-data.jpg"
   caption:"Swirrl's Power of Data laptop sticker"
   alt-text:"A round sticker that says 'by the power of data'. He-Man stands in front, raising his sword."
