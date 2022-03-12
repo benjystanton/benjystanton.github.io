@@ -14,4 +14,4 @@ That way, I can continue to improve this website and spot errors more quickly. P
 
 ## Ways to leave feedback
 
-{% include partials/feedback.md %}
+{% include 'partials/feedback.md' %}

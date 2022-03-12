@@ -66,7 +66,7 @@ image-alt: "A toddler looks at his distorted reflection in a round mirror."
 
 </dl>
 
-{% include partials/image-with-caption.html
+{% include 'partials/image-with-caption.html'
   image:"sid-mirror-techniquest.jpg"
   caption:"Sid playing with a mirror at Techniquest, Cardiff"
   alt-text:"A toddler looks at his distorted reflection in a round mirror."

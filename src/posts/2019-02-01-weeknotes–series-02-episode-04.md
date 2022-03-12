@@ -9,7 +9,7 @@ image: services-week-square.jpg
 image-alt: A laptop showing a live stream from London. A designer stands next to a slide that says “what are the new accessibility regulations?”.
 ---
 
-{% include partials/image-with-caption.html
+{% include 'partials/image-with-caption.html'
   image:"services-week.jpg"
   caption:"Watching services week from my kitchen"
   alt-text:"A laptop showing a live stream from London. A designer stands next to a slide that says “what are the new accessibility regulations?”."

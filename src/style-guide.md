@@ -97,7 +97,7 @@ Use the `big-number.html` include.
 
 ``` 
 {%
-  include partials/big-number.html
+  include 'partials/big-number.html'
   big-number="979"
   text="miles driven"
 %}
@@ -106,7 +106,7 @@ Use the `big-number.html` include.
 {% endraw %}
 
 {%
-  include partials/big-number.html
+  include 'partials/big-number.html'
   big-number="979"
   text="miles driven"
 %} -->
@@ -119,7 +119,7 @@ Use the `file-link.html` include when you need to link a file and specify the fi
 
 ``` 
 {%
-  include partials/file-link.html
+  include 'partials/file-link.html'
   text="View the raw data"
   url="https://github.com/benjystanton/benjystanton.github.io/blob/master/_data/work-trips-2018.yml"
   format="YML"
@@ -130,7 +130,7 @@ Use the `file-link.html` include when you need to link a file and specify the fi
 {% endraw %}
 
 {%
-  include partials/file-link.html
+  include 'partials/file-link.html'
   text="View the raw data"
   url="https://github.com/benjystanton/benjystanton.github.io/blob/master/_data/work-trips-2018.yml"
   format="YML"
@@ -169,7 +169,7 @@ Images are full width by default. Don't forget alt text.
 
 Image captions aren't supported in standard Markdown so I've made an `image-with-caption.html` partial.
 
-{% include partials/image-with-caption.html
+{% include 'partials/image-with-caption.html'
   image:"coop-sticker.jpg"
   caption:"Co-op digital design principle sticker – We design for everyone"
   alt-text:"A yellow sticker with black text on a laptop"
@@ -178,7 +178,7 @@ Image captions aren't supported in standard Markdown so I've made an `image-with
 {% raw %}  
 ``` 
 {%
-  include partials/image-with-caption.html
+  include 'partials/image-with-caption.html'
   image:"coop-sticker.jpg"
   caption:"Co-op digital design principle sticker – We design for everyone"
   alt-text:"A yellow sticker with black text on a laptop"
@@ -188,7 +188,7 @@ Image captions aren't supported in standard Markdown so I've made an `image-with
 
 <!-- ``` 
 {%
-  include partials/image-with-caption.html
+  include 'partials/image-with-caption.html'
   image="coop-sticker.jpg"
   caption="Co-op digital design principle sticker – We design for everyone"
   alt-text="A yellow sticker with black text on a laptop"

@@ -12,7 +12,7 @@ image: "my-dock-nov-2018-thumb.png"
 image-alt: "Icons in my Mac's dock, including Github, Atom and Terminal"
 ---
 
-{% include partials/image-with-caption.html
+{% include 'partials/image-with-caption.html'
   image:"my-dock-nov-2018.png"
   caption:"A screenshot of the dock on my MacBook Pro"
   alt-text:"The dock on my Mac, showing the app icons that I use frequently."

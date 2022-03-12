@@ -39,7 +39,7 @@ I’ve created a little reusable component that will check the data folder my li
 Insert the component into the blog post and point it to the right month, for example January 2018.
 
 {% raw %}
-{% include partials/list-o-links.html list=site.data.links-2018-january %}
+{% include 'partials/list-o-links.html' list=site.data.links-2018-january %}
 {% endraw %}
 
 ### The list component itself
