@@ -3,11 +3,11 @@ layout: layouts/page
 title: About
 ---
 
-My name is Benjy Stanton and I’m a designer. I'm currently Head of Inclusive Design in NHS Test and Trace. I’m based in Swansea, Wales. I care about user needs, accessibility and the open web. Husband. Dad of three. Pronouns: he/him.
+My name is Benjy Stanton and I’m a designer. I'm currently a lead designer at Made Tech. I’m based in Swansea, Wales. I care about user needs, accessibility and the open web.
 
 ## Summary
 
-I’m a user experience (UX) and interaction designer with over 16 years experience working in the public and private sector. I’m at my best when working in multidisciplinary teams. I design products and services within agile teams, driven by user needs.
+I’m a user experience (UX) and interaction designer with experience working in the public and private sector. I’m at my best when working in multidisciplinary teams. I design products and services within agile teams, driven by user needs.
 
 I’ve worked with teams of different sizes and setups, including in-house, distributed and remote. I've lead design teams, headed up communities of practice, and organised design meet-ups outside of work.
 
@@ -28,8 +28,11 @@ I’m an advocate for accessibility and inclusive design, helping teams to do us
 
 ## Experience
 
+###  Lead designer at Made Tech
+Started July 2022
+
 ### Head of Inclusive Design in NHS Test and Trace at UK Health Security Agency (UKHSA)
-Started July 2021
+July 2021 to June 2022
 
 At UKHSA I head up a team of user-centred designers and product people. We work to improve the inclusivity and accessibility of NHS Test and Trace services. Our team works across different services, user journeys and organisations. We help teams to do user research with diverse participants and embed inclusive design best practice.
 
