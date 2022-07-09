@@ -6,7 +6,8 @@ tags:
 - Design
 - UX
 - Accessibility
-- Test and trace
+- Test and Trace
+- Weeknotes
 ---
 
 I recently joined the NHS test and trace team and I wanted to get a quick blog post out to mark the occasion, before too much time passed. 
