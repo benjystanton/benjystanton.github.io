@@ -6,7 +6,8 @@ tags:
 - Design
 - UX
 - Accessibility
-- Test and trace
+- Test and Trace
+- Weeknotes
 ---
 
 I've been at test and trace for 3 whole months! As I've got a day off without too much to do, I've decided to put some thoughts down about how things are going.
