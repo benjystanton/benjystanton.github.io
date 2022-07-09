@@ -4,6 +4,7 @@ title: "Weeknotes – series 06 episode 01"
 tags:
 - post
 - Weeknotes
+- Made Tech
 ---
 
 ## Onboarding
