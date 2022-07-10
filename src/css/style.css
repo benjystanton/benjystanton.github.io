@@ -16,6 +16,9 @@ body {
     margin-right: auto;
     max-width: 60ch;
 }
+article {
+    padding-bottom: 2em;
+}
 code {
     font-size: 1.2em;
     white-space : pre-wrap;
