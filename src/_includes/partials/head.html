@@ -7,4 +7,9 @@
   <link rel="canonical" href="{{ site.url }}{{ page.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="{{ site.url }}{{ "/feed.xml"}}" />
   {% if excerpt %}<meta name="description" content="{{ excerpt }}">{% endif %}
+  <!-- Twitter card -->
+  <meta name="twitter:card" content="summary" /> 
+  <meta name="twitter:site" content="benjystanton" /> 
+  <meta name="twitter:title" content="{% if title %}{{ title }}{% else %}Benjy Stanton{% endif %}" /> 
+  {% if excerpt %}<meta name="twitter:description" content="{{ excerpt }}" />{% endif %}
 </head>
