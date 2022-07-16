@@ -27,3 +27,13 @@ img {
     height: auto;
     width: 100%;
 }
+/* Footer */
+
+.footer__inline-list {
+    padding: 0;
+}
+
+.footer__inline-list-item {
+    display: inline-block;
+    margin-right: 1em;
+}
