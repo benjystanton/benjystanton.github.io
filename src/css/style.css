@@ -28,12 +28,17 @@ img {
     width: 100%;
 }
 /* Footer */
-
 .footer__inline-list {
     padding: 0;
 }
-
 .footer__inline-list-item {
     display: inline-block;
     margin-right: 1em;
+}
+/* By line */
+.by-line__tags-item {
+    display: inline-block;
+}
+.by-line__tags-item:not(:last-child):after {
+    content: ',';
 }
