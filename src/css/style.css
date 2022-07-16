@@ -61,3 +61,16 @@ img {
 .by-line__tags-item:not(:last-child):after {
     content: ',';
 }
+/* Post list */
+.post-list {
+    padding-left: 0;
+}
+.post-list-item {
+    list-style: none;
+}
+.post-list-item__title {
+    margin-bottom: 0;
+}
+.post-list-item__text {
+    margin-top: 0.5em;
+}
