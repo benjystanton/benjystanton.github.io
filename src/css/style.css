@@ -47,6 +47,10 @@ img {
     margin-right: 1em;
 }
 /* Footer */
+.footer {
+    background-color: #eee;
+    padding: 0.5em 0;
+}
 .footer__inline-list {
     padding: 0;
 }
