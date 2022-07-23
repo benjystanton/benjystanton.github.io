@@ -7,37 +7,41 @@ tags:
 - Tools
 ---
 
-This blog post looks at the tools that I use every day. It's an update on a post that I wrote in [2018](/blog/interaction-design-tools) and [2013](/blog/web-design-tools).
+This blog post explores the tools that I use every day for interaction design. It's an update on a post that I wrote in [2018](/blog/interaction-design-tools) and [2013](/blog/web-design-tools).
 
-## Computer
+## Devices
 
-I prefer to work on Macs, I'm currently using a 14 inch 2021 Macbook Pro.
+I prefer to work on Apple stuff, I'm currently using a 14 inch 2021 Macbook Pro and an iPhone 8.
 
 ## Pen and paper
 
 Since lockdown and remote working, I've become less fussy with what stationery I use.
 
-After asking people on Twitter to recommend their [favorite pens](/blog/pens-for-ux-sketching-and-note-taking/) I like using Paper Mate Flairs. I also think Pental Sign Pens are great.
-
-***
+After asking people on Twitter to recommend their [favorite pens](/blog/pens-for-ux-sketching-and-note-taking/) I've started using Paper Mate Flairs. I also think Pental Sign Pens are great. But my kids steal them so, I often end up with bog standard biros.
 
 ## [Google Drive](https://www.google.com/drive/)
 
-Google Drive is an essential part of my design workflow. I store all my files in it. It lets me write, share and collaborate on written documents. And I can create slides for presenting at show and tells.
+Google Drive and the Docs, Slides and Sheets tools have had some nice improvements recently! A few things seem to be "inspired" by [Notion](https://www.notion.so/), like the ability to insert [chips](https://support.google.com/docs/answer/10710316). Chips are special links that refer to things in your Google Workplace, like other documents, meetings or people.
 
-It's still so far ahead of corporate alternatives (I'm looking at you Office 365 and Sharepoint) in terms of usability at least.
+It also allows you to write in [Markdown](https://support.google.com/docs/answer/12014036) now which I really like, although I would prefer it if it allowed me to export in Markdown too.
 
-## [Atom](https://atom.io/)
+It's still so far ahead of alternatives like Office 365 and Sharepoint, in terms of usability and allowing people to edit the same document at the same time.
 
-Atom is my code editor of choice. It has all the plugins I need and its compatibility with GitHub is nice (it highlights files that have changed since my last sync).
+## [Visual Studio Code](https://code.visualstudio.com/)
 
-I hear [Visual Studio Code](https://code.visualstudio.com/) is good now too, so I may switch to that one day.
+Since the last time I blogged about this (back in 2018) I've switched from Atom to Visual Studio Code for writing code. It feels very similar to Atom, but it also has a nice built in Terminal and Source Control features.
 
-## [Jekyll](https://jekyllrb.com/)
+## [Eleventy](https://www.11ty.dev/)
 
-I use Jekyll as a base for all my web projects. It’s a static site generator with built in support for Sass, Liquid templating and Markdown. Once you've set it up, it makes it easy spin up a new site, host it with GitHub for free, and then create a URL that I can use for testing and research.
+I use Eleventy as a base for my web projects (unless there is something specific that's needed). It’s a static site generator, that was similar enough to Jekyll to allow to me switch over without too much hassle. It's quicker than Jekyll and does less out of the box, meaning it's quicker to work with.
 
-Using [data files](https://jekyllrb.com/docs/datafiles/) has become a big part of my workflow recently too.
+It's similar, in a way, to the [GOV.UK prototyping kit](https://govuk-prototype-kit.herokuapp.com/docs) and I find that using both tols helps me get better at understanding the technical processes and models behind building quick prototypes and basic websites.
+
+## [Netlify](https://www.netlify.com/)
+
+For personal sites and blogs I prefer to use Netlify for hosting (rather than GitHub pages or Heroku).
+
+***
 
 ## [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/)
 
