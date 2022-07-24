@@ -39,9 +39,7 @@ It's similar, in a way, to the [GOV.UK prototyping kit](https://govuk-prototype-
 
 ## [Netlify](https://www.netlify.com/)
 
-For personal sites and blogs I prefer to use Netlify for hosting (rather than GitHub pages or Heroku).
-
-***
+For personal projects and this blog I prefer to use Netlify for hosting (rather than GitHub pages or Heroku). It has some great features, like being able to see a web preview of any changes I deploy, before they are merged into the main branch. The free plan is also good enough for my needs.
 
 ## [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/)
 
@@ -55,7 +53,7 @@ Chrome is an essential tool for inspecting and iterating on designs in the brows
 
 ## [GitHub Desktop](https://desktop.github.com/)
 
-I feel slightly guilty for using this tool (instead of using the terminal commands) but I does everything I need (commit code, push up changes, pull down changes). It also has handy links to let me open any project in Atom, in Terminal or on the GitHub website.
+I feel slightly guilty for using this tool (instead of using the terminal commands) but I does everything I need. It also has handy links to let me open any project in Atom, in Terminal or on the GitHub website.
 
 ## [Terminal](https://support.apple.com/en-gb/guide/terminal/welcome/mac)
 
