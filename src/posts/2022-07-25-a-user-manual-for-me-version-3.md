@@ -4,7 +4,7 @@ title: A user manual for me, version 3
 tags:
 - post
 - Personal
-excerpt: Version 3 of my user manual.
+excerpt: A 2022 update to my user manual, based on Cassie Robinson's template. 
 image: "benjy-stanton-2022.jpg"
 image-alt: "A photo of me, smiling at the camera. I have thinning brown hair and a short messy brown beard."
 ---
