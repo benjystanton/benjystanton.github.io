@@ -52,6 +52,6 @@ This is version 3 of my user manual. If you want, you can read [version 2 (2021)
 - The beach
 
 ## Other things to know about me
-- I have 3 young kids
+- I have 3 school aged kids (and a puppy)
 - I value [boring design](https://capwatkins.com/blog/the-boring-designer) over shiny things
 - I spend too much time on Twitter
