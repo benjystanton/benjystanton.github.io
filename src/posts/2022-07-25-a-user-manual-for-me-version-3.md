@@ -20,8 +20,8 @@ This is version 3 of my user manual. If you want, you can read [version 2 (2021)
 
 ## The times/hours I like to work
 - I drop my kids off at school at 8:45am, so I'm usually back and ready to start work by 9am(ish)
-- I usually work 9am to 5pm, Monday to Friday.
-- Some days I do school pick-up, which means I can be unavailable around 3pm.
+- I usually work 9am to 5pm, Monday to Friday
+- Some days I do school pick-up, so I can be unavailable around 3pm
 - I tend to have more energy in the mornings
 
 ## The best ways to communicate with me
