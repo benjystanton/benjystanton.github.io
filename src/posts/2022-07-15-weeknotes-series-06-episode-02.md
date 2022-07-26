@@ -12,8 +12,6 @@ excerpt: More onboarding, being in the chalet and getting my kit setup.
 
 It’s the end of my second week, and even though I’m out of the official onboarding week, there’s been plenty of things to set up. Luckily, it's mostly felt very easy and straightforward. Everyone has been very supportive. The Ops team are really organised, and seem to respond to all questions within minutes.
 
-I need to apply for Security Clearance, so I’ve been going through the Non-Police Vetting form first. That was a pain to fill out, partly because of poor form usability, and partly because the questions are quite intrusive and detailed.
-
 Because I’m new, I was treated to lunch on Friday along with other new starters and a random selection of people from my region (South West England and Wales). There are quite a few people from South Wales here, so I'm looking forward to some in-person social events coming up.
 
 ## The Chalet
