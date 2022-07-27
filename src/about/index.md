@@ -16,7 +16,7 @@ I’m an advocate for accessibility and inclusive design, helping teams to do us
 ## Related blog posts
 
 - [A user manual for me](/blog/a-user-manual-for-me-version-3/)
-- [Interaction design tools](/blog/interaction-design-tools/)
+- [My interaction design tools](/blog/my-interaction-design-tools-version-3/)
 
 ## Skills
 
