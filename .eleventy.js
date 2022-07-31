@@ -10,6 +10,7 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.addPassthroughCopy('./src/images/');
     eleventyConfig.addPassthroughCopy('./src/css/');
     eleventyConfig.addPassthroughCopy('./.htaccess');
+    eleventyConfig.addPassthroughCopy('./src/favicon.ico');
     eleventyConfig.addPlugin(pluginRss);
 
     return {
