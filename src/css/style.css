@@ -29,6 +29,12 @@ img {
     height: auto;
     width: 100%;
 }
+figure {
+    margin-block-start: 1em;
+    margin-block-end: 2em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
 /* Header */
 .header {
     background-color: #eee;
@@ -36,7 +42,6 @@ img {
 }
 .header__name {
     margin-bottom: 1em;
-
 }
 .header_navigation-list {
     margin: 0;
