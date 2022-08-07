@@ -13,7 +13,7 @@ image-alt: "Close up of a brown chicken, walking towards the camera, on bright g
 
 ## Camping at Alton Towers
 
-On Monday we got up early to drive to Alton Towers – a 4 hour drive from Swansea. We stayed at a campsite called [Common End Farm](https://www.commonendfarmcampsite.co.uk/). It was a really nice site, with chicken wandering around and cows in the field next door. The only draw back was a busy road nearby which was loud in the night. We might try [Rue Hill Campsite](https://www.ruehillcampsite.co.uk/) next time.
+On Monday we got up early to drive to Alton Towers – a 4 hour drive from Swansea. We stayed at a campsite called [Common End Farm](https://www.commonendfarmcampsite.co.uk/). It was a really nice site, with chickens wandering around and cows in the field next door. The only draw back was a busy road nearby which was loud in the night. We might try [Rue Hill Campsite](https://www.ruehillcampsite.co.uk/) next time.
 
 ![A black and white cow looks at the camera, it's standing in a big green field, brown and white cows are in the distance.](/images/cow.jpg)
 
@@ -29,7 +29,7 @@ Today we're packing for the second half of the holiday, we're staying in a stati
 
 ## Beaches in Swansea and Gower
 
-I found out recently that Swansea has about 30 beaches. I've been to lots of these, but equally I havent heard of some of them. I'd love to visit every single one. This week we'll be very close to the last 6 or 7 on the list, hopefully we'll tick a few off.
+I found out recently that Swansea has about 30 beaches. I've been to lots of these, but equally I haven't heard of some of them. I'd love to visit every single one. This week we'll be very close to the last 6 or 7 on the list, hopefully we'll tick a few off.
 
 - Swansea Bay
 - Knab Rock
