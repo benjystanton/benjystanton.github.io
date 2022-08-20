@@ -4,6 +4,7 @@ title: "Weeknotes – series 06 episode 07"
 tags:
 - post
 - Weeknotes
+- Made Tech
 excerpt: "Native app design, accessibility best practices, and my inclusive design reading list."
 image: "extra-bold.jpg"
 image-alt: "Book cover: Extra Bold: A Feminist, Inclusive, Anti-racist, Nonbinary Field Guide for Graphic Designers."
