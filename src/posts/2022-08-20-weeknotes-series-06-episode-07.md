@@ -17,7 +17,7 @@ For my first assignment, I’ll be working on a native iOS and Android app, and 
 
 We’re spending time having handover meetings whilst I get to grip with the regular sprint meetings and ceremonies. Next week, we’re hoping to do some shadowing.
 
-The existing team uses [Sketch](https://www.sketch.com/) for designing, and [Zeplin](https://zeplin.io/) to hand over the designs to the engineering team. Although this workflow isn’t my (or Made Tech’s) first choice, it looks like it’s working well. Although, I’m guessing that accessible design and research be more tricky this way.
+The existing team uses [Sketch](https://www.sketch.com/) for designing, and [Zeplin](https://zeplin.io/) to hand over the designs to the engineering team. Although this workflow isn’t my (or Made Tech’s) first choice, it looks like it’s working well.
 
 Apple publishes a lot of their design resources in Sketch format, so I think this is one reason that app designers use Sketch.
 
