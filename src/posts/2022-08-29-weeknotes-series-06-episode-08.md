@@ -22,6 +22,6 @@ The user researcher on the team is planning some discovery research. We’re goi
 
 I got access to Test Flight and App Store Connect so that I can test beta releases of the app on my iPhone. I’m working with Made Tech to get access to some Android devices so that I can test that out too. 
 
-I’ve been thinking about how to document designs. I that think making sure that I write detailed acceptance criteria will help with engineer handover (especially since I’ll be creating designs in Sketch, rather than coded prototypes).
+I’ve been thinking about how to document designs. I think that making sure that I write detailed acceptance criteria will help with engineer handover (especially since I’ll be creating designs in Sketch, rather than coded prototypes).
 
 This post from Stéphanie Walter has been a great help: [A Designer’s Guide to Documenting Accessibility & User Interactions](https://stephaniewalter.design/blog/a-designers-guide-to-documenting-accessibility-user-interactions/).
