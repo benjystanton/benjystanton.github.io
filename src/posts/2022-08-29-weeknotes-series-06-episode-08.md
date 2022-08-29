@@ -8,8 +8,6 @@ tags:
 excerpt: "Design system day tickets, user research planning and writing design acceptance criteria."
 ---
 
-<a href=“https://www.openstreetmap.org/#map=9/52.00679944014369/-4.720852073292192”>Hastily posted from a field in West Wales</a>
-
 ## Made Tech design community stuff
 
 I got myself some tickets to the UK Gov [design system day](https://designnotes.blog.gov.uk/2022/08/16/join-us-for-design-system-day-2022/) conference in September. I think the theme is inclusivity – so really looking forward to attending (remotely).
