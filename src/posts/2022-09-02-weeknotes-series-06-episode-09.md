@@ -53,11 +53,11 @@ Here’s the rough process I’m following so far (room for improvement here)…
 - Basic VoiceOver check
 - Basic Voice Control check (to check hidden labels and focus order)
 - Check the design with colour filters
-- Increase font size
+- Increase text size
 
 This blog post about testing with Voice Control was really useful: [New in iOS 13 Accessibility – Voice Control and More – Deque](https://www.deque.com/blog/new-in-ios-13-accessibility-voice-control-and-more/).
 
-I also followed this: [Doing a basic accessibility check if you cannot do a detailed one - GOV.UK](https://www.gov.uk/government/publications/doing-a-basic-accessibility-check-if-you-cant-do-a-detailed-one/doing-a-basic-accessibility-check-if-you-cant-do-a-detailed-one)
+I also followed this: [Doing a basic accessibility check if you cannot do a detailed one - GOV.UK](https://www.gov.uk/government/publications/doing-a-basic-accessibility-check-if-you-cant-do-a-detailed-one/doing-a-basic-accessibility-check-if-you-cant-do-a-detailed-one).
 
 ## Other things
 
