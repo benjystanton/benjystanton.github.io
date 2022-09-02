@@ -6,6 +6,8 @@ tags:
 - Weeknotes
 - Made Tech
 excerpt: "New sprint, writing UCD tickets, design QA (including basic accessibility checks)."
+image: "accessibility-shortcuts.jpg"
+image-alt: "iPhone screenshot showing accessiblity shorcuts: Colour Filters, Voice Control, VoiceOver and Zoom are listed."
 ---
 
 ## Goodbye old team, hello new sprint
@@ -32,6 +34,13 @@ Some ideas we came up with…
 - **Interaction** – show user flows for key changes in component states and page navigation
 
 ## Design quality assurance (QA) 
+
+{%
+  include 'partials/image-with-caption.html'
+  image:"accessibility-shortcuts.jpg"
+  caption:"Some of the iPhone accessibility features I've been learning about"
+  alt-text:"iPhone screenshot showing accessiblity shorcuts: Colour Filters, Voice Control, VoiceOver and Zoom are listed."
+%}
 
 We’re releasing a big new feature on the app, so I’m spending some time this sprint to do a design QA. I’m testing the public beta on my personal iPhone. (I’ve ordered some other iOS and Android devices from Made Tech too).
 
