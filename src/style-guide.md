@@ -34,16 +34,11 @@ I borrowed this font family from [Andy Bell](https://twitter.com/piccalilli_/sta
   <li class="background--primary-colour-dark-mode padding--s">Primary dark mode #0eb9b9</li>
 </ul> -->
 
-<!-- ## Layout templates
+***
 
-A list of different layouts in use on the site.
-<ul>
-  <li>Page – <a href="{{ site.baseurl }}/about/">About</a>, <a href="{{ site.baseurl }}/blog/accessibility-for-designers/">Accessibility for designers</a></li>
-  <li>List of posts – <a href="{{ site.baseurl }}/blog/">Blog</a></li>
-  <li>List of categorised posts – <a href="{{ site.baseurl }}/blog/category/release-notes/">Release notes</a></li>
-  <li>List of categories – <a href="{{ site.baseurl }}/blog/category/">Categories</a></li>
-  <li>Image post – <a href="{{ site.baseurl }}/blog/9-miles-to-glasto/">9 miles to Glasto</a></li>
-</ul> -->
+## List of sample pages
+
+{% include 'partials/page-samples.html' %}
 
 ***
 
