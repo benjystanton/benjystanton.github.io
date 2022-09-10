@@ -22,15 +22,9 @@ I can…
 - Popular pages (I'll check this with [Google Search Console](https://search.google.com/search-console/about))
 - Style guide (because it should contain almost every single component)
 
-## My list of sample pages
+## List of sample pages
 
-1. [https://www.benjystanton.co.uk/](https://www.benjystanton.co.uk/)
-2. [https://www.benjystanton.co.uk/style-guide/](https://www.benjystanton.co.uk/style-guide/)
-3. [https://www.benjystanton.co.uk/about/](https://www.benjystanton.co.uk/about/)
-4. [https://www.benjystanton.co.uk/blog/](https://www.benjystanton.co.uk/blog/)
-5. [https://www.benjystanton.co.uk/blog/category/](https://www.benjystanton.co.uk/blog/category/)
-6. [https://www.benjystanton.co.uk/blog/accessible-close-buttons/](https://www.benjystanton.co.uk/blog/accessible-close-buttons/)
-7. [https://www.benjystanton.co.uk/blog/a-plan-for-accessible-charts/](https://www.benjystanton.co.uk/blog/a-plan-for-accessible-charts/)
+{% include 'partials/page-samples.html' %}
 
 ## Further reading
 
