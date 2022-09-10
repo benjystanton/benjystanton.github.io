@@ -21,6 +21,10 @@ body {
 article {
     padding-bottom: 2em;
 }
+a:focus {
+    outline: black solid 3px;
+    outline-offset: 3px;
+}
 code {
     font-size: 1.2em;
     white-space : pre-wrap;
