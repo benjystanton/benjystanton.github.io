@@ -1,7 +1,7 @@
 <div class="by-line">
   <p class="by-line__text">
     Posted by <a rel="author" href="{{ site.url }}">Benjy Stanton</a> 
-    on <a href="{{ page.url }}"><time datetime="{{ page.date | date: "%Y-%m-%e" }}">{{ page.date | date: "%e %B %Y" }}</time></a> tagged 
+    on <a href="{{ page.url }}"><time datetime="{{ page.date | date: "%Y-%m-%e" }}">{{ page.date | date: "%e %B %Y" }}</time></a>{% if last_modified_at %} (updated {{ last_modified_at }}){%- endif %} tagged 
     <span class="by-line__tags">
       {%- for tag in tags -%}
       {%- if tag == "post" -%}
