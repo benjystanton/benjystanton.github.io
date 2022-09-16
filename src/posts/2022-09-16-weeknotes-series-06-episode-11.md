@@ -42,4 +42,4 @@ We want to identify some groups that may be excluded from an early feature we're
 - I'm almost through my 90 day probabation at Made Tech. By early October I should be a fully fledged employee at Made Tech. It's really flown by.
 - [Figma was bought by Adobe for $20 billion](https://techcrunch.com/2022/09/15/adobe-is-buying-figma-for-20b-taking-out-one-of-its-biggest-rivals-in-digital-design/), it was massive news on design Twitter, even eclipsing "The Queue".
 - I asked on Twitter for tips about doing [user research with people with access needs](https://gist.github.com/benjystanton/8902400f3f672f2761d2cccb06a29a24) and collected the notes in a GitHub gist.
-- I'm heading to the [Stranger Things:The Experience](https://strangerthings-experience.com/london/) in London this weekend.
+- I'm heading to [Stranger Things:The Experience](https://strangerthings-experience.com/london/) in London this weekend.
