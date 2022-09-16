@@ -14,7 +14,7 @@ This week my team finished their first sprint without any of the old supplier on
 
 I worked on tickets that I proposed myself, and found accessibility issues that have since been prioritised by the product manager and then fixed by the engineers. I know that's the minimum I should be doing and/or just what's expected of my job… but it still felt nice to achieve those things on my first sprint.
 
-I also presented my work at the spring review to some people from outside the team. Always weird to present to a faceless group of people of Microsoft Teams. And I was quite nervous berfore hand. But glad I did it.
+I also presented my work at the sprint review to some people from outside the team. Always weird to present to a faceless group of people of Microsoft Teams. And I was quite nervous berfore hand. But glad I did it.
 
 ## Running retro and planning
 
