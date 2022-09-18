@@ -6,6 +6,8 @@ tags:
 - Weeknotes
 - Made Tech
 excerpt: "My first sprint, user research with people with access needs, and exclusion mapping."
+image: "benjy-arcade.jpeg"
+image-alt: "Me in a dark room, tinged in blue light, playing an 80s style missile command arcade machine. I’m turning round to look at the camera. Wearing a cut off black denim jacket and a baseball cap."
 ---
 
 ## First sprint
@@ -43,3 +45,5 @@ We want to identify some groups that may be excluded from an early feature we're
 - [Figma was bought by Adobe for $20 billion](https://techcrunch.com/2022/09/15/adobe-is-buying-figma-for-20b-taking-out-one-of-its-biggest-rivals-in-digital-design/), it was massive news on design Twitter, even eclipsing "The Queue".
 - I asked on Twitter for tips about doing [user research with people with access needs](https://gist.github.com/benjystanton/8902400f3f672f2761d2cccb06a29a24) and collected the notes in a GitHub gist.
 - I'm heading to [Stranger Things:The Experience](https://strangerthings-experience.com/london/) in London this weekend.
+
+![Me in a dark room, tinged in blue light, playing an 80s style missile command arcade machine. I’m turning round to look at the camera. Wearing a cut off black denim jacket and a baseball cap.](/images/benjy-arcade.jpeg)
