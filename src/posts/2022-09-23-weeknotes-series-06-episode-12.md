@@ -22,7 +22,7 @@ Leaning heavily on the [GOV.UK Service Manual](https://www.gov.uk/service-manual
 4. Review barriers and excluded groups
     - see [exclusion mapping](#exclusion-mapping) later in the post
 5. Run regular accessibility testing
-    - [Flutter's guide to accessiiblity testing for native apps](https://docs.flutter.dev/development/accessibility-and-localization/accessibility)
+    - [Flutter's guide to accessibility testing for native apps](https://docs.flutter.dev/development/accessibility-and-localization/accessibility)
 6. [Get an accessibility audit](https://www.gov.uk/service-manual/helping-people-to-use-your-service/getting-an-accessibility-audit)
 7. [Publish an accessibility statement](https://www.gov.uk/guidance/make-your-website-or-app-accessible-and-publish-an-accessibility-statement#publish-your-accessibility-statement )
 
