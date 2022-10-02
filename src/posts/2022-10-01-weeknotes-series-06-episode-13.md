@@ -5,7 +5,13 @@ tags:
 - post
 - Weeknotes
 - Made Tech
+excerpt: “My Gran’s funeral, passing probation, watching service design in gov via Twitter, Liverpool.”
+image: “cavern.jpeg”
+image-alt: “Framed posters on a wall. The middle one says: welcome to the cavern the world’s greatest rock ‘n’ roll club. A small plaque below it says they were designed by Tony Booth. The brick wall in the background is completely covered in signatures. The room is quite dark but bathed in cool, blue light.”
 ---
+
+
+![Framed posters on a wall. The middle one says: welcome to the cavern the world’s greatest rock ‘n’ roll club. A small plaque below it says they were designed by Tony Booth. The brick wall in the background is completely covered in signatures. The room is quite dark but bathed in cool, blue light.](/images/cavern.jpeg)
 
 Posting from my phone again today as we’ve gone to Liverpool for a friend’s 40th. 
 
