@@ -16,7 +16,7 @@ Both talks were great this week. [Ryan Stephens](https://www.ryanstephens.co/) i
 
 And [Owen Friend](https://www.friendandfriends.co/) is a Cardiff based graphic designer who talked about work-life balance. 
 
-The next meet-up will be on Thursday 10th November at 6:30pm. [Grab a free ticker on Eventbrite](https://www.eventbrite.co.uk/e/design-swansea-49-with-steve-kelly-zoe-angelise-tickets-433516819477).
+The next meet-up will be on Thursday 10th November at 6:30pm. [Grab a free ticket on Eventbrite](https://www.eventbrite.co.uk/e/design-swansea-49-with-steve-kelly-zoe-angelise-tickets-433516819477).
 
 ## Finished the first round of user research
 
