@@ -77,13 +77,17 @@ figure {
 /* Post list */
 .post-list {
     padding-left: 0;
+    margin-top: 2em;
 }
 .post-list-item {
     list-style: none;
+    margin-bottom: 2em;
 }
 .post-list-item__title {
+    margin-top: 0;
     margin-bottom: 0;
 }
 .post-list-item__text {
-    margin-top: 0.5em;
+    margin-top: 0.25em;
+    margin-bottom: 0;
 }
