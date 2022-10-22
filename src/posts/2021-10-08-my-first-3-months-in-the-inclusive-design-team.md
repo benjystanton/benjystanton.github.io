@@ -8,6 +8,7 @@ tags:
 - Accessibility
 - Test and Trace
 - Weeknotes
+- Inclusive design
 ---
 
 I've been at test and trace for 3 whole months! As I've got a day off without too much to do, I've decided to put some thoughts down about how things are going.

@@ -8,6 +8,7 @@ tags:
 - Accessibility
 - Test and Trace
 - Weeknotes
+- Inclusive design
 ---
 
 I recently joined the NHS test and trace team and I wanted to get a quick blog post out to mark the occasion, before too much time passed. 
