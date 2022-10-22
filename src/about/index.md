@@ -3,7 +3,7 @@ layout: layouts/page
 title: About
 ---
 
-My name is Benjy Stanton and I’m a designer. I'm currently a lead designer at Made Tech. I’m based in Swansea, Wales. I care about user needs, accessibility and the open web.
+My name is Benjy Stanton and I’m a designer. I'm a lead designer at Made Tech. I’m based in Swansea, Wales. I care about inclusive design and accessibility.
 
 ## Summary
 
