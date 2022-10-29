@@ -9,7 +9,7 @@ image: ""
 image-alt: "."
 ---
 
-Inspired by [Max Böck](https://mxb.dev/blogroll/), I've decided to add a [blogroll](/blogroll/) to my site. According to IndieWeb, a blogroll is "a list of other sites that you read, are a follower of, or recommend".
+Inspired by [Max Böck](https://mxb.dev/blogroll/), I've decided to add a [blogroll](/blogroll/) to my site. According to [IndieWeb](https://indieweb.org/blogroll), a blogroll is "a list of other sites that you read, are a follower of, or recommend".
 
 With Twitter under threat from you-know-who, it's a great time to start publishing on your own domain.
 
