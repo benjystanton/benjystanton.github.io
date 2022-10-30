@@ -39,6 +39,11 @@ figure {
     margin-inline-start: 0px;
     margin-inline-end: 0px;
 }
+hr {
+    border-top: 5px solid black;
+    margin-top: 3em;
+    margin-bottom: 3em;
+}
 /* Header */
 .header {
     background-color: #eee;
