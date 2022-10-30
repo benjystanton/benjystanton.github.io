@@ -25,9 +25,21 @@ h1 {
 article {
     padding-bottom: 2em;
 }
+a {
+    text-underline-offset: 0.1em;
+}
+a:hover {
+    text-decoration-thickness: 0.13em;
+}
 a:focus {
     outline: black solid 3px;
     outline-offset: 3px;
+}
+a:active {
+    color: blue;
+}
+a:visited:active {
+    color: #551a8b;
 }
 code {
     font-size: 1.2em;
@@ -55,6 +67,15 @@ hr {
 }
 .header__name {
     margin-bottom: 1em;
+}
+.header__name a {
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+}
+.header__name a:hover {
+    text-decoration: underline;
+    text-decoration-thickness: 0.13em;
 }
 .header_navigation-list {
     margin: 0;
