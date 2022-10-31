@@ -3,15 +3,15 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{% if page.url == "/" %}Benjy Stanton – Interaction designer{% else %}{{ title }} – {{ site.name }}{% endif %}</title>
-  <link rel='stylesheet' href='/css/style.css' />
+  <link rel='stylesheet' href='/css/style.css'>
   <link rel="canonical" href="{{ site.url }}{{ page.url }}">
-  <link rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="{{ site.url }}{{ "/feed.xml"}}" />
+  <link rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="{{ site.url }}{{ "/feed.xml"}}">
   {% if excerpt %}<meta name="description" content="{{ excerpt }}">{% endif %}
   <!-- Twitter card -->
-  <meta name="twitter:card" content="summary" /> 
-  <meta name="twitter:site" content="benjystanton" /> 
-  <meta name="twitter:title" content="{% if title %}{{ title }}{% else %}Benjy Stanton{% endif %}" /> 
-  {% if excerpt %}<meta name="twitter:description" content="{{ excerpt }}" />{% endif %}
-  {% if image %}<meta name="twitter:image" content="{{ site.url }}/images/{{ image }}" />{% endif %}
-  {% if image-alt %}<meta name="twitter:image:alt" content="{{ image-alt }}" />{% endif %}
+  <meta name="twitter:card" content="summary"> 
+  <meta name="twitter:site" content="benjystanton"> 
+  <meta name="twitter:title" content="{% if title %}{{ title }}{% else %}Benjy Stanton{% endif %}"> 
+  {% if excerpt %}<meta name="twitter:description" content="{{ excerpt }}">{% endif %}
+  {% if image %}<meta name="twitter:image" content="{{ site.url }}/images/{{ image }}">{% endif %}
+  {% if image-alt %}<meta name="twitter:image:alt" content="{{ image-alt }}">{% endif %}
 </head>

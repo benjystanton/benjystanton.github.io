@@ -1,15 +1,27 @@
 <div class="by-line">
-  <p class="by-line__text">
-    Posted by <a rel="author" href="{{ site.url }}">Benjy Stanton</a> 
-    on <a href="{{ page.url }}"><time datetime="{{ page.date | date: "%Y-%m-%e" }}">{{ page.date | date: "%e %B %Y" }}</time></a>{% if last_modified_at %} (updated {{ last_modified_at }}){%- endif %} tagged 
-    <span class="by-line__tags">
+  <ul class="by-line__list">
+    <li class="by-line__list-item">
+      <span class="by-line__list-item-key">Author</span>
+      <span class="by-line__list-item-value">
+        <a rel="author" href="{{ site.url }}">Benjy Stanton</a>
+      </span>
+    </li>
+    <li class="by-line__list-item">
+      <span class="by-line__list-item-key">Date</span>
+      <span class="by-line__list-item-value">
+        <a href="{{ page.url }}"><time datetime="{{ page.date | date: "%Y-%m-%e" }}">{{ page.date | date: "%e %B %Y" }}</time></a>{% if last_modified_at %} (updated {{ last_modified_at }}){%- endif %}
+      </span>
+    </li>
+    <li class="by-line__list-item">
+      <span class="by-line__list-item-key">Category</span>
+      <span class="by-line__tags">
       {%- for tag in tags -%}
       {%- if tag == "post" -%}
       {%- continue -%}
       {% else %}
-      <span class="by-line__tags-item"><a href="/blog/category/{{ tag | slug }}">{{ tag | skip: "post" }}</a></span>
+      <span class="by-line__tags-item">#<a href="/blog/category/{{ tag | slug }}">{{ tag | skip: "post" }}</a></span>
       {%- endif -%}
       {%- endfor %}
-    </span>
-  </p>
+    </span></li>
+  </ul>
 </div>
