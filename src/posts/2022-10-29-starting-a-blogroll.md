@@ -15,7 +15,7 @@ With Twitter under threat from you-know-who, it's a great time to start publishi
 
 Let me know your blog and I'll add it to my [blogroll](/blogroll/). My contact details are on my [home page](/). Or, add your own via a [pull request](https://github.com/benjystanton/benjystanton.github.io/blob/main/src/blogroll.md).
 
-In particular,  I'll be looking to look to add people posting about…
+In particular, I'll be looking to add people posting about…
 
 - user-centred design
 - accessibility
