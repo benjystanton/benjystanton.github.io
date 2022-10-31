@@ -52,9 +52,15 @@ a:visited:active {
 a:visited {
     color: #2a2b30;
 }
+pre {
+    background-color: #efeeed;
+    padding: 1em;
+}
 code {
     font-size: 1.2em;
     white-space : pre-wrap;
+    background-color: #efeeed;
+    padding: 0.1em;
 }
 img {
     height: auto;

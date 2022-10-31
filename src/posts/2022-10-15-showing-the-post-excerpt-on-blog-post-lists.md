@@ -32,7 +32,7 @@ So, I've updated a couple of my site templates with the following [liquid tags](
 ```
 <li class="post-list-item">
     <h2 class="post-list-item__title">
-    <a href="{{ post.url }}">{{ post.data.title }}</a>
+        <a href="{{ post.url }}">{{ post.data.title }}</a>
     </h2>
     <p class="post-list-item__text">{{ post.date | date: "%e %B %Y" }}</p>
     {% if post.data.excerpt %}
