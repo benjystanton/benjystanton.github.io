@@ -24,6 +24,9 @@ Ethan focuses on designing and building accessible web experiences, and helping 
 ## [Jon Roobottom](https://roobottom.com/)
 Jon Roobottom is a website designer and user-centered principal at Made Tech. This is his personal site.
 
+## [Manuel Matuzovic](https://www.matuzo.at/)
+Manuel is a frontend developer from Vienna. Manuel specializes in HTML, accessibility, and CSS layout and architecture.
+
 ## [Max Böck](https://mxb.dev/)
 A front-end developer and co-founder of Codista, a software studio in Vienna.
 Max also writes about the web on their Blog and on Twitter.
