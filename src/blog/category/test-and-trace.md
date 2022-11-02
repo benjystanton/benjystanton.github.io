@@ -1,4 +1,4 @@
 ---
 title: Test and Trace
-excerpt: A list blog posts written whilst at Test and Trace / UK Health Security Agency (UKHSA).
+excerpt: A list of blog posts written whilst at Test and Trace / UK Health Security Agency (UKHSA).
 ---
