@@ -2,8 +2,10 @@
 layout: layouts/default
 ---
 
-<article class="h-entry e-content">
+<article class="h-entry">
 <h1 class="p-name">{{ title }}</h1>
 {% include 'partials/by-line.html' %}
+<div class="e-content">
 {{ content }}
+</div>
 </article>
