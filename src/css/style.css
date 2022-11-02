@@ -66,6 +66,11 @@ img {
     height: auto;
     width: 100%;
 }
+.image-avatar {
+    width: 3em;
+    height: 3em;
+    border-radius: 50%;
+}
 figure {
     margin-block-start: 1em;
     margin-block-end: 2em;
