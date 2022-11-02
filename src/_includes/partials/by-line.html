@@ -3,13 +3,13 @@
     <li class="by-line__list-item">
       <span class="by-line__list-item-key">Author</span>
       <span class="by-line__list-item-value">
-        <a rel="author" href="{{ site.url }}">Benjy Stanton</a>
+        <a class="p-author h-card" rel="author" href="{{ site.url }}">Benjy Stanton</a>
       </span>
     </li>
     <li class="by-line__list-item">
       <span class="by-line__list-item-key">Date</span>
       <span class="by-line__list-item-value">
-        <a href="{{ page.url }}"><time datetime="{{ page.date | date: "%Y-%m-%e" }}">{{ page.date | date: "%e %B %Y" }}</time></a>{% if last_modified_at %} (updated {{ last_modified_at }}){%- endif %}
+        <a class="u-url" href="{{ page.url }}"><time class="dt-published" datetime="{{ page.date | date: "%Y-%m-%e" }}">{{ page.date | date: "%e %B %Y" }}</time></a>{% if last_modified_at %} (updated {{ last_modified_at }}){%- endif %}
       </span>
     </li>
     <li class="by-line__list-item">
@@ -19,7 +19,7 @@
       {%- if tag == "post" -%}
       {%- continue -%}
       {% else %}
-      <span class="by-line__tags-item">#<a href="/blog/category/{{ tag | slug }}">{{ tag | skip: "post" }}</a></span>
+      <span class="by-line__tags-item">#<a class="p-category" href="/blog/category/{{ tag | slug }}">{{ tag | skip: "post" }}</a></span>
       {%- endif -%}
       {%- endfor %}
     </span></li>
