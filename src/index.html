@@ -15,11 +15,18 @@ tags:
 
   <p>I’m currently a <span class="p-job-title">lead designer</span> at <span class="p-org">Made Tech</span>. I’m interested in user-centred design in the public sector, inclusive design and accessibility.</p>
 
-  <p>I enjoy <a href="/blog/">blogging</a> and <a href="/blog/category/weeknotes/">weeknoting</a>.</p>
+  <!-- <p>I enjoy <a href="/blog/">blogging</a> and <a href="/blog/category/weeknotes/">weeknoting</a>.</p> -->
 
   <p>My pronouns are he/him.</p>
 
-  <p><a href="/about/">Read more about me</a></p>
+  <p>Read <a href="/about/">more about me</a>.</p>
+
+  <h2>Latest posts</h2>
+  <ul>
+    {% for post in collections.post.reverse limit: 3 %}
+    <li><a href="{{ post.url }}">{{ post.data.title }}</a></li>
+    {% endfor %}
+  </ul>
 
   <h2>Find me on the web</h2>
   <ul>
@@ -28,7 +35,6 @@ tags:
     <li><a href="https://gist.github.com/benjystanton" rel="me" class="u-url">Github gists</a></li>
     <li><a href="https://www.linkedin.com/in/benjystanton/" rel="me" class="u-url">LinkedIn</a></li>
     <li><a href="https://mastodon.social/@benjystanton" rel="me" class="u-url">Mastodon</a></li>
-    <li><a href="https://designnotes.blog.gov.uk/author/benjy-stanton-interaction-designer-swirrl/" rel="me" class="u-url">Design in government blog</a></li>
     <li><a href="mailto:benjystanton@gmail.com" rel="me" class="u-email">Email</a> benjystanton@gmail.com</li>
   </ul>
 
