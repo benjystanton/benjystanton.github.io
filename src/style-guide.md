@@ -3,6 +3,9 @@ layout: layouts/page
 title: Style guide
 permalink: /style-guide/
 excerpt: Notes about my site's build, typography, colours and components.
+tags:
+- page
+date: 2007-05-10 00:00:03
 ---
 
 ## Build

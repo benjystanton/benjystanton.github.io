@@ -1,6 +1,9 @@
 ---
 layout: layouts/page
 title: About
+date: 2007-05-10 00:00:01
+tags:
+- page
 ---
 
 My name is Benjy Stanton. I’m a lead interaction designer at Made Tech. I’m based in Swansea, Wales. I care about inclusive design and accessibility.

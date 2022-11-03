@@ -1,0 +1,26 @@
+---
+layout: layouts/page
+title: Sitemap
+permalink: /sitemap/
+tags:
+- page
+---
+
+<h2>Main pages</h2>
+
+<!-- add `page` tag to include in this list -->
+<!-- Sorted by date, add `date` to frontmattter control the order-->
+
+<ul>
+    {% for page in collections.page %}
+    <li><a href="{{ page.url }}">{{ page.data.title }}</a></li>
+    {% endfor %}
+</ul>
+
+<h2>Blog categories</h2>
+
+<ul>
+    {% for category in collections.category %}
+    <li><a href="{{ category.url }}">{{ category.data.title }}</a></li>
+    {% endfor %}
+</ul>
