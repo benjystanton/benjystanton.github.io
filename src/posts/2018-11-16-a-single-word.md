@@ -12,7 +12,7 @@ title: A single word that makes the tricky task of changing nappies so much easi
 ---
 
 <figure>
-  <img src="/images/{{ image }}" alt="{{ image-alt }}" />
+  <img src="/images/{{ image }}" alt="{{ image-alt }}">
   <figcaption>
     <h1>{{ title }}</h1>
   </figcaption>
