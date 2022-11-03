@@ -9,7 +9,7 @@
     <li class="by-line__list-item">
       <span class="by-line__list-item-key">Date</span>
       <span class="by-line__list-item-value">
-        <a class="u-url" href="{{ page.url }}"><time class="dt-published" datetime="{{ page.date | date: "%Y-%m-%e" }}">{{ page.date | date: "%e %B %Y" }}</time></a>{% if last_modified_at %} (updated {{ last_modified_at }}){%- endif %}
+        <a class="u-url" href="{{ page.url }}"><time class="dt-published" datetime="{{ page.date | date: '%Y-%m-%d' }}">{{ page.date | date: '%-e %B %Y' }}</time></a>{% if last_modified_at %} (updated {{ last_modified_at }}){%- endif %}
       </span>
     </li>
     <li class="by-line__list-item">
