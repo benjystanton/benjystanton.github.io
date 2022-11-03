@@ -111,6 +111,9 @@ hr {
 .header__navigation-item a:hover {
     text-decoration: underline;
 }
+.header__navigation-item a[aria-current] {
+    text-decoration: underline;
+  }
 /* Footer */
 .footer {
     padding: 0.5em 0;
