@@ -5,8 +5,8 @@ layout: layouts/page
 <p>{{ excerpt }}</p>
 
 <ul class="post-list">
-  <!-- Get all the posts in the post collection, then reverse them so newest is first -->
-  {% for post in collections.post reversed %}
+  <!-- Get all the posts in the post collection -->
+  {% for post in collections.post %}
   <!-- Get all the tags from the post -->
   {% for tag in post.data.tags %}
   <!-- If the post tags match the category page title, then show the matching posts-->
