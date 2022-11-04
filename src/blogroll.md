@@ -29,6 +29,9 @@ Jon Roobottom is a website designer and user-centered principal at Made Tech. Th
 ## [Manuel Matuzovic](https://www.matuzo.at/)
 Manuel is a frontend developer from Vienna. Manuel specializes in HTML, accessibility, and CSS layout and architecture.
 
+## [Matt Jukes](https://digitalbydefault.com/)
+Matt Jukes is Head of Product at the Department for International Trade.
+
 ## [Max Böck](https://mxb.dev/)
 A front-end developer and co-founder of Codista, a software studio in Vienna.
 Max also writes about the web on their Blog and on Twitter.
