@@ -5,8 +5,6 @@ tags:
 - post
 - Release notes
 excerpt: "I've decided to start a blogroll. A list of sites that I read or recommend."
-image: ""
-image-alt: "."
 ---
 
 Inspired by [Max Böck](https://mxb.dev/blogroll/), I've decided to add a [blogroll](/blogroll/) to my site. According to [IndieWeb](https://indieweb.org/blogroll), a blogroll is "a list of other sites that you read, are a follower of, or recommend".
