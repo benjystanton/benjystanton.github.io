@@ -13,9 +13,21 @@ I’ve set myself a challenge to visit all the beaches in Swansea and Gower.
 
 We visit some regularly, but loads are completely new to me. No strict rules, I’m going to include beaches I’ve visited recently, to give myself a head start.
 
-**Beaches so far: 8 out of 32.**
+**Beaches so far: 9 out of 32.**
 
 ***
+
+## Swansea Bay
+
+{%
+  include 'partials/image-with-caption.html'
+  image:"swansea-bay.jpg"
+  caption:"Swansea Bay, near Sketty Lane"
+  alt-text:"A small dog sniffs near 3 mounds of long grass in the sand. Choppy sea in the background. Rays of sun and blue sky break through a grey sky."
+%}
+
+- Date: 8 March 2022
+- Location: [Swansea Bay on Open Street Map](https://www.openstreetmap.org/#map=17/51.60491/-3.98236)
 
 ## Knab Rock
 
@@ -117,7 +129,7 @@ We visit some regularly, but loads are completely new to me. No strict rules, I�
 
 ## All the beaches in Swansea and Gower
 
-1. Swansea Bay
+1. ~~Swansea Bay~~
 2. ~~Knab Rock~~
 3. Mumbles Head
 4. ~~Bracelet Bay~~
