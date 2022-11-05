@@ -13,7 +13,7 @@ Iâ€™ve set myself a challenge to visit all the beaches in Swansea and Gower.
 
 We visit some regularly, but loads are completely new to me. No strict rules, Iâ€™m going to include beaches Iâ€™ve visited recently, to give myself a head start.
 
-**Beaches so far: 5 out of 32.**
+**Beaches so far: 6 out of 32.**
 
 ***
 
@@ -52,6 +52,18 @@ We visit some regularly, but loads are completely new to me. No strict rules, Iâ
 
 - Date: 9 October 2022
 - Location: [Langland Bay on Open Street Map](https://www.openstreetmap.org/#map=17/51.56680/-4.01322)
+
+## Llangennith
+
+{%
+  include 'partials/image-with-caption.html'
+  image:"llangennith.jpg"
+  caption:"Surfing near Hillend campsite, Worms Head in the distance"
+  alt-text:"Surf board on the sand. Sea and cliffs in the background. Blue clouds with wispy clouds."
+%}
+
+- Date: 15 June 2022
+- Location: [Llangennith on Open Street Map](https://www.openstreetmap.org/#map=17/51.59385/-4.29473)
 
 ## Blue Pool Bay
 
@@ -107,9 +119,11 @@ We visit some regularly, but loads are completely new to me. No strict rules, Iâ
 24. Fall Bay 
 25. Ramsgrove
 26. Rhossili Bay
-27. Llangennith
+27. ~~Llangennith~~
 28. Burry Holms
 29. ~~Blue Pool Bay~~
 30. ~~Broughton Bay~~
 31. Whiteford Sands
 32. Llanrhidian Sands
+
+<!-- Knab rock https://twitter.com/benjystanton/status/1552932291458076679/photo/1 -->
