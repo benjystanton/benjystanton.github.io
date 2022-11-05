@@ -13,9 +13,21 @@ Iâ€™ve set myself a challenge to visit all the beaches in Swansea and Gower.
 
 We visit some regularly, but loads are completely new to me. No strict rules, Iâ€™m going to include beaches Iâ€™ve visited recently, to give myself a head start.
 
-**Beaches so far: 6 out of 32.**
+**Beaches so far: 8 out of 32.**
 
 ***
+
+## Knab Rock
+
+{%
+  include 'partials/image-with-caption.html'
+  image:"knab-rock.jpg"
+  caption:"Paddle boarding around Mumbles passing Knab Rock, photo by Dylan Tucker"
+  alt-text:"Two paddle boarders on the sea. Cliffs topped with trees in the background. Sky is cloudy and blue."
+%}
+
+- Date: 28 July 2022
+- Location: [Knab Rock on Open Street Map](https://www.openstreetmap.org/#map=17/51.57106/-3.98029)
 
 ## Bracelet Bay
 
@@ -52,6 +64,18 @@ We visit some regularly, but loads are completely new to me. No strict rules, Iâ
 
 - Date: 9 October 2022
 - Location: [Langland Bay on Open Street Map](https://www.openstreetmap.org/#map=17/51.56680/-4.01322)
+
+## Caswell Bay
+
+{%
+  include 'partials/image-with-caption.html'
+  image:"caswell-bay.jpg"
+  caption:"Low tide at Caswell, looking west"
+  alt-text:"Beach with tide out. Sun, blue sky and cliffs in distance reflect off the water."
+%}
+
+- Date: 6 February 2022
+- Location: [Caswell Bay on Open Street Map](https://www.openstreetmap.org/#map=17/51.56865/-4.03344)
 
 ## Llangennith
 
@@ -94,13 +118,13 @@ We visit some regularly, but loads are completely new to me. No strict rules, Iâ
 ## All the beaches in Swansea and Gower
 
 1. Swansea Bay
-2. Knab Rock
+2. ~~Knab Rock~~
 3. Mumbles Head
 4. ~~Bracelet Bay~~
 5. Limeslade Bay
 6. ~~Rotherslade Bay~~
 7. ~~Langland Bay~~
-8. Caswell Bay
+8. ~~Caswell Bay~~
 9. Brandy Cove
 10. Pwll Du Bay
 11. Three Cliffs Bay
@@ -125,5 +149,3 @@ We visit some regularly, but loads are completely new to me. No strict rules, Iâ
 30. ~~Broughton Bay~~
 31. Whiteford Sands
 32. Llanrhidian Sands
-
-<!-- Knab rock https://twitter.com/benjystanton/status/1552932291458076679/photo/1 -->
