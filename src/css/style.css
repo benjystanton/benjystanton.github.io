@@ -15,6 +15,15 @@ body {
         font-size: 1.5em;
     }
 }
+@media (prefers-color-scheme: dark) {
+    body {
+        background-color: #2a2b30;
+        color: #f9fbff;
+    }
+    ::selection {
+        background: black;
+      }
+}
 /* Typography */
 h1,h2,h3,h4,h5,h6 {
     font-weight: 900;
@@ -43,7 +52,7 @@ a:focus {
     outline: #2a2b30 solid 3px;
     outline-offset: 3px;
 }
-a:active {
+a,a:active {
     color: blue;
 }
 a:visited:active {
@@ -51,6 +60,20 @@ a:visited:active {
 }
 a:visited {
     color: #2a2b30;
+}
+@media (prefers-color-scheme: dark) {
+    a:focus {
+        outline-color: #f9fbff;
+    }
+    a, a:active {
+        color: #f9fbff;
+    }
+    a:visited:active {
+        color: #f9fbff;
+    }
+    a:visited {
+        color: #f9fbff;
+    }
 }
 pre {
     background-color: #efeeed;
@@ -61,6 +84,14 @@ code {
     white-space : pre-wrap;
     background-color: #efeeed;
     padding: 0.1em;
+}
+@media (prefers-color-scheme: dark) {
+    pre {
+        background-color: #1e1d1d;
+    }
+    code {
+        background-color: #1e1d1d;
+    }
 }
 img {
     height: auto;
@@ -81,6 +112,11 @@ hr {
     border-top: 5px solid #2a2b30;
     margin-top: 3em;
     margin-bottom: 3em;
+}
+@media (prefers-color-scheme: dark) {
+    hr {
+        border-top-color: #efeeed;
+    }
 }
 /* Header */
 .header__name a {
@@ -113,7 +149,19 @@ hr {
 }
 .header__navigation-item a[aria-current] {
     text-decoration: underline;
-  }
+}
+
+@media (prefers-color-scheme: dark) {
+    .header__name a {
+        color: #efeeed;
+    }
+    .header__navigation-item a {
+        color: #efeeed;
+    }
+    .header__navigation-item a:visited {
+        color: #efeeed;
+    }
+}
 /* Footer */
 .footer {
     padding: 0.5em 0;
@@ -153,6 +201,11 @@ hr {
 }
 .by-line a {
     color: #2a2b30;
+}
+@media (prefers-color-scheme: dark) {
+    .by-line a {
+        color: #efeeed;
+    }
 }
 /* Post list */
 .post-list {
