@@ -61,3 +61,7 @@ Please send me suggestions. My contact details are on the [home page](/). Or, ad
 <!-- https://www.craigabbott.co.uk/ -->
 <!-- https://gilest.org/ -->
 <!-- https://loudowne.com/ -->
+<!-- https://www.vickyteinaki.com/blog/ -->
+<!-- https://kate-every.medium.com/ -->
+<!-- https://www.gerireid.com/ -->
+<!-- https://chriscoyier.net/ -->
