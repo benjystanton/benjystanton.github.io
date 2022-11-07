@@ -5,6 +5,7 @@ tags:
 - post
 - Weeknotes
 - Made Tech
+- Swansea
 excerpt: "Design Swansea, user research and design reviews."
 ---
 

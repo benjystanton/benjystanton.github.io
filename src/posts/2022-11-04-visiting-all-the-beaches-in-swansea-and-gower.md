@@ -4,6 +4,7 @@ title: "Visiting all the beaches in Swansea and Gower"
 tags:
 - post
 - Personal
+- Swansea
 excerpt: "I’ve set myself a challenge to visit all the beaches in Swansea and Gower. There are about 32 in total."
 image: "three-chimneys-square.jpg"
 image-alt: "Rocky cliffs from the beach. A hole has formed in the rocks and you can see blue sky through the middle."

@@ -7,6 +7,7 @@ tags:
 - post
 - Design
 - Meetup
+- Swansea
 ---
 
 I’m planning a design meet-up in Swansea. This is a timeline of my notes (expect them to change a lot).
