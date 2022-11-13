@@ -13,6 +13,7 @@ A collection of posts and guides about inclusive design.
 
 - [6 Principles for Inclusive Design – Lillian Xiao](https://uxplanet.org/6-principles-for-inclusive-design-3e9867f7f63e)
 - [A beginner’s guide to inclusive UX design – Trina Moore Pervall](https://uxdesign.cc/a-beginners-guide-to-inclusive-ux-design-b8dcc94f5068)
+- [Accessibility and inclusion – Intuit content design](https://contentdesign.intuit.com/accessibility-and-inclusion/)
 - [Cards for Humanity – Idean](https://cardsforhumanity.idean.com/)
 - [Design systems for humans – Amy Hupe](https://amyhupe.co.uk/articles/design-systems-for-humans/)
 - [Designing for equity and inclusion – Jacquelyn Iyamah](https://medium.com/black-ux-collective/designing-for-equity-and-inclusion-6465bd9246cc)
