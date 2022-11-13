@@ -6,6 +6,7 @@ tags:
 - Weeknotes
 - Swirrl
 - Accessibility
+- Interaction design
 ---
 
 <p>It's been a while since <a href="/blog/weeknotes-series-03-episode-05/">my last weeknote</a>, (almost a year and a half!) but I'm trying to get back into a blogging rhythm again, plus I've got time to spare as Wales has just gone into lockdown 2.</p>

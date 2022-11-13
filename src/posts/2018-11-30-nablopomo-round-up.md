@@ -6,6 +6,7 @@ tags:
 - NaBloPoMo
 - Release notes
 - NaBloPoMo 2018
+- Interaction design
 ---
 
 <p>I did it! <a href="/blog/category/nablopomo/">30 posts in 30 days</a>!</p>

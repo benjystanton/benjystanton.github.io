@@ -5,6 +5,7 @@ tags:
 - post
 - Weeknotes
 - Made Tech
+- Interaction design
 excerpt: Extreme heat, end of school, user-centred design training, mobile app design and 1-to-1s.
 image: "girl-painting-nursery.jpg"
 image-alt: "A young girl stands proudly next to an easel with a messy painting on it"

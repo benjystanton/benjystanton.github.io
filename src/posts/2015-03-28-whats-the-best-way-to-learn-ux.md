@@ -7,6 +7,7 @@ tags:
 - post
 - Design
 - UX
+- Interaction design
 ---
 
 A friend of mine asked for ideas on learning UX, so [I turned to Twitter][1] and got a couple of really great responses.

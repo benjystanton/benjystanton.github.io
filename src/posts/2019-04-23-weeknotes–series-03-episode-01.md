@@ -6,6 +6,7 @@ tags:
 - Data
 - Swirrl
 - post
+- Interaction design
 image: view-from-the-office-square.jpg
 image-alt: St Peter's Square in Manchester, you can see old buildings, people walking and trams
 ---

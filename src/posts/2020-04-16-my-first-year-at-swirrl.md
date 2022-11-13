@@ -5,6 +5,7 @@ tags:
 - post
 - Personal
 - Swirrl
+- Interaction design
 image: "by-the-power-of-data.jpg"
 image-alt: "A round sticker that says 'by the power of data'. He-Man stands in front, raising his sword."
 ---
