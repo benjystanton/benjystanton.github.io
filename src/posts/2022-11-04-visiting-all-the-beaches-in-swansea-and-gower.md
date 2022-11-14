@@ -15,9 +15,11 @@ I’ve set myself a challenge to visit all the beaches in Swansea and Gower.
 
 We visit some regularly, but loads are completely new to me. No strict rules, I’m going to include beaches I’ve visited recently, to give myself a head start.
 
-**Beaches so far: 11 out of 33.**
+## Very important stats
 
-**Longest stretch: 5 beaches.**
+- Beaches visited: 11 of 33
+- Longest continuous stretch: 5 beaches
+- Seals spotted: 0
 
 ***
 
