@@ -8,6 +8,7 @@ tags:
 excerpt: "I’ve set myself a challenge to visit all the beaches in Swansea and Gower. There are about 33 in total."
 image: "three-chimneys-square.jpg"
 image-alt: "Rocky cliffs from the beach. A hole has formed in the rocks and you can see blue sky through the middle."
+last_modified_at: 14 November 2022
 ---
 
 I’ve set myself a challenge to visit all the beaches in Swansea and Gower.
@@ -15,6 +16,8 @@ I’ve set myself a challenge to visit all the beaches in Swansea and Gower.
 We visit some regularly, but loads are completely new to me. No strict rules, I’m going to include beaches I’ve visited recently, to give myself a head start.
 
 **Beaches so far: 11 out of 33.**
+
+**Longest stretch: 5 beaches.**
 
 ***
 
