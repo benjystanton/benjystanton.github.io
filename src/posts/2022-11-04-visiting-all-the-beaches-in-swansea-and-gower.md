@@ -5,7 +5,7 @@ tags:
 - post
 - Personal
 - Swansea
-excerpt: "Iâ€™ve set myself a challenge to visit all the beaches in Swansea and Gower. There are about 32 in total."
+excerpt: "Iâ€™ve set myself a challenge to visit all the beaches in Swansea and Gower. There are about 33 in total."
 image: "three-chimneys-square.jpg"
 image-alt: "Rocky cliffs from the beach. A hole has formed in the rocks and you can see blue sky through the middle."
 ---
@@ -14,7 +14,7 @@ Iâ€™ve set myself a challenge to visit all the beaches in Swansea and Gower.
 
 We visit some regularly, but loads are completely new to me. No strict rules, Iâ€™m going to include beaches Iâ€™ve visited recently, to give myself a head start.
 
-**Beaches so far: 9 out of 32.**
+**Beaches so far: 11 out of 33.**
 
 ***
 
@@ -53,6 +53,18 @@ We visit some regularly, but loads are completely new to me. No strict rules, Iâ
 
 - Date: 16 October 2022
 - Location: [Bracelet Bay on Open Street Map](https://www.openstreetmap.org/#map=17/51.567019/-3.978289)
+
+## Limeslade Beach
+
+{%
+  include 'partials/image-with-caption.html'
+  image:"limeslade-bay.jpg"
+  caption:"Limeslade Beach looking south west"
+  alt-text:"Grey rocks and pebbles disappear into the sea at the shore. Jagged rocks poke out of the sea, and rocky headland can be seen in the distance."
+%}
+
+- Date: 14 November 2022
+- Location: [Limeslade Beach on Open Street Map](https://www.openstreetmap.org/#map=17/51.56617/-3.98436)
 
 ## Rotherslade Bay
 
@@ -114,6 +126,18 @@ We visit some regularly, but loads are completely new to me. No strict rules, Iâ
 - Date: 10 August 2022
 - Location: [Blue Pool Bay on Open Street Map](https://www.openstreetmap.org/#map=17/51.61383/-4.30064)
 
+## Little Broughton
+
+{%
+  include 'partials/image-with-caption.html'
+  image:"little-broughton.jpg"
+  caption:"Little Broughton at low tide"
+  alt-text:"A massive stretch of wet sand with grass topped cliffs in the distance. The cliffs and sky are mirrored almost perfectly in the wet sand below."
+%}
+
+- Date: 12 November 2022
+- Location: [Little Broughton on Open Street Map](https://www.openstreetmap.org/#map=17/51.61455/-4.29025)
+
 ## Broughton Bay
 
 {%
@@ -124,7 +148,7 @@ We visit some regularly, but loads are completely new to me. No strict rules, Iâ
 %}
 
 - Date: 14 August 2022
-- Location: [Broughton Bay on Open Street Map](https://www.openstreetmap.org/#map=17/51.614/-4.288)
+- Location: [Broughton Bay on Open Street Map](https://www.openstreetmap.org/#map=17/51.61537/-4.28255)
 
 ***
 
@@ -134,7 +158,7 @@ We visit some regularly, but loads are completely new to me. No strict rules, Iâ
 2. ~~Knab Rock~~
 3. Mumbles Head
 4. ~~Bracelet Bay~~
-5. Limeslade Bay
+5. ~~Limeslade Beach~~
 6. ~~Rotherslade Bay~~
 7. ~~Langland Bay~~
 8. ~~Caswell Bay~~
@@ -159,6 +183,7 @@ We visit some regularly, but loads are completely new to me. No strict rules, Iâ
 27. ~~Llangennith~~
 28. Burry Holms
 29. ~~Blue Pool Bay~~
-30. ~~Broughton Bay~~
-31. Whiteford Sands
-32. Llanrhidian Sands
+30. ~~Little Broughton~~
+31. ~~Broughton Bay~~
+32. Whiteford Sands
+33. Llanrhidian Sands
