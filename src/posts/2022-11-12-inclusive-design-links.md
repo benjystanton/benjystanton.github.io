@@ -5,6 +5,7 @@ tags:
 - post
 - Inclusive design
 excerpt: "A collection of posts and guides about inclusive design."
+last_modified_at: 16 November 2022
 ---
 
 A collection of posts and guides about inclusive design.
@@ -20,8 +21,10 @@ A collection of posts and guides about inclusive design.
 - [George Aye on “Understanding Power and Privilege in Design” – LaTeisha Moore](https://medium.com/sdn-new-york-chapter/george-aye-on-understanding-power-and-privilege-in-design-1d5b26a23f4e)
 - [How Can Designers Build Interfaces That Avoid the “White Default?” – Jacquelyn Iyamah](https://eyeondesign.aiga.org/design-often-encourages-the-white-default-how-can-designers-create-more-inclusive-digital-interfaces/)
 - [Humane by Design – Jon Yablonski](https://humanebydesign.com/)
+- [Inclusive design glossary – Say Yeah](https://sayyeah.com/glossary/category/inclusive-design/)
 - [Making your service more inclusive – GOV.UK](https://www.gov.uk/service-manual/design/making-your-service-more-inclusive)
 - [The Importance of Inclusive Content Design – Jacquelyn Iyamah](https://contentdesign.london/blog/the-importance-of-inclusive-content-design/)
+- [What are the differences between universal design, accessibility, and inclusive design? – Say Yeah](https://sayyeah.com/digital-insights/universal-design-accessibility-inclusive-design/)
 - [What Does It Mean to Decolonize Design? – Anoushka Khandwala](https://eyeondesign.aiga.org/what-does-it-mean-to-decolonize-design/)
 
 ## Related
