@@ -8,7 +8,7 @@ tags:
 excerpt: "Iâ€™ve set myself a challenge to visit all the beaches in Swansea and Gower. There are about 33 in total."
 image: "three-chimneys-square.jpg"
 image-alt: "Rocky cliffs from the beach. A hole has formed in the rocks and you can see blue sky through the middle."
-last_modified_at: 14 November 2022
+last_modified_at: 19 November 2022
 ---
 
 Iâ€™ve set myself a challenge to visit all the beaches in Swansea and Gower.
@@ -17,8 +17,8 @@ We visit some regularly, but loads are completely new to me. No strict rules, Iâ
 
 ## Very important stats
 
-- Beaches visited: 11 of 33
-- Longest continuous stretch: 5 beaches
+- Beaches visited: 12 of 33
+- Longest continuous stretch: 8 beaches
 - Seals spotted: 0
 
 ***
@@ -46,6 +46,18 @@ We visit some regularly, but loads are completely new to me. No strict rules, Iâ
 
 - Date: 28 July 2022
 - Location: [Knab Rock on Open Street Map](https://www.openstreetmap.org/#map=17/51.57106/-3.98029)
+
+## Mumbles Head Beach
+
+{%
+  include 'partials/image-with-caption.html'
+  image:"mumbles-head.jpg"
+  caption:"Looking from the beach near the pier towards the islands and lighthouse. Some maps call this beach Touch Down, not sure why."
+  alt-text:"Small rocky island with a lighthouse, just the other side of the water from a sandy beach."
+%}
+
+- Date: 19 November 2022
+- Location: [Mumbles Head Beach on Open Street Map](https://www.openstreetmap.org/#map=17/51.56857/-3.97628)
 
 ## Bracelet Bay
 
@@ -161,7 +173,7 @@ We visit some regularly, but loads are completely new to me. No strict rules, Iâ
 
 1. ~~Swansea Bay~~
 2. ~~Knab Rock~~
-3. Mumbles Head
+3. ~~Mumbles Head~~
 4. ~~Bracelet Bay~~
 5. ~~Limeslade Beach~~
 6. ~~Rotherslade Bay~~

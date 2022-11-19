@@ -76,3 +76,5 @@ Please send me suggestions. My contact details are on the [home page](/). Or, ad
 <!-- https://loudowne.com/ -->
 <!-- https://www.gerireid.com/ -->
 <!-- https://chriscoyier.net/ -->
+<!-- Ian Ames -->
+<!-- hidde.blog -->
