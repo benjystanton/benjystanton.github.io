@@ -26,6 +26,15 @@ I’m an advocate for accessibility and inclusive design, helping teams to do us
 - Prototyping
 - User research
 
+## Worked with
+
+- Driver and Vehicle Licensing Agency (DVLA)
+- Environment Agency (EA)
+- Met Office
+- Office for National Statistics (ONS)
+- UK Health Security Agency (UKHSA) / NHS Test and Trace
+ 
+
 ## Experience
 
 ###  Lead designer at Made Tech
