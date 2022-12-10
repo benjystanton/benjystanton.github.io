@@ -3,6 +3,9 @@ layout: layouts/page
 title: Style guide
 permalink: /style-guide/
 excerpt: Notes about my site's build, typography, colours and components.
+tags:
+- page
+date: 2007-05-10 00:00:03
 ---
 
 ## Build
@@ -19,7 +22,7 @@ I've chosen a font family that uses sans-serif system fonts. System fonts are th
 
 I borrowed this font family from [Andy Bell](https://twitter.com/piccalilli_/status/1254800627789676548).
 
-`font-family: "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif`
+`font-family: "Helvetica Neue","Segoe UI", Roboto, Arial, sans-serif;`
 
 <!-- ## Colours
 

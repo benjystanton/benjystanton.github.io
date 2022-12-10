@@ -1,17 +1,20 @@
 ---
 layout: layouts/page
 title: About
+date: 2007-05-10 00:00:01
+tags:
+- page
 ---
 
-My name is Benjy Stanton and I’m a designer. I'm currently a lead designer at Made Tech. I’m based in Swansea, Wales. I care about user needs, accessibility and the open web.
+My name is Benjy Stanton. I’m a lead interaction designer at Made Tech. I’m based in Swansea, Wales. I care about inclusive design and accessibility.
 
 ## Summary
 
-I’m a user experience (UX) and interaction designer with experience working in the public and private sector. I’m at my best when working in multidisciplinary teams. I design products and services within agile teams, driven by user needs.
+I’m an interaction designer (IXD) and user experience (UX) designer with experience working in the public and private sector. I’m at my best when working in multidisciplinary teams. I design products and services within agile teams, driven by user needs.
 
-I’ve worked with teams of different sizes and setups, including in-house, distributed and remote. I've lead design teams, headed up communities of practice, and organised design meet-ups outside of work.
+I’ve worked with teams of different sizes and setups, including in-house, hybrid and remote. I’ve lead design teams, headed up communities of practice, and organised design meet-ups outside of work.
 
-I’m an advocate for accessibility and inclusive design, helping teams to do user research with people with access needs and organise external accessibility audits. I’m passionate about making services more accessible and inclusive.
+I’m an advocate for accessibility and inclusive design, helping teams to do user research with people with access needs, and organise external accessibility audits. I’m passionate about making services more accessible and inclusive.
 
 ## Related blog posts
 
@@ -40,17 +43,17 @@ I’m an advocate for accessibility and inclusive design, helping teams to do us
 ###  Lead designer at Made Tech
 Started July 2022
 
-### Head of Inclusive Design in NHS Test and Trace at UK Health Security Agency (UKHSA)
+### Head of Inclusive Design NHS Test and Trace at UK Health Security Agency (UKHSA)
 July 2021 to June 2022
 
-At UKHSA I head up a team of user-centred designers and product people. We work to improve the inclusivity and accessibility of NHS Test and Trace services. Our team works across different services, user journeys and organisations. We help teams to do user research with diverse participants and embed inclusive design best practice.
+At UKHSA I lead a team of user-centred designers and product people. We worked to improve the inclusivity and accessibility of NHS Test and Trace services. Our team worked across different services, user journeys and organisations. We helped teams to do user research with diverse participants and embed inclusive design best practice.
 
 ### Interaction Designer at Swirrl
 April 2019 to June 2021
 
-At Swirrl, my main focus was helping teams at the Environment Agency (EA) to publish data on Defra's Data Services Platform (DSP). I helped the service owners at EA to learn more about the users of their data, and I assisted them in publishing the data in a way that was usable and accessible. I conducted multiple accessibility audits and worked with EA, and their suppliers, to fix issues, create accessibility statements and produce prioritised roadmaps.
+At Swirrl, my main focus was helping teams at the Environment Agency (EA) to publish data on Defra’s Data Services Platform (DSP). I helped the service owners at EA to learn more about the users of their data, and I assisted them in publishing the data in a way that was usable and accessible. I conducted multiple accessibility audits and worked with EA, and their suppliers, to fix issues, create accessibility statements and produce prioritised roadmaps.
 
-### Lead Interaction Designer at Office for National Statistics
+### Lead Interaction Designer at Office for National Statistics (ONS)
 October 2016 to April 2019
 
 I headed up a team of interaction and graphic designers. I was responsible for designing products used by the UK public, and internal teams, to collect and publish data. I created user journeys maps, storyboards, prototypes and ran user research and A/B tests. I played a key part in making ONS’s services more accessible across web, social media and printed channels.

@@ -6,6 +6,7 @@ date: 2016-08-18 16:06:00
 tags:
 - post
 - UX
+- Interaction design
 ---
 
 A list of skills needed to be a user experience designer, from [Centre Centre](http://centercentre.com/).

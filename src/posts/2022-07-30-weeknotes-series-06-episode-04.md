@@ -5,6 +5,7 @@ tags:
 - post
 - Weeknotes
 - Made Tech
+- Interaction design
 excerpt: Extreme heat, end of school, user-centred design training, mobile app design and 1-to-1s.
 image: "paddle-boards.jpg"
 image-alt: "Three paddle boards on the ground, next to 2 black and yellow bollards. Black railings edge the path next to the sea. One the other side of the bay, there are hills and buildings."

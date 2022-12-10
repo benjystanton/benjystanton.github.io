@@ -5,6 +5,7 @@ tags:
 - post
 - Weeknotes
 - Made Tech
+- Inclusive design
 excerpt: "My first sprint, user research with people with access needs, and exclusion mapping."
 image: "benjy-arcade.jpeg"
 image-alt: "Me in a dark room, tinged in blue light, playing an 80s style missile command arcade machine. I’m turning round to look at the camera. Wearing a cut off black denim jacket and a baseball cap."

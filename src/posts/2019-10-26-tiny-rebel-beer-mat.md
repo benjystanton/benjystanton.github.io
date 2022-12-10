@@ -9,7 +9,7 @@ title: Tiny Rebel beer mat
 ---
 
 <figure>
-  <img src="/images/{{ image }}" alt="{{ image-alt }}" />
+  <img src="/images/{{ image }}" alt="{{ image-alt }}">
   <figcaption>
     <h1>{{ title }}</h1>
   </figcaption>

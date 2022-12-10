@@ -6,6 +6,7 @@ tags:
 - Accessibility
 - Design
 - post
+- Interaction design
 last_modified_at: 7 December 2020
 image: "map-sketch.jpg"
 image-alt: "Black and white drawing of map, made up of a polygon, a map pin and a dotted line"

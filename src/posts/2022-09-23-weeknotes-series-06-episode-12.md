@@ -5,6 +5,7 @@ tags:
 - post
 - Weeknotes
 - Made Tech
+- Inclusive design
 excerpt: "A look at the accessibility best practices and exclusion mapping guides I've been working on."
 image: "exclusion-mapping.png"
 image-alt: "A yellow square with a blue bounding box. Black text inside the square says: Exclusion mapping."
