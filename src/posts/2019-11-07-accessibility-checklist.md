@@ -8,7 +8,7 @@ tags:
 - NaBloPoMo 2019
 image: "checkbox.jpg"
 image-alt: "Sharpie drawing of a box with a tick or check in it, on grid paper"
-last_modified_at: 8 November 2020
+last_modified_at: 21 December 2022
 ---
 
 <p>A list of accessibility recommendations, tips and resources. Last updated on {{ last_modified_at }}.</p>
@@ -72,7 +72,7 @@ Read my post about [accessible charts](/blog/a-plan-for-accessible-charts/).
 ## Interaction
 
 - Check design is functional when using a keyboard to navigate
-- Check it's visually apparent which page element has current keyboard focus (if it's interactive, it needs focus styles)[https://gomakethings.com/if-its-interactive-it-needs-focus-styles/])
+- Check it's visually apparent which page element has current keyboard focus [if it’s interactive, it needs focus styles](https://gomakethings.com/if-its-interactive-it-needs-focus-styles/)
 - [Make sure scrollable regions are focusable](https://developer.paciellogroup.com/blog/2016/02/short-note-on-improving-usability-of-scrollable-regions/)
 - [Make clickable areas (target size) at least 44 pixels](https://ishadeed.com/article/clickable-area/)
 - [Use aria-current if you're styling active page links](https://gomakethings.com/better-more-accessible-active-link-styling/)
