@@ -78,3 +78,5 @@ Please send me suggestions. My contact details are on the [home page](/). Or, ad
 <!-- https://chriscoyier.net/ -->
 <!-- hidde.blog -->
 <!-- https://www.claragreo.com/writing/ -->
+<!-- https://demotive.com/ -->
+<!-- https://ignaciaorellana.com/ -->
