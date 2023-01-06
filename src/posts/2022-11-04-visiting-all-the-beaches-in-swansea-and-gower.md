@@ -17,8 +17,8 @@ We visit some regularly, but loads are completely new to me. No strict rules, Iâ
 
 ## Very important stats
 
-- Beaches visited: 12 of 33
-- Longest continuous stretch: 8 beaches
+- Beaches visited: 13 of 33
+- Longest continuous stretch: 9 beaches
 - Seals spotted: 0
 
 ***
@@ -119,6 +119,18 @@ We visit some regularly, but loads are completely new to me. No strict rules, Iâ
 - Date: 6 February 2022
 - Location: [Caswell Bay on Open Street Map](https://www.openstreetmap.org/#map=17/51.56865/-4.03344)
 
+## Brandy Cove
+
+{%
+  include 'partials/image-with-caption.html'
+  image:"brandy-cove.jpg"
+  caption:"Looking towards Brandy Cove from the coastal path that leads to Caswell  "
+  alt-text:"View down from a coastal path to a small sandy and rocky beach. Small waves break from the left. Cliffs on the far side lead up to dark green hills with shrubs and bushes."
+%}
+
+- Date: 3 December 2022
+- Location: [Brandy Cove on Open Street Map](https://www.openstreetmap.org/#map=17/51.56784/-4.04355)
+
 ## Llangennith
 
 {%
@@ -179,7 +191,7 @@ We visit some regularly, but loads are completely new to me. No strict rules, Iâ
 6. ~~Rotherslade Bay~~
 7. ~~Langland Bay~~
 8. ~~Caswell Bay~~
-9. Brandy Cove
+9. ~~Brandy Cove~~
 10. Pwll Du Bay
 11. Three Cliffs Bay
 12. Nicholaston Burrows
