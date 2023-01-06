@@ -6,7 +6,16 @@ tags:
 - page
 ---
 
-My name is Benjy Stanton. I’m a lead interaction designer at Made Tech. I’m based in Swansea, Wales. I care about inclusive design and accessibility.
+My name is Benjy Stanton. I’m a lead interaction designer at Made Tech. I care about inclusive design and accessibility.
+
+<img class="image-avatar" src="/images/benjy-stanton-2022.jpg" width="48" height="48" alt="Close up of Benjy, he’s smiling at the camera">
+
+- Languages: English
+- Pronouns: he/him
+- Location: Swansea, Wales
+- Email: [benjystanton@gmail.com](mailto:benjystanton@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/benjystanton/)
+
 
 ## Summary
 
@@ -36,7 +45,8 @@ I’m an advocate for accessibility and inclusive design, helping teams to do us
 - Met Office
 - Office for National Statistics (ONS)
 - UK Health Security Agency (UKHSA) / NHS Test and Trace
- 
+
+*** 
 
 ## Experience
 
@@ -75,3 +85,11 @@ May 2008 to May 2011
 
 ### Designer at Web Media Works
 June 2004 to April 2008
+
+***
+
+## Education
+
+### University of West London
+Bachelor’s Degree, Digital Arts
+2001 to 2004
