@@ -41,7 +41,7 @@ I use modern communication tools (like Slack, Notion and Google Suite) and love 
 - [A user manual for me](/blog/a-user-manual-for-me-version-3/)
 - [My interaction design tools](/blog/my-interaction-design-tools-version-3/)
 
-## Worked with
+## I've worked with
 
 - Driver and Vehicle Licensing Agency (DVLA)
 - Environment Agency (EA)
