@@ -6,7 +6,7 @@ tags:
 - page
 ---
 
-My name is Benjy Stanton. I’m a lead interaction designer at Made Tech. I care about inclusive design and accessibility.
+My name is Benjy Stanton. I’m a lead designer, working remotely for Made Tech. I care about usability, inclusive design, accessibility and web standards.
 
 <img class="image-avatar" src="/images/benjy-stanton-2022.jpg" width="48" height="48" alt="Close up of Benjy, he’s smiling at the camera">
 
@@ -19,24 +19,27 @@ My name is Benjy Stanton. I’m a lead interaction designer at Made Tech. I care
 
 ## Summary
 
-I’m an interaction designer (IXD) and user experience (UX) designer with experience working in the public and private sector. I’m at my best when working in multidisciplinary teams. I design products and services within agile teams, driven by user needs.
+I’m an hands-on interaction designer, product designer and user experience (UX) designer. I have experience in the public and private sector. I’m at my best when working in agile, multidisciplinary teams that care about user-centred design.
 
-I’ve worked with teams of different sizes and setups, including in-house, hybrid and remote. I’ve lead design teams, headed up communities of practice, and organised design meet-ups outside of work.
+I love working on designs from start to finish, including:
 
-I’m an advocate for accessibility and inclusive design, helping teams to do user research with people with access needs, and organise external accessibility audits. I’m passionate about making services more accessible and inclusive.
+- Defining user needs, problems to solve and how we'll measure success
+- Setting user research objectives and observing user research
+- Creating and iterating on user journeys and prototypes
+- Delivering production ready assets and HTML/CSS
+- Accessibility checks and design QA (quality assurance)
+- Documenting designs and maintaining design systems
+
+I’ve worked with teams of different sizes and setups, including in-house, hybrid and remote. I’ve lead design teams, headed-up communities, and hired and mentored designers. 
+
+I’m an advocate for accessibility and inclusive design. I help teams to do user research with people with access needs, and do accessibility audits. I’m passionate about making products and services that work for everyone.
+
+I use modern communication tools (like Slack, Notion and Google Suite) and love working asynchronously.
 
 ## Related blog posts
 
 - [A user manual for me](/blog/a-user-manual-for-me-version-3/)
 - [My interaction design tools](/blog/my-interaction-design-tools-version-3/)
-
-## Skills
-
-- User-centred design
-- HTML and CSS
-- Accessibility
-- Prototyping
-- User research
 
 ## Worked with
 
