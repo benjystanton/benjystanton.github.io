@@ -19,7 +19,7 @@ My name is Benjy Stanton. I’m a lead designer, working remotely for Made Tech.
 
 ## Summary
 
-I’m an hands-on interaction designer, product designer and user experience (UX) designer. I have experience in the public and private sector. I’m at my best when working in agile, multidisciplinary teams that care about user-centred design.
+I’m an hands-on interaction designer, product designer and user experience (UX) designer. I have experience in the public and private sector. I love working with agile, multidisciplinary teams that care about user-centred design.
 
 I love working on designs from start to finish, including:
 
