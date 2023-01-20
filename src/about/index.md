@@ -23,7 +23,7 @@ I’m an hands-on interaction designer, product designer and user experience (UX
 
 I love working on designs from start to finish, including:
 
-- Defining user needs, problems to solve and how we'll measure success
+- Defining user needs, problems and success measures
 - Setting user research objectives and observing user research
 - Creating and iterating on user journeys and prototypes
 - Delivering production ready assets and HTML/CSS
