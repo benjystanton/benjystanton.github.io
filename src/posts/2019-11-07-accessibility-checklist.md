@@ -8,10 +8,11 @@ tags:
 - NaBloPoMo 2019
 image: "checkbox.jpg"
 image-alt: "Sharpie drawing of a box with a tick or check in it, on grid paper"
-last_modified_at: 21 December 2022
+last_modified_at: 31 January 2023
+excerpt: "A list of accessibility recommendations; covering typography, content, layout and interaction."
 ---
 
-<p>A list of accessibility recommendations, tips and resources. Last updated on {{ last_modified_at }}.</p>
+<p>{{ excerpt }}</p>
 
 ## Accessibility is not just a checkbox exercise
 
@@ -64,10 +65,12 @@ Read my post about [accessible charts](/blog/a-plan-for-accessible-charts/).
 
 ## Colour and contrast
 
-- [Check colour contrast](http://webaim.org/resources/contrastchecker/) between text and background
+- Check colour contrast between foreground and background elements
+- [WebAIM have a web based tool](http://webaim.org/resources/contrastchecker/), or [Contrast is a great Mac based tool](https://usecontrast.com/)
 - Check design works in black and white
 - Don't communicate using colour alone
 - Check design works in high contrast mode
+- Read [An interactive guide to color & contrast](https://colorandcontrast.com/)
 
 ## Interaction
 
