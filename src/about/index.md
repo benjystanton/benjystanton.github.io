@@ -6,10 +6,11 @@ tags:
 - page
 ---
 
-My name is Benjy Stanton. I’m a lead designer, working remotely for Made Tech. I care about usability, inclusive design, accessibility and web standards.
+My name is Benjy Stanton. I’m a lead designer. I care about usability, inclusive design, accessibility and web standards.
 
 <img class="image-avatar" src="/images/benjy-stanton-2022.jpg" width="48" height="48" alt="Close up of Benjy, he’s smiling at the camera">
 
+- Available {{ site.availability }}
 - Languages: English
 - Pronouns: he/him
 - Location: Swansea, Wales
