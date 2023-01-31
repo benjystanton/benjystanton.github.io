@@ -7,6 +7,7 @@ tags:
 - Accessibility
 - Test and Trace
 excerpt: "A collection of tips for making PowerPoint presentations more accessible."
+last_modified_at: 31 January 2023
 ---
 
 A collection of tips for making PowerPoint presentations more accessible. Created (and crowdsourced) by the UKHSA (UK Health Security Agency) Inclusive Design team earlier in the year. Many tips will be useful for other presentation tools too.
@@ -22,6 +23,10 @@ A collection of tips for making PowerPoint presentations more accessible. Create
 
 - Turn the camera of the person speaking on
 - Speak clearly (but not slowly)
+
+## Sounds and music
+- Avoid sounds and music where possible
+- Especially if it might make it difficult to hear other people speaking
 
 ## Make content available in different ways
 
