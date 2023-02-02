@@ -6,10 +6,11 @@ tags:
 - page
 ---
 
-My name is Benjy Stanton. I’m a lead designer, working remotely for Made Tech. I care about usability, inclusive design, accessibility and web standards.
+My name is Benjy Stanton. I’m a lead interaction designer. I’m interested in user-centred design in the public sector, inclusive design and accessibility.
 
 <img class="image-avatar" src="/images/benjy-stanton-2022.jpg" width="48" height="48" alt="Close up of Benjy, he’s smiling at the camera">
 
+- Available {{ site.availability }}
 - Languages: English
 - Pronouns: he/him
 - Location: Swansea, Wales
@@ -28,9 +29,8 @@ I love working on designs from start to finish, including:
 - Creating and iterating on user journeys and prototypes
 - Delivering production ready assets and HTML/CSS
 - Accessibility checks and design QA (quality assurance)
-- Documenting designs and maintaining design systems
 
-I’ve worked with teams of different sizes and setups, including in-house, hybrid and remote. I’ve lead design teams, headed-up communities, and hired and mentored designers. 
+I’ve worked with teams of different sizes and setups, including in-house, hybrid and remote. I’ve led design teams, headed-up communities, and hired and mentored designers. 
 
 I’m an advocate for accessibility and inclusive design. I help teams to do user research with people with access needs, and do accessibility audits. I’m passionate about making products and services that work for everyone.
 
