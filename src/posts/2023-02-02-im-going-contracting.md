@@ -38,7 +38,7 @@ More [about me](/about/).
 
 Check my [LinkedIn](https://www.linkedin.com/in/benjystanton/) page, or email me at [benjystanton@gmail.com](mailto:benjystanton@gmail.com).
 
-I can supply an up to date CV.
+Happy to share an up-to-date CV.
 
 ***
 
