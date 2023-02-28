@@ -32,7 +32,7 @@ I won't be starting until some time in April, so I think I'm lucky to get someth
 
 I have to be honest, I was surprised at how many contract roles there seems to be, given that permanent interaction designer roles seem very rare at the moment. It's great for me and others in my position, but if I'm honest it doesn't seem like a sustainable way to grow the profession across government.
 
-The interviewing process seems to be more tipped in favour of the job seeker too. Interviews are generally shorter, less prep is needed, and more time is taken by the interviewer trying to sell the role.
+The interviewing process seems to be slightly more tipped in favour of the job seeker too (when compared to perm interviews). Interviews are generally shorter, less prep is needed, and more time is taken by the interviewer trying to sell the role.
 
 That all makes sense I suppose, given that I won't be permanent and could be fired much more easily. But it's making me wonder if there's a balance between the contract and permanent hiring process that combines the best of both worlds.
 
