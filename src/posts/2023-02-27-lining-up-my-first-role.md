@@ -36,7 +36,7 @@ The interviewing process seems to be slightly more tipped in favour of the job s
 
 That all makes sense I suppose, given that I won't be permanent and could be fired much more easily. But it's making me wonder if there's a balance between the contract and permanent hiring process that combines the best of both worlds.
 
-Perhaps a big part of it is that I have been openly looking for work, something I always wished I'd had the guts to do before.
+Perhaps a big part of it is that I have been openly looking for work, something I always wished I'd had the guts to do before. Perhaps being more open in my job search when looking for permenant roles in the past would have been a better approach.
 
 ## Hard work
 
