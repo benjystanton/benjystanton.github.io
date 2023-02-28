@@ -24,7 +24,7 @@ I haven't seen the contract yet, so it's not 100% certain. I keep reminding myse
 
 ## Timelines
 
-I first blogged about going contracting at the beginning of February, and this role was one of the first that that I looked at. A recruiter shared it with me after seeing my LinkedIn post (I think) and it's direct with the department (via the agency) rather than being via another design agency.
+I first blogged about going contracting at the beginning of February, and this role was one of the first that I looked at. A recruiter shared it with me after seeing my LinkedIn post (I think) and it's direct with the department (via the agency) rather than being via another design agency.
 
 I won't be starting until some time in April, so I think I'm lucky to get something lined up so early. I wasn't expecting to have this much certainty so early, as it sounds like most recruiters want to fill roles within 2 to 3 weeks.
 
@@ -32,11 +32,11 @@ I won't be starting until some time in April, so I think I'm lucky to get someth
 
 I have to be honest, I was surprised at how many contract roles there seems to be, given that permanent interaction designer roles seem very rare at the moment. It's great for me and others in my position, but if I'm honest it doesn't seem like a sustainable way to grow the profession across government.
 
-The interviewing process seems much tipped in favour of the job seeker too. Interviews are generally shorter, less prep is needed, and more time is taken by the interviewer trying to sell the role.
+The interviewing process seems to be more tipped in favour of the job seeker too. Interviews are generally shorter, less prep is needed, and more time is taken by the interviewer trying to sell the role.
 
 That all makes sense I suppose, given that I won't be permanent and could be fired much more easily. But it's making me wonder if there's a balance between the contract and permanent hiring process that combines the best of both worlds.
 
-Perhaps a big part if it is that I have been openly looking for work, something I always wished I'd had the guts to do before.
+Perhaps a big part of it is that I have been openly looking for work, something I always wished I'd had the guts to do before.
 
 ## Hard work
 
