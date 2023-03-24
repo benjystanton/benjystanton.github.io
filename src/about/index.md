@@ -54,7 +54,10 @@ I use modern communication tools (like Slack, Notion and Google Suite) and love 
 ## Experience
 
 ###  Lead designer at Made Tech
-Started July 2022
+
+July 2022 to March 2023
+
+At Made Tech, my role was lead designer, specialising in interaction design. I worked at the Met Office on their native iOS and Android apps. I also worked closely with the web team to help improve consistency between the different platforms. Whilst there, I helped to improve the accessibility practices of the team, launch a new map service, and improve information around beach safety forecasts.
 
 ### Head of Inclusive Design NHS Test and Trace at UK Health Security Agency (UKHSA)
 July 2021 to June 2022

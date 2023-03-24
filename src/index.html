@@ -5,6 +5,10 @@ title: Home
 date: 2007-05-10 00:00:00
 tags:
 - page
+pagination:
+ data: collections.post
+ size: 3
+ reverse: true
 ---
 
 <article class="h-card" role="article">
@@ -19,19 +23,19 @@ tags:
 
   <p>Read <a href="/about/">more about me</a>.</p>
 
-  <h2>Latest posts</h2>
   <ul>
-    {% for post in collections.post.reverse limit: 3 %}
-    <li><a href="{{ post.url }}">{{ post.data.title }}</a></li>
-    {% endfor %}
-  </ul>
+  {%- for post in pagination.items -%}
+  <li><a href="{{ post.url }}">{{ post.data.title }}</a></li>
+  {%- endfor -%}
+</ul>
+
 
   <h2>Find me on the web</h2>
   <ul>
     <li><a href="https://twitter.com/benjystanton" rel="me" class="u-url">Twitter</a></li>
+    <li><a href="https://www.linkedin.com/in/benjystanton/" rel="me" class="u-url">LinkedIn</a></li>
     <li><a href="https://github.com/benjystanton/" rel="me" class="u-url">Github</a></li>
     <li><a href="https://gist.github.com/benjystanton" rel="me" class="u-url">Github gists</a></li>
-    <li><a href="https://www.linkedin.com/in/benjystanton/" rel="me" class="u-url">LinkedIn</a></li>
     <li><a href="https://mastodon.social/@benjystanton" rel="me" class="u-url">Mastodon</a></li>
     <li><a href="mailto:benjystanton@gmail.com" rel="me" class="u-email">Email</a> benjystanton@gmail.com</li>
   </ul>
