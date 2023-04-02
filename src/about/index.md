@@ -64,6 +64,8 @@ July 2021 to June 2022
 
 At UKHSA I lead a team of user-centred designers and product people. We worked to improve the inclusivity and accessibility of NHS Test and Trace services. Our team worked across different services, user journeys and organisations. We helped teams to do user research with diverse participants and embed inclusive design best practice.
 
+My team helped to [improve the self-testing experience of blind and partially sighted people](https://www.gov.uk/government/case-studies/covid-19-lfd-self-testing-experience-of-blind-and-partially-sighted-people).
+
 ### Interaction Designer at Swirrl
 April 2019 to June 2021
 
