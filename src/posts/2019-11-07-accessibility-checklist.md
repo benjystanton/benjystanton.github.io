@@ -8,18 +8,11 @@ tags:
 - NaBloPoMo 2019
 image: "checkbox.jpg"
 image-alt: "Sharpie drawing of a box with a tick or check in it, on grid paper"
-last_modified_at: 31 January 2023
+last_modified_at: 2 April 2023
 excerpt: "A list of accessibility recommendations; covering typography, content, layout and interaction."
 ---
 
 <p>{{ excerpt }}</p>
-
-## Accessibility is not just a checkbox exercise
-
-Although I find checklists useful, it's worth remembering that accessibility shouldn't be reduced to a checkbox exercise. [Craig Abbott explains it nicely in this post](https://dwpdigital.blog.gov.uk/2020/05/19/understanding-accessibility-what-it-means-for-dwp-digital/).
-
-> Accessibility is not just a checkbox exercise. It’s about inclusion. It’s providing the same level of service and human rights to everybody and culturally we need to embrace it in everything that we do.
-<br>— Craig Abbott
 
 ## Typography
 
@@ -40,8 +33,8 @@ Read my post about [how improving typography can help us to meet user needs](/bl
 
 - Use plain English
 - Explain unusual words and jargon
-- [Explain abbreviations in the first instance](https://developer.paciellogroup.com/blog/2019/03/short-note-the-abbreviation-appreciation-society/)
-- [Don't rely on link title attribute](https://developer.paciellogroup.com/blog/2010/11/using-the-html-title-attribute/)
+- Explain abbreviations in the first instance
+- [Don't rely on link title attribute](https://www.tpgi.com/using-the-html-title-attribute/)
 - Put the most important information at the start
 - Explain what a user has to do in a clear and concise way
 - Use headings and lists to break the content into chunks
@@ -76,7 +69,7 @@ Read my post about [accessible charts](/blog/a-plan-for-accessible-charts/).
 
 - Check design is functional when using a keyboard to navigate
 - Check it's visually apparent which page element has current keyboard focus [if it’s interactive, it needs focus styles](https://gomakethings.com/if-its-interactive-it-needs-focus-styles/)
-- [Make sure scrollable regions are focusable](https://developer.paciellogroup.com/blog/2016/02/short-note-on-improving-usability-of-scrollable-regions/)
+- [Make sure scrollable regions are focusable](https://www.tpgi.com/short-note-on-improving-usability-of-scrollable-regions/)
 - [Make clickable areas (target size) at least 44 pixels](https://ishadeed.com/article/clickable-area/)
 - [Use aria-current if you're styling active page links](https://gomakethings.com/better-more-accessible-active-link-styling/)
 - Complex interface components, like sliders, should be avoided when simple solutions, like a text input, can be used instead
@@ -160,10 +153,11 @@ Remember that automatic tests aren't perfect.
 Read [building the most inaccessible site possible with a perfect Lighthouse score from Manuel Matuzović](https://www.matuzo.at/blog/building-the-most-inaccessible-site-possible-with-a-perfect-lighthouse-score/).
 
 
-## Other accessibility checklists
+## Other accessibility checklists and links
 
 - [Checklist to avoid the most common accessibility errors from Bruce Lawson](https://www.brucelawson.co.uk/2019/checklist-to-avoid-the-most-common-accessibility-errors/)
 - [Tools for designing good-looking accessible interfaces from Sarah L. Fossheim](https://fossheim.io/writing/posts/accessible-design-tools/)
 - [Accessibility resources GitHub repo from Phil Sherry](https://github.com/hmrc/accessibility)
 - [WCAG Cheat Sheets and Checklists from WebAxe](http://www.webaxe.org/wcag-cheat-sheets/)
 - [Doing a basic accessibility check if you cannot do a detailed one guidance from GOV.UK](https://www.gov.uk/government/publications/doing-a-basic-accessibility-check-if-you-cant-do-a-detailed-one/doing-a-basic-accessibility-check-if-you-cant-do-a-detailed-one)
+- [Quick and Small Accessibility](https://bite-sized-a11y.com/)
