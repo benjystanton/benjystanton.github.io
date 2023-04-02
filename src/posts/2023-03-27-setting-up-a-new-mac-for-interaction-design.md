@@ -20,6 +20,7 @@ A round up of things that I'll install first on a new Macbook. I use all of thes
 - Firefox
 - GitHub Desktop
 - iA Writer
+- ImageOptim
 - Slack
 - Visual Studio Code
 - Xcode
