@@ -13,7 +13,7 @@ image-alt: Screenshot of the Twitter bird being edited in a vector drawing appli
 last_modified_at: 5 April 2021
 ---
 
-Switching from PNGs (Portable Network Graphics) or Icon Fonts, to SVG (Scalable Vector Graphics) icons. Updated on {{ last_modified_at }}.
+Switching from PNGs (Portable Network Graphics) or icon fonts, to SVG (Scalable Vector Graphics) icons.
 
 {%
   include 'partials/image-with-caption.html'
