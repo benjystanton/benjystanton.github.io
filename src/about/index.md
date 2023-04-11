@@ -53,9 +53,13 @@ I use modern communication tools (like Slack, Notion and Google Suite) and love 
 
 ## Experience
 
+###  Senior interaction designer at Home Office (contract)
+
+Started April 2023
+
 ###  Lead designer at Made Tech
 
-July 2022 to March 2023
+July 2022 to April 2023
 
 At Made Tech, my role was lead designer, specialising in interaction design. I worked at the Met Office on their native iOS and Android apps. I also worked closely with the web team to help improve consistency between the different platforms. Whilst there, I helped to improve the accessibility practices of the team, launch a new map service, and improve information around beach safety forecasts.
 
