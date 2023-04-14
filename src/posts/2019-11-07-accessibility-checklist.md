@@ -8,7 +8,7 @@ tags:
 - NaBloPoMo 2019
 image: "checkbox.jpg"
 image-alt: "Sharpie drawing of a box with a tick or check in it, on grid paper"
-last_modified_at: 2 April 2023
+last_modified_at: 14 April 2023
 excerpt: "A list of accessibility recommendations; covering typography, content, layout and interaction."
 ---
 
@@ -143,6 +143,7 @@ Check the service can be operated with…
 - [WAVE by WebAIM](https://wave.webaim.org/extension/)
 - [Axe by Deque](https://www.deque.com/axe/)
 - [Lighthouse by Google](https://developers.google.com/web/tools/lighthouse)
+- [Accessibility Insights by Microsoft](https://accessibilityinsights.io/)
 - Check html mark-up is valid
 
 Remember that automatic tests aren't perfect.
