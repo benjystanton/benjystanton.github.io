@@ -64,6 +64,7 @@ Read my post about [accessible charts](/blog/a-plan-for-accessible-charts/).
 - Don't communicate using colour alone
 - Check design works in high contrast mode
 - Read [An interactive guide to color & contrast](https://colorandcontrast.com/)
+- [Who can use](https://www.whocanuse.com/)
 
 ## Interaction
 
