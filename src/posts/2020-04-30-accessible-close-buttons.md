@@ -11,7 +11,7 @@ tags:
 image: "download-button-sketch.jpg"
 image-alt: "Drawing of a × symbol in a box on grid paper"
 last_modified_at: 16 April 2023
-excerpt: "A short post about designing close buttons with SVG icons and accessibile mark-up."
+excerpt: "A short post about designing close buttons with SVG icons and accessible mark-up."
 
 ---
 
