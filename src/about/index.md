@@ -10,7 +10,7 @@ My name is Benjy Stanton. I’m a lead interaction designer. I’m interested in
 
 <img class="image-avatar" src="/images/benjy-stanton-2022.jpg" width="48" height="48" alt="Close up of Benjy, he’s smiling at the camera">
 
-- Available {{ site.availability }}
+- Available: {{ site.availability }}
 - Languages: English
 - Pronouns: he/him
 - Location: Swansea, Wales
@@ -22,7 +22,7 @@ My name is Benjy Stanton. I’m a lead interaction designer. I’m interested in
 
 I’m an hands-on interaction designer, product designer and user experience (UX) designer. I have experience in the public and private sector. I love working with agile, multidisciplinary teams that care about user-centred design.
 
-I love working on designs from start to finish, including:
+I work on designs from start to finish, including:
 
 - Defining user needs, problems and success measures
 - Setting user research objectives and observing user research
@@ -34,17 +34,16 @@ I’ve worked with teams of different sizes and setups, including in-house, hybr
 
 I’m an advocate for accessibility and inclusive design. I help teams to do user research with people with access needs, and do accessibility audits. I’m passionate about making products and services that work for everyone.
 
-I use modern communication tools (like Slack, Notion and Google Suite) and love working asynchronously.
-
-## Related blog posts
+<!-- ## Related blog posts
 
 - [A user manual for me](/blog/a-user-manual-for-me-version-3/)
-- [My interaction design tools](/blog/my-interaction-design-tools-version-3/)
+- [My interaction design tools](/blog/my-interaction-design-tools-version-3/) -->
 
 ## I've worked with
 
 - Driver and Vehicle Licensing Agency (DVLA)
 - Environment Agency (EA)
+- Home Office
 - Met Office
 - Office for National Statistics (ONS)
 - UK Health Security Agency (UKHSA) / NHS Test and Trace
