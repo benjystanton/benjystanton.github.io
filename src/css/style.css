@@ -48,7 +48,7 @@ a {
 a:hover {
     text-decoration-thickness: 0.13em;
 }
-a:focus {
+a:focus, button:focus {
     outline: #2a2b30 solid 3px;
     outline-offset: 3px;
 }
@@ -62,7 +62,7 @@ a:visited {
     color: #2a2b30;
 }
 @media (prefers-color-scheme: dark) {
-    a:focus {
+    a:focus, button:focus {
         outline-color: #f9fbff;
     }
     a, a:active {
@@ -74,6 +74,10 @@ a:visited {
     a:visited {
         color: #f9fbff;
     }
+}
+button {
+    cursor: pointer;
+    padding: 1em 1.2em;
 }
 pre {
     background-color: #efeeed;
