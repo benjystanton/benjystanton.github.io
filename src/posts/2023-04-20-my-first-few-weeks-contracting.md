@@ -20,7 +20,7 @@ I've been thinking a lot about interaction design as a profession, and how it bl
 
 I have a huge amount of respect for service design, and I know that many people are able to do both interaction design and service design (or perhaps some people have to because that's what their team or situation demands). But sometimes it feels like we expect interaction designers and service designers to be able to pick both things up, and I'm worried that we're letting both professions down a bit by not being clearer with boundries between the two?
 
-I feeling less sure that interaction design is very close to service design (at least when compared to other UCD (user centered design) roles). Many content designers, user researchers, product managers and engineers are great at thinking about service design too, but there doesn't feel like the same expectation on those roles to be doing both things at the same time?
+I'm feeling less sure that interaction design is very close to service design (at least when compared to other UCD (user centered design) roles). Many content designers, user researchers, product managers and engineers are great at thinking about service design too, but there doesn't feel like the same expectation on those roles to be doing both things at the same time?
 
 Anyway, in a round-about way, I'm saying that this new role I have feels very focused on interaction design, and I feel like I'm bringing some specific and useful skills to the team, rather than trying to wear lots of hats. Hopefully this continues to be the case!
 
