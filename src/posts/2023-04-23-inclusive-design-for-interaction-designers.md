@@ -35,6 +35,8 @@ For example, signs, physical products and printed documents.
 
 Although the production of these parts of the service are probably going to be handled by other teams, an interaction designer may still be well placed to make sure these parts of the journey are simple, and consistent with the digital parts of the journey.
 
+[A Twitter thread about gender inclusive icons](https://twitter.com/magmidd/status/1410909224490700801)
+
 ## Multiple digital channels
 
 For example, PDFs, emails, social media, videos, podcasts.
@@ -45,7 +47,8 @@ Similarly to physical things, the production of these other digital assets may b
 
 For example, large print or easy read.
 
-[Accessible communication formats](https://www.gov.uk/government/publications/inclusive-communication/accessible-communication-formats).
+- [Accessible communication formats](https://www.gov.uk/government/publications/inclusive-communication/accessible-communication-formats).
+- [Easy read is hard to get right](https://designnotes.blog.gov.uk/2021/10/11/easy-read-is-hard-to-get-right/)
 
 ## Multiple languages and bilingual services
 
@@ -56,6 +59,10 @@ Designing services that are translated into multiple languages can introduce lay
 ## Progressive enhancement and performance
 
 As the GOV.UK service manual says, progressive enhancement can "help users with device or connectivity limitations to use your service".
+
+Create assets that are lightweight, cross-compatible and reusable on other channels.
+
+Avoid designing journeys that require large downloads.
 
 [Building a resilient frontend using progressive enhancement](https://www.gov.uk/service-manual/technology/using-progressive-enhancement)
 
@@ -71,6 +78,8 @@ Focus on excluded people and communities. Understand the barriers they face.
 Work alongside people, communities and content experts.
 
 Lend your interaction design skills to help prototype how other types of content and channels could work before they go into production.
+
+[What is co-design? A brief overview](https://www.beyondstickynotes.com/what-is-codesign)
 
 ## Content and language
 
