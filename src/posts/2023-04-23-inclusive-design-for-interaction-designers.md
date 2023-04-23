@@ -18,6 +18,8 @@ Reasons for exclusion could be related to peoples' protected characteristics, di
 
 ## Things interaction designers can consider to help make services more inclusive
 
+Here's my initial stab at a list…
+
 - Physical points in the journey
 - Multiple digital channels
 - Accessible formats
