@@ -12,7 +12,7 @@ excerpt: "What things can interaction designers consider to help make services m
 
 Methods for designing digital services that are accessible to people with disabilities are well documented, but what if we take a broader view about how to include other groups who face barriers?
 
-(Note, this isn't meant to minimise the efforts of digital accessibility. But I'll try not to focus on that specialism in this post).
+(Note, this isn't meant to minimise the efforts of web accessibility. But I'll try not to focus on that specialism in this post).
 
 Reasons for exclusion could be related to peoples' protected characteristics, digital exclusion, and many other factors. Clara Greo and Sonia Turcotte have a useful list of [oppressed and systematically disadvantaged people and communities in the UK](https://docs.google.com/document/d/1dAqglXGTuYjadNg8RkNFtOFqfNgm2jbzGjZwEU3C_Eg/edit#heading=h.2gcsosi4s7qj) in their weeknotes.
 
