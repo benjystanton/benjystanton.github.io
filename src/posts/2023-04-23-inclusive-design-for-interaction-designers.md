@@ -82,4 +82,4 @@ For an interaction designer, this could mean something like renaming the branch 
 
 ## Wrap-up
 
-I'd love to improve this list, so I'll add to it in future. Please let me know what I've missed. Also, thanks to the inclusive design team at UKHSA (UK Health Security Agency) – lots of this content was inspired by their work.
+I'd love to improve this list, it's definitely not finished, so I'll add to it in future. Please let me know what I've missed. Also, thanks to the inclusive design team at UKHSA (UK Health Security Agency) – lots of this content was inspired by their work.
