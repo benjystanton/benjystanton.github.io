@@ -122,6 +122,23 @@ hr {
         border-top-color: #efeeed;
     }
 }
+table {
+    margin-bottom: 3em;
+    border-spacing: 0;
+    border-collapse: collapse;
+}
+th, td {
+    border-bottom: 1px solid #2a2b30;
+    text-align: left;
+    padding-right:2em;
+    padding-top:0.5em;
+    padding-bottom:0.5em;
+}
+@media (prefers-color-scheme: dark) {
+    th, td {
+        border-color: #efeeed;
+    }
+}
 /* Header */
 .header__name a {
     color: #2a2b30;
