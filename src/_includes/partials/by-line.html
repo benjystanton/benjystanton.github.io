@@ -13,7 +13,7 @@
       </span>
     </li>
     <li class="by-line__list-item">
-      <span class="by-line__list-item-key">Category</span>
+      <span class="by-line__list-item-key">{% if tags.size > 3 %}Categories{% else %}Category{% endif %}</span>
       <span class="by-line__tags">
       {%- for tag in tags -%}
       {%- if tag == "post" -%}
