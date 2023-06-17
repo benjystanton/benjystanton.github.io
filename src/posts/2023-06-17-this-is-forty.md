@@ -39,7 +39,7 @@ So overall, it's going really well. Although I'd be lying if I said I wasn't a t
 
 ## Birthday party(s)
 
-Anyway, on to the celebrrations. Although my birthday isn't until later in the month. I've already thrown myself a couple of parties. We had a big house party with lots of family, friends and neighbours. Then I dragged my close family (about 25 people) to a campsite in Tenby and around all the tiny craft beer bars.
+Anyway, on to the celebrations. Although my birthday isn't until later in the month. I've already thrown myself a couple of parties. We had a big house party with lots of family, friends and neighbours. Then I dragged my close family (about 25 people) to a campsite in Tenby and around all the tiny craft beer bars.
 
 Highly recommend [Tap & Tân](https://www.tenbybrewingco.com/collections/tap-tan), and Tenby in general. Even though it's only about 1 hour from Swansea, I havent visited it there much, as we usually go to Gower, or further west to St Davids.
 
