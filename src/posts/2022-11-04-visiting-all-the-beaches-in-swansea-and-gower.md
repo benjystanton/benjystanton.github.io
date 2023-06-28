@@ -8,7 +8,7 @@ tags:
 excerpt: "Iâ€™ve set myself a challenge to visit all the beaches in Swansea and Gower. There are about 33 in total."
 image: "three-chimneys-square.jpg"
 image-alt: "Rocky cliffs from the beach. A hole has formed in the rocks and you can see blue sky through the middle."
-last_modified_at: 19 November 2022
+last_modified_at: 28 June 2023
 ---
 
 Iâ€™ve set myself a challenge to visit all the beaches in Swansea and Gower.
@@ -17,7 +17,7 @@ We visit some regularly, but loads are completely new to me. No strict rules, Iâ
 
 ## Very important stats
 
-- Beaches visited: 13 of 33
+- Beaches visited: 14 of 33
 - Longest continuous stretch: 9 beaches
 - Seals spotted: 0
 
@@ -124,12 +124,24 @@ We visit some regularly, but loads are completely new to me. No strict rules, Iâ
 {%
   include 'partials/image-with-caption.html'
   image:"brandy-cove.jpg"
-  caption:"Looking towards Brandy Cove from the coastal path that leads to Caswell  "
+  caption:"Looking towards Brandy Cove from the coastal path that leads to Caswell"
   alt-text:"View down from a coastal path to a small sandy and rocky beach. Small waves break from the left. Cliffs on the far side lead up to dark green hills with shrubs and bushes."
 %}
 
 - Date: 3 December 2022
 - Location: [Brandy Cove on Open Street Map](https://www.openstreetmap.org/#map=17/51.56784/-4.04355)
+
+## Rhossili
+
+{%
+  include 'partials/image-with-caption.html'
+  image:"rhossili.jpg"
+  caption:"South end of Rhossili Bay, with Worms Head in the distance"
+  alt-text:"Steep cliffs topped with green grass reflect in wet sand below. Sky is grey."
+%}
+
+- Date: 28 June 2023
+- Location: [Rhossili on Open Street Map](https://www.openstreetmap.org/#map=17/51.57074/-4.29090)
 
 ## Llangennith
 
@@ -208,7 +220,7 @@ We visit some regularly, but loads are completely new to me. No strict rules, Iâ
 23. Butterslade
 24. Fall Bay 
 25. Ramsgrove
-26. Rhossili Bay
+26. ~~Rhossili~~
 27. ~~Llangennith~~
 28. Burry Holms
 29. ~~Blue Pool Bay~~
