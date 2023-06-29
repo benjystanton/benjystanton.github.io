@@ -8,7 +8,7 @@ tags:
 excerpt: "Iâ€™ve set myself a challenge to visit all the beaches in Swansea and Gower. There are about 33 in total."
 image: "three-chimneys-square.jpg"
 image-alt: "Rocky cliffs from the beach. A hole has formed in the rocks and you can see blue sky through the middle."
-last_modified_at: 28 June 2023
+last_modified_at: 29 June 2023
 ---
 
 Iâ€™ve set myself a challenge to visit all the beaches in Swansea and Gower.
@@ -17,7 +17,7 @@ We visit some regularly, but loads are completely new to me. No strict rules, Iâ
 
 ## Very important stats
 
-- Beaches visited: 14 of 33
+- Beaches visited: 14 of 39
 - Longest continuous stretch: 9 beaches
 - Seals spotted: 0
 
@@ -195,36 +195,42 @@ We visit some regularly, but loads are completely new to me. No strict rules, Iâ
 
 ## All the beaches in Swansea and Gower
 
-1. ~~Swansea Bay~~
-2. ~~Knab Rock~~
-3. ~~Mumbles Head~~
-4. ~~Bracelet Bay~~
-5. ~~Limeslade Beach~~
-6. ~~Rotherslade Bay~~
-7. ~~Langland Bay~~
-8. ~~Caswell Bay~~
-9. ~~Brandy Cove~~
-10. Pwll Du Bay
-11. Three Cliffs Bay
-12. Nicholaston Burrows
-13. Oxwich Bay
-14. Pennard Burrows
+1. Jersey Marine Beach
+2. ~~Swansea Bay~~
+3. ~~Knab Rock~~
+4. ~~Mumbles Head~~
+5. ~~Bracelet Bay~~
+6. ~~Limeslade Beach~~
+7. ~~Rotherslade Bay~~
+8. ~~Langland Bay~~
+9. ~~Caswell Bay~~
+10. ~~Brandy Cove~~
+11. Pwll Du Bay
+12. Bantam Bay
+13. Hunts Bay
+14. Foxhole
 15. Pobbles Bay
-16. Port Eynon Bay
-17. The Sands - Slade
-18. The Cove - Horton 
-19. Salt House Mere
-20. Tor Bay
-21. Overton Mere
-22. Mewslade Bay
-23. Butterslade
-24. Fall Bay 
-25. Ramsgrove
-26. ~~Rhossili~~
-27. ~~Llangennith~~
-28. Burry Holms
-29. ~~Blue Pool Bay~~
-30. ~~Little Broughton~~
-31. ~~Broughton Bay~~
-32. Whiteford Sands
-33. Llanrhidian Sands
+16. Three Cliffs Bay
+17. Tor Bay
+18. Nicholaston / Crawley Beach
+19. Oxwich Bay
+20. Slade Sands
+21. The Cover / Horton Beach
+22. Port Eynon
+23. Salt House Mere
+24. Overton Mere
+25. Common Cliff
+26. Foxhole Slade
+27. Knave Bay
+28. Ramsgrove
+29. Butterslade
+30. Mewslade Bay
+31. Fall Bay 
+32. ~~Rhossili~~
+33. ~~Llangennith~~
+34. Burry Holms
+35. ~~Blue Pool Bay~~
+36. ~~Little Broughton~~
+37. ~~Broughton Bay~~
+38. Whiteford Sands
+39. Llanrhidian Sands
