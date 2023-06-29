@@ -215,7 +215,7 @@ We visit some regularly, but loads are completely new to me. No strict rules, Iâ
 18. Nicholaston / Crawley Beach
 19. Oxwich Bay
 20. Slade Sands
-21. The Cover / Horton Beach
+21. The Cove / Horton Beach
 22. Port Eynon
 23. Salt House Mere
 24. Overton Mere
