@@ -11,7 +11,7 @@ image-alt: "Rocky cliffs from the beach. A hole has formed in the rocks and you 
 last_modified_at: 29 June 2023
 ---
 
-I’ve set myself a challenge to visit all the beaches in Swansea and Gower.
+{{ excerpt }}
 
 We visit some regularly, but loads are completely new to me. No strict rules, I’m going to include beaches I’ve visited recently, to give myself a head start.
 
@@ -207,7 +207,7 @@ We visit some regularly, but loads are completely new to me. No strict rules, I�
 10. ~~Brandy Cove~~
 11. Pwll Du Bay
 12. Bantam Bay
-13. Hunts Bay
+13. Hunts Bay / Deep Slade
 14. Foxhole
 15. Pobbles Bay
 16. Three Cliffs Bay
