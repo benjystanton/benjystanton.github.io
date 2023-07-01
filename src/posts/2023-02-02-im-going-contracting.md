@@ -18,7 +18,7 @@ I'll be available from {{ site.availability }}, so if you know of any interestin
 
 - Interaction design, UX (user experience) design or product design roles
 - Lead or senior level
-- Starting {{ site.availability }}
+- Starting April 2023
 - UK public sector or tech for good
 - Remote – happy with occasional travel
 - Inside IR35 – would consider outside
