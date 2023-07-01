@@ -4,6 +4,7 @@ title: "This is forty"
 tags:
 - post
 - Personal
+- Freelance
 excerpt: "I'm turning 40 this month, so I thought it was worth marking it with a blog post"
 image: "this-is-forty.jpg"
 image-alt: "This is forty, spelt out in white letters on a black peg board"
