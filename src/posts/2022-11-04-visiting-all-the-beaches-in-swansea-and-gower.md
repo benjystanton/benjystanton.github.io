@@ -8,16 +8,16 @@ tags:
 excerpt: "I’ve set myself a challenge to visit all the beaches in Swansea and Gower. There are about 39 in total."
 image: "three-chimneys-square.jpg"
 image-alt: "Rocky cliffs from the beach. A hole has formed in the rocks and you can see blue sky through the middle."
-last_modified_at: 29 June 2023
+last_modified_at: 15 July 2023
 ---
 
 {{ excerpt }}
 
-We visit some regularly, but loads are completely new to me. No strict rules, I’m going to include beaches I’ve visited recently, to give myself a head start.
+We visit some of these beaches regularly, but loads are completely new to me. No strict rules, I’m going to include beaches I’ve visited recently, to give myself a head start.
 
 ## Very important stats
 
-- Beaches visited: 14 of 39
+- Beaches visited: 15 of 39 (38%)
 - Longest continuous stretch: 9 beaches
 - Seals spotted: 0
 
@@ -155,6 +155,18 @@ We visit some regularly, but loads are completely new to me. No strict rules, I�
 - Date: 15 June 2022
 - Location: [Llangennith on Open Street Map](https://www.openstreetmap.org/#map=17/51.59385/-4.29473)
 
+## Burry Holms
+
+{%
+  include 'partials/image-with-caption.html'
+  image:"burry-holms.jpg"
+  caption:"Burry Holms tidal island seen from the coastal path, looking west."
+  alt-text:"A small island in the distance surrounded by choppy seas. Long dune grass in the forground is being blown sideways by the wind."
+%}
+
+- Date: 15 July 2023
+- Location: [Burry Holms on Open Street Map](https://www.openstreetmap.org/#map=17/51.60934/-4.31093)
+
 ## Blue Pool Bay
 
 {%
@@ -228,7 +240,7 @@ We visit some regularly, but loads are completely new to me. No strict rules, I�
 31. Fall Bay 
 32. ~~Rhossili~~
 33. ~~Llangennith~~
-34. Burry Holms
+34. ~~Burry Holms~~
 35. ~~Blue Pool Bay~~
 36. ~~Little Broughton~~
 37. ~~Broughton Bay~~
