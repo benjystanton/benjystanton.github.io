@@ -161,7 +161,7 @@ We visit some of these beaches regularly, but loads are completely new to me. No
   include 'partials/image-with-caption.html'
   image:"burry-holms.jpg"
   caption:"Burry Holms tidal island seen from the coastal path, looking west."
-  alt-text:"A small island in the distance surrounded by choppy seas. Long dune grass in the forground is being blown sideways by the wind."
+  alt-text:"A small island in the distance surrounded by choppy seas. Long dune grass in the foreground is being blown sideways by the wind."
 %}
 
 - Date: 15 July 2023
