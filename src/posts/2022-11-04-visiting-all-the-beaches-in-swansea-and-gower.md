@@ -8,7 +8,7 @@ tags:
 excerpt: "I’ve set myself a challenge to visit all the beaches in Swansea and Gower. There are about 39 in total."
 image: "three-chimneys-square.jpg"
 image-alt: "Rocky cliffs from the beach. A hole has formed in the rocks and you can see blue sky through the middle."
-last_modified_at: 15 July 2023
+last_modified_at: 22 August 2023
 ---
 
 {{ excerpt }}
@@ -17,7 +17,7 @@ We visit some of these beaches regularly, but loads are completely new to me. No
 
 ## Very important stats
 
-- Beaches visited: 15 of 39 (38%)
+- Beaches visited: 16 of 39 (41%)
 - Longest continuous stretch: 9 beaches
 - Seals spotted: 0
 
@@ -203,6 +203,18 @@ We visit some of these beaches regularly, but loads are completely new to me. No
 - Date: 14 August 2022
 - Location: [Broughton Bay on Open Street Map](https://www.openstreetmap.org/#map=17/51.61537/-4.28255)
 
+## Whiteford Sands
+
+{%
+  include 'partials/image-with-caption.html'
+  image:"whiteford-sands.jpg"
+  caption:"Dunes at Whiteford Sands"
+  alt-text:"Windswept sand dunes in early morning light, topped with beachgrass."
+%}
+
+- Date: 22 August 2023
+- Location: [Whiteford Sands on Open Street Map](https://www.openstreetmap.org/#map=17/51.62819/-4.26130)
+
 ***
 
 ## All the beaches in Swansea and Gower
@@ -244,5 +256,5 @@ We visit some of these beaches regularly, but loads are completely new to me. No
 35. ~~Blue Pool Bay~~
 36. ~~Little Broughton~~
 37. ~~Broughton Bay~~
-38. Whiteford Sands
+38. ~~Whiteford Sands~~
 39. Llanrhidian Sands
