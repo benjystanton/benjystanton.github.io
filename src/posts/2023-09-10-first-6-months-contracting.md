@@ -68,7 +68,7 @@ Even though it seems pretty clear to me that this is an allowable expense, my Um
 
 The upshot is, I've been out of pocket for weeks. I've heard horror stories about others who have lost out much more, and waited too long to act and now may never get the full amount back.
 
-My advice it to be weary about expenses!
+My advice it to be wary about expenses!
 
 In the end though, I count myself very lucky that I’m able to work this way and to earn good money, doing a job I enjoy. I'm paid well enough that I can afford to be out of pocket for a little while. So it's more the frustration about not being 100% clear what's happening to the money and taxes, rather than worrying about being out of pocket.
 
