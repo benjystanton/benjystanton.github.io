@@ -112,6 +112,14 @@ figure {
     margin-inline-start: 0px;
     margin-inline-end: 0px;
 }
+blockquote {
+    border-left: 5px solid #2a2b30;
+    margin-left: 0;
+    margin-right: 0;
+    margin-block-start: 1.5em;
+    margin-block-end: 1.5em;
+    padding-left: 1.5em;
+}
 hr {
     border-top: 5px solid #2a2b30;
     margin-top: 3em;
