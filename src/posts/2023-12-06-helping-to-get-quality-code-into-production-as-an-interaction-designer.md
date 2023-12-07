@@ -24,7 +24,6 @@ I use the [GOV.UK Prototype Kit](https://prototype-kit.service.gov.uk/docs/) to 
 - it makes sense to other designers in future
 - the code valid and accessible, and that it doesn't introduce any bad practices that developers might copy over to the build environments 
 
-
 ## Write handover notes
 
 I'm not a fan of super detailed handover notes, they can be frustrating to keep up to date. I prefer the prototype to explain the design by itself. But, some things are easy to miss when you weren't the person who designed the prototype. Especially if some things are…
@@ -57,7 +56,7 @@ It's good practice to talk to the devs and testers on the team through the desig
 
 Be available to respond to their questions as they go. Devs and testers are able to spot things that designers can't, no mattter how good the handover is.
 
-## Design quality insurance and accessibility testing
+## Design and accessibility review
 
 Before the build goes live, the developers should be able to show you their progress, and give you a chance to check it all over. A chat is good, but I prefer to set some time aside to go through it at my own pace.
 
