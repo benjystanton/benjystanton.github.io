@@ -4,7 +4,6 @@ title: "Weeknotes – series 07 episode 01"
 tags:
 - post
 - Weeknotes
-- Swansea
 - Freelance
 - Interaction design
 
