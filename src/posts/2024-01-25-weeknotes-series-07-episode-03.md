@@ -67,5 +67,4 @@ You can read more about the work that happened in this blog post: [Working as a 
 - [Where have all the websites gone? by Chris Coyier](https://chriscoyier.net/2024/01/22/where-have-all-the-websites-gone/)
 - [Reflections on UKGovCamp 2024. by Ian Ames](https://ames.world/en/posts/reflections-on-ukgovcamp-2024/)
 - [Lessons learned: 1,000 days of distributed at Atlassian by Annie Dean](https://www.atlassian.com/blog/distributed-work/distributed-work-report)
-- [A YouTube playlist of sessions from: International Design in Government 24-hour Remote Conference 2023](https://www.youtube.com/playlist?list=PLoe8p5EhqZ2IP6yxOUJAG7QLuH4p04zl-)
 - [axe-con 2024 Agenda](https://www.deque.com/axe-con/schedule/)
