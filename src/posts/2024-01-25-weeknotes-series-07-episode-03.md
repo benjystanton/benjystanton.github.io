@@ -61,7 +61,7 @@ I joined a community event to celebrate the launch of the updated [task list com
 
 You can read more about the work that happened in this blog post: [Working as a community to iterate the task list pattern by Frankie Roberto](https://designnotes.blog.gov.uk/2023/12/15/working-as-a-community-to-iterate-the-task-list-pattern/).
 
-## Reading (and watching)
+## Reading
 
 - [Universal interfaces and Semantic Agents by Steve Messer](https://visitmy.website/2024/01/22/universal-interfaces-and-semantic-agents/)
 - [Where have all the websites gone? by Chris Coyier](https://chriscoyier.net/2024/01/22/where-have-all-the-websites-gone/)
