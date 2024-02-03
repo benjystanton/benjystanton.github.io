@@ -20,10 +20,7 @@ Spotted an error or something that could be improved? Please [create an issue](h
 
 I've chosen font families that use system fonts. System fonts are the fonts already installed on a device. Different operating systems have different defaults, but these lists should cover most of them. It's a little boring, but it's good for performance.
 
-<!-- I borrowed this font family from [Andy Bell](https://twitter.com/piccalilli_/status/1254800627789676548). -->
-
 - Body: `"Helvetica Neue","Segoe UI", Roboto, Arial, sans-serif;`
-- Heading 1: `Charter, 'Bitstream Charter', 'Sitka Text', Cambria, serif;`
 - Code: `ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, Consolas, 'DejaVu Sans Mono', monospace;`
 
 <!-- ## Colours
