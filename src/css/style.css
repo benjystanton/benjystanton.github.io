@@ -121,8 +121,8 @@ img {
     width: 100%;
 }
 .image-avatar {
-    width: 3em;
-    height: 3em;
+    width: 5em;
+    height: 5em;
     border-radius: 50%;
 }
 figure {
@@ -175,12 +175,24 @@ th, td {
 .skip-link {
     font-size: 0.8em;
 }
+.header__name {
+    margin-bottom: 1em;
+}
 .header__name a {
     color: #2a2b30;
     font-weight: 900;
     text-decoration: none;
+    display: inline-block;
+    padding-right: 0.5em;
 }
-.header__name a:hover {
+.header__name a img {
+    width: 2em;
+    height: 2em;
+    vertical-align: middle;
+    margin-right: 0.5em;
+    border-radius: 50%;
+}
+.header__name a:hover, .header__name a:focus {
     text-decoration: underline;
     text-decoration-thickness: 4px;
 }
