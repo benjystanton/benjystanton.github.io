@@ -6,7 +6,7 @@
   <link rel='stylesheet' href='/css/style.css'>
   <link rel="canonical" href="{{ site.url }}{{ page.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="{{ site.url }}{{ "/feed.xml"}}">
-  {% if excerpt %}<meta name="description" content="{{ excerpt }}">{% endif %}
+  {% if excerpt %}<meta name="description" content="{{ excerpt }}">{% else %}<meta name="description" content="{{ site.description }}">{% endif %}
   <!-- Favicons -->
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
   <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
@@ -16,13 +16,13 @@
   <meta name="twitter:card" content="summary"> 
   <meta name="twitter:site" content="benjystanton"> 
   <meta name="twitter:title" content="{% if title %}{{ title }}{% else %}Benjy Stanton{% endif %}"> 
-  {% if excerpt %}<meta name="twitter:description" content="{{ excerpt }}">{% endif %}
+  {% if excerpt %}<meta name="twitter:description" content="{{ excerpt }}">{% else %}<meta name="twitter:description" content="{{ site.description }}">{% endif %}
   {% if image %}<meta name="twitter:image" content="{{ site.url }}/images/{{ image }}">{% endif %}
   {% if image-alt %}<meta name="twitter:image:alt" content="{{ image-alt }}">{% endif %}
   <!-- Open Graph data -->
   <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
   <meta property="og:title" content="{% if title %}{{ title }}{% else %}Benjy Stanton{% endif %}" />
-  {% if excerpt %}<meta property="og:description" content="{{ excerpt }}" />{% endif %}
+  {% if excerpt %}<meta property="og:description" content="{{ excerpt }}" />{% else %}<meta property="og:description" content="{{ site.description }}" /> {% endif %}
   <meta property="og:site_name" content="{{ site.name }}" />
   <meta property="og:locale" content="en_GB" />
   {% if image %}<meta property="og:image" content="{{ site.url }}/images/{{ image }}" />{% endif %}
