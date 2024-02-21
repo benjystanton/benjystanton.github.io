@@ -6,9 +6,10 @@ tags:
 - Weeknotes
 - Made Tech
 - Interaction design
-excerpt: Extreme heat, end of school, user-centred design training, mobile app design and 1-to-1s.
+excerpt: Paddle boarding, manuals of me, design leadership for introverts.
 image: "paddle-boards.jpg"
 image-alt: "Three paddle boards on the ground, next to 2 black and yellow bollards. Black railings edge the path next to the sea. One the other side of the bay, there are hills and buildings."
+last_modified_at: 21 February 2024
 ---
 
 ![Three paddle boards on the ground, next to 2 black and yellow bollards. Black railings edge the path next to the sea. One the other side of the bay, there are hills and buildings.](/images/paddle-boards.jpg)
@@ -48,9 +49,9 @@ I really enjoyed listening to Tim’s thoughts about being introverted. He share
 I had a chat with some of the user centred academy members who were interested in interaction design.  We talked about how to build a network, and how to create a portfolio:
 
 - Use social media like Twitter and LinkedIn
-- Play around with code on [Github](https://github.com/) and [CodePem](https://codepen.io/)
+- Play around with code on [Github](https://github.com/) and [CodePen](https://codepen.io/)
 - Start a personal blog to practice writing and html/css
-- Create case studies in slide deck format, [Snook have a great template](https://docs.google.com/presentation/d/1WSkjdO91Z6KR6KYv0XwAf6lMiapZc60aohPnbX4jcg0/edit#slide=id.g7f2a85e6e2_0_25) for this
+- Create case studies in slide deck format
 
 It also spurred me on to update my blog post about [interaction design tools](/blog/my-interaction-design-tools-version-3/).
 
