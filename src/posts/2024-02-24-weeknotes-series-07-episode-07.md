@@ -16,6 +16,8 @@ I spotted that I’ve made almost 1500 commits on GitHub for this site. The [fir
 
 Back then this site was built using Jekyll, and I was migrating across from WordPress. Some of the blog posts themselves were brought across from my old WordPress blog and the oldest was written in 2007.
 
+I’ve also been making lots of tweaks to this site’s design recently. I’m pretty happy with how it's looking and working at the moment, even if it is still extremely vanilla. The current version of the site has been in progress since 2020.
+
 ## Now page
 
 I’ve added a [/now](/now) page to my site. It’s inspired by [Derek Sivers](https://sive.rs/), but it was [Simone Silvestroni](https://minutestomidnight.co.uk/)’s blog where I first spotted the idea. 
