@@ -4,12 +4,13 @@ title: A user manual for me, version 3
 tags:
 - post
 - Personal
+- User manuals for me
 excerpt: A 2022 update to my user manual, based on Cassie Robinson's template. 
 image: "benjy-stanton-2022.jpg"
 image-alt: "A photo of me, smiling at the camera. I have thinning brown hair and a short messy brown beard."
 ---
 
-This is version 3 of my user manual. If you want, you can read [version 2 (2021)](/blog/a-user-manual-for-me-version-2), and [version 1 (2018)](/blog/a-user-manual-for-me/). If you're unfamilier with the concept, check out this [blog post on user manuals by Cassie Robinson](https://cassierobinson.medium.com/a-user-manual-for-me-d3a851fbc694).
+This is version 3 of my user manual. If you're unfamilier with the concept, check out this [blog post on user manuals by Cassie Robinson](https://cassierobinson.medium.com/a-user-manual-for-me-d3a851fbc694).
 
 <img class="image-avatar" src="/images/benjy-stanton-2022.jpg" width="48" height="48" alt="Close up of Benjy, he’s smiling at the camera">
 
