@@ -23,5 +23,13 @@
       {%- endif -%}
       {%- endfor %}
     </span></li>
+    {%- if location -%}
+    <li class="by-line__list-item">
+      <span class="by-line__list-item-key">Location</span>
+      <span class="by-line__list-item-value p-location">
+        {{ location }}
+      </span>
+    </li>
+    {%- endif %}
   </ul>
 </div>
