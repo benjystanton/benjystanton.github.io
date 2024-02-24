@@ -23,19 +23,6 @@ I've chosen font families that use system fonts. System fonts are the fonts alre
 - Body: `"Helvetica Neue","Segoe UI", Roboto, Arial, sans-serif;`
 - Code: `ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, Consolas, 'DejaVu Sans Mono', monospace;`
 
-<!-- ## Colours
-
-<ul class="list-inline">
-  <li class="background--dark-black-colour padding--s">Dark black #181b1e</li>
-  <li class="background--black-colour padding--s">Black #2e343b</li>
-  <li class="background--dark-grey-colour padding--s">Dark grey #5b6774</li>
-  <li class="background--medium-grey-colour padding--s">Medium grey #abb3bd</li>
-  <li class="background--light-grey-colour padding--s">Light grey #e4e7ea</li>
-  <li class="background--white-colour padding--s">White #ecf0f3</li>
-  <li class="background--primary-colour padding--s">Primary #007575</li>
-  <li class="background--primary-colour-dark-mode padding--s">Primary dark mode #0eb9b9</li>
-</ul> -->
-
 ***
 
 ## List of sample pages
@@ -68,10 +55,10 @@ Lorem ipsum dolor sit amet, consectetur adip*isicing elit, sed do eiusmod * temp
 2. An ordered list is a list in which the sequence of items is important. An ordered list does not necessarily contain sequence characters.
 3. This is the last list item
 
-<!-- ``` 
+``` 
 > A blockquote is a quotation in a written document, that is set off from the main text as a paragraph, or block of text, and typically distinguished visually using indentation.
 <br>— Homer Simpson
-``` -->
+```
 
 > A blockquote is a quotation in a written document, that is set off from the main text as a paragraph, or block of text, and typically distinguished visually using indentation.
 <br>— Homer Simpson
@@ -134,6 +121,8 @@ Use the `file-link.html` include when you need to link a file and specify the fi
   file-size="3KB"
 %} -->
 
+***
+
 ## Symbols
 
 * non-breaking space `&nbsp;` &nbsp; 
@@ -143,16 +132,14 @@ Use the `file-link.html` include when you need to link a file and specify the fi
 * times (multiply) symbol `&times;` ×
 * minus symbol `&minus;` &minus; 
 
-[HTML Entities – A List of HTML Space and other HTML Symbols and Special Character Codes from Quincy Larson](https://www.freecodecamp.org/news/html-entities-symbols-special-character-codes-list/)
-
 ***
 
 ## Images
 
 Images are full width by default. Don't forget alt text.
 
-<!-- * Standard blog image: 1024 × 512
-* Thumbnail (for Twitter summary card): 500 × 500 -->
+* Standard blog image: 1024 × 512
+* Thumbnail (for social images): 500 × 500
 
 {% raw %}  
 ``` 
@@ -183,20 +170,9 @@ Image captions aren't supported in standard Markdown so I've made an `image-with
 ```
 {% endraw %}
 
-<!-- ``` 
-{%
-  include 'partials/image-with-caption.html'
-  image="coop-sticker.jpg"
-  caption="Co-op digital design principle sticker – We design for everyone"
-  alt-text="A yellow sticker with black text on a laptop"
-%}
-``` -->
+***
 
-## SVG icons
-
-[Read more about SVGs in this blog post](/blog/add-svg-icons/)
-
-<!-- ## Tables
+## Tables
 
 ### HTML tables
 
@@ -228,16 +204,13 @@ Image captions aren't supported in standard Markdown so I've made an `image-with
 <table>
   <caption><h4>This is a table caption</h4></caption>
   <thead>
-
     <tr>
       <th>Table Heading</th>
       <th>Table Heading</th>
       <th class="cell--right">Numbers</th>
     </tr>
-
   </thead>
   <tbody>
-
     <tr>
       <td>Table Cell</td>
       <td>Table Cell</td>
@@ -248,7 +221,6 @@ Image captions aren't supported in standard Markdown so I've made an `image-with
       <td>Table Cell</td>
       <td class="cell--right">12</td>
     </tr>
-
   </tbody>
 </table>
 
@@ -264,4 +236,4 @@ Image captions aren't supported in standard Markdown so I've made an `image-with
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 | -->
+| col 2 is      | centered      |   $12 |
