@@ -6,7 +6,6 @@ tags:
 - Interaction design
 - Content
 - Tools
-
 excerpt: "Different ways I use Markdown to help me design and write. "
 ---
 
