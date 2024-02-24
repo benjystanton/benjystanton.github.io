@@ -19,9 +19,17 @@
       {%- if tag == "post" -%}
       {%- continue -%}
       {% else %}
-      <span class="by-line__tags-item">#<a class="p-category" href="/blog/category/{{ tag | slug }}">{{ tag | skip: "post" }}</a></span>
+      <span class="by-line__tags-item"><a class="p-category" href="/blog/category/{{ tag | slug }}">{{ tag | skip: "post" }}</a></span>
       {%- endif -%}
       {%- endfor %}
     </span></li>
+    {%- if location -%}
+    <li class="by-line__list-item">
+      <span class="by-line__list-item-key">Location</span>
+      <span class="by-line__list-item-value p-location">
+        {{ location }}
+      </span>
+    </li>
+    {%- endif %}
   </ul>
 </div>
