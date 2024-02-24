@@ -19,7 +19,7 @@
       {%- if tag == "post" -%}
       {%- continue -%}
       {% else %}
-      <span class="by-line__tags-item">#<a class="p-category" href="/blog/category/{{ tag | slug }}">{{ tag | skip: "post" }}</a></span>
+      <span class="by-line__tags-item"><a class="p-category" href="/blog/category/{{ tag | slug }}">{{ tag | skip: "post" }}</a></span>
       {%- endif -%}
       {%- endfor %}
     </span></li>
