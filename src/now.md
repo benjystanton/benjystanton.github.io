@@ -2,24 +2,30 @@
 layout: layouts/page
 title: Now
 date: 2007-05-10 00:00:01
-excerpt: "Things that I’m doing now."
+excerpt: "Things that I’m focused on now."
 tags:
 - page
 ---
 
-This is [a now page](https://nownownow.com/about), and if you have your own site, you should make one too.
+A ‘[now](https://nownownow.com/about)’ page tells you what I'm focused on at the moment. Inspired by [Derek Sivers](https://sive.rs/).
 
-Updated 22 February 2024.
+Updated 24 February 2024.
 
-## Work / life
+## Personal
 
 - Living in Swansea
-- Working as a contract interaction designer at Home Office
+- Looking forward to my next gig to see Folly Group
 
-## Over sharing
+## Work
+
+- Working as a contract interaction designer at Home Office
+- Planning a work trip to Sheffield
+- Using these [tools](/blog/my-interaction-design-tools-version-3/)
+
+
+## Over-sharing
 
 - Posting on [Bluesky](https://bsky.app/profile/benjystanton.bsky.social)
 - Sharing [weeknotes](/blog/category/weeknotes)
 - Latest [user manual for me](/blog/a-user-manual-for-me-version-3/)
-- Using these [tools](/blog/my-interaction-design-tools-version-3/)
-- More [about me](/about)
+- Read more [about me](/about)
