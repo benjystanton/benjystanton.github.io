@@ -58,7 +58,13 @@ Related:
 
 ## Multiple languages and bilingual services
 
-Designing services that are translated into multiple languages can introduce layout, navigation and information architecture (IA) issues. It might make content management systems (CMSs) more complex too.
+Designing services that are translated into multiple languages, or languages other than English, might mean the following need more work:
+
+- typography
+- layout
+- navigation
+- information architecture (IA)
+- content management systems
 
 Related: [producing bilingual content through trio writing](https://digitalpublicservices.gov.wales/blog/producing-bilingual-content-through-trio-writing)
 
