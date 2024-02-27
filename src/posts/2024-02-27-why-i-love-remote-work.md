@@ -6,7 +6,7 @@ tags:
 - Personal
 - Remote working
 
-excerpt: “Remote working enables me to be a better parent and partner, and do better work.”
+excerpt: Remote working enables me to be a better parent, a better partner, be happier at work and to do better work.
 ---
 
 After 2 days away with the team. I’m reminded that in-person workshops are often amazing (this one included).
