@@ -27,7 +27,7 @@ I recognise that I’m very privileged. But, I need remote working. It helps me 
 
 - an introvert
 - a parent of school age kids
-- someone who lives away from the places where most digital jobs tends to be
+- someone who lives away from the places where most digital jobs tend to be
 
 ### It helps me to
 
