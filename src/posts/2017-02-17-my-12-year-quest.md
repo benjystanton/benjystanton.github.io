@@ -7,6 +7,7 @@ tags:
 - post
 - ONS
 - Service design
+- Stickers
 image: walter-and-kermit.png
 image-alt: Walter and Kermit from The Muppets
 excerpt: There have been a lot of 'I'm leaving government posts' recently. It feels a bit weird because I've been trying for years to get in.

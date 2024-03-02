@@ -6,6 +6,7 @@ date: 2017-11-28 09:39:00
 tags:
 - post
 - ONS
+- Stickers
 image: make-data-part-of-the-web-square.png
 image-alt: Stickers that read - make data part of the web
 excerpt: You'll never guess what happened after I joined Office for National Statistics (ONS).

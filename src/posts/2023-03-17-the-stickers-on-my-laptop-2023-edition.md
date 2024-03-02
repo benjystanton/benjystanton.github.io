@@ -6,6 +6,7 @@ tags:
 - Personal
 - Design
 - Made Tech
+- Stickers
 excerpt: "Time to clean the stickers off my laptop (again)."
 image: "stickers-on-my-laptop-2023-square.jpg"
 image-alt: "A Macbook Pro covered in colourful stickers"

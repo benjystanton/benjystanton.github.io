@@ -4,6 +4,7 @@ title: Weeknotes – series 02 episode 06
 tags:
 - Weeknotes
 - post
+- Stickers
 ---
 
 Short weeknotes feat. prototyping, Service Design in Government, my strong tweet game and Andy Bell.
