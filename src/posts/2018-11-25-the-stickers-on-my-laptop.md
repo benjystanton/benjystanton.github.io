@@ -5,6 +5,7 @@ tags:
 - NaBloPoMo
 - post
 - NaBloPoMo 2018
+- Stickers
 image: "the-stickers-on-my-laptop.jpg"
 image-alt: "A MacBook Pro lid covered in colourful, mostly circular stickers."
 title: The stickers on my laptop

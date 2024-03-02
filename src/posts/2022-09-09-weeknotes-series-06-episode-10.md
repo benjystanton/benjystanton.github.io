@@ -5,6 +5,7 @@ tags:
 - post
 - Weeknotes
 - Made Tech
+- Stickers
 excerpt: "Device testing, accessibilty at beta phase, and random 8s"
 image: "devices.jpg"
 image-alt: "An iPad and a Google Pixel phone rest on a wooden stand on a table. Behind the phone, a black sticker with white text that says 'Customers, Users' The word customer has a red line through it."
