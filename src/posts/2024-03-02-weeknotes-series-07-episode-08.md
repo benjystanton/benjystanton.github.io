@@ -6,7 +6,7 @@ tags:
 - Weeknotes
 - Freelance
 - Interaction design
-excerpt: "Text wrapping in tables, visit to Sheffield, remote working and designing welsh services."
+excerpt: "Text wrapping in tables, visit to Sheffield, remote working and designing Welsh services."
 ---
 
 Super quick weeknotes this week because I want extra time to prepare for [my lightning talk at Design Swansea](https://www.skiddle.com/whats-on/Swansea/HQ-Urban-Kitchen/Design-Swansea-Cropped-2024/37890390/) next week.
