@@ -6,14 +6,14 @@ tags:
 - Weeknotes
 - Freelance
 - Interaction design
-excerpt: "Text wrapping in tables, visit to Sheffield, remote working and designing Welsh services."
+excerpt: "Text breaking in tables, visit to Sheffield, remote working and designing Welsh services."
 ---
 
 Super quick weeknotes this week because I want extra time to prepare for [my lightning talk at Design Swansea](https://www.skiddle.com/whats-on/Swansea/HQ-Urban-Kitchen/Design-Swansea-Cropped-2024/37890390/) next week.
 
-## Text wrapping in tables
+## Text breaking in tables
 
-I [tooted about a problem with text wrapping in tables](https://mastodon.social/@benjystanton/111985483721389868).
+I [tooted about a problem with text breaking in tables](https://mastodon.social/@benjystanton/111985483721389868).
 
 Looks like it inspired Adrian Roselli to write a whole post about it. This is good because Adrian is the expert on accessible tables: [Techniques to Break Words by Adrian Roselli](https://adrianroselli.com/2024/02/techniques-to-break-words.html).
 
