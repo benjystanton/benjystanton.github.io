@@ -9,7 +9,7 @@ tags:
 
 A ‘[now](https://nownownow.com/about)’ page tells you what I'm focused on at the moment. Inspired by [Derek Sivers](https://sive.rs/).
 
-Updated 2 March 2024.
+Updated 6 March 2024.
 
 ## Personal
 
@@ -20,7 +20,7 @@ Updated 2 March 2024.
 
 - Working as a contract interaction designer
 - Using these [tools](/blog/my-interaction-design-tools-version-3/)
-- Planning a lightning talk for Design Swansea
+- Planning a [lightning talk for Design Swansea](/blog/3-interaction-design-things/)
 
 
 ## Over-sharing
