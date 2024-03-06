@@ -9,12 +9,6 @@ tags:
 excerpt: "My slides and talk transcript for Design Swansea Cropped on Thursday 7 March 2024"
 ---
 
-<!-- 
-Alt text
-~~Check frontmatter~~
-Publish
- -->
-
 ## Get the slides
 
 [View slides on Google Slides](https://docs.google.com/presentation/d/1sUdzaVdywa7J4j-6M0Vh-xGWoAb7QiZKT5H_meBqyi0/edit?usp=sharing)
