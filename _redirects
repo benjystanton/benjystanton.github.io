@@ -1,2 +1,4 @@
 # Redirects from what the browser requests to what we serve
-/projects/web-animation-resources/                /about/web-animation-resources/
+
+/projects/web-animation-resources/           /about/web-animation-resources/
+/cropped                                     /blog/3-interaction-design-things/
