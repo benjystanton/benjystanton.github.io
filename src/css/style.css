@@ -120,6 +120,9 @@ img {
     height: auto;
     width: 100%;
 }
+.border {
+    border: 5px solid #2a2b30;
+}
 .image-avatar {
     width: 5em;
     height: 5em;
@@ -259,7 +262,6 @@ th, td {
 .by-line__list-item-key {
     font-weight: 900;
     display: block;
-    text-transform: uppercase;
 }
 .by-line__list-item-value {
     display: block;
