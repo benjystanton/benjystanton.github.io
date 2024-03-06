@@ -7,7 +7,7 @@ tags:
 - Accessibility
 - Test and Trace
 excerpt: "A collection of tips for making PowerPoint presentations more accessible."
-last_modified_at: 31 January 2023
+last_modified_at: 5 March 2024
 ---
 
 A collection of tips for making PowerPoint presentations more accessible. Created (and crowdsourced) by the UKHSA (UK Health Security Agency) Inclusive Design team earlier in the year. Many tips will be useful for other presentation tools too.
@@ -82,3 +82,5 @@ A collection of tips for making PowerPoint presentations more accessible. Create
 - [Contrast Checker from WebAIM](https://webaim.org/resources/contrastchecker/)
 - [Doing the hard work to make talks readable from Government Digital Service (GDS)](https://gds.blog.gov.uk/2016/05/10/doing-the-hard-work-to-make-talks-readable/)
 - [Accessible Speaking Best Practices from Deque](https://www.deque.com/blog/accessible-speaking-best-practices/)
+- [How to do presentations by Anne Shewring and Russell Davies](https://fitzrovialightindustries.com/products/haudoo-how-to-do-presentations)
+

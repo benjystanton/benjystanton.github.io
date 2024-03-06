@@ -22,13 +22,13 @@ My name is Benjy Stanton. I’m a contract interaction designer. I’m intereste
 
 I’m an hands-on interaction designer, product designer and user experience (UX) designer. I have experience in the public and private sector. I love working with agile, multidisciplinary teams that care about user-centred design.
 
-I work on designs from start to finish, including:
+I work with teams to:
 
-- Defining user needs, problems and success measures
-- Setting user research objectives and observing user research
-- Creating and iterating on user journeys and prototypes
-- Delivering production ready assets and HTML/CSS
-- Accessibility checks and design QA (quality assurance)
+- define user needs and problems
+- help plan and analyse user research
+- share user journey maps and prototypes
+- do accessibility and design reviews
+- document design assets, html and css
 
 I’ve worked with teams of different sizes and setups, including in-house, hybrid and remote. I’ve led design teams, headed-up communities, and hired and mentored designers. 
 
