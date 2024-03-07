@@ -25,7 +25,7 @@ Hi, my name is Benjy and I'm an interaction designer from Swansea. I’m interes
 
 <img class="border" src="/images/design-swansea-cropped/slide-02.png" alt="Link to slides and transcript benjystanton.co.uk/cropped.">
 
-Here’s a link to my slides and a rough transcript. If you go to my blog at Benjy Stanton forward slash cropped you can download the slides for later, and get access to the links that I mention.
+Here’s a link to my slides and a rough transcript. If you go to my blog you can download the slides for later, and get access to the links that I mention.
 
 ## 3 interaction design things
 
@@ -39,7 +39,7 @@ These are things that I’m trying to get better at the moment. I can’t say th
 
 <img class="border" src="/images/design-swansea-cropped/slide-04.png" alt="> Worked with Home Office Met Office, UK Health Security Agency, Environment Agency, Office for National Statistics and Driver and Vehicle Licensing Agency.">
 
-I've been working as a designer for about 20 years. And I’ve been focused on design in government for about nine years now. My first ever role was with DVLA here in Swansea, and currently working remotely as a contractor for the Home Office.
+I've been working as a designer for about 20 years. And I’ve been focused on design in government for about nine years now. My first ever role was with DVLA here in Swansea, and currently I’m working remotely as a contractor for the Home Office.
 
 I’ve worked as a civil servant, as an external designer working via a design agency and as a freelancer.
 
@@ -47,7 +47,7 @@ I’ve worked as a civil servant, as an external designer working via a design a
 
 <img class="border" src="/images/design-swansea-cropped/slide-05.png" alt="Define user needs and problems, Help plan and analyse user research, Share user journey maps and prototypes, Do accessibility and design reviews, Document design assets, html and css.">
 
-According to my website these are the things that I do, but I want to focus more on the second half of the list today.
+According to my website, these are the things that I do, but I want to focus more on the second half of the list today.
 
 I think there are a lot of people who talk and write about user needs and user research better than me. Those things are essential, but I want to focus on these things…
 
@@ -57,13 +57,13 @@ I think there are a lot of people who talk and write about user needs and user r
 
 I’m really interested in how we can execute user research  findings and business requirements to make the best thing.
 
-That can mean spending a lot of time in meetings, talking to stakeholders and software developers. Just to get something over the line.
+That can mean spending a lot of time in meetings, talking to stakeholders and alongside software developers. Just to get something over the line.
 
 ## Thing 1: share early and iterate
 
 <img class="border" src="/images/design-swansea-cropped/slide-06.png" alt="1 Share early and iterate">
 
-I think that sharing early and often is a great practice. I think as a young designer, I wanted to hide away my work until I thought it was perfect. But this is rarely a good approach.
+I think that sharing early and often is a great practice. I think as an inexperienced designer, I wanted to hide my work away until I thought it was perfect. But this is rarely a good approach.
 
 It’s much better to involve the whole team and get their expertise as early as possible.
 
@@ -75,9 +75,9 @@ One example I want to give was when I was working with Made Tech and Met Office 
 
 This photo shows a lifeguard sign on Poppet Sands beach near Cardigan. 
 
-Met Office were working with other organisations, like RNLI, to get more beach safety information into their app. Understanding information like tide times and wind strength can help stop paddle boarders, for example, from getting into trouble out at sea.
+Met Office were working with other organisations, like RNLI, to get more beach safety information into their app. Understanding information like tide times and wind strength can help stop paddle boarders, for example, from getting into trouble at sea.
 
-Working on this team was great, everyone joined in with the design ideation sessions. Often the best ideas came from non-designers. I think as a younger designer, I would have dismissed ideas that didn’t come from other designers, which is a real shame.
+Working on this team was great, everyone joined in with the design ideation sessions. Often the best ideas came from non-designers. I think as a inexperienced designer, I would have dismissed ideas that didn’t come from other designers, which is a real shame.
 
 ## The boring designer
 
@@ -121,7 +121,7 @@ It can also come in useful, when you need to test or revisit the idea later.
 
 <img class="border" src="/images/design-swansea-cropped/slide-11.png" alt="Simplified designs showing GOV UK service pages linked together with arrows.">
 
-This template by Paul Smith is a great for quickly putting together flow diagrams. The level of detail is just right for visualising high level journeys.
+This template by Paul Smith is great for quickly putting together flow diagrams. The level of detail is just right for visualising high level journeys.
 
 It looks enough like a website, but it stops people from getting to bogged down in discussions over the detail.
 
@@ -152,7 +152,7 @@ I first properly learnt about accessibility whilst I was at DVLA. I was working 
 
 It’s used by people who have disabilities and long term medical conditions that affect their ability to drive. Things like epilepsy, Parkinson’s and visual impairments.
 
-All designs should be accessible, but it was critical here since many of the conditions that may affect someone’s ability to drive might also affect their ability to use a digital service.
+All designs should be accessible, but it was critical here since many of the conditions that may affect someone’s ability to drive might also affect their ability to use a poorly designed digital service.
 
 ## Working with disability charities and user research with people with disabilities
 
@@ -197,7 +197,7 @@ Screenshots like this can become part of a handover document for developers too,
 
 <img class="border" src="/images/design-swansea-cropped/slide-18.png" alt="3 Document everything">
 
-That takes me to last point which is “document everything”.
+That takes me to my last point which is “document everything”.
 
 ## Make things open, it makes things better
 
