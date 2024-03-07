@@ -123,6 +123,11 @@ img {
 .border {
     border: 5px solid #2a2b30;
 }
+@media (prefers-color-scheme: dark) {
+    .border {
+        border-color: #e8ecf0;
+    }
+}
 .image-avatar {
     width: 5em;
     height: 5em;
