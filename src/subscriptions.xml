@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>RSS subscriptions for benjystanton@gmail.com</title>
+    <dateCreated>Fri, 08 Mar 2024 12:34:48 +0000</dateCreated>
+    <ownerEmail>benjystanton@gmail.com</ownerEmail>
+  </head>
+  <body>
+    <outline text="Design" title="Design">
+<outline text="Matt Jukes" title="Matt Jukes" type="rss" xmlUrl="https://digitalbydefault.com/feed/" htmlUrl="https://digitalbydefault.com"/>
+<outline text="Aegir Hallmundur" title="Aegir Hallmundur" type="rss" xmlUrl="http://aegir.org/words/feed" htmlUrl="http://aegir.org/words"/>
+<outline text="Ethan Marcotte" title="Ethan Marcotte" type="rss" xmlUrl="https://ethanmarcotte.com/wrote/feed.xml" htmlUrl="https://ethanmarcotte.com"/>
+<outline text="Paul Robert Lloyd" title="Paul Robert Lloyd" type="rss" xmlUrl="https://paulrobertlloyd.com/feed.xml" htmlUrl="https://paulrobertlloyd.com"/>
+<outline text="Adam Silver" title="Adam Silver" type="rss" xmlUrl="https://adamsilver.io/atom.xml" htmlUrl="https://adamsilver.io"/>
+<outline text="Benjy Stanton" title="Benjy Stanton" type="rss" xmlUrl="https://www.benjystanton.co.uk/feed.xml" htmlUrl="https://www.benjystanton.co.uk/"/>
+<outline text="Cathy Dutton" title="Cathy Dutton" type="rss" xmlUrl="https://cathydutton.co.uk/feed.xml" htmlUrl="https://cathydutton.co.uk/"/>
+<outline text="Max Böck" title="Max Böck" type="rss" xmlUrl="https://mxb.dev/feed.xml" htmlUrl="https://mxb.dev"/>
+<outline text="Amy Hupe" title="Amy Hupe" type="rss" xmlUrl="https://amyhupe.co.uk/atom.xml" htmlUrl="https://amyhupe.co.uk"/>
+<outline text="Andrew Duckworth" title="Andrew Duckworth" type="rss" xmlUrl="https://grillopress.github.io/feed.xml" htmlUrl="https://grillopress.github.io/"/>
+<outline text="Steve Messer" title="Steve Messer" type="rss" xmlUrl="https://visitmy.website/feed.xml" htmlUrl="https://visitmy.website"/>
+<outline text="Heydon Pickering" title="Heydon Pickering" type="rss" xmlUrl="https://heydonworks.com/feed.xml" htmlUrl="https://heydonworks.com"/>
+<outline text="Reagan Ray" title="Reagan Ray" type="rss" xmlUrl="https://reaganray.com/feed.xml" htmlUrl="https://reaganray.com/"/>
+<outline text="Sarah Fossheim" title="Sarah Fossheim" type="rss" xmlUrl="https://fossheim.io/feed.xml" htmlUrl="https://fossheim.io/"/>
+<outline text="Léonie Watson" title="Léonie Watson" type="rss" xmlUrl="https://tink.uk/feed.xml" htmlUrl="https://tink.uk/"/>
+<outline text="Manuel Matuzović" title="Manuel Matuzović" type="rss" xmlUrl="https://www.matuzo.at/feed_all.xml" htmlUrl="https://www.matuzo.at"/>
+<outline text="Giles Turnbull" title="Giles Turnbull" type="rss" xmlUrl="https://gilest.org/feed/index.xml" htmlUrl="https://gilest.org"/>
+<outline text="Tatiana Mac" title="Tatiana Mac" type="rss" xmlUrl="https://www.tatianamac.com/feed/feed.xml" htmlUrl="https://www.tatianamac.com/"/>
+<outline text="Craig Abbott" title="Craig Abbott" type="rss" xmlUrl="https://www.craigabbott.co.uk/feed.xml" htmlUrl="https://www.craigabbott.co.uk/"/>
+<outline text="Lou Downe" title="Lou Downe" type="rss" xmlUrl="https://loudowne.com/feed/" htmlUrl="https://loudowne.com"/>
+<outline text="Hidde's blog" title="Hidde's blog" type="rss" xmlUrl="https://hidde.blog/feed" htmlUrl="https://hidde.blog"/>
+<outline text="Darin Senneff" title="Darin Senneff" type="rss" xmlUrl="https://www.darins.page/articles/feed" htmlUrl="https://www.darins.page"/>
+<outline text="Sara Soueidan" title="Sara Soueidan" type="rss" xmlUrl="https://www.sarasoueidan.com/blog/index.xml/" htmlUrl="https://sarasoueidan.com/"/>
+<outline text="Crystal Preston-Watson" title="Crystal Preston-Watson" type="rss" xmlUrl="https://crystalprestonwatson.com/feed/" htmlUrl="https://crystalprestonwatson.com"/>
+<outline text="Ian Ames" title="Ian Ames" type="rss" xmlUrl="https://ames.world/index.xml" htmlUrl="https://ames.world/"/>
+<outline text="Kate Every" title="Kate Every" type="rss" xmlUrl="https://medium.com/feed/@kate-every" htmlUrl="https://medium.com/@kate-every?source=rss-e83703c083bc------2"/>
+<outline text="Vicky Teinaki" title="Vicky Teinaki" type="rss" xmlUrl="https://www.vickyteinaki.com/rss/" htmlUrl="https://www.vickyteinaki.com/"/>
+<outline text="Emma Parnell" title="Emma Parnell" type="rss" xmlUrl="https://www.designforjoy.co.uk/writing?format=rss" htmlUrl="https://www.designforjoy.co.uk/writing/"/>
+<outline text="Liz Hamburger" title="Liz Hamburger" type="rss" xmlUrl="https://gooddesigner.substack.com/feed" htmlUrl="https://gooddesigner.substack.com"/>
+    </outline>
+  </body>
+</opml>

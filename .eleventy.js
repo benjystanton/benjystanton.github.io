@@ -13,6 +13,7 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.addPassthroughCopy('./_redirects');
     eleventyConfig.addPassthroughCopy({"./src/favicons/" : "./"});
     eleventyConfig.addPassthroughCopy('./src/robots.txt');
+    eleventyConfig.addPassthroughCopy('./src/subscriptions.xml');
     eleventyConfig.addPlugin(pluginRss);
 
     return {
