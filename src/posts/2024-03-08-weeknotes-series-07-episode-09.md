@@ -5,7 +5,7 @@ tags:
 - post
 - Weeknotes
 - Freelance
-excerpt: "Design Swansea, RSS feeds and Jakob Nielson."
+excerpt: "Design Swansea, RSS feeds and Jakob Nielsen."
 ---
 
 ## Design Swansea Cropped
@@ -18,7 +18,7 @@ I’ve started using [Feedbin](https://feedbin.com/) to keep up with the blogs t
 
 You can [import my subscriptions using this OPML file](/subscriptions.xml) if you want.
 
-## Jakob Nielson
+## Jakob Nielsen
 
 Jakob Nielsen’s blog post about accessibility really missed the mark.
 
