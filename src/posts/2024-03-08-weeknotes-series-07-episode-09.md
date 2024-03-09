@@ -20,11 +20,21 @@ You can [import my subscriptions using this OPML file](/subscriptions.xml) if yo
 
 ## Jakob Nielsen
 
-Jakob Nielsen’s blog post about accessibility really missed the mark.
+Oof Jakob Nielson’s article about AI and accessibility has been robustly critiqued by many accessibility experts. 
+
+I’ve linked to a few posts below. And those posts link to many more.
+
+Thanks to [Dean](https://deanvipond.com) for initially bringing it to my attention. 
+
+I wonder how much damage has already been done, and whether Jakob will retract the original post, or at least respond to the feedback?
+
+People seem so desperate for AI to come and solve problems they don’t understand, or that they don’t want to invest in. I worry that Jakob’s article will still have a huge reach given his standing in the community. 
 
 - [On Nielsen's ideas about generative UI for resolving accessibility by Per Axbom](https://axbom.com/nielsen-generative-ui-failure/)
 - [Jakob Nielsen’s Bad Ideas about Accessibility by Brian DeConinck](https://www.briandeconinck.com/jakob-nielsens-bad-ideas-about-accessibility/)
 - [Nielsen needs to think again by Léonie Watson](https://tink.uk/nielsen-needs-to-think-again/)
+
+(As an aside, it feels very civilised to experience this via the medium of blog posts rather than a Twitter public shaming).
 
 ## Reading (and things to read later)
 
