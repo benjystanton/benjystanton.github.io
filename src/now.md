@@ -9,18 +9,19 @@ tags:
 
 A ‘[now](https://nownownow.com/about)’ page tells you what I'm focused on at the moment. Inspired by [Derek Sivers](https://sive.rs/).
 
-Updated 6 March 2024.
+Updated 12 March 2024.
 
 ## Personal
 
 - Living in Swansea
-- Next gig: Folly Group
+- Just been to my first ice hockey game
+- Next gig: Thundercat
 
 ## Work
 
 - Working as a contract interaction designer
 - Using these [tools](/blog/my-interaction-design-tools-version-3/)
-- Planning a [lightning talk for Design Swansea](/blog/3-interaction-design-things/)
+- Just gave a [lightning talk at Design Swansea](/blog/3-interaction-design-things/)
 
 
 ## Over-sharing
