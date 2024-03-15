@@ -6,6 +6,8 @@ tags:
 - page
 ---
 
+Updated 6 March 2024.
+
 My name is Benjy Stanton. I’m a contract interaction designer. I’m interested in user-centred design in the public sector, inclusive design and accessibility.
 
 <img class="image-avatar" src="/images/benjy-stanton-2023.jpeg" width="48" height="48" alt="White man with a beard, wearing a baseball cap and smiling">
