@@ -10,6 +10,8 @@ tags:
 excerpt: "A round up of interaction design software that I'll install first on a new Macbook."
 ---
 
+Check out my [uses](/uses) page for an up-to-date list of hardware and software that I use for interaction design.
+
 A round up of things that I'll install first on a new Macbook. I use all of these tools regularly when designing, or require them to get setup. I've written about some of them in more detail in this other post: [my interaction design tools](/blog/my-interaction-design-tools-version-3/).
 
 ## Apps
