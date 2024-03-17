@@ -7,20 +7,18 @@ tags:
 - page
 ---
 
-A ‘[now](https://nownownow.com/about)’ page tells you what I'm focused on at the moment. Inspired by [Derek Sivers](https://sive.rs/).
-
-Updated 15 March 2024.
+Updated 17 March 2024.
 
 ## Personal
 
 - Living in Swansea
-- Just been to my first ice hockey game
-- Next gig: ~~Thundercat~~ Orchestral Manoeuvres in the Dark
+- Next gig: Thundercat
+- Listening to: Gruff Rhys
 
 ## Work
 
 - Working as a contract interaction designer
-- Using these [tools](/blog/my-interaction-design-tools-version-3/)
+- Using these [tools for designing](/uses)
 - Just gave a [lightning talk at Design Swansea](/blog/3-interaction-design-things/)
 - Last user research session: observed a playback on 14 March 2024
 
@@ -31,3 +29,7 @@ Updated 15 March 2024.
 - Sharing [weeknotes](/blog/category/weeknotes)
 - Latest [user manual for me](/blog/a-user-manual-for-me-version-3/)
 - Read more [about me](/about)
+
+## About
+
+A ‘[now](https://nownownow.com/about)’ page tells you what I'm focused on at the moment. Inspired by [Derek Sivers](https://sive.rs/).
