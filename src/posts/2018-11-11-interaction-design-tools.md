@@ -13,6 +13,8 @@ image: "my-dock-nov-2018-thumb.png"
 image-alt: "Icons in my Mac's dock, including Github, Atom and Terminal"
 ---
 
+Check out my [uses](/uses) page for an up-to-date list of hardware and software that I use for interaction design.
+
 {% include 'partials/image-with-caption.html'
   image:"my-dock-nov-2018.png"
   caption:"A screenshot of the dock on my MacBook Pro"

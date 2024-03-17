@@ -11,6 +11,8 @@ tags:
 
 This blog post explores the tools that I use for interaction design. It's an update on a post that I wrote in [2018](/blog/interaction-design-tools) and [2013](/blog/web-design-tools).
 
+Check out my [uses](/uses) page for an up-to-date list of hardware and software that I use for interaction design.
+
 ## Devices
 
 I prefer to work on Apple devices, I'm currently using a 14 inch 2021 Macbook Pro and an iPhone 8. It's useful to have access to other devices (like a Windows laptop or an Android phone) so you can test your designs on different technology.
