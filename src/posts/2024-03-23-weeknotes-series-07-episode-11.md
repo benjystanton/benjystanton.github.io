@@ -5,7 +5,7 @@ tags:
 - post
 - Weeknotes
 - Freelance
-excerpt: "Refining business requirements, a uses page, X-GOVUK show and tell, Design system for Wales."
+excerpt: "Refining business requirements, a uses page, X-GOVUK show and tell, a design system for Wales."
 ---
 
 ## Refining business requirements
