@@ -7,13 +7,13 @@ tags:
 - page
 ---
 
-Updated 17 March 2024.
+Updated 29 March 2024.
 
 ## Personal
 
 - Living in Swansea
 - Next gig: Thundercat
-- Listening to: Gruff Rhys
+- Listening to: Vampire Weekend (and hoping to get tickets to their European tour)
 
 ## Work
 
@@ -21,7 +21,6 @@ Updated 17 March 2024.
 - Using these [tools for designing](/uses)
 - Just gave a [lightning talk at Design Swansea](/blog/3-interaction-design-things/)
 - Last user research session: observed a playback on 14 March 2024
-
 
 ## Over-sharing
 
