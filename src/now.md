@@ -7,13 +7,13 @@ tags:
 - page
 ---
 
-Updated 29 March 2024.
+Updated 30 March 2024
 
 ## Personal
 
 - Living in Swansea
 - Next gig: Thundercat
-- Listening to: Vampire Weekend (and hoping to get tickets to their European tour)
+- Listening to: [Spotify playlist](https://open.spotify.com/playlist/4gOOXjZ8qgSvdmbeLoFsCc)
 
 ## Work
 
@@ -26,9 +26,9 @@ Updated 29 March 2024.
 
 - Posting on [Bluesky](https://bsky.app/profile/benjystanton.bsky.social)
 - Sharing [weeknotes](/blog/category/weeknotes)
-- Latest [user manual for me](/blog/a-user-manual-for-me-version-3/)
+- My latest [user manual for me](/blog/a-user-manual-for-me-version-3/)
 - Read more [about me](/about)
 
-## About
+## About now pages
 
-A ‘[now](https://nownownow.com/about)’ page tells you what I'm focused on at the moment. Inspired by [Derek Sivers](https://sive.rs/).
+This is [a now page](https://nownownow.com/about) inspired by [Derek Sivers](https://sive.rs/now).
