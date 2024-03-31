@@ -307,6 +307,17 @@ th, td {
     margin-top: 0.25em;
     margin-bottom: 0;
 }
+/* Panel */
+.panel {
+    background-color: #e8ecf0;
+    padding: 1em;
+    display: inline-block;
+}
+@media (prefers-color-scheme: dark) {
+    .panel {
+        background-color: #1e1d1d;
+    }
+}
 /* Utilities */
 .margin-bottom-0 {
     margin-bottom: 0;
