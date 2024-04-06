@@ -7,12 +7,12 @@ tags:
 - page
 ---
 
-Updated 30 March 2024
+Updated 6 April 2024
 
 ## Personal
 
 - Living in Swansea
-- Next gig: Thundercat
+- Next gig: In It Together festival
 - Listening to: [Spotify playlist](https://open.spotify.com/playlist/4gOOXjZ8qgSvdmbeLoFsCc)
 
 ## Work

@@ -67,6 +67,11 @@ Updated 17 March 2024.
 
 - GOV.UK Prototype Kit
 - Eleventy
+- [Pageres-cli](https://github.com/sindresorhus/pageres-cli) for taking screenshots
+
+## Travel
+
+- [Haglöfs Corker backpack](https://www.haglofs.com/en/men/backpacks-bags-men/backpacks-bags-daypacks-laptop-backpacks-men/corker-20-3381572C5)
 
 ## About
 
