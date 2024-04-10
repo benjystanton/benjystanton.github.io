@@ -7,13 +7,15 @@ tags:
 - page
 ---
 
-Updated 6 April 2024
+Updated 10 April 2024
 
 ## Personal
 
 - Living in Swansea
 - Next gig: In It Together festival
 - Listening to: [Spotify playlist](https://open.spotify.com/playlist/4gOOXjZ8qgSvdmbeLoFsCc)
+- Drinking: Lucid Costa Rica Aquiares Estate
+- Watching: The Dropout (BBC)
 
 ## Work
 
