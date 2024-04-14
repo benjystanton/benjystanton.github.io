@@ -45,6 +45,12 @@ In reality this is just a basic form that lets us set the following things as va
 
 I'd like to get better at [creating routes with the GOV.UK prototype kit](https://prototype-kit.service.gov.uk/docs/create-routes). The method I use is quite basic, but I think it's perhaps limiting the scale if the prototypes that I'm making.
 
+## User research as a mini product release
+
+It struck me this week, that prepping a prototype for user research, helps me to think more critically about the design. It's a bit like a mini-release. More things about the product have to be ready (or at least better understood) for the prototype to be ready, and for the user research to go well.
+
+Even before we learn if the design is usable, we are taking a few little steps towards a production-ready release.
+
 ## Bookmarks
 - [Testing HTML With Modern CSS by Heydon Pickering](https://heydonworks.com/article/testing-html-with-modern-css/)
 - [Figma prototypes vs HTML prototypes by Adam Silver](https://adamsilver.io/blog/figma-prototypes-vs-html-prototypes/)
