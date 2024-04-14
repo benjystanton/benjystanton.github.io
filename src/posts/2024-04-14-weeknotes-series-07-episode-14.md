@@ -58,4 +58,4 @@ Even before we learn if the design is usable, we are taking a few little steps t
 - [Ideas for Global Accessibility Awareness Day (GAAD) by Shaun Conner](https://sconner.net/blog/ideas-for-gaad/)
 - [Design is a process of getting stuck by Robin Rendle](https://robinrendle.com/notes/design-is-a-process-of-getting-stuck-/)
 - [Dead ends by Lou Downe and Sarah Drummond (Podcast)](https://good.services/deadendspodcast/category/deadends)
-- [Post to Eleventy from iOS with Drafts, Shortcuts and Working Copy](https://florian.ec/blog/post-to-eleventy-ios-drafts-shortcuts-working-copy/)
+- [Post to Eleventy from iOS with Drafts, Shortcuts and Working Copy by Florian Eckerstorfer](https://florian.ec/blog/post-to-eleventy-ios-drafts-shortcuts-working-copy/)
