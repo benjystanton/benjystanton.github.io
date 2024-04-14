@@ -9,7 +9,7 @@ tags:
 
 {{ excerpt }}
 
-Updated 17 March 2024.
+Updated 14 April 2024.
 
 ## Laptop
 
@@ -18,6 +18,7 @@ Updated 17 March 2024.
 - Apple Magic Keyboard
 - EarPods with 3.5m headphone plug
 - Sigfinn bamboo monitor stand from Ikea
+- Second hand Hannspree HE196APB monitor
 
 ## Mac apps
 

@@ -7,15 +7,15 @@ tags:
 - page
 ---
 
-Updated 10 April 2024
+Updated 14 April 2024
 
 ## Personal
 
-- Living in Swansea
+- Living in [Swansea](/blog/things-to-do-in-swansea/)
 - Next gig: In It Together festival
 - Listening to: [Spotify playlist](https://open.spotify.com/playlist/4gOOXjZ8qgSvdmbeLoFsCc)
-- Drinking: Lucid Costa Rica Aquiares Estate
-- Watching: The Dropout (BBC)
+- Current coffee: Penny Rock Daterra Brazil from Red Bank
+- Watching: Fallout (Amazon Prime)
 
 ## Work
 
