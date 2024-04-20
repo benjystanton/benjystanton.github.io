@@ -48,3 +48,4 @@ I liked this [post by Harry Scott-Trimble about delivery phases](https://www.lin
 - [Notes on working on NHS digital prevention services by Frankie Roberto](https://frankieroberto.github.io/nhsnotes/)
 - [Form Extractor Prototype by Tim Paul](https://github.com/timpaul/form-extractor-prototype)
 - [Hardest Problem in Computer Science: Centering Things by Nikita Prokopov](https://tonsky.me/blog/centering/)
+- [Invisible success by Eric Bailey](https://ericwbailey.website/published/invisible-success/)
