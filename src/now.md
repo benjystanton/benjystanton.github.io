@@ -7,22 +7,21 @@ tags:
 - page
 ---
 
-Updated 14 April 2024
+Updated 27 April 2024
 
 ## Personal
 
 - Living in [Swansea](/blog/things-to-do-in-swansea/)
 - Next gig: In It Together festival
 - Listening to: [Spotify playlist](https://open.spotify.com/playlist/4gOOXjZ8qgSvdmbeLoFsCc)
-- Current coffee: Penny Rock Daterra Brazil from Red Bank
-- Watching: Fallout (Amazon Prime)
+- Current coffee: Coaltown Minca Peru
+- Watching: Baby Reindeer
 
 ## Work
 
 - Working as a contract interaction designer
 - Using these [tools for designing](/uses)
-- Just gave a [lightning talk at Design Swansea](/blog/3-interaction-design-things/)
-- Last user research session: observed a playback on 14 March 2024
+- Last user research session: observed usability testing on 24 April 2024
 
 ## Over-sharing
 
