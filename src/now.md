@@ -7,15 +7,15 @@ tags:
 - page
 ---
 
-Updated 27 April 2024
+Updated 4 May 2024
 
 ## Personal
 
 - Living in [Swansea](/blog/things-to-do-in-swansea/)
 - Next gig: In It Together festival
 - Listening to: [Spotify playlist](https://open.spotify.com/playlist/4gOOXjZ8qgSvdmbeLoFsCc)
-- Current coffee: Coaltown Minca Peru
-- Watching: Baby Reindeer
+- Current coffee: Coaltown Karambi Uganda
+- Watching: Avatar: The Last Airbender (live action)
 
 ## Work
 
