@@ -41,7 +41,7 @@ Here's some of the things I do. Often they aren't needed every week, but it's go
 
 ## Make a new prototype version if needed
 - Archive the current version of the prototype and create new version to work on
-- Useful if we've just finished some user research, or some big changes are planned
+- Especially if we've just finished some user research, or some big changes are planned
 - Make a record of the version number and when it was merged
 
 ## Review my todo list
@@ -61,7 +61,7 @@ Here's some of the things I do. Often they aren't needed every week, but it's go
 
 ## Suggestions?
 
-What kind of things do you like doing every week to keep the work on track? Feel free to drop me an email about it: <a href="mailto:benjystanton@gmail.com" rel="me">benjystanton@gmail.com</a>.
+What kind of things do you like doing every week to keep the work on track? Feel free to drop me an email about it <a href="mailto:benjystanton@gmail.com" rel="me">benjystanton@gmail.com</a> or message me on <a href="https://www.linkedin.com/in/benjystanton/" rel="me">LinkedIn</a>.
 
 
 ## Bookmarks 
