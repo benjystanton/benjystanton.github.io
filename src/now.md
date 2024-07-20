@@ -7,15 +7,15 @@ tags:
 - page
 ---
 
-Updated 15 June 2024
+Updated 20 July 2024
 
 ## Personal
 
-- Living in [Swansea](/blog/things-to-do-in-swansea/)
-- Next gig: Sweatbox
+- Living in: [Swansea](/blog/things-to-do-in-swansea/)
+- Next gig: Melyn Melin
 - Listening to: [Spotify playlist](https://open.spotify.com/playlist/4gOOXjZ8qgSvdmbeLoFsCc)
-- Current coffee: Hard Lines China Banka
-- Watching: Godzilla Minus One
+- Current coffee: [Square Peg Purpose](https://www.squarepeg.org.uk/product/clifton-e1-house-coffee/)
+- Watching: The Great British Sewing Bee
 
 ## Work
 
