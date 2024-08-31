@@ -20,7 +20,7 @@ I did my timesheets, and I only worked 4 days this month. Honestly no idea how m
 
 I came back to some big news that our product had lost out on its funding bid, and that my team was being reassigned to a different product from the end of September.
 
-Most of the team are being kept together, but it looks like I'll be moving a new one. Still not 100% sure what will happen, but I will miss the team, especially the other UCD (user-centred design) folks. It's going to be sad to move on, but I've been with my current team for 18 months, so a new challenge is also welcome at this point.
+Most of the team are being kept together, but it looks like I'll be moving to a new one. Still not 100% sure what will happen, but I will miss the team, especially the other UCD (user-centred design) folks. It's going to be sad to move on, but I've been with my current team for 18 months, so a new challenge is also welcome at this point.
 
 Our focus now is on documenting things (like our design histories) and making sure things are packaged up neatly. Fingers crossed the product gets more funding in April. It seems like a possibility, but I'd be very surprised if many of the current team make it back.
 
