@@ -7,21 +7,22 @@ tags:
 - page
 ---
 
-Updated 20 July 2024
+Updated 31 August 2024
 
 ## Personal
 
 - Living in: [Swansea](/blog/things-to-do-in-swansea/)
 - Next gig: Melyn Melin
 - Listening to: [Spotify playlist](https://open.spotify.com/playlist/4gOOXjZ8qgSvdmbeLoFsCc)
-- Current coffee: [Square Peg Purpose](https://www.squarepeg.org.uk/product/clifton-e1-house-coffee/)
-- Watching: The Great British Sewing Bee
+- Current coffee: [Skylark Colombia Guarapas Washed](https://skylark.coffee/products/colombia-guarapas-washed-copy-1)
+- Watching: Kingdom of the Planet of the Apes
+- Reading: The Handmaid's Tale
 
 ## Work
 
 - Working as a contract interaction designer
 - Using these [tools for designing](/uses)
-- Last user research session: observed in-person user acceptance testing on 20 May 2024
+- Last user research session: observed remote usability testing on 26 July 2024
 
 ## Over-sharing
 
