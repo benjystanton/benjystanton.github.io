@@ -7,7 +7,7 @@ tags:
 - page
 ---
 
-Updated 31 August 2024
+Updated 8 September 2024
 
 ## Personal
 
@@ -15,7 +15,7 @@ Updated 31 August 2024
 - Next gig: Melyn Melin
 - Listening to: [Spotify playlist](https://open.spotify.com/playlist/4gOOXjZ8qgSvdmbeLoFsCc)
 - Current coffee: [Skylark Colombia Guarapas Washed](https://skylark.coffee/products/colombia-guarapas-washed-copy-1)
-- Watching: Kingdom of the Planet of the Apes
+- Watching: Colin from Accounts series 2
 - Reading: The Handmaid's Tale
 
 ## Work
