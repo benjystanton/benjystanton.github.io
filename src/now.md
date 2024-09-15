@@ -7,14 +7,14 @@ tags:
 - page
 ---
 
-Updated 8 September 2024
+Updated 15 September 2024
 
 ## Personal
 
 - Living in: [Swansea](/blog/things-to-do-in-swansea/)
 - Next gig: Melyn Melin
 - Listening to: [Spotify playlist](https://open.spotify.com/playlist/4gOOXjZ8qgSvdmbeLoFsCc)
-- Current coffee: [Skylark Colombia Guarapas Washed](https://skylark.coffee/products/colombia-guarapas-washed-copy-1)
+- Current coffee: [Triple Co Roast Indonesia Team Pegasing CM](https://www.triplecoroast.com/products/indonesia-team-pegasing-cm)
 - Watching: Colin from Accounts series 2
 - Reading: The Handmaid's Tale
 
