@@ -4,7 +4,7 @@ title: "Weeknotes – series 07 episode 07"
 tags:
 - post
 - Weeknotes
-- Freelance
+- Orange team
 - Interaction design
 
 excerpt: "1500 commits, adding a now page, visiting Sheffield and Axe-con."

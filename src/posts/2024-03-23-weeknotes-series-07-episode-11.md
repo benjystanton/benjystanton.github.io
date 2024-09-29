@@ -4,7 +4,7 @@ title: "Weeknotes – series 07 episode 11"
 tags:
 - post
 - Weeknotes
-- Freelance
+- Orange team
 excerpt: "Refining business requirements, a uses page, X-GOVUK show and tell, a design system for Wales."
 ---
 

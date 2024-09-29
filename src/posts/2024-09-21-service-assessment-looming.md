@@ -4,7 +4,7 @@ title: "Service assessment looming"
 tags:
 - post
 - Weeknotes
-- Freelance
+- Orange team
 excerpt: "A weeknote starting 16 September 2024."
 --- 
 

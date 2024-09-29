@@ -4,10 +4,9 @@ title: "Weeknotes – series 07 episode 15"
 tags:
 - post
 - Weeknotes
-- Freelance
+- Orange team
 excerpt: "Struggling with JavaScript, usability testing, and design systems."
 ---
-
 
 ## Finishing off the prototype
 

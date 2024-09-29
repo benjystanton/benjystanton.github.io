@@ -4,7 +4,7 @@ title: "Weeknotes – series 07 episode 14"
 tags:
 - post
 - Weeknotes
-- Freelance
+- Orange team
 excerpt: "Planning user research and getting the prototype ready."
 ---
 

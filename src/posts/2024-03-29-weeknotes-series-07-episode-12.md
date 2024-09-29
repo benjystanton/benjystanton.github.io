@@ -4,7 +4,7 @@ title: "Weeknotes – series 07 episode 12"
 tags:
 - post
 - Weeknotes
-- Freelance
+- Orange team
 excerpt: "Prototyping, beach safety forecasts, digital inclusion, co-design."
 ---
 

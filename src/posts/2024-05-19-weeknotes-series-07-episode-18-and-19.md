@@ -4,7 +4,7 @@ title: "Weeknotes – series 07 episode 18 and 19"
 tags:
 - post
 - Weeknotes
-- Freelance
+- Orange team
 excerpt: "User acceptance testing, music festivals and snakes."
 --- 
 

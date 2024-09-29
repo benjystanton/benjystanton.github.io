@@ -4,7 +4,8 @@ title: "Worrying about the future of interaction design"
 tags:
 - post
 - Weeknotes
-- Freelance
+- Orange team
+- Interaction design
 excerpt: "A weeknote starting 9 September 2024."
 --- 
 

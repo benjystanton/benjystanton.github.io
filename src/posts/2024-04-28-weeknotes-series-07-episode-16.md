@@ -4,12 +4,11 @@ title: "Weeknotes – series 07 episode 16"
 tags:
 - post
 - Weeknotes
-- Freelance
+- Orange team
 excerpt: "Inclusive language and the contenteditable attribute."
 ---
 
 ## Inclusive language
-
 
 [Candi Williams shared a great post on LinkedIn about inclusive language](https://www.linkedin.com/posts/activity-7189550567046742017-Kyok/). It's a great reminder to me that there is always more I can do to choose better words.
 

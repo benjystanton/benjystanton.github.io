@@ -4,7 +4,7 @@ title: "Weeknotes – series 07 episode 05"
 tags:
 - post
 - Weeknotes
-- Freelance
+- Orange team
 - Interaction design
 
 excerpt: "Stress, stakeholder demos, links without hrefs and Bluesky."

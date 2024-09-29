@@ -4,7 +4,7 @@ title: "Weeknotes – series 07 episode 17"
 tags:
 - post
 - Weeknotes
-- Freelance
+- Orange team
 excerpt: "Some good interaction design habits I'm trying to adopt."
 ---
 
