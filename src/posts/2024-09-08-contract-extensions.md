@@ -5,6 +5,7 @@ tags:
 - post
 - Weeknotes
 - Freelance
+- Orange team
 excerpt: "A weeknote starting 2 September 2024."
 --- 
 

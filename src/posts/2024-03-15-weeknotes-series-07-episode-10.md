@@ -4,7 +4,7 @@ title: "Weeknotes – series 07 episode 10"
 tags:
 - post
 - Weeknotes
-- Freelance
+- Orange team
 excerpt: "Design debt, mentoring, RSS feeds and white default in autocorrects."
 ---
 

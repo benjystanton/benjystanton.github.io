@@ -4,7 +4,7 @@ title: "Back from hols to a team shake-up"
 tags:
 - post
 - Weeknotes
-- Freelance
+- Orange team
 excerpt: "A weeknote starting 26 August 2024."
 --- 
 

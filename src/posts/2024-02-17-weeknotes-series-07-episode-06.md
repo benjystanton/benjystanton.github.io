@@ -4,7 +4,7 @@ title: "Weeknotes – series 07 episode 06"
 tags:
 - post
 - Weeknotes
-- Freelance
+- Orange team
 - Interaction design
 
 excerpt: "Designing with uncertainty, accessibility strategy resources, Bombay Bicycle Club."

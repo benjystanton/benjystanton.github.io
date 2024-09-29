@@ -4,7 +4,7 @@ title: "Weeknotes – series 07 episode 09"
 tags:
 - post
 - Weeknotes
-- Freelance
+- Orange team
 excerpt: "Design Swansea, RSS feeds and Jakob Nielsen."
 ---
 

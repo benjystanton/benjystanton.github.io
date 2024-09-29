@@ -4,7 +4,7 @@ title: "Weeknotes – series 07 episode 01"
 tags:
 - post
 - Weeknotes
-- Freelance
+- Orange team
 - Interaction design
 
 excerpt: "Contract extension, joining a design community of practice in Wales and some interaction design bookmarks."

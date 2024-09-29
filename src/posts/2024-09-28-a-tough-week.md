@@ -4,7 +4,8 @@ title: "A tough week"
 tags:
 - post
 - Weeknotes
-- Freelance
+- Orange team
+- Personal
 excerpt: "A weeknote starting 23 September 2024."
 --- 
 

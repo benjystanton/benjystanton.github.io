@@ -4,7 +4,7 @@ title: "Design links and live music"
 tags:
 - post
 - Weeknotes
-- Freelance
+- Orange team
 excerpt: "A weeknote starting 17 June 2024."
 --- 
 

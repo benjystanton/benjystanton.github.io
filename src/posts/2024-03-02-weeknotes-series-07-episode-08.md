@@ -4,7 +4,7 @@ title: "Weeknotes – series 07 episode 08"
 tags:
 - post
 - Weeknotes
-- Freelance
+- Orange team
 - Interaction design
 excerpt: "Breaking words in tables, visit to Sheffield, remote working and designing Welsh services."
 ---

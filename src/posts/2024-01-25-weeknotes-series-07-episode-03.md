@@ -4,7 +4,7 @@ title: "Weeknotes – series 07 episode 03"
 tags:
 - post
 - Weeknotes
-- Freelance
+- Orange team
 - Interaction design
 
 excerpt: "Prototyping rhythm, design authority presentations, design histories and Design Swansea."

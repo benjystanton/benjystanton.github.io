@@ -4,7 +4,7 @@ title: "Weeknotes – series 07 episode 04"
 tags:
 - post
 - Weeknotes
-- Freelance
+- Orange team
 - Interaction design
 
 excerpt: "Design Swansea, Shoreline management plans, testing prototypes in other devices, design debt and target size."

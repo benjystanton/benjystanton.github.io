@@ -4,7 +4,7 @@ title: "Weeknotes – series 07 episode 02"
 tags:
 - post
 - Weeknotes
-- Freelance
+- Orange team
 - Interaction design
 
 excerpt: "Deadlines, new laptop, flow diagrams and accessible notifications."

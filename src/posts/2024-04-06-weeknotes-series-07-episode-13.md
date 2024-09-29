@@ -5,6 +5,7 @@ tags:
 - post
 - Weeknotes
 - Freelance
+- Orange team
 - Swansea
 excerpt: "Reflecting on 1 year contracting, and nice things to do in Swansea."
 ---
