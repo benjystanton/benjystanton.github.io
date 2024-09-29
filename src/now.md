@@ -7,7 +7,7 @@ tags:
 - page
 ---
 
-Updated 29 September 2024
+Updated 29 September 2024.
 
 ## Personal
 
