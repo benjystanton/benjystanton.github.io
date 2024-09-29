@@ -6,7 +6,7 @@ tags:
 - page
 ---
 
-Updated 6 March 2024.
+Updated 29 September 2024.
 
 My name is Benjy Stanton. I’m a contract interaction designer. I’m interested in user-centred design in the public sector, inclusive design and accessibility.
 
@@ -18,7 +18,6 @@ My name is Benjy Stanton. I’m a contract interaction designer. I’m intereste
 - Location: Swansea, Wales
 - Email: [benjystanton@gmail.com](mailto:benjystanton@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/benjystanton/)
-
 
 ## Summary
 
@@ -50,15 +49,19 @@ I’m an advocate for accessibility and inclusive design. I help teams to do use
 - Office for National Statistics (ONS)
 - UK Health Security Agency (UKHSA) / NHS Test and Trace
 
-*** 
+***
 
 ## Experience
 
-###  Senior interaction designer at Home Office (contract)
+### Senior interaction designer at Home Office (contract)
 
 Started April 2023
 
-###  Lead designer at Made Tech
+At the Home Office, I worked as part of a multidisciplinary agile team. We designed a digital service used by internal staff.
+
+As the team's interaction designer my role included: creating journey maps and screen flows, designing prototypes in code, ensuring the components and patterns met accessibility standards, observing and analysing user research, working with software developers and quality assurance testers, continuous improvement and attending an internal service assessment.
+
+### Lead designer at Made Tech
 
 July 2022 to April 2023
 

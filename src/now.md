@@ -7,15 +7,15 @@ tags:
 - page
 ---
 
-Updated 15 September 2024
+Updated 29 September 2024.
 
 ## Personal
 
 - Living in: [Swansea](/blog/things-to-do-in-swansea/)
 - Next gig: Melyn Melin
 - Listening to: [Spotify playlist](https://open.spotify.com/playlist/4gOOXjZ8qgSvdmbeLoFsCc)
-- Current coffee: [Triple Co Roast Indonesia Team Pegasing CM](https://www.triplecoroast.com/products/indonesia-team-pegasing-cm)
-- Watching: Colin from Accounts series 2
+- Current coffee: Redbank Coffee Onwards
+- Watching: Only Murders in the Building
 - Reading: The Handmaid's Tale
 
 ## Work
