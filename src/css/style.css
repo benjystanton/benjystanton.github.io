@@ -325,3 +325,32 @@ th, td {
 .margin-top-0 {
     margin-top: 0;
 }
+
+/* Layout links */
+.layout-links {
+    text-align: center;
+    max-width: 35ch;
+    padding: 2em;
+}
+
+.layout-links h1 {
+    margin: 0.2em 0 0;
+}
+
+.layout-links ul {
+    list-style: none;
+    padding: 0;
+}
+
+.layout-links a {
+    padding: 1em;
+    background-color: #e8ecf0;
+    display: block;
+    margin-bottom: 1em;
+}
+
+@media (prefers-color-scheme: dark) {
+    .layout-links a {
+        background-color: #1e1d1d;
+    }
+}
