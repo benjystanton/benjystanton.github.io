@@ -4,6 +4,7 @@ title: "Prototype kit and nunjucks special"
 tags:
 - post
 - Weeknotes
+- Interaction design
 excerpt: "A weeknote starting 14 October 2024."
 --- 
 
@@ -128,7 +129,7 @@ Overall, I'm think that this initial upfront effort will be worth it.
 I think keeping everything separated and dynamic, means that we can…
 
 - add more rows or columns of data and the interface will adapt (or at least ignore things it doesn't understand)
-- decide to change the way the interface works, and we can do that with interfering with the underlying data
+- decide to change the way the interface works, and we can do that without interfering with the underlying data
 - create newer detailed views later that pull from the same data, keeping the end-to-end journey in sync and feeling more real for the user
 
 Basically, I think it will allow us to iterate easily on the riskiest things.
