@@ -124,7 +124,7 @@ I must admit, I don't fully understand the difference between [macros](https://m
 
 This is definitely the most complex prototype I've built so far and I kept asking myself: is it worth making it this complicated, is there an easier way to just "fake it"?
 
-Overall, I'm think that this initial upfront effort will be worth it.
+Overall, I think that this initial upfront effort will be worth it.
 
 I think keeping everything separated and dynamic, means that we can…
 
