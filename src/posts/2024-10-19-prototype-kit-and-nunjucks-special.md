@@ -16,7 +16,7 @@ I started this week off feeling tired and grumpy, especially because sprint plan
 
 There's pressure on the team to show they can deliver something, and even though there's been plenty of good discovery and alpha work so far it's mostly stored in confluence documentation and peoples' heads.
 
-So, I decided it was better to try prove that we could make some good progress with the prototype, rather than kick up too much of a fuss on my first sprint.
+So, I decided it was better to try and prove that we could make some good progress with the prototype, rather than kick up too much of a fuss on my first sprint.
 
 ## Prototyping the layout
 
