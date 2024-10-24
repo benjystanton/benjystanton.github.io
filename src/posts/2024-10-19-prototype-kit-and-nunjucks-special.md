@@ -114,7 +114,7 @@ Then I could use that new array of the data like this…
 
 ## Macros
 
-Once the data was set up, I pulled it into the interface using a macro. I initially learned about macros from [Vicky's excellent prototype kit](https://medium.com/gov-design/more-efficient-prototyping-with-the-gov-uk-prototype-kit-step-by-step-84ea2832549a) blog post.
+Once the data was set up, I pulled it into the interface using a macro. I initially learned about macros from [Vicky's excellent prototype kit](https://www.vickyteinaki.com/blog/more-efficient-prototyping-with-the-gov-uk-prototype-kit-step-by-step/) blog post.
 
 (Every time I look at that post, I learn something new. Highly recommend it if you're using the kit.)
 
