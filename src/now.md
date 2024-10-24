@@ -7,22 +7,22 @@ tags:
 - page
 ---
 
-Updated 29 September 2024.
+Updated 24 October 2024.
 
 ## Personal
 
 - Living in: [Swansea](/blog/things-to-do-in-swansea/)
-- Next gig: Melyn Melin
+- Next gig: Jessica Pratt
 - Listening to: [Spotify playlist](https://open.spotify.com/playlist/4gOOXjZ8qgSvdmbeLoFsCc)
-- Current coffee: Redbank Coffee Onwards
-- Watching: Only Murders in the Building
+- Current coffee: Positive Reaction Hardcore Gold
+- Watching: Mortimer and Whitehouse: Gone Fishing
 - Reading: The Handmaid's Tale
 
 ## Work
 
 - Working as a contract interaction designer
 - Using these [tools for designing](/uses)
-- Last user research session: observed remote usability testing on 26 July 2024
+- Last user research session: 10 October 2024
 
 ## Over-sharing
 
