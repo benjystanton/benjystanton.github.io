@@ -4,7 +4,8 @@ title: "Travelling for user research and design workshops"
 tags:
 - post
 - Weeknotes
-- Interaction design
+- Research
+- Season 2
 excerpt: "A weeknote starting 28 October 2024."
 --- 
 

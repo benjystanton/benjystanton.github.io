@@ -4,6 +4,8 @@ title: "What makes a successful usability test?"
 tags:
 - post
 - Weeknotes
+- Research
+- Season 2
 excerpt: "A weeknote starting 4 November 2024."
 --- 
 

@@ -4,6 +4,8 @@ title: "Observing users on site"
 tags:
 - post
 - Weeknotes
+- Research
+- Season 2
 excerpt: "A weeknote starting 7 October 2024."
 --- 
 

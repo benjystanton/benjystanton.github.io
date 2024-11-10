@@ -4,6 +4,7 @@ title: "New team and some great gigs"
 tags:
 - post
 - Weeknotes
+- Season 2
 excerpt: "A weeknote starting 30 September 2024."
 --- 
 
