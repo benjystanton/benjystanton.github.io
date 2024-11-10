@@ -7,22 +7,21 @@ tags:
 - page
 ---
 
-Updated 24 October 2024.
+Updated 10 November 2024.
 
 ## Personal
 
 - Living in: [Swansea](/blog/things-to-do-in-swansea/)
-- Next gig: Jessica Pratt
+- Next gig: <a href="https://www.jessicapratt.net/">Jessica Pratt</a>
 - Listening to: [Spotify playlist](https://open.spotify.com/playlist/4gOOXjZ8qgSvdmbeLoFsCc)
-- Current coffee: Positive Reaction Hardcore Gold
-- Watching: Mortimer and Whitehouse: Gone Fishing
-- Reading: The Handmaid's Tale
+- Current coffee: <a href="https://friedhats.com/pages/peru-1">Friedhats Peru</a>
+- Watching: <a href="https://www.bbc.co.uk/iplayer/episodes/b0b7r2k6/mortimer-whitehouse-gone-fishing">Mortimer and Whitehouse: Gone Fishing</a>
 
 ## Work
 
 - Working as a contract interaction designer
 - Using these [tools for designing](/uses)
-- Last user research session: 10 October 2024
+- Last user research session: 7 November 2024
 
 ## Over-sharing
 
