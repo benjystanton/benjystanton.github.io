@@ -28,7 +28,7 @@ Follow me on Bluesky: [@benjystanton.bsky.social](https://bsky.app/profile/benjy
 
 ## Service assessment results
 
-We finally had our service assessment results. It wasn’t good, as feared. I was a bit annoyed whilst reading through the report, because it felt like they had missed things that we had actually done.
+We finally had our service assessment results. It wasn’t good, as feared. I was a bit annoyed whilst reading through the report, because it felt like it missed things that we had actually done.
 
 That is probably our fault for not communicating it well enough. And I suppose that’s the risk with service assessments, on another day, with other people in the room, we might have had a slightly  different outcome. I recognise though that ultimately there is a lot of room for improvement.
 
