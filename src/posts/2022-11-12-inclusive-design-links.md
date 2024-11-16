@@ -24,7 +24,7 @@ A collection of posts, articles, guides and podcasts about inclusive design.
 - [George Aye on “Understanding Power and Privilege in Design” – LaTeisha Moore](https://medium.com/sdn-new-york-chapter/george-aye-on-understanding-power-and-privilege-in-design-1d5b26a23f4e)
 - [How Can Designers Build Interfaces That Avoid the “White Default?” – Jacquelyn Iyamah](https://eyeondesign.aiga.org/design-often-encourages-the-white-default-how-can-designers-create-more-inclusive-digital-interfaces/)
 - [Inclusive design glossary – Say Yeah](https://sayyeah.com/glossary/category/inclusive-design/)
-- [Let’s talk about sex*](https://emmaparnell.medium.com/lets-talk-about-sex-6bb64c7e8f0c)
+- [Let’s talk about sex* – Emma Parnell](https://emmaparnell.medium.com/lets-talk-about-sex-6bb64c7e8f0c)
 - [Making your service more inclusive – GOV.UK](https://www.gov.uk/service-manual/design/making-your-service-more-inclusive)
 - [Measure to assess users’ digital competency – Dr Salma Patel](https://salmapatel.co.uk/user-research/measure-to-assess-digital-competency/)
 - [Prisoner-facing Services: Design Principles – Jane Stead](https://mojdigital.blog.gov.uk/2024/10/04/prisoner-facing-services-design-principles/)
