@@ -19,6 +19,7 @@ last_modified_at: 16 November 2024
 - [Design Education’s Big Gap: Understanding the Role of Power – George Aye](https://medium.com/greater-good-studio/design-educations-big-gap-understanding-the-role-of-power-1ee1756b7f08)
 - [Design systems for humans – Amy Hupe](https://amyhupe.co.uk/articles/design-systems-for-humans/)
 - [Designing for equity and inclusion – Jacquelyn Iyamah](https://medium.com/black-ux-collective/designing-for-equity-and-inclusion-6465bd9246cc)
+- [Different levels of inclusion awareness – Stéphanie Krus](https://blog.chezleskrus.com/2024/11/09/different-levels-of-inclusion-awareness/)
 - [Easy read is hard to get right – John Newton](https://designnotes.blog.gov.uk/2021/10/11/easy-read-is-hard-to-get-right/)
 - [Equity and Justice: why it matters in UK Government digital services and what we can do about it – Clara Greo](https://claragreo.com/posts/equity-and-justice:-why-it-matters-in-uk-government-digital-services-and-what-we-can-do-about-it/)
 - [George Aye on “Understanding Power and Privilege in Design” – LaTeisha Moore](https://medium.com/sdn-new-york-chapter/george-aye-on-understanding-power-and-privilege-in-design-1d5b26a23f4e)
