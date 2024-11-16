@@ -10,7 +10,7 @@ excerpt: "A weeknote starting 11 November 2024."
 
 {{ excerpt }}
 
-## I’m moving team agains, well sort of
+## I’m moving team again, well sort of
 
 I found out last Friday that I’m moving teams again. But, I’m staying in the same department and moving with some of my existing team mates, so it’s not a huge move, but it was still a bit of a surprise.
 
