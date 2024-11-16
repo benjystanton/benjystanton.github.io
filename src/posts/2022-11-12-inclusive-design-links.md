@@ -4,11 +4,11 @@ title: "Inclusive design resources"
 tags:
 - post
 - Inclusive design
-excerpt: "A collection of posts and guides about inclusive design."
+excerpt: "A collection of posts, articles, guides and podcasts about inclusive design."
 last_modified_at: 16 November 2024
 ---
 
-A collection of posts, articles, guides and podcasts about inclusive design.
+{{ excerpt }}
 
 - [6 Principles for Inclusive Design – Lillian Xiao](https://uxplanet.org/6-principles-for-inclusive-design-3e9867f7f63e)
 - [A beginner’s guide to inclusive UX design – Trina Moore Pervall](https://uxdesign.cc/a-beginners-guide-to-inclusive-ux-design-b8dcc94f5068)
