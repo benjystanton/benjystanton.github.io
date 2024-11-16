@@ -34,6 +34,10 @@ That is probably our fault for not communicating it well enough. And I suppose t
 
 The positives are that I’m reflecting on how I can do a better job next time. I know my old team and department are doing that too.
 
+### Update
+
+I feel like I should add that this is not a criticism of the assessment panel. Just a bit of frustration that it's difficult to sum up months of work into a few hours. I'm also inexperienced at service assessments. It's also partly sour grapes from me, and I'm just letting off some steam.
+
 ## Inclusive design resources
 
 I updated my list of [inclusive design resources](/blog/inclusive-design-resources).
