@@ -25,12 +25,11 @@ We decided to go to Manchester because of the weekend date and more relaxed rule
 
 I love Manchester, having been here a few times for work over the years. We even got the tram past my the WeWork office that [Swirrl](https://www.swirrl.com/) used to work in.
 
-We were hoping to walk around the Christmas markets but it was raining so we (I) decided to go to the [Northern Monk bar](https://www.northernmonk.com/pages/manchester) for some IPA and burgers. Luckily there was plenty of space so we could dry off and warm up too.
+We were hoping to walk around the Christmas markets but it was raining so we (I) decided to go to the [Northern Monk bar](https://www.northernmonk.com/pages/manchester) for some IPA and burgers. Luckily there was plenty of space so we could dry off and warm up too. From here we headed to the gig. 
 
-The band played a good selection of songs from all 5 albums and ended with a request section where they played covers requested by the audience. This included common people by pulp, last night by the strokes, love fool by the cardigans and hot to go by Chappell Roan (for the gen Zs). 
+The band played a great selection of songs from all 5 albums (they have so many good songs) and ended with a request section where they played covers requested by the audience. This included Common People by Pulp, Last Nite by The Strokes, Lovefool by The Cardigans and HOT TO GO! by Chappell Roan (for the gen Zs). 
 
-The crowd were really up for it by this point and the atmosphere was great. b
-But I thought it was a shame they didn’t take any requests for Mancunian bands (despite repeated calls for oasis). 
+The crowd were really up for it by this point and the atmosphere was great. But I thought it was a shame they didn’t take any requests for Mancunian bands (despite repeated calls for oasis). 
 
 I was a bit nervous about taking the kids to a proper gig to be honest, even though they have done festivals before (they are aged between 8 and 13). But they absolutely loved it, even if they were flagging by the end of the mammoth 2 plus hours set. 
 
