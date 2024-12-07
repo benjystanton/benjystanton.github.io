@@ -14,6 +14,7 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.addPassthroughCopy({"./src/favicons/" : "./"});
     eleventyConfig.addPassthroughCopy('./src/robots.txt');
     eleventyConfig.addPassthroughCopy('./src/subscriptions.xml');
+    eleventyConfig.addPassthroughCopy('./src/.well-known/atproto-did');
     eleventyConfig.addPlugin(pluginRss);
 
     return {
