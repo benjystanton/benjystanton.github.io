@@ -13,7 +13,7 @@ excerpt: "My notes on how interaction designers can work with software developer
 I shared this earlier in the week and wanted to expand on it a bit…
 
 > … I think the value an interaction designer can bring to how digital products are delivered (as in … working alongside devs and getting things into production, in a good usable, accessible state) is really undervalued. Creating rough prototypes is only half the battle!<br>
-— [Bluesky on Dec 4, 2023 at 17:57](https://bsky.app/profile/benjystanton.bsky.social/post/3kfqfhhmmf62k)
+— [Bluesky on Dec 4, 2023 at 17:57](https://bsky.app/profile/benjystanton.co.uk/post/3kfqfhhmmf62k)
 
 Here are some things I try to do (I never manage to do all of these things, all of the time, though). I've focused on my experience of working in UK gov, but hopefully the principles will apply elsewhere too.
 

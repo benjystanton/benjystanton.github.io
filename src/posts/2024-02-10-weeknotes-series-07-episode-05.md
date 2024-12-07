@@ -49,7 +49,7 @@ This page by The Ally Project is also good primer on [creating valid and accessi
 
 Bluesky seems to be emerging as the place for government digital people to migrate to, now that Elon is ruining Twitter. If you want to try it out, it’s open for anyone to sign up to…
 
-[View my profile or join Bluesky](https://bsky.app/profile/benjystanton.bsky.social)
+[View my profile or join Bluesky](https://bsky.app/profile/benjystanton.co.uk)
 
 Bluesky is far from perfect, but I really hope we (as a community) find somewhere that rekindles the spirit of early Twitter.
 

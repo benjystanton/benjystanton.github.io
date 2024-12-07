@@ -25,7 +25,7 @@ Updated 7 December 2024.
 
 ## Over-sharing
 
-- Posting on [Bluesky](https://bsky.app/profile/benjystanton.bsky.social)
+- Posting on [Bluesky](https://bsky.app/profile/benjystanton.co.uk)
 - Sharing [weeknotes](/blog/category/weeknotes)
 - My latest [user manual for me](/blog/a-user-manual-for-me-version-3/)
 - Read more [about me](/about)

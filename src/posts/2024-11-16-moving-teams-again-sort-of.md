@@ -24,7 +24,7 @@ Wow Bluesky really took off this week didn’t it? The US election results tippe
 
 And for now the people running it seem to be making good choices about the future roadmap. Sounds like they need to prioritise accessibility though.
 
-Follow me on Bluesky: [@benjystanton.bsky.social](https://bsky.app/profile/benjystanton.bsky.social)
+Follow me on Bluesky: [@benjystanton.co.uk](https://bsky.app/profile/benjystanton.co.uk)
 
 ## Service assessment results
 
