@@ -7,15 +7,15 @@ tags:
 - page
 ---
 
-Updated 24 November 2024.
+Updated 7 December 2024.
 
 ## Personal
 
 - Living in: [Swansea](/blog/things-to-do-in-swansea/)
 - Next gig: Eyehategod
 - Listening to: [Spotify playlist](https://open.spotify.com/playlist/4gOOXjZ8qgSvdmbeLoFsCc)
-- Current coffee: <a href="https://friedhats.com/pages/peru-1">Friedhats Peru</a>
-- Watching: Yellowstone</a>
+- Current coffee: <a href="https://www.origincoffee.co.uk/products/resolute">Origin Resolute</a>
+- Watching: Yellowstone
 
 ## Work
 
