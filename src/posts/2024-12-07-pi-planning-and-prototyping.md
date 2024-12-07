@@ -16,7 +16,7 @@ I didn't do a work weeknote last week, so this post covers the whole 2 week spri
 
 I spent 2 days in London at the beginning of the sprint for PI planning. It's the first time I've attended PI planning, in the past I've worked on teams that have done it, but this is the first time I've been invited.
 
-Basically it was an opportunity for all the engineers, delivery managers and architects to get together and plan the next 5 sprints of work. There are multiple teams with cross dependencies, working together on a big programme of work.
+Basically it was an opportunity for all the engineers, delivery managers and architects to get together and plan the next 5 sprints of work. There are multiple teams with cross dependencies, working together on a big program of work.
 
 Overall I thought it was a really well organised and worthwhile event.
 
