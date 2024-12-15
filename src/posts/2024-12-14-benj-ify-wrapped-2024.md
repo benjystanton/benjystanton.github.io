@@ -32,7 +32,7 @@ excerpt: "I wish Spotify Wrapped included live music, so here is my 2024 run dow
 9. [Ynys](https://ynysmusic.bandcamp.com/), [Mojo JNR](https://www.instagram.com/itsmojojnr/), [Ffredi Blino](https://www.instagram.com/ffredi.blino/) and [Big Red Car ](https://www.instagram.com/bigredcar_band/)
 10. [Ssssnakes](https://ssssnakes.bandcamp.com/) and [The Groundnuts & Independents](https://thegroundnutsandindependents.bandcamp.com/)
 11. [Panic Shack ](https://www.instagram.com/panicshack/)
-12. [Melyn Melin](https://melinmelyn.bandcamp.com/) and [Mari Mathias](https://marimathiasmusic.squarespace.com/) (Highlight ⭐ )
+12. [Melin Melyn](https://melinmelyn.bandcamp.com/) and [Mari Mathias](https://marimathiasmusic.squarespace.com/) (Highlight ⭐)
 13. [Positive Reaction](https://www.instagram.com/positive_reactionhc/), [Damek](https://damekband.bandcamp.com/), [Penny Rich](https://www.instagram.com/pennyrichband/) and [Silverburn](https://www.instagram.com/slvrbrn/)
 14. [Vampire Weekend](https://www.vampireweekend.com/)
 15. [Eyehategod](https://eyehategod.ee/) and [Goatwhore](https://www.instagram.com/goatwhorenola) (not my cup of tea ❌☕)
