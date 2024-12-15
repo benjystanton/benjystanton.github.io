@@ -7,28 +7,29 @@ tags:
 - page
 ---
 
-Updated 7 December 2024.
+Updated 15 December 2024.
 
 ## Personal
 
 - Living in: [Swansea](/blog/things-to-do-in-swansea/)
-- Next gig: Eyehategod
+- Next gig: Georgia Ruth
 - Listening to: [Spotify playlist](https://open.spotify.com/playlist/4gOOXjZ8qgSvdmbeLoFsCc)
-- Current coffee: <a href="https://www.origincoffee.co.uk/products/resolute">Origin Resolute</a>
+- Coffee: Coaltown Candy Cane
 - Watching: Yellowstone
+- Reading: Piranesi
 
 ## Work
 
-- Working as a contract interaction designer
-- Using these [tools for designing](/uses)
+- Work: contract interaction designer
+- Using: [tools for designing](/uses)
 - Last user research session: 20 November 2024
 
 ## Over-sharing
 
-- Posting on [Bluesky](https://bsky.app/profile/benjystanton.co.uk)
-- Sharing [weeknotes](/blog/category/weeknotes)
+- Posting on: [Bluesky](https://bsky.app/profile/benjystanton.co.uk)
+- Sharing: [weeknotes](/blog/category/weeknotes)
 - My latest [user manual for me](/blog/a-user-manual-for-me-version-3/)
-- Read more [about me](/about)
+- Read more: [about me](/about)
 
 ## About now pages
 
