@@ -8,7 +8,7 @@ tags:
 excerpt: "I’ve set myself a challenge to visit all the beaches in Swansea and Gower. There are about 39 in total."
 image: "three-chimneys-square.jpg"
 image-alt: "Rocky cliffs from the beach. A hole has formed in the rocks and you can see blue sky through the middle."
-last_modified_at: 22 August 2023
+last_modified_at: 3 January 2025
 ---
 
 {{ excerpt }}
@@ -17,7 +17,7 @@ We visit some of these beaches regularly, but loads are completely new to me. No
 
 ## Very important stats
 
-- Beaches visited: 16 of 39 (41%)
+- Beaches visited: 17 of 39 (44%)
 - Longest continuous stretch: 9 beaches
 - Seals spotted: 0
 
@@ -131,6 +131,18 @@ We visit some of these beaches regularly, but loads are completely new to me. No
 - Date: 3 December 2022
 - Location: [Brandy Cove on Open Street Map](https://www.openstreetmap.org/#map=17/51.56784/-4.04355)
 
+## Foxhole
+
+{%
+  include 'partials/image-with-caption.html'
+  image:"foxhole.jpg"
+  caption:"Looking south east, towards the sunrise behind the cliffs"
+  alt-text:"Rocky cove at sunrise. The sun is behind the cliff so the rocks are dark but the sky is blue and there is a orange glow on the horizon. The tide is high."
+%}
+
+- Date: 3 January 2025
+- Location: [Foxhole on Open Street Map](https://www.openstreetmap.org/#map=17/51.563726/-4.089103)
+
 ## Rhossili
 
 {%
@@ -217,22 +229,22 @@ We visit some of these beaches regularly, but loads are completely new to me. No
 
 ***
 
-## All the beaches in Swansea and Gower
+## Swansea and Gower beach checklist
 
 1. Jersey Marine Beach
-2. ~~Swansea Bay~~
-3. ~~Knab Rock~~
-4. ~~Mumbles Head~~
-5. ~~Bracelet Bay~~
-6. ~~Limeslade Beach~~
-7. ~~Rotherslade Bay~~
-8. ~~Langland Bay~~
-9. ~~Caswell Bay~~
-10. ~~Brandy Cove~~
+2. ~~Swansea Bay~~ ✅
+3. ~~Knab Rock~~ ✅
+4. ~~Mumbles Head~~ ✅
+5. ~~Bracelet Bay~~ ✅
+6. ~~Limeslade Beach~~ ✅
+7. ~~Rotherslade Bay~~ ✅
+8. ~~Langland Bay~~ ✅
+9. ~~Caswell Bay~~ ✅
+10. ~~Brandy Cove~~ ✅
 11. Pwll Du Bay
 12. Bantam Bay
 13. Hunts Bay / Deep Slade
-14. Foxhole
+14. ~~Foxhole~~ ✅
 15. Pobbles Bay
 16. Three Cliffs Bay
 17. Tor Bay
@@ -250,11 +262,15 @@ We visit some of these beaches regularly, but loads are completely new to me. No
 29. Butterslade
 30. Mewslade Bay
 31. Fall Bay 
-32. ~~Rhossili~~
-33. ~~Llangennith~~
-34. ~~Burry Holms~~
-35. ~~Blue Pool Bay~~
-36. ~~Little Broughton~~
-37. ~~Broughton Bay~~
-38. ~~Whiteford Sands~~
+32. ~~Rhossili~~ ✅
+33. ~~Llangennith~~ ✅
+34. ~~Burry Holms~~ ✅
+35. ~~Blue Pool Bay~~ ✅
+36. ~~Little Broughton~~ ✅
+37. ~~Broughton Bay~~ ✅
+38. ~~Whiteford Sands~~ ✅
 39. Llanrhidian Sands
+
+## Useful resources
+
+- [Beaches & Surfing in Gower by Parc Le Breos](https://parc-le-breos.co.uk/things-to-do-in-gower/gower-beach-and-surf-information/)
