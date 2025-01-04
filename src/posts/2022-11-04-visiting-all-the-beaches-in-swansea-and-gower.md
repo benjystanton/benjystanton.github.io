@@ -8,7 +8,7 @@ tags:
 excerpt: "I’ve set myself a challenge to visit all the beaches in Swansea and Gower. There are about 39 in total."
 image: "three-chimneys-square.jpg"
 image-alt: "Rocky cliffs from the beach. A hole has formed in the rocks and you can see blue sky through the middle."
-last_modified_at: 5 January 2025
+last_modified_at: 4 January 2025
 ---
 
 {{ excerpt }}
