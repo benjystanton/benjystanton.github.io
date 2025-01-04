@@ -8,7 +8,7 @@ tags:
 excerpt: "I’ve set myself a challenge to visit all the beaches in Swansea and Gower. There are about 39 in total."
 image: "three-chimneys-square.jpg"
 image-alt: "Rocky cliffs from the beach. A hole has formed in the rocks and you can see blue sky through the middle."
-last_modified_at: 3 January 2025
+last_modified_at: 5 January 2025
 ---
 
 {{ excerpt }}
@@ -17,7 +17,7 @@ We visit some of these beaches regularly, but loads are completely new to me. No
 
 ## Very important stats
 
-- Beaches visited: 17 of 39 (44%)
+- Beaches visited: 18 of 39 (46%)
 - Longest continuous stretch: 9 beaches
 - Seals spotted: 0
 
@@ -131,6 +131,18 @@ We visit some of these beaches regularly, but loads are completely new to me. No
 - Date: 3 December 2022
 - Location: [Brandy Cove on Open Street Map](https://www.openstreetmap.org/#map=17/51.56784/-4.04355)
 
+## Hunts Bay / Deep Slade
+
+{%
+  include 'partials/image-with-caption.html'
+  image:"hunts-bay.jpg"
+  caption:"Looking down to Hunts Bay from near Eastcliff Road."
+  alt-text:"Looking down a wide sweeping valley to a rocky bay. The sky is grey but there are nice muted tones of red, green and blue."
+%}
+
+- Date: 4 January 2025
+- Location: [Hunts Bay / Deep Slade on Open Street Map](https://www.openstreetmap.org/#map=17/51.561625/-4.074039)
+
 ## Foxhole
 
 {%
@@ -243,7 +255,7 @@ We visit some of these beaches regularly, but loads are completely new to me. No
 10. ~~Brandy Cove~~ ✅
 11. Pwll Du Bay
 12. Bantam Bay
-13. Hunts Bay / Deep Slade
+13. ~~Hunts Bay / Deep Slade~~ ✅
 14. ~~Foxhole~~ ✅
 15. Pobbles Bay
 16. Three Cliffs Bay
