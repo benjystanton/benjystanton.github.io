@@ -7,16 +7,15 @@ tags:
 - page
 ---
 
-Updated 15 December 2024.
+Updated 18 January 2025.
 
 ## Personal
 
 - Living in: [Swansea](/blog/things-to-do-in-swansea/)
-- Next gig: Georgia Ruth
-- Listening to: [Spotify playlist](https://open.spotify.com/playlist/4gOOXjZ8qgSvdmbeLoFsCc)
-- Coffee: Coaltown Candy Cane
-- Watching: Yellowstone
-- Reading: Piranesi
+- Next gig: [Gwilym Bowen Rhys](https://www.gwilymbowenrhys.com/)
+- Listening to: [Red Snapper](https://redsnapperofficial.com/)
+- Coffee: [The Filter Blend by Square Mile Coffee Roasters](https://shop.squaremilecoffee.com/products/the-filter-blend)
+- Challenging myself to: [visit every beach in Swansea and Gower](/blog/visiting-all-the-beaches-in-swansea-and-gower/)
 
 ## Work
 
