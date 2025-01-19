@@ -8,18 +8,17 @@ tags:
 excerpt: "I’ve set myself a challenge to visit all the beaches in Swansea and Gower. There are about 40 in total."
 image: "three-chimneys-square.jpg"
 image-alt: "Rocky cliffs from the beach. A hole has formed in the rocks and you can see blue sky through the middle."
-last_modified_at: 11 January 2025
+last_modified_at: 19 January 2025
 ---
 
 {{ excerpt }}
 
 We visit some of these beaches regularly, but loads are completely new to me. No strict rules, I’m going to include beaches I’ve visited recently, to give myself a head start.
 
-## Very important stats
-
-- Beaches visited: 20 of 40 (50%)
+- Beaches visited: 23 of 40 (58%)
 - Longest continuous stretch: 9 beaches
 - Seals spotted: 0
+- Favourite beach: Overton Mere
 
 ***
 
@@ -172,12 +171,48 @@ We visit some of these beaches regularly, but loads are completely new to me. No
 {%
   include 'partials/image-with-caption.html'
   image:"pobbles.jpg"
-  caption:"Looking east towards Three Cliffs, Tor Bay and Oxwich"
+  caption:"Looking west towards Three Cliffs, Tor Bay and Oxwich"
   alt-text:"Looking down from a grassy cliff top to a huge sweeping sandy bay."
 %}
 
 - Date: 11 January 2025
 - Location: [Pobbles on Open Street Map](https://www.openstreetmap.org/#map=17/51.568434/-4.109048)
+
+## Port Eynon
+
+{%
+  include 'partials/image-with-caption.html'
+  image:"port-eynon.jpg"
+  caption:"Looking east towards Oxwich point"
+  alt-text:"A vast sandy beach at low tide with sand dunes, white houses and green headland in the distance."
+%}
+
+- Date: 18 January 2025
+- Location: [Port Eynon on Open Street Map](https://www.openstreetmap.org/#map=17/51.543713/-4.205875)
+
+## Salt House Mere
+
+{%
+  include 'partials/image-with-caption.html'
+  image:"salt-house-mere.jpg"
+  caption:"Looking west, up towards Port Eynon point"
+  alt-text:"A sandy beach with lots of pebbles. A grassy hill in the background is in shadow and blocking the sun. The sky is bright behind the hill."
+%}
+
+- Date: 18 January 2025
+- Location: [Salt House Mere on Open Street Map](https://www.openstreetmap.org/#map=17/51.538201/-4.208053)
+
+## Overton Mere
+
+{%
+  include 'partials/image-with-caption.html'
+  image:"overton-mere.jpg"
+  caption:"Looking east towards Port Eynon point"
+  alt-text:"A grassy ledge in the foreground. A large rocky cove with huge rock pools. Green cliffs in the background and blue sky."
+%}
+
+- Date: 18 January 2025
+- Location: [Overton Mere on Open Street Map](https://www.openstreetmap.org/#map=17/51.541217/-4.216325)
 
 ## Rhossili
 
@@ -289,9 +324,9 @@ We visit some of these beaches regularly, but loads are completely new to me. No
 20. Oxwich Bay
 21. Slade Sands
 22. The Cove / Horton Beach
-23. Port Eynon
-24. Salt House Mere
-25. Overton Mere
+23. ~~Port Eynon~~ ✅
+24. ~~Salt House Mere~~ ✅
+25. ~~Overton Mere~~ ✅
 26. Common Cliff
 27. Foxhole Slade
 28. Knave Bay
