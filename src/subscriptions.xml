@@ -2,13 +2,14 @@
 <opml version="1.0">
   <head>
     <title>RSS subscriptions for benjystanton@gmail.com</title>
-    <dateCreated>Tue, 12 Mar 2024 20:01:08 +0000</dateCreated>
+    <dateCreated>Sat, 01 Feb 2025 08:30:39 +0000</dateCreated>
     <ownerEmail>benjystanton@gmail.com</ownerEmail>
   </head>
   <body>
     <outline text="Design" title="Design">
+<outline text="Accessibility in government" title="Accessibility in government" type="rss" xmlUrl="https://accessibility.blog.gov.uk/feed/" htmlUrl="https://accessibility.blog.gov.uk"/>
 <outline text="Matt Jukes" title="Matt Jukes" type="rss" xmlUrl="https://digitalbydefault.com/feed/" htmlUrl="https://digitalbydefault.com"/>
-<outline text="Aegir Hallmundur" title="Aegir Hallmundur" type="rss" xmlUrl="http://aegir.org/words/feed" htmlUrl="http://aegir.org/words"/>
+<outline text="Aegir Hallmundur" title="Aegir Hallmundur" type="rss" xmlUrl="http://aegir.org/words/feed" htmlUrl="http://aegir.org"/>
 <outline text="Ethan Marcotte" title="Ethan Marcotte" type="rss" xmlUrl="https://ethanmarcotte.com/wrote/feed.xml" htmlUrl="https://ethanmarcotte.com"/>
 <outline text="Paul Robert Lloyd" title="Paul Robert Lloyd" type="rss" xmlUrl="https://paulrobertlloyd.com/feed.xml" htmlUrl="https://paulrobertlloyd.com"/>
 <outline text="Adam Silver" title="Adam Silver" type="rss" xmlUrl="https://adamsilver.io/atom.xml" htmlUrl="https://adamsilver.io"/>
@@ -18,13 +19,14 @@
 <outline text="Max Böck" title="Max Böck" type="rss" xmlUrl="https://mxb.dev/feed.xml" htmlUrl="https://mxb.dev"/>
 <outline text="Amy Hupe" title="Amy Hupe" type="rss" xmlUrl="https://amyhupe.co.uk/atom.xml" htmlUrl="https://amyhupe.co.uk"/>
 <outline text="Andrew Duckworth" title="Andrew Duckworth" type="rss" xmlUrl="https://grillopress.github.io/feed.xml" htmlUrl="https://grillopress.github.io/"/>
-<outline text="Steve Messer" title="Steve Messer" type="rss" xmlUrl="https://visitmy.website/feed.xml" htmlUrl="https://visitmy.website"/>
+<outline text="Steve Messer" title="Steve Messer" type="rss" xmlUrl="https://visitmy.website/feed.xml" htmlUrl="https://visitmy.website/"/>
 <outline text="Adrian Roselli" title="Adrian Roselli" type="rss" xmlUrl="https://adrianroselli.com/feed" htmlUrl="https://adrianroselli.com"/>
 <outline text="Heydon Pickering" title="Heydon Pickering" type="rss" xmlUrl="https://heydonworks.com/feed.xml" htmlUrl="https://heydonworks.com"/>
 <outline text="Reagan Ray" title="Reagan Ray" type="rss" xmlUrl="https://reaganray.com/feed.xml" htmlUrl="https://reaganray.com/"/>
 <outline text="Sarah Fossheim" title="Sarah Fossheim" type="rss" xmlUrl="https://fossheim.io/feed.xml" htmlUrl="https://fossheim.io/"/>
 <outline text="Léonie Watson" title="Léonie Watson" type="rss" xmlUrl="https://tink.uk/feed.xml" htmlUrl="https://tink.uk/"/>
 <outline text="Manuel Matuzović" title="Manuel Matuzović" type="rss" xmlUrl="https://www.matuzo.at/feed_all.xml" htmlUrl="https://www.matuzo.at"/>
+<outline text="kubabartwicki.com" title="kubabartwicki.com" type="rss" xmlUrl="https://www.kubabartwicki.com/feed/feed.xml" htmlUrl="https://www.kubabartwicki.com/"/>
 <outline text="Giles Turnbull" title="Giles Turnbull" type="rss" xmlUrl="https://gilest.org/feed/index.xml" htmlUrl="https://gilest.org"/>
 <outline text="Tatiana Mac" title="Tatiana Mac" type="rss" xmlUrl="https://www.tatianamac.com/feed/feed.xml" htmlUrl="https://www.tatianamac.com/"/>
 <outline text="Craig Abbott" title="Craig Abbott" type="rss" xmlUrl="https://www.craigabbott.co.uk/feed.xml" htmlUrl="https://www.craigabbott.co.uk/"/>
@@ -34,6 +36,7 @@
 <outline text="Darin Senneff" title="Darin Senneff" type="rss" xmlUrl="https://www.darins.page/articles/feed" htmlUrl="https://www.darins.page"/>
 <outline text="Sara Soueidan" title="Sara Soueidan" type="rss" xmlUrl="https://www.sarasoueidan.com/blog/index.xml/" htmlUrl="https://sarasoueidan.com/"/>
 <outline text="Crystal Preston-Watson" title="Crystal Preston-Watson" type="rss" xmlUrl="https://crystalprestonwatson.com/feed/" htmlUrl="https://crystalprestonwatson.com"/>
+<outline text="Blog - Good Services" title="Blog - Good Services" type="rss" xmlUrl="https://good.services/blog?format=rss" htmlUrl="https://good.services/blog/"/>
 <outline text="Ian Ames" title="Ian Ames" type="rss" xmlUrl="https://ames.world/index.xml" htmlUrl="https://ames.world/"/>
 <outline text="Ann Kempster" title="Ann Kempster" type="rss" xmlUrl="https://blog.annkempster.com/rss/" htmlUrl="https://blog.annkempster.com/"/>
 <outline text="Kate Every" title="Kate Every" type="rss" xmlUrl="https://medium.com/feed/@kate-every" htmlUrl="https://medium.com/@kate-every"/>
@@ -44,6 +47,11 @@
 <outline text="Shaun Conner" title="Shaun Conner" type="rss" xmlUrl="https://sconner.net/feed.xml" htmlUrl="https://sconner.net/"/>
 <outline text="Barry Khan" title="Barry Khan" type="rss" xmlUrl="https://barrykhan.co.uk/feed/feed.xml" htmlUrl="https://barrykhan.co.uk"/>
 <outline text="Jacquelyn Iyamah" title="Jacquelyn Iyamah" type="rss" xmlUrl="https://medium.com/feed/@jacquelyn.iyamah" htmlUrl="https://medium.com/@jacquelyn.iyamah"/>
+<outline text="Gavin Elliott" title="Gavin Elliott" type="rss" xmlUrl="https://www.gavinelliott.co.uk/feed/" htmlUrl="https://www.gavinelliott.co.uk"/>
+<outline text="Tim Paul" title="Tim Paul" type="rss" xmlUrl="https://www.timpaul.co.uk/feed/feed.xml" htmlUrl="https://www.timpaul.co.uk/"/>
+<outline text="Chris Yoong" title="Chris Yoong" type="rss" xmlUrl="https://chrisyoong.com/api/rss.xml" htmlUrl="http://chrisyoong.com"/>
+<outline text="Owen Jones is online" title="Owen Jones is online" type="rss" xmlUrl="https://owenis.online/feed.xml" htmlUrl="https://owenis.online/"/>
+<outline text="Nia Campbell" title="Nia Campbell" type="rss" xmlUrl="https://medium.com/feed/@niacampbell" htmlUrl="https://medium.com/@niacampbell"/>
     </outline>
   </body>
 </opml>
