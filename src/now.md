@@ -7,7 +7,7 @@ tags:
 - page
 ---
 
-Updated 18 January 2025.
+Updated 4 February 2025.
 
 ## Personal
 
@@ -21,7 +21,7 @@ Updated 18 January 2025.
 
 - Work: contract interaction designer
 - Using: [tools for designing](/uses)
-- Last user research session: 20 November 2024
+- Last user research session: 29 January 2025
 
 ## Over-sharing
 
