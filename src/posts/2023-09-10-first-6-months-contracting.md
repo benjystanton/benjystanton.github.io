@@ -5,6 +5,7 @@ tags:
 - post
 - Freelance
 excerpt: "I’ve just started my 6th month as a contractor, and wanted to share some notes around the practicalities of being employed inside IR35."
+last_modified_at: 5 February 2025
 ---
 {{ excerpt }}
 
@@ -12,9 +13,11 @@ excerpt: "I’ve just started my 6th month as a contractor, and wanted to share 
 
 I’m writing this from the perspective of being inside IR35.
 
-This means that I'm not self-employed, or running my own business. I'm employed by an Umbrella company who sort my pay, tax, pension and liability insurance (for a weekly fee).
+This means that I'm not self-employed, or running my own business. I'm employed by an umbrella company who sort my pay, (most of) my tax, my pension and my liability insurance (all for a weekly fee).
 
-A big chunk of my daily rate disappears before it comes to me, but I don't need to worry about saving for my tax bill or much of the paperwork associated with running a business or limited company.
+A big chunk of my daily rate disappears before it comes to me, and a lot of my tax is collected at this point via PAYE (pay as you earn). But I still need need put some money aside each month for paying my tax bill. I paid an extra fee for someone at my umbrella company to file my tax return, so that I knew exactly how much tax I owed.
+
+Apart from that, I don't need to worry about the paperwork associated with running a business or a limited company.
 
 Inside IR35 daily rates tend to be higher too, which helps to balance out the fact that the tax situation is less favourable.
 
@@ -64,7 +67,9 @@ There are 2 routes for me to cover the costs…
 
 I've tried both, but claiming it back later doesn't seem to work very well so far. Just like my time sheets, expenses have to be entered into my recruitment agency's system, then approved by my line manager before the funds can get to me, via my umbrella company.
 
-Even though it seems pretty clear to me that this is an allowable expense, my Umbrella company, needed to do an ad-hoc investigation into it, to make sure they are satisfying HMRC's rules. If the expense isn't deemed allowable, then it's taxed like income.
+(Update: option 2 has now been recommended to me as the preferred route by my manager).
+
+Even though it seems pretty clear to me that this is an allowable expense, my umbrella company, needed to do a one-off (?) ad-hoc investigation into it, to make sure they are satisfying HMRC's rules. If the expense isn't deemed allowable, then it's taxed like income.
 
 The upshot is, I've been out of pocket for weeks. I've heard horror stories about others who have lost out much more, and waited too long to act and now may never get the full amount back.
 
@@ -75,3 +80,9 @@ In the end though, I count myself very lucky that I’m able to work this way an
 ## Next time
 
 Next time I'd like to blog more about savings (as a contractor you need to put a lot aside) and benefits (as a contractor you don't get many employment benefits).
+
+## Related
+
+- [So you're thinking of becoming a contractor by Ian Ames](https://ames.world/en/posts/so-youre-thinking-of-becoming-a-contractor/)
+- [Reflecting on a year of contracting by Stéphanie Krus](https://blog.chezleskrus.com/2024/10/13/reflecting-on-a-year-of-contracting/)
+- [Understanding off-payroll working (IR35) by GOV.UK](https://www.gov.uk/guidance/understanding-off-payroll-working-ir35)
