@@ -7,13 +7,13 @@ tags:
 - page
 ---
 
-Updated 4 February 2025.
+Updated 10 February 2025.
 
 ## Personal
 
 - Living in: [Swansea](/blog/things-to-do-in-swansea/)
-- Next gig: [Gwilym Bowen Rhys](https://www.gwilymbowenrhys.com/)
-- Listening to: [Red Snapper](https://redsnapperofficial.com/)
+- Next gig: [Jake Xerxes Fussell](https://www.jakexerxesfussell.com/)
+- Listening to: [Plu](https://pluband.bandcamp.com/)
 - Coffee: [The Filter Blend by Square Mile Coffee Roasters](https://shop.squaremilecoffee.com/products/the-filter-blend)
 - Challenging myself to: [visit every beach in Swansea and Gower](/blog/visiting-all-the-beaches-in-swansea-and-gower/)
 
@@ -21,7 +21,7 @@ Updated 4 February 2025.
 
 - Work: contract interaction designer
 - Using: [tools for designing](/uses)
-- Last user research session: 29 January 2025
+- Last user research session: 11 February 2025
 
 ## Over-sharing
 
