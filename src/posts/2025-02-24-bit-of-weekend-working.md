@@ -64,7 +64,7 @@ I'd like to record these videos every sprint in future.
 
 ## Paper prototyping
 
-One more things to mention, as I've blogged in previous weeknotes, I'm really enjoying prototyping the physical parts of the users' journey for this project.
+One more thing to mention, as I've blogged in previous weeknotes, I'm really enjoying prototyping the physical parts of the users' journey for this project.
 
 For this iteration, I've mocked-up some lo-fi paper artefacts to help users get into the mindset of the task. They don't contain much in the way of realistic content, so I'm hoping they enhance the scenario, without users getting distracted by specific details that could become out of date. Let's see.
 
