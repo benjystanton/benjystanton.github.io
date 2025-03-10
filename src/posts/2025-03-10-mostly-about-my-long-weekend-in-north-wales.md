@@ -35,6 +35,8 @@ Llechwydd is near Blaenau Ffestiniog a town that is surrounded by huge mountains
 
 On the drive back home through Gwynedd and then Ceredigion (passing through some more beautiful scenery) we spotted some graffiti with the phrase [<span lang="cy">Cofiwch Dryweryn</span>](https://en.wikipedia.org/wiki/Cofiwch_Dryweryn). Welsh for Remember Tryweryn, it marks the flooding of a Welsh valley in the '60s, to create a reservoir, which destroyed the communities that lived there.
 
+Without realising, we'd driven past the reservoir (Llyn Celyn), on our way from Bala to Llechwydd earlier that day.
+
 ## Bookmarks
 
 - [18F](https://18f.org/)
