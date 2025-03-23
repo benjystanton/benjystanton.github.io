@@ -8,6 +8,8 @@ tags:
 excerpt: "A double weeknote starting 3 February 2025."
 --- 
 
+{{ excerpt }}
+
 These past couple of weeks have been a whirlwind. After our first round of user research 2 weeks ago (which really took up most of the week) we found out that our user researcher was sadly leaving.
 
 This put a little extra pressure on an already busy week. We needed to analyse findings, playback the results, visit London to meet some stakeholders and learn more about the as-is products, and iterate the prototype ready for our next round of user research. Thanks to our great stand-in user researcher for helping us avoid postponing any of our plans. Our content designer also did some great work reviewing content with some policy folks.

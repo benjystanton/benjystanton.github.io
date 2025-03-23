@@ -7,6 +7,8 @@ tags:
 excerpt: "A trip to Llandeilo to the Gwilym Bowen Rhys Trio and Cadog"
 --- 
 
+{{ excerpt }}
+
 This weekend I went to see the [Gwilym Bowen Rhys Trio](https://www.gwilymbowenrhys.com/) (with support from [Cadog](https://www.instagram.com/2cadog/)) at a cafe in Llandeilo, a town about 40 minutes from Swansea.
 
 I’ve seen a few Welsh language gigs recently, but this was the first one I’ve been to when the staff, crowd and bands spoke exclusively in Welsh.

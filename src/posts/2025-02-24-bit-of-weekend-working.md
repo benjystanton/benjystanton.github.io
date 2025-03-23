@@ -8,6 +8,8 @@ tags:
 excerpt: "A weeknote starting 18 February 2025."
 --- 
 
+{{ excerpt }}
+
 These weeknotes are a little late. I was catching up on work over the weekend, so couldn't really justify blogging. But, now I've got a few spare hours on the train, so plenty of time to reflect on last week.
 
 I'm heading off to our 3rd user research trip. Another 2 two days spent at an operational area, observing users and doing usability tests.

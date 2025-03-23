@@ -8,6 +8,8 @@ tags:
 excerpt: "A weeknote starting 20 January 2025."
 --- 
 
+{{ excerpt }}
+
 In work, it felt like the team was really working well together by the end of this week. A lot of stuff has happened recently (onboarding at different times, people leaving and joining, holidays, Christmas) so we've struggled to really get a good rhythm going, until now.
 
 We have 3 user research trips on the horizon, which will include visiting 3 to 5 different locations around the UK. The first is next week, and I'm looking forward to getting things in front of users for the first time.

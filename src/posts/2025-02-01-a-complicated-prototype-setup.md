@@ -8,6 +8,8 @@ tags:
 excerpt: "A weeknote starting 27 January 2025."
 --- 
 
+{{ excerpt }}
+
 I've just got back from our research trip. It felt like a successful few days, we learnt lots and I think our prep work had paid off.
 
 We did 6 sessions that were a mix of semi-structured interviews with usability testing. And we did 2 sessions of observing the as-is live product.
