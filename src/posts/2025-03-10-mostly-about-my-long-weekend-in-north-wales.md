@@ -9,6 +9,8 @@ tags:
 excerpt: "A weeknote starting 3 March 2025."
 --- 
 
+{{ excerpt }}
+
 ## PI (program increment) planning
 
 I'm heading to London today to join PI (program increment) planning tomorrow. So I'm writing these notes a bit late, from the train (again).

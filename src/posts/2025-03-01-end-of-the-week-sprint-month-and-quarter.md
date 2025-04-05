@@ -8,6 +8,8 @@ tags:
 excerpt: "A weeknote starting 24 February 2025."
 --- 
 
+{{ excerpt }}
+
 <div class="panel">
 🏴󠁧󠁢󠁷󠁬󠁳󠁿 <span lang="cy"> Dydd Gŵyl Dewi Hapus</span> (Happy St David's Day)!
 </div>
