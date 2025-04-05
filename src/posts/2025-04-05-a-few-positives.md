@@ -5,7 +5,7 @@ tags:
 - post
 - Weeknotes
 - Season 2
-excerpt: "A weeknote starting 5 April 2025."
+excerpt: "A double weeknote starting 24 March 2025."
 --- 
 
 {{ excerpt }}
