@@ -6,6 +6,7 @@ tags:
 - Weeknotes
 - Research
 - Season 2
+- Interaction design
 excerpt: "A weeknote starting 4 November 2024."
 --- 
 

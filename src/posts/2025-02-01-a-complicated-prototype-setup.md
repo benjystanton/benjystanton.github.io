@@ -5,6 +5,7 @@ tags:
 - post
 - Weeknotes
 - Season 2
+- Interaction design
 excerpt: "A weeknote starting 27 January 2025."
 --- 
 

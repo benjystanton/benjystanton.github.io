@@ -5,6 +5,7 @@ tags:
 - post
 - Weeknotes
 - Season 2
+- Interaction design
 excerpt: "Another double weeknote, starting 9 December 2024."
 --- 
 
