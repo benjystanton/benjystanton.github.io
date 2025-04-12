@@ -8,14 +8,14 @@ tags:
 excerpt: "I’ve set myself a challenge to visit all the beaches in Swansea and Gower. There are about 40 in total."
 image: "three-chimneys-square.jpg"
 image-alt: "Rocky cliffs from the beach. A hole has formed in the rocks and you can see blue sky through the middle."
-last_modified_at: 19 January 2025
+last_modified_at: 12 April 2025
 ---
 
 {{ excerpt }}
 
 We visit some of these beaches regularly, but loads are completely new to me. No strict rules, I’m going to include beaches I’ve visited recently, to give myself a head start.
 
-- Beaches visited: 23 of 40 (58%)
+- Beaches visited: 24 of 40 (60%)
 - Longest continuous stretch: 9 beaches
 - Seals spotted: 0
 - Favourite beach: Overton Mere
@@ -178,6 +178,18 @@ We visit some of these beaches regularly, but loads are completely new to me. No
 - Date: 11 January 2025
 - Location: [Pobbles on Open Street Map](https://www.openstreetmap.org/#map=17/51.568434/-4.109048)
 
+## Oxwich Bay
+
+{%
+  include 'partials/image-with-caption.html'
+  image:"oxwich.jpeg"
+  caption:"Sauna at Oxwich Bay"
+  alt-text:"A wooden barrel sauna on a trailer on the beach. The tide is out in the background and it's cloudy."
+%}
+
+- Date: 13 March 2025
+- Location: [Oxwich Bay on Open Street Map](https://www.openstreetmap.org/#map=16/51.55589/-4.16103)
+
 ## Port Eynon
 
 {%
@@ -321,7 +333,7 @@ We visit some of these beaches regularly, but loads are completely new to me. No
 17. Three Cliffs Bay
 18. Tor Bay
 19. Nicholaston / Crawley Beach
-20. Oxwich Bay
+20. ~~Oxwich Bay~~ ✅
 21. Slade Sands
 22. The Cove / Horton Beach
 23. ~~Port Eynon~~ ✅
