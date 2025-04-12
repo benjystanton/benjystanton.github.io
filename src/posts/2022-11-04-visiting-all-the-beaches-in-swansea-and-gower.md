@@ -22,7 +22,7 @@ We visit some of these beaches regularly, but loads are completely new to me. No
 
 ***
 
-## Swansea Bay
+<h2 id="swansea-bay">Swansea Bay</h2>
 
 {%
   include 'partials/image-with-caption.html'
@@ -34,7 +34,7 @@ We visit some of these beaches regularly, but loads are completely new to me. No
 - Date: 8 March 2022
 - Location: [Swansea Bay on Open Street Map](https://www.openstreetmap.org/#map=17/51.60491/-3.98236)
 
-## Knab Rock
+<h2 id="knab-rock">Knab Rock</h2>
 
 {%
   include 'partials/image-with-caption.html'
@@ -46,7 +46,7 @@ We visit some of these beaches regularly, but loads are completely new to me. No
 - Date: 28 July 2022
 - Location: [Knab Rock on Open Street Map](https://www.openstreetmap.org/#map=17/51.57106/-3.98029)
 
-## Mumbles Head Beach
+<h2 id="mumbles-head-beach">Mumbles Head Beach</h2>
 
 {%
   include 'partials/image-with-caption.html'
@@ -58,7 +58,7 @@ We visit some of these beaches regularly, but loads are completely new to me. No
 - Date: 19 November 2022
 - Location: [Mumbles Head Beach on Open Street Map](https://www.openstreetmap.org/#map=17/51.56857/-3.97628)
 
-## Bracelet Bay
+<h2 id="bracelet-bay">Bracelet Bay</h2>
 
 {%
   include 'partials/image-with-caption.html'
@@ -70,7 +70,7 @@ We visit some of these beaches regularly, but loads are completely new to me. No
 - Date: 16 October 2022
 - Location: [Bracelet Bay on Open Street Map](https://www.openstreetmap.org/#map=17/51.567019/-3.978289)
 
-## Limeslade Beach
+<h2 id="limeslade-beach">Limeslade Beach</h2>
 
 {%
   include 'partials/image-with-caption.html'
@@ -82,7 +82,7 @@ We visit some of these beaches regularly, but loads are completely new to me. No
 - Date: 14 November 2022
 - Location: [Limeslade Beach on Open Street Map](https://www.openstreetmap.org/#map=17/51.56617/-3.98436)
 
-## Rotherslade Bay
+<h2 id="rotherslade-bay">Rotherslade Bay</h2>
 
 {%
   include 'partials/image-with-caption.html'
@@ -94,7 +94,7 @@ We visit some of these beaches regularly, but loads are completely new to me. No
 - Date: 4 November 2022
 - Location: [Rotherslade Bay on Open Street Map](https://www.openstreetmap.org/#map=17/51.567/-4.007)
 
-## Langland Bay
+<h2 id="langland-bay">Langland Bay</h2>
 
 {%
   include 'partials/image-with-caption.html'
@@ -106,7 +106,7 @@ We visit some of these beaches regularly, but loads are completely new to me. No
 - Date: 9 October 2022
 - Location: [Langland Bay on Open Street Map](https://www.openstreetmap.org/#map=17/51.56680/-4.01322)
 
-## Caswell Bay
+<h2 id="caswell-bay">Caswell Bay</h2>
 
 {%
   include 'partials/image-with-caption.html'
@@ -118,7 +118,7 @@ We visit some of these beaches regularly, but loads are completely new to me. No
 - Date: 6 February 2022
 - Location: [Caswell Bay on Open Street Map](https://www.openstreetmap.org/#map=17/51.56865/-4.03344)
 
-## Brandy Cove
+<h2 id="brandy-cove">Brandy Cove</h2>
 
 {%
   include 'partials/image-with-caption.html'
@@ -130,7 +130,7 @@ We visit some of these beaches regularly, but loads are completely new to me. No
 - Date: 3 December 2022
 - Location: [Brandy Cove on Open Street Map](https://www.openstreetmap.org/#map=17/51.56784/-4.04355)
 
-## Hunts Bay / Deep Slade
+<h2 id="hunts-bay-deep-slade">Hunts Bay / Deep Slade</h2>
 
 {%
   include 'partials/image-with-caption.html'
@@ -142,7 +142,7 @@ We visit some of these beaches regularly, but loads are completely new to me. No
 - Date: 4 January 2025
 - Location: [Hunts Bay / Deep Slade on Open Street Map](https://www.openstreetmap.org/#map=17/51.561625/-4.074039)
 
-## Foxhole
+<h2 id="foxhole">Foxhole</h2>
 
 {%
   include 'partials/image-with-caption.html'
@@ -154,7 +154,7 @@ We visit some of these beaches regularly, but loads are completely new to me. No
 - Date: 3 January 2025
 - Location: [Foxhole on Open Street Map](https://www.openstreetmap.org/#map=17/51.563726/-4.089103)
 
-## Heatherslade Bay
+<h2 id="heatherslade-bay">Heatherslade Bay</h2>
 
 {%
   include 'partials/image-with-caption.html'
@@ -166,7 +166,7 @@ We visit some of these beaches regularly, but loads are completely new to me. No
 - Date: 11 January 2025
 - Location: [Heatherslade on Open Street Map](https://www.openstreetmap.org/#map=17/51.565366/-4.094435)
 
-## Pobbles Bay
+<h2 id="pobbles-bay">Pobbles Bay</h2>
 
 {%
   include 'partials/image-with-caption.html'
@@ -178,7 +178,7 @@ We visit some of these beaches regularly, but loads are completely new to me. No
 - Date: 11 January 2025
 - Location: [Pobbles on Open Street Map](https://www.openstreetmap.org/#map=17/51.568434/-4.109048)
 
-## Oxwich Bay
+<h2 id="oxwich-bay">Oxwich Bay</h2>
 
 {%
   include 'partials/image-with-caption.html'
@@ -190,7 +190,7 @@ We visit some of these beaches regularly, but loads are completely new to me. No
 - Date: 13 March 2025
 - Location: [Oxwich Bay on Open Street Map](https://www.openstreetmap.org/#map=16/51.55589/-4.16103)
 
-## Port Eynon
+<h2 id="port-eynon">Port Eynon</h2>
 
 {%
   include 'partials/image-with-caption.html'
@@ -202,7 +202,7 @@ We visit some of these beaches regularly, but loads are completely new to me. No
 - Date: 18 January 2025
 - Location: [Port Eynon on Open Street Map](https://www.openstreetmap.org/#map=17/51.543713/-4.205875)
 
-## Salt House Mere
+<h2 id="salt-house-mere">Salt House Mere</h2>
 
 {%
   include 'partials/image-with-caption.html'
@@ -214,7 +214,7 @@ We visit some of these beaches regularly, but loads are completely new to me. No
 - Date: 18 January 2025
 - Location: [Salt House Mere on Open Street Map](https://www.openstreetmap.org/#map=17/51.538201/-4.208053)
 
-## Overton Mere
+<h2 id="overton-mere">Overton Mere</h2>
 
 {%
   include 'partials/image-with-caption.html'
@@ -226,7 +226,7 @@ We visit some of these beaches regularly, but loads are completely new to me. No
 - Date: 18 January 2025
 - Location: [Overton Mere on Open Street Map](https://www.openstreetmap.org/#map=17/51.541217/-4.216325)
 
-## Rhossili
+<h2 id="rhossili">Rhossili</h2>
 
 {%
   include 'partials/image-with-caption.html'
@@ -238,7 +238,7 @@ We visit some of these beaches regularly, but loads are completely new to me. No
 - Date: 28 June 2023
 - Location: [Rhossili on Open Street Map](https://www.openstreetmap.org/#map=17/51.57074/-4.29090)
 
-## Llangennith
+<h2 id="llangennith">Llangennith</h2>
 
 {%
   include 'partials/image-with-caption.html'
@@ -250,7 +250,7 @@ We visit some of these beaches regularly, but loads are completely new to me. No
 - Date: 15 June 2022
 - Location: [Llangennith on Open Street Map](https://www.openstreetmap.org/#map=17/51.59385/-4.29473)
 
-## Burry Holms
+<h2 id="burry-holms">Burry Holms</h2>
 
 {%
   include 'partials/image-with-caption.html'
@@ -262,7 +262,7 @@ We visit some of these beaches regularly, but loads are completely new to me. No
 - Date: 15 July 2023
 - Location: [Burry Holms on Open Street Map](https://www.openstreetmap.org/#map=17/51.60934/-4.31093)
 
-## Blue Pool Bay
+<h2 id="blue-pool-bay">Blue Pool Bay</h2>
 
 {%
   include 'partials/image-with-caption.html'
@@ -274,7 +274,7 @@ We visit some of these beaches regularly, but loads are completely new to me. No
 - Date: 10 August 2022
 - Location: [Blue Pool Bay on Open Street Map](https://www.openstreetmap.org/#map=17/51.61383/-4.30064)
 
-## Little Broughton
+<h2 id="little-broughton">Little Broughton</h2>
 
 {%
   include 'partials/image-with-caption.html'
@@ -286,7 +286,7 @@ We visit some of these beaches regularly, but loads are completely new to me. No
 - Date: 12 November 2022
 - Location: [Little Broughton on Open Street Map](https://www.openstreetmap.org/#map=17/51.61455/-4.29025)
 
-## Broughton Bay
+<h2 id="broughton-bay">Broughton Bay</h2>
 
 {%
   include 'partials/image-with-caption.html'
@@ -298,7 +298,7 @@ We visit some of these beaches regularly, but loads are completely new to me. No
 - Date: 14 August 2022
 - Location: [Broughton Bay on Open Street Map](https://www.openstreetmap.org/#map=17/51.61537/-4.28255)
 
-## Whiteford Sands
+<h2 id="whiteford-sands">Whiteford Sands</h2>
 
 {%
   include 'partials/image-with-caption.html'
@@ -315,30 +315,30 @@ We visit some of these beaches regularly, but loads are completely new to me. No
 ## Swansea and Gower beach checklist
 
 1. Jersey Marine Beach
-2. ~~Swansea Bay~~ ✅
-3. ~~Knab Rock~~ ✅
-4. ~~Mumbles Head~~ ✅
-5. ~~Bracelet Bay~~ ✅
-6. ~~Limeslade Beach~~ ✅
-7. ~~Rotherslade Bay~~ ✅
-8. ~~Langland Bay~~ ✅
-9. ~~Caswell Bay~~ ✅
-10. ~~Brandy Cove~~ ✅
+2. [Swansea Bay](#swansea-bay) ✅
+3. [Knab Rock](#knab-rock) ✅
+4. [Mumbles Head](#mumbles-head-beach) ✅
+5. [Bracelet Bay](#bracelet-bay) ✅
+6. [Limeslade Beach](#limeslade-beach) ✅
+7. [Rotherslade Bay](#rotherslade-bay) ✅
+8. [Langland Bay](#langland-bay) ✅
+9. [Caswell Bay](#caswell-bay) ✅
+10. [Brandy Cove](#brandy-cove) ✅
 11. Pwll Du Bay
 12. Bantam Bay
-13. ~~Hunts Bay / Deep Slade~~ ✅
-14. ~~Foxhole~~ ✅
-15. ~~Heatherslade Bay~~ ✅
-16. ~~Pobbles Bay~~ ✅
+13. [Hunts Bay / Deep Slade](#hunts-bay-deep-slade) ✅
+14. [Foxhole](#foxhole) ✅
+15. [Heatherslade Bay](#heatherslade-bay) ✅
+16. [Pobbles Bay](#pobbles-bay) ✅
 17. Three Cliffs Bay
 18. Tor Bay
 19. Nicholaston / Crawley Beach
-20. ~~Oxwich Bay~~ ✅
+20. [Oxwich Bay](#oxwich-bay) ✅
 21. Slade Sands
 22. The Cove / Horton Beach
-23. ~~Port Eynon~~ ✅
-24. ~~Salt House Mere~~ ✅
-25. ~~Overton Mere~~ ✅
+23. [Port Eynon](#port-eynon) ✅
+24. [Salt House Mere](#salt-house-mere) ✅
+25. [Overton Mere](#overton-mere) ✅
 26. Common Cliff
 27. Foxhole Slade
 28. Knave Bay
@@ -346,13 +346,13 @@ We visit some of these beaches regularly, but loads are completely new to me. No
 30. Butterslade
 31. Mewslade Bay
 32. Fall Bay 
-33. ~~Rhossili~~ ✅
-34. ~~Llangennith~~ ✅
-35. ~~Burry Holms~~ ✅
-36. ~~Blue Pool Bay~~ ✅
-37. ~~Little Broughton~~ ✅
-38. ~~Broughton Bay~~ ✅
-39. ~~Whiteford Sands~~ ✅
+33. [Rhossili](#rhossili) ✅
+34. [Llangennith](#llangennith) ✅
+35. [Burry Holms](#burry-holms) ✅
+36. [Blue Pool Bay](#blue-pool-bay) ✅
+37. [Little Broughton](#little-broughton) ✅
+38. [Broughton Bay](#broughton-bay) ✅
+39. [Whiteford Sands](#whiteford-sands) ✅
 40. Llanrhidian Sands
 
 ## Useful resources
