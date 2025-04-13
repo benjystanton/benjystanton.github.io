@@ -20,7 +20,7 @@ Around the same time, an old teammate got in touch. They were looking for a docu
 
 I remember it worked well as a way to understand the problem space and gather consensus, before jumping into the designing mock-ups and prototyping phase.
 
-Giving the whole team a chance to input and review the plan upfront, can give design teams some breathing space later, so it's worth putting in some early effort.
+Giving the whole team a chance to input on and review the plan upfront, can give design teams some breathing space later, so it's worth putting in some early effort.
 
 So I decided to try something similar with my current team.
 
@@ -44,19 +44,27 @@ In my experience UCD people (myself included) bring too much work into scope. It
 
 The good news is, if anything is ruled out of scope, that later becomes a problem for users that we need to fix, we have some useful notes that will help us to get started quickly.
 
+<div class="table-container" tabindex="0">
+
 | User story | UCD | Tech | Product and delivery | In scope? |
 |:--|:--|:--|:--|:--|
 | [Example user story] | [UCD team feedback] | [Tech team feedback] | [Product and delivery team feedback] | Yes |
 | [Example user story] | [UCD team feedback] | [Tech team feedback] | [Product and delivery team feedback] | No |
 
+</div>
+
 ## Example 2
 
 This following example worked well, because as a UCD team we didn't understand the as-is service enough to make changes or introduce new components or patterns.
+
+<div class="table-container" tabindex="0">
 
 | Problem | Expected user action | Affected components | Similar "as-is" problems | Notes and questions |
 |:--|:--|:--|:--|:--|
 | [Example problem] | [Action 1] | [Sign-in form] | [Registration form] | [Comments and questions from stakeholders] |
 | [Example problem] | [Action 2] | [Error message] | [Search results page] | [Comments and questions from stakeholders] |
+
+</div>
 
 ## Conclusion
 
