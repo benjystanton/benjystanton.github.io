@@ -14,7 +14,7 @@ We had a couple of bad stakeholder meetings this week. It started to feel like w
 
 I know stakeholders desires may not always be user-centred. But, without their support and sponsorship, projects can become completely derailed. Money and effort can be wasted, leading to missed opportunities to improve services for users.
 
-A felt a strong desire to try a different approach, before things descended into a battle over "user-centred design (UCD) purism" versus "protecting the ways things have always been done".
+I felt the need to try a different approach, before things descended into a battle over "user-centred design (UCD) purism" versus "protecting the ways things have always been done".
 
 Around the same time, an old teammate got in touch. They were looking for a document we'd used previously to review requirements and gather input from the whole team on a previous project.
 
