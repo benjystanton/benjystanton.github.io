@@ -57,6 +57,8 @@ The good news is, if anything is ruled out of scope, that later becomes a proble
 
 This following example worked well, because as a UCD team we didn't understand the as-is service enough to make changes or introduce new components or patterns.
 
+It is also helping to capture and balance competing requests from different parts of the organisiton.
+
 <div class="table-container" tabindex="0">
 
 | Problem | Expected user action | Affected components | Similar "as-is" problems | Notes and questions |
