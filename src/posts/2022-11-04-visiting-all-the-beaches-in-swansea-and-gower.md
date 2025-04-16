@@ -8,7 +8,7 @@ tags:
 excerpt: "I’ve set myself a challenge to visit all the beaches in Swansea and Gower. There are about 40 in total."
 image: "three-chimneys-square.jpg"
 image-alt: "Rocky cliffs from the beach. A hole has formed in the rocks and you can see blue sky through the middle."
-last_modified_at: 12 April 2025
+last_modified_at: 16 April 2025
 ---
 
 {{ excerpt }}
@@ -17,7 +17,7 @@ We visit some of these beaches regularly, but loads are completely new to me. No
 
 - Beaches visited: 24 of 40 (60%)
 - Longest continuous stretch: 9 beaches
-- Seals spotted: 0
+- Seals spotted: 2 (at Langland)
 - Favourite beach: Overton Mere
 
 ***
