@@ -9,9 +9,12 @@ tags:
 - UX
 - Design
 last_modified_at: 21 April 2025
+excerpt: "What's it like being an interaction designer in a UK government department?"
 ---
 
 <!-- I wrote this a few years ago when I was at DVLA (Driver and Vehicle Licensing Agency). It’s been hiding in GitHub, so I’ve moved it here. It’s mostly still relevant and useful. Well done past me. -->
+
+{{ excerpt }}
 
 Interaction designers, sometimes known as user experience (UX) designers, are an essential part of digital service teams that want to meet user needs.
 
