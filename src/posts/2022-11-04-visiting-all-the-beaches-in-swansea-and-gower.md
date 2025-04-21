@@ -358,3 +358,4 @@ We visit some of these beaches regularly, but loads are completely new to me. No
 ## Useful resources
 
 - [Beaches & Surfing in Gower by Parc Le Breos](https://parc-le-breos.co.uk/things-to-do-in-gower/gower-beach-and-surf-information/)
+- [A pocket guide to Gower (book)](https://sioptytawe.co.uk/products/a-pocket-guide-to-gower)
