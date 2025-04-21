@@ -5,6 +5,7 @@ tags:
 - post
 - Weeknotes
 - Orange team
+- Interaction design
 excerpt: "Some good interaction design habits I'm trying to adopt."
 ---
 
