@@ -7,14 +7,14 @@ tags:
 - page
 ---
 
-Updated 26 February 2025.
+Updated 26 April 2025.
 
 ## Personal
 
 - Living in: [Swansea](/blog/things-to-do-in-swansea/)
-- Next gig: [Jake Xerxes Fussell](https://www.jakexerxesfussell.com/)
-- Listening to: [Plu](https://pluband.bandcamp.com/)
-- Coffee: [The Filter Blend by Square Mile Coffee Roasters](https://shop.squaremilecoffee.com/products/the-filter-blend)
+- Next gig: [In It Together](https://www.inittogetherfestival.com/)
+- Listening to: [Ezra Collective](https://www.ezracollective.com/)
+- Coffee: [Colombia Buffoon Pink Bourbon by Sky Lark](https://skylark.coffee/products/colombia-el-embrujo-buffoon-natural)
 - Challenging myself to: [visit every beach in Swansea and Gower](/blog/visiting-all-the-beaches-in-swansea-and-gower/)
 
 ## Work
