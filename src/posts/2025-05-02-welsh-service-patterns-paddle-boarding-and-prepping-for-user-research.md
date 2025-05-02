@@ -16,7 +16,7 @@ excerpt: "A weeknote starting 28 April 2025."
 
 This week I took a day off to travel to Cardiff to attend a CDPS (Centre for Digital Public Services) workshop: Co-Design Workshop on Service Patterns for Welsh Public Services. I really enjoyed the day, thanks to Liam and the team for running it and inviting me.
 
-It was also nice to catch up with Jo, and meet a few people face-to-face for the first time (Nia, Liam, Adrian, Loubna, Louise and others).
+It was also nice to catch up with Jo, and meet a few people face-to-face for the first time (Nia, Liam, Adrián, Loubna, Louise and others).
 
 I really liked how Liam broke down service patterns into chunks and this really helped me to zoom in/out to the right level…
 
