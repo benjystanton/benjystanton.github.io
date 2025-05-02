@@ -28,6 +28,8 @@ I really liked how Liam broke down service patterns into chunks and this really 
 
 As a user of Welsh services, it's really exciting to see this work develop.
 
+Read more in about the [service patterns work in Liam's weeknotes](https://medium.com/@navigatecommunicate/week-ish-notes-2nd-may-2025-87a5be929243).
+
 Related, I haven't been very good at prioritising things like meet-ups, conferences or training since going to contracting. I felt energised after the workshop, so I'll definitely try and attend more events like this.
 
 ## Paddle boarding
