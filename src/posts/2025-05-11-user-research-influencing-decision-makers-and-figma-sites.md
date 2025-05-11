@@ -32,6 +32,6 @@ But a couple of posts on LinkedIn jumped out to me this week and made me realise
 
 ## Figma sites are not accessible 
 
-Figma realised their website building tool. A lot of people have been pointing out that it produces horrible, inaccessible code.
+Figma released their website building tool. A lot of people have been pointing out that it produces horrible, inaccessible code.
 
 Adrian has shared a thorough write up: [Do Not Publish Your Designs on the Web with Figma Sites…](https://adrianroselli.com/2025/05/do-not-publish-your-designs-on-the-web-with-figma-sites.html)
