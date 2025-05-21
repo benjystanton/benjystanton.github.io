@@ -7,21 +7,21 @@ tags:
 - page
 ---
 
-Updated 26 April 2025.
+Updated 21 May 2025.
 
 ## Personal
 
 - Living in: [Swansea](/blog/things-to-do-in-swansea/)
 - Next gig: [In It Together](https://www.inittogetherfestival.com/)
-- Listening to: [Ezra Collective](https://www.ezracollective.com/)
-- Coffee: [Colombia Buffoon Pink Bourbon by Sky Lark](https://skylark.coffee/products/colombia-el-embrujo-buffoon-natural)
+- Listening to: [CVC](http://cvcband.com/)
+- Coffee: Run out of coffee
 - Challenging myself to: [visit every beach in Swansea and Gower](/blog/visiting-all-the-beaches-in-swansea-and-gower/)
 
 ## Work
 
 - Work: contract interaction designer
 - Using: [tools for designing](/uses)
-- Last user research session: 26 February 2025
+- Last user research session: 7 May 2025
 
 ## Over-sharing
 
