@@ -7,7 +7,7 @@ tags:
 - User manuals for me
 ---
 
-View my latest [user manual](/blog/a-user-manual-for-me-version-3/).
+View my latest [user manual](/blog/a-user-manual-for-me-version-4/).
 
 <p>I’m joining a new team in Office for National Statistics (ONS), so it seemed like a good time to finally create <a href="https://medium.com/@cassierobinson/a-user-manual-for-me-d3a851fbc694">a user manual for me</a>.</p>
 

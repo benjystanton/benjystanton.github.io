@@ -7,7 +7,7 @@ tags:
 - User manuals for me
 ---
 
-View my latest [user manual](/blog/a-user-manual-for-me-version-3/).
+View my latest [user manual](/blog/a-user-manual-for-me-version-4/).
 
 It's been over 2 years since I last updated [my old user manual for me](/blog/a-user-manual-for-me/). If you're unfamilier with the concept, check out this [blog post on user manuals by Cassie Robinson](https://cassierobinson.medium.com/a-user-manual-for-me-d3a851fbc694).
 

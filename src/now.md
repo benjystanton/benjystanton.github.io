@@ -27,7 +27,7 @@ Updated 4 June 2025.
 
 - Posting on: [Bluesky](https://bsky.app/profile/benjystanton.co.uk)
 - Sharing: [weeknotes](/blog/category/weeknotes)
-- My latest [user manual for me](/blog/a-user-manual-for-me-version-3/)
+- My latest [user manual for me](/blog/a-user-manual-for-me-version-4/)
 - Read more: [about me](/about)
 
 ## About now pages
