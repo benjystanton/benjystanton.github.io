@@ -7,21 +7,21 @@ tags:
 - page
 ---
 
-Updated 21 May 2025.
+Updated 4 June 2025.
 
 ## Personal
 
 - Living in: [Swansea](/blog/things-to-do-in-swansea/)
-- Next gig: [In It Together](https://www.inittogetherfestival.com/)
-- Listening to: [CVC](http://cvcband.com/)
-- Coffee: Run out of coffee
+- Next gig: [Gŵyl Tawe](https://mentrauiaith.cymru/en/first-details-announced-for-gwyl-tawe-2025/)
+- Listening to: [Gruff Rhys](https://gruffrhys.com/)
+- Coffee: [Ethiopia Korate from Ride & Grind](https://www.ridegrind.com/product/ethiopia-korate/)
 - Challenging myself to: [visit every beach in Swansea and Gower](/blog/visiting-all-the-beaches-in-swansea-and-gower/)
 
 ## Work
 
 - Work: contract interaction designer
 - Using: [tools for designing](/uses)
-- Last user research session: 7 May 2025
+- Last user research session: 4 June 2025
 
 ## Over-sharing
 
