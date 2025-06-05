@@ -4,6 +4,7 @@ title: Weeknotes – series 02 episode 03
 tags:
 - post
 - Weeknotes
+- Usability testing
 image: coventry-cathedral-square.jpg
 image-alt: Colourful stained glass windows at Coventry cathedral.
 ---

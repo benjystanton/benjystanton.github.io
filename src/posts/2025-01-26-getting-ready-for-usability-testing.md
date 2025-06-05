@@ -6,6 +6,7 @@ tags:
 - Weeknotes
 - Season 2
 - Interaction design
+- Usability testing
 excerpt: "A weeknote starting 20 January 2025."
 --- 
 

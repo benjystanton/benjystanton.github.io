@@ -4,6 +4,7 @@ title: Weeknotes – series 01 episode 02
 tags:
 - post
 - Weeknotes
+- Usability testing
 image: sisters-beach-square.jpg
 image-alt: 2 girls standing together, looking down at the beach on a sunny day
 excerpt: Heatwave edition.

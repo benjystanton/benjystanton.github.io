@@ -7,6 +7,7 @@ tags:
 - NaBloPoMo 2018
 - Design
 - Accessibility
+- Usability testing
 excerpt: What is typography? What problems does good typography solve? How do we know poor typography is a real problem?
 ---
 

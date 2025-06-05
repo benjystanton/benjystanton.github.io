@@ -7,6 +7,7 @@ tags:
 - Research
 - Season 2
 - Interaction design
+- Usability testing
 excerpt: "A weeknote starting 4 November 2024."
 --- 
 

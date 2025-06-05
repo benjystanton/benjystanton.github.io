@@ -5,6 +5,7 @@ tags:
 - post
 - Weeknotes
 - Stickers
+- Usability testing
 image: pizza-union-square.jpg
 image-alt: a pizza with an egg and spinach topping
 excerpt: Featuring service design, accessible maths symbols and pizza.

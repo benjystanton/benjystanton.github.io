@@ -6,6 +6,7 @@ tags:
 - Weeknotes
 - Research
 - Season 2
+- Usability testing
 excerpt: "A weeknote starting 28 October 2024."
 --- 
 
