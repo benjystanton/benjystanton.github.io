@@ -7,10 +7,10 @@ tags:
 - Season 2
 excerpt: "A weeknote starting 24 June 2025."
 image: "mission-patch-ucd-discovery-2025.png"
-image-alt: "Round mission patch featuring an illustration Julie Andrews in Sound of Music standing in a field of grass surrounded by mountains. Text reads: UCD Discovery June 2025."
+image-alt: "Round mission patch featuring an illustration Julie Andrews in Sound of Music standing in a field of grass surrounded by mountains. Text reads: UCD Discovery Report June 2025."
 --- 
 
-<img src="/images/mission-patch-ucd-discovery-2025.png" alt="Round mission patch featuring an illustration Julie Andrews in Sound of Music standing in a field of grass surrounded by mountains. Text reads: UCD Discovery June 2025." style="width:50%">
+<img src="/images/mission-patch-ucd-discovery-2025.png" alt="Round mission patch featuring an illustration Julie Andrews in Sound of Music standing in a field of grass surrounded by mountains. Text reads: UCD Discovery Report June 2025." style="width:50%">
 
 ## Finishing our discovery report
 
