@@ -6,8 +6,6 @@ tags:
 - page
 ---
 
-Updated 29 September 2024.
-
 My name is Benjy Stanton. I’m a contract interaction designer. I’m interested in user-centred design in the public sector, inclusive design and accessibility.
 
 <img class="image-avatar" src="/images/benjy-stanton-2023.jpeg" width="48" height="48" alt="White man with a beard, wearing a baseball cap and smiling">
@@ -21,7 +19,7 @@ My name is Benjy Stanton. I’m a contract interaction designer. I’m intereste
 
 ## Summary
 
-I’m an hands-on interaction designer, product designer and user experience (UX) designer. I have experience in the public and private sector. I love working with agile, multidisciplinary teams that care about user-centred design.
+I’m a hands-on interaction designer, product designer and user experience (UX) designer. I have experience in the public and private sector. I love working with agile, multidisciplinary teams that care about user-centred design.
 
 I work with teams to:
 
