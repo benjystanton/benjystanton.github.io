@@ -18,7 +18,17 @@ tags:
 
   <img class="image-avatar u-photo u-logo" src="/images/benjy-stanton-2023.jpeg" width="48" height="48" alt="White man with a beard, wearing a baseball cap and smiling">
 
-  <h2>Find me on the web…</h2>
+  <div class="panel">
+  
+  <h3 class="margin-top-0 margin-bottom-0">Latest post</h3>
+
+  {% set latestPost = collections.post | last %}
+  <p class="margin-top-0 margin-bottom-0"><a href="{{ latestPost.url }}">{{ latestPost.data.title }}</a></p>
+  <p class="margin-top-0 margin-bottom-0">{{ latestPost.data.date | readableDate }}</p>
+  <p class="margin-top-0 margin-bottom-0">{{ latestPost.data.excerpt }}</p>
+  </div>
+  
+  <h2>Find me on the web</h2>
 
   <ul>
     <li><a href="https://bsky.app/profile/benjystanton.co.uk" rel="me" class="u-url">Bluesky</a></li>
