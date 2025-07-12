@@ -7,21 +7,22 @@ tags:
 - page
 ---
 
-Updated 4 June 2025.
+Updated 12 July 2025.
 
 ## Personal
 
 - Living in: [Swansea](/blog/things-to-do-in-swansea/)
-- Next gig: [Gŵyl Tawe](https://mentrauiaith.cymru/en/first-details-announced-for-gwyl-tawe-2025/)
-- Listening to: [Gruff Rhys](https://gruffrhys.com/)
-- Coffee: [Ethiopia Korate from Ride & Grind](https://www.ridegrind.com/product/ethiopia-korate/)
+- Next gig: Basement Jaxx and Ezra Collective
+- Listening to: [Overmono](https://overmono.com/)
+- Coffee: [Yallah Trust](https://yallahcoffee.co.uk/collections/coffee/products/trust-coffee)
 - Challenging myself to: [visit every beach in Swansea and Gower](/blog/visiting-all-the-beaches-in-swansea-and-gower/)
+- Training for Cardiff Half Marathon to remember my nephew Emrys and [raising money for Sands](https://cardiffhalf25.enthuse.com/pf/benjy-stanton)
 
 ## Work
 
 - Work: contract interaction designer
 - Using: [tools for designing](/uses)
-- Last user research session: 4 June 2025
+- Last user research session: 11 July 2025
 
 ## Over-sharing
 
