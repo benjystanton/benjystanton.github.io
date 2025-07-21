@@ -24,6 +24,8 @@ I liked this [css snippet](https://bsky.app/profile/bell.bz/post/3ltvwqogl7k22) 
 
 ## The Bear season 4
 
+I've really enjoyed watching The Bear season 4 this week. It's so beautifully shot. They even managed to make a crappy document signing website look visually interesting. 
+
 ![Extreme close up of a bright yellow button on blue background. Black text says “review document” in all capitals. ](/images/the-bear-button.jpeg)
 
 ## Non-Binary People’s Day
