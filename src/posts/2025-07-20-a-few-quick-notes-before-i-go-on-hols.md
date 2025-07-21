@@ -30,6 +30,8 @@ I've really enjoyed watching The Bear season 4 this week. It's so beautifully sh
 
 ## Non-Binary People’s Day
 
+I learnt from cross-gov Slack that Non-Binary People’s Day was this week. Love that I can learn about things like this via the community.
+
 [6 Cultures That Recognize More than Two Genders](https://www.britannica.com/list/6-cultures-that-recognize-more-than-two-genders)
 
 ## Book of Mormon
