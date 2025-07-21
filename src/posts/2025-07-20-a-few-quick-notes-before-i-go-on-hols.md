@@ -14,7 +14,7 @@ image-alt: "Extreme close up of a bright yellow button on blue background. Black
 
 ## CSS snippet
 
-I liked this [css snippet](https://bsky.app/profile/bell.bz/post/3ltvwqogl7k22) that Andy Bell shared. Saving it to remeber later. Recommend following 
+I liked this [css snippet](https://bsky.app/profile/bell.bz/post/3ltvwqogl7k22) that Andy Bell shared. Saving it to remember later. Recommend following Andy for great front-end dev tips.
 
 ```
 :target {
