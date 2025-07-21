@@ -14,7 +14,7 @@ image-alt: "Extreme close up of a bright yellow button on blue background. Black
 
 ## CSS snippet
 
-[Andy Bell's css snippet](https://bsky.app/profile/bell.bz/post/3ltvwqogl7k22)
+I liked this [css snippet](https://bsky.app/profile/bell.bz/post/3ltvwqogl7k22) that Andy Bell shared. Saving it to remeber later. Recommend following 
 
 ```
 :target {
@@ -39,3 +39,4 @@ image-alt: "Extreme close up of a bright yellow button on blue background. Black
 - [Everything has its time by Martin Underhill](https://www.tempertemper.net/blog/everything-has-its-time)
 - [Whimsica11y by Sara Joy](https://whimsica11y.net/)
 - [Using commercial-off-the-shelf (COTS) products and services – GOV.UK](https://www.gov.uk/service-manual/technology/commercial-off-the-shelf-products-and-services)
+- [How To Defend And Explain Your Design Decisions by Vitaly Friedman (LinkedIn post)](https://www.linkedin.com/posts/vitalyfriedman_ux-design-activity-7352957830749929472-bgIQ?utm_source=share&utm_medium=member_ios&rcm=ACoAABmbAVsBR1WUjoTL4rikkJnHCsqt9Ze6awo)
