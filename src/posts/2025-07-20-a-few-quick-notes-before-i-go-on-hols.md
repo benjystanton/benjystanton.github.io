@@ -34,9 +34,9 @@ I learnt from cross-gov Slack that Non-Binary People’s Day was this week. Love
 
 [6 Cultures That Recognize More than Two Genders](https://www.britannica.com/list/6-cultures-that-recognize-more-than-two-genders)
 
-## Book of Mormon
-
 ## Going on hols
+
+I'm off on homiday for a week. Trying to quickly finish this post and merge the branch before we take off. 
 
 ## Bookmarks
 
