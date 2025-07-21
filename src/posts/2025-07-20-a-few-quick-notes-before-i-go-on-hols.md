@@ -36,7 +36,7 @@ I learnt from cross-gov Slack that Non-Binary People’s Day was this week. Love
 
 ## Going on hols
 
-I'm off on homiday for a week. Trying to quickly finish this post and merge the branch before we take off. 
+I'm off on holiday for a week. Trying to quickly finish this post and merge the branch before we take off. 
 
 ## Bookmarks
 
