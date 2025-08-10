@@ -12,9 +12,15 @@ image-alt: "Extreme close up of a bright yellow button on blue background. Black
 
 {{ excerpt }}
 
+## Update on 10 August 2025
+
+I tried to publish this 3 weeks ago, just before I went on hols. Needless to say, I got something wrong in the rush to post from my phone, so I'm publishing this a bit late.
+
 ## CSS snippet
 
-I liked this [css snippet](https://bsky.app/profile/bell.bz/post/3ltvwqogl7k22) that Andy Bell shared. Saving it to remember later. Recommend following Andy for great front-end dev tips.
+I liked this [css snippet](https://bsky.app/profile/bell.bz/post/3ltvwqogl7k22) that Andy Bell shared. Saving it to remember later. Recommend following [Andy](https://bell.bz/) for great front-end dev tips.
+
+> Adds a nice bit of breathing room to stuff that's anchored via URL like example.​com/#my-element
 
 ```
 :target {
@@ -32,11 +38,11 @@ I've really enjoyed watching The Bear season 4 this week. It's so beautifully sh
 
 I learnt from cross-gov Slack that Non-Binary People’s Day was this week. Love that I can learn about things like this via the community.
 
-[6 Cultures That Recognize More than Two Genders](https://www.britannica.com/list/6-cultures-that-recognize-more-than-two-genders)
+Related: [6 Cultures That Recognize More than Two Genders](https://www.britannica.com/list/6-cultures-that-recognize-more-than-two-genders)
 
 ## Going on hols
 
-I'm off on holiday for a week. Trying to quickly finish this post and merge the branch before we take off. 
+I'm off on holiday for a week. ~~Trying to quickly finish this post and merge this branch before we take off~~.
 
 ## Bookmarks
 
