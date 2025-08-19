@@ -7,20 +7,20 @@ tags:
 - page
 ---
 
-Updated 12 July 2025.
+Updated 19 August 2025.
 
 ## Personal
 
 - Living in: [Swansea](/blog/things-to-do-in-swansea/)
 - Next gig: Basement Jaxx and Ezra Collective
-- Listening to: [Overmono](https://overmono.com/)
-- Coffee: [Yallah Trust](https://yallahcoffee.co.uk/collections/coffee/products/trust-coffee)
+- Listening to: [1-800 GIRLS](https://1-800girls.bandcamp.com/)
+- Coffee: [Yallah House Espresso](https://yallahcoffee.co.uk/collections/coffee/products/house-coffee)
 - Challenging myself to: [visit every beach in Swansea and Gower](/blog/visiting-all-the-beaches-in-swansea-and-gower/)
 - Training for Cardiff Half Marathon to remember my nephew Emrys and [raising money for Sands](https://cardiffhalf25.enthuse.com/pf/benjy-stanton)
 
 ## Work
 
-- Work: contract interaction designer
+- Work: contract interaction designer and service designer
 - Using: [tools for designing](/uses)
 - Last user research session: 11 July 2025
 
