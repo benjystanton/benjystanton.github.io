@@ -5,17 +5,17 @@ tags:
 - post
 - Personal
 - Swansea
-excerpt: "I’ve set myself a challenge to visit all the beaches in Swansea and Gower. There are about 40 in total."
+excerpt: "I’ve set myself a challenge to visit all the beaches in Swansea and Gower. There are about 41 in total."
 image: "three-chimneys-square.jpg"
 image-alt: "Rocky cliffs from the beach. A hole has formed in the rocks and you can see blue sky through the middle."
-last_modified_at: 19 April 2025
+last_modified_at: 19 August 2025
 ---
 
 {{ excerpt }}
 
 We visit some of these beaches regularly, but loads are completely new to me. No strict rules, I’m going to include beaches I’ve visited recently, to give myself a head start.
 
-- Beaches visited: 24 of 40 (60%)
+- Beaches visited: 26 of 41 (63%)
 - Longest continuous stretch: 9 beaches
 - Seals spotted: 4 (at Langland and Worm's Head)
 - Favourite beach: Overton Mere
@@ -190,6 +190,13 @@ We visit some of these beaches regularly, but loads are completely new to me. No
 - Date: 13 March 2025
 - Location: [Oxwich Bay on Open Street Map](https://www.openstreetmap.org/#map=16/51.55589/-4.16103)
 
+<h2 id="horton">Horton</h2>
+
+Horton is a popular sandy beach on the east side of Port Eynon. It has a small car park with with toilets and takeaway coffee in summer months.
+
+- Date: 16 August 2025
+- Location: [Horton on Open Street Map](https://www.openstreetmap.org/#map=17/51.547890/-4.200050)
+
 <h2 id="port-eynon">Port Eynon</h2>
 
 {%
@@ -225,6 +232,13 @@ We visit some of these beaches regularly, but loads are completely new to me. No
 
 - Date: 18 January 2025
 - Location: [Overton Mere on Open Street Map](https://www.openstreetmap.org/#map=17/51.541217/-4.216325)
+
+<h2 id="worms-head">Worm's Head</h2>
+
+Not really a beach, but a spectacular tidal peninsula. An amazing walk, but be careful of the tides because you can get stranded.
+
+- Date: 19 April 2025
+- Location: [Worm's Head on Open Street Map](https://www.openstreetmap.org/#map=15/51.56130/-4.30947)
 
 <h2 id="rhossili">Rhossili</h2>
 
@@ -335,7 +349,7 @@ We visit some of these beaches regularly, but loads are completely new to me. No
 19. Nicholaston / Crawley Beach
 20. [Oxwich Bay](#oxwich-bay) ✅
 21. Slade Sands
-22. The Cove / Horton Beach
+22. [Horton](#horton) ✅
 23. [Port Eynon](#port-eynon) ✅
 24. [Salt House Mere](#salt-house-mere) ✅
 25. [Overton Mere](#overton-mere) ✅
@@ -345,15 +359,16 @@ We visit some of these beaches regularly, but loads are completely new to me. No
 29. Ramsgrove
 30. Butterslade
 31. Mewslade Bay
-32. Fall Bay 
-33. [Rhossili](#rhossili) ✅
-34. [Llangennith](#llangennith) ✅
-35. [Burry Holms](#burry-holms) ✅
-36. [Blue Pool Bay](#blue-pool-bay) ✅
-37. [Little Broughton](#little-broughton) ✅
-38. [Broughton Bay](#broughton-bay) ✅
-39. [Whiteford Sands](#whiteford-sands) ✅
-40. Llanrhidian Sands
+32. Fall Bay
+33. [Worm's Head](#worms-head) ✅
+34. [Rhossili](#rhossili) ✅
+35. [Llangennith](#llangennith) ✅
+36. [Burry Holms](#burry-holms) ✅
+37. [Blue Pool Bay](#blue-pool-bay) ✅
+38. [Little Broughton](#little-broughton) ✅
+39. [Broughton Bay](#broughton-bay) ✅
+40. [Whiteford Sands](#whiteford-sands) ✅
+41. Llanrhidian Sands
 
 ## Useful resources
 
