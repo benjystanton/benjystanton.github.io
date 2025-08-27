@@ -15,10 +15,10 @@ last_modified_at: 27 August 2025
 
 We visit some of these beaches regularly, but loads are completely new to me. No strict rules, I’m going to include beaches I’ve visited recently, to give myself a head start.
 
-- Beaches visited: 26 of 41 (63%)
-- Longest continuous stretch: 9 beaches
-- Seals spotted: 5 (at Broughton, Langland and Worm's Head)
-- Favourite beach: Overton Mere
+- Beaches visited: 26 of 41 (63%) 🏖️
+- Longest continuous stretch: 9 beaches 📏
+- Seals spotted: 5 (at Broughton, Langland and Worm’s Head) 🦭
+- Favourite beach: Overton Mere ⭐️
 
 ***
 
