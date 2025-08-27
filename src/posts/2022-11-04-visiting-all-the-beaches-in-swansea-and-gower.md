@@ -5,10 +5,10 @@ tags:
 - post
 - Personal
 - Swansea
-excerpt: "I’ve set myself a challenge to visit all the beaches in Swansea and Gower. There are about 41 in total."
+excerpt: "I’ve set myself a challenge to visit all the beaches in Swansea and Gower. There are about 40 in total."
 image: "three-chimneys-square.jpg"
 image-alt: "Rocky cliffs from the beach. A hole has formed in the rocks and you can see blue sky through the middle."
-last_modified_at: 19 August 2025
+last_modified_at: 27 August 2025
 ---
 
 {{ excerpt }}
@@ -17,7 +17,7 @@ We visit some of these beaches regularly, but loads are completely new to me. No
 
 - Beaches visited: 26 of 41 (63%)
 - Longest continuous stretch: 9 beaches
-- Seals spotted: 4 (at Langland and Worm's Head)
+- Seals spotted: 5 (at Broughton, Langland and Worm's Head)
 - Favourite beach: Overton Mere
 
 ***
@@ -192,6 +192,13 @@ We visit some of these beaches regularly, but loads are completely new to me. No
 
 <h2 id="horton">Horton</h2>
 
+{%
+  include 'partials/image-with-caption.html'
+  image:"horton.jpeg"
+  caption:"Looking west towards Port Eynon"
+  alt-text:"A large, sandy beach dotted with families, with dunes and vegetation in the foreground."
+%}
+
 Horton is a popular sandy beach on the east side of Port Eynon. It has a small car park with with toilets and takeaway coffee in summer months.
 
 - Date: 16 August 2025
@@ -202,7 +209,7 @@ Horton is a popular sandy beach on the east side of Port Eynon. It has a small c
 {%
   include 'partials/image-with-caption.html'
   image:"port-eynon.jpg"
-  caption:"Looking east towards Oxwich point"
+  caption:"Looking east towards Horton and Oxwich point"
   alt-text:"A vast sandy beach at low tide with sand dunes, white houses and green headland in the distance."
 %}
 
