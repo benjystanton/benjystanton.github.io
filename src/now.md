@@ -7,12 +7,12 @@ tags:
 - page
 ---
 
-Updated 19 August 2025.
+Updated 29 August 2025.
 
 ## Personal
 
 - Living in: [Swansea](/blog/things-to-do-in-swansea/)
-- Next gig: Basement Jaxx and Ezra Collective
+- Next gig: A Guy Called Gerald
 - Listening to: [1-800 GIRLS](https://1-800girls.bandcamp.com/)
 - Coffee: [Yallah House Espresso](https://yallahcoffee.co.uk/collections/coffee/products/house-coffee)
 - Challenging myself to: [visit every beach in Swansea and Gower](/blog/visiting-all-the-beaches-in-swansea-and-gower/)
