@@ -34,7 +34,7 @@ I'm looking forward to learning more next week!
 
 ## Running update
 
-I [ran 15K](https://www.strava.com/activities/15725129229) this morning, my longest run so far. It's roughly were I want to be in my training to run in the Cardiff Half in month's time.
+I [ran 15K](https://www.strava.com/activities/15725129229) this morning, my longest run so far. It's roughly were I want to be in my training to run in the Cardiff Half in a month's time.
 
 <div class="panel">Please <a href="https://cardiffhalf25.enthuse.com/pf/benjy-stanton">sponsor me</a>, I'm running to raise money for Sands who support people affected by the death of a baby.
 </div>
