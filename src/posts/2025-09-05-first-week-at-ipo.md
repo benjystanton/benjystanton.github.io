@@ -30,7 +30,7 @@ As is often the case, it sounds like part of the balance will be getting to grip
 
 It feels like the organisation has done a lot of hard work already, restructuring teams around services.
 
-I'm looking forward to leaning more next week!
+I'm looking forward to learning more next week!
 
 ## Running update
 
