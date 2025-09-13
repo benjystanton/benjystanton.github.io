@@ -8,7 +8,7 @@ tags:
 
 My name is Benjy Stanton. I’m a contract interaction designer. I’m interested in user-centred design in the public sector, inclusive design and accessibility.
 
-<img class="image-avatar" src="/images/benjy-stanton-2023.jpeg" width="48" height="48" alt="White man with a beard, wearing a baseball cap and smiling">
+<img class="image-avatar" src="/images/benjy-stanton-2025.jpeg" width="48" height="48" alt="White man with a beard, wearing a baseball cap and smiling">
 
 - Available: {{ site.availability }}
 - Languages: English
@@ -25,11 +25,11 @@ I work with teams to:
 
 - define user needs and problems
 - help plan and analyse user research
-- share user journey maps and prototypes
+- create user journey maps and prototypes
 - do accessibility and design reviews
 - document design assets, html and css
 
-I’ve worked with teams of different sizes and setups, including in-house, hybrid and remote. I’ve led design teams, headed-up communities, and hired and mentored designers. 
+I’ve worked with teams of different sizes and setups, including in-house, hybrid and remote. I’ve led design teams, headed-up communities, and hired and mentored designers.
 
 I’m an advocate for accessibility and inclusive design. I help teams to do user research with people with access needs, and do accessibility audits. I’m passionate about making products and services that work for everyone.
 
@@ -43,6 +43,7 @@ I’m an advocate for accessibility and inclusive design. I help teams to do use
 - Driver and Vehicle Licensing Agency (DVLA)
 - Environment Agency (EA)
 - Home Office
+- Intellectual Property Office (IPO)
 - Met Office
 - Office for National Statistics (ONS)
 - UK Health Security Agency (UKHSA) / NHS Test and Trace
@@ -51,9 +52,13 @@ I’m an advocate for accessibility and inclusive design. I help teams to do use
 
 ## Experience
 
+### Interaction designer at Intellectual Property Office (IPO) (contract)
+
+Started September 2025
+
 ### Senior interaction designer at Home Office (contract)
 
-Started April 2023
+April 2023 to August 2025
 
 At the Home Office, I worked as part of a multidisciplinary agile team. We designed a digital service used by internal staff.
 
