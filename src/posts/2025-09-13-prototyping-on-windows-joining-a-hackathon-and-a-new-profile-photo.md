@@ -35,9 +35,9 @@ I'd like to spend more time with the internal user team to understand their diff
 
 ## New profile photo
 
-With my new contract in place, I thought it was an about time to update my profile photo (I was looking a bit too young and fresh faced in the old one). I'm trying to use the same one across my website (including my favicon), social media and work apps to help people recognise me in different places.
+With my new contract in place, I thought it was about time to update my profile photo (I was looking a bit too young and fresh faced in the old one). I'm trying to use the same one across my website (including my favicon), social media and work apps to help people recognise me in different places.
 
-I thinks it's tricky to get the balance of professional versus personal, and realistic versus flattering 🤣 … anyway here I am:
+I think it's tricky to get the balance of professional versus personal, and realistic versus flattering 🤣 … anyway here I am:
 
 <img class="image-avatar" src="/images/benjy-stanton-2025.jpeg" width="48" height="48" alt="White man with a beard, wearing a baseball cap and smiling">
 
