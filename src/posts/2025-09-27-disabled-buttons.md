@@ -23,3 +23,4 @@ I think Zahid sums up the solution well…
 - [Usability Pitfalls of Disabled Buttons, and How To Avoid Them by Vitaly Friedman](https://www.smashingmagazine.com/2021/08/frustrating-design-patterns-disabled-buttons/)
 - [`<button disabled>` by Mayank](https://www.htmhell.dev/adventcalendar/2023/13/#lessbutton-disabledgreater)
 - [Disabled button UX by Zahid Ali](https://medium.com/design-bootcamp/disabled-button-ux-98f38189ab07)
+- [Don't disable buttons by Chris Ferdinandi](https://gomakethings.com/dont-disable-buttons/)
