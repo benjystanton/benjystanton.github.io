@@ -14,7 +14,7 @@ excerpt: "A weeknote starting 29 September 2025."
 
 I had my first remote user research session! We observed an internal user that was completing one of their common weekly tasks using the new beta service.
 
-I've watched a few videos of users doing similar things already, but it was great to get an interrupted view of the time it takes to complete things. We also had a chance to have a semi-structured chat at the end.
+I've watched a few videos of users doing similar things already, but it was great to get an uninterrupted view of the time it takes to complete things. We also had a chance to have a semi-structured chat at the end.
 
 I think my main takeaway was that this step, although ripe for improvement, wasn't the main bottleneck for the team.
 
