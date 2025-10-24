@@ -7,12 +7,12 @@ tags:
 - page
 ---
 
-Updated 12 October 2025.
+Updated 24 October 2025.
 
 ## Personal
 
 - Living in: [Swansea](/blog/things-to-do-in-swansea/)
-- Next gig: [Cate Le Bon](https://catelebon.com/)
+- Next gig: [Reef](https://www.reeftheband.com/)
 - Listening to: [Caribou](https://www.caribou.fm/)
 - Coffee: [House Filter Primavera Sisterhood Guatemala from Curve Coffee](https://www.curveroasters.co.uk/house-filter-primavera-sisterhood-guatemala)
 - Challenging myself to: [visit every beach in Swansea and Gower](/blog/visiting-all-the-beaches-in-swansea-and-gower/)
@@ -22,7 +22,7 @@ Updated 12 October 2025.
 
 - Work: contract interaction designer
 - Using: [tools for designing](/uses)
-- Last user research session: 9 October 2025
+- Last user research session: 23 October 2025
 
 ## Over-sharing
 
