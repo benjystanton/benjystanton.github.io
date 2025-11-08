@@ -22,7 +22,7 @@ Here are my notes from the session…
 - Also worth joining the UK government's [cross-government Slack](https://x-govuk.org/posts/how-to-use-cross-government-slack/) (if you can)
 - Heledd's team in [Natural Resources Wales (NRW)](https://nrw-digital.github.io/week-notes/en/updates/) were mentioned as a great example of a team working in the open 
 - Matt Jukes was mentioned a couple of times as an advocate for working in the open, Matt has written a lot about working in the open, this is a good place to start: [Make things open reading list](https://digitalbydefault.com/2025/07/14/make-things-open-reading-list/)
-- 'Work in the open' is point 9 on the [Digital Service Standard for Wales](https://digitalpublicservices.gov.wales/guidance-and-standards/digital-service-standard-wales) so it's defiantly something we should be doing
+- 'Work in the open' is point 9 on the [Digital Service Standard for Wales](https://digitalpublicservices.gov.wales/guidance-and-standards/digital-service-standard-wales) so it's definitely something we should be doing
 - We could work more with comms teams, they can help facilitate sharing things publicly
 - Someone (Osian, I think) pointed out that working in the open isn't just about writing weeknotes, it can be about creating guides or sharing code on GitHub, or inviting people to watch show and tells
 - Nia mentioned that one of the benefits of working in this way is that it enables the capturing of organisational memory
