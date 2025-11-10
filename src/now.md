@@ -7,16 +7,15 @@ tags:
 - page
 ---
 
-Updated 24 October 2025.
+Updated 10 November 2025.
 
 ## Personal
 
 - Living in: [Swansea](/blog/things-to-do-in-swansea/)
-- Next gig: [Reef](https://www.reeftheband.com/)
-- Listening to: [Caribou](https://www.caribou.fm/)
+- Next gig: [Caribou](https://www.caribou.fm/)
+- Listening to: [Strong Message Here](https://www.bbc.co.uk/programmes/m0024cp6)
 - Coffee: [House Filter Primavera Sisterhood Guatemala from Curve Coffee](https://www.curveroasters.co.uk/house-filter-primavera-sisterhood-guatemala)
 - Challenging myself to: [visit every beach in Swansea and Gower](/blog/visiting-all-the-beaches-in-swansea-and-gower/)
-- Training for Cardiff Half Marathon to remember my nephew Emrys and [raising money for Sands](https://cardiffhalf25.enthuse.com/pf/benjy-stanton)
 
 ## Work
 
@@ -24,13 +23,9 @@ Updated 24 October 2025.
 - Using: [tools for designing](/uses)
 - Last user research session: 23 October 2025
 
-## Over-sharing
+## Sharing
 
-- Posting on: [Bluesky](https://bsky.app/profile/benjystanton.co.uk)
-- Sharing: [weeknotes](/blog/category/weeknotes)
-- My latest [user manual for me](/blog/a-user-manual-for-me-version-4/)
-- Read more: [about me](/about)
-
-## About now pages
-
-This is [a now page](https://nownownow.com/about) inspired by [Derek Sivers](https://sive.rs/now).
+- [Bluesky](https://bsky.app/profile/benjystanton.co.uk)
+- [Weeknotes](/blog/category/weeknotes)
+- [User manual for me](/blog/a-user-manual-for-me-version-4/)
+- [More about me](/about)

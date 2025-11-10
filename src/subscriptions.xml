@@ -52,6 +52,8 @@
 <outline text="Chris Yoong" title="Chris Yoong" type="rss" xmlUrl="https://chrisyoong.com/api/rss.xml" htmlUrl="http://chrisyoong.com"/>
 <outline text="Owen Jones is online" title="Owen Jones is online" type="rss" xmlUrl="https://owenis.online/feed.xml" htmlUrl="https://owenis.online/"/>
 <outline text="Nia Campbell" title="Nia Campbell" type="rss" xmlUrl="https://medium.com/feed/@niacampbell" htmlUrl="https://medium.com/@niacampbell"/>
+<outline text="Monika Mani Swiatek" title="Monika Mani Swiatek" type="rss" xmlUrl="https://medium.com/feed/@mani-swiatek" htmlUrl="https://medium.com/@mani-swiatek"/>
+
     </outline>
   </body>
 </opml>
