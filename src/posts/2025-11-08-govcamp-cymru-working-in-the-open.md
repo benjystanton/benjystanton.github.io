@@ -5,6 +5,7 @@ tags:
 - post
 - Conferences
 excerpt: "My notes and reflections from the session about working in the open."
+last_modified_at: 10 November 2025
 --- 
 
 {{ excerpt }}
@@ -33,3 +34,7 @@ Here are my notes from the session…
 It made me wonder if we need a place to publish a collection of unofficial community resources for people working in the Welsh public sector. Does one of these exist already? If not, where could it be? I'd see this as somewhere that compliments the [Cymru Ddigidol Slack](https://cymruddigidol.slack.com) and enables people working in Wales to share things more widely.
 
 It would be great to have somewhere for sharing things that are useful across the community, but not owned by any particular organisation. It could be a GitHub repo, a website or a blog (or a mix of all 3). I'd be happy to put some technical effort into making this happen, if people think it's a good idea (and if others would be able to help supply me with content and resources to put on it?).
+
+## Update on 10 November 2025
+
+[Benjamin Parry](https://benjamin.parry.is/collecting/thoughts/2025/11/future-value-in-a-design-history/) pointed out that [Paul Robert Lloyd](https://paulrobertlloyd.com/) has a UX London talk about [documenting decisions and marking milestones](https://vimeo.com/841887944). In that talk Paul covers design histories. Worth a watch. Thanks Benjamin!
