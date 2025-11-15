@@ -7,21 +7,21 @@ tags:
 - page
 ---
 
-Updated 10 November 2025.
+Updated 15 November 2025.
 
 ## Personal
 
 - Living in: [Swansea](/blog/things-to-do-in-swansea/)
 - Next gig: [Caribou](https://www.caribou.fm/)
-- Listening to: [Strong Message Here](https://www.bbc.co.uk/programmes/m0024cp6)
-- Coffee: [House Filter Primavera Sisterhood Guatemala from Curve Coffee](https://www.curveroasters.co.uk/house-filter-primavera-sisterhood-guatemala)
+- Listening to: [The Streets](https://thestreets.co.uk/)
+- Coffee: [Far Out Freddy Kenya by Ground State](https://www.groundstated8.com/products/far-out-freddy-ethiopian-coffee-earl-grey-tea-ribena-blackcurrant-bomb-filter-coffee-ireland)
 - Challenging myself to: [visit every beach in Swansea and Gower](/blog/visiting-all-the-beaches-in-swansea-and-gower/)
 
 ## Work
 
 - Work: contract interaction designer
 - Using: [tools for designing](/uses)
-- Last user research session: 23 October 2025
+- Last user research session: 14 November 2025
 
 ## Sharing
 
