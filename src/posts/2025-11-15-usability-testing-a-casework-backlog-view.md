@@ -28,7 +28,7 @@ In the background I've also been getting the prototype ready to go up into a Git
 
 Here are a few blog posts, weeknotes and resources that people have written or shared since [GovCamp Cymru](https://www.govcamp.cymru/).
 
-- [From frustration to momentum: GovCamp Cymru 2025](https://medium.com/@niacampbell/from-frustration-to-momentum-govcamp-cymru-2025-adba20563564)
+- [From frustration to momentum: GovCamp Cymru 2025 by Nia Campbell](https://medium.com/@niacampbell/from-frustration-to-momentum-govcamp-cymru-2025-adba20563564)
 - [Weeknotes | 7 November by Monika Mani Swiatek](https://medium.com/user-centered-design-ucd-in-healthcare-in-wales/weeknotes-7-november-8af167a772bc)
 - [IRL FTW by Kevin Mears](https://www.mearso.co.uk/weeknotes/s06e12.html)
 - [Bilingual content design resources by Osian Jones](https://osianrhysjones.github.io/bilingual-content-design-resources/)
