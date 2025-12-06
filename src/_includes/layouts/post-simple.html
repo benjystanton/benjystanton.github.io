@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+{% include 'partials/head.html' %}
+<body>
+<header class="header" role="banner">
+  <div class="container">
+    <div class="header__name">
+      <a class="header__link" href="{{ site.baseurl }}/"><img class="u-photo" src="/images/benjy-stanton-2025.jpeg" width="24" height="24" alt="White man with a beard, wearing a baseball cap and smiling">Benjy Stanton</a>    </div>
+  </div>
+</header>
+<main class="container" id="main-content">
+<article class="h-entry">
+<h1 class="p-name big-data big-data--bigger margin-bottom-0">{{ title }}</h1>
+<div class="e-content">
+{{ content }}
+</div>
+<br>
+<hr>
+{% include 'partials/by-line.html' %}
+</article>
+</main>
+{% include 'partials/footer.html' %}
+</body>
+</html>
