@@ -4,6 +4,7 @@ title: "Benj-ify Wrapped 2024"
 tags:
 - post
 - Personal
+- Wrapped
 excerpt: "I wish Spotify Wrapped included live music, so here is my 2024 run down of gigs and festivals."
 --- 
 
