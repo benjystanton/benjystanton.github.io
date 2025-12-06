@@ -13,7 +13,7 @@
   <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
   <link rel="manifest" href="/site.webmanifest">
   <!-- Webmentions -->
-  <link rel="webmention" href="https://webmention.io/www.benjystanton.co.uk/webmention" />
+  <link rel="webmention" href="https://webmention.io/www.benjystanton.co.uk/webmention">
   <!-- Twitter card -->
   <meta name="twitter:card" content="summary"> 
   <meta name="twitter:site" content="benjystanton"> 
@@ -22,11 +22,11 @@
   {% if image %}<meta name="twitter:image" content="{{ site.url }}/images/{{ image }}">{% endif %}
   {% if image-alt %}<meta name="twitter:image:alt" content="{{ image-alt }}">{% endif %}
   <!-- Open Graph data -->
-  <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
-  <meta property="og:title" content="{% if title %}{{ title }}{% else %}Benjy Stanton{% endif %}" />
-  {% if excerpt %}<meta property="og:description" content="{{ excerpt }}" />{% else %}<meta property="og:description" content="{{ site.description }}" /> {% endif %}
-  <meta property="og:site_name" content="{{ site.name }}" />
-  <meta property="og:locale" content="en_GB" />
-  {% if image %}<meta property="og:image" content="{{ site.url }}/images/{{ image }}" />{% endif %}
-  {% if image-alt %}<meta property="og:image:alt" content="{{ image-alt }}" />{% endif %}
+  <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+  <meta property="og:title" content="{% if title %}{{ title }}{% else %}Benjy Stanton{% endif %}">
+  {% if excerpt %}<meta property="og:description" content="{{ excerpt }}">{% else %}<meta property="og:description" content="{{ site.description }}"> {% endif %}
+  <meta property="og:site_name" content="{{ site.name }}">
+  <meta property="og:locale" content="en_GB">
+  {% if image %}<meta property="og:image" content="{{ site.url }}/images/{{ image }}">{% endif %}
+  {% if image-alt %}<meta property="og:image:alt" content="{{ image-alt }}">{% endif %}
 </head>
