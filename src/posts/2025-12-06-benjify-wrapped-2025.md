@@ -24,7 +24,7 @@ image-alt: "16 live music events, 14 gigs, 2 festivals."
 <li class="panel panel--border"><span class="big-data">3</span> cover bands</li>
 <li class="panel panel--border"><span class="big-data">13</span> indoor</li>
 <li class="panel panel--border"><span class="big-data">3</span> outdoor</li>
-<li class="panel panel--border"><span class="big-data">Highlight?</span> check back soon</li>
+<li class="panel panel--border">Gig of the year <span class="big-data">Caribou</span> </li>
 </ul>
 
 ## My year in gigs
