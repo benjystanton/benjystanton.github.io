@@ -5,7 +5,7 @@ tags:
 - post
 - Weeknotes
 - IPO
-excerpt: "Observing users, working with assistive technology groups, and findings some great accessibility bookmarklets."
+excerpt: "Observing users, working with assistive technology groups, and finding some great accessibility bookmarklets."
 ---
 
 I haven't been weeknoting much recently. I've been focusing on    [Cymru Ddigidol](/blog/introducing-the-cymru-ddigidol-website/). Plus work has been a bit tough. But, I wanted to round off the year with one more post and some highlights.
