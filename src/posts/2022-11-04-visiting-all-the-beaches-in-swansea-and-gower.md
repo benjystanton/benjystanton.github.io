@@ -5,18 +5,16 @@ tags:
 - post
 - Personal
 - Swansea
-excerpt: "I’ve set myself a challenge to visit all the beaches in Swansea and Gower. There are about 40 in total."
+excerpt: "I’ve set myself a challenge to visit all the beaches in Swansea and Gower. There are about 40 in total. I visit some regularly, but many are new to me."
 image: "three-chimneys-square.jpg"
 image-alt: "Rocky cliffs from the beach. A hole has formed in the rocks and you can see blue sky through the middle."
-last_modified_at: 27 August 2025
+last_modified_at: 6 January 2026
 ---
 
 {{ excerpt }}
 
-We visit some of these beaches regularly, but loads are completely new to me. No strict rules, I’m going to include beaches I’ve visited recently, to give myself a head start.
-
-- Beaches visited: 26 of 41 (63%) 🏖️
-- Longest continuous stretch: 9 beaches 📏
+- Beaches visited: 28 of 41 (68%) 🏖️
+- Longest continuous stretch: 10 beaches 📏
 - Seals spotted: 5 (at Broughton, Langland and Worm’s Head) 🦭
 - Favourite beach: Overton Mere ⭐️
 
@@ -240,12 +238,57 @@ Horton is a popular sandy beach on the east side of Port Eynon. It has a small c
 - Date: 18 January 2025
 - Location: [Overton Mere on Open Street Map](https://www.openstreetmap.org/#map=17/51.541217/-4.216325)
 
-<h2 id="worms-head">Worm's Head</h2>
+## Common Cliff to Butterslade
 
-Not really a beach, but a spectacular tidal peninsula. An amazing walk, but be careful of the tides because you can get stranded.
+Includes Foxhole Slade, Knave Bay and Ramsgrove. I ran along the coastal path here in October 2025. Need to go back here and take more photos.
+
+{%
+  include 'partials/image-with-caption.html'
+  image:"unknown-beach.jpeg"
+  caption:"Somwhere beteen Common Cliff to Butterslade, looking east."
+  alt-text:"Looking down into a rocky bay with no sand. It's surrounded by tall cliffs. The rocks are almost purple in the earlu morning light."
+%}
+
+- Date: 25 October 2025
+- Location: ?
+
+<h2 id="mewslade-bay">Mewslade Bay</h2>
+
+{%
+  include 'partials/image-with-caption.html'
+  image:"mewslade-bay.jpeg"
+  caption:"Looking east towards Butterslade"
+  alt-text:"Looking down towards a sandy beach at low tide from high cliffs. The cliffs extend into the sea at the far side."
+%}
+
+- Date: 4 January 2026
+- Location: [Mewslade Bay on Open Street Map](https://www.openstreetmap.org/#map=17/51.560511/-4.281900)
+
+<h2 id="fall-bay">Fall Bay</h2>
+
+{%
+  include 'partials/image-with-caption.html'
+  image:"fall-bay.jpeg"
+  caption:"Looking east towards Mewslade"
+  alt-text:"Pebbly beach with tall, steep rocky cliffs. A man walks in the distance. The sky is very blue with a few clouds."
+%}
+
+- Date: 4 January 2026
+- Location: [Fall Bay on Open Street Map](https://www.openstreetmap.org/#map=17/51.561311/-4.292167)
+
+<h2 id="worms-head">Worm’s Head</h2>
+
+{%
+  include 'partials/image-with-caption.html'
+  image:"worms-head.jpeg"
+  caption:"Rhossili point, looking out across the worm's head causeway"
+  alt-text:"People crossing a rocky causeway across the sea, towards a large grassy peninsula in the distance."
+%}
+
+Not really a beach, but a spectacular tidal peninsula. Be careful of the tides because you can get stranded.
 
 - Date: 19 April 2025
-- Location: [Worm's Head on Open Street Map](https://www.openstreetmap.org/#map=15/51.56130/-4.30947)
+- Location: [Worm’s Head on Open Street Map](https://www.openstreetmap.org/#map=15/51.56130/-4.30947)
 
 <h2 id="rhossili">Rhossili</h2>
 
@@ -365,9 +408,9 @@ Not really a beach, but a spectacular tidal peninsula. An amazing walk, but be c
 28. Knave Bay
 29. Ramsgrove
 30. Butterslade
-31. Mewslade Bay
-32. Fall Bay
-33. [Worm's Head](#worms-head) ✅
+31. [Mewslade Bay](#mewslade-bay) ✅
+32. [Fall Bay](#fall-bay) ✅
+33. [Worm’s Head](#worms-head) ✅
 34. [Rhossili](#rhossili) ✅
 35. [Llangennith](#llangennith) ✅
 36. [Burry Holms](#burry-holms) ✅
