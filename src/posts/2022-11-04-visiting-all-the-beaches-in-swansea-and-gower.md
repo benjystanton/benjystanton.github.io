@@ -15,8 +15,9 @@ last_modified_at: 6 January 2026
 
 - Beaches visited: 28 of 41 (68%) 🏖️
 - Longest continuous stretch: 10 beaches 📏
-- Seals spotted: 5 (at Broughton, Langland and Worm’s Head) 🦭
-- Favourite beach: Overton Mere ⭐️
+- Seals spotted: 5 (at [Broughton](#broughton-bay), [Langland](#langland-bay) and [Worm’s Head](#worms-head)) 🦭
+- Favourite beach: [Overton Mere](#overton-mere) ⭐️
+- [Skip to list of beaches](#swansea-and-gower-beach-checklist)
 
 ***
 
@@ -376,7 +377,7 @@ Not really a beach, but a spectacular tidal peninsula. Be careful of the tides b
 
 ***
 
-## Swansea and Gower beach checklist
+<h2 id="swansea-and-gower-beach-checklist">Swansea and Gower beach checklist</h2>
 
 1. Jersey Marine Beach
 2. [Swansea Bay](#swansea-bay) ✅
@@ -420,7 +421,7 @@ Not really a beach, but a spectacular tidal peninsula. Be careful of the tides b
 40. [Whiteford Sands](#whiteford-sands) ✅
 41. Llanrhidian Sands
 
-## Useful resources
+## Useful links
 
 - [Beaches & Surfing in Gower by Parc Le Breos](https://parc-le-breos.co.uk/things-to-do-in-gower/gower-beach-and-surf-information/)
 - [A pocket guide to Gower (book)](https://sioptytawe.co.uk/products/a-pocket-guide-to-gower)
