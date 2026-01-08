@@ -215,7 +215,6 @@ Last of all, I find the best way to stay up-to-date with techniques and best pra
 
   * [Campaign Monitor][37]
   * [Litmus][38]
-  * [#emailweekly][39]
   * [MailChimp UX Newsletter][40]
 
  [1]: http://createsend.com/t/y-92882CC1798554A3
@@ -256,5 +255,4 @@ Last of all, I find the best way to stay up-to-date with techniques and best pra
  [36]: http://emailwizardry.nightjar.com.au/
  [37]: https://www.campaignmonitor.com/our-story/newsletter/
  [38]: https://litmus.com/subscribe
- [39]: http://emailweekly.co/
  [40]: http://www.theuxnewsletter.com/
