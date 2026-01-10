@@ -7,21 +7,21 @@ tags:
 - page
 ---
 
-Updated 30 November 2025.
+Updated 10 January 2026.
 
 ## Personal
 
 - Living in: [Swansea](/blog/things-to-do-in-swansea/)
-- Next gig: [Caribou](https://www.caribou.fm/)
-- Listening to: [The Streets](https://thestreets.co.uk/)
-- Coffee: [Far Out Freddy Kenya by Ground State](https://www.groundstated8.com/products/far-out-freddy-ethiopian-coffee-earl-grey-tea-ribena-blackcurrant-bomb-filter-coffee-ireland)
+- Next gig: ?
+- Listening to: [Melin Melyn](https://melinmelyn.bandcamp.com/)
+- Coffee: [Plot's Mooleh Manay](https://plotroasting.com/products/mooleh-manay-natural-carbonic-maceration)
 - Challenging myself to: [visit every beach in Swansea and Gower](/blog/visiting-all-the-beaches-in-swansea-and-gower/)
 
 ## Work
 
 - Work: contract interaction designer
 - Using: [tools for designing](/uses)
-- Last user research session: 27 November 2025
+- Last user research session: 18 December 2025
 
 ## Sharing
 
