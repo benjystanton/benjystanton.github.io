@@ -12,7 +12,7 @@ image-alt: "Available April 2023"
 
 Hey friends, I've decided to take the plunge and go contracting.
 
-I'll be available from {{ site.availability }}, so if you know of any interesting opportunities kicking off around then, please let me know!
+If you know of any interesting opportunities kicking off , please let me know!
 
 ## What I'm looking for
 
