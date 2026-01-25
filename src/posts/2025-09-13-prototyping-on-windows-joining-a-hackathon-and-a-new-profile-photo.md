@@ -5,7 +5,7 @@ tags:
 - post
 - Weeknotes
 - Interaction design
-- IPO
+- Team 3
 excerpt: "A weeknote starting 8 September 2025."
 image: "benjy-stanton-2025.jpeg"
 image-alt: "White man with a beard, wearing a baseball cap and smiling."

@@ -4,7 +4,7 @@ title: "First weeknote of 2026"
 tags:
 - post
 - Weeknotes
-- IPO
+- Team 3
 excerpt: "Component libraries and journey maps."
 ---
 

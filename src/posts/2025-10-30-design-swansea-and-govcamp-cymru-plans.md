@@ -4,7 +4,7 @@ title: "Design Swansea and GovCamp Cymru plans"
 tags:
 - post
 - Weeknotes
-- IPO
+- Team 3
 excerpt: "A weeknote starting 27 October 2025."
 --- 
 

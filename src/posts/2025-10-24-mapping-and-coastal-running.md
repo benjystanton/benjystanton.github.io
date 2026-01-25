@@ -4,7 +4,7 @@ title: "Mapping and coastal running"
 tags:
 - post
 - Weeknotes
-- IPO
+- Team 3
 excerpt: "A weeknote starting 20 October 2025."
 --- 
 

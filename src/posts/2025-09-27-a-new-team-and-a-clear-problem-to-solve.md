@@ -4,7 +4,7 @@ title: "A new team and a clear problem to solve"
 tags:
 - post
 - Weeknotes
-- IPO
+- Team 3
 excerpt: "A double weeknote starting 15 September 2025."
 --- 
 

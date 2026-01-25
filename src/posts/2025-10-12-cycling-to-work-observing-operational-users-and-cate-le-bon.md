@@ -4,7 +4,7 @@ title: "Cycling to work, observing operational users and Cate Le Bon"
 tags:
 - post
 - Weeknotes
-- IPO
+- Team 3
 excerpt: "A weeknote starting 6 October 2025."
 --- 
 

@@ -4,7 +4,7 @@ title: "Getting stuck into journey mapping"
 tags:
 - post
 - Weeknotes
-- IPO
+- Team 3
 - Service design
 excerpt: "Creating some new maps, identifying patterns and opportunities."
 ---

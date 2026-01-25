@@ -4,7 +4,7 @@ title: "First week at IPO"
 tags:
 - post
 - Weeknotes
-- IPO
+- Team 3
 excerpt: "A weeknote starting 1 September 2025."
 --- 
 

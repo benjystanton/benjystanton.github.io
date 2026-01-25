@@ -4,7 +4,7 @@ title: "Design community of practice, prototyping internal services and watching
 tags:
 - post
 - Weeknotes
-- IPO
+- Team 3
 excerpt: "A weeknote starting 13 October 2025."
 --- 
 

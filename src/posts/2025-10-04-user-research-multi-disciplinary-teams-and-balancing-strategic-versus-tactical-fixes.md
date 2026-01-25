@@ -4,7 +4,7 @@ title: "User research, multi-disciplinary teams and balancing strategic versus t
 tags:
 - post
 - Weeknotes
-- IPO
+- Team 3
 excerpt: "A weeknote starting 29 September 2025."
 --- 
 

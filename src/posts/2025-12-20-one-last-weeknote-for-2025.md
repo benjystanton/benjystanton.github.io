@@ -4,7 +4,7 @@ title: "One last weeknote for 2025"
 tags:
 - post
 - Weeknotes
-- IPO
+- Team 3
 excerpt: "Observing users, working with assistive technology groups, and finding some great accessibility bookmarklets."
 ---
 
