@@ -44,3 +44,5 @@ It's something I need to work on.
 - [I'm back to building my own digital music collection by Hidde de Vries](https://hidde.blog/owning-music/)
 - [Accessibility for Everyone by Laura Kalbag](https://accessibilityforeveryone.site/)
 - [Accessible building blocks for web: headings. YouTube video by TetraLogical](https://www.youtube.com/watch?v=sfFvBs0WcPk)
+- [Working in the open for leaders by Transform Wales](https://www.transform.wales/blog/2026/working-in-the-open-for-leaders/)
+- [How an accessibility designer adds keyboard shortcuts to a web app by Eric Bailey](https://ericwbailey.website/published/how-an-accessibility-designer-adds-keyboard-shortcuts-to-a-web-app/)
