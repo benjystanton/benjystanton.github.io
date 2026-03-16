@@ -21,7 +21,7 @@ Monday was a bank holiday. I needed a day to recover because I went to The Bigge
 
 ![The very long bulletin page on the right and the new very short page on the left](/images/bulletin-new-and-old.png)
 
-On Tuesday I had a meeting with [Andy](https://twitter.com/mr_dudders), [Laura](https://twitter.com/lauradee) and [Ian](https://twitter.com/iankent) to review progress on the [bulletin page redesign](http://www.benjystanton.co.uk/dp-prototype-kit/sprint/25/crime-overview/). Andy wrote in his [weeknotes](http://mrdudders.posthaven.com/week-notes-spring-special) that I seemed nervous. I was nervous. It was called a "challenge" meeting. With my boss and my boss's boss. Who wouldn't be nervous? Anyway, it went well I think and the feedback was basically "keep going but make you sure consider a few things". I made lots of notes.
+On Tuesday I had a meeting with [Andy](https://twitter.com/mr_dudders), [Laura](https://twitter.com/lauradee) and [Ian](https://twitter.com/iankent) to review progress on the bulletin page redesign. Andy wrote in his [weeknotes](http://mrdudders.posthaven.com/week-notes-spring-special) that I seemed nervous. I was nervous. It was called a "challenge" meeting. With my boss and my boss's boss. Who wouldn't be nervous? Anyway, it went well I think and the feedback was basically "keep going but make you sure consider a few things". I made lots of notes.
 
 ## Wednesday
 
@@ -31,7 +31,7 @@ On Wednesday I went to GDS (Government Digital Service) in London to chat to som
 
 ### Prototyping on the train
 
-On the train to Paddington from Swansea I started creating a prototype for the [find data by location](http://www.benjystanton.co.uk/dp-prototype-kit/sprint/25/geography/local-authorities/bristol/) journey that we're working on. I think I do some of my best work in 'Coach A' (the quiet carriage on the Great Western Railway between Swansea and Paddington).
+On the train to Paddington from Swansea I started creating a prototype for the 'find data by location' journey that we're working on. I think I do some of my best work in 'Coach A' (the quiet carriage on the Great Western Railway between Swansea and Paddington).
 
 ## Thursday
 

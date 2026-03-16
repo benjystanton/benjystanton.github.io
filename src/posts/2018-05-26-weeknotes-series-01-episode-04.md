@@ -29,11 +29,11 @@ Another new starter this week. We've hired a temporary UX designer to help while
 
 ### End of sprint 24
 
-Wednesday was a good day for the new starters as we had our fortnightly show and tell, covering [things we'd done to improve the ONS website](https://onsdigital.github.io/dp-prototypes/#sprint-24).
+Wednesday was a good day for the new starters as we had our fortnightly show and tell, covering things we'd done to improve the ONS website.
 
 ### Publish a dataset prototype
 
-My main focus has been working on the '[publish a dataset](http://www.benjystanton.co.uk/dp-prototype-kit/sprint/24/publish-a-dataset/)' prototype. The next step is to test the second iteration with the publishing team, to see if we've solved some of the problems we found last time.
+My main focus has been working on the 'publish a dataset' prototype. The next step is to test the second iteration with the publishing team, to see if we've solved some of the problems we found last time.
 
 ## Thursday
 
@@ -47,7 +47,7 @@ My main focus has been working on the '[publish a dataset](http://www.benjystant
 
 ![Our plan for the bulletin workshop](/images/bulletin-workshop-plan.jpg)
 
-We also had an all-day workshop to continue the [bulletin](https://digitalblog.ons.gov.uk/2018/05/17/making-better-bulletins-lets-start-with-what-we-know/) work we'd started in the design sprint a few weeks ago. We wanted to get together and [iterate on the prototype](http://www.benjystanton.co.uk/dp-prototype-kit/sprint/25/crime-overview/), following the first round of user research.
+We also had an all-day workshop to continue the [bulletin](https://digitalblog.ons.gov.uk/2018/05/17/making-better-bulletins-lets-start-with-what-we-know/) work we'd started in the design sprint a few weeks ago. We wanted to get together and iterate on the prototype, following the first round of user research.
 
 It was great to get product manager, UX design, content design, graphic design and editorial back together, working on the prototype at the same time. We also managed to book the [best room in the house](https://twitter.com/darrenwaters/status/999683035489554432).
 

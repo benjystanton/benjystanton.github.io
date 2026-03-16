@@ -44,7 +44,7 @@ On Thursday I went to Birmingham with [Al](https://twitter.com/AldaviesAlison) t
 
 ### Prototyping on the train
 
-Whilst on the train back I began to split the [ONS website prototype kit](https://github.com/benjystanton/dp-prototype-kit) out of the [design manual](https://github.com/ONSdigital/dp-design-manual) repo. It no longer makes sense to keep them together and having them separate should make it easier to update both.
+Whilst on the train back I began to split the ONS website prototype kit out of the design manual repo. It no longer makes sense to keep them together and having them separate should make it easier to update both.
 
 ## Friday
 

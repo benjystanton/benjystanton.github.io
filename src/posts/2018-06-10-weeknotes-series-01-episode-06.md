@@ -31,7 +31,7 @@ It reminded me that we have made some progress in breaking down the silos in the
 
 ### Wednesday was intense
 
-In the morning I finished off my [find data by location](https://dp-prototype-kit.netlify.com/sprint/25/geography-2/) prototype, then presented it at our usual end-of-sprint show and tell.
+In the morning I finished off my 'find data by location' prototype, then presented it at our usual end-of-sprint show and tell.
 
 [Sue](https://twitter.com/SuepremeDesign) (graphic designer from Home Office Digital) visited. She spent some time chatting with the various design teams (thanks everyone who spent time showing her around). She has plans to start a cross-gov graphic design meet-up.
 
