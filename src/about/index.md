@@ -6,7 +6,7 @@ tags:
 - page
 ---
 
-My name is Benjy Stanton. I’m a contract interaction designer. I’m experienced in working with UK Government teams to design public services. I’m passionate about designing accessible digital products.
+My name is Benjy Stanton. I’m a contract interaction and service designer. I’m experienced in working with UK Government teams to design public services. I’m passionate about designing accessible digital products.
 
 <img class="image-avatar" src="/images/benjy-stanton-2025.jpeg" width="48" height="48" alt="White man with a beard, wearing a baseball cap and smiling">
 
@@ -19,7 +19,7 @@ My name is Benjy Stanton. I’m a contract interaction designer. I’m experienc
 
 ## Summary
 
-I’m a hands-on interaction designer, product designer and user experience (UX) designer. I have experience in the public and private sector. I work with agile, multidisciplinary teams that care about user-centred design.
+I’m a hands-on interaction designer, service designer and user experience (UX) designer. I have experience in the public and private sector. I work with agile, multidisciplinary teams that care about user-centred design.
 
 I work with teams to:
 
@@ -52,7 +52,7 @@ I’m an advocate for accessibility and inclusive design. I help teams to do use
 
 ## Experience
 
-### Designer at Intellectual Property Office (IPO) (contract)
+### Service designer at Intellectual Property Office (IPO) (contract)
 
 Started September 2025
 
