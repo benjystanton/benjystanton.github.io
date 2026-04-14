@@ -5,19 +5,20 @@ tags:
 - post
 - Personal
 - Swansea
-excerpt: "I’ve set myself a challenge to visit all the beaches in Swansea and Gower. There are about 40 in total. I visit some regularly, but many are new to me."
+excerpt: "I’ve set myself a challenge to visit all the beaches in Swansea and Gower. There are over 40 beaches in total, depending on how you count them."
 image: "three-chimneys-square.jpg"
 image-alt: "Rocky cliffs from the beach. A hole has formed in the rocks and you can see blue sky through the middle."
-last_modified_at: 6 January 2026
+last_modified_at: 14 April 2026
 ---
 
 {{ excerpt }}
 
-- Beaches visited: 28 of 41 (68%) 🏖️
+- Beaches visited: 28 of 42 (67%) 🏖️
 - Longest continuous stretch: 10 beaches 📏
 - Seals spotted: 5 (at [Broughton](#broughton-bay), [Langland](#langland-bay) and [Worm’s Head](#worms-head)) 🦭
 - Favourite beach: [Overton Mere](#overton-mere) ⭐️
-- [Skip to list of beaches](#swansea-and-gower-beach-checklist)
+
+[Skip to list of beaches](#swansea-and-gower-beach-checklist)
 
 ***
 
@@ -377,7 +378,9 @@ Not really a beach, but a spectacular tidal peninsula. Be careful of the tides b
 
 ***
 
-<h2 id="swansea-and-gower-beach-checklist">Swansea and Gower beach checklist</h2>
+<h2 id="swansea-and-gower-beach-checklist">Swansea and Gower beach list</h2>
+
+A list of all the Swansea and Gower beaches I've visited so far.
 
 1. Jersey Marine Beach
 2. [Swansea Bay](#swansea-bay) ✅
@@ -419,7 +422,8 @@ Not really a beach, but a spectacular tidal peninsula. Be careful of the tides b
 38. [Little Broughton](#little-broughton) ✅
 39. [Broughton Bay](#broughton-bay) ✅
 40. [Whiteford Sands](#whiteford-sands) ✅
-41. Llanrhidian Sands
+41. Whiteford Point
+42. Llanrhidian Sands
 
 ## Useful links
 
