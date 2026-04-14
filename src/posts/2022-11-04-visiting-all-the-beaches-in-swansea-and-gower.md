@@ -27,9 +27,11 @@ last_modified_at: 14 April 2026
 {%
   include 'partials/image-with-caption.html'
   image:"swansea-bay.jpg"
-  caption:"Swansea Bay, near Sketty Lane"
+  caption:"Swansea Bay, near Sketty Lane."
   alt-text:"A small dog sniffs near 3 mounds of long grass in the sand. Choppy sea in the background. Rays of sun and blue sky break through a grey sky."
 %}
+
+A huge beach that stretches from Swansea city centre to Mumbles. A flat, accessible cycling and walking path lines the whole way.
 
 - Date: 8 March 2022
 - Location: [Swansea Bay on Open Street Map](https://www.openstreetmap.org/#map=17/51.60491/-3.98236)
@@ -39,7 +41,7 @@ last_modified_at: 14 April 2026
 {%
   include 'partials/image-with-caption.html'
   image:"knab-rock.jpg"
-  caption:"Paddle boarding around Mumbles passing Knab Rock, photo by Dylan Tucker"
+  caption:"Paddle boarding around Mumbles passing Knab Rock, photo by Dylan Tucker."
   alt-text:"Two paddle boarders on the sea. Cliffs topped with trees in the background. Sky is cloudy and blue."
 %}
 
@@ -55,6 +57,8 @@ last_modified_at: 14 April 2026
   alt-text:"Small rocky island with a lighthouse, just the other side of the water from a sandy beach."
 %}
 
+This small beach is tucked behind the the big wheel on the pier. Good spot for crabbing.
+
 - Date: 19 November 2022
 - Location: [Mumbles Head Beach on Open Street Map](https://www.openstreetmap.org/#map=17/51.56857/-3.97628)
 
@@ -63,9 +67,11 @@ last_modified_at: 14 April 2026
 {%
   include 'partials/image-with-caption.html'
   image:"bracelet-bay-02.jpg"
-  caption:"Bracelet Bay towards Mumbles lighthouse"
+  caption:"Bracelet Bay towards Mumbles lighthouse."
   alt-text:"Sandy beach with rocks at the shore. In the distance is a lighthouse on a small rocky island."
 %}
+
+There's a large car park, a restaurant and playground nearby.
 
 - Date: 16 October 2022
 - Location: [Bracelet Bay on Open Street Map](https://www.openstreetmap.org/#map=17/51.567019/-3.978289)
@@ -75,9 +81,11 @@ last_modified_at: 14 April 2026
 {%
   include 'partials/image-with-caption.html'
   image:"limeslade-bay.jpg"
-  caption:"Limeslade Beach looking south west"
+  caption:"Limeslade Beach looking south west."
   alt-text:"Grey rocks and pebbles disappear into the sea at the shore. Jagged rocks poke out of the sea, and rocky headland can be seen in the distance."
 %}
+
+A small rocky bay, just around from Limeslade. The coastal path around to Langland starts here.
 
 - Date: 14 November 2022
 - Location: [Limeslade Beach on Open Street Map](https://www.openstreetmap.org/#map=17/51.56617/-3.98436)
@@ -87,7 +95,7 @@ last_modified_at: 14 April 2026
 {%
   include 'partials/image-with-caption.html'
   image:"rotherslade-bay.jpg"
-  caption:"Rotherslade Bay looking towards Langland Bay"
+  caption:"Rotherslade Bay looking towards Langland Bay."
   alt-text:"A sandy, pebbly beach at low tide. Beyond the rocks on one side, another beach and green hills can be seen."
 %}
 
