@@ -427,5 +427,6 @@ A list of all the Swansea and Gower beaches I've visited so far.
 
 ## Useful links
 
-- [Beaches & Surfing in Gower by Parc Le Breos](https://parc-le-breos.co.uk/things-to-do-in-gower/gower-beach-and-surf-information/)
-- [A pocket guide to Gower (book)](https://sioptytawe.co.uk/products/a-pocket-guide-to-gower)
+- [Gower Beaches & Surfing - Parc Le Breos](https://parc-le-breos.co.uk/things-to-do-in-gower/gower-beach-and-surf-information/)
+- [A pocket guide to Gower (book) - Siop Tŷ Tawe](https://sioptytawe.co.uk/products/a-pocket-guide-to-gower)
+- [Beaches - Gower Holidays](https://www.gowerholidays.com/attractions-activities-in-gower-swansea/beaches/)
