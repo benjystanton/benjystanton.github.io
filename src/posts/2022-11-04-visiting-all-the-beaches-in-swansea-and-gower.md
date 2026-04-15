@@ -5,17 +5,17 @@ tags:
 - post
 - Personal
 - Swansea
-excerpt: "I’ve set myself a challenge to visit all the beaches in Swansea and Gower. There are over 40 beaches in total, depending on how you count them."
+excerpt: "A personal challenge to visit all 40 plus beaches in Swansea and Gower, with photos, tips and map links for each one."
 image: "three-chimneys-square.jpg"
 image-alt: "Rocky cliffs from the beach. A hole has formed in the rocks and you can see blue sky through the middle."
-last_modified_at: 14 April 2026
+last_modified_at: 15 April 2026
 ---
 
 {{ excerpt }}
 
 - Beaches visited: 28 of 42 (67%) 🏖️
 - Longest continuous stretch: 10 beaches 📏
-- Seals spotted: 5 (at [Broughton](#broughton-bay), [Langland](#langland-bay) and [Worm’s Head](#worms-head)) 🦭
+- Seals spotted: 5 (at [Little Broughton](#little-broughton), [Langland](#langland-bay) and [Worm’s Head](#worms-head)) 🦭
 - Favourite beach: [Overton Mere](#overton-mere) ⭐️
 
 [Skip to list of beaches](#swansea-and-gower-beach-checklist)
@@ -45,6 +45,8 @@ A huge beach that stretches from Swansea city centre to Mumbles. A flat, accessi
   alt-text:"Two paddle boarders on the sea. Cliffs topped with trees in the background. Sky is cloudy and blue."
 %}
 
+The last bit of beach before the pier. Quite rocky and completely covered at high tide. Car parks and places to eat nearby.
+
 - Date: 28 July 2022
 - Location: [Knab Rock on Open Street Map](https://www.openstreetmap.org/#map=17/51.57106/-3.98029)
 
@@ -57,7 +59,7 @@ A huge beach that stretches from Swansea city centre to Mumbles. A flat, accessi
   alt-text:"Small rocky island with a lighthouse, just the other side of the water from a sandy beach."
 %}
 
-This small beach is tucked behind the the big wheel on the pier. Good spot for crabbing.
+This small beach is tucked behind the the big wheel on the pier. Good spot for crabbing. Cafes, amusement arcades and fairground style attractions nearby.
 
 - Date: 19 November 2022
 - Location: [Mumbles Head Beach on Open Street Map](https://www.openstreetmap.org/#map=17/51.56857/-3.97628)
@@ -85,7 +87,7 @@ There's a large car park, a restaurant and playground nearby.
   alt-text:"Grey rocks and pebbles disappear into the sea at the shore. Jagged rocks poke out of the sea, and rocky headland can be seen in the distance."
 %}
 
-A small rocky bay, just around from Limeslade. The coastal path around to Langland starts here.
+A small rocky beach, just around from Bracelet Bay. The coastal path to Langland starts here. Fortes ice cream parlour is nearby.
 
 - Date: 14 November 2022
 - Location: [Limeslade Beach on Open Street Map](https://www.openstreetmap.org/#map=17/51.56617/-3.98436)
@@ -99,6 +101,8 @@ A small rocky bay, just around from Limeslade. The coastal path around to Langla
   alt-text:"A sandy, pebbly beach at low tide. Beyond the rocks on one side, another beach and green hills can be seen."
 %}
 
+This small beach is cut off from Langland at high tide. There is a cafe at the top. Not much parking.
+
 - Date: 4 November 2022
 - Location: [Rotherslade Bay on Open Street Map](https://www.openstreetmap.org/#map=17/51.567/-4.007)
 
@@ -110,6 +114,10 @@ A small rocky bay, just around from Limeslade. The coastal path around to Langla
   caption:"Sunrise at Langland"
   alt-text:"Waves on a sandy shoreline. Sunrise behind the headland in the distance is reflecting orange in the wet sand."
 %}
+
+Very popular beach, lined with beach huts. Good surf. Has a cafe, restaurant, shop, tennis courts and lots of parking. Can be hard to find a space when it's busy though.
+
+Possible to spot seals on the coastal path around to Caswell.
 
 - Date: 9 October 2022
 - Location: [Langland Bay on Open Street Map](https://www.openstreetmap.org/#map=17/51.56680/-4.01322)
@@ -123,6 +131,8 @@ A small rocky bay, just around from Limeslade. The coastal path around to Langla
   alt-text:"Beach with tide out. Sun, blue sky and cliffs in distance reflect off the water."
 %}
 
+Another popular beach, slightly younger crowd than Langland as it's more sheltered. Good for surf lessons. Another large car park that can get very busy. Huge beach a low tide, quite small at high tide.
+
 - Date: 6 February 2022
 - Location: [Caswell Bay on Open Street Map](https://www.openstreetmap.org/#map=17/51.56865/-4.03344)
 
@@ -134,6 +144,8 @@ A small rocky bay, just around from Limeslade. The coastal path around to Langla
   caption:"Looking towards Brandy Cove from the coastal path that leads to Caswell"
   alt-text:"View down from a coastal path to a small sandy and rocky beach. Small waves break from the left. Cliffs on the far side lead up to dark green hills with shrubs and bushes."
 %}
+
+Small hidden cove. Long walk to get there.
 
 - Date: 3 December 2022
 - Location: [Brandy Cove on Open Street Map](https://www.openstreetmap.org/#map=17/51.56784/-4.04355)
@@ -356,6 +368,8 @@ Not really a beach, but a spectacular tidal peninsula. Be careful of the tides b
   caption:"Little Broughton at low tide"
   alt-text:"A massive stretch of wet sand with grass topped cliffs in the distance. The cliffs and sky are mirrored almost perfectly in the wet sand below."
 %}
+
+A small cove that is cut off from main Broughton beach at high tide. Small cave to explore. Can spot seals there sometimes. Accessible through Broughton caravan site or along the coastal path.
 
 - Date: 12 November 2022
 - Location: [Little Broughton on Open Street Map](https://www.openstreetmap.org/#map=17/51.61455/-4.29025)
