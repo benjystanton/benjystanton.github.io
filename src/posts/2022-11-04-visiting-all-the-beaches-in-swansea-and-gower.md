@@ -8,12 +8,12 @@ tags:
 excerpt: "A personal challenge to visit all 40 plus beaches in Swansea and Gower, with photos, tips and map links for each one."
 image: "three-chimneys-square.jpg"
 image-alt: "Rocky cliffs from the beach. A hole has formed in the rocks and you can see blue sky through the middle."
-last_modified_at: 15 April 2026
+last_modified_at: 18 April 2026
 ---
 
 {{ excerpt }}
 
-- Beaches visited: 28 of 42 (67%) 🏖️
+- Beaches visited: 29 of 42 (69%) 🏖️
 - Longest continuous stretch: 10 beaches 📏
 - Seals spotted: 5 (at [Little Broughton](#little-broughton), [Langland](#langland-bay) and [Worm’s Head](#worms-head)) 🦭
 - Favourite beach: [Overton Mere](#overton-mere) ⭐️
@@ -59,7 +59,7 @@ The last bit of beach before the pier. Quite rocky and completely covered at hig
   alt-text:"Small rocky island with a lighthouse, just the other side of the water from a sandy beach."
 %}
 
-This small beach is tucked behind the the big wheel on the pier. Good spot for crabbing. Cafes, amusement arcades and fairground style attractions nearby.
+This small beach is tucked behind the big wheel on the pier. Good spot for crabbing. Cafes, amusement arcades and fairground style attractions nearby.
 
 - Date: 19 November 2022
 - Location: [Mumbles Head Beach on Open Street Map](https://www.openstreetmap.org/#map=17/51.56857/-3.97628)
@@ -198,6 +198,20 @@ Small hidden cove. Long walk to get there.
 - Date: 11 January 2025
 - Location: [Pobbles on Open Street Map](https://www.openstreetmap.org/#map=17/51.568434/-4.109048)
 
+<h2 id="three-cliffs-bay">Three Cliffs Bay</h2>
+
+{%
+  include 'partials/image-with-caption.html'
+  image:"three-cliffs-bay.jpg"
+  caption:"Looking towards Three Cliffs from the path near Pennard castle."
+  alt-text:"A rocky and grassy headland stretching out into the sea. The tip has 3 peaks. The skyline with wispy clouds."
+%}
+
+A picturesque beach with a famous 3 peaked headland and castle ruins. The walk from Parkmill along the river estuary is long and sandy but worth it.
+
+- Date: 18 April 2026
+- Location: [Three Cliffs Bay on Open Street Map](https://www.openstreetmap.org/#map=17/51.571412/-4.113114)
+
 <h2 id="oxwich-bay">Oxwich Bay</h2>
 
 {%
@@ -267,7 +281,7 @@ Includes Foxhole Slade, Knave Bay and Ramsgrove. I ran along the coastal path he
 {%
   include 'partials/image-with-caption.html'
   image:"unknown-beach.jpeg"
-  caption:"Somwhere beteen Common Cliff to Butterslade, looking east."
+  caption:"Somewhere between Common Cliff to Butterslade, looking east."
   alt-text:"Looking down into a rocky bay with no sand. It's surrounded by tall cliffs. The rocks are almost purple in the earlu morning light."
 %}
 
@@ -420,7 +434,7 @@ A list of all the Swansea and Gower beaches I've visited so far.
 14. [Foxhole](#foxhole) ✅
 15. [Heatherslade Bay](#heatherslade-bay) ✅
 16. [Pobbles Bay](#pobbles-bay) ✅
-17. Three Cliffs Bay
+17. [Three Cliffs Bay](#three-cliffs-bay) ✅
 18. Tor Bay
 19. Nicholaston / Crawley Beach
 20. [Oxwich Bay](#oxwich-bay) ✅
