@@ -221,6 +221,8 @@ A picturesque beach with a famous 3 peaked headland and castle ruins. The walk f
   alt-text:"A wooden barrel sauna on a trailer on the beach. The tide is out in the background and it's cloudy."
 %}
 
+A huge, popular beach with a large accessible car park. Has a little cafe, hotel with beer garden, and a Michelin Star restaurant.
+
 - Date: 13 March 2025
 - Location: [Oxwich Bay on Open Street Map](https://www.openstreetmap.org/#map=16/51.55589/-4.16103)
 
@@ -243,9 +245,11 @@ Horton is a popular sandy beach on the east side of Port Eynon. It has a small c
 {%
   include 'partials/image-with-caption.html'
   image:"port-eynon.jpg"
-  caption:"Looking east towards Horton and Oxwich point"
+  caption:"Looking east towards Horton and Oxwich point."
   alt-text:"A vast sandy beach at low tide with sand dunes, white houses and green headland in the distance."
 %}
+
+A large beach with car park. Shops, cafe, campsites and pub nearby.
 
 - Date: 18 January 2025
 - Location: [Port Eynon on Open Street Map](https://www.openstreetmap.org/#map=17/51.543713/-4.205875)
