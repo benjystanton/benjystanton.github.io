@@ -7,21 +7,21 @@ tags:
 - page
 ---
 
-Updated 10 January 2026.
+Updated 4 July 2026.
 
 ## Personal
 
 - Living in: [Swansea](/blog/things-to-do-in-swansea/)
-- Next gig: ?
-- Listening to: [Melin Melyn](https://melinmelyn.bandcamp.com/)
-- Coffee: [Plot's Mooleh Manay](https://plotroasting.com/products/mooleh-manay-natural-carbonic-maceration)
+- Next gig: [The Flaming Lips](https://www.flaminglips.com/)
+- Listening to: [The Blindboy Podcast](https://shows.acast.com/blindboy)
+- Coffee: [El Salvador - Santa Ana from Ffilter/Sloth](https://ffiltercoffeeroaster.com/products/burundi-kayanza)
 - Challenging myself to: [visit every beach in Swansea and Gower](/blog/visiting-all-the-beaches-in-swansea-and-gower/)
 
 ## Work
 
-- Work: contract interaction designer
+- Work: Lead interaction designer at NHS England (contract)
 - Using: [tools for designing](/uses)
-- Last user research session: 18 December 2025
+- Last user research session: 1 July 2026
 
 ## Sharing
 
