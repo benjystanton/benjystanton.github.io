@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "My personal site.",
   "main": ".eleventy.js",
+  "engines": {
+    "node": "24.x"
+  },
   "scripts": {
     "start": "npx eleventy --serve"
   },
