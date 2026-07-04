@@ -43,7 +43,7 @@ Here are some initial opportunities or ideas I can see from my early conversatio
 
 My last day at IPO (Intellectual Property Office) was on Monday. I was sad to leave the design community and my delivery team.
 
-I was proud to have played aleaving-ipo-joining-nhs-england part in the launch of their [new patents service](https://www.gov.uk/government/news/introducing-the-one-ipo-roadmap).
+I was proud to have played a part in the launch of their [new patents service](https://www.gov.uk/government/news/introducing-the-one-ipo-roadmap).
 
 Wishing them all the best as they enter phase 2 of IPO's transformation. 
 
