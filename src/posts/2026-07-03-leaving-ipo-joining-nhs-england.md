@@ -4,6 +4,7 @@ title: "Leaving IPO, joining NHS England"
 tags:
 - post
 - Weeknotes
+- RAVS
 excerpt: "My first week on NHSE's record a vaccination service."
 image: "mighty-hike.jpeg"
 image-alt: "A selfie of the top of my head as I walk up a hill away from a caravan site near the beach."
