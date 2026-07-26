@@ -14,6 +14,8 @@ excerpt: "Eiffel Tower, Disneyland, Vulture Capitalism and heat waves."
 
 I've just got back from a big family holiday in France. 18 of us drove down in convey from Swansea, crossing from Folkestone to Coquelles on the Eurotunnel to visit Paris and Disneyland.
 
+It was lovely to spend a whole week with my parents, my siblings and their partners and kids (and even some of the kids brought their partners). It's so difficult to get all of us together these days.
+
 ## Eiffel Tower
 
 I really enjoyed climbing the Eiffel Tower. I was surprised how much was going on there, especially on the first floor – shops, bars, restaurants etc. We didn't go right to the top though, floor 2 was enough for me. We also saw the Arc de Triomphe and walked along the Seine. We'd like to try a river boat next time.
