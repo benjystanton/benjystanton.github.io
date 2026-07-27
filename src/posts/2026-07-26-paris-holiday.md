@@ -12,7 +12,7 @@ excerpt: "Eiffel Tower, Disneyland, Vulture Capitalism and heat waves."
 
 {{ excerpt }}
 
-I've just got back from a big family holiday in France. 18 of us drove down in convey from Swansea, crossing from Folkestone to Coquelles on the Eurotunnel to visit Paris and Disneyland.
+I've just got back from a big family holiday in France. 18 of us travelled down in convey from Swansea, crossing from Folkestone to Coquelles on the Eurotunnel to visit Paris and Disneyland.
 
 It was lovely to spend a whole week with my parents, my siblings and their partners and kids (and even some of the kids brought their partners). It's so difficult to get all of us together these days.
 
