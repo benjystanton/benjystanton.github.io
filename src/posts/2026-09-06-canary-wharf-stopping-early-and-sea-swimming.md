@@ -16,7 +16,7 @@ excerpt: "A trip to London to meet the team."
 
 I visited the NHS England offices in London this week. It was nice to meet the team properly for the first time. We even did our stand-up in the office, and actually stood up. It was like 2019 all over again.
 
-The offices are in Canary Wharf which is a part of London I've never been too. It's got a strange vibe, but definitely worth a visit. It's nice being near the water, and cool to see people swimming there too.
+The offices are in Canary Wharf which is a part of London I've never been to. It's got a strange vibe, but definitely worth a visit. It's nice being near the water, and cool to see people swimming there too.
 
 I didn't sleep very well in the hotel, so I felt exhausted by the end of day two.
 
