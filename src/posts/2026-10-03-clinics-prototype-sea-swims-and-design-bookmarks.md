@@ -6,8 +6,8 @@ tags:
 - Weeknotes
 - RAVS
 image: "three-cliffs.jpeg"
-image-alt: "A wooden table with a desktop display, various tablets and a phone all shwoing the same RAVS homepage."
-excerpt: "A picturesque sandy beach with a river running through the middle. 3 peaked cliffs reach into the sea."
+image-alt: "A picturesque sandy beach with a river running through the middle. 3 peaked cliffs reach into the sea."
+excerpt: "Busy working on a new prototype this week, but glad I found time for an evening beach trip with some friends."
 ---
 
 {{ excerpt }}
