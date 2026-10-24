@@ -53,11 +53,15 @@ I’m an advocate for accessibility and inclusive design. I help teams to do use
 
 ## Experience
 
+### Lead interaction designer at NHS England (NHSE) (contract)
+
+Started June 2026
+
 ### Service designer at Intellectual Property Office (IPO) (contract)
 
-Started September 2025
+September 2025 to June 2026
 
-At the IPO I’m working with a team that is designing internal facing products and services. We are working towards releasing our public beta in the next few months. My work mapping the end-to-end journey and observing assistive technology users is helping the team to prioritise efforts in the right areas.
+At the IPO I worked with a team designing internal facing products and services. My work mapping the end-to-end journey and observing assistive technology users helped the team to prioritise efforts in the right areas.
 
 ### Senior interaction designer at Home Office (contract)
 
