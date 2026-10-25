@@ -13,8 +13,8 @@ last_modified_at: 27 April 2026
 
 {{ excerpt }}
 
-- Beaches visited: 29 of 42 (69%) 🏖️
-- Longest continuous stretch: 10 beaches 📏
+- Beaches visited: 33 of 42 (79%) 🏖️
+- Longest continuous stretch: 13 beaches 📏
 - Seals spotted: 5 (at [Little Broughton](#little-broughton), [Langland](#langland-bay) and [Worm’s Head](#worms-head)) 🦭
 - Favourite beach: [Overton Mere](#overton-mere) ⭐️
 
@@ -211,8 +211,18 @@ Location: [Pobbles on Open Street Map](https://www.openstreetmap.org/#map=17/51.
 
 A picturesque beach with a famous 3 peaked headland and castle ruins. The walk from Parkmill along the river estuary is long and sandy but worth it.
 
-<!-- - Date: 18 April 2026 -->
 Location: [Three Cliffs Bay on Open Street Map](https://www.openstreetmap.org/#map=17/51.571412/-4.113114)
+
+<h2 id="tor-bay">Tor Bay</h2>
+
+{%
+  include 'partials/image-with-caption.html'
+  image:"tor-bay.jpeg"
+  caption:"Tor Bay from the path, looking south east."
+  alt-text:"A small sandy cove surrounded on the far side by a grassy cliff with distinctive peaks."
+%}
+
+Location: [Tor Bay on Open Street Map](https://www.openstreetmap.org/#map=17/51.569631/-4.125216)
 
 <h2 id="oxwich-bay">Oxwich Bay</h2>
 
@@ -441,10 +451,10 @@ A list of all the Swansea and Gower beaches I've visited so far.
 15. [Heatherslade Bay](#heatherslade-bay) ✅
 16. [Pobbles Bay](#pobbles-bay) ✅
 17. [Three Cliffs Bay](#three-cliffs-bay) ✅
-18. Tor Bay
-19. Nicholaston / Crawley Beach
+18. [Tor Bay](#tor-bay) ✅
+19. Nicholaston / Crawley Beach ✅
 20. [Oxwich Bay](#oxwich-bay) ✅
-21. Slade Sands
+21. Slade Sands ✅
 22. [Horton](#horton) ✅
 23. [Port Eynon](#port-eynon) ✅
 24. [Salt House Mere](#salt-house-mere) ✅
@@ -452,7 +462,7 @@ A list of all the Swansea and Gower beaches I've visited so far.
 26. Common Cliff
 27. Foxhole Slade
 28. Knave Bay
-29. Ramsgrove
+29. Ramsgrove ✅
 30. Butterslade
 31. [Mewslade Bay](#mewslade-bay) ✅
 32. [Fall Bay](#fall-bay) ✅
