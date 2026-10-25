@@ -29,7 +29,7 @@ We're aiming to do some user research on the prototype next sprint. Watch this s
 I'm really thankful of the opportunity and can see lots of benefits to getting involved with this work, I get to:
 
 - work with, and learn, from amazing designers
-- see sneaks peaks of upcoming features and content
+- see sneak peaks of upcoming features and content
 - have a deeper understanding of the tools and guides that I rely on every day
 - give back to a community that has helped me countless times
 
