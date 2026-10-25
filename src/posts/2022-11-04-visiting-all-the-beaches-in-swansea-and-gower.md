@@ -8,7 +8,7 @@ tags:
 excerpt: "A personal challenge to visit all 40 plus beaches in Swansea and Gower, with photos, tips and map links for each one."
 image: "three-chimneys-square.jpg"
 image-alt: "Rocky cliffs from the beach. A hole has formed in the rocks and you can see blue sky through the middle."
-last_modified_at: 27 April 2026
+last_modified_at: 25 October 2026
 ---
 
 {{ excerpt }}
