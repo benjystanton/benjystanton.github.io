@@ -24,7 +24,7 @@ We're aiming to do some user research on the prototype next sprint. Watch this s
 
 ## Reviewing design community work
 
-[Frankie](https://www.frankieroberto.com/) has been inviting to review some PRs (pull requests) from the wider community work he's involved with, like the [NHS prototype kit](https://prototype-kit.service-manual.nhs.uk/) and [X-GOVUK](https://x-govuk.org/). I feel like I'm dipping my toe slowly into this world.
+[Frankie](https://www.frankieroberto.com/) has been inviting me to review some PRs (pull requests) from the wider community work he's involved with, like the [NHS prototype kit](https://prototype-kit.service-manual.nhs.uk/) and [X-GOVUK](https://x-govuk.org/). I feel like I'm dipping my toe slowly into this world.
 
 I'm really thankful of the opportunity and can see lots of benefits to getting involved with this work, I get to:
 
@@ -33,9 +33,11 @@ I'm really thankful of the opportunity and can see lots of benefits to getting i
 - have a deeper understanding of the tools and guides that I rely on every day
 - give back to a community that has helped me countless times
 
+***
+
 ## Blindboy and Ceri John Phillips
 
-I went to see [Blindboy](https://en.wikipedia.org/wiki/Blindboy_Boatclub) in Cardiff earlier this week. I've only been listening to his podcast for a few months but my wife heard me laughing along to it, so she got me tickets as a surprise present!
+Outside of work, I went to see [Blindboy](https://en.wikipedia.org/wiki/Blindboy_Boatclub) in Cardiff earlier this week. I've only been listening to his podcast for a few months but my wife heard me laughing along to it, so she got me tickets as a surprise present!
 
 I love listening to the way he links things like folklore, politics, technology and the environment.
 
@@ -47,8 +49,8 @@ I'd recommend listening to [Blindboy's podcast](https://theblindboypodcast.ie/) 
 
 I also went to see [Chali 2na](https://en.wikipedia.org/wiki/Chali_2na) (of [Jurassic 5](https://en.wikipedia.org/wiki/Jurassic_5) fame). It was great to see such an amazing rapper in such a small venue, although I reckon he should be filling much bigger places.
 
-He really got the modest crowd going though and I reckon everyone there knew every single word of classic like [Concrete Schoolyard (Youtube video)](https://www.youtube.com/watch?v=mcFmo_v81IU).
+He really got the modest crowd going though and I reckon everyone there knew every single word of classics like [Concrete Schoolyard (Youtube video)](https://www.youtube.com/watch?v=mcFmo_v81IU).
 
 ## ~~Bookmarks~~ Bookmark
 
-- [Addressing accessibility issues in your service - GOV.UK   Design System](https://design-system.service.gov.uk/accessibility/address-issues/)
+[Addressing accessibility issues in your service - GOV.UK   Design System](https://design-system.service.gov.uk/accessibility/address-issues/)
