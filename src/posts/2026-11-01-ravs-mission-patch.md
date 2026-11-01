@@ -43,3 +43,11 @@ I'm happy with how this turned out. I think it feels like the other RAVS mission
 Although, I think the AI one is better in a few ways. I may spend some time updating the colours in my final design, so they are a bit more vibrant? Maybe I should just swallow my pride and use the AI version?
 
 Anyway, next step is get these printed and distributed to the team. Luckily there is an effort across my department to get these printed ready for our winter in-person events in November and December.
+
+***
+
+### Update - final_final
+
+I spent a bit more time tweaking the shapes and making the colours less washed-out.
+
+<img style="width:50%;" src="/images/final_final.png" alt="A simple style drawing of a queue of rabbits entering a pharmacy. The colours are more vibrant than the previous one.">
