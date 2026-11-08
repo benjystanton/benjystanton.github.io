@@ -4,6 +4,7 @@ title: Books about racism in the UK
 tags:
 - post
 - Personal
+excerpt: "Books and other resources about racism and anti-racism, with a focus on the UK."
 image: "anti-racism-books.jpg"
 image-alt: "Brit(ish), The Good Immigrant and Why I’m No Longer Talking to White People About Race"
 last_modified_at: 8 November 2026
