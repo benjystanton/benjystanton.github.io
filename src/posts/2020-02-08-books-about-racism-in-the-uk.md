@@ -31,7 +31,7 @@ Here's a list of books that have been recommended to me. I haven't read all of t
 * [These books and resources will help you understand anti-racism from Natasha Mwansa](https://www.standard.co.uk/lifestyle/books/book-resources-racism-a4457241.html)
 * [Anti-racism: What you can do from Beth Brown](https://medium.com/@bbrownie.bb/anti-racism-what-you-can-do-922b22d480bc)
 * [#ICantBreathe from Annette Joseph](https://medium.com/@Diversenett/icantbreathe-704081cc0d8f)
-* [Checklist for white allies against racism by John Raible](https://web.cortland.edu/russellk/courses/hdouts/raible.htm)
+* [Checklist for allies against racism by John Raible](https://johnraible.wordpress.com/checklist-for-allies-against-racism/)
 
 ## More books about racism
 
