@@ -8,7 +8,6 @@ tags:
 excerpt: "Travelling to Leeds, my first design history post and an anti-racism reading list."
 image: "welsh-plural-book.jpeg"
 image-alt: "A book titled Welsh [Plural] on a grey train seat table."
-last_modified_at: 9 November 2026
 ---
 
 {{ excerpt }}
